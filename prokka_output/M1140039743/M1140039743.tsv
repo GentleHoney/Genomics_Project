@@ -1,0 +1,4159 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DHBFGMFK_00001	gene	630				
+DHBFGMFK_00001	CDS	630				hypothetical protein
+DHBFGMFK_00002	gene	90				
+DHBFGMFK_00002	CDS	90				hypothetical protein
+DHBFGMFK_00003	gene	1833	LIAS			
+DHBFGMFK_00003	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+DHBFGMFK_00004	gene	1158	pntA_1			
+DHBFGMFK_00004	CDS	1158	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+DHBFGMFK_00005	gene	315	pntA_2			
+DHBFGMFK_00005	CDS	315	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+DHBFGMFK_00006	gene	1533	pntB			
+DHBFGMFK_00006	CDS	1533	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+DHBFGMFK_00007	gene	1665	lcfB			
+DHBFGMFK_00007	CDS	1665	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+DHBFGMFK_00008	gene	1248	lolE_1			
+DHBFGMFK_00008	CDS	1248	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+DHBFGMFK_00009	gene	2055	htpG			
+DHBFGMFK_00009	CDS	2055	htpG			Chaperone protein HtpG
+DHBFGMFK_00010	gene	1455	pepD_1			
+DHBFGMFK_00010	CDS	1455	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+DHBFGMFK_00011	gene	231				
+DHBFGMFK_00011	CDS	231				hypothetical protein
+DHBFGMFK_00012	gene	606				
+DHBFGMFK_00012	CDS	606				hypothetical protein
+DHBFGMFK_00013	gene	636	nth			
+DHBFGMFK_00013	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+DHBFGMFK_00014	gene	711				
+DHBFGMFK_00014	CDS	711				hypothetical protein
+DHBFGMFK_00015	gene	648				
+DHBFGMFK_00015	CDS	648				hypothetical protein
+DHBFGMFK_00016	gene	2463	pheT			
+DHBFGMFK_00016	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+DHBFGMFK_00017	gene	726				
+DHBFGMFK_00017	CDS	726			COG0217	putative transcriptional regulatory protein
+DHBFGMFK_00018	gene	387				
+DHBFGMFK_00018	CDS	387				hypothetical protein
+DHBFGMFK_00019	gene	1782	lepA			
+DHBFGMFK_00019	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+DHBFGMFK_00020	gene	603				
+DHBFGMFK_00020	CDS	603				hypothetical protein
+DHBFGMFK_00021	gene	2181	bamA_1			
+DHBFGMFK_00021	CDS	2181	bamA_1			Outer membrane protein assembly factor BamA
+DHBFGMFK_00022	gene	465				
+DHBFGMFK_00022	CDS	465				hypothetical protein
+DHBFGMFK_00023	gene	807	yycJ			
+DHBFGMFK_00023	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+DHBFGMFK_00024	gene	2136				
+DHBFGMFK_00024	CDS	2136				hypothetical protein
+DHBFGMFK_00025	gene	2118				
+DHBFGMFK_00025	CDS	2118				hypothetical protein
+DHBFGMFK_00026	gene	264	rpmB			
+DHBFGMFK_00026	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+DHBFGMFK_00027	gene	189	rpmG2			
+DHBFGMFK_00027	CDS	189	rpmG2			50S ribosomal protein L33 2
+DHBFGMFK_00028	gene	159				
+DHBFGMFK_00028	CDS	159				hypothetical protein
+DHBFGMFK_00029	gene	957	ftsY			
+DHBFGMFK_00029	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+DHBFGMFK_00030	gene	1317	rimO			
+DHBFGMFK_00030	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+DHBFGMFK_00031	gene	294	hup_1			
+DHBFGMFK_00031	CDS	294	hup_1		COG0776	DNA-binding protein HU
+DHBFGMFK_00032	gene	1374	ihfA			
+DHBFGMFK_00032	CDS	1374	ihfA			Integration host factor subunit alpha
+DHBFGMFK_00033	gene	996				
+DHBFGMFK_00033	CDS	996				hypothetical protein
+DHBFGMFK_00034	gene	870				
+DHBFGMFK_00034	CDS	870				hypothetical protein
+DHBFGMFK_00035	gene	1107				
+DHBFGMFK_00035	CDS	1107				hypothetical protein
+DHBFGMFK_00036	gene	999				
+DHBFGMFK_00036	CDS	999				hypothetical protein
+DHBFGMFK_00037	gene	1029				
+DHBFGMFK_00037	CDS	1029				hypothetical protein
+DHBFGMFK_00038	gene	693				
+DHBFGMFK_00038	CDS	693				hypothetical protein
+DHBFGMFK_00039	gene	2562				
+DHBFGMFK_00039	CDS	2562				hypothetical protein
+DHBFGMFK_00040	gene	687				
+DHBFGMFK_00040	CDS	687				hypothetical protein
+DHBFGMFK_00041	gene	1236	queA_1			
+DHBFGMFK_00041	CDS	1236	queA_1	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+DHBFGMFK_00042	gene	1941	nadE			
+DHBFGMFK_00042	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+DHBFGMFK_00043	gene	891				
+DHBFGMFK_00043	CDS	891				hypothetical protein
+DHBFGMFK_00044	gene	2676	gyrA			
+DHBFGMFK_00044	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+DHBFGMFK_00045	gene	1170				
+DHBFGMFK_00045	CDS	1170				hypothetical protein
+DHBFGMFK_00046	gene	1209				
+DHBFGMFK_00046	CDS	1209				hypothetical protein
+DHBFGMFK_00047	gene	1254				
+DHBFGMFK_00047	CDS	1254				hypothetical protein
+DHBFGMFK_00048	gene	504				
+DHBFGMFK_00048	CDS	504				hypothetical protein
+DHBFGMFK_00049	gene	480	smpB			
+DHBFGMFK_00049	CDS	480	smpB		COG0691	SsrA-binding protein
+DHBFGMFK_00050	gene	405				
+DHBFGMFK_00050	CDS	405				hypothetical protein
+DHBFGMFK_00051	gene	855	map_1			
+DHBFGMFK_00051	CDS	855	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+DHBFGMFK_00052	gene	1026	tsaD			
+DHBFGMFK_00052	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+DHBFGMFK_00053	gene	492	pncC			
+DHBFGMFK_00053	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+DHBFGMFK_00054	gene	1482	degQ			
+DHBFGMFK_00054	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+DHBFGMFK_00055	gene	1026	ansA			
+DHBFGMFK_00055	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+DHBFGMFK_00056	gene	2061	btuB_1			
+DHBFGMFK_00056	CDS	2061	btuB_1			Vitamin B12 transporter BtuB
+DHBFGMFK_00057	gene	540				
+DHBFGMFK_00057	CDS	540				hypothetical protein
+DHBFGMFK_00058	gene	1986	rho			
+DHBFGMFK_00058	CDS	1986	rho	3.6.4.-		Transcription termination factor Rho
+DHBFGMFK_00059	gene	240				
+DHBFGMFK_00059	CDS	240				hypothetical protein
+DHBFGMFK_00060	gene	579				
+DHBFGMFK_00060	CDS	579		2.3.1.-	COG1670	Acetyltransferase
+DHBFGMFK_00061	gene	510				
+DHBFGMFK_00061	CDS	510				hypothetical protein
+DHBFGMFK_00062	gene	90				
+DHBFGMFK_00062	CDS	90				hypothetical protein
+DHBFGMFK_00063	gene	654	rbr			
+DHBFGMFK_00063	CDS	654	rbr		COG1592	Rubrerythrin
+DHBFGMFK_00064	gene	74				
+DHBFGMFK_00064	tRNA	74				tRNA-Lys(ctt)
+DHBFGMFK_00065	gene	987	msrA			
+DHBFGMFK_00065	CDS	987	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+DHBFGMFK_00066	gene	1164				
+DHBFGMFK_00066	CDS	1164				hypothetical protein
+DHBFGMFK_00067	gene	546				
+DHBFGMFK_00067	CDS	546				hypothetical protein
+DHBFGMFK_00068	gene	486	ftnA			
+DHBFGMFK_00068	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+DHBFGMFK_00069	gene	936	arnC_1			
+DHBFGMFK_00069	CDS	936	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+DHBFGMFK_00070	gene	1212				
+DHBFGMFK_00070	CDS	1212				hypothetical protein
+DHBFGMFK_00071	gene	390				
+DHBFGMFK_00071	CDS	390				hypothetical protein
+DHBFGMFK_00072	gene	1038	pheS			
+DHBFGMFK_00072	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+DHBFGMFK_00073	gene	1356				
+DHBFGMFK_00073	CDS	1356				hypothetical protein
+DHBFGMFK_00074	gene	852				
+DHBFGMFK_00074	CDS	852				hypothetical protein
+DHBFGMFK_00075	gene	1026	murB			
+DHBFGMFK_00075	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+DHBFGMFK_00076	gene	774	rbn			
+DHBFGMFK_00076	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+DHBFGMFK_00077	gene	294				
+DHBFGMFK_00077	CDS	294				hypothetical protein
+DHBFGMFK_00078	gene	369				
+DHBFGMFK_00078	CDS	369				hypothetical protein
+DHBFGMFK_00079	gene	216				
+DHBFGMFK_00079	CDS	216				hypothetical protein
+DHBFGMFK_00080	gene	516				
+DHBFGMFK_00080	CDS	516				hypothetical protein
+DHBFGMFK_00081	gene	291	yqgF			
+DHBFGMFK_00081	CDS	291	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+DHBFGMFK_00082	gene	561	def			
+DHBFGMFK_00082	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+DHBFGMFK_00083	gene	1965	cpoB			
+DHBFGMFK_00083	CDS	1965	cpoB			Cell division coordinator CpoB
+DHBFGMFK_00084	gene	588				
+DHBFGMFK_00084	CDS	588				hypothetical protein
+DHBFGMFK_00085	gene	456				
+DHBFGMFK_00085	CDS	456				hypothetical protein
+DHBFGMFK_00086	gene	564				
+DHBFGMFK_00086	CDS	564				hypothetical protein
+DHBFGMFK_00087	gene	573				
+DHBFGMFK_00087	CDS	573				hypothetical protein
+DHBFGMFK_00088	gene	405				
+DHBFGMFK_00088	CDS	405				hypothetical protein
+DHBFGMFK_00089	gene	768				
+DHBFGMFK_00089	CDS	768				hypothetical protein
+DHBFGMFK_00090	gene	1965	thrS			
+DHBFGMFK_00090	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+DHBFGMFK_00091	gene	2061	pat			
+DHBFGMFK_00091	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+DHBFGMFK_00092	gene	1812	ettA			
+DHBFGMFK_00092	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+DHBFGMFK_00093	gene	615	engB			
+DHBFGMFK_00093	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+DHBFGMFK_00094	gene	615	recR			
+DHBFGMFK_00094	CDS	615	recR		COG0353	Recombination protein RecR
+DHBFGMFK_00095	gene	423				
+DHBFGMFK_00095	CDS	423				hypothetical protein
+DHBFGMFK_00096	gene	1194				
+DHBFGMFK_00096	CDS	1194				hypothetical protein
+DHBFGMFK_00097	gene	516	speG			
+DHBFGMFK_00097	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+DHBFGMFK_00098	gene	76				
+DHBFGMFK_00098	tRNA	76				tRNA-Asp(gtc)
+DHBFGMFK_00099	gene	76				
+DHBFGMFK_00099	tRNA	76				tRNA-Asp(gtc)
+DHBFGMFK_00100	gene	75				
+DHBFGMFK_00100	tRNA	75				tRNA-Thr(tgt)
+DHBFGMFK_00101	gene	528				
+DHBFGMFK_00101	CDS	528				hypothetical protein
+DHBFGMFK_00102	gene	783				
+DHBFGMFK_00102	CDS	783				hypothetical protein
+DHBFGMFK_00103	gene	519	kdsC			
+DHBFGMFK_00103	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+DHBFGMFK_00104	gene	573	yhdE			
+DHBFGMFK_00104	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+DHBFGMFK_00105	gene	1107				
+DHBFGMFK_00105	CDS	1107				hypothetical protein
+DHBFGMFK_00106	gene	990				
+DHBFGMFK_00106	CDS	990				hypothetical protein
+DHBFGMFK_00107	gene	1515				
+DHBFGMFK_00107	CDS	1515				hypothetical protein
+DHBFGMFK_00108	gene	981				
+DHBFGMFK_00108	CDS	981				hypothetical protein
+DHBFGMFK_00109	gene	1398				
+DHBFGMFK_00109	CDS	1398				hypothetical protein
+DHBFGMFK_00110	gene	978	pfkA			
+DHBFGMFK_00110	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+DHBFGMFK_00111	gene	1527	atpD			
+DHBFGMFK_00111	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+DHBFGMFK_00112	gene	240	atpC			
+DHBFGMFK_00112	CDS	240	atpC			ATP synthase epsilon chain
+DHBFGMFK_00113	gene	393				
+DHBFGMFK_00113	CDS	393				hypothetical protein
+DHBFGMFK_00114	gene	1032	atpB			
+DHBFGMFK_00114	CDS	1032	atpB			ATP synthase subunit a
+DHBFGMFK_00115	gene	240	atpH_1			
+DHBFGMFK_00115	CDS	240	atpH_1			ATP synthase subunit c
+DHBFGMFK_00116	gene	519	atpF			
+DHBFGMFK_00116	CDS	519	atpF		COG0711	ATP synthase subunit b
+DHBFGMFK_00117	gene	534	atpH_2			
+DHBFGMFK_00117	CDS	534	atpH_2		COG0712	ATP synthase subunit delta
+DHBFGMFK_00118	gene	1584	atpA			
+DHBFGMFK_00118	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+DHBFGMFK_00119	gene	969	atpG			
+DHBFGMFK_00119	CDS	969	atpG		COG0224	ATP synthase gamma chain
+DHBFGMFK_00120	gene	264				
+DHBFGMFK_00120	CDS	264				hypothetical protein
+DHBFGMFK_00121	gene	1488				
+DHBFGMFK_00121	CDS	1488				hypothetical protein
+DHBFGMFK_00122	gene	813	glgA			
+DHBFGMFK_00122	CDS	813	glgA	2.4.1.21		Glycogen synthase
+DHBFGMFK_00123	gene	858	panC			
+DHBFGMFK_00123	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+DHBFGMFK_00124	gene	345	panD			
+DHBFGMFK_00124	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+DHBFGMFK_00125	gene	432	accB			
+DHBFGMFK_00125	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+DHBFGMFK_00126	gene	159				
+DHBFGMFK_00126	CDS	159				hypothetical protein
+DHBFGMFK_00127	gene	1554	pccB			
+DHBFGMFK_00127	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+DHBFGMFK_00128	gene	405	epi			
+DHBFGMFK_00128	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+DHBFGMFK_00129	gene	2364				
+DHBFGMFK_00129	CDS	2364				hypothetical protein
+DHBFGMFK_00130	gene	1977	fbp			
+DHBFGMFK_00130	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+DHBFGMFK_00131	gene	1125				
+DHBFGMFK_00131	CDS	1125				hypothetical protein
+DHBFGMFK_00132	gene	1320	lysC			
+DHBFGMFK_00132	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+DHBFGMFK_00133	gene	708	btuD_1			
+DHBFGMFK_00133	CDS	708	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+DHBFGMFK_00134	gene	1296	deaD_1			
+DHBFGMFK_00134	CDS	1296	deaD_1	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+DHBFGMFK_00135	gene	1164				
+DHBFGMFK_00135	CDS	1164				hypothetical protein
+DHBFGMFK_00136	gene	1128	tgt			
+DHBFGMFK_00136	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+DHBFGMFK_00137	gene	2424	lon1			
+DHBFGMFK_00137	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+DHBFGMFK_00138	gene	645	yfiC			
+DHBFGMFK_00138	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+DHBFGMFK_00139	gene	1464				
+DHBFGMFK_00139	CDS	1464				hypothetical protein
+DHBFGMFK_00140	gene	1077	mnmA			
+DHBFGMFK_00140	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+DHBFGMFK_00141	gene	705	hxpA			
+DHBFGMFK_00141	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+DHBFGMFK_00142	gene	1356	pgi			
+DHBFGMFK_00142	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+DHBFGMFK_00143	gene	88				
+DHBFGMFK_00143	tRNA	88				tRNA-Ser(gct)
+DHBFGMFK_00144	gene	73				
+DHBFGMFK_00144	tRNA	73				tRNA-Glu(ctc)
+DHBFGMFK_00145	gene	1488				
+DHBFGMFK_00145	CDS	1488				hypothetical protein
+DHBFGMFK_00146	gene	444				
+DHBFGMFK_00146	CDS	444				hypothetical protein
+DHBFGMFK_00147	gene	435				
+DHBFGMFK_00147	CDS	435				hypothetical protein
+DHBFGMFK_00148	gene	903	rnfB			
+DHBFGMFK_00148	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+DHBFGMFK_00149	gene	1353	rnfC			
+DHBFGMFK_00149	CDS	1353	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+DHBFGMFK_00150	gene	1035	rnfD			
+DHBFGMFK_00150	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+DHBFGMFK_00151	gene	672	rsxG			
+DHBFGMFK_00151	CDS	672	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+DHBFGMFK_00152	gene	591	rnfE			
+DHBFGMFK_00152	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+DHBFGMFK_00153	gene	603	rnfA			
+DHBFGMFK_00153	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+DHBFGMFK_00154	gene	1041	galE			
+DHBFGMFK_00154	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+DHBFGMFK_00155	gene	2868	uvrA_1			
+DHBFGMFK_00155	CDS	2868	uvrA_1		COG0178	UvrABC system protein A
+DHBFGMFK_00156	gene	720				
+DHBFGMFK_00156	CDS	720				hypothetical protein
+DHBFGMFK_00157	gene	1356				
+DHBFGMFK_00157	CDS	1356				hypothetical protein
+DHBFGMFK_00158	gene	753				
+DHBFGMFK_00158	CDS	753				hypothetical protein
+DHBFGMFK_00159	gene	1518	dtpA			
+DHBFGMFK_00159	CDS	1518	dtpA		COG3104	Dipeptide and tripeptide permease A
+DHBFGMFK_00160	gene	483				
+DHBFGMFK_00160	CDS	483				hypothetical protein
+DHBFGMFK_00161	gene	1932				
+DHBFGMFK_00161	CDS	1932				hypothetical protein
+DHBFGMFK_00162	gene	1437	radA			
+DHBFGMFK_00162	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+DHBFGMFK_00163	gene	912				
+DHBFGMFK_00163	CDS	912				hypothetical protein
+DHBFGMFK_00164	gene	2196				
+DHBFGMFK_00164	CDS	2196				hypothetical protein
+DHBFGMFK_00165	gene	1227	cls			
+DHBFGMFK_00165	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+DHBFGMFK_00166	gene	975	kdsD			
+DHBFGMFK_00166	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+DHBFGMFK_00167	gene	756	kdsA_1			
+DHBFGMFK_00167	CDS	756	kdsA_1	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+DHBFGMFK_00168	gene	159				
+DHBFGMFK_00168	CDS	159				hypothetical protein
+DHBFGMFK_00169	gene	279				
+DHBFGMFK_00169	CDS	279				hypothetical protein
+DHBFGMFK_00170	gene	74				
+DHBFGMFK_00170	tRNA	74				tRNA-Pro(tgg)
+DHBFGMFK_00171	gene	1188				
+DHBFGMFK_00171	CDS	1188				hypothetical protein
+DHBFGMFK_00172	gene	2739	valS			
+DHBFGMFK_00172	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+DHBFGMFK_00173	gene	828	mazG			
+DHBFGMFK_00173	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+DHBFGMFK_00174	gene	564				
+DHBFGMFK_00174	CDS	564				hypothetical protein
+DHBFGMFK_00175	gene	915	rnz			
+DHBFGMFK_00175	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+DHBFGMFK_00176	gene	366				
+DHBFGMFK_00176	CDS	366				hypothetical protein
+DHBFGMFK_00177	gene	1536				
+DHBFGMFK_00177	CDS	1536				hypothetical protein
+DHBFGMFK_00178	gene	561	sigW			
+DHBFGMFK_00178	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+DHBFGMFK_00179	gene	366				
+DHBFGMFK_00179	CDS	366				hypothetical protein
+DHBFGMFK_00180	gene	441				
+DHBFGMFK_00180	CDS	441				hypothetical protein
+DHBFGMFK_00181	gene	2610	mutS2			
+DHBFGMFK_00181	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+DHBFGMFK_00182	gene	86				
+DHBFGMFK_00182	tRNA	86				tRNA-Ser(tga)
+DHBFGMFK_00183	gene	1338				
+DHBFGMFK_00183	CDS	1338				hypothetical protein
+DHBFGMFK_00184	gene	75				
+DHBFGMFK_00184	tRNA	75				tRNA-Phe(gaa)
+DHBFGMFK_00185	gene	606	tsaC			
+DHBFGMFK_00185	CDS	606	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+DHBFGMFK_00186	gene	1785	clcB			
+DHBFGMFK_00186	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+DHBFGMFK_00187	gene	963	fmt			
+DHBFGMFK_00187	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+DHBFGMFK_00188	gene	999	menE			
+DHBFGMFK_00188	CDS	999	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+DHBFGMFK_00189	gene	360				
+DHBFGMFK_00189	CDS	360				hypothetical protein
+DHBFGMFK_00190	gene	996	gpsA			
+DHBFGMFK_00190	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+DHBFGMFK_00191	gene	1731	lysS			
+DHBFGMFK_00191	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+DHBFGMFK_00192	gene	717				
+DHBFGMFK_00192	CDS	717		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+DHBFGMFK_00193	gene	1722				
+DHBFGMFK_00193	CDS	1722				hypothetical protein
+DHBFGMFK_00194	gene	1479	cstA			
+DHBFGMFK_00194	CDS	1479	cstA		COG1966	Peptide transporter CstA
+DHBFGMFK_00195	gene	495				
+DHBFGMFK_00195	CDS	495				hypothetical protein
+DHBFGMFK_00196	gene	849	nadC			
+DHBFGMFK_00196	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+DHBFGMFK_00197	gene	1623				
+DHBFGMFK_00197	CDS	1623				hypothetical protein
+DHBFGMFK_00198	gene	1632	pepDA			
+DHBFGMFK_00198	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+DHBFGMFK_00199	gene	168				
+DHBFGMFK_00199	CDS	168				hypothetical protein
+DHBFGMFK_00200	gene	1254	mltF			
+DHBFGMFK_00200	CDS	1254	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+DHBFGMFK_00201	gene	459	pyrI			
+DHBFGMFK_00201	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+DHBFGMFK_00202	gene	948	pyrB			
+DHBFGMFK_00202	CDS	948	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+DHBFGMFK_00203	gene	2304	mrcA_1			
+DHBFGMFK_00203	CDS	2304	mrcA_1		COG5009	Penicillin-binding protein 1A
+DHBFGMFK_00204	gene	987				
+DHBFGMFK_00204	CDS	987				hypothetical protein
+DHBFGMFK_00205	gene	1059	rfbM			
+DHBFGMFK_00205	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+DHBFGMFK_00206	gene	1086	gmd			
+DHBFGMFK_00206	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+DHBFGMFK_00207	gene	1098	fcl_1			
+DHBFGMFK_00207	CDS	1098	fcl_1	1.1.1.271	COG0451	GDP-L-fucose synthase
+DHBFGMFK_00208	gene	1494				
+DHBFGMFK_00208	CDS	1494				hypothetical protein
+DHBFGMFK_00209	gene	609				
+DHBFGMFK_00209	CDS	609				hypothetical protein
+DHBFGMFK_00210	gene	2409				
+DHBFGMFK_00210	CDS	2409				hypothetical protein
+DHBFGMFK_00211	gene	621	rnd			
+DHBFGMFK_00211	CDS	621	rnd	3.1.13.5		Ribonuclease D
+DHBFGMFK_00212	gene	1182	rlmI			
+DHBFGMFK_00212	CDS	1182	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+DHBFGMFK_00213	gene	1332	tilS			
+DHBFGMFK_00213	CDS	1332	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+DHBFGMFK_00214	gene	762	lptB_1			
+DHBFGMFK_00214	CDS	762	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+DHBFGMFK_00215	gene	3348	secA			
+DHBFGMFK_00215	CDS	3348	secA			Protein translocase subunit SecA
+DHBFGMFK_00216	gene	1419	phoV			
+DHBFGMFK_00216	CDS	1419	phoV	3.1.3.1		Alkaline phosphatase PhoV
+DHBFGMFK_00217	gene	1197				
+DHBFGMFK_00217	CDS	1197				hypothetical protein
+DHBFGMFK_00218	gene	729	coaX			
+DHBFGMFK_00218	CDS	729	coaX	2.7.1.33		Type III pantothenate kinase
+DHBFGMFK_00219	gene	1296				
+DHBFGMFK_00219	CDS	1296				hypothetical protein
+DHBFGMFK_00220	gene	726				
+DHBFGMFK_00220	CDS	726				hypothetical protein
+DHBFGMFK_00221	gene	1269				
+DHBFGMFK_00221	CDS	1269				hypothetical protein
+DHBFGMFK_00222	gene	2133				
+DHBFGMFK_00222	CDS	2133				hypothetical protein
+DHBFGMFK_00223	gene	537				
+DHBFGMFK_00223	CDS	537				hypothetical protein
+DHBFGMFK_00224	gene	810				
+DHBFGMFK_00224	CDS	810				IS3 family transposase ISEnfa3
+DHBFGMFK_00225	gene	786				
+DHBFGMFK_00225	CDS	786				hypothetical protein
+DHBFGMFK_00226	gene	1545	comM			
+DHBFGMFK_00226	CDS	1545	comM		COG0606	Competence protein ComM
+DHBFGMFK_00227	gene	1224				
+DHBFGMFK_00227	CDS	1224			COG2081	putative protein
+DHBFGMFK_00228	gene	2166	ptpA			
+DHBFGMFK_00228	CDS	2166	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+DHBFGMFK_00229	gene	1638	rlmL			
+DHBFGMFK_00229	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+DHBFGMFK_00230	gene	117				
+DHBFGMFK_00230	CDS	117				hypothetical protein
+DHBFGMFK_00231	gene	717				
+DHBFGMFK_00231	CDS	717				hypothetical protein
+DHBFGMFK_00232	gene	804				
+DHBFGMFK_00232	CDS	804				hypothetical protein
+DHBFGMFK_00233	gene	933				
+DHBFGMFK_00233	CDS	933				hypothetical protein
+DHBFGMFK_00234	gene	705	gph_1			
+DHBFGMFK_00234	CDS	705	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+DHBFGMFK_00235	gene	2583				
+DHBFGMFK_00235	CDS	2583				hypothetical protein
+DHBFGMFK_00236	gene	432				
+DHBFGMFK_00236	CDS	432				hypothetical protein
+DHBFGMFK_00237	gene	1641				
+DHBFGMFK_00237	CDS	1641				hypothetical protein
+DHBFGMFK_00238	gene	2565	glgP			
+DHBFGMFK_00238	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+DHBFGMFK_00239	gene	936				
+DHBFGMFK_00239	CDS	936				hypothetical protein
+DHBFGMFK_00240	gene	1251	pgk			
+DHBFGMFK_00240	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+DHBFGMFK_00241	gene	663	queC			
+DHBFGMFK_00241	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+DHBFGMFK_00242	gene	879				
+DHBFGMFK_00242	CDS	879				hypothetical protein
+DHBFGMFK_00243	gene	2403	feoB			
+DHBFGMFK_00243	CDS	2403	feoB		COG0370	Fe(2+) transporter FeoB
+DHBFGMFK_00244	gene	756	kdsB			
+DHBFGMFK_00244	CDS	756	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+DHBFGMFK_00245	gene	1104				
+DHBFGMFK_00245	CDS	1104				hypothetical protein
+DHBFGMFK_00246	gene	2037	glgB_1			
+DHBFGMFK_00246	CDS	2037	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+DHBFGMFK_00247	gene	1152				
+DHBFGMFK_00247	CDS	1152				hypothetical protein
+DHBFGMFK_00248	gene	687				
+DHBFGMFK_00248	CDS	687				hypothetical protein
+DHBFGMFK_00249	gene	468				
+DHBFGMFK_00249	CDS	468				hypothetical protein
+DHBFGMFK_00250	gene	558	ruvC			
+DHBFGMFK_00250	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+DHBFGMFK_00251	gene	645				
+DHBFGMFK_00251	CDS	645		3.-.-.-		putative protein
+DHBFGMFK_00252	gene	624	rsmG			
+DHBFGMFK_00252	CDS	624	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+DHBFGMFK_00253	gene	834				
+DHBFGMFK_00253	CDS	834				hypothetical protein
+DHBFGMFK_00254	gene	666	vldH			
+DHBFGMFK_00254	CDS	666	vldH	3.1.3.101		Validoxylamine A 7'-phosphate phosphatase
+DHBFGMFK_00255	gene	822	panB			
+DHBFGMFK_00255	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+DHBFGMFK_00256	gene	1194				
+DHBFGMFK_00256	CDS	1194				hypothetical protein
+DHBFGMFK_00257	gene	4485				
+DHBFGMFK_00257	CDS	4485				hypothetical protein
+DHBFGMFK_00258	gene	1371	nqrA			
+DHBFGMFK_00258	CDS	1371	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+DHBFGMFK_00259	gene	1152	nqrB			
+DHBFGMFK_00259	CDS	1152	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+DHBFGMFK_00260	gene	615	nqrC			
+DHBFGMFK_00260	CDS	615	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+DHBFGMFK_00261	gene	627	nqrD			
+DHBFGMFK_00261	CDS	627	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+DHBFGMFK_00262	gene	627	nqrE			
+DHBFGMFK_00262	CDS	627	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+DHBFGMFK_00263	gene	1269	nqrF			
+DHBFGMFK_00263	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+DHBFGMFK_00264	gene	1563				
+DHBFGMFK_00264	CDS	1563				hypothetical protein
+DHBFGMFK_00265	gene	2499	clpC			
+DHBFGMFK_00265	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+DHBFGMFK_00266	gene	723				
+DHBFGMFK_00266	CDS	723				hypothetical protein
+DHBFGMFK_00267	gene	891	dapA			
+DHBFGMFK_00267	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+DHBFGMFK_00268	gene	1431	purF			
+DHBFGMFK_00268	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+DHBFGMFK_00269	gene	1539				
+DHBFGMFK_00269	CDS	1539				hypothetical protein
+DHBFGMFK_00270	gene	255				
+DHBFGMFK_00270	CDS	255				hypothetical protein
+DHBFGMFK_00271	gene	426				
+DHBFGMFK_00271	CDS	426		3.1.2.-	COG2050	Putative esterase
+DHBFGMFK_00272	gene	1110	menF_1			
+DHBFGMFK_00272	CDS	1110	menF_1	5.4.4.2		Isochorismate synthase MenF
+DHBFGMFK_00273	gene	1602	menD			
+DHBFGMFK_00273	CDS	1602	menD	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+DHBFGMFK_00274	gene	582				
+DHBFGMFK_00274	CDS	582				hypothetical protein
+DHBFGMFK_00275	gene	1269				
+DHBFGMFK_00275	CDS	1269				hypothetical protein
+DHBFGMFK_00276	gene	399				
+DHBFGMFK_00276	CDS	399				hypothetical protein
+DHBFGMFK_00277	gene	1320	dbpA			
+DHBFGMFK_00277	CDS	1320	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+DHBFGMFK_00278	gene	1068	serC			
+DHBFGMFK_00278	CDS	1068	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+DHBFGMFK_00279	gene	918				
+DHBFGMFK_00279	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+DHBFGMFK_00280	gene	1248				
+DHBFGMFK_00280	CDS	1248				hypothetical protein
+DHBFGMFK_00281	gene	585	yigZ			
+DHBFGMFK_00281	CDS	585	yigZ		COG1739	IMPACT family member YigZ
+DHBFGMFK_00282	gene	88				
+DHBFGMFK_00282	tRNA	88				tRNA-Ser(cga)
+DHBFGMFK_00283	gene	864	sigA_1			
+DHBFGMFK_00283	CDS	864	sigA_1			RNA polymerase sigma factor SigA
+DHBFGMFK_00284	gene	393				
+DHBFGMFK_00284	CDS	393				hypothetical protein
+DHBFGMFK_00285	gene	894				
+DHBFGMFK_00285	CDS	894				hypothetical protein
+DHBFGMFK_00286	gene	495				
+DHBFGMFK_00286	CDS	495				hypothetical protein
+DHBFGMFK_00287	gene	273				
+DHBFGMFK_00287	CDS	273				hypothetical protein
+DHBFGMFK_00288	gene	531				
+DHBFGMFK_00288	CDS	531				hypothetical protein
+DHBFGMFK_00289	gene	1959				
+DHBFGMFK_00289	CDS	1959				hypothetical protein
+DHBFGMFK_00290	gene	612				
+DHBFGMFK_00290	CDS	612				hypothetical protein
+DHBFGMFK_00291	gene	513				
+DHBFGMFK_00291	CDS	513				hypothetical protein
+DHBFGMFK_00292	gene	1275	purA			
+DHBFGMFK_00292	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+DHBFGMFK_00293	gene	1362	hisS			
+DHBFGMFK_00293	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+DHBFGMFK_00294	gene	555	rbr3A			
+DHBFGMFK_00294	CDS	555	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+DHBFGMFK_00295	gene	1176	nspC			
+DHBFGMFK_00295	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+DHBFGMFK_00296	gene	74				
+DHBFGMFK_00296	tRNA	74				tRNA-Gly(gcc)
+DHBFGMFK_00297	gene	84				
+DHBFGMFK_00297	tRNA	84				tRNA-Leu(cag)
+DHBFGMFK_00298	gene	84				
+DHBFGMFK_00298	tRNA	84				tRNA-Leu(gag)
+DHBFGMFK_00299	gene	74				
+DHBFGMFK_00299	tRNA	74				tRNA-Gly(gcc)
+DHBFGMFK_00300	gene	549				
+DHBFGMFK_00300	CDS	549				hypothetical protein
+DHBFGMFK_00301	gene	399				
+DHBFGMFK_00301	CDS	399				Single-stranded DNA-binding protein
+DHBFGMFK_00302	gene	1317				
+DHBFGMFK_00302	CDS	1317				hypothetical protein
+DHBFGMFK_00303	gene	624				
+DHBFGMFK_00303	CDS	624				hypothetical protein
+DHBFGMFK_00304	gene	792	rsmA			
+DHBFGMFK_00304	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+DHBFGMFK_00305	gene	561	frr			
+DHBFGMFK_00305	CDS	561	frr		COG0233	Ribosome-recycling factor
+DHBFGMFK_00306	gene	933	rsgA			
+DHBFGMFK_00306	CDS	933	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+DHBFGMFK_00307	gene	1335				
+DHBFGMFK_00307	CDS	1335				hypothetical protein
+DHBFGMFK_00308	gene	816				
+DHBFGMFK_00308	CDS	816				hypothetical protein
+DHBFGMFK_00309	gene	918				
+DHBFGMFK_00309	CDS	918				hypothetical protein
+DHBFGMFK_00310	gene	2205	dap4			
+DHBFGMFK_00310	CDS	2205	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+DHBFGMFK_00311	gene	471	rlmH			
+DHBFGMFK_00311	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+DHBFGMFK_00312	gene	399				
+DHBFGMFK_00312	CDS	399				hypothetical protein
+DHBFGMFK_00313	gene	1749	pgcA			
+DHBFGMFK_00313	CDS	1749	pgcA	5.4.2.2		Phosphoglucomutase
+DHBFGMFK_00314	gene	1524				
+DHBFGMFK_00314	CDS	1524				hypothetical protein
+DHBFGMFK_00315	gene	2229	relA_1			
+DHBFGMFK_00315	CDS	2229	relA_1	2.7.6.5		GTP pyrophosphokinase
+DHBFGMFK_00316	gene	732	truA			
+DHBFGMFK_00316	CDS	732	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+DHBFGMFK_00317	gene	1506	dnaC			
+DHBFGMFK_00317	CDS	1506	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+DHBFGMFK_00318	gene	798	ispE			
+DHBFGMFK_00318	CDS	798	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+DHBFGMFK_00319	gene	819				
+DHBFGMFK_00319	CDS	819				hypothetical protein
+DHBFGMFK_00320	gene	546	rfbC			
+DHBFGMFK_00320	CDS	546	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+DHBFGMFK_00321	gene	1059				
+DHBFGMFK_00321	CDS	1059				hypothetical protein
+DHBFGMFK_00322	gene	522				
+DHBFGMFK_00322	CDS	522				hypothetical protein
+DHBFGMFK_00323	gene	477	cdd			
+DHBFGMFK_00323	CDS	477	cdd	3.5.4.5	COG0295	Cytidine deaminase
+DHBFGMFK_00324	gene	1680				
+DHBFGMFK_00324	CDS	1680				hypothetical protein
+DHBFGMFK_00325	gene	549				
+DHBFGMFK_00325	CDS	549				hypothetical protein
+DHBFGMFK_00326	gene	2166	mutB			
+DHBFGMFK_00326	CDS	2166	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+DHBFGMFK_00327	gene	1866	icmF			
+DHBFGMFK_00327	CDS	1866	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+DHBFGMFK_00328	gene	372	flK			
+DHBFGMFK_00328	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+DHBFGMFK_00329	gene	630				
+DHBFGMFK_00329	CDS	630				hypothetical protein
+DHBFGMFK_00330	gene	801	rlmB_1			
+DHBFGMFK_00330	CDS	801	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+DHBFGMFK_00331	gene	792	rlmB_2			
+DHBFGMFK_00331	CDS	792	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+DHBFGMFK_00332	gene	375				
+DHBFGMFK_00332	CDS	375				hypothetical protein
+DHBFGMFK_00333	gene	1047	menC			
+DHBFGMFK_00333	CDS	1047	menC	4.2.1.113		o-succinylbenzoate synthase
+DHBFGMFK_00334	gene	819	menB			
+DHBFGMFK_00334	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+DHBFGMFK_00335	gene	333				
+DHBFGMFK_00335	CDS	333				hypothetical protein
+DHBFGMFK_00336	gene	303				
+DHBFGMFK_00336	CDS	303				hypothetical protein
+DHBFGMFK_00337	gene	1761	aspS			
+DHBFGMFK_00337	CDS	1761	aspS	6.1.1.12		Aspartate--tRNA ligase
+DHBFGMFK_00338	gene	384				
+DHBFGMFK_00338	CDS	384				hypothetical protein
+DHBFGMFK_00339	gene	1245				
+DHBFGMFK_00339	CDS	1245				hypothetical protein
+DHBFGMFK_00340	gene	1902	yidC			
+DHBFGMFK_00340	CDS	1902	yidC			Membrane protein insertase YidC
+DHBFGMFK_00341	gene	2169	dpp5			
+DHBFGMFK_00341	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+DHBFGMFK_00342	gene	1620				
+DHBFGMFK_00342	CDS	1620				hypothetical protein
+DHBFGMFK_00343	gene	3246	recB			
+DHBFGMFK_00343	CDS	3246	recB	3.1.11.5		RecBCD enzyme subunit RecB
+DHBFGMFK_00344	gene	2901	rexB			
+DHBFGMFK_00344	CDS	2901	rexB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+DHBFGMFK_00345	gene	111				
+DHBFGMFK_00345	CDS	111				hypothetical protein
+DHBFGMFK_00346	gene	1389	purD			
+DHBFGMFK_00346	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+DHBFGMFK_00347	gene	951				
+DHBFGMFK_00347	CDS	951				hypothetical protein
+DHBFGMFK_00348	gene	408	yqaA			
+DHBFGMFK_00348	CDS	408	yqaA		COG1238	Inner membrane protein YqaA
+DHBFGMFK_00349	gene	3336				
+DHBFGMFK_00349	CDS	3336				hypothetical protein
+DHBFGMFK_00350	gene	552				
+DHBFGMFK_00350	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+DHBFGMFK_00351	gene	966	queG			
+DHBFGMFK_00351	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+DHBFGMFK_00352	gene	339				
+DHBFGMFK_00352	CDS	339				hypothetical protein
+DHBFGMFK_00353	gene	1251	hutI			
+DHBFGMFK_00353	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+DHBFGMFK_00354	gene	1476	hutH			
+DHBFGMFK_00354	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+DHBFGMFK_00355	gene	2007	hutU			
+DHBFGMFK_00355	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+DHBFGMFK_00356	gene	1713				
+DHBFGMFK_00356	CDS	1713				hypothetical protein
+DHBFGMFK_00357	gene	1593	nadB			
+DHBFGMFK_00357	CDS	1593	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+DHBFGMFK_00358	gene	561				
+DHBFGMFK_00358	CDS	561				hypothetical protein
+DHBFGMFK_00359	gene	270				
+DHBFGMFK_00359	CDS	270				hypothetical protein
+DHBFGMFK_00360	gene	345				
+DHBFGMFK_00360	CDS	345				hypothetical protein
+DHBFGMFK_00361	gene	699	copR			
+DHBFGMFK_00361	CDS	699	copR			Transcriptional activator protein CopR
+DHBFGMFK_00362	gene	1548	sasA_1			
+DHBFGMFK_00362	CDS	1548	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+DHBFGMFK_00363	gene	687				
+DHBFGMFK_00363	CDS	687				hypothetical protein
+DHBFGMFK_00364	gene	2160	fusA_1			
+DHBFGMFK_00364	CDS	2160	fusA_1		COG0480	Elongation factor G
+DHBFGMFK_00365	gene	1134	hemW			
+DHBFGMFK_00365	CDS	1134	hemW		COG0635	Heme chaperone HemW
+DHBFGMFK_00366	gene	171				
+DHBFGMFK_00366	CDS	171				hypothetical protein
+DHBFGMFK_00367	gene	1578	glcA			
+DHBFGMFK_00367	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+DHBFGMFK_00368	gene	2205				
+DHBFGMFK_00368	CDS	2205				hypothetical protein
+DHBFGMFK_00369	gene	2409	btuB_2			
+DHBFGMFK_00369	CDS	2409	btuB_2			Vitamin B12 transporter BtuB
+DHBFGMFK_00370	gene	1017				
+DHBFGMFK_00370	CDS	1017				hypothetical protein
+DHBFGMFK_00371	gene	1944	rlhA			
+DHBFGMFK_00371	CDS	1944	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+DHBFGMFK_00372	gene	147				
+DHBFGMFK_00372	CDS	147				hypothetical protein
+DHBFGMFK_00373	gene	249				
+DHBFGMFK_00373	CDS	249				hypothetical protein
+DHBFGMFK_00374	gene	549				
+DHBFGMFK_00374	CDS	549				hypothetical protein
+DHBFGMFK_00375	gene	735				
+DHBFGMFK_00375	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+DHBFGMFK_00376	gene	1767	sppA			
+DHBFGMFK_00376	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+DHBFGMFK_00377	gene	1173	lpxK			
+DHBFGMFK_00377	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+DHBFGMFK_00378	gene	660	punA			
+DHBFGMFK_00378	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+DHBFGMFK_00379	gene	1116	thiL			
+DHBFGMFK_00379	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+DHBFGMFK_00380	gene	1344	glyA			
+DHBFGMFK_00380	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+DHBFGMFK_00381	gene	360	yjbR			
+DHBFGMFK_00381	CDS	360	yjbR		COG2315	putative protein YjbR
+DHBFGMFK_00382	gene	579				
+DHBFGMFK_00382	CDS	579				hypothetical protein
+DHBFGMFK_00383	gene	1020				
+DHBFGMFK_00383	CDS	1020				hypothetical protein
+DHBFGMFK_00384	gene	1332	mtaB			
+DHBFGMFK_00384	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+DHBFGMFK_00385	gene	195				
+DHBFGMFK_00385	CDS	195				hypothetical protein
+DHBFGMFK_00386	gene	207				
+DHBFGMFK_00386	CDS	207				hypothetical protein
+DHBFGMFK_00387	gene	1779	rpsA			
+DHBFGMFK_00387	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+DHBFGMFK_00388	gene	273				
+DHBFGMFK_00388	CDS	273				hypothetical protein
+DHBFGMFK_00389	gene	873	sigA_2			
+DHBFGMFK_00389	CDS	873	sigA_2		COG0568	RNA polymerase sigma factor SigA
+DHBFGMFK_00390	gene	780	zupT			
+DHBFGMFK_00390	CDS	780	zupT		COG0428	Zinc transporter ZupT
+DHBFGMFK_00391	gene	1011	gapA			
+DHBFGMFK_00391	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+DHBFGMFK_00392	gene	156				
+DHBFGMFK_00392	CDS	156				hypothetical protein
+DHBFGMFK_00393	gene	423	mscL			
+DHBFGMFK_00393	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+DHBFGMFK_00394	gene	1038	lplJ			
+DHBFGMFK_00394	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+DHBFGMFK_00395	gene	1095	gcvT			
+DHBFGMFK_00395	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+DHBFGMFK_00396	gene	387	gcvH			
+DHBFGMFK_00396	CDS	387	gcvH			Glycine cleavage system H protein
+DHBFGMFK_00397	gene	1326	gcvPA			
+DHBFGMFK_00397	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+DHBFGMFK_00398	gene	1509	gcvPB			
+DHBFGMFK_00398	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+DHBFGMFK_00399	gene	1314	pdhD			
+DHBFGMFK_00399	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+DHBFGMFK_00400	gene	855				
+DHBFGMFK_00400	CDS	855				hypothetical protein
+DHBFGMFK_00401	gene	339				
+DHBFGMFK_00401	CDS	339				hypothetical protein
+DHBFGMFK_00402	gene	459	ogt			
+DHBFGMFK_00402	CDS	459	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+DHBFGMFK_00403	gene	1566	guaA			
+DHBFGMFK_00403	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+DHBFGMFK_00404	gene	726	murU			
+DHBFGMFK_00404	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+DHBFGMFK_00405	gene	75				
+DHBFGMFK_00405	tRNA	75				tRNA-Arg(acg)
+DHBFGMFK_00406	gene	621				
+DHBFGMFK_00406	CDS	621				hypothetical protein
+DHBFGMFK_00407	gene	1278	rarA			
+DHBFGMFK_00407	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+DHBFGMFK_00408	gene	813				
+DHBFGMFK_00408	CDS	813				hypothetical protein
+DHBFGMFK_00409	gene	801				
+DHBFGMFK_00409	CDS	801				hypothetical protein
+DHBFGMFK_00410	gene	981				
+DHBFGMFK_00410	CDS	981			COG1702	PhoH-like protein
+DHBFGMFK_00411	gene	981	purC			
+DHBFGMFK_00411	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+DHBFGMFK_00412	gene	735	ubiE			
+DHBFGMFK_00412	CDS	735	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+DHBFGMFK_00413	gene	741	aroE			
+DHBFGMFK_00413	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+DHBFGMFK_00414	gene	1203	purM			
+DHBFGMFK_00414	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+DHBFGMFK_00415	gene	1113	prfA			
+DHBFGMFK_00415	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+DHBFGMFK_00416	gene	825	pyrF			
+DHBFGMFK_00416	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+DHBFGMFK_00417	gene	108				
+DHBFGMFK_00417	CDS	108				hypothetical protein
+DHBFGMFK_00418	gene	1416				
+DHBFGMFK_00418	CDS	1416				hypothetical protein
+DHBFGMFK_00419	gene	1269	mshA_1			
+DHBFGMFK_00419	CDS	1269	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DHBFGMFK_00420	gene	1917				
+DHBFGMFK_00420	CDS	1917				hypothetical protein
+DHBFGMFK_00421	gene	933	ytlR			
+DHBFGMFK_00421	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+DHBFGMFK_00422	gene	1029	miaA_1			
+DHBFGMFK_00422	CDS	1029	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+DHBFGMFK_00423	gene	606				
+DHBFGMFK_00423	CDS	606				hypothetical protein
+DHBFGMFK_00424	gene	2064	dsbD			
+DHBFGMFK_00424	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+DHBFGMFK_00425	gene	1113	macA			
+DHBFGMFK_00425	CDS	1113	macA		COG0845	Macrolide export protein MacA
+DHBFGMFK_00426	gene	1248	macB_1			
+DHBFGMFK_00426	CDS	1248	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+DHBFGMFK_00427	gene	1260	macB_2			
+DHBFGMFK_00427	CDS	1260	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+DHBFGMFK_00428	gene	672	yknY_1			
+DHBFGMFK_00428	CDS	672	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+DHBFGMFK_00429	gene	171				
+DHBFGMFK_00429	CDS	171				hypothetical protein
+DHBFGMFK_00430	gene	2559				
+DHBFGMFK_00430	CDS	2559				hypothetical protein
+DHBFGMFK_00431	gene	2469	mrcA_2			
+DHBFGMFK_00431	CDS	2469	mrcA_2		COG5009	Penicillin-binding protein 1A
+DHBFGMFK_00432	gene	909	miaA_2			
+DHBFGMFK_00432	CDS	909	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+DHBFGMFK_00433	gene	774	lpxA_1			
+DHBFGMFK_00433	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+DHBFGMFK_00434	gene	1386	lpxC			
+DHBFGMFK_00434	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+DHBFGMFK_00435	gene	1044	lpxD			
+DHBFGMFK_00435	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+DHBFGMFK_00436	gene	1221				
+DHBFGMFK_00436	CDS	1221				hypothetical protein
+DHBFGMFK_00437	gene	1557	rapZ			
+DHBFGMFK_00437	CDS	1557	rapZ			RNase adapter protein RapZ
+DHBFGMFK_00438	gene	189				
+DHBFGMFK_00438	CDS	189				hypothetical protein
+DHBFGMFK_00439	gene	2682				
+DHBFGMFK_00439	CDS	2682				hypothetical protein
+DHBFGMFK_00440	gene	690				
+DHBFGMFK_00440	CDS	690				hypothetical protein
+DHBFGMFK_00441	gene	270				
+DHBFGMFK_00441	CDS	270				hypothetical protein
+DHBFGMFK_00442	gene	1632	groL			
+DHBFGMFK_00442	CDS	1632	groL		COG0459	60 kDa chaperonin
+DHBFGMFK_00443	gene	273	groS			
+DHBFGMFK_00443	CDS	273	groS		COG0234	10 kDa chaperonin
+DHBFGMFK_00444	gene	2409	pcrA			
+DHBFGMFK_00444	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+DHBFGMFK_00445	gene	732	mtgA			
+DHBFGMFK_00445	CDS	732	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+DHBFGMFK_00446	gene	696	pal_1			
+DHBFGMFK_00446	CDS	696	pal_1			Peptidoglycan-associated lipoprotein
+DHBFGMFK_00447	gene	1482	proS			
+DHBFGMFK_00447	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+DHBFGMFK_00448	gene	222				
+DHBFGMFK_00448	CDS	222				hypothetical protein
+DHBFGMFK_00449	gene	903				
+DHBFGMFK_00449	CDS	903				hypothetical protein
+DHBFGMFK_00450	gene	633	lspA			
+DHBFGMFK_00450	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+DHBFGMFK_00451	gene	381	dksA			
+DHBFGMFK_00451	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+DHBFGMFK_00452	gene	3585	ileS			
+DHBFGMFK_00452	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+DHBFGMFK_00453	gene	408				
+DHBFGMFK_00453	CDS	408				hypothetical protein
+DHBFGMFK_00454	gene	1623				
+DHBFGMFK_00454	CDS	1623				hypothetical protein
+DHBFGMFK_00455	gene	1023				
+DHBFGMFK_00455	CDS	1023				hypothetical protein
+DHBFGMFK_00456	gene	882	rsmC			
+DHBFGMFK_00456	CDS	882	rsmC	2.1.1.172		Ribosomal RNA small subunit methyltransferase C
+DHBFGMFK_00457	gene	804				
+DHBFGMFK_00457	CDS	804				hypothetical protein
+DHBFGMFK_00458	gene	1641	pfp			
+DHBFGMFK_00458	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+DHBFGMFK_00459	gene	273				
+DHBFGMFK_00459	CDS	273				hypothetical protein
+DHBFGMFK_00460	gene	555				
+DHBFGMFK_00460	CDS	555				hypothetical protein
+DHBFGMFK_00461	gene	2685				
+DHBFGMFK_00461	CDS	2685				hypothetical protein
+DHBFGMFK_00462	gene	306				
+DHBFGMFK_00462	CDS	306				hypothetical protein
+DHBFGMFK_00463	gene	1827				
+DHBFGMFK_00463	CDS	1827				hypothetical protein
+DHBFGMFK_00464	gene	1059				
+DHBFGMFK_00464	CDS	1059				hypothetical protein
+DHBFGMFK_00465	gene	513	COQ3			
+DHBFGMFK_00465	CDS	513	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+DHBFGMFK_00466	gene	174				
+DHBFGMFK_00466	CDS	174				hypothetical protein
+DHBFGMFK_00467	gene	657	gpx1			
+DHBFGMFK_00467	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+DHBFGMFK_00468	gene	450				
+DHBFGMFK_00468	CDS	450				hypothetical protein
+DHBFGMFK_00469	gene	1689	aspT_1			
+DHBFGMFK_00469	CDS	1689	aspT_1			Aspartate/alanine antiporter
+DHBFGMFK_00470	gene	957				
+DHBFGMFK_00470	CDS	957				hypothetical protein
+DHBFGMFK_00471	gene	450				
+DHBFGMFK_00471	CDS	450				hypothetical protein
+DHBFGMFK_00472	gene	1158	gcdB			
+DHBFGMFK_00472	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+DHBFGMFK_00473	gene	585	malT			
+DHBFGMFK_00473	CDS	585	malT			HTH-type transcriptional regulator MalT
+DHBFGMFK_00474	gene	957				
+DHBFGMFK_00474	CDS	957				hypothetical protein
+DHBFGMFK_00475	gene	1533	rny_1			
+DHBFGMFK_00475	CDS	1533	rny_1	3.1.-.-	COG1418	Ribonuclease Y
+DHBFGMFK_00476	gene	345				
+DHBFGMFK_00476	CDS	345				hypothetical protein
+DHBFGMFK_00477	gene	300				
+DHBFGMFK_00477	CDS	300				hypothetical protein
+DHBFGMFK_00478	gene	624				
+DHBFGMFK_00478	CDS	624				hypothetical protein
+DHBFGMFK_00479	gene	876	rmlA			
+DHBFGMFK_00479	CDS	876	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+DHBFGMFK_00480	gene	2484				
+DHBFGMFK_00480	CDS	2484				hypothetical protein
+DHBFGMFK_00481	gene	3306	carB			
+DHBFGMFK_00481	CDS	3306	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+DHBFGMFK_00482	gene	744				
+DHBFGMFK_00482	CDS	744				hypothetical protein
+DHBFGMFK_00483	gene	1185				
+DHBFGMFK_00483	CDS	1185				hypothetical protein
+DHBFGMFK_00484	gene	1584				
+DHBFGMFK_00484	CDS	1584				hypothetical protein
+DHBFGMFK_00485	gene	228				
+DHBFGMFK_00485	CDS	228				hypothetical protein
+DHBFGMFK_00486	gene	3390				
+DHBFGMFK_00486	CDS	3390				hypothetical protein
+DHBFGMFK_00487	gene	198				
+DHBFGMFK_00487	CDS	198				hypothetical protein
+DHBFGMFK_00488	gene	150				
+DHBFGMFK_00488	CDS	150				hypothetical protein
+DHBFGMFK_00489	gene	1005				
+DHBFGMFK_00489	CDS	1005				hypothetical protein
+DHBFGMFK_00490	gene	1437	ndhB			
+DHBFGMFK_00490	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+DHBFGMFK_00491	gene	1500	ndhD1			
+DHBFGMFK_00491	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+DHBFGMFK_00492	gene	1989	nuoL			
+DHBFGMFK_00492	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+DHBFGMFK_00493	gene	312	nuoK			
+DHBFGMFK_00493	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+DHBFGMFK_00494	gene	513				
+DHBFGMFK_00494	CDS	513				hypothetical protein
+DHBFGMFK_00495	gene	534	nuoI			
+DHBFGMFK_00495	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+DHBFGMFK_00496	gene	1089	nuoH			
+DHBFGMFK_00496	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+DHBFGMFK_00497	gene	1563	nuoC			
+DHBFGMFK_00497	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+DHBFGMFK_00498	gene	750	ndhK			
+DHBFGMFK_00498	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+DHBFGMFK_00499	gene	351	ndhC			
+DHBFGMFK_00499	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+DHBFGMFK_00500	gene	678				
+DHBFGMFK_00500	CDS	678				hypothetical protein
+DHBFGMFK_00501	gene	1182	bdhA			
+DHBFGMFK_00501	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+DHBFGMFK_00502	gene	117				
+DHBFGMFK_00502	CDS	117				hypothetical protein
+DHBFGMFK_00503	gene	477				
+DHBFGMFK_00503	CDS	477				hypothetical protein
+DHBFGMFK_00504	gene	633				
+DHBFGMFK_00504	CDS	633				hypothetical protein
+DHBFGMFK_00505	gene	579				
+DHBFGMFK_00505	CDS	579				hypothetical protein
+DHBFGMFK_00506	gene	951	rgtE			
+DHBFGMFK_00506	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+DHBFGMFK_00507	gene	486				
+DHBFGMFK_00507	CDS	486				hypothetical protein
+DHBFGMFK_00508	gene	681				
+DHBFGMFK_00508	CDS	681				hypothetical protein
+DHBFGMFK_00509	gene	942	apbE			
+DHBFGMFK_00509	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+DHBFGMFK_00510	gene	603				
+DHBFGMFK_00510	CDS	603				hypothetical protein
+DHBFGMFK_00511	gene	2094	prlC			
+DHBFGMFK_00511	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+DHBFGMFK_00512	gene	444	tadA_1			
+DHBFGMFK_00512	CDS	444	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+DHBFGMFK_00513	gene	1725				
+DHBFGMFK_00513	CDS	1725				hypothetical protein
+DHBFGMFK_00514	gene	498				
+DHBFGMFK_00514	CDS	498		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+DHBFGMFK_00515	gene	291				
+DHBFGMFK_00515	CDS	291				hypothetical protein
+DHBFGMFK_00516	gene	1095	recF			
+DHBFGMFK_00516	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+DHBFGMFK_00517	gene	741				
+DHBFGMFK_00517	CDS	741				hypothetical protein
+DHBFGMFK_00518	gene	477	ribH			
+DHBFGMFK_00518	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+DHBFGMFK_00519	gene	237				
+DHBFGMFK_00519	CDS	237				hypothetical protein
+DHBFGMFK_00520	gene	567				
+DHBFGMFK_00520	CDS	567				hypothetical protein
+DHBFGMFK_00521	gene	459				
+DHBFGMFK_00521	CDS	459				hypothetical protein
+DHBFGMFK_00522	gene	351				
+DHBFGMFK_00522	CDS	351				hypothetical protein
+DHBFGMFK_00523	gene	897	bamD_1			
+DHBFGMFK_00523	CDS	897	bamD_1			Outer membrane protein assembly factor BamD
+DHBFGMFK_00524	gene	2460				
+DHBFGMFK_00524	CDS	2460				hypothetical protein
+DHBFGMFK_00525	gene	2040	uvrB			
+DHBFGMFK_00525	CDS	2040	uvrB		COG0556	UvrABC system protein B
+DHBFGMFK_00526	gene	255				
+DHBFGMFK_00526	CDS	255				hypothetical protein
+DHBFGMFK_00527	gene	2280				
+DHBFGMFK_00527	CDS	2280				hypothetical protein
+DHBFGMFK_00528	gene	903	menA			
+DHBFGMFK_00528	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+DHBFGMFK_00529	gene	642				
+DHBFGMFK_00529	CDS	642				hypothetical protein
+DHBFGMFK_00530	gene	642				
+DHBFGMFK_00530	CDS	642				hypothetical protein
+DHBFGMFK_00531	gene	2100				
+DHBFGMFK_00531	CDS	2100				hypothetical protein
+DHBFGMFK_00532	gene	144				
+DHBFGMFK_00532	CDS	144				hypothetical protein
+DHBFGMFK_00533	gene	3303				
+DHBFGMFK_00533	CDS	3303				hypothetical protein
+DHBFGMFK_00534	gene	1932				
+DHBFGMFK_00534	CDS	1932				hypothetical protein
+DHBFGMFK_00535	gene	1785				
+DHBFGMFK_00535	CDS	1785				hypothetical protein
+DHBFGMFK_00536	gene	162				
+DHBFGMFK_00536	CDS	162				hypothetical protein
+DHBFGMFK_00537	gene	900	rluD_1			
+DHBFGMFK_00537	CDS	900	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DHBFGMFK_00538	gene	1995	tkt			
+DHBFGMFK_00538	CDS	1995	tkt	2.2.1.1		Transketolase
+DHBFGMFK_00539	gene	444	rpiB			
+DHBFGMFK_00539	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+DHBFGMFK_00540	gene	300				
+DHBFGMFK_00540	CDS	300			COG0776	DNA-binding protein HRL53
+DHBFGMFK_00541	gene	90				
+DHBFGMFK_00541	CDS	90				hypothetical protein
+DHBFGMFK_00542	gene	1575	rne			
+DHBFGMFK_00542	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+DHBFGMFK_00543	gene	474	guaD			
+DHBFGMFK_00543	CDS	474	guaD	3.5.4.3	COG0590	Guanine deaminase
+DHBFGMFK_00544	gene	162				
+DHBFGMFK_00544	CDS	162			COG1773	Rubredoxin
+DHBFGMFK_00545	gene	657	ppaX			
+DHBFGMFK_00545	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+DHBFGMFK_00546	gene	705	ttcA			
+DHBFGMFK_00546	CDS	705	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+DHBFGMFK_00547	gene	507				
+DHBFGMFK_00547	CDS	507				hypothetical protein
+DHBFGMFK_00548	gene	762	ydfG			
+DHBFGMFK_00548	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+DHBFGMFK_00549	gene	1698	glgE			
+DHBFGMFK_00549	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+DHBFGMFK_00550	gene	894	fabD			
+DHBFGMFK_00550	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+DHBFGMFK_00551	gene	462				
+DHBFGMFK_00551	CDS	462				hypothetical protein
+DHBFGMFK_00552	gene	612				
+DHBFGMFK_00552	CDS	612				hypothetical protein
+DHBFGMFK_00553	gene	2052	ligA			
+DHBFGMFK_00553	CDS	2052	ligA	6.5.1.2		DNA ligase
+DHBFGMFK_00554	gene	855	pta_1			
+DHBFGMFK_00554	CDS	855	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+DHBFGMFK_00555	gene	1062	buk2			
+DHBFGMFK_00555	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+DHBFGMFK_00556	gene	675	trmD			
+DHBFGMFK_00556	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+DHBFGMFK_00557	gene	939				
+DHBFGMFK_00557	CDS	939				hypothetical protein
+DHBFGMFK_00558	gene	1416	pepP			
+DHBFGMFK_00558	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+DHBFGMFK_00559	gene	1197				
+DHBFGMFK_00559	CDS	1197				hypothetical protein
+DHBFGMFK_00560	gene	480				
+DHBFGMFK_00560	CDS	480				hypothetical protein
+DHBFGMFK_00561	gene	1731	recJ			
+DHBFGMFK_00561	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+DHBFGMFK_00562	gene	1911	deaD_2			
+DHBFGMFK_00562	CDS	1911	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+DHBFGMFK_00563	gene	813				
+DHBFGMFK_00563	CDS	813				hypothetical protein
+DHBFGMFK_00564	gene	1182				
+DHBFGMFK_00564	CDS	1182				Outer membrane protein 41
+DHBFGMFK_00565	gene	531	cobP			
+DHBFGMFK_00565	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+DHBFGMFK_00566	gene	1032	cobT			
+DHBFGMFK_00566	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+DHBFGMFK_00567	gene	792	cobS			
+DHBFGMFK_00567	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+DHBFGMFK_00568	gene	534	pspA_1			
+DHBFGMFK_00568	CDS	534	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+DHBFGMFK_00569	gene	543				
+DHBFGMFK_00569	CDS	543				hypothetical protein
+DHBFGMFK_00570	gene	771	korB_1			
+DHBFGMFK_00570	CDS	771	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+DHBFGMFK_00571	gene	1083	korA_1			
+DHBFGMFK_00571	CDS	1083	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+DHBFGMFK_00572	gene	234	rsxB			
+DHBFGMFK_00572	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+DHBFGMFK_00573	gene	180				
+DHBFGMFK_00573	CDS	180				hypothetical protein
+DHBFGMFK_00574	gene	924	folD			
+DHBFGMFK_00574	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+DHBFGMFK_00575	gene	1341	ffh			
+DHBFGMFK_00575	CDS	1341	ffh		COG0541	Signal recognition particle protein
+DHBFGMFK_00576	gene	480				
+DHBFGMFK_00576	CDS	480				hypothetical protein
+DHBFGMFK_00577	gene	753				
+DHBFGMFK_00577	CDS	753				hypothetical protein
+DHBFGMFK_00578	gene	2127	btuB_3			
+DHBFGMFK_00578	CDS	2127	btuB_3			Vitamin B12 transporter BtuB
+DHBFGMFK_00579	gene	402				
+DHBFGMFK_00579	CDS	402				hypothetical protein
+DHBFGMFK_00580	gene	3417				
+DHBFGMFK_00580	CDS	3417				hypothetical protein
+DHBFGMFK_00581	gene	579				
+DHBFGMFK_00581	CDS	579				hypothetical protein
+	repeat_region	1684				
+DHBFGMFK_00582	gene	171				
+DHBFGMFK_00582	CDS	171				hypothetical protein
+DHBFGMFK_00583	gene	1299				
+DHBFGMFK_00583	CDS	1299				hypothetical protein
+DHBFGMFK_00584	gene	546	pdxT			
+DHBFGMFK_00584	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+DHBFGMFK_00585	gene	876	pdxS			
+DHBFGMFK_00585	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+DHBFGMFK_00586	gene	258				
+DHBFGMFK_00586	CDS	258				hypothetical protein
+DHBFGMFK_00587	gene	918	rhaS_1			
+DHBFGMFK_00587	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+DHBFGMFK_00588	gene	474				
+DHBFGMFK_00588	CDS	474				hypothetical protein
+DHBFGMFK_00589	gene	114				
+DHBFGMFK_00589	CDS	114				hypothetical protein
+DHBFGMFK_00590	gene	855	bepA_1			
+DHBFGMFK_00590	CDS	855	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+DHBFGMFK_00591	gene	2325				
+DHBFGMFK_00591	CDS	2325				hypothetical protein
+DHBFGMFK_00592	gene	1065	kdsA_2			
+DHBFGMFK_00592	CDS	1065	kdsA_2	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+DHBFGMFK_00593	gene	1059				
+DHBFGMFK_00593	CDS	1059				hypothetical protein
+DHBFGMFK_00594	gene	1095				
+DHBFGMFK_00594	CDS	1095				hypothetical protein
+DHBFGMFK_00595	gene	1107	pdxA2			
+DHBFGMFK_00595	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+DHBFGMFK_00596	gene	978				
+DHBFGMFK_00596	CDS	978				hypothetical protein
+DHBFGMFK_00597	gene	1050	rlmN			
+DHBFGMFK_00597	CDS	1050	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+DHBFGMFK_00598	gene	1560	ahpF			
+DHBFGMFK_00598	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+DHBFGMFK_00599	gene	567	ahpC			
+DHBFGMFK_00599	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+DHBFGMFK_00600	gene	717	sodB			
+DHBFGMFK_00600	CDS	717	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+DHBFGMFK_00601	gene	927	oxyR			
+DHBFGMFK_00601	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+DHBFGMFK_00602	gene	1086	wbpI			
+DHBFGMFK_00602	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+DHBFGMFK_00603	gene	954	qmcA			
+DHBFGMFK_00603	CDS	954	qmcA		COG0330	Protein QmcA
+DHBFGMFK_00604	gene	456				
+DHBFGMFK_00604	CDS	456				hypothetical protein
+DHBFGMFK_00605	gene	462				
+DHBFGMFK_00605	CDS	462				hypothetical protein
+DHBFGMFK_00606	gene	408				
+DHBFGMFK_00606	CDS	408				hypothetical protein
+DHBFGMFK_00607	gene	285				
+DHBFGMFK_00607	CDS	285				hypothetical protein
+DHBFGMFK_00608	gene	123				
+DHBFGMFK_00608	CDS	123				hypothetical protein
+DHBFGMFK_00609	gene	822	acr1			
+DHBFGMFK_00609	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+DHBFGMFK_00610	gene	1506				
+DHBFGMFK_00610	CDS	1506		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+DHBFGMFK_00611	gene	363				
+DHBFGMFK_00611	CDS	363				hypothetical protein
+DHBFGMFK_00612	gene	498				
+DHBFGMFK_00612	CDS	498			COG0716	Flavodoxin 1
+DHBFGMFK_00613	gene	2214				
+DHBFGMFK_00613	CDS	2214				hypothetical protein
+DHBFGMFK_00614	gene	216				
+DHBFGMFK_00614	CDS	216				hypothetical protein
+DHBFGMFK_00615	gene	600	slyD			
+DHBFGMFK_00615	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+DHBFGMFK_00616	gene	1092	aroC			
+DHBFGMFK_00616	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+DHBFGMFK_00617	gene	912	pyrD			
+DHBFGMFK_00617	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+DHBFGMFK_00618	gene	777	pyrK_1			
+DHBFGMFK_00618	CDS	777	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+DHBFGMFK_00619	gene	477				
+DHBFGMFK_00619	CDS	477				hypothetical protein
+DHBFGMFK_00620	gene	1029				
+DHBFGMFK_00620	CDS	1029				hypothetical protein
+DHBFGMFK_00621	gene	471				
+DHBFGMFK_00621	CDS	471				hypothetical protein
+DHBFGMFK_00622	gene	174				
+DHBFGMFK_00622	CDS	174				hypothetical protein
+DHBFGMFK_00623	gene	951				
+DHBFGMFK_00623	CDS	951				hypothetical protein
+DHBFGMFK_00624	gene	840				
+DHBFGMFK_00624	CDS	840				hypothetical protein
+DHBFGMFK_00625	gene	879				
+DHBFGMFK_00625	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+DHBFGMFK_00626	gene	96				
+DHBFGMFK_00626	CDS	96				hypothetical protein
+DHBFGMFK_00627	gene	585				
+DHBFGMFK_00627	CDS	585				hypothetical protein
+DHBFGMFK_00628	gene	1044	aguA			
+DHBFGMFK_00628	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+DHBFGMFK_00629	gene	909				
+DHBFGMFK_00629	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+DHBFGMFK_00630	gene	1389	ampG			
+DHBFGMFK_00630	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+DHBFGMFK_00631	gene	3693				
+DHBFGMFK_00631	CDS	3693				hypothetical protein
+DHBFGMFK_00632	gene	462	ndk			
+DHBFGMFK_00632	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+DHBFGMFK_00633	gene	1701	eptC			
+DHBFGMFK_00633	CDS	1701	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+DHBFGMFK_00634	gene	1215	norR			
+DHBFGMFK_00634	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+DHBFGMFK_00635	gene	555				
+DHBFGMFK_00635	CDS	555				hypothetical protein
+DHBFGMFK_00636	gene	771				
+DHBFGMFK_00636	CDS	771				hypothetical protein
+DHBFGMFK_00637	gene	390				
+DHBFGMFK_00637	CDS	390				hypothetical protein
+DHBFGMFK_00638	gene	3117				
+DHBFGMFK_00638	CDS	3117				hypothetical protein
+DHBFGMFK_00639	gene	2580				
+DHBFGMFK_00639	CDS	2580				hypothetical protein
+DHBFGMFK_00640	gene	3201				
+DHBFGMFK_00640	CDS	3201				hypothetical protein
+DHBFGMFK_00641	gene	657	trmO			
+DHBFGMFK_00641	CDS	657	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+DHBFGMFK_00642	gene	1299				
+DHBFGMFK_00642	CDS	1299				hypothetical protein
+DHBFGMFK_00643	gene	75				
+DHBFGMFK_00643	tRNA	75				tRNA-His(gtg)
+DHBFGMFK_00644	gene	1074	adh			
+DHBFGMFK_00644	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+DHBFGMFK_00645	gene	261				
+DHBFGMFK_00645	CDS	261				hypothetical protein
+DHBFGMFK_00646	gene	606				
+DHBFGMFK_00646	CDS	606				hypothetical protein
+DHBFGMFK_00647	gene	1497	nrfA			
+DHBFGMFK_00647	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+DHBFGMFK_00648	gene	1311				
+DHBFGMFK_00648	CDS	1311				hypothetical protein
+DHBFGMFK_00649	gene	798	ccsA_1			
+DHBFGMFK_00649	CDS	798	ccsA_1			Cytochrome c biogenesis protein CcsA
+DHBFGMFK_00650	gene	189				
+DHBFGMFK_00650	CDS	189				hypothetical protein
+DHBFGMFK_00651	gene	398	ssrA			
+DHBFGMFK_00651	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+DHBFGMFK_00652	gene	636	wecA			
+DHBFGMFK_00652	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+DHBFGMFK_00653	gene	2526				
+DHBFGMFK_00653	CDS	2526				hypothetical protein
+DHBFGMFK_00654	gene	1077				
+DHBFGMFK_00654	CDS	1077				hypothetical protein
+DHBFGMFK_00655	gene	1194				
+DHBFGMFK_00655	CDS	1194				hypothetical protein
+DHBFGMFK_00656	gene	1530				
+DHBFGMFK_00656	CDS	1530				hypothetical protein
+DHBFGMFK_00657	gene	555	dapH_1			
+DHBFGMFK_00657	CDS	555	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DHBFGMFK_00658	gene	1221				
+DHBFGMFK_00658	CDS	1221				hypothetical protein
+DHBFGMFK_00659	gene	1542				
+DHBFGMFK_00659	CDS	1542				hypothetical protein
+DHBFGMFK_00660	gene	1152	mshA_2			
+DHBFGMFK_00660	CDS	1152	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DHBFGMFK_00661	gene	144				
+DHBFGMFK_00661	CDS	144				hypothetical protein
+DHBFGMFK_00662	gene	3417	mfd			
+DHBFGMFK_00662	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+DHBFGMFK_00663	gene	3024				
+DHBFGMFK_00663	CDS	3024				hypothetical protein
+DHBFGMFK_00664	gene	876				
+DHBFGMFK_00664	CDS	876				hypothetical protein
+DHBFGMFK_00665	gene	447				
+DHBFGMFK_00665	CDS	447				hypothetical protein
+DHBFGMFK_00666	gene	474				
+DHBFGMFK_00666	CDS	474				hypothetical protein
+DHBFGMFK_00667	gene	1446				
+DHBFGMFK_00667	CDS	1446				hypothetical protein
+DHBFGMFK_00668	gene	405				
+DHBFGMFK_00668	CDS	405				hypothetical protein
+DHBFGMFK_00669	gene	861				
+DHBFGMFK_00669	CDS	861				hypothetical protein
+DHBFGMFK_00670	gene	1746				
+DHBFGMFK_00670	CDS	1746				hypothetical protein
+DHBFGMFK_00671	gene	510	pspA_2			
+DHBFGMFK_00671	CDS	510	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+DHBFGMFK_00672	gene	90				
+DHBFGMFK_00672	CDS	90				hypothetical protein
+DHBFGMFK_00673	gene	1044				
+DHBFGMFK_00673	CDS	1044				hypothetical protein
+DHBFGMFK_00674	gene	1131				
+DHBFGMFK_00674	CDS	1131				hypothetical protein
+DHBFGMFK_00675	gene	1914	fcl_2			
+DHBFGMFK_00675	CDS	1914	fcl_2	1.1.1.271		GDP-L-fucose synthase
+DHBFGMFK_00676	gene	594				
+DHBFGMFK_00676	CDS	594				hypothetical protein
+DHBFGMFK_00677	gene	1197	arnB			
+DHBFGMFK_00677	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+DHBFGMFK_00678	gene	798	tuaG			
+DHBFGMFK_00678	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+DHBFGMFK_00679	gene	1143				
+DHBFGMFK_00679	CDS	1143				hypothetical protein
+DHBFGMFK_00680	gene	1155				
+DHBFGMFK_00680	CDS	1155				hypothetical protein
+DHBFGMFK_00681	gene	909	trxB			
+DHBFGMFK_00681	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+DHBFGMFK_00682	gene	549	bsaA			
+DHBFGMFK_00682	CDS	549	bsaA			Glutathione peroxidase BsaA
+DHBFGMFK_00683	gene	600				
+DHBFGMFK_00683	CDS	600				hypothetical protein
+DHBFGMFK_00684	gene	1242	ugd			
+DHBFGMFK_00684	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+DHBFGMFK_00685	gene	456				
+DHBFGMFK_00685	CDS	456				hypothetical protein
+DHBFGMFK_00686	gene	1563				
+DHBFGMFK_00686	CDS	1563				hypothetical protein
+DHBFGMFK_00687	gene	498				
+DHBFGMFK_00687	CDS	498				hypothetical protein
+DHBFGMFK_00688	gene	1131	apxIB_1			
+DHBFGMFK_00688	CDS	1131	apxIB_1		COG2274	Toxin RTX-I translocation ATP-binding protein
+DHBFGMFK_00689	gene	471				
+DHBFGMFK_00689	CDS	471				hypothetical protein
+DHBFGMFK_00690	gene	1017				
+DHBFGMFK_00690	CDS	1017				hypothetical protein
+DHBFGMFK_00691	gene	1911				
+DHBFGMFK_00691	CDS	1911				hypothetical protein
+DHBFGMFK_00692	gene	612	nreC			
+DHBFGMFK_00692	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+DHBFGMFK_00693	gene	1050	nrdB			
+DHBFGMFK_00693	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+DHBFGMFK_00694	gene	2520				
+DHBFGMFK_00694	CDS	2520				hypothetical protein
+DHBFGMFK_00695	gene	3018				
+DHBFGMFK_00695	CDS	3018				hypothetical protein
+DHBFGMFK_00696	gene	147				
+DHBFGMFK_00696	CDS	147				hypothetical protein
+DHBFGMFK_00697	gene	2604	yoaB			
+DHBFGMFK_00697	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+DHBFGMFK_00698	gene	621				
+DHBFGMFK_00698	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+DHBFGMFK_00699	gene	945	ribF_1			
+DHBFGMFK_00699	CDS	945	ribF_1		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+DHBFGMFK_00700	gene	792				
+DHBFGMFK_00700	CDS	792				hypothetical protein
+DHBFGMFK_00701	gene	477				
+DHBFGMFK_00701	CDS	477				hypothetical protein
+DHBFGMFK_00702	gene	513	sigH			
+DHBFGMFK_00702	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+DHBFGMFK_00703	gene	1893	speA			
+DHBFGMFK_00703	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+DHBFGMFK_00704	gene	528	aroK			
+DHBFGMFK_00704	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+DHBFGMFK_00705	gene	2415	topA			
+DHBFGMFK_00705	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+DHBFGMFK_00706	gene	699				
+DHBFGMFK_00706	CDS	699				hypothetical protein
+DHBFGMFK_00707	gene	810				
+DHBFGMFK_00707	CDS	810				hypothetical protein
+DHBFGMFK_00708	gene	555	nudC_1			
+DHBFGMFK_00708	CDS	555	nudC_1	3.6.1.22		NADH pyrophosphatase
+DHBFGMFK_00709	gene	417				
+DHBFGMFK_00709	CDS	417				hypothetical protein
+DHBFGMFK_00710	gene	1152	resA_1			
+DHBFGMFK_00710	CDS	1152	resA_1			Thiol-disulfide oxidoreductase ResA
+DHBFGMFK_00711	gene	990				
+DHBFGMFK_00711	CDS	990				hypothetical protein
+DHBFGMFK_00712	gene	1026				
+DHBFGMFK_00712	CDS	1026				hypothetical protein
+DHBFGMFK_00713	gene	1089				
+DHBFGMFK_00713	CDS	1089				hypothetical protein
+DHBFGMFK_00714	gene	1893				
+DHBFGMFK_00714	CDS	1893				hypothetical protein
+DHBFGMFK_00715	gene	1143				
+DHBFGMFK_00715	CDS	1143				hypothetical protein
+DHBFGMFK_00716	gene	390				
+DHBFGMFK_00716	CDS	390				hypothetical protein
+DHBFGMFK_00717	gene	1149				
+DHBFGMFK_00717	CDS	1149				hypothetical protein
+DHBFGMFK_00718	gene	1812				
+DHBFGMFK_00718	CDS	1812				hypothetical protein
+DHBFGMFK_00719	gene	108				
+DHBFGMFK_00719	CDS	108				hypothetical protein
+DHBFGMFK_00720	gene	1314				
+DHBFGMFK_00720	CDS	1314				hypothetical protein
+DHBFGMFK_00721	gene	1329				
+DHBFGMFK_00721	CDS	1329				hypothetical protein
+DHBFGMFK_00722	gene	1713				
+DHBFGMFK_00722	CDS	1713				hypothetical protein
+DHBFGMFK_00723	gene	2187	ccsA_2			
+DHBFGMFK_00723	CDS	2187	ccsA_2			Cytochrome c biogenesis protein CcsA
+DHBFGMFK_00724	gene	2355	pnp			
+DHBFGMFK_00724	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+DHBFGMFK_00725	gene	219				
+DHBFGMFK_00725	CDS	219				hypothetical protein
+DHBFGMFK_00726	gene	552				
+DHBFGMFK_00726	CDS	552				hypothetical protein
+DHBFGMFK_00727	gene	660				
+DHBFGMFK_00727	CDS	660				hypothetical protein
+DHBFGMFK_00728	gene	1803				
+DHBFGMFK_00728	CDS	1803				hypothetical protein
+DHBFGMFK_00729	gene	1185				
+DHBFGMFK_00729	CDS	1185				hypothetical protein
+DHBFGMFK_00730	gene	840				
+DHBFGMFK_00730	CDS	840				hypothetical protein
+DHBFGMFK_00731	gene	102				
+DHBFGMFK_00731	CDS	102				hypothetical protein
+DHBFGMFK_00732	gene	2517				
+DHBFGMFK_00732	CDS	2517				hypothetical protein
+DHBFGMFK_00733	gene	1650				
+DHBFGMFK_00733	CDS	1650				hypothetical protein
+DHBFGMFK_00734	gene	888				
+DHBFGMFK_00734	CDS	888				hypothetical protein
+DHBFGMFK_00735	gene	1779	bepA_2			
+DHBFGMFK_00735	CDS	1779	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+DHBFGMFK_00736	gene	438	dut			
+DHBFGMFK_00736	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+DHBFGMFK_00737	gene	1527	dgt			
+DHBFGMFK_00737	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+DHBFGMFK_00738	gene	261				
+DHBFGMFK_00738	CDS	261				hypothetical protein
+DHBFGMFK_00739	gene	420				
+DHBFGMFK_00739	CDS	420				hypothetical protein
+DHBFGMFK_00740	gene	477				
+DHBFGMFK_00740	CDS	477				hypothetical protein
+DHBFGMFK_00741	gene	1017				
+DHBFGMFK_00741	CDS	1017				hypothetical protein
+DHBFGMFK_00742	gene	828				
+DHBFGMFK_00742	CDS	828				hypothetical protein
+DHBFGMFK_00743	gene	465	mraZ			
+DHBFGMFK_00743	CDS	465	mraZ			Transcriptional regulator MraZ
+DHBFGMFK_00744	gene	1032	rsmH			
+DHBFGMFK_00744	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+DHBFGMFK_00745	gene	624				
+DHBFGMFK_00745	CDS	624				hypothetical protein
+DHBFGMFK_00746	gene	2148	pbpB			
+DHBFGMFK_00746	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+DHBFGMFK_00747	gene	1452	murE			
+DHBFGMFK_00747	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+DHBFGMFK_00748	gene	1272	mraY			
+DHBFGMFK_00748	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+DHBFGMFK_00749	gene	1344	murD			
+DHBFGMFK_00749	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+DHBFGMFK_00750	gene	1287	ftsW			
+DHBFGMFK_00750	CDS	1287	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+DHBFGMFK_00751	gene	1116	murG			
+DHBFGMFK_00751	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+DHBFGMFK_00752	gene	1401	murC			
+DHBFGMFK_00752	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+DHBFGMFK_00753	gene	1002				
+DHBFGMFK_00753	CDS	1002				hypothetical protein
+DHBFGMFK_00754	gene	1461	ftsA			
+DHBFGMFK_00754	CDS	1461	ftsA			Cell division protein FtsA
+DHBFGMFK_00755	gene	1320	ftsZ			
+DHBFGMFK_00755	CDS	1320	ftsZ			Cell division protein FtsZ
+DHBFGMFK_00756	gene	447	yqeY			
+DHBFGMFK_00756	CDS	447	yqeY		COG1610	putative protein YqeY
+DHBFGMFK_00757	gene	1122				
+DHBFGMFK_00757	CDS	1122				hypothetical protein
+DHBFGMFK_00758	gene	726	recO			
+DHBFGMFK_00758	CDS	726	recO		COG1381	DNA repair protein RecO
+DHBFGMFK_00759	gene	75				
+DHBFGMFK_00759	tRNA	75				tRNA-Glu(ttc)
+DHBFGMFK_00760	gene	255	rpsT			
+DHBFGMFK_00760	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+DHBFGMFK_00761	gene	135				
+DHBFGMFK_00761	CDS	135				hypothetical protein
+DHBFGMFK_00762	gene	1971	gyrB_1			
+DHBFGMFK_00762	CDS	1971	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+DHBFGMFK_00763	gene	879				
+DHBFGMFK_00763	CDS	879				hypothetical protein
+DHBFGMFK_00764	gene	621				
+DHBFGMFK_00764	CDS	621				hypothetical protein
+DHBFGMFK_00765	gene	666	ung			
+DHBFGMFK_00765	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+DHBFGMFK_00766	gene	1518	gpmI			
+DHBFGMFK_00766	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+DHBFGMFK_00767	gene	213				
+DHBFGMFK_00767	CDS	213				hypothetical protein
+DHBFGMFK_00768	gene	2196				
+DHBFGMFK_00768	CDS	2196				hypothetical protein
+DHBFGMFK_00769	gene	1050	dusB			
+DHBFGMFK_00769	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+DHBFGMFK_00770	gene	1128				
+DHBFGMFK_00770	CDS	1128				hypothetical protein
+DHBFGMFK_00771	gene	453				
+DHBFGMFK_00771	CDS	453				hypothetical protein
+DHBFGMFK_00772	gene	1365				
+DHBFGMFK_00772	CDS	1365				hypothetical protein
+DHBFGMFK_00773	gene	102				
+DHBFGMFK_00773	CDS	102				hypothetical protein
+DHBFGMFK_00774	gene	1413				
+DHBFGMFK_00774	CDS	1413				hypothetical protein
+DHBFGMFK_00775	gene	909				
+DHBFGMFK_00775	CDS	909				hypothetical protein
+DHBFGMFK_00776	gene	1149	yghO			
+DHBFGMFK_00776	CDS	1149	yghO			Protein YghO
+DHBFGMFK_00777	gene	1971	gyrB_2			
+DHBFGMFK_00777	CDS	1971	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+DHBFGMFK_00778	gene	441	coaD			
+DHBFGMFK_00778	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+DHBFGMFK_00779	gene	411	ybeY			
+DHBFGMFK_00779	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+DHBFGMFK_00780	gene	1578				
+DHBFGMFK_00780	CDS	1578				hypothetical protein
+DHBFGMFK_00781	gene	1035	ruvB			
+DHBFGMFK_00781	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+DHBFGMFK_00782	gene	1218	norV			
+DHBFGMFK_00782	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+DHBFGMFK_00783	gene	1317				
+DHBFGMFK_00783	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+DHBFGMFK_00784	gene	1368				
+DHBFGMFK_00784	CDS	1368				hypothetical protein
+DHBFGMFK_00785	gene	1248				
+DHBFGMFK_00785	CDS	1248				hypothetical protein
+DHBFGMFK_00786	gene	930				
+DHBFGMFK_00786	CDS	930				hypothetical protein
+DHBFGMFK_00787	gene	2205				
+DHBFGMFK_00787	CDS	2205				hypothetical protein
+DHBFGMFK_00788	gene	1284				
+DHBFGMFK_00788	CDS	1284				hypothetical protein
+DHBFGMFK_00789	gene	318				
+DHBFGMFK_00789	CDS	318				hypothetical protein
+DHBFGMFK_00790	gene	594				
+DHBFGMFK_00790	CDS	594				hypothetical protein
+DHBFGMFK_00791	gene	1254				
+DHBFGMFK_00791	CDS	1254				hypothetical protein
+DHBFGMFK_00792	gene	372				
+DHBFGMFK_00792	CDS	372				hypothetical protein
+DHBFGMFK_00793	gene	201				
+DHBFGMFK_00793	CDS	201				hypothetical protein
+DHBFGMFK_00794	gene	537				
+DHBFGMFK_00794	CDS	537				hypothetical protein
+DHBFGMFK_00795	gene	585				
+DHBFGMFK_00795	CDS	585				hypothetical protein
+DHBFGMFK_00796	gene	447				
+DHBFGMFK_00796	CDS	447				hypothetical protein
+DHBFGMFK_00797	gene	315				
+DHBFGMFK_00797	CDS	315				hypothetical protein
+DHBFGMFK_00798	gene	75				
+DHBFGMFK_00798	tRNA	75				tRNA-Met(cat)
+DHBFGMFK_00799	gene	693				
+DHBFGMFK_00799	CDS	693				hypothetical protein
+DHBFGMFK_00800	gene	486	resA_2			
+DHBFGMFK_00800	CDS	486	resA_2			Thiol-disulfide oxidoreductase ResA
+DHBFGMFK_00801	gene	1659				
+DHBFGMFK_00801	CDS	1659				hypothetical protein
+DHBFGMFK_00802	gene	786				
+DHBFGMFK_00802	CDS	786				hypothetical protein
+DHBFGMFK_00803	gene	639				
+DHBFGMFK_00803	CDS	639				hypothetical protein
+DHBFGMFK_00804	gene	1419	aspA			
+DHBFGMFK_00804	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+DHBFGMFK_00805	gene	726	mhqN			
+DHBFGMFK_00805	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+DHBFGMFK_00806	gene	378				
+DHBFGMFK_00806	CDS	378				hypothetical protein
+DHBFGMFK_00807	gene	753				
+DHBFGMFK_00807	CDS	753				hypothetical protein
+DHBFGMFK_00808	gene	747				
+DHBFGMFK_00808	CDS	747				hypothetical protein
+DHBFGMFK_00809	gene	1896				
+DHBFGMFK_00809	CDS	1896				hypothetical protein
+DHBFGMFK_00810	gene	75				
+DHBFGMFK_00810	tRNA	75				tRNA-Asn(gtt)
+DHBFGMFK_00811	gene	1734				
+DHBFGMFK_00811	CDS	1734				hypothetical protein
+DHBFGMFK_00812	gene	243				
+DHBFGMFK_00812	CDS	243				hypothetical protein
+DHBFGMFK_00813	gene	1179				
+DHBFGMFK_00813	CDS	1179				hypothetical protein
+DHBFGMFK_00814	gene	1356				
+DHBFGMFK_00814	CDS	1356				hypothetical protein
+DHBFGMFK_00815	gene	936				
+DHBFGMFK_00815	CDS	936				hypothetical protein
+DHBFGMFK_00816	gene	1566				
+DHBFGMFK_00816	CDS	1566				hypothetical protein
+DHBFGMFK_00817	gene	3327				
+DHBFGMFK_00817	CDS	3327				TonB-dependent receptor P26
+DHBFGMFK_00818	gene	279				
+DHBFGMFK_00818	CDS	279				hypothetical protein
+DHBFGMFK_00819	gene	606	rnhB			
+DHBFGMFK_00819	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+DHBFGMFK_00820	gene	1023				
+DHBFGMFK_00820	CDS	1023				hypothetical protein
+DHBFGMFK_00821	gene	2871				
+DHBFGMFK_00821	CDS	2871				hypothetical protein
+DHBFGMFK_00822	gene	2085				
+DHBFGMFK_00822	CDS	2085				hypothetical protein
+DHBFGMFK_00823	gene	1071				
+DHBFGMFK_00823	CDS	1071				hypothetical protein
+DHBFGMFK_00824	gene	507				
+DHBFGMFK_00824	CDS	507				hypothetical protein
+DHBFGMFK_00825	gene	2112	metG			
+DHBFGMFK_00825	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+DHBFGMFK_00826	gene	73				
+DHBFGMFK_00826	tRNA	73				tRNA-Arg(cct)
+DHBFGMFK_00827	gene	450				
+DHBFGMFK_00827	CDS	450				hypothetical protein
+DHBFGMFK_00828	gene	549				
+DHBFGMFK_00828	CDS	549				hypothetical protein
+DHBFGMFK_00829	gene	513	sigE			
+DHBFGMFK_00829	CDS	513	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+DHBFGMFK_00830	gene	471				
+DHBFGMFK_00830	CDS	471				hypothetical protein
+DHBFGMFK_00831	gene	1353	sufS			
+DHBFGMFK_00831	CDS	1353	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+DHBFGMFK_00832	gene	5739				
+DHBFGMFK_00832	CDS	5739				hypothetical protein
+DHBFGMFK_00833	gene	201				
+DHBFGMFK_00833	CDS	201				hypothetical protein
+DHBFGMFK_00834	gene	375				
+DHBFGMFK_00834	CDS	375				hypothetical protein
+DHBFGMFK_00835	gene	453	yvbK			
+DHBFGMFK_00835	CDS	453	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+DHBFGMFK_00836	gene	504				
+DHBFGMFK_00836	CDS	504				hypothetical protein
+DHBFGMFK_00837	gene	2196				
+DHBFGMFK_00837	CDS	2196				hypothetical protein
+DHBFGMFK_00838	gene	444				
+DHBFGMFK_00838	CDS	444				hypothetical protein
+DHBFGMFK_00839	gene	474				
+DHBFGMFK_00839	CDS	474				hypothetical protein
+DHBFGMFK_00840	gene	318				
+DHBFGMFK_00840	CDS	318				hypothetical protein
+DHBFGMFK_00841	gene	486				
+DHBFGMFK_00841	CDS	486				hypothetical protein
+DHBFGMFK_00842	gene	258	msbA_1			
+DHBFGMFK_00842	CDS	258	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+DHBFGMFK_00843	gene	1917	lagD_1			
+DHBFGMFK_00843	CDS	1917	lagD_1	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+DHBFGMFK_00844	gene	2349				
+DHBFGMFK_00844	CDS	2349				hypothetical protein
+DHBFGMFK_00845	gene	1035				
+DHBFGMFK_00845	CDS	1035				hypothetical protein
+DHBFGMFK_00846	gene	147				
+DHBFGMFK_00846	CDS	147				hypothetical protein
+DHBFGMFK_00847	gene	792	nagB			
+DHBFGMFK_00847	CDS	792	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+DHBFGMFK_00848	gene	1257	hflX			
+DHBFGMFK_00848	CDS	1257	hflX			GTPase HflX
+DHBFGMFK_00849	gene	1866				
+DHBFGMFK_00849	CDS	1866				hypothetical protein
+DHBFGMFK_00850	gene	2898				
+DHBFGMFK_00850	CDS	2898				hypothetical protein
+DHBFGMFK_00851	gene	1647	fumA			
+DHBFGMFK_00851	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+DHBFGMFK_00852	gene	1461	sasA_2			
+DHBFGMFK_00852	CDS	1461	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+DHBFGMFK_00853	gene	3873				
+DHBFGMFK_00853	CDS	3873				hypothetical protein
+DHBFGMFK_00854	gene	1554				
+DHBFGMFK_00854	CDS	1554				hypothetical protein
+DHBFGMFK_00855	gene	1242				
+DHBFGMFK_00855	CDS	1242				hypothetical protein
+DHBFGMFK_00856	gene	1965	btuB_4			
+DHBFGMFK_00856	CDS	1965	btuB_4			Vitamin B12 transporter BtuB
+DHBFGMFK_00857	gene	2394				
+DHBFGMFK_00857	CDS	2394				hypothetical protein
+DHBFGMFK_00858	gene	744				
+DHBFGMFK_00858	CDS	744				hypothetical protein
+DHBFGMFK_00859	gene	1233				
+DHBFGMFK_00859	CDS	1233				hypothetical protein
+DHBFGMFK_00860	gene	519				
+DHBFGMFK_00860	CDS	519				hypothetical protein
+DHBFGMFK_00861	gene	714				
+DHBFGMFK_00861	CDS	714				hypothetical protein
+DHBFGMFK_00862	gene	1494				
+DHBFGMFK_00862	CDS	1494				hypothetical protein
+DHBFGMFK_00863	gene	3183				
+DHBFGMFK_00863	CDS	3183				TonB-dependent receptor P26
+DHBFGMFK_00864	gene	75				
+DHBFGMFK_00864	tRNA	75				tRNA-Met(cat)
+DHBFGMFK_00865	gene	420				
+DHBFGMFK_00865	CDS	420				hypothetical protein
+DHBFGMFK_00866	gene	471				
+DHBFGMFK_00866	CDS	471				hypothetical protein
+DHBFGMFK_00867	gene	1410	dnaA			
+DHBFGMFK_00867	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+DHBFGMFK_00868	gene	903				
+DHBFGMFK_00868	CDS	903				hypothetical protein
+DHBFGMFK_00869	gene	1185				
+DHBFGMFK_00869	CDS	1185				hypothetical protein
+DHBFGMFK_00870	gene	381	folB			
+DHBFGMFK_00870	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+DHBFGMFK_00871	gene	2559				
+DHBFGMFK_00871	CDS	2559				hypothetical protein
+DHBFGMFK_00872	gene	738				
+DHBFGMFK_00872	CDS	738				hypothetical protein
+DHBFGMFK_00873	gene	423				
+DHBFGMFK_00873	CDS	423				hypothetical protein
+DHBFGMFK_00874	gene	1950				
+DHBFGMFK_00874	CDS	1950				hypothetical protein
+DHBFGMFK_00875	gene	1458				
+DHBFGMFK_00875	CDS	1458				hypothetical protein
+DHBFGMFK_00876	gene	963				
+DHBFGMFK_00876	CDS	963				hypothetical protein
+DHBFGMFK_00877	gene	846				
+DHBFGMFK_00877	CDS	846				hypothetical protein
+DHBFGMFK_00878	gene	648				
+DHBFGMFK_00878	CDS	648				hypothetical protein
+DHBFGMFK_00879	gene	675				
+DHBFGMFK_00879	CDS	675				hypothetical protein
+DHBFGMFK_00880	gene	831	tolQ_1			
+DHBFGMFK_00880	CDS	831	tolQ_1			Tol-Pal system protein TolQ
+DHBFGMFK_00881	gene	1209	ribBA			
+DHBFGMFK_00881	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+DHBFGMFK_00882	gene	1866				
+DHBFGMFK_00882	CDS	1866				hypothetical protein
+DHBFGMFK_00883	gene	600	tdk			
+DHBFGMFK_00883	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+DHBFGMFK_00884	gene	1134				
+DHBFGMFK_00884	CDS	1134				hypothetical protein
+DHBFGMFK_00885	gene	74				
+DHBFGMFK_00885	tRNA	74				tRNA-Lys(ttt)
+DHBFGMFK_00886	gene	74				
+DHBFGMFK_00886	tRNA	74				tRNA-Pro(ggg)
+DHBFGMFK_00887	gene	852				
+DHBFGMFK_00887	CDS	852				hypothetical protein
+DHBFGMFK_00888	gene	840				
+DHBFGMFK_00888	CDS	840				hypothetical protein
+DHBFGMFK_00889	gene	99				
+DHBFGMFK_00889	CDS	99				hypothetical protein
+DHBFGMFK_00890	gene	471				
+DHBFGMFK_00890	CDS	471				hypothetical protein
+DHBFGMFK_00891	gene	1167				
+DHBFGMFK_00891	CDS	1167				hypothetical protein
+DHBFGMFK_00892	gene	1251	aroA			
+DHBFGMFK_00892	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+DHBFGMFK_00893	gene	393				
+DHBFGMFK_00893	CDS	393				hypothetical protein
+DHBFGMFK_00894	gene	3387	bamD_2			
+DHBFGMFK_00894	CDS	3387	bamD_2			Outer membrane protein assembly factor BamD
+DHBFGMFK_00895	gene	1569	cheB			
+DHBFGMFK_00895	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+DHBFGMFK_00896	gene	411	tsaE			
+DHBFGMFK_00896	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+DHBFGMFK_00897	gene	315	trxA			
+DHBFGMFK_00897	CDS	315	trxA			Thioredoxin 1
+DHBFGMFK_00898	gene	3711	dnaE			
+DHBFGMFK_00898	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+DHBFGMFK_00899	gene	687	psd			
+DHBFGMFK_00899	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+DHBFGMFK_00900	gene	726				
+DHBFGMFK_00900	CDS	726				hypothetical protein
+DHBFGMFK_00901	gene	282				
+DHBFGMFK_00901	CDS	282				hypothetical protein
+DHBFGMFK_00902	gene	2409				
+DHBFGMFK_00902	CDS	2409		5.1.1.1		Alanine racemase
+DHBFGMFK_00903	gene	852				
+DHBFGMFK_00903	CDS	852				hypothetical protein
+DHBFGMFK_00904	gene	435	nudC_2			
+DHBFGMFK_00904	CDS	435	nudC_2	3.6.1.22		NADH pyrophosphatase
+DHBFGMFK_00905	gene	1851	typA			
+DHBFGMFK_00905	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+DHBFGMFK_00906	gene	1467	dinF			
+DHBFGMFK_00906	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+DHBFGMFK_00907	gene	480	luxS			
+DHBFGMFK_00907	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+DHBFGMFK_00908	gene	696	mtnN			
+DHBFGMFK_00908	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+DHBFGMFK_00909	gene	2508				
+DHBFGMFK_00909	CDS	2508				hypothetical protein
+DHBFGMFK_00910	gene	270	rpsO			
+DHBFGMFK_00910	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+DHBFGMFK_00911	gene	576				
+DHBFGMFK_00911	CDS	576				hypothetical protein
+DHBFGMFK_00912	gene	369				
+DHBFGMFK_00912	CDS	369				hypothetical protein
+DHBFGMFK_00913	gene	240				
+DHBFGMFK_00913	CDS	240				hypothetical protein
+DHBFGMFK_00914	gene	651				
+DHBFGMFK_00914	CDS	651				hypothetical protein
+DHBFGMFK_00915	gene	507				
+DHBFGMFK_00915	CDS	507				hypothetical protein
+DHBFGMFK_00916	gene	780				
+DHBFGMFK_00916	CDS	780				hypothetical protein
+DHBFGMFK_00917	gene	879	ftsX			
+DHBFGMFK_00917	CDS	879	ftsX		COG2177	Cell division protein FtsX
+DHBFGMFK_00918	gene	249				
+DHBFGMFK_00918	CDS	249				hypothetical protein
+DHBFGMFK_00919	gene	879	uppP			
+DHBFGMFK_00919	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+DHBFGMFK_00920	gene	699	truB			
+DHBFGMFK_00920	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+DHBFGMFK_00921	gene	1119	queA_2			
+DHBFGMFK_00921	CDS	1119	queA_2	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+DHBFGMFK_00922	gene	435	folK			
+DHBFGMFK_00922	CDS	435	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+DHBFGMFK_00923	gene	600	purH_1			
+DHBFGMFK_00923	CDS	600	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+DHBFGMFK_00924	gene	1026	mbl			
+DHBFGMFK_00924	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+DHBFGMFK_00925	gene	867				
+DHBFGMFK_00925	CDS	867				hypothetical protein
+DHBFGMFK_00926	gene	498				
+DHBFGMFK_00926	CDS	498				hypothetical protein
+DHBFGMFK_00927	gene	1851	mrdA			
+DHBFGMFK_00927	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+DHBFGMFK_00928	gene	1470	mrdB			
+DHBFGMFK_00928	CDS	1470	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+DHBFGMFK_00929	gene	465				
+DHBFGMFK_00929	CDS	465				hypothetical protein
+DHBFGMFK_00930	gene	1248				
+DHBFGMFK_00930	CDS	1248				hypothetical protein
+DHBFGMFK_00931	gene	1140				
+DHBFGMFK_00931	CDS	1140				hypothetical protein
+DHBFGMFK_00932	gene	687	rsmI			
+DHBFGMFK_00932	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+DHBFGMFK_00933	gene	846				
+DHBFGMFK_00933	CDS	846				hypothetical protein
+DHBFGMFK_00934	gene	453	tadA_2			
+DHBFGMFK_00934	CDS	453	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+DHBFGMFK_00935	gene	783	birA			
+DHBFGMFK_00935	CDS	783	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+DHBFGMFK_00936	gene	558				
+DHBFGMFK_00936	CDS	558				hypothetical protein
+DHBFGMFK_00937	gene	711	pyrH			
+DHBFGMFK_00937	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+DHBFGMFK_00938	gene	567				
+DHBFGMFK_00938	CDS	567				hypothetical protein
+DHBFGMFK_00939	gene	168	fdxA			
+DHBFGMFK_00939	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+DHBFGMFK_00940	gene	744				
+DHBFGMFK_00940	CDS	744				hypothetical protein
+DHBFGMFK_00941	gene	843	yfkN_1			
+DHBFGMFK_00941	CDS	843	yfkN_1		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+DHBFGMFK_00942	gene	765				
+DHBFGMFK_00942	CDS	765				hypothetical protein
+DHBFGMFK_00943	gene	363	rplS			
+DHBFGMFK_00943	CDS	363	rplS		COG0335	50S ribosomal protein L19
+DHBFGMFK_00944	gene	576				
+DHBFGMFK_00944	CDS	576				hypothetical protein
+DHBFGMFK_00945	gene	144				
+DHBFGMFK_00945	CDS	144				hypothetical protein
+DHBFGMFK_00946	gene	2406	btuB_5			
+DHBFGMFK_00946	CDS	2406	btuB_5			Vitamin B12 transporter BtuB
+DHBFGMFK_00947	gene	549				
+DHBFGMFK_00947	CDS	549				hypothetical protein
+DHBFGMFK_00948	gene	813				
+DHBFGMFK_00948	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+DHBFGMFK_00949	gene	1176	obg			
+DHBFGMFK_00949	CDS	1176	obg	3.6.5.-		GTPase Obg
+DHBFGMFK_00950	gene	567	adk			
+DHBFGMFK_00950	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+DHBFGMFK_00951	gene	537	hpt			
+DHBFGMFK_00951	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+DHBFGMFK_00952	gene	1557	nnr			
+DHBFGMFK_00952	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+DHBFGMFK_00953	gene	735				
+DHBFGMFK_00953	CDS	735				hypothetical protein
+DHBFGMFK_00954	gene	1077				
+DHBFGMFK_00954	CDS	1077				hypothetical protein
+DHBFGMFK_00955	gene	1002	fda			
+DHBFGMFK_00955	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+DHBFGMFK_00956	gene	1200	mgl			
+DHBFGMFK_00956	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+DHBFGMFK_00957	gene	192				
+DHBFGMFK_00957	CDS	192				hypothetical protein
+DHBFGMFK_00958	gene	1182	purH_2			
+DHBFGMFK_00958	CDS	1182	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+DHBFGMFK_00959	gene	1809	mutS_1			
+DHBFGMFK_00959	CDS	1809	mutS_1			DNA mismatch repair protein MutS
+DHBFGMFK_00960	gene	840				
+DHBFGMFK_00960	CDS	840				hypothetical protein
+DHBFGMFK_00961	gene	600				
+DHBFGMFK_00961	CDS	600				hypothetical protein
+DHBFGMFK_00962	gene	231				
+DHBFGMFK_00962	CDS	231				hypothetical protein
+DHBFGMFK_00963	gene	1491	cysS			
+DHBFGMFK_00963	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+DHBFGMFK_00964	gene	936				
+DHBFGMFK_00964	CDS	936				hypothetical protein
+DHBFGMFK_00965	gene	1008	pepE			
+DHBFGMFK_00965	CDS	1008	pepE	3.4.22.-	COG3579	Aminopeptidase E
+DHBFGMFK_00966	gene	1047				
+DHBFGMFK_00966	CDS	1047				hypothetical protein
+DHBFGMFK_00967	gene	606				
+DHBFGMFK_00967	CDS	606				hypothetical protein
+DHBFGMFK_00968	gene	237	acpP			
+DHBFGMFK_00968	CDS	237	acpP		COG0236	Acyl carrier protein
+DHBFGMFK_00969	gene	1263	fabF			
+DHBFGMFK_00969	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+DHBFGMFK_00970	gene	1050	rnc			
+DHBFGMFK_00970	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+DHBFGMFK_00971	gene	1644	hcp			
+DHBFGMFK_00971	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+DHBFGMFK_00972	gene	96				
+DHBFGMFK_00972	CDS	96				hypothetical protein
+DHBFGMFK_00973	gene	600				
+DHBFGMFK_00973	CDS	600				hypothetical protein
+DHBFGMFK_00974	gene	669				
+DHBFGMFK_00974	CDS	669				hypothetical protein
+DHBFGMFK_00975	gene	177				
+DHBFGMFK_00975	CDS	177				hypothetical protein
+DHBFGMFK_00976	gene	321				
+DHBFGMFK_00976	CDS	321				hypothetical protein
+DHBFGMFK_00977	gene	1527				
+DHBFGMFK_00977	CDS	1527				hypothetical protein
+DHBFGMFK_00978	gene	1314				
+DHBFGMFK_00978	CDS	1314				hypothetical protein
+DHBFGMFK_00979	gene	1494	patA_1			
+DHBFGMFK_00979	CDS	1494	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+DHBFGMFK_00980	gene	213				
+DHBFGMFK_00980	CDS	213				hypothetical protein
+DHBFGMFK_00981	gene	651				
+DHBFGMFK_00981	CDS	651				hypothetical protein
+DHBFGMFK_00982	gene	3420				
+DHBFGMFK_00982	CDS	3420				hypothetical protein
+DHBFGMFK_00983	gene	171				
+DHBFGMFK_00983	CDS	171				hypothetical protein
+DHBFGMFK_00984	gene	74				
+DHBFGMFK_00984	tRNA	74				tRNA-Met(cat)
+DHBFGMFK_00985	gene	612				
+DHBFGMFK_00985	CDS	612				hypothetical protein
+DHBFGMFK_00986	gene	747	fabG			
+DHBFGMFK_00986	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DHBFGMFK_00987	gene	672	rluD_2			
+DHBFGMFK_00987	CDS	672	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DHBFGMFK_00988	gene	747				
+DHBFGMFK_00988	CDS	747				hypothetical protein
+DHBFGMFK_00989	gene	4644				
+DHBFGMFK_00989	CDS	4644				hypothetical protein
+DHBFGMFK_00990	gene	2373	bamA_2			
+DHBFGMFK_00990	CDS	2373	bamA_2			Outer membrane protein assembly factor BamA
+DHBFGMFK_00991	gene	1410	clsA			
+DHBFGMFK_00991	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+DHBFGMFK_00992	gene	660	queE			
+DHBFGMFK_00992	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+DHBFGMFK_00993	gene	330				
+DHBFGMFK_00993	CDS	330				hypothetical protein
+DHBFGMFK_00994	gene	1938	dnaG			
+DHBFGMFK_00994	CDS	1938	dnaG	2.7.7.-		DNA primase
+DHBFGMFK_00995	gene	1038	nrnA			
+DHBFGMFK_00995	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+DHBFGMFK_00996	gene	579				
+DHBFGMFK_00996	CDS	579				hypothetical protein
+DHBFGMFK_00997	gene	1440	recD2_1			
+DHBFGMFK_00997	CDS	1440	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+DHBFGMFK_00998	gene	492				
+DHBFGMFK_00998	CDS	492				hypothetical protein
+DHBFGMFK_00999	gene	861				
+DHBFGMFK_00999	CDS	861				hypothetical protein
+DHBFGMFK_01000	gene	558	rsmD			
+DHBFGMFK_01000	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+DHBFGMFK_01001	gene	912				
+DHBFGMFK_01001	CDS	912				hypothetical protein
+DHBFGMFK_01002	gene	1347	nhaD			
+DHBFGMFK_01002	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+DHBFGMFK_01003	gene	849				
+DHBFGMFK_01003	CDS	849				hypothetical protein
+DHBFGMFK_01004	gene	597				
+DHBFGMFK_01004	CDS	597				hypothetical protein
+DHBFGMFK_01005	gene	1305				
+DHBFGMFK_01005	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+DHBFGMFK_01006	gene	1023	recA			
+DHBFGMFK_01006	CDS	1023	recA			Protein RecA
+DHBFGMFK_01007	gene	2847	alaS			
+DHBFGMFK_01007	CDS	2847	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+DHBFGMFK_01008	gene	348				
+DHBFGMFK_01008	CDS	348				hypothetical protein
+DHBFGMFK_01009	gene	2286	relA_2			
+DHBFGMFK_01009	CDS	2286	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+DHBFGMFK_01010	gene	1536				
+DHBFGMFK_01010	CDS	1536				hypothetical protein
+DHBFGMFK_01011	gene	765				
+DHBFGMFK_01011	CDS	765				hypothetical protein
+DHBFGMFK_01012	gene	900	parB			
+DHBFGMFK_01012	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+DHBFGMFK_01013	gene	762	soj			
+DHBFGMFK_01013	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+DHBFGMFK_01014	gene	99				
+DHBFGMFK_01014	CDS	99				hypothetical protein
+DHBFGMFK_01015	gene	774	surE			
+DHBFGMFK_01015	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+DHBFGMFK_01016	gene	1149	lpxB			
+DHBFGMFK_01016	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+DHBFGMFK_01017	gene	963				
+DHBFGMFK_01017	CDS	963				hypothetical protein
+DHBFGMFK_01018	gene	1461	pepD_2			
+DHBFGMFK_01018	CDS	1461	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+DHBFGMFK_01019	gene	141				
+DHBFGMFK_01019	CDS	141				hypothetical protein
+DHBFGMFK_01020	gene	927				
+DHBFGMFK_01020	CDS	927				hypothetical protein
+DHBFGMFK_01021	gene	1854				
+DHBFGMFK_01021	CDS	1854				hypothetical protein
+DHBFGMFK_01022	gene	72				
+DHBFGMFK_01022	tRNA	72				tRNA-Gln(ctg)
+DHBFGMFK_01023	gene	360	rsfS			
+DHBFGMFK_01023	CDS	360	rsfS			Ribosomal silencing factor RsfS
+DHBFGMFK_01024	gene	1971	ftsH_1			
+DHBFGMFK_01024	CDS	1971	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+DHBFGMFK_01025	gene	852				
+DHBFGMFK_01025	CDS	852				hypothetical protein
+DHBFGMFK_01026	gene	522				
+DHBFGMFK_01026	CDS	522				hypothetical protein
+DHBFGMFK_01027	gene	2313				
+DHBFGMFK_01027	CDS	2313				hypothetical protein
+DHBFGMFK_01028	gene	222				
+DHBFGMFK_01028	CDS	222				hypothetical protein
+DHBFGMFK_01029	gene	1071	aroB			
+DHBFGMFK_01029	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+DHBFGMFK_01030	gene	831	resA_3			
+DHBFGMFK_01030	CDS	831	resA_3			Thiol-disulfide oxidoreductase ResA
+DHBFGMFK_01031	gene	933	yrbG			
+DHBFGMFK_01031	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+DHBFGMFK_01032	gene	1065				
+DHBFGMFK_01032	CDS	1065				hypothetical protein
+DHBFGMFK_01033	gene	444				
+DHBFGMFK_01033	CDS	444				hypothetical protein
+DHBFGMFK_01034	gene	561	coaE			
+DHBFGMFK_01034	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+DHBFGMFK_01035	gene	987				
+DHBFGMFK_01035	CDS	987				hypothetical protein
+DHBFGMFK_01036	gene	330				
+DHBFGMFK_01036	CDS	330				hypothetical protein
+DHBFGMFK_01037	gene	1002	nusB			
+DHBFGMFK_01037	CDS	1002	nusB			Transcription antitermination protein NusB
+DHBFGMFK_01038	gene	612	ctc			
+DHBFGMFK_01038	CDS	612	ctc		COG1825	General stress protein CTC
+DHBFGMFK_01039	gene	606	pth			
+DHBFGMFK_01039	CDS	606	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+DHBFGMFK_01040	gene	489				
+DHBFGMFK_01040	CDS	489				hypothetical protein
+DHBFGMFK_01041	gene	570	purN			
+DHBFGMFK_01041	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+DHBFGMFK_01042	gene	2943				
+DHBFGMFK_01042	CDS	2943				hypothetical protein
+DHBFGMFK_01043	gene	99				
+DHBFGMFK_01043	CDS	99				hypothetical protein
+DHBFGMFK_01044	gene	555	polC			
+DHBFGMFK_01044	CDS	555	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+DHBFGMFK_01045	gene	1017				
+DHBFGMFK_01045	CDS	1017				hypothetical protein
+DHBFGMFK_01046	gene	465	queF			
+DHBFGMFK_01046	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+DHBFGMFK_01047	gene	339				
+DHBFGMFK_01047	CDS	339				hypothetical protein
+DHBFGMFK_01048	gene	429				
+DHBFGMFK_01048	CDS	429				hypothetical protein
+DHBFGMFK_01049	gene	849				
+DHBFGMFK_01049	CDS	849				hypothetical protein
+DHBFGMFK_01050	gene	1329	allB			
+DHBFGMFK_01050	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+DHBFGMFK_01051	gene	1179				
+DHBFGMFK_01051	CDS	1179				hypothetical protein
+DHBFGMFK_01052	gene	1278				
+DHBFGMFK_01052	CDS	1278				hypothetical protein
+DHBFGMFK_01053	gene	1152				
+DHBFGMFK_01053	CDS	1152				hypothetical protein
+DHBFGMFK_01054	gene	705				
+DHBFGMFK_01054	CDS	705			COG1136	putative ABC transporter ATP-binding protein
+DHBFGMFK_01055	gene	1221				
+DHBFGMFK_01055	CDS	1221				hypothetical protein
+DHBFGMFK_01056	gene	1224				
+DHBFGMFK_01056	CDS	1224				hypothetical protein
+DHBFGMFK_01057	gene	756				
+DHBFGMFK_01057	CDS	756				hypothetical protein
+DHBFGMFK_01058	gene	675				
+DHBFGMFK_01058	CDS	675				hypothetical protein
+DHBFGMFK_01059	gene	1209	rhaR			
+DHBFGMFK_01059	CDS	1209	rhaR			HTH-type transcriptional activator RhaR
+DHBFGMFK_01060	gene	762				
+DHBFGMFK_01060	CDS	762				hypothetical protein
+DHBFGMFK_01061	gene	759	ppm1			
+DHBFGMFK_01061	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+DHBFGMFK_01062	gene	2772	lptD_1			
+DHBFGMFK_01062	CDS	2772	lptD_1			LPS-assembly protein LptD
+DHBFGMFK_01063	gene	585				
+DHBFGMFK_01063	CDS	585				hypothetical protein
+DHBFGMFK_01064	gene	1776				
+DHBFGMFK_01064	CDS	1776				hypothetical protein
+DHBFGMFK_01065	gene	2256	kefB_1			
+DHBFGMFK_01065	CDS	2256	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+DHBFGMFK_01066	gene	1224	pepT			
+DHBFGMFK_01066	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+DHBFGMFK_01067	gene	75				
+DHBFGMFK_01067	tRNA	75				tRNA-Arg(ccg)
+DHBFGMFK_01068	gene	693				
+DHBFGMFK_01068	CDS	693				hypothetical protein
+DHBFGMFK_01069	gene	756				
+DHBFGMFK_01069	CDS	756				hypothetical protein
+DHBFGMFK_01070	gene	1038				
+DHBFGMFK_01070	CDS	1038				hypothetical protein
+DHBFGMFK_01071	gene	2172				
+DHBFGMFK_01071	CDS	2172				hypothetical protein
+DHBFGMFK_01072	gene	1092	accIR			
+DHBFGMFK_01072	CDS	1092	accIR	3.1.21.4		Type-2 restriction enzyme AccI
+DHBFGMFK_01073	gene	174				
+DHBFGMFK_01073	CDS	174				hypothetical protein
+DHBFGMFK_01074	gene	636	udk_1			
+DHBFGMFK_01074	CDS	636	udk_1	2.7.1.48		Uridine kinase
+DHBFGMFK_01075	gene	573				
+DHBFGMFK_01075	CDS	573				hypothetical protein
+DHBFGMFK_01076	gene	1038				
+DHBFGMFK_01076	CDS	1038				hypothetical protein
+DHBFGMFK_01077	gene	2562				
+DHBFGMFK_01077	CDS	2562				hypothetical protein
+DHBFGMFK_01078	gene	930				
+DHBFGMFK_01078	CDS	930				hypothetical protein
+DHBFGMFK_01079	gene	1335				
+DHBFGMFK_01079	CDS	1335				hypothetical protein
+DHBFGMFK_01080	gene	255	rpmE2			
+DHBFGMFK_01080	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+DHBFGMFK_01081	gene	906				
+DHBFGMFK_01081	CDS	906				hypothetical protein
+DHBFGMFK_01082	gene	156				
+DHBFGMFK_01082	CDS	156				hypothetical protein
+DHBFGMFK_01083	gene	2859				
+DHBFGMFK_01083	CDS	2859				hypothetical protein
+DHBFGMFK_01084	gene	261				
+DHBFGMFK_01084	CDS	261				hypothetical protein
+DHBFGMFK_01085	gene	2061				
+DHBFGMFK_01085	CDS	2061				hypothetical protein
+DHBFGMFK_01086	gene	333	lagD_2			
+DHBFGMFK_01086	CDS	333	lagD_2	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+DHBFGMFK_01087	gene	804				
+DHBFGMFK_01087	CDS	804				hypothetical protein
+DHBFGMFK_01088	gene	1413	ispG			
+DHBFGMFK_01088	CDS	1413	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+DHBFGMFK_01089	gene	507	purE			
+DHBFGMFK_01089	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+DHBFGMFK_01090	gene	630				
+DHBFGMFK_01090	CDS	630				hypothetical protein
+DHBFGMFK_01091	gene	1506	rpoN			
+DHBFGMFK_01091	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+DHBFGMFK_01092	gene	645				
+DHBFGMFK_01092	CDS	645				hypothetical protein
+DHBFGMFK_01093	gene	1089				
+DHBFGMFK_01093	CDS	1089				hypothetical protein
+DHBFGMFK_01094	gene	990	nadA			
+DHBFGMFK_01094	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+DHBFGMFK_01095	gene	1395				
+DHBFGMFK_01095	CDS	1395				hypothetical protein
+DHBFGMFK_01096	gene	2379				
+DHBFGMFK_01096	CDS	2379				hypothetical protein
+DHBFGMFK_01097	gene	2139				
+DHBFGMFK_01097	CDS	2139				hypothetical protein
+DHBFGMFK_01098	gene	894				
+DHBFGMFK_01098	CDS	894				hypothetical protein
+DHBFGMFK_01099	gene	117				
+DHBFGMFK_01099	CDS	117				hypothetical protein
+DHBFGMFK_01100	gene	159				
+DHBFGMFK_01100	CDS	159				hypothetical protein
+DHBFGMFK_01101	gene	609				
+DHBFGMFK_01101	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+DHBFGMFK_01102	gene	969				
+DHBFGMFK_01102	CDS	969				hypothetical protein
+DHBFGMFK_01103	gene	2874	leuS			
+DHBFGMFK_01103	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+DHBFGMFK_01104	gene	642				
+DHBFGMFK_01104	CDS	642				hypothetical protein
+DHBFGMFK_01105	gene	633	pflA			
+DHBFGMFK_01105	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+DHBFGMFK_01106	gene	438				
+DHBFGMFK_01106	CDS	438				hypothetical protein
+DHBFGMFK_01107	gene	1104	ychF			
+DHBFGMFK_01107	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+DHBFGMFK_01108	gene	849	lgt			
+DHBFGMFK_01108	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+DHBFGMFK_01109	gene	2628	mutS_2			
+DHBFGMFK_01109	CDS	2628	mutS_2		COG0249	DNA mismatch repair protein MutS
+DHBFGMFK_01110	gene	1575				
+DHBFGMFK_01110	CDS	1575				hypothetical protein
+DHBFGMFK_01111	gene	1131	capA			
+DHBFGMFK_01111	CDS	1131	capA			Capsule biosynthesis protein CapA
+DHBFGMFK_01112	gene	2766	polA			
+DHBFGMFK_01112	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+DHBFGMFK_01113	gene	978	ispB			
+DHBFGMFK_01113	CDS	978	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+DHBFGMFK_01114	gene	606				
+DHBFGMFK_01114	CDS	606				hypothetical protein
+DHBFGMFK_01115	gene	891	deoC			
+DHBFGMFK_01115	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+DHBFGMFK_01116	gene	393				
+DHBFGMFK_01116	CDS	393				hypothetical protein
+DHBFGMFK_01117	gene	453	dtd			
+DHBFGMFK_01117	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+DHBFGMFK_01118	gene	1836	uvrC			
+DHBFGMFK_01118	CDS	1836	uvrC		COG0322	UvrABC system protein C
+DHBFGMFK_01119	gene	531	apt			
+DHBFGMFK_01119	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+DHBFGMFK_01120	gene	1953	mnmG			
+DHBFGMFK_01120	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+DHBFGMFK_01121	gene	690				
+DHBFGMFK_01121	CDS	690				hypothetical protein
+DHBFGMFK_01122	gene	1983	frdA			
+DHBFGMFK_01122	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+DHBFGMFK_01123	gene	756	frdB			
+DHBFGMFK_01123	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+DHBFGMFK_01124	gene	513				
+DHBFGMFK_01124	CDS	513				hypothetical protein
+DHBFGMFK_01125	gene	168				
+DHBFGMFK_01125	CDS	168				hypothetical protein
+DHBFGMFK_01126	gene	594				
+DHBFGMFK_01126	CDS	594				hypothetical protein
+DHBFGMFK_01127	gene	708				
+DHBFGMFK_01127	CDS	708				hypothetical protein
+DHBFGMFK_01128	gene	1866	deaD_3			
+DHBFGMFK_01128	CDS	1866	deaD_3	3.6.4.13		ATP-dependent RNA helicase DeaD
+DHBFGMFK_01129	gene	1377				
+DHBFGMFK_01129	CDS	1377				hypothetical protein
+DHBFGMFK_01130	gene	1227				
+DHBFGMFK_01130	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+DHBFGMFK_01131	gene	426				
+DHBFGMFK_01131	CDS	426				hypothetical protein
+DHBFGMFK_01132	gene	228				
+DHBFGMFK_01132	CDS	228				hypothetical protein
+DHBFGMFK_01133	gene	204				
+DHBFGMFK_01133	CDS	204				hypothetical protein
+DHBFGMFK_01134	gene	1941				
+DHBFGMFK_01134	CDS	1941				hypothetical protein
+DHBFGMFK_01135	gene	825	dpnM			
+DHBFGMFK_01135	CDS	825	dpnM	2.1.1.72		Modification methylase DpnIIA
+DHBFGMFK_01136	gene	819	dpnA			
+DHBFGMFK_01136	CDS	819	dpnA	2.1.1.72		Modification methylase DpnIIB
+DHBFGMFK_01137	gene	213				
+DHBFGMFK_01137	CDS	213				hypothetical protein
+DHBFGMFK_01138	gene	777	dapB			
+DHBFGMFK_01138	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+DHBFGMFK_01139	gene	1440				
+DHBFGMFK_01139	CDS	1440				hypothetical protein
+DHBFGMFK_01140	gene	411				
+DHBFGMFK_01140	CDS	411				hypothetical protein
+DHBFGMFK_01141	gene	606				
+DHBFGMFK_01141	CDS	606				hypothetical protein
+DHBFGMFK_01142	gene	1218	pyrP			
+DHBFGMFK_01142	CDS	1218	pyrP			Uracil permease
+DHBFGMFK_01143	gene	744				
+DHBFGMFK_01143	CDS	744				hypothetical protein
+DHBFGMFK_01144	gene	1296	adeP			
+DHBFGMFK_01144	CDS	1296	adeP		COG2252	Adenine permease AdeP
+DHBFGMFK_01145	gene	1887				
+DHBFGMFK_01145	CDS	1887				hypothetical protein
+DHBFGMFK_01146	gene	468				
+DHBFGMFK_01146	CDS	468				hypothetical protein
+DHBFGMFK_01147	gene	2115				
+DHBFGMFK_01147	CDS	2115				hypothetical protein
+DHBFGMFK_01148	gene	102				
+DHBFGMFK_01148	CDS	102				hypothetical protein
+DHBFGMFK_01149	gene	450				
+DHBFGMFK_01149	CDS	450				hypothetical protein
+DHBFGMFK_01150	gene	786	tcdA			
+DHBFGMFK_01150	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+DHBFGMFK_01151	gene	558				
+DHBFGMFK_01151	CDS	558				hypothetical protein
+DHBFGMFK_01152	gene	1230				
+DHBFGMFK_01152	CDS	1230				hypothetical protein
+DHBFGMFK_01153	gene	4803				
+DHBFGMFK_01153	CDS	4803				hypothetical protein
+DHBFGMFK_01154	gene	1806				
+DHBFGMFK_01154	CDS	1806				hypothetical protein
+DHBFGMFK_01155	gene	3519				
+DHBFGMFK_01155	CDS	3519				hypothetical protein
+DHBFGMFK_01156	gene	1395				
+DHBFGMFK_01156	CDS	1395				hypothetical protein
+DHBFGMFK_01157	gene	3273	rapA			
+DHBFGMFK_01157	CDS	3273	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+DHBFGMFK_01158	gene	291				
+DHBFGMFK_01158	CDS	291				hypothetical protein
+DHBFGMFK_01159	gene	651				
+DHBFGMFK_01159	CDS	651				hypothetical protein
+DHBFGMFK_01160	gene	843				
+DHBFGMFK_01160	CDS	843				hypothetical protein
+DHBFGMFK_01161	gene	948				
+DHBFGMFK_01161	CDS	948				hypothetical protein
+DHBFGMFK_01162	gene	1038	wbbI			
+DHBFGMFK_01162	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+DHBFGMFK_01163	gene	726				
+DHBFGMFK_01163	CDS	726				hypothetical protein
+DHBFGMFK_01164	gene	717				
+DHBFGMFK_01164	CDS	717				hypothetical protein
+DHBFGMFK_01165	gene	2127	dpp7			
+DHBFGMFK_01165	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+DHBFGMFK_01166	gene	1473				
+DHBFGMFK_01166	CDS	1473				hypothetical protein
+DHBFGMFK_01167	gene	1233				
+DHBFGMFK_01167	CDS	1233				hypothetical protein
+DHBFGMFK_01168	gene	171				
+DHBFGMFK_01168	CDS	171				hypothetical protein
+DHBFGMFK_01169	gene	1029				
+DHBFGMFK_01169	CDS	1029				hypothetical protein
+DHBFGMFK_01170	gene	1755				
+DHBFGMFK_01170	CDS	1755				hypothetical protein
+DHBFGMFK_01171	gene	468	asnC_1			
+DHBFGMFK_01171	CDS	468	asnC_1		COG1522	Regulatory protein AsnC
+DHBFGMFK_01172	gene	912				
+DHBFGMFK_01172	CDS	912				hypothetical protein
+DHBFGMFK_01173	gene	879				
+DHBFGMFK_01173	CDS	879				hypothetical protein
+DHBFGMFK_01174	gene	606	fklB			
+DHBFGMFK_01174	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+DHBFGMFK_01175	gene	1446				
+DHBFGMFK_01175	CDS	1446				hypothetical protein
+DHBFGMFK_01176	gene	3633				
+DHBFGMFK_01176	CDS	3633				hypothetical protein
+DHBFGMFK_01177	gene	1188				
+DHBFGMFK_01177	CDS	1188				hypothetical protein
+DHBFGMFK_01178	gene	156				
+DHBFGMFK_01178	CDS	156				hypothetical protein
+DHBFGMFK_01179	gene	705	cobB			
+DHBFGMFK_01179	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+DHBFGMFK_01180	gene	2004				
+DHBFGMFK_01180	CDS	2004				hypothetical protein
+DHBFGMFK_01181	gene	534				
+DHBFGMFK_01181	CDS	534				hypothetical protein
+DHBFGMFK_01182	gene	540				
+DHBFGMFK_01182	CDS	540				hypothetical protein
+DHBFGMFK_01183	gene	465	rimP			
+DHBFGMFK_01183	CDS	465	rimP			Ribosome maturation factor RimP
+DHBFGMFK_01184	gene	1257	nusA			
+DHBFGMFK_01184	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+DHBFGMFK_01185	gene	2868	infB			
+DHBFGMFK_01185	CDS	2868	infB			Translation initiation factor IF-2
+DHBFGMFK_01186	gene	147				
+DHBFGMFK_01186	CDS	147				hypothetical protein
+DHBFGMFK_01187	gene	1458	sufB			
+DHBFGMFK_01187	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+DHBFGMFK_01188	gene	366				
+DHBFGMFK_01188	CDS	366				hypothetical protein
+DHBFGMFK_01189	gene	756	sufC			
+DHBFGMFK_01189	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+DHBFGMFK_01190	gene	1365	sufD			
+DHBFGMFK_01190	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+DHBFGMFK_01191	gene	1584				
+DHBFGMFK_01191	CDS	1584				hypothetical protein
+DHBFGMFK_01192	gene	219				
+DHBFGMFK_01192	CDS	219				hypothetical protein
+DHBFGMFK_01193	gene	219				
+DHBFGMFK_01193	CDS	219				hypothetical protein
+DHBFGMFK_01194	gene	1722	msbA_2			
+DHBFGMFK_01194	CDS	1722	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+DHBFGMFK_01195	gene	1725				
+DHBFGMFK_01195	CDS	1725			COG1132	putative ABC transporter ATP-binding protein
+DHBFGMFK_01196	gene	189				
+DHBFGMFK_01196	CDS	189				hypothetical protein
+DHBFGMFK_01197	gene	2379				
+DHBFGMFK_01197	CDS	2379				hypothetical protein
+DHBFGMFK_01198	gene	780				
+DHBFGMFK_01198	CDS	780				hypothetical protein
+DHBFGMFK_01199	gene	1320				
+DHBFGMFK_01199	CDS	1320				hypothetical protein
+DHBFGMFK_01200	gene	636	nfrA2			
+DHBFGMFK_01200	CDS	636	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+DHBFGMFK_01201	gene	1095				
+DHBFGMFK_01201	CDS	1095				hypothetical protein
+DHBFGMFK_01202	gene	129				
+DHBFGMFK_01202	CDS	129				hypothetical protein
+DHBFGMFK_01203	gene	294				
+DHBFGMFK_01203	CDS	294				hypothetical protein
+DHBFGMFK_01204	gene	729				
+DHBFGMFK_01204	CDS	729				hypothetical protein
+DHBFGMFK_01205	gene	420				
+DHBFGMFK_01205	CDS	420				hypothetical protein
+DHBFGMFK_01206	gene	984				
+DHBFGMFK_01206	CDS	984				hypothetical protein
+DHBFGMFK_01207	gene	933				
+DHBFGMFK_01207	CDS	933				hypothetical protein
+DHBFGMFK_01208	gene	138				
+DHBFGMFK_01208	CDS	138				hypothetical protein
+DHBFGMFK_01209	gene	1443	tuaB_1			
+DHBFGMFK_01209	CDS	1443	tuaB_1		COG2244	Teichuronic acid biosynthesis protein TuaB
+DHBFGMFK_01210	gene	1440				
+DHBFGMFK_01210	CDS	1440				hypothetical protein
+DHBFGMFK_01211	gene	639				
+DHBFGMFK_01211	CDS	639				hypothetical protein
+DHBFGMFK_01212	gene	879				
+DHBFGMFK_01212	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+DHBFGMFK_01213	gene	609				
+DHBFGMFK_01213	CDS	609				hypothetical protein
+DHBFGMFK_01214	gene	567	yajL			
+DHBFGMFK_01214	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+DHBFGMFK_01215	gene	900	nadK			
+DHBFGMFK_01215	CDS	900	nadK	2.7.1.23		NAD kinase
+DHBFGMFK_01216	gene	1683				
+DHBFGMFK_01216	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+DHBFGMFK_01217	gene	1071				
+DHBFGMFK_01217	CDS	1071				hypothetical protein
+DHBFGMFK_01218	gene	1857	cptA			
+DHBFGMFK_01218	CDS	1857	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+DHBFGMFK_01219	gene	804				
+DHBFGMFK_01219	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+DHBFGMFK_01220	gene	1356	mshA_3			
+DHBFGMFK_01220	CDS	1356	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DHBFGMFK_01221	gene	330				
+DHBFGMFK_01221	CDS	330				hypothetical protein
+DHBFGMFK_01222	gene	603				
+DHBFGMFK_01222	CDS	603				hypothetical protein
+DHBFGMFK_01223	gene	705				
+DHBFGMFK_01223	CDS	705				hypothetical protein
+DHBFGMFK_01224	gene	4299				
+DHBFGMFK_01224	CDS	4299				hypothetical protein
+DHBFGMFK_01225	gene	2229	btuB_6			
+DHBFGMFK_01225	CDS	2229	btuB_6			Vitamin B12 transporter BtuB
+DHBFGMFK_01226	gene	765				
+DHBFGMFK_01226	CDS	765				hypothetical protein
+DHBFGMFK_01227	gene	477	ispF			
+DHBFGMFK_01227	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+DHBFGMFK_01228	gene	1152				
+DHBFGMFK_01228	CDS	1152				hypothetical protein
+DHBFGMFK_01229	gene	96				
+DHBFGMFK_01229	CDS	96				hypothetical protein
+DHBFGMFK_01230	gene	3567				
+DHBFGMFK_01230	CDS	3567				hypothetical protein
+DHBFGMFK_01231	gene	618	ycgM			
+DHBFGMFK_01231	CDS	618	ycgM		COG0179	putative protein YcgM
+DHBFGMFK_01232	gene	999	TSFM			
+DHBFGMFK_01232	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+DHBFGMFK_01233	gene	870	rpsB			
+DHBFGMFK_01233	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+DHBFGMFK_01234	gene	387	rpsI			
+DHBFGMFK_01234	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+DHBFGMFK_01235	gene	462	rplM			
+DHBFGMFK_01235	CDS	462	rplM		COG0102	50S ribosomal protein L13
+DHBFGMFK_01236	gene	1788				
+DHBFGMFK_01236	CDS	1788				hypothetical protein
+DHBFGMFK_01237	gene	1359				
+DHBFGMFK_01237	CDS	1359				hypothetical protein
+DHBFGMFK_01238	gene	192				
+DHBFGMFK_01238	CDS	192				hypothetical protein
+DHBFGMFK_01239	gene	1341				
+DHBFGMFK_01239	CDS	1341				hypothetical protein
+DHBFGMFK_01240	gene	1077				
+DHBFGMFK_01240	CDS	1077				hypothetical protein
+DHBFGMFK_01241	gene	117				
+DHBFGMFK_01241	CDS	117				hypothetical protein
+DHBFGMFK_01242	gene	717				
+DHBFGMFK_01242	CDS	717				hypothetical protein
+DHBFGMFK_01243	gene	633	nadD			
+DHBFGMFK_01243	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+DHBFGMFK_01244	gene	696	gmk			
+DHBFGMFK_01244	CDS	696	gmk	2.7.4.8	COG0194	Guanylate kinase
+DHBFGMFK_01245	gene	1149				
+DHBFGMFK_01245	CDS	1149				hypothetical protein
+DHBFGMFK_01246	gene	879				
+DHBFGMFK_01246	CDS	879				hypothetical protein
+DHBFGMFK_01247	gene	690				
+DHBFGMFK_01247	CDS	690				hypothetical protein
+DHBFGMFK_01248	gene	612				
+DHBFGMFK_01248	CDS	612				hypothetical protein
+DHBFGMFK_01249	gene	1347	murA			
+DHBFGMFK_01249	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+DHBFGMFK_01250	gene	522	rimM			
+DHBFGMFK_01250	CDS	522	rimM			Ribosome maturation factor RimM
+DHBFGMFK_01251	gene	1155	dxr			
+DHBFGMFK_01251	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+DHBFGMFK_01252	gene	1410				
+DHBFGMFK_01252	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+DHBFGMFK_01253	gene	3717				
+DHBFGMFK_01253	CDS	3717				hypothetical protein
+DHBFGMFK_01254	gene	474				
+DHBFGMFK_01254	CDS	474			COG3039	IS5 family transposase ISCca3
+DHBFGMFK_01255	gene	1896	sacC			
+DHBFGMFK_01255	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+DHBFGMFK_01256	gene	1155				
+DHBFGMFK_01256	CDS	1155				hypothetical protein
+DHBFGMFK_01257	gene	909	pfkB			
+DHBFGMFK_01257	CDS	909	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+DHBFGMFK_01258	gene	3339				
+DHBFGMFK_01258	CDS	3339				hypothetical protein
+DHBFGMFK_01259	gene	1851				
+DHBFGMFK_01259	CDS	1851				hypothetical protein
+DHBFGMFK_01260	gene	1686				
+DHBFGMFK_01260	CDS	1686				hypothetical protein
+DHBFGMFK_01261	gene	1767				
+DHBFGMFK_01261	CDS	1767				hypothetical protein
+DHBFGMFK_01262	gene	165				
+DHBFGMFK_01262	CDS	165				hypothetical protein
+DHBFGMFK_01263	gene	468				
+DHBFGMFK_01263	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+DHBFGMFK_01264	gene	1056				
+DHBFGMFK_01264	CDS	1056			COG3039	IS5 family transposase ISPg8
+DHBFGMFK_01265	gene	297				
+DHBFGMFK_01265	CDS	297				hypothetical protein
+DHBFGMFK_01266	gene	432				
+DHBFGMFK_01266	CDS	432				hypothetical protein
+DHBFGMFK_01267	gene	876				
+DHBFGMFK_01267	CDS	876				hypothetical protein
+DHBFGMFK_01268	gene	210				
+DHBFGMFK_01268	CDS	210				hypothetical protein
+DHBFGMFK_01269	gene	837				
+DHBFGMFK_01269	CDS	837				hypothetical protein
+DHBFGMFK_01270	gene	171				
+DHBFGMFK_01270	CDS	171				hypothetical protein
+DHBFGMFK_01271	gene	1215				
+DHBFGMFK_01271	CDS	1215				hypothetical protein
+DHBFGMFK_01272	gene	891				
+DHBFGMFK_01272	CDS	891				hypothetical protein
+DHBFGMFK_01273	gene	105				
+DHBFGMFK_01273	CDS	105				hypothetical protein
+DHBFGMFK_01274	gene	381	rpsL			
+DHBFGMFK_01274	CDS	381	rpsL			30S ribosomal protein S12
+DHBFGMFK_01275	gene	477	rpsG			
+DHBFGMFK_01275	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+DHBFGMFK_01276	gene	2127	fusA_2			
+DHBFGMFK_01276	CDS	2127	fusA_2		COG0480	Elongation factor G
+DHBFGMFK_01277	gene	306	rpsJ			
+DHBFGMFK_01277	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+DHBFGMFK_01278	gene	615	rplC			
+DHBFGMFK_01278	CDS	615	rplC		COG0087	50S ribosomal protein L3
+DHBFGMFK_01279	gene	630	rplD			
+DHBFGMFK_01279	CDS	630	rplD			50S ribosomal protein L4
+DHBFGMFK_01280	gene	294	rplW			
+DHBFGMFK_01280	CDS	294	rplW		COG0089	50S ribosomal protein L23
+DHBFGMFK_01281	gene	825	rplB			
+DHBFGMFK_01281	CDS	825	rplB		COG0090	50S ribosomal protein L2
+DHBFGMFK_01282	gene	267	rpsS			
+DHBFGMFK_01282	CDS	267	rpsS			30S ribosomal protein S19
+DHBFGMFK_01283	gene	405				
+DHBFGMFK_01283	CDS	405				hypothetical protein
+DHBFGMFK_01284	gene	735	rpsC			
+DHBFGMFK_01284	CDS	735	rpsC		COG0092	30S ribosomal protein S3
+DHBFGMFK_01285	gene	429	rplP			
+DHBFGMFK_01285	CDS	429	rplP		COG0197	50S ribosomal protein L16
+DHBFGMFK_01286	gene	195	rpmC			
+DHBFGMFK_01286	CDS	195	rpmC			50S ribosomal protein L29
+DHBFGMFK_01287	gene	258	rpsQ			
+DHBFGMFK_01287	CDS	258	rpsQ			30S ribosomal protein S17
+DHBFGMFK_01288	gene	366	rplN			
+DHBFGMFK_01288	CDS	366	rplN		COG0093	50S ribosomal protein L14
+DHBFGMFK_01289	gene	321	rplX			
+DHBFGMFK_01289	CDS	321	rplX		COG0198	50S ribosomal protein L24
+DHBFGMFK_01290	gene	555	rplE			
+DHBFGMFK_01290	CDS	555	rplE		COG0094	50S ribosomal protein L5
+DHBFGMFK_01291	gene	303	rpsN			
+DHBFGMFK_01291	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+DHBFGMFK_01292	gene	396	rpsH			
+DHBFGMFK_01292	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+DHBFGMFK_01293	gene	567	rplF			
+DHBFGMFK_01293	CDS	567	rplF		COG0097	50S ribosomal protein L6
+DHBFGMFK_01294	gene	345	rplR			
+DHBFGMFK_01294	CDS	345	rplR		COG0256	50S ribosomal protein L18
+DHBFGMFK_01295	gene	516	rpsE			
+DHBFGMFK_01295	CDS	516	rpsE		COG0098	30S ribosomal protein S5
+DHBFGMFK_01296	gene	177	rpmD			
+DHBFGMFK_01296	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+DHBFGMFK_01297	gene	447	rplO			
+DHBFGMFK_01297	CDS	447	rplO		COG0200	50S ribosomal protein L15
+DHBFGMFK_01298	gene	1338	secY			
+DHBFGMFK_01298	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+DHBFGMFK_01299	gene	750	map_2			
+DHBFGMFK_01299	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+DHBFGMFK_01300	gene	219	infA			
+DHBFGMFK_01300	CDS	219	infA			Translation initiation factor IF-1
+DHBFGMFK_01301	gene	117	ykgO			
+DHBFGMFK_01301	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+DHBFGMFK_01302	gene	381	rpsM			
+DHBFGMFK_01302	CDS	381	rpsM			30S ribosomal protein S13
+DHBFGMFK_01303	gene	387	rpsK			
+DHBFGMFK_01303	CDS	387	rpsK			30S ribosomal protein S11
+DHBFGMFK_01304	gene	609	rpsD			
+DHBFGMFK_01304	CDS	609	rpsD			30S ribosomal protein S4
+DHBFGMFK_01305	gene	993	rpoA			
+DHBFGMFK_01305	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+DHBFGMFK_01306	gene	471				
+DHBFGMFK_01306	CDS	471				hypothetical protein
+DHBFGMFK_01307	gene	834				
+DHBFGMFK_01307	CDS	834				hypothetical protein
+DHBFGMFK_01308	gene	126				
+DHBFGMFK_01308	CDS	126				hypothetical protein
+DHBFGMFK_01309	gene	1371				
+DHBFGMFK_01309	CDS	1371				hypothetical protein
+DHBFGMFK_01310	gene	4716	rep_1			
+DHBFGMFK_01310	CDS	4716	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+DHBFGMFK_01311	gene	387	nudG			
+DHBFGMFK_01311	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+DHBFGMFK_01312	gene	1344	gdhB			
+DHBFGMFK_01312	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+DHBFGMFK_01313	gene	372	rlpA			
+DHBFGMFK_01313	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+DHBFGMFK_01314	gene	924				
+DHBFGMFK_01314	CDS	924				IS982 family transposase IS195
+DHBFGMFK_01315	gene	840				
+DHBFGMFK_01315	CDS	840				hypothetical protein
+DHBFGMFK_01316	gene	201				
+DHBFGMFK_01316	CDS	201				hypothetical protein
+DHBFGMFK_01317	gene	627				
+DHBFGMFK_01317	CDS	627				hypothetical protein
+DHBFGMFK_01318	gene	114				
+DHBFGMFK_01318	CDS	114				hypothetical protein
+DHBFGMFK_01319	gene	1725	caiA			
+DHBFGMFK_01319	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+DHBFGMFK_01320	gene	1026	carE			
+DHBFGMFK_01320	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+DHBFGMFK_01321	gene	873	carD			
+DHBFGMFK_01321	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+DHBFGMFK_01322	gene	642				
+DHBFGMFK_01322	CDS	642				hypothetical protein
+DHBFGMFK_01323	gene	1401	algC_1			
+DHBFGMFK_01323	CDS	1401	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+DHBFGMFK_01324	gene	1533	pafA			
+DHBFGMFK_01324	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+DHBFGMFK_01325	gene	7554				
+DHBFGMFK_01325	CDS	7554				hypothetical protein
+DHBFGMFK_01326	gene	606	ruvA			
+DHBFGMFK_01326	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+DHBFGMFK_01327	gene	2184				
+DHBFGMFK_01327	CDS	2184				hypothetical protein
+DHBFGMFK_01328	gene	1470				
+DHBFGMFK_01328	CDS	1470				hypothetical protein
+DHBFGMFK_01329	gene	336				
+DHBFGMFK_01329	CDS	336				hypothetical protein
+DHBFGMFK_01330	gene	900	ddh			
+DHBFGMFK_01330	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+DHBFGMFK_01331	gene	1431	pepC			
+DHBFGMFK_01331	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+DHBFGMFK_01332	gene	1023	ilvE			
+DHBFGMFK_01332	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+DHBFGMFK_01333	gene	171	xseB			
+DHBFGMFK_01333	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+DHBFGMFK_01334	gene	1323	xseA			
+DHBFGMFK_01334	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+DHBFGMFK_01335	gene	1404	mepA			
+DHBFGMFK_01335	CDS	1404	mepA			Multidrug export protein MepA
+DHBFGMFK_01336	gene	630	cmk_1			
+DHBFGMFK_01336	CDS	630	cmk_1	2.7.4.25		Cytidylate kinase
+DHBFGMFK_01337	gene	1134	rfbB_1			
+DHBFGMFK_01337	CDS	1134	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+DHBFGMFK_01338	gene	411	fdtA			
+DHBFGMFK_01338	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+DHBFGMFK_01339	gene	939				
+DHBFGMFK_01339	CDS	939				hypothetical protein
+DHBFGMFK_01340	gene	1239	fdtB			
+DHBFGMFK_01340	CDS	1239	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+DHBFGMFK_01341	gene	1824				
+DHBFGMFK_01341	CDS	1824				hypothetical protein
+DHBFGMFK_01342	gene	1242				
+DHBFGMFK_01342	CDS	1242				hypothetical protein
+DHBFGMFK_01343	gene	537				
+DHBFGMFK_01343	CDS	537				hypothetical protein
+DHBFGMFK_01344	gene	549				
+DHBFGMFK_01344	CDS	549				hypothetical protein
+DHBFGMFK_01345	gene	585				
+DHBFGMFK_01345	CDS	585				hypothetical protein
+DHBFGMFK_01346	gene	1371	lutB			
+DHBFGMFK_01346	CDS	1371	lutB		COG1139	Lactate utilization protein B
+DHBFGMFK_01347	gene	738	lutA			
+DHBFGMFK_01347	CDS	738	lutA		COG0247	Lactate utilization protein A
+DHBFGMFK_01348	gene	2040	topB			
+DHBFGMFK_01348	CDS	2040	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+DHBFGMFK_01349	gene	432				
+DHBFGMFK_01349	CDS	432				hypothetical protein
+DHBFGMFK_01350	gene	1386				
+DHBFGMFK_01350	CDS	1386				hypothetical protein
+DHBFGMFK_01351	gene	1026	mltG			
+DHBFGMFK_01351	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+DHBFGMFK_01352	gene	180				
+DHBFGMFK_01352	CDS	180				hypothetical protein
+DHBFGMFK_01353	gene	1707	glnS			
+DHBFGMFK_01353	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+DHBFGMFK_01354	gene	1365	bepA_3			
+DHBFGMFK_01354	CDS	1365	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+DHBFGMFK_01355	gene	636				
+DHBFGMFK_01355	CDS	636				hypothetical protein
+DHBFGMFK_01356	gene	1272	apgM			
+DHBFGMFK_01356	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+DHBFGMFK_01357	gene	606	ribE			
+DHBFGMFK_01357	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+DHBFGMFK_01358	gene	1326				
+DHBFGMFK_01358	CDS	1326				hypothetical protein
+DHBFGMFK_01359	gene	642	gph_2			
+DHBFGMFK_01359	CDS	642	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+DHBFGMFK_01360	gene	1314				
+DHBFGMFK_01360	CDS	1314				hypothetical protein
+DHBFGMFK_01361	gene	972	ravA			
+DHBFGMFK_01361	CDS	972	ravA	3.6.3.-		ATPase RavA
+DHBFGMFK_01362	gene	1356				
+DHBFGMFK_01362	CDS	1356				hypothetical protein
+DHBFGMFK_01363	gene	618				
+DHBFGMFK_01363	CDS	618				hypothetical protein
+DHBFGMFK_01364	gene	924				
+DHBFGMFK_01364	CDS	924				hypothetical protein
+DHBFGMFK_01365	gene	969				
+DHBFGMFK_01365	CDS	969				hypothetical protein
+DHBFGMFK_01366	gene	732				
+DHBFGMFK_01366	CDS	732				hypothetical protein
+DHBFGMFK_01367	gene	1611	ybiT			
+DHBFGMFK_01367	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+DHBFGMFK_01368	gene	582	grpE			
+DHBFGMFK_01368	CDS	582	grpE		COG0576	Protein GrpE
+DHBFGMFK_01369	gene	1173	dnaJ			
+DHBFGMFK_01369	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+DHBFGMFK_01370	gene	1239	fpgS			
+DHBFGMFK_01370	CDS	1239	fpgS	6.3.2.17		Folylpolyglutamate synthase
+DHBFGMFK_01371	gene	744				
+DHBFGMFK_01371	CDS	744				hypothetical protein
+DHBFGMFK_01372	gene	240				
+DHBFGMFK_01372	CDS	240				hypothetical protein
+DHBFGMFK_01373	gene	1092	mro			
+DHBFGMFK_01373	CDS	1092	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+DHBFGMFK_01374	gene	1377	fucP			
+DHBFGMFK_01374	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+DHBFGMFK_01375	gene	315				
+DHBFGMFK_01375	CDS	315				hypothetical protein
+DHBFGMFK_01376	gene	1182				
+DHBFGMFK_01376	CDS	1182			COG3385	IS4 family transposase ISDpr1
+DHBFGMFK_01377	gene	1188				
+DHBFGMFK_01377	CDS	1188				hypothetical protein
+DHBFGMFK_01378	gene	102				
+DHBFGMFK_01378	CDS	102				hypothetical protein
+DHBFGMFK_01379	gene	1560				
+DHBFGMFK_01379	CDS	1560				hypothetical protein
+DHBFGMFK_01380	gene	2493				
+DHBFGMFK_01380	CDS	2493				hypothetical protein
+DHBFGMFK_01381	gene	117				
+DHBFGMFK_01381	CDS	117				hypothetical protein
+DHBFGMFK_01382	gene	105				
+DHBFGMFK_01382	CDS	105				hypothetical protein
+DHBFGMFK_01383	gene	1542	glyQS			
+DHBFGMFK_01383	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+DHBFGMFK_01384	gene	582				
+DHBFGMFK_01384	CDS	582				hypothetical protein
+DHBFGMFK_01385	gene	339				
+DHBFGMFK_01385	CDS	339				hypothetical protein
+DHBFGMFK_01386	gene	123				
+DHBFGMFK_01386	CDS	123				hypothetical protein
+DHBFGMFK_01387	gene	1374	yeeO			
+DHBFGMFK_01387	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+DHBFGMFK_01388	gene	822	cmk_2			
+DHBFGMFK_01388	CDS	822	cmk_2	2.7.4.25		Cytidylate kinase
+DHBFGMFK_01389	gene	405				
+DHBFGMFK_01389	CDS	405				hypothetical protein
+DHBFGMFK_01390	gene	1251	tdcG			
+DHBFGMFK_01390	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+DHBFGMFK_01391	gene	2640	rep_2			
+DHBFGMFK_01391	CDS	2640	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+DHBFGMFK_01392	gene	1404				
+DHBFGMFK_01392	CDS	1404				hypothetical protein
+DHBFGMFK_01393	gene	1098	ybhR			
+DHBFGMFK_01393	CDS	1098	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+DHBFGMFK_01394	gene	1065	ybhS			
+DHBFGMFK_01394	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+DHBFGMFK_01395	gene	1476	rbbA			
+DHBFGMFK_01395	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+DHBFGMFK_01396	gene	888				
+DHBFGMFK_01396	CDS	888				hypothetical protein
+DHBFGMFK_01397	gene	1296				
+DHBFGMFK_01397	CDS	1296				hypothetical protein
+DHBFGMFK_01398	gene	1932				
+DHBFGMFK_01398	CDS	1932				hypothetical protein
+DHBFGMFK_01399	gene	1038				
+DHBFGMFK_01399	CDS	1038				hypothetical protein
+DHBFGMFK_01400	gene	1593	prfC			
+DHBFGMFK_01400	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+DHBFGMFK_01401	gene	858	rmlD			
+DHBFGMFK_01401	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+DHBFGMFK_01402	gene	579				
+DHBFGMFK_01402	CDS	579				hypothetical protein
+DHBFGMFK_01403	gene	690				
+DHBFGMFK_01403	CDS	690				hypothetical protein
+DHBFGMFK_01404	gene	981	glkA			
+DHBFGMFK_01404	CDS	981	glkA	2.7.1.2		Glucokinase
+DHBFGMFK_01405	gene	447				
+DHBFGMFK_01405	CDS	447				hypothetical protein
+DHBFGMFK_01406	gene	210				
+DHBFGMFK_01406	CDS	210				hypothetical protein
+DHBFGMFK_01407	gene	120				
+DHBFGMFK_01407	CDS	120				hypothetical protein
+DHBFGMFK_01408	gene	774	lpxA_2			
+DHBFGMFK_01408	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+DHBFGMFK_01409	gene	1386	oprM			
+DHBFGMFK_01409	CDS	1386	oprM		COG1538	Outer membrane protein OprM
+DHBFGMFK_01410	gene	3258	bepE			
+DHBFGMFK_01410	CDS	3258	bepE			Efflux pump membrane transporter BepE
+DHBFGMFK_01411	gene	1194	ttgA			
+DHBFGMFK_01411	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+DHBFGMFK_01412	gene	1164				
+DHBFGMFK_01412	CDS	1164		2.7.7.-	COG0617	A-adding tRNA nucleotidyltransferase
+DHBFGMFK_01413	gene	501				
+DHBFGMFK_01413	CDS	501				hypothetical protein
+DHBFGMFK_01414	gene	459				
+DHBFGMFK_01414	CDS	459				hypothetical protein
+DHBFGMFK_01415	gene	555				
+DHBFGMFK_01415	CDS	555				hypothetical protein
+DHBFGMFK_01416	gene	2130	tpiA			
+DHBFGMFK_01416	CDS	2130	tpiA			Triosephosphate isomerase
+DHBFGMFK_01417	gene	639				
+DHBFGMFK_01417	CDS	639				hypothetical protein
+DHBFGMFK_01418	gene	594	folE			
+DHBFGMFK_01418	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+DHBFGMFK_01419	gene	615				
+DHBFGMFK_01419	CDS	615				hypothetical protein
+DHBFGMFK_01420	gene	105				
+DHBFGMFK_01420	CDS	105				hypothetical protein
+DHBFGMFK_01421	gene	1110				
+DHBFGMFK_01421	CDS	1110				hypothetical protein
+DHBFGMFK_01422	gene	966				
+DHBFGMFK_01422	CDS	966				hypothetical protein
+DHBFGMFK_01423	gene	786	tagA			
+DHBFGMFK_01423	CDS	786	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+DHBFGMFK_01424	gene	990				
+DHBFGMFK_01424	CDS	990				hypothetical protein
+DHBFGMFK_01425	gene	1230	mshA_4			
+DHBFGMFK_01425	CDS	1230	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DHBFGMFK_01426	gene	1029	bshA			
+DHBFGMFK_01426	CDS	1029	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+DHBFGMFK_01427	gene	1146				
+DHBFGMFK_01427	CDS	1146				hypothetical protein
+DHBFGMFK_01428	gene	717				
+DHBFGMFK_01428	CDS	717				hypothetical protein
+DHBFGMFK_01429	gene	1164	wecB			
+DHBFGMFK_01429	CDS	1164	wecB	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+DHBFGMFK_01430	gene	924				
+DHBFGMFK_01430	CDS	924				hypothetical protein
+DHBFGMFK_01431	gene	603	dapH_2			
+DHBFGMFK_01431	CDS	603	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DHBFGMFK_01432	gene	678	dapH_3			
+DHBFGMFK_01432	CDS	678	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DHBFGMFK_01433	gene	816	arnC_2			
+DHBFGMFK_01433	CDS	816	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+DHBFGMFK_01434	gene	720				
+DHBFGMFK_01434	CDS	720				hypothetical protein
+DHBFGMFK_01435	gene	294				
+DHBFGMFK_01435	CDS	294				hypothetical protein
+DHBFGMFK_01436	gene	1092				
+DHBFGMFK_01436	CDS	1092				hypothetical protein
+DHBFGMFK_01437	gene	816				
+DHBFGMFK_01437	CDS	816				hypothetical protein
+DHBFGMFK_01438	gene	405	tarD			
+DHBFGMFK_01438	CDS	405	tarD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+DHBFGMFK_01439	gene	753				
+DHBFGMFK_01439	CDS	753				hypothetical protein
+DHBFGMFK_01440	gene	1437	tuaB_2			
+DHBFGMFK_01440	CDS	1437	tuaB_2		COG2244	Teichuronic acid biosynthesis protein TuaB
+DHBFGMFK_01441	gene	1134				
+DHBFGMFK_01441	CDS	1134				hypothetical protein
+DHBFGMFK_01442	gene	1164				
+DHBFGMFK_01442	CDS	1164				hypothetical protein
+DHBFGMFK_01443	gene	1095	algA			
+DHBFGMFK_01443	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+DHBFGMFK_01444	gene	83				
+DHBFGMFK_01444	tRNA	83				tRNA-Leu(caa)
+DHBFGMFK_01445	gene	624	yjdF			
+DHBFGMFK_01445	CDS	624	yjdF		COG3647	Inner membrane protein YjdF
+DHBFGMFK_01446	gene	4182	cas9			
+DHBFGMFK_01446	CDS	4182	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+DHBFGMFK_01447	gene	933	cas1			
+DHBFGMFK_01447	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+DHBFGMFK_01448	gene	306	cas2			
+DHBFGMFK_01448	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+	repeat_region	1582				
+DHBFGMFK_01449	gene	975				
+DHBFGMFK_01449	CDS	975				hypothetical protein
+DHBFGMFK_01450	gene	1458	egtB			
+DHBFGMFK_01450	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+DHBFGMFK_01451	gene	816				
+DHBFGMFK_01451	CDS	816				hypothetical protein
+DHBFGMFK_01452	gene	1557				
+DHBFGMFK_01452	CDS	1557				hypothetical protein
+DHBFGMFK_01453	gene	1026				
+DHBFGMFK_01453	CDS	1026				hypothetical protein
+DHBFGMFK_01454	gene	600				
+DHBFGMFK_01454	CDS	600				hypothetical protein
+DHBFGMFK_01455	gene	597				
+DHBFGMFK_01455	CDS	597				hypothetical protein
+DHBFGMFK_01456	gene	984	menF_2			
+DHBFGMFK_01456	CDS	984	menF_2	5.4.4.2		Isochorismate synthase MenF
+DHBFGMFK_01457	gene	108				
+DHBFGMFK_01457	CDS	108				hypothetical protein
+DHBFGMFK_01458	gene	2271	priA			
+DHBFGMFK_01458	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+DHBFGMFK_01459	gene	900				
+DHBFGMFK_01459	CDS	900				hypothetical protein
+DHBFGMFK_01460	gene	1485				
+DHBFGMFK_01460	CDS	1485				hypothetical protein
+DHBFGMFK_01461	gene	2055	rny_2			
+DHBFGMFK_01461	CDS	2055	rny_2	3.1.-.-		Ribonuclease Y
+DHBFGMFK_01462	gene	1536	gltX			
+DHBFGMFK_01462	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+DHBFGMFK_01463	gene	1260	waaA			
+DHBFGMFK_01463	CDS	1260	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+DHBFGMFK_01464	gene	936	eamA			
+DHBFGMFK_01464	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+DHBFGMFK_01465	gene	1788	ftsH_2			
+DHBFGMFK_01465	CDS	1788	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+DHBFGMFK_01466	gene	387				
+DHBFGMFK_01466	CDS	387				hypothetical protein
+DHBFGMFK_01467	gene	498	yrdA			
+DHBFGMFK_01467	CDS	498	yrdA		COG0663	Protein YrdA
+DHBFGMFK_01468	gene	3030				
+DHBFGMFK_01468	CDS	3030				hypothetical protein
+DHBFGMFK_01469	gene	2295				
+DHBFGMFK_01469	CDS	2295				hypothetical protein
+DHBFGMFK_01470	gene	1506				
+DHBFGMFK_01470	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+DHBFGMFK_01471	gene	483				
+DHBFGMFK_01471	CDS	483				hypothetical protein
+DHBFGMFK_01472	gene	1353	apxIB_2			
+DHBFGMFK_01472	CDS	1353	apxIB_2		COG2274	Toxin RTX-I translocation ATP-binding protein
+DHBFGMFK_01473	gene	432	lagD_3			
+DHBFGMFK_01473	CDS	432	lagD_3	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+DHBFGMFK_01474	gene	2361				
+DHBFGMFK_01474	CDS	2361				hypothetical protein
+DHBFGMFK_01475	gene	264				
+DHBFGMFK_01475	CDS	264				hypothetical protein
+DHBFGMFK_01476	gene	114				
+DHBFGMFK_01476	CDS	114				hypothetical protein
+DHBFGMFK_01477	gene	2067	pal_2			
+DHBFGMFK_01477	CDS	2067	pal_2			Peptidoglycan-associated lipoprotein
+DHBFGMFK_01478	gene	360				
+DHBFGMFK_01478	CDS	360				hypothetical protein
+DHBFGMFK_01479	gene	543	algU			
+DHBFGMFK_01479	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+DHBFGMFK_01480	gene	186				
+DHBFGMFK_01480	CDS	186				hypothetical protein
+DHBFGMFK_01481	gene	777				
+DHBFGMFK_01481	CDS	777				hypothetical protein
+DHBFGMFK_01482	gene	1410	rsmF			
+DHBFGMFK_01482	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+DHBFGMFK_01483	gene	795	thyA			
+DHBFGMFK_01483	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+DHBFGMFK_01484	gene	486	dfrA			
+DHBFGMFK_01484	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+DHBFGMFK_01485	gene	135				
+DHBFGMFK_01485	CDS	135				hypothetical protein
+DHBFGMFK_01486	gene	486	asnC_2			
+DHBFGMFK_01486	CDS	486	asnC_2		COG1522	Regulatory protein AsnC
+DHBFGMFK_01487	gene	807	tolQ_2			
+DHBFGMFK_01487	CDS	807	tolQ_2			Tol-Pal system protein TolQ
+DHBFGMFK_01488	gene	477				
+DHBFGMFK_01488	CDS	477				hypothetical protein
+DHBFGMFK_01489	gene	498				
+DHBFGMFK_01489	CDS	498				hypothetical protein
+DHBFGMFK_01490	gene	483				
+DHBFGMFK_01490	CDS	483				hypothetical protein
+DHBFGMFK_01491	gene	534	maa			
+DHBFGMFK_01491	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+DHBFGMFK_01492	gene	555	resA_4			
+DHBFGMFK_01492	CDS	555	resA_4			Thiol-disulfide oxidoreductase ResA
+DHBFGMFK_01493	gene	1452				
+DHBFGMFK_01493	CDS	1452				hypothetical protein
+DHBFGMFK_01494	gene	441				
+DHBFGMFK_01494	CDS	441				hypothetical protein
+DHBFGMFK_01495	gene	1323				
+DHBFGMFK_01495	CDS	1323				hypothetical protein
+DHBFGMFK_01496	gene	89				
+DHBFGMFK_01496	tRNA	89				tRNA-Ser(gga)
+DHBFGMFK_01497	gene	882	dtd3			
+DHBFGMFK_01497	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+DHBFGMFK_01498	gene	699				
+DHBFGMFK_01498	CDS	699				hypothetical protein
+DHBFGMFK_01499	gene	975				
+DHBFGMFK_01499	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+DHBFGMFK_01500	gene	720				
+DHBFGMFK_01500	CDS	720				hypothetical protein
+DHBFGMFK_01501	gene	951				
+DHBFGMFK_01501	CDS	951				hypothetical protein
+DHBFGMFK_01502	gene	2682	parC			
+DHBFGMFK_01502	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+DHBFGMFK_01503	gene	861				
+DHBFGMFK_01503	CDS	861				hypothetical protein
+DHBFGMFK_01504	gene	1005				
+DHBFGMFK_01504	CDS	1005				hypothetical protein
+DHBFGMFK_01505	gene	828	btuD_2			
+DHBFGMFK_01505	CDS	828	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+DHBFGMFK_01506	gene	83				
+DHBFGMFK_01506	tRNA	83				tRNA-Leu(tag)
+DHBFGMFK_01507	gene	861	ispH			
+DHBFGMFK_01507	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+DHBFGMFK_01508	gene	1107				
+DHBFGMFK_01508	CDS	1107		3.6.-.-	COG1703	putative GTPase
+DHBFGMFK_01509	gene	1065				
+DHBFGMFK_01509	CDS	1065				hypothetical protein
+DHBFGMFK_01510	gene	5553				
+DHBFGMFK_01510	CDS	5553				hypothetical protein
+DHBFGMFK_01511	gene	453	bcp			
+DHBFGMFK_01511	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+DHBFGMFK_01512	gene	2028				
+DHBFGMFK_01512	CDS	2028				hypothetical protein
+DHBFGMFK_01513	gene	2106	f1pep1			
+DHBFGMFK_01513	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+DHBFGMFK_01514	gene	768				
+DHBFGMFK_01514	CDS	768				hypothetical protein
+DHBFGMFK_01515	gene	744				
+DHBFGMFK_01515	CDS	744				hypothetical protein
+DHBFGMFK_01516	gene	2601	clpB1			
+DHBFGMFK_01516	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+DHBFGMFK_01517	gene	1257				
+DHBFGMFK_01517	CDS	1257				hypothetical protein
+DHBFGMFK_01518	gene	2181	recQ			
+DHBFGMFK_01518	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+DHBFGMFK_01519	gene	1230	clpX			
+DHBFGMFK_01519	CDS	1230	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+DHBFGMFK_01520	gene	666	clpP			
+DHBFGMFK_01520	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+DHBFGMFK_01521	gene	1356	tig			
+DHBFGMFK_01521	CDS	1356	tig	5.2.1.8		Trigger factor
+DHBFGMFK_01522	gene	3099				
+DHBFGMFK_01522	CDS	3099				hypothetical protein
+DHBFGMFK_01523	gene	582	resA_5			
+DHBFGMFK_01523	CDS	582	resA_5			Thiol-disulfide oxidoreductase ResA
+DHBFGMFK_01524	gene	939	prs			
+DHBFGMFK_01524	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+DHBFGMFK_01525	gene	609				
+DHBFGMFK_01525	CDS	609				hypothetical protein
+DHBFGMFK_01526	gene	888	lptB_2			
+DHBFGMFK_01526	CDS	888	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+DHBFGMFK_01527	gene	564				
+DHBFGMFK_01527	CDS	564				hypothetical protein
+DHBFGMFK_01528	gene	747	mlaE			
+DHBFGMFK_01528	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+DHBFGMFK_01529	gene	777	mkl			
+DHBFGMFK_01529	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+DHBFGMFK_01530	gene	399				
+DHBFGMFK_01530	CDS	399				hypothetical protein
+DHBFGMFK_01531	gene	1317	der			
+DHBFGMFK_01531	CDS	1317	der		COG1160	GTPase Der
+DHBFGMFK_01532	gene	1056	era			
+DHBFGMFK_01532	CDS	1056	era			GTPase Era
+DHBFGMFK_01533	gene	1011	fabH			
+DHBFGMFK_01533	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+DHBFGMFK_01534	gene	189	rpmF			
+DHBFGMFK_01534	CDS	189	rpmF			50S ribosomal protein L32
+DHBFGMFK_01535	gene	522				
+DHBFGMFK_01535	CDS	522				hypothetical protein
+DHBFGMFK_01536	gene	522				
+DHBFGMFK_01536	CDS	522				hypothetical protein
+DHBFGMFK_01537	gene	1440				
+DHBFGMFK_01537	CDS	1440				hypothetical protein
+DHBFGMFK_01538	gene	360				
+DHBFGMFK_01538	CDS	360				hypothetical protein
+DHBFGMFK_01539	gene	1164	sasA_3			
+DHBFGMFK_01539	CDS	1164	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+DHBFGMFK_01540	gene	897				
+DHBFGMFK_01540	CDS	897				hypothetical protein
+DHBFGMFK_01541	gene	474				
+DHBFGMFK_01541	CDS	474				IS982 family transposase ISCca4
+DHBFGMFK_01542	gene	360				
+DHBFGMFK_01542	CDS	360				hypothetical protein
+DHBFGMFK_01543	gene	588				
+DHBFGMFK_01543	CDS	588				hypothetical protein
+DHBFGMFK_01544	gene	1188	bioF			
+DHBFGMFK_01544	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+DHBFGMFK_01545	gene	903	rhaS_2			
+DHBFGMFK_01545	CDS	903	rhaS_2			HTH-type transcriptional activator RhaS
+DHBFGMFK_01546	gene	486	resA_6			
+DHBFGMFK_01546	CDS	486	resA_6			Thiol-disulfide oxidoreductase ResA
+DHBFGMFK_01547	gene	819				
+DHBFGMFK_01547	CDS	819				hypothetical protein
+DHBFGMFK_01548	gene	2310	maeB			
+DHBFGMFK_01548	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+DHBFGMFK_01549	gene	3591				
+DHBFGMFK_01549	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+DHBFGMFK_01550	gene	1188				
+DHBFGMFK_01550	CDS	1188				hypothetical protein
+DHBFGMFK_01551	gene	1083				
+DHBFGMFK_01551	CDS	1083				hypothetical protein
+DHBFGMFK_01552	gene	399				
+DHBFGMFK_01552	CDS	399				hypothetical protein
+DHBFGMFK_01553	gene	2202	hppA1			
+DHBFGMFK_01553	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+DHBFGMFK_01554	gene	1101				
+DHBFGMFK_01554	CDS	1101				hypothetical protein
+DHBFGMFK_01555	gene	1443	rlmCD			
+DHBFGMFK_01555	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+DHBFGMFK_01556	gene	1524				
+DHBFGMFK_01556	CDS	1524				hypothetical protein
+DHBFGMFK_01557	gene	312				
+DHBFGMFK_01557	CDS	312				hypothetical protein
+DHBFGMFK_01558	gene	1374	mnmE			
+DHBFGMFK_01558	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+DHBFGMFK_01559	gene	1032	ltaE			
+DHBFGMFK_01559	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+DHBFGMFK_01560	gene	876	deoD			
+DHBFGMFK_01560	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+DHBFGMFK_01561	gene	1116				
+DHBFGMFK_01561	CDS	1116				hypothetical protein
+DHBFGMFK_01562	gene	2358	pyrK_2			
+DHBFGMFK_01562	CDS	2358	pyrK_2			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+DHBFGMFK_01563	gene	1317	serS			
+DHBFGMFK_01563	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+DHBFGMFK_01564	gene	264	rpmA			
+DHBFGMFK_01564	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+DHBFGMFK_01565	gene	318	rplU			
+DHBFGMFK_01565	CDS	318	rplU		COG0261	50S ribosomal protein L21
+DHBFGMFK_01566	gene	759	exoA			
+DHBFGMFK_01566	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+DHBFGMFK_01567	gene	384				
+DHBFGMFK_01567	CDS	384				hypothetical protein
+DHBFGMFK_01568	gene	585				
+DHBFGMFK_01568	CDS	585				hypothetical protein
+DHBFGMFK_01569	gene	678				
+DHBFGMFK_01569	CDS	678				hypothetical protein
+DHBFGMFK_01570	gene	606				
+DHBFGMFK_01570	CDS	606				hypothetical protein
+DHBFGMFK_01571	gene	252				
+DHBFGMFK_01571	CDS	252				hypothetical protein
+DHBFGMFK_01572	gene	1491	algC_2			
+DHBFGMFK_01572	CDS	1491	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+DHBFGMFK_01573	gene	2037	pepO			
+DHBFGMFK_01573	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+DHBFGMFK_01574	gene	1953	yheS			
+DHBFGMFK_01574	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+DHBFGMFK_01575	gene	2217	yhgF			
+DHBFGMFK_01575	CDS	2217	yhgF		COG2183	Protein YhgF
+DHBFGMFK_01576	gene	1206				
+DHBFGMFK_01576	CDS	1206				hypothetical protein
+DHBFGMFK_01577	gene	345	rplT			
+DHBFGMFK_01577	CDS	345	rplT			50S ribosomal protein L20
+DHBFGMFK_01578	gene	198	rpmI			
+DHBFGMFK_01578	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+DHBFGMFK_01579	gene	696	infC			
+DHBFGMFK_01579	CDS	696	infC			Translation initiation factor IF-3
+DHBFGMFK_01580	gene	738	yafV			
+DHBFGMFK_01580	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+DHBFGMFK_01581	gene	1623				
+DHBFGMFK_01581	CDS	1623				hypothetical protein
+DHBFGMFK_01582	gene	573				
+DHBFGMFK_01582	CDS	573				hypothetical protein
+DHBFGMFK_01583	gene	1311	dapL			
+DHBFGMFK_01583	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+DHBFGMFK_01584	gene	624				
+DHBFGMFK_01584	CDS	624				hypothetical protein
+DHBFGMFK_01585	gene	726				
+DHBFGMFK_01585	CDS	726				hypothetical protein
+DHBFGMFK_01586	gene	3516	sasA_4			
+DHBFGMFK_01586	CDS	3516	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+DHBFGMFK_01587	gene	1065	purR			
+DHBFGMFK_01587	CDS	1065	purR			HTH-type transcriptional repressor PurR
+DHBFGMFK_01588	gene	753				
+DHBFGMFK_01588	CDS	753				hypothetical protein
+DHBFGMFK_01589	gene	1212				
+DHBFGMFK_01589	CDS	1212				hypothetical protein
+DHBFGMFK_01590	gene	204				
+DHBFGMFK_01590	CDS	204				hypothetical protein
+DHBFGMFK_01591	gene	74				
+DHBFGMFK_01591	tRNA	74				tRNA-Cys(gca)
+DHBFGMFK_01592	gene	783				
+DHBFGMFK_01592	CDS	783				hypothetical protein
+DHBFGMFK_01593	gene	2238				
+DHBFGMFK_01593	CDS	2238				hypothetical protein
+DHBFGMFK_01594	gene	729				
+DHBFGMFK_01594	CDS	729				hypothetical protein
+DHBFGMFK_01595	gene	900				
+DHBFGMFK_01595	CDS	900				hypothetical protein
+DHBFGMFK_01596	gene	888				
+DHBFGMFK_01596	CDS	888				hypothetical protein
+DHBFGMFK_01597	gene	76				
+DHBFGMFK_01597	tRNA	76				tRNA-Arg(tct)
+DHBFGMFK_01598	gene	984				
+DHBFGMFK_01598	CDS	984		1.-.-.-		Oxidoreductase P35
+DHBFGMFK_01599	gene	1131				
+DHBFGMFK_01599	CDS	1131				hypothetical protein
+DHBFGMFK_01600	gene	855				
+DHBFGMFK_01600	CDS	855				hypothetical protein
+DHBFGMFK_01601	gene	207				
+DHBFGMFK_01601	CDS	207				hypothetical protein
+DHBFGMFK_01602	gene	651				
+DHBFGMFK_01602	CDS	651				hypothetical protein
+DHBFGMFK_01603	gene	198				
+DHBFGMFK_01603	CDS	198				hypothetical protein
+DHBFGMFK_01604	gene	1428	cysG_1			
+DHBFGMFK_01604	CDS	1428	cysG_1	4.99.1.4		Siroheme synthase
+DHBFGMFK_01605	gene	1272	cbiET			
+DHBFGMFK_01605	CDS	1272	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+DHBFGMFK_01606	gene	1767	cysG_2			
+DHBFGMFK_01606	CDS	1767	cysG_2	4.99.1.4		Siroheme synthase
+DHBFGMFK_01607	gene	2187	cbiD			
+DHBFGMFK_01607	CDS	2187	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+DHBFGMFK_01608	gene	1137				
+DHBFGMFK_01608	CDS	1137				hypothetical protein
+DHBFGMFK_01609	gene	1023	hmuU_1			
+DHBFGMFK_01609	CDS	1023	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+DHBFGMFK_01610	gene	810				
+DHBFGMFK_01610	CDS	810				hypothetical protein
+DHBFGMFK_01611	gene	2106	recD2_2			
+DHBFGMFK_01611	CDS	2106	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+DHBFGMFK_01612	gene	1002	korB_2			
+DHBFGMFK_01612	CDS	1002	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+DHBFGMFK_01613	gene	1851	korA_2			
+DHBFGMFK_01613	CDS	1851	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+DHBFGMFK_01614	gene	1614	pckA			
+DHBFGMFK_01614	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+DHBFGMFK_01615	gene	660	upp			
+DHBFGMFK_01615	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+DHBFGMFK_01616	gene	516	dps			
+DHBFGMFK_01616	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+DHBFGMFK_01617	gene	1764	arnT			
+DHBFGMFK_01617	CDS	1764	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+DHBFGMFK_01618	gene	1977	mdoB			
+DHBFGMFK_01618	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+DHBFGMFK_01619	gene	552				
+DHBFGMFK_01619	CDS	552				hypothetical protein
+DHBFGMFK_01620	gene	2895				
+DHBFGMFK_01620	CDS	2895				hypothetical protein
+DHBFGMFK_01621	gene	1455				
+DHBFGMFK_01621	CDS	1455				hypothetical protein
+DHBFGMFK_01622	gene	396				
+DHBFGMFK_01622	CDS	396				hypothetical protein
+DHBFGMFK_01623	gene	1641				
+DHBFGMFK_01623	CDS	1641				hypothetical protein
+DHBFGMFK_01624	gene	2802				
+DHBFGMFK_01624	CDS	2802				hypothetical protein
+DHBFGMFK_01625	gene	546				
+DHBFGMFK_01625	CDS	546				hypothetical protein
+DHBFGMFK_01626	gene	138				
+DHBFGMFK_01626	CDS	138				hypothetical protein
+DHBFGMFK_01627	gene	759				
+DHBFGMFK_01627	CDS	759				hypothetical protein
+DHBFGMFK_01628	gene	774				
+DHBFGMFK_01628	CDS	774				hypothetical protein
+DHBFGMFK_01629	gene	1053				
+DHBFGMFK_01629	CDS	1053				hypothetical protein
+DHBFGMFK_01630	gene	717				
+DHBFGMFK_01630	CDS	717				hypothetical protein
+DHBFGMFK_01631	gene	138				
+DHBFGMFK_01631	CDS	138				hypothetical protein
+DHBFGMFK_01632	gene	2313	cirA_1			
+DHBFGMFK_01632	CDS	2313	cirA_1		COG4771	Colicin I receptor
+DHBFGMFK_01633	gene	1329				
+DHBFGMFK_01633	CDS	1329				hypothetical protein
+DHBFGMFK_01634	gene	135				
+DHBFGMFK_01634	CDS	135				hypothetical protein
+DHBFGMFK_01635	gene	2175				
+DHBFGMFK_01635	CDS	2175				hypothetical protein
+DHBFGMFK_01636	gene	4485				
+DHBFGMFK_01636	CDS	4485				hypothetical protein
+DHBFGMFK_01637	gene	354				
+DHBFGMFK_01637	CDS	354				hypothetical protein
+DHBFGMFK_01638	gene	1230	lolE_2			
+DHBFGMFK_01638	CDS	1230	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+DHBFGMFK_01639	gene	336	rbfA			
+DHBFGMFK_01639	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+DHBFGMFK_01640	gene	273	hup_2			
+DHBFGMFK_01640	CDS	273	hup_2			DNA-binding protein HU
+DHBFGMFK_01641	gene	894				
+DHBFGMFK_01641	CDS	894				hypothetical protein
+DHBFGMFK_01642	gene	1086				
+DHBFGMFK_01642	CDS	1086				hypothetical protein
+DHBFGMFK_01643	gene	3063	secD			
+DHBFGMFK_01643	CDS	3063	secD			Protein translocase subunit SecD
+DHBFGMFK_01644	gene	189				
+DHBFGMFK_01644	CDS	189				hypothetical protein
+DHBFGMFK_01645	gene	2343				
+DHBFGMFK_01645	CDS	2343				hypothetical protein
+DHBFGMFK_01646	gene	300				
+DHBFGMFK_01646	CDS	300				hypothetical protein
+DHBFGMFK_01647	gene	819	pdxK			
+DHBFGMFK_01647	CDS	819	pdxK	2.7.1.35	COG2240	Pyridoxine/pyridoxal/pyridoxamine kinase
+DHBFGMFK_01648	gene	144				
+DHBFGMFK_01648	CDS	144				hypothetical protein
+DHBFGMFK_01649	gene	1416				
+DHBFGMFK_01649	CDS	1416				hypothetical protein
+DHBFGMFK_01650	gene	2685				
+DHBFGMFK_01650	CDS	2685				hypothetical protein
+DHBFGMFK_01651	gene	1116				
+DHBFGMFK_01651	CDS	1116				hypothetical protein
+DHBFGMFK_01652	gene	1503				
+DHBFGMFK_01652	CDS	1503				hypothetical protein
+DHBFGMFK_01653	gene	444				
+DHBFGMFK_01653	CDS	444				hypothetical protein
+DHBFGMFK_01654	gene	1545				
+DHBFGMFK_01654	CDS	1545				hypothetical protein
+DHBFGMFK_01655	gene	3537				
+DHBFGMFK_01655	CDS	3537				hypothetical protein
+DHBFGMFK_01656	gene	672				
+DHBFGMFK_01656	CDS	672				hypothetical protein
+DHBFGMFK_01657	gene	519				
+DHBFGMFK_01657	CDS	519				hypothetical protein
+DHBFGMFK_01658	gene	885				
+DHBFGMFK_01658	CDS	885				hypothetical protein
+DHBFGMFK_01659	gene	1008				
+DHBFGMFK_01659	CDS	1008				hypothetical protein
+DHBFGMFK_01660	gene	627	trmR			
+DHBFGMFK_01660	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+DHBFGMFK_01661	gene	420	aroQ			
+DHBFGMFK_01661	CDS	420	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+DHBFGMFK_01662	gene	786				
+DHBFGMFK_01662	CDS	786				hypothetical protein
+DHBFGMFK_01663	gene	2049	bepA_4			
+DHBFGMFK_01663	CDS	2049	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+DHBFGMFK_01664	gene	1419				
+DHBFGMFK_01664	CDS	1419				hypothetical protein
+DHBFGMFK_01665	gene	705				
+DHBFGMFK_01665	CDS	705				hypothetical protein
+DHBFGMFK_01666	gene	750	ispU			
+DHBFGMFK_01666	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+DHBFGMFK_01667	gene	2616	bamA_3			
+DHBFGMFK_01667	CDS	2616	bamA_3		COG4775	Outer membrane protein assembly factor BamA
+DHBFGMFK_01668	gene	513				
+DHBFGMFK_01668	CDS	513				hypothetical protein
+DHBFGMFK_01669	gene	501	skp			
+DHBFGMFK_01669	CDS	501	skp		COG2825	Chaperone protein Skp
+DHBFGMFK_01670	gene	633				
+DHBFGMFK_01670	CDS	633				hypothetical protein
+DHBFGMFK_01671	gene	843	murI			
+DHBFGMFK_01671	CDS	843	murI	5.1.1.3	COG0796	Glutamate racemase
+DHBFGMFK_01672	gene	2613				
+DHBFGMFK_01672	CDS	2613				hypothetical protein
+DHBFGMFK_01673	gene	594				
+DHBFGMFK_01673	CDS	594				hypothetical protein
+DHBFGMFK_01674	gene	1560				
+DHBFGMFK_01674	CDS	1560				hypothetical protein
+DHBFGMFK_01675	gene	1968				
+DHBFGMFK_01675	CDS	1968				hypothetical protein
+DHBFGMFK_01676	gene	807				
+DHBFGMFK_01676	CDS	807				hypothetical protein
+DHBFGMFK_01677	gene	1020	lpxL			
+DHBFGMFK_01677	CDS	1020	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+DHBFGMFK_01678	gene	987	ykoT			
+DHBFGMFK_01678	CDS	987	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+DHBFGMFK_01679	gene	1674	aspT_2			
+DHBFGMFK_01679	CDS	1674	aspT_2			Aspartate/alanine antiporter
+DHBFGMFK_01680	gene	1374	tpl			
+DHBFGMFK_01680	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+DHBFGMFK_01681	gene	177				
+DHBFGMFK_01681	CDS	177				hypothetical protein
+DHBFGMFK_01682	gene	3594				
+DHBFGMFK_01682	CDS	3594				hypothetical protein
+DHBFGMFK_01683	gene	180				
+DHBFGMFK_01683	CDS	180				hypothetical protein
+DHBFGMFK_01684	gene	1002				
+DHBFGMFK_01684	CDS	1002				hypothetical protein
+DHBFGMFK_01685	gene	204				
+DHBFGMFK_01685	CDS	204				hypothetical protein
+DHBFGMFK_01686	gene	1377				
+DHBFGMFK_01686	CDS	1377				hypothetical protein
+DHBFGMFK_01687	gene	2016				
+DHBFGMFK_01687	CDS	2016				hypothetical protein
+DHBFGMFK_01688	gene	741				
+DHBFGMFK_01688	CDS	741				hypothetical protein
+DHBFGMFK_01689	gene	1686				
+DHBFGMFK_01689	CDS	1686				hypothetical protein
+DHBFGMFK_01690	gene	678	walR			
+DHBFGMFK_01690	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+DHBFGMFK_01691	gene	768				
+DHBFGMFK_01691	CDS	768				hypothetical protein
+DHBFGMFK_01692	gene	1098	apbC			
+DHBFGMFK_01692	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+DHBFGMFK_01693	gene	531	dxs_1			
+DHBFGMFK_01693	CDS	531	dxs_1	2.2.1.7		1-deoxy-D-xylulose-5-phosphate synthase
+DHBFGMFK_01694	gene	1575	dxs_2			
+DHBFGMFK_01694	CDS	1575	dxs_2	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+DHBFGMFK_01695	gene	1353	trkA			
+DHBFGMFK_01695	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+DHBFGMFK_01696	gene	1458	trkH			
+DHBFGMFK_01696	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+DHBFGMFK_01697	gene	963	manA			
+DHBFGMFK_01697	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+DHBFGMFK_01698	gene	1143	cydB			
+DHBFGMFK_01698	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+DHBFGMFK_01699	gene	1566	cydA			
+DHBFGMFK_01699	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+DHBFGMFK_01700	gene	216				
+DHBFGMFK_01700	CDS	216				hypothetical protein
+DHBFGMFK_01701	gene	873				
+DHBFGMFK_01701	CDS	873				hypothetical protein
+DHBFGMFK_01702	gene	1482				
+DHBFGMFK_01702	CDS	1482				hypothetical protein
+DHBFGMFK_01703	gene	987	emrA			
+DHBFGMFK_01703	CDS	987	emrA			Colistin resistance protein EmrA
+DHBFGMFK_01704	gene	1182				
+DHBFGMFK_01704	CDS	1182				hypothetical protein
+DHBFGMFK_01705	gene	1245				
+DHBFGMFK_01705	CDS	1245				hypothetical protein
+DHBFGMFK_01706	gene	1086				
+DHBFGMFK_01706	CDS	1086				hypothetical protein
+DHBFGMFK_01707	gene	2214				
+DHBFGMFK_01707	CDS	2214				hypothetical protein
+DHBFGMFK_01708	gene	774	trmB			
+DHBFGMFK_01708	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+DHBFGMFK_01709	gene	996				
+DHBFGMFK_01709	CDS	996				hypothetical protein
+DHBFGMFK_01710	gene	957				
+DHBFGMFK_01710	CDS	957				hypothetical protein
+DHBFGMFK_01711	gene	1911	dnaK			
+DHBFGMFK_01711	CDS	1911	dnaK			Chaperone protein DnaK
+DHBFGMFK_01712	gene	600				
+DHBFGMFK_01712	CDS	600				hypothetical protein
+DHBFGMFK_01713	gene	495				
+DHBFGMFK_01713	CDS	495				hypothetical protein
+DHBFGMFK_01714	gene	387				
+DHBFGMFK_01714	CDS	387				hypothetical protein
+DHBFGMFK_01715	gene	1302				
+DHBFGMFK_01715	CDS	1302				hypothetical protein
+DHBFGMFK_01716	gene	351				
+DHBFGMFK_01716	CDS	351				hypothetical protein
+DHBFGMFK_01717	gene	294				
+DHBFGMFK_01717	CDS	294				hypothetical protein
+DHBFGMFK_01718	gene	90				
+DHBFGMFK_01718	CDS	90				hypothetical protein
+DHBFGMFK_01719	gene	564				
+DHBFGMFK_01719	CDS	564				hypothetical protein
+DHBFGMFK_01720	gene	360				
+DHBFGMFK_01720	CDS	360				hypothetical protein
+DHBFGMFK_01721	gene	1254				
+DHBFGMFK_01721	CDS	1254				hypothetical protein
+DHBFGMFK_01722	gene	2886				
+DHBFGMFK_01722	CDS	2886				hypothetical protein
+DHBFGMFK_01723	gene	1359	miaB			
+DHBFGMFK_01723	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+DHBFGMFK_01724	gene	912	xerD_1			
+DHBFGMFK_01724	CDS	912	xerD_1			Tyrosine recombinase XerD
+DHBFGMFK_01725	gene	1296				
+DHBFGMFK_01725	CDS	1296				hypothetical protein
+DHBFGMFK_01726	gene	429	csdE			
+DHBFGMFK_01726	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+DHBFGMFK_01727	gene	558	trmH			
+DHBFGMFK_01727	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+DHBFGMFK_01728	gene	831				
+DHBFGMFK_01728	CDS	831				hypothetical protein
+DHBFGMFK_01729	gene	681				
+DHBFGMFK_01729	CDS	681				hypothetical protein
+DHBFGMFK_01730	gene	477				
+DHBFGMFK_01730	CDS	477				hypothetical protein
+DHBFGMFK_01731	gene	459	rnhA			
+DHBFGMFK_01731	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+DHBFGMFK_01732	gene	696				
+DHBFGMFK_01732	CDS	696				hypothetical protein
+DHBFGMFK_01733	gene	1005				
+DHBFGMFK_01733	CDS	1005				hypothetical protein
+DHBFGMFK_01734	gene	1680				
+DHBFGMFK_01734	CDS	1680				hypothetical protein
+DHBFGMFK_01735	gene	87				
+DHBFGMFK_01735	tRNA	87				tRNA-Leu(taa)
+DHBFGMFK_01736	gene	576				
+DHBFGMFK_01736	CDS	576				hypothetical protein
+DHBFGMFK_01737	gene	423				
+DHBFGMFK_01737	CDS	423				hypothetical protein
+DHBFGMFK_01738	gene	633	pyrE			
+DHBFGMFK_01738	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+DHBFGMFK_01739	gene	852				
+DHBFGMFK_01739	CDS	852				hypothetical protein
+DHBFGMFK_01740	gene	1794				
+DHBFGMFK_01740	CDS	1794				hypothetical protein
+DHBFGMFK_01741	gene	471				
+DHBFGMFK_01741	CDS	471				hypothetical protein
+DHBFGMFK_01742	gene	1287				
+DHBFGMFK_01742	CDS	1287				hypothetical protein
+DHBFGMFK_01743	gene	507	recX			
+DHBFGMFK_01743	CDS	507	recX			Regulatory protein RecX
+DHBFGMFK_01744	gene	894	prmB			
+DHBFGMFK_01744	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+DHBFGMFK_01745	gene	1005	hmuU_2			
+DHBFGMFK_01745	CDS	1005	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+DHBFGMFK_01746	gene	1173				
+DHBFGMFK_01746	CDS	1173				hypothetical protein
+DHBFGMFK_01747	gene	171				
+DHBFGMFK_01747	CDS	171				hypothetical protein
+DHBFGMFK_01748	gene	6564				
+DHBFGMFK_01748	CDS	6564				hypothetical protein
+DHBFGMFK_01749	gene	285				
+DHBFGMFK_01749	CDS	285				hypothetical protein
+DHBFGMFK_01750	gene	1050	btuB_7			
+DHBFGMFK_01750	CDS	1050	btuB_7			Vitamin B12 transporter BtuB
+DHBFGMFK_01751	gene	1722				
+DHBFGMFK_01751	CDS	1722				hypothetical protein
+DHBFGMFK_01752	gene	1668	udk_2			
+DHBFGMFK_01752	CDS	1668	udk_2	2.7.1.48		Uridine kinase
+DHBFGMFK_01753	gene	126				
+DHBFGMFK_01753	CDS	126				hypothetical protein
+DHBFGMFK_01754	gene	339				
+DHBFGMFK_01754	CDS	339				hypothetical protein
+DHBFGMFK_01755	gene	381				
+DHBFGMFK_01755	CDS	381				hypothetical protein
+DHBFGMFK_01756	gene	432				
+DHBFGMFK_01756	CDS	432				hypothetical protein
+DHBFGMFK_01757	gene	2703	rcsC_1			
+DHBFGMFK_01757	CDS	2703	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+DHBFGMFK_01758	gene	243				
+DHBFGMFK_01758	CDS	243				hypothetical protein
+DHBFGMFK_01759	gene	72				
+DHBFGMFK_01759	tRNA	72				tRNA-Gln(ttg)
+DHBFGMFK_01760	gene	912				
+DHBFGMFK_01760	CDS	912				hypothetical protein
+DHBFGMFK_01761	gene	294				
+DHBFGMFK_01761	CDS	294				hypothetical protein
+DHBFGMFK_01762	gene	1821	argS			
+DHBFGMFK_01762	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+DHBFGMFK_01763	gene	417				
+DHBFGMFK_01763	CDS	417				hypothetical protein
+DHBFGMFK_01764	gene	147				
+DHBFGMFK_01764	CDS	147				hypothetical protein
+DHBFGMFK_01765	gene	516				
+DHBFGMFK_01765	CDS	516				hypothetical protein
+DHBFGMFK_01766	gene	309				
+DHBFGMFK_01766	CDS	309				hypothetical protein
+DHBFGMFK_01767	gene	2520				
+DHBFGMFK_01767	CDS	2520				hypothetical protein
+DHBFGMFK_01768	gene	681				
+DHBFGMFK_01768	CDS	681				hypothetical protein
+DHBFGMFK_01769	gene	492				
+DHBFGMFK_01769	CDS	492				hypothetical protein
+DHBFGMFK_01770	gene	189				
+DHBFGMFK_01770	CDS	189				hypothetical protein
+DHBFGMFK_01771	gene	204				
+DHBFGMFK_01771	CDS	204				hypothetical protein
+DHBFGMFK_01772	gene	558				
+DHBFGMFK_01772	CDS	558				hypothetical protein
+DHBFGMFK_01773	gene	636				
+DHBFGMFK_01773	CDS	636				hypothetical protein
+DHBFGMFK_01774	gene	105				
+DHBFGMFK_01774	CDS	105				hypothetical protein
+DHBFGMFK_01775	gene	552				
+DHBFGMFK_01775	CDS	552				hypothetical protein
+DHBFGMFK_01776	gene	74				
+DHBFGMFK_01776	tRNA	74				tRNA-Phe(gaa)
+DHBFGMFK_01777	gene	75				
+DHBFGMFK_01777	tRNA	75				tRNA-Pro(cgg)
+DHBFGMFK_01778	gene	960				
+DHBFGMFK_01778	CDS	960				putative epimerase/dehydratase
+DHBFGMFK_01779	gene	120				
+DHBFGMFK_01779	CDS	120				hypothetical protein
+DHBFGMFK_01780	gene	1188	kbl			
+DHBFGMFK_01780	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+DHBFGMFK_01781	gene	477	argR			
+DHBFGMFK_01781	CDS	477	argR		COG1438	Arginine repressor
+DHBFGMFK_01782	gene	717	ybhL			
+DHBFGMFK_01782	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+DHBFGMFK_01783	gene	756				
+DHBFGMFK_01783	CDS	756				hypothetical protein
+DHBFGMFK_01784	gene	1332	nhaA			
+DHBFGMFK_01784	CDS	1332	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+DHBFGMFK_01785	gene	1452				
+DHBFGMFK_01785	CDS	1452				hypothetical protein
+DHBFGMFK_01786	gene	726				
+DHBFGMFK_01786	CDS	726				hypothetical protein
+DHBFGMFK_01787	gene	534				
+DHBFGMFK_01787	CDS	534				hypothetical protein
+DHBFGMFK_01788	gene	267				
+DHBFGMFK_01788	CDS	267				hypothetical protein
+DHBFGMFK_01789	gene	1311	murF			
+DHBFGMFK_01789	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+DHBFGMFK_01790	gene	885	folP			
+DHBFGMFK_01790	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+DHBFGMFK_01791	gene	765	cdaA			
+DHBFGMFK_01791	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+DHBFGMFK_01792	gene	1008	pta_2			
+DHBFGMFK_01792	CDS	1008	pta_2	2.3.1.8		Phosphate acetyltransferase
+DHBFGMFK_01793	gene	1194	ackA			
+DHBFGMFK_01793	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+DHBFGMFK_01794	gene	774	lpxH			
+DHBFGMFK_01794	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+DHBFGMFK_01795	gene	375				
+DHBFGMFK_01795	CDS	375				hypothetical protein
+DHBFGMFK_01796	gene	702				
+DHBFGMFK_01796	CDS	702				hypothetical protein
+DHBFGMFK_01797	gene	1104				
+DHBFGMFK_01797	CDS	1104				hypothetical protein
+DHBFGMFK_01798	gene	525	efp			
+DHBFGMFK_01798	CDS	525	efp		COG0231	Elongation factor P
+DHBFGMFK_01799	gene	222				
+DHBFGMFK_01799	CDS	222				hypothetical protein
+DHBFGMFK_01800	gene	744				
+DHBFGMFK_01800	CDS	744				hypothetical protein
+DHBFGMFK_01801	gene	1113	rluD_3			
+DHBFGMFK_01801	CDS	1113	rluD_3	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DHBFGMFK_01802	gene	993	ddlA			
+DHBFGMFK_01802	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+DHBFGMFK_01803	gene	1176				
+DHBFGMFK_01803	CDS	1176				hypothetical protein
+DHBFGMFK_01804	gene	681				
+DHBFGMFK_01804	CDS	681				hypothetical protein
+DHBFGMFK_01805	gene	888				
+DHBFGMFK_01805	CDS	888				hypothetical protein
+DHBFGMFK_01806	gene	504				
+DHBFGMFK_01806	CDS	504				hypothetical protein
+DHBFGMFK_01807	gene	759				
+DHBFGMFK_01807	CDS	759				hypothetical protein
+DHBFGMFK_01808	gene	1038				
+DHBFGMFK_01808	CDS	1038				hypothetical protein
+DHBFGMFK_01809	gene	438				
+DHBFGMFK_01809	CDS	438				hypothetical protein
+DHBFGMFK_01810	gene	516				
+DHBFGMFK_01810	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+DHBFGMFK_01811	gene	138				
+DHBFGMFK_01811	CDS	138				hypothetical protein
+DHBFGMFK_01812	gene	1122	prfB			
+DHBFGMFK_01812	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+DHBFGMFK_01813	gene	1809				
+DHBFGMFK_01813	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+DHBFGMFK_01814	gene	678				
+DHBFGMFK_01814	CDS	678				hypothetical protein
+DHBFGMFK_01815	gene	597				
+DHBFGMFK_01815	CDS	597		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+DHBFGMFK_01816	gene	3207				
+DHBFGMFK_01816	CDS	3207				hypothetical protein
+DHBFGMFK_01817	gene	516				
+DHBFGMFK_01817	CDS	516				hypothetical protein
+DHBFGMFK_01818	gene	438				
+DHBFGMFK_01818	CDS	438				hypothetical protein
+DHBFGMFK_01819	gene	156				
+DHBFGMFK_01819	CDS	156				hypothetical protein
+DHBFGMFK_01820	gene	90				
+DHBFGMFK_01820	CDS	90				hypothetical protein
+DHBFGMFK_01821	gene	807				
+DHBFGMFK_01821	CDS	807				hypothetical protein
+DHBFGMFK_01822	gene	1446	patA_2			
+DHBFGMFK_01822	CDS	1446	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+DHBFGMFK_01823	gene	1329				
+DHBFGMFK_01823	CDS	1329				hypothetical protein
+DHBFGMFK_01824	gene	1230	yciC			
+DHBFGMFK_01824	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+DHBFGMFK_01825	gene	1446	pal_3			
+DHBFGMFK_01825	CDS	1446	pal_3			Peptidoglycan-associated lipoprotein
+DHBFGMFK_01826	gene	732				
+DHBFGMFK_01826	CDS	732				hypothetical protein
+DHBFGMFK_01827	gene	1014	asd			
+DHBFGMFK_01827	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+DHBFGMFK_01828	gene	2202	kefB_2			
+DHBFGMFK_01828	CDS	2202	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+DHBFGMFK_01829	gene	663	yknY_2			
+DHBFGMFK_01829	CDS	663	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+DHBFGMFK_01830	gene	603				
+DHBFGMFK_01830	CDS	603				hypothetical protein
+DHBFGMFK_01831	gene	285				
+DHBFGMFK_01831	CDS	285				hypothetical protein
+DHBFGMFK_01832	gene	1395	asnS			
+DHBFGMFK_01832	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+DHBFGMFK_01833	gene	1473				
+DHBFGMFK_01833	CDS	1473				hypothetical protein
+DHBFGMFK_01834	gene	1347	purB			
+DHBFGMFK_01834	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+DHBFGMFK_01835	gene	76				
+DHBFGMFK_01835	tRNA	76				tRNA-Val(tac)
+DHBFGMFK_01836	gene	76				
+DHBFGMFK_01836	tRNA	76				tRNA-Val(tac)
+DHBFGMFK_01837	gene	1209				
+DHBFGMFK_01837	CDS	1209				Outer membrane protein 40
+DHBFGMFK_01838	gene	1815	mutL			
+DHBFGMFK_01838	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+DHBFGMFK_01839	gene	273				
+DHBFGMFK_01839	CDS	273				hypothetical protein
+DHBFGMFK_01840	gene	1695	lptD_2			
+DHBFGMFK_01840	CDS	1695	lptD_2			LPS-assembly protein LptD
+DHBFGMFK_01841	gene	1464	surA_1			
+DHBFGMFK_01841	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+DHBFGMFK_01842	gene	1479	surA_2			
+DHBFGMFK_01842	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+DHBFGMFK_01843	gene	1479	guaB			
+DHBFGMFK_01843	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+DHBFGMFK_01844	gene	168				
+DHBFGMFK_01844	CDS	168				hypothetical protein
+DHBFGMFK_01845	gene	126				
+DHBFGMFK_01845	CDS	126				hypothetical protein
+DHBFGMFK_01846	gene	162				
+DHBFGMFK_01846	CDS	162				hypothetical protein
+DHBFGMFK_01847	gene	912	xerC_1			
+DHBFGMFK_01847	CDS	912	xerC_1			Tyrosine recombinase XerC
+DHBFGMFK_01848	gene	1290				
+DHBFGMFK_01848	CDS	1290				hypothetical protein
+DHBFGMFK_01849	gene	1452				
+DHBFGMFK_01849	CDS	1452				hypothetical protein
+DHBFGMFK_01850	gene	1389				
+DHBFGMFK_01850	CDS	1389				hypothetical protein
+DHBFGMFK_01851	gene	627				
+DHBFGMFK_01851	CDS	627				hypothetical protein
+DHBFGMFK_01852	gene	393				
+DHBFGMFK_01852	CDS	393				hypothetical protein
+DHBFGMFK_01853	gene	618				
+DHBFGMFK_01853	CDS	618				hypothetical protein
+DHBFGMFK_01854	gene	210				
+DHBFGMFK_01854	CDS	210				hypothetical protein
+DHBFGMFK_01855	gene	318				
+DHBFGMFK_01855	CDS	318				hypothetical protein
+DHBFGMFK_01856	gene	906				
+DHBFGMFK_01856	CDS	906				hypothetical protein
+DHBFGMFK_01857	gene	165				
+DHBFGMFK_01857	CDS	165				hypothetical protein
+DHBFGMFK_01858	gene	2826				
+DHBFGMFK_01858	CDS	2826				hypothetical protein
+DHBFGMFK_01859	gene	1305	metK			
+DHBFGMFK_01859	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+DHBFGMFK_01860	gene	1038				
+DHBFGMFK_01860	CDS	1038				hypothetical protein
+DHBFGMFK_01861	gene	747				
+DHBFGMFK_01861	CDS	747				hypothetical protein
+DHBFGMFK_01862	gene	432	rnpA			
+DHBFGMFK_01862	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+DHBFGMFK_01863	gene	492				
+DHBFGMFK_01863	CDS	492				hypothetical protein
+DHBFGMFK_01864	gene	1305	tyrS			
+DHBFGMFK_01864	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+DHBFGMFK_01865	gene	1404				
+DHBFGMFK_01865	CDS	1404				hypothetical protein
+DHBFGMFK_01866	gene	1230				
+DHBFGMFK_01866	CDS	1230				hypothetical protein
+DHBFGMFK_01867	gene	1215				
+DHBFGMFK_01867	CDS	1215				hypothetical protein
+DHBFGMFK_01868	gene	654				
+DHBFGMFK_01868	CDS	654				hypothetical protein
+DHBFGMFK_01869	gene	981	ribD			
+DHBFGMFK_01869	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+DHBFGMFK_01870	gene	1311	eno			
+DHBFGMFK_01870	CDS	1311	eno	4.2.1.11		Enolase
+DHBFGMFK_01871	gene	399	glpE			
+DHBFGMFK_01871	CDS	399	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+DHBFGMFK_01872	gene	417				
+DHBFGMFK_01872	CDS	417				hypothetical protein
+DHBFGMFK_01873	gene	1125	dnaN			
+DHBFGMFK_01873	CDS	1125	dnaN			Beta sliding clamp
+DHBFGMFK_01874	gene	855	dinG			
+DHBFGMFK_01874	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+DHBFGMFK_01875	gene	1212	undec1A			
+DHBFGMFK_01875	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+DHBFGMFK_01876	gene	903				
+DHBFGMFK_01876	CDS	903				hypothetical protein
+DHBFGMFK_01877	gene	1704	recN			
+DHBFGMFK_01877	CDS	1704	recN		COG0497	DNA repair protein RecN
+DHBFGMFK_01878	gene	2298				
+DHBFGMFK_01878	CDS	2298				hypothetical protein
+DHBFGMFK_01879	gene	627				
+DHBFGMFK_01879	CDS	627				hypothetical protein
+DHBFGMFK_01880	gene	192				
+DHBFGMFK_01880	CDS	192				hypothetical protein
+DHBFGMFK_01881	gene	189				
+DHBFGMFK_01881	CDS	189				hypothetical protein
+DHBFGMFK_01882	gene	1647				
+DHBFGMFK_01882	CDS	1647				hypothetical protein
+DHBFGMFK_01883	gene	999				
+DHBFGMFK_01883	CDS	999				hypothetical protein
+DHBFGMFK_01884	gene	231				
+DHBFGMFK_01884	CDS	231				hypothetical protein
+DHBFGMFK_01885	gene	336				
+DHBFGMFK_01885	CDS	336				hypothetical protein
+DHBFGMFK_01886	gene	240				
+DHBFGMFK_01886	CDS	240				hypothetical protein
+DHBFGMFK_01887	gene	2760				
+DHBFGMFK_01887	CDS	2760				hypothetical protein
+DHBFGMFK_01888	gene	204				
+DHBFGMFK_01888	CDS	204				hypothetical protein
+DHBFGMFK_01889	gene	192				
+DHBFGMFK_01889	CDS	192				hypothetical protein
+DHBFGMFK_01890	gene	207				
+DHBFGMFK_01890	CDS	207				hypothetical protein
+DHBFGMFK_01891	gene	1830				
+DHBFGMFK_01891	CDS	1830				hypothetical protein
+DHBFGMFK_01892	gene	111				
+DHBFGMFK_01892	CDS	111				hypothetical protein
+DHBFGMFK_01893	gene	1788				
+DHBFGMFK_01893	CDS	1788				hypothetical protein
+DHBFGMFK_01894	gene	1917				
+DHBFGMFK_01894	CDS	1917				hypothetical protein
+DHBFGMFK_01895	gene	1686	dauA			
+DHBFGMFK_01895	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+DHBFGMFK_01896	gene	1305				
+DHBFGMFK_01896	CDS	1305				hypothetical protein
+DHBFGMFK_01897	gene	159				
+DHBFGMFK_01897	CDS	159				hypothetical protein
+DHBFGMFK_01898	gene	993	mdh			
+DHBFGMFK_01898	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+DHBFGMFK_01899	gene	510				
+DHBFGMFK_01899	CDS	510				hypothetical protein
+DHBFGMFK_01900	gene	411				
+DHBFGMFK_01900	CDS	411				hypothetical protein
+DHBFGMFK_01901	gene	2538				
+DHBFGMFK_01901	CDS	2538				hypothetical protein
+DHBFGMFK_01902	gene	1002				
+DHBFGMFK_01902	CDS	1002				hypothetical protein
+DHBFGMFK_01903	gene	837				
+DHBFGMFK_01903	CDS	837				hypothetical protein
+DHBFGMFK_01904	gene	1413				
+DHBFGMFK_01904	CDS	1413				hypothetical protein
+DHBFGMFK_01905	gene	399				
+DHBFGMFK_01905	CDS	399			COG0537	putative HIT-like protein
+DHBFGMFK_01906	gene	465	greA			
+DHBFGMFK_01906	CDS	465	greA		COG0782	Transcription elongation factor GreA
+DHBFGMFK_01907	gene	75				
+DHBFGMFK_01907	tRNA	75				tRNA-Ala(ggc)
+DHBFGMFK_01908	gene	726				
+DHBFGMFK_01908	CDS	726				hypothetical protein
+DHBFGMFK_01909	gene	138				
+DHBFGMFK_01909	CDS	138				hypothetical protein
+DHBFGMFK_01910	gene	1032	cobD_1			
+DHBFGMFK_01910	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+DHBFGMFK_01911	gene	942	cobD_2			
+DHBFGMFK_01911	CDS	942	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+DHBFGMFK_01912	gene	573				
+DHBFGMFK_01912	CDS	573				hypothetical protein
+DHBFGMFK_01913	gene	2130				
+DHBFGMFK_01913	CDS	2130				hypothetical protein
+DHBFGMFK_01914	gene	825				
+DHBFGMFK_01914	CDS	825				hypothetical protein
+DHBFGMFK_01915	gene	696	mprA			
+DHBFGMFK_01915	CDS	696	mprA			Response regulator MprA
+DHBFGMFK_01916	gene	1569	sasA_5			
+DHBFGMFK_01916	CDS	1569	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+DHBFGMFK_01917	gene	2070				
+DHBFGMFK_01917	CDS	2070				hypothetical protein
+DHBFGMFK_01918	gene	222				
+DHBFGMFK_01918	CDS	222				hypothetical protein
+DHBFGMFK_01919	gene	555	cobO			
+DHBFGMFK_01919	CDS	555	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+DHBFGMFK_01920	gene	606				
+DHBFGMFK_01920	CDS	606				hypothetical protein
+DHBFGMFK_01921	gene	1218				
+DHBFGMFK_01921	CDS	1218				hypothetical protein
+DHBFGMFK_01922	gene	2058				
+DHBFGMFK_01922	CDS	2058				hypothetical protein
+DHBFGMFK_01923	gene	93				
+DHBFGMFK_01923	CDS	93				hypothetical protein
+DHBFGMFK_01924	gene	1092	susF			
+DHBFGMFK_01924	CDS	1092	susF			Outer membrane protein SusF
+DHBFGMFK_01925	gene	1122	susE			
+DHBFGMFK_01925	CDS	1122	susE			Outer membrane protein SusE
+DHBFGMFK_01926	gene	1617	susD			
+DHBFGMFK_01926	CDS	1617	susD			Starch-binding protein SusD
+DHBFGMFK_01927	gene	3081	susC			
+DHBFGMFK_01927	CDS	3081	susC			TonB-dependent receptor SusC
+DHBFGMFK_01928	gene	1032	cytR			
+DHBFGMFK_01928	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+DHBFGMFK_01929	gene	1299				
+DHBFGMFK_01929	CDS	1299				hypothetical protein
+DHBFGMFK_01930	gene	711	ispD			
+DHBFGMFK_01930	CDS	711	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+DHBFGMFK_01931	gene	2100	recG			
+DHBFGMFK_01931	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+DHBFGMFK_01932	gene	969				
+DHBFGMFK_01932	CDS	969				hypothetical protein
+DHBFGMFK_01933	gene	615				
+DHBFGMFK_01933	CDS	615				hypothetical protein
+DHBFGMFK_01934	gene	1233				
+DHBFGMFK_01934	CDS	1233				hypothetical protein
+DHBFGMFK_01935	gene	2385	btuB_8			
+DHBFGMFK_01935	CDS	2385	btuB_8			Vitamin B12 transporter BtuB
+DHBFGMFK_01936	gene	108				
+DHBFGMFK_01936	CDS	108				hypothetical protein
+DHBFGMFK_01937	gene	927				
+DHBFGMFK_01937	CDS	927				hypothetical protein
+DHBFGMFK_01938	gene	1017	fcl_3			
+DHBFGMFK_01938	CDS	1017	fcl_3	1.1.1.271		GDP-L-fucose synthase
+DHBFGMFK_01939	gene	720	tarI			
+DHBFGMFK_01939	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+DHBFGMFK_01940	gene	831				
+DHBFGMFK_01940	CDS	831				hypothetical protein
+DHBFGMFK_01941	gene	1065				
+DHBFGMFK_01941	CDS	1065				hypothetical protein
+DHBFGMFK_01942	gene	360				
+DHBFGMFK_01942	CDS	360				hypothetical protein
+DHBFGMFK_01943	gene	816				
+DHBFGMFK_01943	CDS	816				hypothetical protein
+DHBFGMFK_01944	gene	450				
+DHBFGMFK_01944	CDS	450				hypothetical protein
+DHBFGMFK_01945	gene	1188	patB			
+DHBFGMFK_01945	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+DHBFGMFK_01946	gene	852				
+DHBFGMFK_01946	CDS	852				hypothetical protein
+DHBFGMFK_01947	gene	612				
+DHBFGMFK_01947	CDS	612				hypothetical protein
+DHBFGMFK_01948	gene	1287				
+DHBFGMFK_01948	CDS	1287				hypothetical protein
+DHBFGMFK_01949	gene	1308				
+DHBFGMFK_01949	CDS	1308				hypothetical protein
+DHBFGMFK_01950	gene	1695				
+DHBFGMFK_01950	CDS	1695				hypothetical protein
+DHBFGMFK_01951	gene	840	pal_4			
+DHBFGMFK_01951	CDS	840	pal_4			Peptidoglycan-associated lipoprotein
+DHBFGMFK_01952	gene	165				
+DHBFGMFK_01952	CDS	165				hypothetical protein
+DHBFGMFK_01953	gene	4035	purL			
+DHBFGMFK_01953	CDS	4035	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase
+DHBFGMFK_01954	gene	552	srpC_1			
+DHBFGMFK_01954	CDS	552	srpC_1		COG2059	putative chromate transport protein
+DHBFGMFK_01955	gene	576	srpC_2			
+DHBFGMFK_01955	CDS	576	srpC_2		COG2059	putative chromate transport protein
+DHBFGMFK_01956	gene	2148	dcp			
+DHBFGMFK_01956	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+DHBFGMFK_01957	gene	1995	glgB_2			
+DHBFGMFK_01957	CDS	1995	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+DHBFGMFK_01958	gene	1959	pulA			
+DHBFGMFK_01958	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+DHBFGMFK_01959	gene	2220	susB			
+DHBFGMFK_01959	CDS	2220	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+DHBFGMFK_01960	gene	2721				
+DHBFGMFK_01960	CDS	2721				hypothetical protein
+DHBFGMFK_01961	gene	279				
+DHBFGMFK_01961	CDS	279				hypothetical protein
+DHBFGMFK_01962	gene	1323	xerC_2			
+DHBFGMFK_01962	CDS	1323	xerC_2			Tyrosine recombinase XerC
+DHBFGMFK_01963	gene	1491				
+DHBFGMFK_01963	CDS	1491				hypothetical protein
+DHBFGMFK_01964	gene	636				
+DHBFGMFK_01964	CDS	636				hypothetical protein
+DHBFGMFK_01965	gene	630				
+DHBFGMFK_01965	CDS	630				hypothetical protein
+DHBFGMFK_01966	gene	321				
+DHBFGMFK_01966	CDS	321				hypothetical protein
+DHBFGMFK_01967	gene	1089	trpS2			
+DHBFGMFK_01967	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+DHBFGMFK_01968	gene	4329	rpoC			
+DHBFGMFK_01968	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+DHBFGMFK_01969	gene	3813	rpoB			
+DHBFGMFK_01969	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+DHBFGMFK_01970	gene	378	rplL			
+DHBFGMFK_01970	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+DHBFGMFK_01971	gene	516	rplJ			
+DHBFGMFK_01971	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+DHBFGMFK_01972	gene	693	rplA			
+DHBFGMFK_01972	CDS	693	rplA			50S ribosomal protein L1
+DHBFGMFK_01973	gene	438	rplK			
+DHBFGMFK_01973	CDS	438	rplK			50S ribosomal protein L11
+DHBFGMFK_01974	gene	543	nusG			
+DHBFGMFK_01974	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+DHBFGMFK_01975	gene	74				
+DHBFGMFK_01975	tRNA	74				tRNA-Trp(cca)
+DHBFGMFK_01976	gene	1185	tufB			
+DHBFGMFK_01976	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+DHBFGMFK_01977	gene	73				
+DHBFGMFK_01977	tRNA	73				tRNA-Thr(ggt)
+DHBFGMFK_01978	gene	74				
+DHBFGMFK_01978	tRNA	74				tRNA-Gly(tcc)
+DHBFGMFK_01979	gene	84				
+DHBFGMFK_01979	tRNA	84				tRNA-Tyr(gta)
+DHBFGMFK_01980	gene	75				
+DHBFGMFK_01980	tRNA	75				tRNA-Thr(tgt)
+DHBFGMFK_01981	gene	300	hpf			
+DHBFGMFK_01981	CDS	300	hpf			Ribosome hibernation promoting factor
+DHBFGMFK_01982	gene	882	xerD_2			
+DHBFGMFK_01982	CDS	882	xerD_2			Tyrosine recombinase XerD
+DHBFGMFK_01983	gene	525				
+DHBFGMFK_01983	CDS	525				hypothetical protein
+DHBFGMFK_01984	gene	792				
+DHBFGMFK_01984	CDS	792				IS3 family transposase IS150
+DHBFGMFK_01985	gene	960				
+DHBFGMFK_01985	CDS	960				hypothetical protein
+DHBFGMFK_01986	gene	666				
+DHBFGMFK_01986	CDS	666				hypothetical protein
+DHBFGMFK_01987	gene	405				
+DHBFGMFK_01987	CDS	405				hypothetical protein
+DHBFGMFK_01988	gene	978				
+DHBFGMFK_01988	CDS	978				hypothetical protein
+DHBFGMFK_01989	gene	621				
+DHBFGMFK_01989	CDS	621				hypothetical protein
+DHBFGMFK_01990	gene	492				
+DHBFGMFK_01990	CDS	492				hypothetical protein
+DHBFGMFK_01991	gene	675				
+DHBFGMFK_01991	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+DHBFGMFK_01992	gene	978				
+DHBFGMFK_01992	CDS	978				hypothetical protein
+DHBFGMFK_01993	gene	999	dagK			
+DHBFGMFK_01993	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+DHBFGMFK_01994	gene	1329	nupG			
+DHBFGMFK_01994	CDS	1329	nupG			Nucleoside permease NupG
+DHBFGMFK_01995	gene	564				
+DHBFGMFK_01995	CDS	564				hypothetical protein
+DHBFGMFK_01996	gene	732	rsmE			
+DHBFGMFK_01996	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+DHBFGMFK_01997	gene	1341				
+DHBFGMFK_01997	CDS	1341				hypothetical protein
+DHBFGMFK_01998	gene	645	ytrE			
+DHBFGMFK_01998	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+DHBFGMFK_01999	gene	1200				
+DHBFGMFK_01999	CDS	1200				hypothetical protein
+DHBFGMFK_02000	gene	3288				
+DHBFGMFK_02000	CDS	3288				hypothetical protein
+DHBFGMFK_02001	gene	339				
+DHBFGMFK_02001	CDS	339				hypothetical protein
+DHBFGMFK_02002	gene	591				
+DHBFGMFK_02002	CDS	591				hypothetical protein
+DHBFGMFK_02003	gene	687				
+DHBFGMFK_02003	CDS	687				hypothetical protein
+DHBFGMFK_02004	gene	543	mtcA1			
+DHBFGMFK_02004	CDS	543	mtcA1	4.2.1.1	COG0288	Beta-carbonic anhydrase 1
+DHBFGMFK_02005	gene	495				
+DHBFGMFK_02005	CDS	495				hypothetical protein
+DHBFGMFK_02006	gene	711				
+DHBFGMFK_02006	CDS	711				hypothetical protein
+DHBFGMFK_02007	gene	1050				
+DHBFGMFK_02007	CDS	1050				hypothetical protein
+DHBFGMFK_02008	gene	1140	cbiKp			
+DHBFGMFK_02008	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+DHBFGMFK_02009	gene	2133	cirA_2			
+DHBFGMFK_02009	CDS	2133	cirA_2		COG4771	Colicin I receptor
+DHBFGMFK_02010	gene	2178	btuB_9			
+DHBFGMFK_02010	CDS	2178	btuB_9			Vitamin B12 transporter BtuB
+DHBFGMFK_02011	gene	2784	cobQ			
+DHBFGMFK_02011	CDS	2784	cobQ			Cobyric acid synthase
+DHBFGMFK_02012	gene	666				
+DHBFGMFK_02012	CDS	666				hypothetical protein
+DHBFGMFK_02013	gene	1632				
+DHBFGMFK_02013	CDS	1632				hypothetical protein
+DHBFGMFK_02014	gene	1080				
+DHBFGMFK_02014	CDS	1080				hypothetical protein
+DHBFGMFK_02015	gene	654				
+DHBFGMFK_02015	CDS	654				hypothetical protein
+DHBFGMFK_02016	gene	864				
+DHBFGMFK_02016	CDS	864				hypothetical protein
+DHBFGMFK_02017	gene	2238	rnr			
+DHBFGMFK_02017	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+DHBFGMFK_02018	gene	993	rfbB_2			
+DHBFGMFK_02018	CDS	993	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+DHBFGMFK_02019	gene	960				
+DHBFGMFK_02019	CDS	960				hypothetical protein
+DHBFGMFK_02020	gene	465				
+DHBFGMFK_02020	CDS	465				hypothetical protein
+DHBFGMFK_02021	gene	510				
+DHBFGMFK_02021	CDS	510				hypothetical protein
+DHBFGMFK_02022	gene	552				
+DHBFGMFK_02022	CDS	552				hypothetical protein
+DHBFGMFK_02023	gene	744				
+DHBFGMFK_02023	CDS	744				hypothetical protein
+DHBFGMFK_02024	gene	414	glmS			
+DHBFGMFK_02024	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+DHBFGMFK_02025	gene	1383				
+DHBFGMFK_02025	CDS	1383				hypothetical protein
+DHBFGMFK_02026	gene	1464	glmE			
+DHBFGMFK_02026	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+DHBFGMFK_02027	gene	1239				
+DHBFGMFK_02027	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+DHBFGMFK_02028	gene	1380				
+DHBFGMFK_02028	CDS	1380				hypothetical protein
+DHBFGMFK_02029	gene	321				
+DHBFGMFK_02029	CDS	321				hypothetical protein
+DHBFGMFK_02030	gene	945				
+DHBFGMFK_02030	CDS	945				hypothetical protein
+DHBFGMFK_02031	gene	843	ttdA			
+DHBFGMFK_02031	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+DHBFGMFK_02032	gene	558	fumB			
+DHBFGMFK_02032	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+DHBFGMFK_02033	gene	1509	scpC			
+DHBFGMFK_02033	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+DHBFGMFK_02034	gene	423				
+DHBFGMFK_02034	CDS	423				hypothetical protein
+DHBFGMFK_02035	gene	2940	rcsC_2			
+DHBFGMFK_02035	CDS	2940	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+DHBFGMFK_02036	gene	966				
+DHBFGMFK_02036	CDS	966			COG2826	IS30 family transposase IS4351
+DHBFGMFK_02037	gene	180				
+DHBFGMFK_02037	CDS	180				hypothetical protein
+DHBFGMFK_02038	gene	2721	ppdK			
+DHBFGMFK_02038	CDS	2721	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+DHBFGMFK_02039	gene	3111				
+DHBFGMFK_02039	CDS	3111				hypothetical protein
+DHBFGMFK_02040	gene	228				
+DHBFGMFK_02040	CDS	228				hypothetical protein
+DHBFGMFK_02041	gene	351				
+DHBFGMFK_02041	CDS	351				hypothetical protein
+DHBFGMFK_02042	gene	468				
+DHBFGMFK_02042	CDS	468				hypothetical protein
+DHBFGMFK_02043	gene	1227	xerC_3			
+DHBFGMFK_02043	CDS	1227	xerC_3			Tyrosine recombinase XerC
+DHBFGMFK_02044	gene	75				
+DHBFGMFK_02044	tRNA	75				tRNA-Met(cat)
+DHBFGMFK_02045	gene	678				
+DHBFGMFK_02045	CDS	678				hypothetical protein
+DHBFGMFK_02046	gene	888	ribF_2			
+DHBFGMFK_02046	CDS	888	ribF_2		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+DHBFGMFK_02047	gene	783				
+DHBFGMFK_02047	CDS	783				hypothetical protein
+DHBFGMFK_02048	gene	1068	resA_7			
+DHBFGMFK_02048	CDS	1068	resA_7			Thiol-disulfide oxidoreductase ResA
+DHBFGMFK_02049	gene	1038				
+DHBFGMFK_02049	CDS	1038				IS110 family transposase ISCaa7
+DHBFGMFK_02050	gene	489				
+DHBFGMFK_02050	CDS	489				hypothetical protein
+DHBFGMFK_02051	gene	693				
+DHBFGMFK_02051	CDS	693				hypothetical protein
+DHBFGMFK_02052	gene	993	htpX			
+DHBFGMFK_02052	CDS	993	htpX	3.4.24.-		Protease HtpX
+DHBFGMFK_02053	gene	564	lemA			
+DHBFGMFK_02053	CDS	564	lemA		COG1704	Protein LemA
+DHBFGMFK_02054	gene	405				
+DHBFGMFK_02054	CDS	405				hypothetical protein
+DHBFGMFK_02055	gene	107				
+DHBFGMFK_02055	rRNA	107				5S ribosomal RNA
+DHBFGMFK_02056	gene	76				
+DHBFGMFK_02056	tRNA	76				tRNA-Thr(cgt)
+DHBFGMFK_02057	gene	74				
+DHBFGMFK_02057	tRNA	74				tRNA-Gly(ccc)
+DHBFGMFK_02058	gene	2826	uvrA_2			
+DHBFGMFK_02058	CDS	2826	uvrA_2		COG0178	UvrABC system protein A
+DHBFGMFK_02059	gene	780	nudC_3			
+DHBFGMFK_02059	CDS	780	nudC_3	3.6.1.22		NADH pyrophosphatase
+DHBFGMFK_02060	gene	1824	yfkN_2			
+DHBFGMFK_02060	CDS	1824	yfkN_2		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+DHBFGMFK_02061	gene	393				
+DHBFGMFK_02061	CDS	393				hypothetical protein
+DHBFGMFK_02062	gene	2310				
+DHBFGMFK_02062	CDS	2310				hypothetical protein
+DHBFGMFK_02063	gene	108				
+DHBFGMFK_02063	CDS	108				hypothetical protein
+DHBFGMFK_02064	gene	684				
+DHBFGMFK_02064	CDS	684				hypothetical protein
+DHBFGMFK_02065	gene	597	carQ			
+DHBFGMFK_02065	CDS	597	carQ		COG1595	RNA polymerase sigma factor CarQ
+DHBFGMFK_02066	gene	648	rpe			
+DHBFGMFK_02066	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+DHBFGMFK_02067	gene	126				
+DHBFGMFK_02067	CDS	126				hypothetical protein
+DHBFGMFK_02068	gene	696	trpF			
+DHBFGMFK_02068	CDS	696	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+DHBFGMFK_02069	gene	564	pabA			
+DHBFGMFK_02069	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+DHBFGMFK_02070	gene	192				
+DHBFGMFK_02070	CDS	192				hypothetical protein
+DHBFGMFK_02071	gene	291				
+DHBFGMFK_02071	CDS	291				hypothetical protein
+DHBFGMFK_02072	gene	285				
+DHBFGMFK_02072	CDS	285				hypothetical protein
+DHBFGMFK_02073	gene	1380				
+DHBFGMFK_02073	CDS	1380				hypothetical protein
+DHBFGMFK_02074	gene	615				
+DHBFGMFK_02074	CDS	615				hypothetical protein
+DHBFGMFK_02075	gene	96				
+DHBFGMFK_02075	CDS	96				hypothetical protein
+DHBFGMFK_02076	gene	288				
+DHBFGMFK_02076	CDS	288				hypothetical protein
+DHBFGMFK_02077	gene	414				
+DHBFGMFK_02077	CDS	414			COG3039	IS5 family transposase ISShsa1
+DHBFGMFK_02078	gene	609				
+DHBFGMFK_02078	CDS	609				hypothetical protein

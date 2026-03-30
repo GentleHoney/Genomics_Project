@@ -1,0 +1,66 @@
+[2026-03-27 15:47:10] INFO: CheckM v1.2.5
+[2026-03-27 15:47:10] INFO: checkm taxonomy_wf domain Bacteria extracted_mags checkm_output -t 4
+[2026-03-27 15:47:10] INFO: CheckM data: /home/lorenzo/anaconda3/envs/checkm/checkm_data
+[2026-03-27 15:47:10] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2026-03-27 15:47:13] INFO: Marker set for Bacteria contains 104 marker genes arranged in 58 sets.
+[2026-03-27 15:47:13] INFO: Marker set inferred from 5449 reference genomes.
+[2026-03-27 15:47:14] INFO: Marker set written to: checkm_output/Bacteria.ms
+[2026-03-27 15:47:14] INFO: { Current stage: 0:00:03.220 || Total: 0:00:03.220 }
+[2026-03-27 15:47:14] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2026-03-27 15:47:14] INFO: Identifying marker genes in 30 bins with 4 threads:
+[2026-03-27 15:47:40] INFO: Saving HMM info to file.
+[2026-03-27 15:47:40] INFO: { Current stage: 0:00:26.774 || Total: 0:00:29.995 }
+[2026-03-27 15:47:40] INFO: Parsing HMM hits to marker genes:
+[2026-03-27 15:47:40] INFO: Aligning marker genes with multiple hits in a single bin:
+[2026-03-27 15:47:40] INFO: { Current stage: 0:00:00.168 || Total: 0:00:30.164 }
+[2026-03-27 15:47:40] INFO: Calculating genome statistics for 30 bins with 4 threads:
+[2026-03-27 15:47:41] INFO: { Current stage: 0:00:00.352 || Total: 0:00:30.516 }
+[2026-03-27 15:47:41] INFO: [CheckM - qa] Tabulating genome statistics.
+[2026-03-27 15:47:41] INFO: Calculating AAI between multi-copy marker genes.
+[2026-03-27 15:47:41] INFO: Reading HMM info from file.
+[2026-03-27 15:47:41] INFO: Parsing HMM hits to marker genes:
+[2026-03-27 15:47:41] INFO: { Current stage: 0:00:00.107 || Total: 0:00:30.623 }
+[2026-03-27 15:47:51] INFO: CheckM v1.2.5
+[2026-03-27 15:47:51] INFO: checkm taxonomy_wf domain Bacteria extracted_mags checkm_output -t 4
+[2026-03-27 15:47:51] INFO: CheckM data: /home/lorenzo/anaconda3/envs/checkm/checkm_data
+[2026-03-27 15:47:51] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2026-03-27 15:47:54] INFO: Marker set for Bacteria contains 104 marker genes arranged in 58 sets.
+[2026-03-27 15:47:54] INFO: Marker set inferred from 5449 reference genomes.
+[2026-03-27 15:47:54] INFO: Marker set written to: checkm_output/Bacteria.ms
+[2026-03-27 15:47:54] INFO: { Current stage: 0:00:03.201 || Total: 0:00:03.201 }
+[2026-03-27 15:47:54] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2026-03-27 15:47:54] INFO: Identifying marker genes in 30 bins with 4 threads:
+[2026-03-27 15:51:20] INFO: Saving HMM info to file.
+[2026-03-27 15:51:21] INFO: { Current stage: 0:03:26.577 || Total: 0:03:29.779 }
+[2026-03-27 15:51:21] INFO: Parsing HMM hits to marker genes:
+[2026-03-27 15:51:22] INFO: Aligning marker genes with multiple hits in a single bin:
+[2026-03-27 15:51:22] INFO: { Current stage: 0:00:01.862 || Total: 0:03:31.641 }
+[2026-03-27 15:51:22] INFO: Calculating genome statistics for 30 bins with 4 threads:
+[2026-03-27 15:51:23] INFO: { Current stage: 0:00:00.435 || Total: 0:03:32.077 }
+[2026-03-27 15:51:23] INFO: [CheckM - qa] Tabulating genome statistics.
+[2026-03-27 15:51:23] INFO: Calculating AAI between multi-copy marker genes.
+[2026-03-27 15:51:23] INFO: Reading HMM info from file.
+[2026-03-27 15:51:23] INFO: Parsing HMM hits to marker genes:
+[2026-03-27 15:51:25] INFO: { Current stage: 0:00:01.763 || Total: 0:03:33.841 }
+[2026-03-27 16:12:44] INFO: CheckM v1.2.5
+[2026-03-27 16:12:44] INFO: checkm taxonomy_wf domain Bacteria extracted_mags checkm_output -t 4
+[2026-03-27 16:12:44] INFO: CheckM data: /home/lorenzo/anaconda3/envs/checkm/checkm_data
+[2026-03-27 16:12:44] INFO: [CheckM - taxon_set] Generate taxonomic-specific marker set.
+[2026-03-27 16:12:47] INFO: Marker set for Bacteria contains 104 marker genes arranged in 58 sets.
+[2026-03-27 16:12:47] INFO: Marker set inferred from 5449 reference genomes.
+[2026-03-27 16:12:47] INFO: Marker set written to: checkm_output/Bacteria.ms
+[2026-03-27 16:12:47] INFO: { Current stage: 0:00:03.282 || Total: 0:00:03.282 }
+[2026-03-27 16:12:47] INFO: [CheckM - analyze] Identifying marker genes in bins.
+[2026-03-27 16:12:47] INFO: Identifying marker genes in 30 bins with 4 threads:
+[2026-03-27 16:14:33] INFO: Saving HMM info to file.
+[2026-03-27 16:14:33] INFO: { Current stage: 0:01:46.489 || Total: 0:01:49.772 }
+[2026-03-27 16:14:33] INFO: Parsing HMM hits to marker genes:
+[2026-03-27 16:14:35] INFO: Aligning marker genes with multiple hits in a single bin:
+[2026-03-27 16:14:35] INFO: { Current stage: 0:00:01.829 || Total: 0:01:51.601 }
+[2026-03-27 16:14:35] INFO: Calculating genome statistics for 30 bins with 4 threads:
+[2026-03-27 16:14:36] INFO: { Current stage: 0:00:00.405 || Total: 0:01:52.006 }
+[2026-03-27 16:14:36] INFO: [CheckM - qa] Tabulating genome statistics.
+[2026-03-27 16:14:36] INFO: Calculating AAI between multi-copy marker genes.
+[2026-03-27 16:14:36] INFO: Reading HMM info from file.
+[2026-03-27 16:14:36] INFO: Parsing HMM hits to marker genes:
+[2026-03-27 16:14:37] INFO: { Current stage: 0:00:01.726 || Total: 0:01:53.733 }

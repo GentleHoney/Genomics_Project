@@ -1,0 +1,4272 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+DKOIFHOP_00001	gene	762	ydfG			
+DKOIFHOP_00001	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+DKOIFHOP_00002	gene	507				
+DKOIFHOP_00002	CDS	507				hypothetical protein
+DKOIFHOP_00003	gene	588	ttcA			
+DKOIFHOP_00003	CDS	588	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+DKOIFHOP_00004	gene	657	ppaX			
+DKOIFHOP_00004	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+DKOIFHOP_00005	gene	162				
+DKOIFHOP_00005	CDS	162			COG1773	Rubredoxin
+DKOIFHOP_00006	gene	474	guaD			
+DKOIFHOP_00006	CDS	474	guaD	3.5.4.3	COG0590	Guanine deaminase
+DKOIFHOP_00007	gene	1575	rne			
+DKOIFHOP_00007	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+DKOIFHOP_00008	gene	90				
+DKOIFHOP_00008	CDS	90				hypothetical protein
+DKOIFHOP_00009	gene	300				
+DKOIFHOP_00009	CDS	300			COG0776	DNA-binding protein HRL53
+DKOIFHOP_00010	gene	444	rpiB			
+DKOIFHOP_00010	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+DKOIFHOP_00011	gene	1995	tkt			
+DKOIFHOP_00011	CDS	1995	tkt	2.2.1.1		Transketolase
+DKOIFHOP_00012	gene	900	rluD_1			
+DKOIFHOP_00012	CDS	900	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DKOIFHOP_00013	gene	162				
+DKOIFHOP_00013	CDS	162				hypothetical protein
+DKOIFHOP_00014	gene	1785				
+DKOIFHOP_00014	CDS	1785				hypothetical protein
+DKOIFHOP_00015	gene	1932				
+DKOIFHOP_00015	CDS	1932				hypothetical protein
+DKOIFHOP_00016	gene	3303				
+DKOIFHOP_00016	CDS	3303				hypothetical protein
+DKOIFHOP_00017	gene	144				
+DKOIFHOP_00017	CDS	144				hypothetical protein
+DKOIFHOP_00018	gene	2100				
+DKOIFHOP_00018	CDS	2100				hypothetical protein
+DKOIFHOP_00019	gene	642				
+DKOIFHOP_00019	CDS	642				hypothetical protein
+DKOIFHOP_00020	gene	633				
+DKOIFHOP_00020	CDS	633				hypothetical protein
+DKOIFHOP_00021	gene	903	menA			
+DKOIFHOP_00021	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+DKOIFHOP_00022	gene	2280				
+DKOIFHOP_00022	CDS	2280				hypothetical protein
+DKOIFHOP_00023	gene	255				
+DKOIFHOP_00023	CDS	255				hypothetical protein
+DKOIFHOP_00024	gene	2040	uvrB			
+DKOIFHOP_00024	CDS	2040	uvrB		COG0556	UvrABC system protein B
+DKOIFHOP_00025	gene	2460				
+DKOIFHOP_00025	CDS	2460				hypothetical protein
+DKOIFHOP_00026	gene	897	bamD_1			
+DKOIFHOP_00026	CDS	897	bamD_1			Outer membrane protein assembly factor BamD
+DKOIFHOP_00027	gene	351				
+DKOIFHOP_00027	CDS	351				hypothetical protein
+DKOIFHOP_00028	gene	459				
+DKOIFHOP_00028	CDS	459				hypothetical protein
+DKOIFHOP_00029	gene	567				
+DKOIFHOP_00029	CDS	567				hypothetical protein
+DKOIFHOP_00030	gene	129				
+DKOIFHOP_00030	CDS	129				hypothetical protein
+DKOIFHOP_00031	gene	477	ribH			
+DKOIFHOP_00031	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+DKOIFHOP_00032	gene	741				
+DKOIFHOP_00032	CDS	741				hypothetical protein
+DKOIFHOP_00033	gene	1095	recF			
+DKOIFHOP_00033	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+DKOIFHOP_00034	gene	291				
+DKOIFHOP_00034	CDS	291				hypothetical protein
+DKOIFHOP_00035	gene	498	yqgN			
+DKOIFHOP_00035	CDS	498	yqgN		COG0212	putative protein YqgN
+DKOIFHOP_00036	gene	1725				
+DKOIFHOP_00036	CDS	1725				hypothetical protein
+DKOIFHOP_00037	gene	444	tadA_1			
+DKOIFHOP_00037	CDS	444	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+DKOIFHOP_00038	gene	2094	prlC			
+DKOIFHOP_00038	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+DKOIFHOP_00039	gene	618				
+DKOIFHOP_00039	CDS	618				hypothetical protein
+DKOIFHOP_00040	gene	942	apbE			
+DKOIFHOP_00040	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+DKOIFHOP_00041	gene	681				
+DKOIFHOP_00041	CDS	681				hypothetical protein
+DKOIFHOP_00042	gene	486				
+DKOIFHOP_00042	CDS	486				hypothetical protein
+DKOIFHOP_00043	gene	951	rgtE			
+DKOIFHOP_00043	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+DKOIFHOP_00044	gene	579				
+DKOIFHOP_00044	CDS	579				hypothetical protein
+DKOIFHOP_00045	gene	627				
+DKOIFHOP_00045	CDS	627				hypothetical protein
+DKOIFHOP_00046	gene	519				
+DKOIFHOP_00046	CDS	519				hypothetical protein
+DKOIFHOP_00047	gene	480				
+DKOIFHOP_00047	CDS	480				hypothetical protein
+DKOIFHOP_00048	gene	117				
+DKOIFHOP_00048	CDS	117				hypothetical protein
+DKOIFHOP_00049	gene	1182	bdhA			
+DKOIFHOP_00049	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+DKOIFHOP_00050	gene	678				
+DKOIFHOP_00050	CDS	678				hypothetical protein
+DKOIFHOP_00051	gene	351	ndhC			
+DKOIFHOP_00051	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+DKOIFHOP_00052	gene	750	ndhK			
+DKOIFHOP_00052	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+DKOIFHOP_00053	gene	1563	nuoC			
+DKOIFHOP_00053	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+DKOIFHOP_00054	gene	1089	nuoH			
+DKOIFHOP_00054	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+DKOIFHOP_00055	gene	534	nuoI			
+DKOIFHOP_00055	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+DKOIFHOP_00056	gene	513				
+DKOIFHOP_00056	CDS	513				hypothetical protein
+DKOIFHOP_00057	gene	312	nuoK			
+DKOIFHOP_00057	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+DKOIFHOP_00058	gene	1989	nuoL			
+DKOIFHOP_00058	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+DKOIFHOP_00059	gene	1500	ndhD1			
+DKOIFHOP_00059	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+DKOIFHOP_00060	gene	1437	ndhB			
+DKOIFHOP_00060	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+DKOIFHOP_00061	gene	774				
+DKOIFHOP_00061	CDS	774				hypothetical protein
+DKOIFHOP_00062	gene	846				
+DKOIFHOP_00062	CDS	846				hypothetical protein
+DKOIFHOP_00063	gene	1974				
+DKOIFHOP_00063	CDS	1974				hypothetical protein
+DKOIFHOP_00064	gene	1584				
+DKOIFHOP_00064	CDS	1584				hypothetical protein
+DKOIFHOP_00065	gene	1185				
+DKOIFHOP_00065	CDS	1185				hypothetical protein
+DKOIFHOP_00066	gene	744	kgp			
+DKOIFHOP_00066	CDS	744	kgp	3.4.22.47		Lys-gingipain
+DKOIFHOP_00067	gene	3306	carB_1			
+DKOIFHOP_00067	CDS	3306	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+DKOIFHOP_00068	gene	2484				
+DKOIFHOP_00068	CDS	2484				hypothetical protein
+DKOIFHOP_00069	gene	876	rffH			
+DKOIFHOP_00069	CDS	876	rffH	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 2
+DKOIFHOP_00070	gene	624				
+DKOIFHOP_00070	CDS	624				hypothetical protein
+DKOIFHOP_00071	gene	300				
+DKOIFHOP_00071	CDS	300				hypothetical protein
+DKOIFHOP_00072	gene	345				
+DKOIFHOP_00072	CDS	345				hypothetical protein
+DKOIFHOP_00073	gene	1533	rny_1			
+DKOIFHOP_00073	CDS	1533	rny_1	3.1.-.-	COG1418	Ribonuclease Y
+DKOIFHOP_00074	gene	957				
+DKOIFHOP_00074	CDS	957				hypothetical protein
+DKOIFHOP_00075	gene	585	malT			
+DKOIFHOP_00075	CDS	585	malT			HTH-type transcriptional regulator MalT
+DKOIFHOP_00076	gene	1158	gcdB			
+DKOIFHOP_00076	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+DKOIFHOP_00077	gene	450				
+DKOIFHOP_00077	CDS	450				hypothetical protein
+DKOIFHOP_00078	gene	957				
+DKOIFHOP_00078	CDS	957				hypothetical protein
+DKOIFHOP_00079	gene	1716	aspT_1			
+DKOIFHOP_00079	CDS	1716	aspT_1			Aspartate/alanine antiporter
+DKOIFHOP_00080	gene	450				
+DKOIFHOP_00080	CDS	450				hypothetical protein
+DKOIFHOP_00081	gene	657	gpx1			
+DKOIFHOP_00081	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+DKOIFHOP_00082	gene	174				
+DKOIFHOP_00082	CDS	174				hypothetical protein
+DKOIFHOP_00083	gene	384				
+DKOIFHOP_00083	CDS	384				hypothetical protein
+DKOIFHOP_00084	gene	408	COQ3			
+DKOIFHOP_00084	CDS	408	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+DKOIFHOP_00085	gene	1059				
+DKOIFHOP_00085	CDS	1059				hypothetical protein
+DKOIFHOP_00086	gene	1827				
+DKOIFHOP_00086	CDS	1827				hypothetical protein
+DKOIFHOP_00087	gene	306				
+DKOIFHOP_00087	CDS	306				hypothetical protein
+DKOIFHOP_00088	gene	2685				
+DKOIFHOP_00088	CDS	2685				hypothetical protein
+DKOIFHOP_00089	gene	555				
+DKOIFHOP_00089	CDS	555				hypothetical protein
+DKOIFHOP_00090	gene	273				
+DKOIFHOP_00090	CDS	273				hypothetical protein
+DKOIFHOP_00091	gene	1641	pfp			
+DKOIFHOP_00091	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+DKOIFHOP_00092	gene	804				
+DKOIFHOP_00092	CDS	804				hypothetical protein
+DKOIFHOP_00093	gene	882	rsmC			
+DKOIFHOP_00093	CDS	882	rsmC	2.1.1.172		Ribosomal RNA small subunit methyltransferase C
+DKOIFHOP_00094	gene	1023				
+DKOIFHOP_00094	CDS	1023				hypothetical protein
+DKOIFHOP_00095	gene	1623				
+DKOIFHOP_00095	CDS	1623				hypothetical protein
+DKOIFHOP_00096	gene	408				
+DKOIFHOP_00096	CDS	408				hypothetical protein
+DKOIFHOP_00097	gene	3585	ileS			
+DKOIFHOP_00097	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+DKOIFHOP_00098	gene	381	dksA			
+DKOIFHOP_00098	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+DKOIFHOP_00099	gene	633	lspA			
+DKOIFHOP_00099	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+DKOIFHOP_00100	gene	903				
+DKOIFHOP_00100	CDS	903				hypothetical protein
+DKOIFHOP_00101	gene	222				
+DKOIFHOP_00101	CDS	222				hypothetical protein
+DKOIFHOP_00102	gene	1482	proS			
+DKOIFHOP_00102	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+DKOIFHOP_00103	gene	696	pal_1			
+DKOIFHOP_00103	CDS	696	pal_1			Peptidoglycan-associated lipoprotein
+DKOIFHOP_00104	gene	732	mtgA			
+DKOIFHOP_00104	CDS	732	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+DKOIFHOP_00105	gene	2409	pcrA			
+DKOIFHOP_00105	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+DKOIFHOP_00106	gene	273	groS			
+DKOIFHOP_00106	CDS	273	groS		COG0234	10 kDa chaperonin
+DKOIFHOP_00107	gene	1632	groL			
+DKOIFHOP_00107	CDS	1632	groL		COG0459	60 kDa chaperonin
+DKOIFHOP_00108	gene	690				
+DKOIFHOP_00108	CDS	690				hypothetical protein
+DKOIFHOP_00109	gene	2682				
+DKOIFHOP_00109	CDS	2682				hypothetical protein
+DKOIFHOP_00110	gene	189				
+DKOIFHOP_00110	CDS	189				hypothetical protein
+DKOIFHOP_00111	gene	1557	rapZ			
+DKOIFHOP_00111	CDS	1557	rapZ			RNase adapter protein RapZ
+DKOIFHOP_00112	gene	234				
+DKOIFHOP_00112	CDS	234				hypothetical protein
+DKOIFHOP_00113	gene	1221				
+DKOIFHOP_00113	CDS	1221				hypothetical protein
+DKOIFHOP_00114	gene	1044	lpxD			
+DKOIFHOP_00114	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+DKOIFHOP_00115	gene	1386	lpxC			
+DKOIFHOP_00115	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+DKOIFHOP_00116	gene	774	lpxA_1			
+DKOIFHOP_00116	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+DKOIFHOP_00117	gene	909	miaA_1			
+DKOIFHOP_00117	CDS	909	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+DKOIFHOP_00118	gene	2469	mrcA_1			
+DKOIFHOP_00118	CDS	2469	mrcA_1		COG5009	Penicillin-binding protein 1A
+DKOIFHOP_00119	gene	2559				
+DKOIFHOP_00119	CDS	2559				hypothetical protein
+DKOIFHOP_00120	gene	171				
+DKOIFHOP_00120	CDS	171				hypothetical protein
+DKOIFHOP_00121	gene	672	yknY_1			
+DKOIFHOP_00121	CDS	672	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+DKOIFHOP_00122	gene	1260	macB_1			
+DKOIFHOP_00122	CDS	1260	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+DKOIFHOP_00123	gene	1248	macB_2			
+DKOIFHOP_00123	CDS	1248	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+DKOIFHOP_00124	gene	1113	macA			
+DKOIFHOP_00124	CDS	1113	macA		COG0845	Macrolide export protein MacA
+DKOIFHOP_00125	gene	2064	dsbD			
+DKOIFHOP_00125	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+DKOIFHOP_00126	gene	606				
+DKOIFHOP_00126	CDS	606				hypothetical protein
+DKOIFHOP_00127	gene	987	miaA_2			
+DKOIFHOP_00127	CDS	987	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+DKOIFHOP_00128	gene	933	ytlR			
+DKOIFHOP_00128	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+DKOIFHOP_00129	gene	1917				
+DKOIFHOP_00129	CDS	1917				hypothetical protein
+DKOIFHOP_00130	gene	1269	mshA_1			
+DKOIFHOP_00130	CDS	1269	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DKOIFHOP_00131	gene	1416				
+DKOIFHOP_00131	CDS	1416				hypothetical protein
+DKOIFHOP_00132	gene	108				
+DKOIFHOP_00132	CDS	108				hypothetical protein
+DKOIFHOP_00133	gene	825	pyrF			
+DKOIFHOP_00133	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+DKOIFHOP_00134	gene	1113	prfA			
+DKOIFHOP_00134	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+DKOIFHOP_00135	gene	1203	purM			
+DKOIFHOP_00135	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+DKOIFHOP_00136	gene	741	aroE			
+DKOIFHOP_00136	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+DKOIFHOP_00137	gene	735	menG			
+DKOIFHOP_00137	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+DKOIFHOP_00138	gene	981	purC			
+DKOIFHOP_00138	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+DKOIFHOP_00139	gene	981				
+DKOIFHOP_00139	CDS	981			COG1702	PhoH-like protein
+DKOIFHOP_00140	gene	801				
+DKOIFHOP_00140	CDS	801				hypothetical protein
+DKOIFHOP_00141	gene	813				
+DKOIFHOP_00141	CDS	813				hypothetical protein
+DKOIFHOP_00142	gene	120				
+DKOIFHOP_00142	CDS	120				hypothetical protein
+DKOIFHOP_00143	gene	1278	rarA			
+DKOIFHOP_00143	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+DKOIFHOP_00144	gene	621				
+DKOIFHOP_00144	CDS	621				hypothetical protein
+DKOIFHOP_00145	gene	75				
+DKOIFHOP_00145	tRNA	75				tRNA-Arg(acg)
+DKOIFHOP_00146	gene	726	murU			
+DKOIFHOP_00146	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+DKOIFHOP_00147	gene	1566	guaA			
+DKOIFHOP_00147	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+DKOIFHOP_00148	gene	459	ogt			
+DKOIFHOP_00148	CDS	459	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+DKOIFHOP_00149	gene	339				
+DKOIFHOP_00149	CDS	339				hypothetical protein
+DKOIFHOP_00150	gene	855				
+DKOIFHOP_00150	CDS	855				hypothetical protein
+DKOIFHOP_00151	gene	1314	pdhD			
+DKOIFHOP_00151	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+DKOIFHOP_00152	gene	1509	gcvPB			
+DKOIFHOP_00152	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+DKOIFHOP_00153	gene	1326	gcvPA			
+DKOIFHOP_00153	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+DKOIFHOP_00154	gene	387	gcvH			
+DKOIFHOP_00154	CDS	387	gcvH			Glycine cleavage system H protein
+DKOIFHOP_00155	gene	1095	gcvT			
+DKOIFHOP_00155	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+DKOIFHOP_00156	gene	1038	lplJ			
+DKOIFHOP_00156	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+DKOIFHOP_00157	gene	423	mscL			
+DKOIFHOP_00157	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+DKOIFHOP_00158	gene	1011	gapA			
+DKOIFHOP_00158	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+DKOIFHOP_00159	gene	780	zupT			
+DKOIFHOP_00159	CDS	780	zupT		COG0428	Zinc transporter ZupT
+DKOIFHOP_00160	gene	873	sigA_1			
+DKOIFHOP_00160	CDS	873	sigA_1		COG0568	RNA polymerase sigma factor SigA
+DKOIFHOP_00161	gene	273				
+DKOIFHOP_00161	CDS	273				hypothetical protein
+DKOIFHOP_00162	gene	1779	rpsA			
+DKOIFHOP_00162	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+DKOIFHOP_00163	gene	207				
+DKOIFHOP_00163	CDS	207				hypothetical protein
+DKOIFHOP_00164	gene	195				
+DKOIFHOP_00164	CDS	195				hypothetical protein
+DKOIFHOP_00165	gene	1332	mtaB_1			
+DKOIFHOP_00165	CDS	1332	mtaB_1	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+DKOIFHOP_00166	gene	1020				
+DKOIFHOP_00166	CDS	1020				hypothetical protein
+DKOIFHOP_00167	gene	579				
+DKOIFHOP_00167	CDS	579				hypothetical protein
+DKOIFHOP_00168	gene	360	yjbR			
+DKOIFHOP_00168	CDS	360	yjbR		COG2315	putative protein YjbR
+DKOIFHOP_00169	gene	1344	glyA			
+DKOIFHOP_00169	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+DKOIFHOP_00170	gene	1116	thiL			
+DKOIFHOP_00170	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+DKOIFHOP_00171	gene	660	punA			
+DKOIFHOP_00171	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+DKOIFHOP_00172	gene	1173	lpxK			
+DKOIFHOP_00172	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+DKOIFHOP_00173	gene	1767	sppA			
+DKOIFHOP_00173	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+DKOIFHOP_00174	gene	735				
+DKOIFHOP_00174	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+DKOIFHOP_00175	gene	138				
+DKOIFHOP_00175	CDS	138				hypothetical protein
+DKOIFHOP_00176	gene	549				
+DKOIFHOP_00176	CDS	549				hypothetical protein
+DKOIFHOP_00177	gene	249				
+DKOIFHOP_00177	CDS	249				hypothetical protein
+DKOIFHOP_00178	gene	780				
+DKOIFHOP_00178	CDS	780				hypothetical protein
+DKOIFHOP_00179	gene	405				
+DKOIFHOP_00179	CDS	405				hypothetical protein
+DKOIFHOP_00180	gene	978				
+DKOIFHOP_00180	CDS	978				hypothetical protein
+DKOIFHOP_00181	gene	621				
+DKOIFHOP_00181	CDS	621				hypothetical protein
+DKOIFHOP_00182	gene	492				
+DKOIFHOP_00182	CDS	492				hypothetical protein
+DKOIFHOP_00183	gene	675				
+DKOIFHOP_00183	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+DKOIFHOP_00184	gene	954				
+DKOIFHOP_00184	CDS	954				hypothetical protein
+DKOIFHOP_00185	gene	216				
+DKOIFHOP_00185	CDS	216				hypothetical protein
+DKOIFHOP_00186	gene	999	dagK			
+DKOIFHOP_00186	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+DKOIFHOP_00187	gene	1329	nupG_1			
+DKOIFHOP_00187	CDS	1329	nupG_1			Nucleoside permease NupG
+DKOIFHOP_00188	gene	564				
+DKOIFHOP_00188	CDS	564				hypothetical protein
+DKOIFHOP_00189	gene	732	rsmE_1			
+DKOIFHOP_00189	CDS	732	rsmE_1	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+DKOIFHOP_00190	gene	1341				
+DKOIFHOP_00190	CDS	1341				hypothetical protein
+DKOIFHOP_00191	gene	645	ytrE			
+DKOIFHOP_00191	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+DKOIFHOP_00192	gene	1200				
+DKOIFHOP_00192	CDS	1200				hypothetical protein
+DKOIFHOP_00193	gene	3288				
+DKOIFHOP_00193	CDS	3288				hypothetical protein
+DKOIFHOP_00194	gene	339				
+DKOIFHOP_00194	CDS	339				hypothetical protein
+DKOIFHOP_00195	gene	591				
+DKOIFHOP_00195	CDS	591				hypothetical protein
+DKOIFHOP_00196	gene	210				
+DKOIFHOP_00196	CDS	210				hypothetical protein
+DKOIFHOP_00197	gene	600				
+DKOIFHOP_00197	CDS	600				hypothetical protein
+DKOIFHOP_00198	gene	1044				
+DKOIFHOP_00198	CDS	1044				hypothetical protein
+DKOIFHOP_00199	gene	270				
+DKOIFHOP_00199	CDS	270				hypothetical protein
+DKOIFHOP_00200	gene	840				
+DKOIFHOP_00200	CDS	840				hypothetical protein
+DKOIFHOP_00201	gene	1809	mutS_1			
+DKOIFHOP_00201	CDS	1809	mutS_1			DNA mismatch repair protein MutS
+DKOIFHOP_00202	gene	1182	purH_1			
+DKOIFHOP_00202	CDS	1182	purH_1	3.5.4.10		Bifunctional purine biosynthesis protein PurH
+DKOIFHOP_00203	gene	192				
+DKOIFHOP_00203	CDS	192				hypothetical protein
+DKOIFHOP_00204	gene	339				
+DKOIFHOP_00204	CDS	339				hypothetical protein
+DKOIFHOP_00205	gene	1200	mgl			
+DKOIFHOP_00205	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+DKOIFHOP_00206	gene	1002	fda			
+DKOIFHOP_00206	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+DKOIFHOP_00207	gene	1077				
+DKOIFHOP_00207	CDS	1077				hypothetical protein
+DKOIFHOP_00208	gene	735				
+DKOIFHOP_00208	CDS	735				hypothetical protein
+DKOIFHOP_00209	gene	1557	nnr			
+DKOIFHOP_00209	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+DKOIFHOP_00210	gene	537	hpt			
+DKOIFHOP_00210	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+DKOIFHOP_00211	gene	567	adk			
+DKOIFHOP_00211	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+DKOIFHOP_00212	gene	1176	obg			
+DKOIFHOP_00212	CDS	1176	obg	3.6.5.-		GTPase Obg
+DKOIFHOP_00213	gene	813				
+DKOIFHOP_00213	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+DKOIFHOP_00214	gene	549				
+DKOIFHOP_00214	CDS	549				hypothetical protein
+DKOIFHOP_00215	gene	150				
+DKOIFHOP_00215	CDS	150				hypothetical protein
+DKOIFHOP_00216	gene	2406	btuB_1			
+DKOIFHOP_00216	CDS	2406	btuB_1			Vitamin B12 transporter BtuB
+DKOIFHOP_00217	gene	144				
+DKOIFHOP_00217	CDS	144				hypothetical protein
+DKOIFHOP_00218	gene	576				
+DKOIFHOP_00218	CDS	576				hypothetical protein
+DKOIFHOP_00219	gene	798				
+DKOIFHOP_00219	CDS	798				hypothetical protein
+DKOIFHOP_00220	gene	495				
+DKOIFHOP_00220	CDS	495				hypothetical protein
+DKOIFHOP_00221	gene	765				
+DKOIFHOP_00221	CDS	765				hypothetical protein
+DKOIFHOP_00222	gene	846	yfkN_1			
+DKOIFHOP_00222	CDS	846	yfkN_1		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+DKOIFHOP_00223	gene	744				
+DKOIFHOP_00223	CDS	744				hypothetical protein
+DKOIFHOP_00224	gene	168	fdxA			
+DKOIFHOP_00224	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+DKOIFHOP_00225	gene	567				
+DKOIFHOP_00225	CDS	567				hypothetical protein
+DKOIFHOP_00226	gene	711	pyrH			
+DKOIFHOP_00226	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+DKOIFHOP_00227	gene	582				
+DKOIFHOP_00227	CDS	582				hypothetical protein
+DKOIFHOP_00228	gene	741	birA			
+DKOIFHOP_00228	CDS	741	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+DKOIFHOP_00229	gene	453	tadA_2			
+DKOIFHOP_00229	CDS	453	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+DKOIFHOP_00230	gene	846				
+DKOIFHOP_00230	CDS	846				hypothetical protein
+DKOIFHOP_00231	gene	687	rsmI			
+DKOIFHOP_00231	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+DKOIFHOP_00232	gene	1140				
+DKOIFHOP_00232	CDS	1140				hypothetical protein
+DKOIFHOP_00233	gene	1248				
+DKOIFHOP_00233	CDS	1248				hypothetical protein
+DKOIFHOP_00234	gene	465				
+DKOIFHOP_00234	CDS	465				hypothetical protein
+DKOIFHOP_00235	gene	1470	mrdB			
+DKOIFHOP_00235	CDS	1470	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+DKOIFHOP_00236	gene	1851	mrdA			
+DKOIFHOP_00236	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+DKOIFHOP_00237	gene	498				
+DKOIFHOP_00237	CDS	498				hypothetical protein
+DKOIFHOP_00238	gene	867				
+DKOIFHOP_00238	CDS	867				hypothetical protein
+DKOIFHOP_00239	gene	1026	mbl			
+DKOIFHOP_00239	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+DKOIFHOP_00240	gene	600	purH_2			
+DKOIFHOP_00240	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+DKOIFHOP_00241	gene	411	sulD			
+DKOIFHOP_00241	CDS	411	sulD		COG0801	Bifunctional folate synthesis protein
+DKOIFHOP_00242	gene	1119	queA_1			
+DKOIFHOP_00242	CDS	1119	queA_1	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+DKOIFHOP_00243	gene	699	truB			
+DKOIFHOP_00243	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+DKOIFHOP_00244	gene	879	uppP			
+DKOIFHOP_00244	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+DKOIFHOP_00245	gene	249				
+DKOIFHOP_00245	CDS	249				hypothetical protein
+DKOIFHOP_00246	gene	879	ftsX			
+DKOIFHOP_00246	CDS	879	ftsX		COG2177	Cell division protein FtsX
+DKOIFHOP_00247	gene	780				
+DKOIFHOP_00247	CDS	780				hypothetical protein
+DKOIFHOP_00248	gene	618				
+DKOIFHOP_00248	CDS	618				hypothetical protein
+DKOIFHOP_00249	gene	1062	yhcG			
+DKOIFHOP_00249	CDS	1062	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+DKOIFHOP_00250	gene	270	rpsO			
+DKOIFHOP_00250	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+DKOIFHOP_00251	gene	2508				
+DKOIFHOP_00251	CDS	2508				hypothetical protein
+DKOIFHOP_00252	gene	696	mtnN			
+DKOIFHOP_00252	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+DKOIFHOP_00253	gene	480	luxS			
+DKOIFHOP_00253	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+DKOIFHOP_00254	gene	1425	dinF			
+DKOIFHOP_00254	CDS	1425	dinF		COG0534	DNA damage-inducible protein F
+DKOIFHOP_00255	gene	1851	typA			
+DKOIFHOP_00255	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+DKOIFHOP_00256	gene	435	nudC_1			
+DKOIFHOP_00256	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+DKOIFHOP_00257	gene	852				
+DKOIFHOP_00257	CDS	852				hypothetical protein
+DKOIFHOP_00258	gene	2409				
+DKOIFHOP_00258	CDS	2409		5.1.1.1		Alanine racemase
+DKOIFHOP_00259	gene	282				
+DKOIFHOP_00259	CDS	282				hypothetical protein
+DKOIFHOP_00260	gene	726				
+DKOIFHOP_00260	CDS	726				hypothetical protein
+DKOIFHOP_00261	gene	687	psd			
+DKOIFHOP_00261	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+DKOIFHOP_00262	gene	3711	dnaE			
+DKOIFHOP_00262	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+DKOIFHOP_00263	gene	315	trxA			
+DKOIFHOP_00263	CDS	315	trxA		COG0526	Thioredoxin
+DKOIFHOP_00264	gene	411	tsaE			
+DKOIFHOP_00264	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+DKOIFHOP_00265	gene	1569	cheB			
+DKOIFHOP_00265	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+DKOIFHOP_00266	gene	3387	bamD_2			
+DKOIFHOP_00266	CDS	3387	bamD_2			Outer membrane protein assembly factor BamD
+DKOIFHOP_00267	gene	393				
+DKOIFHOP_00267	CDS	393				hypothetical protein
+DKOIFHOP_00268	gene	1251	aroA			
+DKOIFHOP_00268	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+DKOIFHOP_00269	gene	1167				
+DKOIFHOP_00269	CDS	1167				hypothetical protein
+DKOIFHOP_00270	gene	471				
+DKOIFHOP_00270	CDS	471				hypothetical protein
+DKOIFHOP_00271	gene	99				
+DKOIFHOP_00271	CDS	99				hypothetical protein
+DKOIFHOP_00272	gene	840				
+DKOIFHOP_00272	CDS	840				hypothetical protein
+DKOIFHOP_00273	gene	852				
+DKOIFHOP_00273	CDS	852				hypothetical protein
+DKOIFHOP_00274	gene	74				
+DKOIFHOP_00274	tRNA	74				tRNA-Pro(ggg)
+DKOIFHOP_00275	gene	1191	xerC_1			
+DKOIFHOP_00275	CDS	1191	xerC_1			Tyrosine recombinase XerC
+DKOIFHOP_00276	gene	150				
+DKOIFHOP_00276	CDS	150				hypothetical protein
+DKOIFHOP_00277	gene	1212				
+DKOIFHOP_00277	CDS	1212				hypothetical protein
+DKOIFHOP_00278	gene	1044				
+DKOIFHOP_00278	CDS	1044				hypothetical protein
+DKOIFHOP_00279	gene	348				
+DKOIFHOP_00279	CDS	348				hypothetical protein
+DKOIFHOP_00280	gene	1164				
+DKOIFHOP_00280	CDS	1164				hypothetical protein
+DKOIFHOP_00281	gene	2793				
+DKOIFHOP_00281	CDS	2793				hypothetical protein
+DKOIFHOP_00282	gene	2100				
+DKOIFHOP_00282	CDS	2100				hypothetical protein
+DKOIFHOP_00283	gene	3666				
+DKOIFHOP_00283	CDS	3666				hypothetical protein
+DKOIFHOP_00284	gene	432				
+DKOIFHOP_00284	CDS	432				hypothetical protein
+DKOIFHOP_00285	gene	252				
+DKOIFHOP_00285	CDS	252				hypothetical protein
+DKOIFHOP_00286	gene	282				
+DKOIFHOP_00286	CDS	282				hypothetical protein
+DKOIFHOP_00287	gene	246				
+DKOIFHOP_00287	CDS	246				hypothetical protein
+DKOIFHOP_00288	gene	306				
+DKOIFHOP_00288	CDS	306				hypothetical protein
+DKOIFHOP_00289	gene	294				
+DKOIFHOP_00289	CDS	294				hypothetical protein
+DKOIFHOP_00290	gene	567				
+DKOIFHOP_00290	CDS	567				hypothetical protein
+DKOIFHOP_00291	gene	1092				
+DKOIFHOP_00291	CDS	1092				hypothetical protein
+DKOIFHOP_00292	gene	255				
+DKOIFHOP_00292	CDS	255				hypothetical protein
+DKOIFHOP_00293	gene	192				
+DKOIFHOP_00293	CDS	192				hypothetical protein
+DKOIFHOP_00294	gene	321				
+DKOIFHOP_00294	CDS	321				hypothetical protein
+DKOIFHOP_00295	gene	225				
+DKOIFHOP_00295	CDS	225				hypothetical protein
+DKOIFHOP_00296	gene	876	cysH			
+DKOIFHOP_00296	CDS	876	cysH	1.8.4.8		Phosphoadenosine phosphosulfate reductase
+DKOIFHOP_00297	gene	663				
+DKOIFHOP_00297	CDS	663				hypothetical protein
+DKOIFHOP_00298	gene	336				
+DKOIFHOP_00298	CDS	336				hypothetical protein
+DKOIFHOP_00299	gene	144				
+DKOIFHOP_00299	CDS	144				hypothetical protein
+DKOIFHOP_00300	gene	597				
+DKOIFHOP_00300	CDS	597				hypothetical protein
+DKOIFHOP_00301	gene	708				
+DKOIFHOP_00301	CDS	708				hypothetical protein
+DKOIFHOP_00302	gene	459				
+DKOIFHOP_00302	CDS	459				hypothetical protein
+DKOIFHOP_00303	gene	585				
+DKOIFHOP_00303	CDS	585				hypothetical protein
+DKOIFHOP_00304	gene	249				
+DKOIFHOP_00304	CDS	249				hypothetical protein
+DKOIFHOP_00305	gene	969				
+DKOIFHOP_00305	CDS	969				hypothetical protein
+DKOIFHOP_00306	gene	891				
+DKOIFHOP_00306	CDS	891				hypothetical protein
+DKOIFHOP_00307	gene	1479				
+DKOIFHOP_00307	CDS	1479				hypothetical protein
+DKOIFHOP_00308	gene	318				
+DKOIFHOP_00308	CDS	318				hypothetical protein
+DKOIFHOP_00309	gene	1761				
+DKOIFHOP_00309	CDS	1761				hypothetical protein
+DKOIFHOP_00310	gene	648				
+DKOIFHOP_00310	CDS	648				hypothetical protein
+DKOIFHOP_00311	gene	333				
+DKOIFHOP_00311	CDS	333				hypothetical protein
+DKOIFHOP_00312	gene	1323				
+DKOIFHOP_00312	CDS	1323				hypothetical protein
+DKOIFHOP_00313	gene	417				
+DKOIFHOP_00313	CDS	417				hypothetical protein
+DKOIFHOP_00314	gene	510				
+DKOIFHOP_00314	CDS	510				hypothetical protein
+DKOIFHOP_00315	gene	1002				
+DKOIFHOP_00315	CDS	1002				hypothetical protein
+DKOIFHOP_00316	gene	2004				
+DKOIFHOP_00316	CDS	2004				hypothetical protein
+DKOIFHOP_00317	gene	993				
+DKOIFHOP_00317	CDS	993				hypothetical protein
+DKOIFHOP_00318	gene	351				
+DKOIFHOP_00318	CDS	351				hypothetical protein
+DKOIFHOP_00319	gene	528				
+DKOIFHOP_00319	CDS	528				hypothetical protein
+DKOIFHOP_00320	gene	3957	dnaG_1			
+DKOIFHOP_00320	CDS	3957	dnaG_1	2.7.7.-		DNA primase
+DKOIFHOP_00321	gene	438				
+DKOIFHOP_00321	CDS	438				hypothetical protein
+DKOIFHOP_00322	gene	180				
+DKOIFHOP_00322	CDS	180				hypothetical protein
+DKOIFHOP_00323	gene	141				
+DKOIFHOP_00323	CDS	141				hypothetical protein
+DKOIFHOP_00324	gene	315				
+DKOIFHOP_00324	CDS	315				hypothetical protein
+DKOIFHOP_00325	gene	216				
+DKOIFHOP_00325	CDS	216				hypothetical protein
+DKOIFHOP_00326	gene	390				
+DKOIFHOP_00326	CDS	390				hypothetical protein
+DKOIFHOP_00327	gene	74				
+DKOIFHOP_00327	tRNA	74				tRNA-Lys(ttt)
+DKOIFHOP_00328	gene	1134				
+DKOIFHOP_00328	CDS	1134				hypothetical protein
+DKOIFHOP_00329	gene	600	tdk			
+DKOIFHOP_00329	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+DKOIFHOP_00330	gene	1866				
+DKOIFHOP_00330	CDS	1866				hypothetical protein
+DKOIFHOP_00331	gene	1209	ribBA			
+DKOIFHOP_00331	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+DKOIFHOP_00332	gene	831	tolQ_1			
+DKOIFHOP_00332	CDS	831	tolQ_1			Tol-Pal system protein TolQ
+DKOIFHOP_00333	gene	675				
+DKOIFHOP_00333	CDS	675				hypothetical protein
+DKOIFHOP_00334	gene	648				
+DKOIFHOP_00334	CDS	648				hypothetical protein
+DKOIFHOP_00335	gene	846				
+DKOIFHOP_00335	CDS	846				hypothetical protein
+DKOIFHOP_00336	gene	963				
+DKOIFHOP_00336	CDS	963				hypothetical protein
+DKOIFHOP_00337	gene	1458				
+DKOIFHOP_00337	CDS	1458				hypothetical protein
+DKOIFHOP_00338	gene	1959				
+DKOIFHOP_00338	CDS	1959				hypothetical protein
+DKOIFHOP_00339	gene	423				
+DKOIFHOP_00339	CDS	423				hypothetical protein
+DKOIFHOP_00340	gene	441	umuD			
+DKOIFHOP_00340	CDS	441	umuD	3.4.21.-	COG1974	Protein UmuD
+DKOIFHOP_00341	gene	1320	umuC			
+DKOIFHOP_00341	CDS	1320	umuC		COG0389	Protein UmuC
+DKOIFHOP_00342	gene	741	nfrA2_1			
+DKOIFHOP_00342	CDS	741	nfrA2_1	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+DKOIFHOP_00343	gene	213				
+DKOIFHOP_00343	CDS	213				hypothetical protein
+DKOIFHOP_00344	gene	2559				
+DKOIFHOP_00344	CDS	2559				hypothetical protein
+DKOIFHOP_00345	gene	381	folB			
+DKOIFHOP_00345	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+DKOIFHOP_00346	gene	1185				
+DKOIFHOP_00346	CDS	1185				hypothetical protein
+DKOIFHOP_00347	gene	903				
+DKOIFHOP_00347	CDS	903				hypothetical protein
+DKOIFHOP_00348	gene	1410	dnaA			
+DKOIFHOP_00348	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+DKOIFHOP_00349	gene	471				
+DKOIFHOP_00349	CDS	471				hypothetical protein
+DKOIFHOP_00350	gene	420				
+DKOIFHOP_00350	CDS	420				hypothetical protein
+DKOIFHOP_00351	gene	402				
+DKOIFHOP_00351	CDS	402				hypothetical protein
+DKOIFHOP_00352	gene	75				
+DKOIFHOP_00352	tRNA	75				tRNA-Met(cat)
+DKOIFHOP_00353	gene	3183				
+DKOIFHOP_00353	CDS	3183				TonB-dependent receptor P26
+DKOIFHOP_00354	gene	1494				
+DKOIFHOP_00354	CDS	1494				hypothetical protein
+DKOIFHOP_00355	gene	714				
+DKOIFHOP_00355	CDS	714				hypothetical protein
+DKOIFHOP_00356	gene	519				
+DKOIFHOP_00356	CDS	519				hypothetical protein
+DKOIFHOP_00357	gene	1233				
+DKOIFHOP_00357	CDS	1233				hypothetical protein
+DKOIFHOP_00358	gene	744				
+DKOIFHOP_00358	CDS	744				hypothetical protein
+DKOIFHOP_00359	gene	2394				
+DKOIFHOP_00359	CDS	2394				hypothetical protein
+DKOIFHOP_00360	gene	1965	btuB_2			
+DKOIFHOP_00360	CDS	1965	btuB_2			Vitamin B12 transporter BtuB
+DKOIFHOP_00361	gene	1242				
+DKOIFHOP_00361	CDS	1242				hypothetical protein
+DKOIFHOP_00362	gene	1554				
+DKOIFHOP_00362	CDS	1554				hypothetical protein
+DKOIFHOP_00363	gene	744				
+DKOIFHOP_00363	CDS	744				hypothetical protein
+DKOIFHOP_00364	gene	744				
+DKOIFHOP_00364	CDS	744				hypothetical protein
+DKOIFHOP_00365	gene	3873				
+DKOIFHOP_00365	CDS	3873				hypothetical protein
+DKOIFHOP_00366	gene	1461	sasA_1			
+DKOIFHOP_00366	CDS	1461	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+DKOIFHOP_00367	gene	177				
+DKOIFHOP_00367	CDS	177				hypothetical protein
+DKOIFHOP_00368	gene	1659				
+DKOIFHOP_00368	CDS	1659				hypothetical protein
+DKOIFHOP_00369	gene	96				
+DKOIFHOP_00369	CDS	96				hypothetical protein
+DKOIFHOP_00370	gene	1524				
+DKOIFHOP_00370	CDS	1524				hypothetical protein
+DKOIFHOP_00371	gene	1647	fumA			
+DKOIFHOP_00371	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+DKOIFHOP_00372	gene	2898				
+DKOIFHOP_00372	CDS	2898				hypothetical protein
+DKOIFHOP_00373	gene	1866				
+DKOIFHOP_00373	CDS	1866				hypothetical protein
+DKOIFHOP_00374	gene	1257	hflX			
+DKOIFHOP_00374	CDS	1257	hflX			GTPase HflX
+DKOIFHOP_00375	gene	792	nagB			
+DKOIFHOP_00375	CDS	792	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+DKOIFHOP_00376	gene	2901	addB			
+DKOIFHOP_00376	CDS	2901	addB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+DKOIFHOP_00377	gene	3246	recB			
+DKOIFHOP_00377	CDS	3246	recB	3.1.11.5		RecBCD enzyme subunit RecB
+DKOIFHOP_00378	gene	1620				
+DKOIFHOP_00378	CDS	1620				hypothetical protein
+DKOIFHOP_00379	gene	2169	dpp5			
+DKOIFHOP_00379	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+DKOIFHOP_00380	gene	1902	yidC			
+DKOIFHOP_00380	CDS	1902	yidC			Membrane protein insertase YidC
+DKOIFHOP_00381	gene	1245				
+DKOIFHOP_00381	CDS	1245				hypothetical protein
+DKOIFHOP_00382	gene	384				
+DKOIFHOP_00382	CDS	384				hypothetical protein
+DKOIFHOP_00383	gene	1761	aspS			
+DKOIFHOP_00383	CDS	1761	aspS	6.1.1.12		Aspartate--tRNA ligase
+DKOIFHOP_00384	gene	303				
+DKOIFHOP_00384	CDS	303				hypothetical protein
+DKOIFHOP_00385	gene	333				
+DKOIFHOP_00385	CDS	333				hypothetical protein
+DKOIFHOP_00386	gene	819	menB			
+DKOIFHOP_00386	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+DKOIFHOP_00387	gene	1047	menC			
+DKOIFHOP_00387	CDS	1047	menC	4.2.1.113		o-succinylbenzoate synthase
+DKOIFHOP_00388	gene	375				
+DKOIFHOP_00388	CDS	375				hypothetical protein
+DKOIFHOP_00389	gene	786	rlmB_1			
+DKOIFHOP_00389	CDS	786	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+DKOIFHOP_00390	gene	801	rlmB_2			
+DKOIFHOP_00390	CDS	801	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+DKOIFHOP_00391	gene	630				
+DKOIFHOP_00391	CDS	630				hypothetical protein
+DKOIFHOP_00392	gene	372	flK			
+DKOIFHOP_00392	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+DKOIFHOP_00393	gene	1866	icmF			
+DKOIFHOP_00393	CDS	1866	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+DKOIFHOP_00394	gene	2166	mutB			
+DKOIFHOP_00394	CDS	2166	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+DKOIFHOP_00395	gene	549				
+DKOIFHOP_00395	CDS	549				hypothetical protein
+DKOIFHOP_00396	gene	195				
+DKOIFHOP_00396	CDS	195				hypothetical protein
+DKOIFHOP_00397	gene	1473				
+DKOIFHOP_00397	CDS	1473				hypothetical protein
+DKOIFHOP_00398	gene	477	cdd			
+DKOIFHOP_00398	CDS	477	cdd	3.5.4.5	COG0295	Cytidine deaminase
+DKOIFHOP_00399	gene	522				
+DKOIFHOP_00399	CDS	522				hypothetical protein
+DKOIFHOP_00400	gene	1059				
+DKOIFHOP_00400	CDS	1059				hypothetical protein
+DKOIFHOP_00401	gene	546	rfbC			
+DKOIFHOP_00401	CDS	546	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+DKOIFHOP_00402	gene	819				
+DKOIFHOP_00402	CDS	819				hypothetical protein
+DKOIFHOP_00403	gene	798	ispE			
+DKOIFHOP_00403	CDS	798	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+DKOIFHOP_00404	gene	1506	dnaC			
+DKOIFHOP_00404	CDS	1506	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+DKOIFHOP_00405	gene	732	truA			
+DKOIFHOP_00405	CDS	732	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+DKOIFHOP_00406	gene	2229	relA_1			
+DKOIFHOP_00406	CDS	2229	relA_1	2.7.6.5		GTP pyrophosphokinase
+DKOIFHOP_00407	gene	1524				
+DKOIFHOP_00407	CDS	1524				hypothetical protein
+DKOIFHOP_00408	gene	1749	pgcA			
+DKOIFHOP_00408	CDS	1749	pgcA	5.4.2.2		Phosphoglucomutase
+DKOIFHOP_00409	gene	399				
+DKOIFHOP_00409	CDS	399				hypothetical protein
+DKOIFHOP_00410	gene	471	rlmH			
+DKOIFHOP_00410	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+DKOIFHOP_00411	gene	2205	dap4			
+DKOIFHOP_00411	CDS	2205	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+DKOIFHOP_00412	gene	918				
+DKOIFHOP_00412	CDS	918				hypothetical protein
+DKOIFHOP_00413	gene	816				
+DKOIFHOP_00413	CDS	816				hypothetical protein
+DKOIFHOP_00414	gene	1341				
+DKOIFHOP_00414	CDS	1341				hypothetical protein
+DKOIFHOP_00415	gene	933	rsgA			
+DKOIFHOP_00415	CDS	933	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+DKOIFHOP_00416	gene	561	frr			
+DKOIFHOP_00416	CDS	561	frr		COG0233	Ribosome-recycling factor
+DKOIFHOP_00417	gene	792	rsmA			
+DKOIFHOP_00417	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+DKOIFHOP_00418	gene	624				
+DKOIFHOP_00418	CDS	624				hypothetical protein
+DKOIFHOP_00419	gene	1317				
+DKOIFHOP_00419	CDS	1317				hypothetical protein
+DKOIFHOP_00420	gene	399				
+DKOIFHOP_00420	CDS	399				Single-stranded DNA-binding protein
+DKOIFHOP_00421	gene	549				
+DKOIFHOP_00421	CDS	549				hypothetical protein
+DKOIFHOP_00422	gene	74				
+DKOIFHOP_00422	tRNA	74				tRNA-Gly(gcc)
+DKOIFHOP_00423	gene	84				
+DKOIFHOP_00423	tRNA	84				tRNA-Leu(gag)
+DKOIFHOP_00424	gene	84				
+DKOIFHOP_00424	tRNA	84				tRNA-Leu(cag)
+DKOIFHOP_00425	gene	74				
+DKOIFHOP_00425	tRNA	74				tRNA-Gly(gcc)
+DKOIFHOP_00426	gene	1176	nspC			
+DKOIFHOP_00426	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+DKOIFHOP_00427	gene	555	rbr3A			
+DKOIFHOP_00427	CDS	555	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+DKOIFHOP_00428	gene	1362	hisS			
+DKOIFHOP_00428	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+DKOIFHOP_00429	gene	1275	purA			
+DKOIFHOP_00429	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+DKOIFHOP_00430	gene	513				
+DKOIFHOP_00430	CDS	513				hypothetical protein
+DKOIFHOP_00431	gene	612				
+DKOIFHOP_00431	CDS	612				hypothetical protein
+DKOIFHOP_00432	gene	1959				
+DKOIFHOP_00432	CDS	1959				hypothetical protein
+DKOIFHOP_00433	gene	531				
+DKOIFHOP_00433	CDS	531				hypothetical protein
+DKOIFHOP_00434	gene	273				
+DKOIFHOP_00434	CDS	273				hypothetical protein
+DKOIFHOP_00435	gene	495				
+DKOIFHOP_00435	CDS	495				hypothetical protein
+DKOIFHOP_00436	gene	894				
+DKOIFHOP_00436	CDS	894				hypothetical protein
+DKOIFHOP_00437	gene	393				
+DKOIFHOP_00437	CDS	393				hypothetical protein
+DKOIFHOP_00438	gene	864	sigA_2			
+DKOIFHOP_00438	CDS	864	sigA_2			RNA polymerase sigma factor SigA
+DKOIFHOP_00439	gene	88				
+DKOIFHOP_00439	tRNA	88				tRNA-Ser(cga)
+DKOIFHOP_00440	gene	585	yigZ_1			
+DKOIFHOP_00440	CDS	585	yigZ_1		COG1739	IMPACT family member YigZ
+DKOIFHOP_00441	gene	1248				
+DKOIFHOP_00441	CDS	1248				hypothetical protein
+DKOIFHOP_00442	gene	918				
+DKOIFHOP_00442	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+DKOIFHOP_00443	gene	1068	serC_1			
+DKOIFHOP_00443	CDS	1068	serC_1	2.6.1.52	COG1932	Phosphoserine aminotransferase
+DKOIFHOP_00444	gene	1320	dbpA			
+DKOIFHOP_00444	CDS	1320	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+DKOIFHOP_00445	gene	399				
+DKOIFHOP_00445	CDS	399				hypothetical protein
+DKOIFHOP_00446	gene	1269				
+DKOIFHOP_00446	CDS	1269				hypothetical protein
+DKOIFHOP_00447	gene	582				
+DKOIFHOP_00447	CDS	582				hypothetical protein
+DKOIFHOP_00448	gene	1602	menD			
+DKOIFHOP_00448	CDS	1602	menD	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+DKOIFHOP_00449	gene	1110	menF_1			
+DKOIFHOP_00449	CDS	1110	menF_1	5.4.4.2		Isochorismate synthase MenF
+DKOIFHOP_00450	gene	426				
+DKOIFHOP_00450	CDS	426		3.1.2.-	COG2050	Putative esterase
+DKOIFHOP_00451	gene	1539				
+DKOIFHOP_00451	CDS	1539				hypothetical protein
+DKOIFHOP_00452	gene	1431	purF_1			
+DKOIFHOP_00452	CDS	1431	purF_1	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+DKOIFHOP_00453	gene	891	dapA			
+DKOIFHOP_00453	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+DKOIFHOP_00454	gene	723				
+DKOIFHOP_00454	CDS	723				hypothetical protein
+DKOIFHOP_00455	gene	2499	clpC			
+DKOIFHOP_00455	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+DKOIFHOP_00456	gene	1563				
+DKOIFHOP_00456	CDS	1563				hypothetical protein
+DKOIFHOP_00457	gene	1269	nqrF			
+DKOIFHOP_00457	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+DKOIFHOP_00458	gene	627	nqrE			
+DKOIFHOP_00458	CDS	627	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+DKOIFHOP_00459	gene	627	nqrD			
+DKOIFHOP_00459	CDS	627	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+DKOIFHOP_00460	gene	615	nqrC			
+DKOIFHOP_00460	CDS	615	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+DKOIFHOP_00461	gene	1152	nqrB			
+DKOIFHOP_00461	CDS	1152	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+DKOIFHOP_00462	gene	1350	nqrA			
+DKOIFHOP_00462	CDS	1350	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+DKOIFHOP_00463	gene	4482				
+DKOIFHOP_00463	CDS	4482				hypothetical protein
+DKOIFHOP_00464	gene	1194				
+DKOIFHOP_00464	CDS	1194				hypothetical protein
+DKOIFHOP_00465	gene	822	panB			
+DKOIFHOP_00465	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+DKOIFHOP_00466	gene	663	vldH			
+DKOIFHOP_00466	CDS	663	vldH	3.1.3.101		Validoxylamine A 7'-phosphate phosphatase
+DKOIFHOP_00467	gene	834				
+DKOIFHOP_00467	CDS	834				hypothetical protein
+DKOIFHOP_00468	gene	624	rsmG			
+DKOIFHOP_00468	CDS	624	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+DKOIFHOP_00469	gene	645				
+DKOIFHOP_00469	CDS	645		3.-.-.-		putative protein
+DKOIFHOP_00470	gene	558	ruvC			
+DKOIFHOP_00470	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+DKOIFHOP_00471	gene	111				
+DKOIFHOP_00471	CDS	111				hypothetical protein
+DKOIFHOP_00472	gene	468				
+DKOIFHOP_00472	CDS	468				hypothetical protein
+DKOIFHOP_00473	gene	687				
+DKOIFHOP_00473	CDS	687				hypothetical protein
+DKOIFHOP_00474	gene	1152				
+DKOIFHOP_00474	CDS	1152				hypothetical protein
+DKOIFHOP_00475	gene	2037	glgB_1			
+DKOIFHOP_00475	CDS	2037	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+DKOIFHOP_00476	gene	1104				
+DKOIFHOP_00476	CDS	1104				hypothetical protein
+DKOIFHOP_00477	gene	756	kdsB			
+DKOIFHOP_00477	CDS	756	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+DKOIFHOP_00478	gene	2403	feoB			
+DKOIFHOP_00478	CDS	2403	feoB		COG0370	Fe(2+) transporter FeoB
+DKOIFHOP_00479	gene	879				
+DKOIFHOP_00479	CDS	879				hypothetical protein
+DKOIFHOP_00480	gene	663	queC			
+DKOIFHOP_00480	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+DKOIFHOP_00481	gene	1251	pgk			
+DKOIFHOP_00481	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+DKOIFHOP_00482	gene	936				
+DKOIFHOP_00482	CDS	936				hypothetical protein
+DKOIFHOP_00483	gene	2565	glgP			
+DKOIFHOP_00483	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+DKOIFHOP_00484	gene	1641				
+DKOIFHOP_00484	CDS	1641				hypothetical protein
+DKOIFHOP_00485	gene	432				
+DKOIFHOP_00485	CDS	432				hypothetical protein
+DKOIFHOP_00486	gene	2583				
+DKOIFHOP_00486	CDS	2583				hypothetical protein
+DKOIFHOP_00487	gene	705	gph_1			
+DKOIFHOP_00487	CDS	705	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+DKOIFHOP_00488	gene	933				
+DKOIFHOP_00488	CDS	933				hypothetical protein
+DKOIFHOP_00489	gene	813				
+DKOIFHOP_00489	CDS	813				hypothetical protein
+DKOIFHOP_00490	gene	717				
+DKOIFHOP_00490	CDS	717				hypothetical protein
+DKOIFHOP_00491	gene	117				
+DKOIFHOP_00491	CDS	117				hypothetical protein
+DKOIFHOP_00492	gene	1638	rlmL			
+DKOIFHOP_00492	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+DKOIFHOP_00493	gene	2166	ptpA			
+DKOIFHOP_00493	CDS	2166	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+DKOIFHOP_00494	gene	1233				
+DKOIFHOP_00494	CDS	1233			COG2081	putative protein
+DKOIFHOP_00495	gene	1545	comM			
+DKOIFHOP_00495	CDS	1545	comM		COG0606	Competence protein ComM
+DKOIFHOP_00496	gene	786				
+DKOIFHOP_00496	CDS	786				hypothetical protein
+DKOIFHOP_00497	gene	2133				
+DKOIFHOP_00497	CDS	2133				hypothetical protein
+DKOIFHOP_00498	gene	1269				
+DKOIFHOP_00498	CDS	1269				hypothetical protein
+DKOIFHOP_00499	gene	726				
+DKOIFHOP_00499	CDS	726				hypothetical protein
+DKOIFHOP_00500	gene	1296				
+DKOIFHOP_00500	CDS	1296				hypothetical protein
+DKOIFHOP_00501	gene	729	coaX			
+DKOIFHOP_00501	CDS	729	coaX	2.7.1.33		Type III pantothenate kinase
+DKOIFHOP_00502	gene	1197				
+DKOIFHOP_00502	CDS	1197				hypothetical protein
+DKOIFHOP_00503	gene	1419	phoV			
+DKOIFHOP_00503	CDS	1419	phoV	3.1.3.1		Alkaline phosphatase PhoV
+DKOIFHOP_00504	gene	3348	secA			
+DKOIFHOP_00504	CDS	3348	secA			Protein translocase subunit SecA
+DKOIFHOP_00505	gene	762	lptB_1			
+DKOIFHOP_00505	CDS	762	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+DKOIFHOP_00506	gene	1332	tilS			
+DKOIFHOP_00506	CDS	1332	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+DKOIFHOP_00507	gene	1182	rlmI			
+DKOIFHOP_00507	CDS	1182	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+DKOIFHOP_00508	gene	621	rnd			
+DKOIFHOP_00508	CDS	621	rnd	3.1.13.5		Ribonuclease D
+DKOIFHOP_00509	gene	2409				
+DKOIFHOP_00509	CDS	2409				hypothetical protein
+DKOIFHOP_00510	gene	609				
+DKOIFHOP_00510	CDS	609				hypothetical protein
+DKOIFHOP_00511	gene	1494				
+DKOIFHOP_00511	CDS	1494				hypothetical protein
+DKOIFHOP_00512	gene	1098	fcl_1			
+DKOIFHOP_00512	CDS	1098	fcl_1	1.1.1.271	COG0451	GDP-L-fucose synthase
+DKOIFHOP_00513	gene	1086	gmd			
+DKOIFHOP_00513	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+DKOIFHOP_00514	gene	1059	algA_1			
+DKOIFHOP_00514	CDS	1059	algA_1		COG0662	Alginate biosynthesis protein AlgA
+DKOIFHOP_00515	gene	987				
+DKOIFHOP_00515	CDS	987				hypothetical protein
+DKOIFHOP_00516	gene	2304	mrcA_2			
+DKOIFHOP_00516	CDS	2304	mrcA_2		COG5009	Penicillin-binding protein 1A
+DKOIFHOP_00517	gene	948	pyrB			
+DKOIFHOP_00517	CDS	948	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+DKOIFHOP_00518	gene	459	pyrI			
+DKOIFHOP_00518	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+DKOIFHOP_00519	gene	1305	mltF			
+DKOIFHOP_00519	CDS	1305	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+DKOIFHOP_00520	gene	168				
+DKOIFHOP_00520	CDS	168				hypothetical protein
+DKOIFHOP_00521	gene	1632	pepDA			
+DKOIFHOP_00521	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+DKOIFHOP_00522	gene	1623				
+DKOIFHOP_00522	CDS	1623				hypothetical protein
+DKOIFHOP_00523	gene	849	nadC			
+DKOIFHOP_00523	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+DKOIFHOP_00524	gene	495				
+DKOIFHOP_00524	CDS	495				hypothetical protein
+DKOIFHOP_00525	gene	1479	cstA			
+DKOIFHOP_00525	CDS	1479	cstA		COG1966	Peptide transporter CstA
+DKOIFHOP_00526	gene	1722				
+DKOIFHOP_00526	CDS	1722				hypothetical protein
+DKOIFHOP_00527	gene	717				
+DKOIFHOP_00527	CDS	717		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+DKOIFHOP_00528	gene	1731	lysS			
+DKOIFHOP_00528	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+DKOIFHOP_00529	gene	996	gpsA			
+DKOIFHOP_00529	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+DKOIFHOP_00530	gene	360				
+DKOIFHOP_00530	CDS	360				hypothetical protein
+DKOIFHOP_00531	gene	1038	menE			
+DKOIFHOP_00531	CDS	1038	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+DKOIFHOP_00532	gene	963	fmt			
+DKOIFHOP_00532	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+DKOIFHOP_00533	gene	1785	clcB			
+DKOIFHOP_00533	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+DKOIFHOP_00534	gene	606	tsaC			
+DKOIFHOP_00534	CDS	606	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+DKOIFHOP_00535	gene	75				
+DKOIFHOP_00535	tRNA	75				tRNA-Phe(gaa)
+DKOIFHOP_00536	gene	984				
+DKOIFHOP_00536	CDS	984				hypothetical protein
+DKOIFHOP_00537	gene	345				
+DKOIFHOP_00537	CDS	345				hypothetical protein
+DKOIFHOP_00538	gene	1050	nrdB			
+DKOIFHOP_00538	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+DKOIFHOP_00539	gene	2520				
+DKOIFHOP_00539	CDS	2520				hypothetical protein
+DKOIFHOP_00540	gene	3018				
+DKOIFHOP_00540	CDS	3018				hypothetical protein
+DKOIFHOP_00541	gene	147				
+DKOIFHOP_00541	CDS	147				hypothetical protein
+DKOIFHOP_00542	gene	2604	yoaB			
+DKOIFHOP_00542	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+DKOIFHOP_00543	gene	621				
+DKOIFHOP_00543	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+DKOIFHOP_00544	gene	945	ribF			
+DKOIFHOP_00544	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+DKOIFHOP_00545	gene	792				
+DKOIFHOP_00545	CDS	792				hypothetical protein
+DKOIFHOP_00546	gene	144				
+DKOIFHOP_00546	CDS	144				hypothetical protein
+DKOIFHOP_00547	gene	477				
+DKOIFHOP_00547	CDS	477				hypothetical protein
+DKOIFHOP_00548	gene	513	sigH			
+DKOIFHOP_00548	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+DKOIFHOP_00549	gene	153				
+DKOIFHOP_00549	CDS	153				hypothetical protein
+DKOIFHOP_00550	gene	1893	speA			
+DKOIFHOP_00550	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+DKOIFHOP_00551	gene	528	aroK			
+DKOIFHOP_00551	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+DKOIFHOP_00552	gene	2415	topA			
+DKOIFHOP_00552	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+DKOIFHOP_00553	gene	699				
+DKOIFHOP_00553	CDS	699				hypothetical protein
+DKOIFHOP_00554	gene	822				
+DKOIFHOP_00554	CDS	822				hypothetical protein
+DKOIFHOP_00555	gene	555	nudC_2			
+DKOIFHOP_00555	CDS	555	nudC_2	3.6.1.22		NADH pyrophosphatase
+DKOIFHOP_00556	gene	417				
+DKOIFHOP_00556	CDS	417				hypothetical protein
+DKOIFHOP_00557	gene	1152	resA_1			
+DKOIFHOP_00557	CDS	1152	resA_1			Thiol-disulfide oxidoreductase ResA
+DKOIFHOP_00558	gene	990				
+DKOIFHOP_00558	CDS	990				hypothetical protein
+DKOIFHOP_00559	gene	1026				
+DKOIFHOP_00559	CDS	1026				hypothetical protein
+DKOIFHOP_00560	gene	1089				
+DKOIFHOP_00560	CDS	1089				hypothetical protein
+DKOIFHOP_00561	gene	1893				
+DKOIFHOP_00561	CDS	1893				hypothetical protein
+DKOIFHOP_00562	gene	1143				
+DKOIFHOP_00562	CDS	1143				hypothetical protein
+DKOIFHOP_00563	gene	390				
+DKOIFHOP_00563	CDS	390				hypothetical protein
+DKOIFHOP_00564	gene	1116				
+DKOIFHOP_00564	CDS	1116				hypothetical protein
+DKOIFHOP_00565	gene	1812				
+DKOIFHOP_00565	CDS	1812				hypothetical protein
+DKOIFHOP_00566	gene	1314				
+DKOIFHOP_00566	CDS	1314				hypothetical protein
+DKOIFHOP_00567	gene	1329				
+DKOIFHOP_00567	CDS	1329				hypothetical protein
+DKOIFHOP_00568	gene	1713				
+DKOIFHOP_00568	CDS	1713				hypothetical protein
+DKOIFHOP_00569	gene	2187	ccsA_1			
+DKOIFHOP_00569	CDS	2187	ccsA_1			Cytochrome c biogenesis protein CcsA
+DKOIFHOP_00570	gene	2355	pnp			
+DKOIFHOP_00570	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+DKOIFHOP_00571	gene	219				
+DKOIFHOP_00571	CDS	219				hypothetical protein
+DKOIFHOP_00572	gene	174				
+DKOIFHOP_00572	CDS	174				hypothetical protein
+DKOIFHOP_00573	gene	1632				
+DKOIFHOP_00573	CDS	1632				hypothetical protein
+DKOIFHOP_00574	gene	2130				
+DKOIFHOP_00574	CDS	2130				hypothetical protein
+DKOIFHOP_00575	gene	2214				
+DKOIFHOP_00575	CDS	2214				hypothetical protein
+DKOIFHOP_00576	gene	660				
+DKOIFHOP_00576	CDS	660				hypothetical protein
+DKOIFHOP_00577	gene	336				
+DKOIFHOP_00577	CDS	336				hypothetical protein
+DKOIFHOP_00578	gene	840				
+DKOIFHOP_00578	CDS	840				hypothetical protein
+DKOIFHOP_00579	gene	102				
+DKOIFHOP_00579	CDS	102				hypothetical protein
+DKOIFHOP_00580	gene	2517				
+DKOIFHOP_00580	CDS	2517				hypothetical protein
+DKOIFHOP_00581	gene	1650				
+DKOIFHOP_00581	CDS	1650				hypothetical protein
+DKOIFHOP_00582	gene	888				
+DKOIFHOP_00582	CDS	888				hypothetical protein
+DKOIFHOP_00583	gene	1779	bepA_1			
+DKOIFHOP_00583	CDS	1779	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+DKOIFHOP_00584	gene	438	dut			
+DKOIFHOP_00584	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+DKOIFHOP_00585	gene	1527	dgt			
+DKOIFHOP_00585	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+DKOIFHOP_00586	gene	174				
+DKOIFHOP_00586	CDS	174				hypothetical protein
+DKOIFHOP_00587	gene	279				
+DKOIFHOP_00587	CDS	279				hypothetical protein
+DKOIFHOP_00588	gene	261				
+DKOIFHOP_00588	CDS	261				hypothetical protein
+DKOIFHOP_00589	gene	420				
+DKOIFHOP_00589	CDS	420				hypothetical protein
+DKOIFHOP_00590	gene	477				
+DKOIFHOP_00590	CDS	477				hypothetical protein
+DKOIFHOP_00591	gene	102				
+DKOIFHOP_00591	CDS	102				hypothetical protein
+DKOIFHOP_00592	gene	1017				
+DKOIFHOP_00592	CDS	1017				hypothetical protein
+DKOIFHOP_00593	gene	828				
+DKOIFHOP_00593	CDS	828				hypothetical protein
+DKOIFHOP_00594	gene	537	mraZ			
+DKOIFHOP_00594	CDS	537	mraZ			Transcriptional regulator MraZ
+DKOIFHOP_00595	gene	1032	rsmH			
+DKOIFHOP_00595	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+DKOIFHOP_00596	gene	624				
+DKOIFHOP_00596	CDS	624				hypothetical protein
+DKOIFHOP_00597	gene	2148	pbpB			
+DKOIFHOP_00597	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+DKOIFHOP_00598	gene	1452	murE			
+DKOIFHOP_00598	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+DKOIFHOP_00599	gene	1272	mraY			
+DKOIFHOP_00599	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+DKOIFHOP_00600	gene	1344	murD			
+DKOIFHOP_00600	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+DKOIFHOP_00601	gene	1287	ftsW			
+DKOIFHOP_00601	CDS	1287	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+DKOIFHOP_00602	gene	1116	murG			
+DKOIFHOP_00602	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+DKOIFHOP_00603	gene	1401	murC			
+DKOIFHOP_00603	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+DKOIFHOP_00604	gene	1002				
+DKOIFHOP_00604	CDS	1002				hypothetical protein
+DKOIFHOP_00605	gene	1461	ftsA			
+DKOIFHOP_00605	CDS	1461	ftsA			Cell division protein FtsA
+DKOIFHOP_00606	gene	1320	ftsZ			
+DKOIFHOP_00606	CDS	1320	ftsZ			Cell division protein FtsZ
+DKOIFHOP_00607	gene	447	yqeY			
+DKOIFHOP_00607	CDS	447	yqeY		COG1610	putative protein YqeY
+DKOIFHOP_00608	gene	1122				
+DKOIFHOP_00608	CDS	1122				hypothetical protein
+DKOIFHOP_00609	gene	726	recO			
+DKOIFHOP_00609	CDS	726	recO		COG1381	DNA repair protein RecO
+DKOIFHOP_00610	gene	75				
+DKOIFHOP_00610	tRNA	75				tRNA-Glu(ttc)
+DKOIFHOP_00611	gene	255	rpsT			
+DKOIFHOP_00611	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+DKOIFHOP_00612	gene	135				
+DKOIFHOP_00612	CDS	135				hypothetical protein
+DKOIFHOP_00613	gene	1971	gyrB_1			
+DKOIFHOP_00613	CDS	1971	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+DKOIFHOP_00614	gene	879				
+DKOIFHOP_00614	CDS	879				hypothetical protein
+DKOIFHOP_00615	gene	621				
+DKOIFHOP_00615	CDS	621				hypothetical protein
+DKOIFHOP_00616	gene	666	ung			
+DKOIFHOP_00616	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+DKOIFHOP_00617	gene	1518	gpmI			
+DKOIFHOP_00617	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+DKOIFHOP_00618	gene	213				
+DKOIFHOP_00618	CDS	213				hypothetical protein
+DKOIFHOP_00619	gene	2196				
+DKOIFHOP_00619	CDS	2196				hypothetical protein
+DKOIFHOP_00620	gene	1050	dusB			
+DKOIFHOP_00620	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+DKOIFHOP_00621	gene	1128				
+DKOIFHOP_00621	CDS	1128				hypothetical protein
+DKOIFHOP_00622	gene	453				
+DKOIFHOP_00622	CDS	453				hypothetical protein
+DKOIFHOP_00623	gene	1302				
+DKOIFHOP_00623	CDS	1302				hypothetical protein
+DKOIFHOP_00624	gene	1149	yghO			
+DKOIFHOP_00624	CDS	1149	yghO			Protein YghO
+DKOIFHOP_00625	gene	1944	gyrB_2			
+DKOIFHOP_00625	CDS	1944	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+DKOIFHOP_00626	gene	441	coaD			
+DKOIFHOP_00626	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+DKOIFHOP_00627	gene	411	ybeY			
+DKOIFHOP_00627	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+DKOIFHOP_00628	gene	1578				
+DKOIFHOP_00628	CDS	1578				hypothetical protein
+DKOIFHOP_00629	gene	1035	ruvB			
+DKOIFHOP_00629	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+DKOIFHOP_00630	gene	1218	norV			
+DKOIFHOP_00630	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+DKOIFHOP_00631	gene	1308				
+DKOIFHOP_00631	CDS	1308		3.4.24.-	COG0612	putative zinc protease
+DKOIFHOP_00632	gene	1368				
+DKOIFHOP_00632	CDS	1368				hypothetical protein
+DKOIFHOP_00633	gene	351				
+DKOIFHOP_00633	CDS	351				hypothetical protein
+DKOIFHOP_00634	gene	270				
+DKOIFHOP_00634	CDS	270				hypothetical protein
+DKOIFHOP_00635	gene	585				
+DKOIFHOP_00635	CDS	585				hypothetical protein
+DKOIFHOP_00636	gene	372				
+DKOIFHOP_00636	CDS	372				hypothetical protein
+DKOIFHOP_00637	gene	201				
+DKOIFHOP_00637	CDS	201				hypothetical protein
+DKOIFHOP_00638	gene	3348				
+DKOIFHOP_00638	CDS	3348				hypothetical protein
+DKOIFHOP_00639	gene	612				
+DKOIFHOP_00639	CDS	612				hypothetical protein
+DKOIFHOP_00640	gene	609				
+DKOIFHOP_00640	CDS	609				hypothetical protein
+DKOIFHOP_00641	gene	831				
+DKOIFHOP_00641	CDS	831				hypothetical protein
+DKOIFHOP_00642	gene	684				
+DKOIFHOP_00642	CDS	684				hypothetical protein
+DKOIFHOP_00643	gene	75				
+DKOIFHOP_00643	tRNA	75				tRNA-Met(cat)
+DKOIFHOP_00644	gene	693				
+DKOIFHOP_00644	CDS	693				hypothetical protein
+DKOIFHOP_00645	gene	486	resA_2			
+DKOIFHOP_00645	CDS	486	resA_2			Thiol-disulfide oxidoreductase ResA
+DKOIFHOP_00646	gene	1659				
+DKOIFHOP_00646	CDS	1659				hypothetical protein
+DKOIFHOP_00647	gene	786				
+DKOIFHOP_00647	CDS	786				hypothetical protein
+DKOIFHOP_00648	gene	639				
+DKOIFHOP_00648	CDS	639				hypothetical protein
+DKOIFHOP_00649	gene	1419	aspA			
+DKOIFHOP_00649	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+DKOIFHOP_00650	gene	1032				
+DKOIFHOP_00650	CDS	1032				hypothetical protein
+DKOIFHOP_00651	gene	726	mhqN			
+DKOIFHOP_00651	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+DKOIFHOP_00652	gene	306				
+DKOIFHOP_00652	CDS	306				hypothetical protein
+DKOIFHOP_00653	gene	753				
+DKOIFHOP_00653	CDS	753				hypothetical protein
+DKOIFHOP_00654	gene	747				
+DKOIFHOP_00654	CDS	747				hypothetical protein
+DKOIFHOP_00655	gene	2886				
+DKOIFHOP_00655	CDS	2886				hypothetical protein
+DKOIFHOP_00656	gene	1359	miaB			
+DKOIFHOP_00656	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+DKOIFHOP_00657	gene	912	xerD_1			
+DKOIFHOP_00657	CDS	912	xerD_1			Tyrosine recombinase XerD
+DKOIFHOP_00658	gene	1296				
+DKOIFHOP_00658	CDS	1296				hypothetical protein
+DKOIFHOP_00659	gene	429	csdE			
+DKOIFHOP_00659	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+DKOIFHOP_00660	gene	558	trmH			
+DKOIFHOP_00660	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+DKOIFHOP_00661	gene	831				
+DKOIFHOP_00661	CDS	831				hypothetical protein
+DKOIFHOP_00662	gene	681				
+DKOIFHOP_00662	CDS	681				hypothetical protein
+DKOIFHOP_00663	gene	477				
+DKOIFHOP_00663	CDS	477				hypothetical protein
+DKOIFHOP_00664	gene	459	rnhA			
+DKOIFHOP_00664	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+DKOIFHOP_00665	gene	696				
+DKOIFHOP_00665	CDS	696				hypothetical protein
+DKOIFHOP_00666	gene	1005				
+DKOIFHOP_00666	CDS	1005				hypothetical protein
+DKOIFHOP_00667	gene	87				
+DKOIFHOP_00667	tRNA	87				tRNA-Leu(taa)
+DKOIFHOP_00668	gene	576				
+DKOIFHOP_00668	CDS	576				hypothetical protein
+DKOIFHOP_00669	gene	423				
+DKOIFHOP_00669	CDS	423				hypothetical protein
+DKOIFHOP_00670	gene	633	pyrE			
+DKOIFHOP_00670	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+DKOIFHOP_00671	gene	852				
+DKOIFHOP_00671	CDS	852				hypothetical protein
+DKOIFHOP_00672	gene	1794				
+DKOIFHOP_00672	CDS	1794				hypothetical protein
+DKOIFHOP_00673	gene	471				
+DKOIFHOP_00673	CDS	471				hypothetical protein
+DKOIFHOP_00674	gene	1287				
+DKOIFHOP_00674	CDS	1287				hypothetical protein
+DKOIFHOP_00675	gene	507	recX			
+DKOIFHOP_00675	CDS	507	recX			Regulatory protein RecX
+DKOIFHOP_00676	gene	894	prmB			
+DKOIFHOP_00676	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+DKOIFHOP_00677	gene	1035	hmuU_1			
+DKOIFHOP_00677	CDS	1035	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+DKOIFHOP_00678	gene	1173				
+DKOIFHOP_00678	CDS	1173				hypothetical protein
+DKOIFHOP_00679	gene	6564				
+DKOIFHOP_00679	CDS	6564				hypothetical protein
+DKOIFHOP_00680	gene	285				
+DKOIFHOP_00680	CDS	285				hypothetical protein
+DKOIFHOP_00681	gene	1050	btuB_3			
+DKOIFHOP_00681	CDS	1050	btuB_3			Vitamin B12 transporter BtuB
+DKOIFHOP_00682	gene	1722				
+DKOIFHOP_00682	CDS	1722				hypothetical protein
+DKOIFHOP_00683	gene	1668	udk_1			
+DKOIFHOP_00683	CDS	1668	udk_1	2.7.1.48		Uridine kinase
+DKOIFHOP_00684	gene	132				
+DKOIFHOP_00684	CDS	132				hypothetical protein
+DKOIFHOP_00685	gene	339				
+DKOIFHOP_00685	CDS	339				hypothetical protein
+DKOIFHOP_00686	gene	381				
+DKOIFHOP_00686	CDS	381				hypothetical protein
+DKOIFHOP_00687	gene	432				
+DKOIFHOP_00687	CDS	432				hypothetical protein
+DKOIFHOP_00688	gene	2709	rcsC_1			
+DKOIFHOP_00688	CDS	2709	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+DKOIFHOP_00689	gene	258				
+DKOIFHOP_00689	CDS	258				hypothetical protein
+DKOIFHOP_00690	gene	72				
+DKOIFHOP_00690	tRNA	72				tRNA-Gln(ttg)
+DKOIFHOP_00691	gene	909				
+DKOIFHOP_00691	CDS	909				hypothetical protein
+DKOIFHOP_00692	gene	114				
+DKOIFHOP_00692	CDS	114				hypothetical protein
+DKOIFHOP_00693	gene	174				
+DKOIFHOP_00693	CDS	174				hypothetical protein
+DKOIFHOP_00694	gene	1821	argS			
+DKOIFHOP_00694	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+DKOIFHOP_00695	gene	417				
+DKOIFHOP_00695	CDS	417				hypothetical protein
+DKOIFHOP_00696	gene	1494	patA_1			
+DKOIFHOP_00696	CDS	1494	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+DKOIFHOP_00697	gene	1314				
+DKOIFHOP_00697	CDS	1314				hypothetical protein
+DKOIFHOP_00698	gene	1527				
+DKOIFHOP_00698	CDS	1527				hypothetical protein
+DKOIFHOP_00699	gene	321				
+DKOIFHOP_00699	CDS	321				hypothetical protein
+DKOIFHOP_00700	gene	177				
+DKOIFHOP_00700	CDS	177				hypothetical protein
+DKOIFHOP_00701	gene	669				
+DKOIFHOP_00701	CDS	669				hypothetical protein
+DKOIFHOP_00702	gene	435				
+DKOIFHOP_00702	CDS	435				hypothetical protein
+DKOIFHOP_00703	gene	96				
+DKOIFHOP_00703	CDS	96				hypothetical protein
+DKOIFHOP_00704	gene	1644	hcp			
+DKOIFHOP_00704	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+DKOIFHOP_00705	gene	1050	rnc			
+DKOIFHOP_00705	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+DKOIFHOP_00706	gene	1263	fabF			
+DKOIFHOP_00706	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+DKOIFHOP_00707	gene	237	acpP			
+DKOIFHOP_00707	CDS	237	acpP		COG0236	Acyl carrier protein
+DKOIFHOP_00708	gene	606				
+DKOIFHOP_00708	CDS	606				hypothetical protein
+DKOIFHOP_00709	gene	1047				
+DKOIFHOP_00709	CDS	1047				hypothetical protein
+DKOIFHOP_00710	gene	1008	pepE			
+DKOIFHOP_00710	CDS	1008	pepE	3.4.22.-	COG3579	Aminopeptidase E
+DKOIFHOP_00711	gene	936				
+DKOIFHOP_00711	CDS	936				hypothetical protein
+DKOIFHOP_00712	gene	1491	cysS			
+DKOIFHOP_00712	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+DKOIFHOP_00713	gene	123				
+DKOIFHOP_00713	CDS	123				hypothetical protein
+DKOIFHOP_00714	gene	618				
+DKOIFHOP_00714	CDS	618				hypothetical protein
+DKOIFHOP_00715	gene	240				
+DKOIFHOP_00715	CDS	240				hypothetical protein
+DKOIFHOP_00716	gene	318				
+DKOIFHOP_00716	CDS	318				hypothetical protein
+DKOIFHOP_00717	gene	906				
+DKOIFHOP_00717	CDS	906				hypothetical protein
+DKOIFHOP_00718	gene	165				
+DKOIFHOP_00718	CDS	165				hypothetical protein
+DKOIFHOP_00719	gene	2826				
+DKOIFHOP_00719	CDS	2826				hypothetical protein
+DKOIFHOP_00720	gene	1305	metK			
+DKOIFHOP_00720	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+DKOIFHOP_00721	gene	1038				
+DKOIFHOP_00721	CDS	1038				hypothetical protein
+DKOIFHOP_00722	gene	747				
+DKOIFHOP_00722	CDS	747				hypothetical protein
+DKOIFHOP_00723	gene	432	rnpA			
+DKOIFHOP_00723	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+DKOIFHOP_00724	gene	492				
+DKOIFHOP_00724	CDS	492				hypothetical protein
+DKOIFHOP_00725	gene	1305	tyrS_1			
+DKOIFHOP_00725	CDS	1305	tyrS_1	6.1.1.1		Tyrosine--tRNA ligase
+DKOIFHOP_00726	gene	654				
+DKOIFHOP_00726	CDS	654				hypothetical protein
+DKOIFHOP_00727	gene	981	ribD			
+DKOIFHOP_00727	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+DKOIFHOP_00728	gene	1311	eno			
+DKOIFHOP_00728	CDS	1311	eno	4.2.1.11		Enolase
+DKOIFHOP_00729	gene	399				
+DKOIFHOP_00729	CDS	399		2.8.1.-	COG0607	Sulfurtransferase
+DKOIFHOP_00730	gene	417				
+DKOIFHOP_00730	CDS	417				hypothetical protein
+DKOIFHOP_00731	gene	1125	dnaN			
+DKOIFHOP_00731	CDS	1125	dnaN			Beta sliding clamp
+DKOIFHOP_00732	gene	855	dinG			
+DKOIFHOP_00732	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+DKOIFHOP_00733	gene	1212	undec1A			
+DKOIFHOP_00733	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+DKOIFHOP_00734	gene	903				
+DKOIFHOP_00734	CDS	903				hypothetical protein
+DKOIFHOP_00735	gene	1704	recN			
+DKOIFHOP_00735	CDS	1704	recN		COG0497	DNA repair protein RecN
+DKOIFHOP_00736	gene	2301				
+DKOIFHOP_00736	CDS	2301				hypothetical protein
+DKOIFHOP_00737	gene	627				
+DKOIFHOP_00737	CDS	627				hypothetical protein
+DKOIFHOP_00738	gene	189				
+DKOIFHOP_00738	CDS	189				hypothetical protein
+DKOIFHOP_00739	gene	1647				
+DKOIFHOP_00739	CDS	1647				hypothetical protein
+DKOIFHOP_00740	gene	999				
+DKOIFHOP_00740	CDS	999				hypothetical protein
+DKOIFHOP_00741	gene	231				
+DKOIFHOP_00741	CDS	231				hypothetical protein
+DKOIFHOP_00742	gene	336				
+DKOIFHOP_00742	CDS	336				hypothetical protein
+DKOIFHOP_00743	gene	240				
+DKOIFHOP_00743	CDS	240				hypothetical protein
+DKOIFHOP_00744	gene	1470				
+DKOIFHOP_00744	CDS	1470				hypothetical protein
+DKOIFHOP_00745	gene	240				
+DKOIFHOP_00745	CDS	240				hypothetical protein
+DKOIFHOP_00746	gene	120				
+DKOIFHOP_00746	CDS	120				hypothetical protein
+DKOIFHOP_00747	gene	774	lpxA_2			
+DKOIFHOP_00747	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+DKOIFHOP_00748	gene	1386	oprM			
+DKOIFHOP_00748	CDS	1386	oprM		COG1538	Outer membrane protein OprM
+DKOIFHOP_00749	gene	3258	bepE			
+DKOIFHOP_00749	CDS	3258	bepE			Efflux pump membrane transporter BepE
+DKOIFHOP_00750	gene	1194	ttgA			
+DKOIFHOP_00750	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+DKOIFHOP_00751	gene	1659	cca			
+DKOIFHOP_00751	CDS	1659	cca	2.7.7.72		CCA-adding enzyme
+DKOIFHOP_00752	gene	459				
+DKOIFHOP_00752	CDS	459				hypothetical protein
+DKOIFHOP_00753	gene	555				
+DKOIFHOP_00753	CDS	555				hypothetical protein
+DKOIFHOP_00754	gene	2130	tpiA			
+DKOIFHOP_00754	CDS	2130	tpiA			Triosephosphate isomerase
+DKOIFHOP_00755	gene	639				
+DKOIFHOP_00755	CDS	639				hypothetical protein
+DKOIFHOP_00756	gene	594	folE			
+DKOIFHOP_00756	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+DKOIFHOP_00757	gene	615				
+DKOIFHOP_00757	CDS	615				hypothetical protein
+DKOIFHOP_00758	gene	1110				
+DKOIFHOP_00758	CDS	1110				hypothetical protein
+DKOIFHOP_00759	gene	963				
+DKOIFHOP_00759	CDS	963				hypothetical protein
+DKOIFHOP_00760	gene	792	tagA			
+DKOIFHOP_00760	CDS	792	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+DKOIFHOP_00761	gene	543	dapH_1			
+DKOIFHOP_00761	CDS	543	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DKOIFHOP_00762	gene	1155	mshA_2			
+DKOIFHOP_00762	CDS	1155	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DKOIFHOP_00763	gene	1215				
+DKOIFHOP_00763	CDS	1215				hypothetical protein
+DKOIFHOP_00764	gene	717				
+DKOIFHOP_00764	CDS	717				hypothetical protein
+DKOIFHOP_00765	gene	1152	wecB			
+DKOIFHOP_00765	CDS	1152	wecB	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+DKOIFHOP_00766	gene	924				
+DKOIFHOP_00766	CDS	924				hypothetical protein
+DKOIFHOP_00767	gene	339				
+DKOIFHOP_00767	CDS	339		2.3.1.-	COG0110	Putative acetyltransferase
+DKOIFHOP_00768	gene	1254				
+DKOIFHOP_00768	CDS	1254				hypothetical protein
+DKOIFHOP_00769	gene	825	arnC_1			
+DKOIFHOP_00769	CDS	825	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+DKOIFHOP_00770	gene	951				
+DKOIFHOP_00770	CDS	951				hypothetical protein
+DKOIFHOP_00771	gene	813				
+DKOIFHOP_00771	CDS	813				hypothetical protein
+DKOIFHOP_00772	gene	654	dapH_2			
+DKOIFHOP_00772	CDS	654	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DKOIFHOP_00773	gene	405	tagD			
+DKOIFHOP_00773	CDS	405	tagD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+DKOIFHOP_00774	gene	756				
+DKOIFHOP_00774	CDS	756				hypothetical protein
+DKOIFHOP_00775	gene	1437	tuaB_1			
+DKOIFHOP_00775	CDS	1437	tuaB_1		COG2244	Teichuronic acid biosynthesis protein TuaB
+DKOIFHOP_00776	gene	1077				
+DKOIFHOP_00776	CDS	1077				hypothetical protein
+DKOIFHOP_00777	gene	153				
+DKOIFHOP_00777	CDS	153				hypothetical protein
+DKOIFHOP_00778	gene	579				
+DKOIFHOP_00778	CDS	579				hypothetical protein
+DKOIFHOP_00779	gene	1440	recD2_1			
+DKOIFHOP_00779	CDS	1440	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+DKOIFHOP_00780	gene	492				
+DKOIFHOP_00780	CDS	492				hypothetical protein
+DKOIFHOP_00781	gene	861				
+DKOIFHOP_00781	CDS	861				hypothetical protein
+DKOIFHOP_00782	gene	558	rsmD			
+DKOIFHOP_00782	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+DKOIFHOP_00783	gene	912				
+DKOIFHOP_00783	CDS	912				hypothetical protein
+DKOIFHOP_00784	gene	1347	nhaD			
+DKOIFHOP_00784	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+DKOIFHOP_00785	gene	849				
+DKOIFHOP_00785	CDS	849				hypothetical protein
+DKOIFHOP_00786	gene	597				
+DKOIFHOP_00786	CDS	597				hypothetical protein
+DKOIFHOP_00787	gene	1305				
+DKOIFHOP_00787	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+DKOIFHOP_00788	gene	1023	recA			
+DKOIFHOP_00788	CDS	1023	recA			Protein RecA
+DKOIFHOP_00789	gene	2826	alaS			
+DKOIFHOP_00789	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+DKOIFHOP_00790	gene	348				
+DKOIFHOP_00790	CDS	348				hypothetical protein
+DKOIFHOP_00791	gene	2286	relA_2			
+DKOIFHOP_00791	CDS	2286	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+DKOIFHOP_00792	gene	1536				
+DKOIFHOP_00792	CDS	1536				hypothetical protein
+DKOIFHOP_00793	gene	765				
+DKOIFHOP_00793	CDS	765				hypothetical protein
+DKOIFHOP_00794	gene	900	parB			
+DKOIFHOP_00794	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+DKOIFHOP_00795	gene	762	soj			
+DKOIFHOP_00795	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+DKOIFHOP_00796	gene	99				
+DKOIFHOP_00796	CDS	99				hypothetical protein
+DKOIFHOP_00797	gene	774	surE			
+DKOIFHOP_00797	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+DKOIFHOP_00798	gene	1149	lpxB			
+DKOIFHOP_00798	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+DKOIFHOP_00799	gene	963				
+DKOIFHOP_00799	CDS	963				hypothetical protein
+DKOIFHOP_00800	gene	1461	pepD_1			
+DKOIFHOP_00800	CDS	1461	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+DKOIFHOP_00801	gene	141				
+DKOIFHOP_00801	CDS	141				hypothetical protein
+DKOIFHOP_00802	gene	927				
+DKOIFHOP_00802	CDS	927				hypothetical protein
+DKOIFHOP_00803	gene	1854				
+DKOIFHOP_00803	CDS	1854				hypothetical protein
+DKOIFHOP_00804	gene	72				
+DKOIFHOP_00804	tRNA	72				tRNA-Gln(ctg)
+DKOIFHOP_00805	gene	360	rsfS			
+DKOIFHOP_00805	CDS	360	rsfS			Ribosomal silencing factor RsfS
+DKOIFHOP_00806	gene	1971	ftsH_1			
+DKOIFHOP_00806	CDS	1971	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+DKOIFHOP_00807	gene	852				
+DKOIFHOP_00807	CDS	852				hypothetical protein
+DKOIFHOP_00808	gene	522				
+DKOIFHOP_00808	CDS	522				hypothetical protein
+DKOIFHOP_00809	gene	2313				
+DKOIFHOP_00809	CDS	2313				hypothetical protein
+DKOIFHOP_00810	gene	222				
+DKOIFHOP_00810	CDS	222				hypothetical protein
+DKOIFHOP_00811	gene	1071	aroB			
+DKOIFHOP_00811	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+DKOIFHOP_00812	gene	831	resA_3			
+DKOIFHOP_00812	CDS	831	resA_3			Thiol-disulfide oxidoreductase ResA
+DKOIFHOP_00813	gene	933	yrbG			
+DKOIFHOP_00813	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+DKOIFHOP_00814	gene	1062				
+DKOIFHOP_00814	CDS	1062				hypothetical protein
+DKOIFHOP_00815	gene	444				
+DKOIFHOP_00815	CDS	444				hypothetical protein
+DKOIFHOP_00816	gene	561	coaE			
+DKOIFHOP_00816	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+DKOIFHOP_00817	gene	987				
+DKOIFHOP_00817	CDS	987				hypothetical protein
+DKOIFHOP_00818	gene	330				
+DKOIFHOP_00818	CDS	330				hypothetical protein
+DKOIFHOP_00819	gene	1002	nusB			
+DKOIFHOP_00819	CDS	1002	nusB			Transcription antitermination protein NusB
+DKOIFHOP_00820	gene	612	ctc			
+DKOIFHOP_00820	CDS	612	ctc		COG1825	General stress protein CTC
+DKOIFHOP_00821	gene	606	pth			
+DKOIFHOP_00821	CDS	606	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+DKOIFHOP_00822	gene	489				
+DKOIFHOP_00822	CDS	489				hypothetical protein
+DKOIFHOP_00823	gene	570	purN			
+DKOIFHOP_00823	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+DKOIFHOP_00824	gene	2943				
+DKOIFHOP_00824	CDS	2943				hypothetical protein
+DKOIFHOP_00825	gene	99				
+DKOIFHOP_00825	CDS	99				hypothetical protein
+DKOIFHOP_00826	gene	3072				
+DKOIFHOP_00826	CDS	3072				hypothetical protein
+DKOIFHOP_00827	gene	1017				
+DKOIFHOP_00827	CDS	1017				hypothetical protein
+DKOIFHOP_00828	gene	465	queF			
+DKOIFHOP_00828	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+DKOIFHOP_00829	gene	339				
+DKOIFHOP_00829	CDS	339				hypothetical protein
+DKOIFHOP_00830	gene	429				
+DKOIFHOP_00830	CDS	429				hypothetical protein
+DKOIFHOP_00831	gene	849				
+DKOIFHOP_00831	CDS	849				hypothetical protein
+DKOIFHOP_00832	gene	1329	allB			
+DKOIFHOP_00832	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+DKOIFHOP_00833	gene	1179				
+DKOIFHOP_00833	CDS	1179				hypothetical protein
+DKOIFHOP_00834	gene	1278				
+DKOIFHOP_00834	CDS	1278				hypothetical protein
+DKOIFHOP_00835	gene	1152				
+DKOIFHOP_00835	CDS	1152				hypothetical protein
+DKOIFHOP_00836	gene	705	yknY_2			
+DKOIFHOP_00836	CDS	705	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+DKOIFHOP_00837	gene	1221				
+DKOIFHOP_00837	CDS	1221				hypothetical protein
+DKOIFHOP_00838	gene	1224				
+DKOIFHOP_00838	CDS	1224				hypothetical protein
+DKOIFHOP_00839	gene	756				
+DKOIFHOP_00839	CDS	756				hypothetical protein
+DKOIFHOP_00840	gene	675				
+DKOIFHOP_00840	CDS	675				hypothetical protein
+DKOIFHOP_00841	gene	1209	rhaR			
+DKOIFHOP_00841	CDS	1209	rhaR			HTH-type transcriptional activator RhaR
+DKOIFHOP_00842	gene	228				
+DKOIFHOP_00842	CDS	228				hypothetical protein
+DKOIFHOP_00843	gene	762				
+DKOIFHOP_00843	CDS	762				hypothetical protein
+DKOIFHOP_00844	gene	759	ppm1			
+DKOIFHOP_00844	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+DKOIFHOP_00845	gene	2772	lptD_1			
+DKOIFHOP_00845	CDS	2772	lptD_1			LPS-assembly protein LptD
+DKOIFHOP_00846	gene	585				
+DKOIFHOP_00846	CDS	585				hypothetical protein
+DKOIFHOP_00847	gene	1776				
+DKOIFHOP_00847	CDS	1776				hypothetical protein
+DKOIFHOP_00848	gene	2256	kefB_1			
+DKOIFHOP_00848	CDS	2256	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+DKOIFHOP_00849	gene	1224	pepT			
+DKOIFHOP_00849	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+DKOIFHOP_00850	gene	75				
+DKOIFHOP_00850	tRNA	75				tRNA-Arg(ccg)
+DKOIFHOP_00851	gene	693				
+DKOIFHOP_00851	CDS	693				hypothetical protein
+DKOIFHOP_00852	gene	750				
+DKOIFHOP_00852	CDS	750				hypothetical protein
+DKOIFHOP_00853	gene	1032				
+DKOIFHOP_00853	CDS	1032				hypothetical protein
+DKOIFHOP_00854	gene	2109				
+DKOIFHOP_00854	CDS	2109				hypothetical protein
+DKOIFHOP_00855	gene	738				
+DKOIFHOP_00855	CDS	738				hypothetical protein
+DKOIFHOP_00856	gene	1134				
+DKOIFHOP_00856	CDS	1134				hypothetical protein
+DKOIFHOP_00857	gene	513				
+DKOIFHOP_00857	CDS	513				hypothetical protein
+DKOIFHOP_00858	gene	636	udk_2			
+DKOIFHOP_00858	CDS	636	udk_2	2.7.1.48		Uridine kinase
+DKOIFHOP_00859	gene	573				
+DKOIFHOP_00859	CDS	573				hypothetical protein
+DKOIFHOP_00860	gene	1038				
+DKOIFHOP_00860	CDS	1038				hypothetical protein
+DKOIFHOP_00861	gene	2562				
+DKOIFHOP_00861	CDS	2562				hypothetical protein
+DKOIFHOP_00862	gene	930				
+DKOIFHOP_00862	CDS	930				hypothetical protein
+DKOIFHOP_00863	gene	1335				
+DKOIFHOP_00863	CDS	1335				hypothetical protein
+DKOIFHOP_00864	gene	255	rpmE2			
+DKOIFHOP_00864	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+DKOIFHOP_00865	gene	906				
+DKOIFHOP_00865	CDS	906				hypothetical protein
+DKOIFHOP_00866	gene	108				
+DKOIFHOP_00866	CDS	108				hypothetical protein
+DKOIFHOP_00867	gene	2310				
+DKOIFHOP_00867	CDS	2310				hypothetical protein
+DKOIFHOP_00868	gene	1158	pqqE			
+DKOIFHOP_00868	CDS	1158	pqqE	1.21.98.4		PqqA peptide cyclase
+DKOIFHOP_00869	gene	2409				
+DKOIFHOP_00869	CDS	2409				hypothetical protein
+DKOIFHOP_00870	gene	2223	apxIB			
+DKOIFHOP_00870	CDS	2223	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+DKOIFHOP_00871	gene	498				
+DKOIFHOP_00871	CDS	498				hypothetical protein
+DKOIFHOP_00872	gene	1563				
+DKOIFHOP_00872	CDS	1563				hypothetical protein
+DKOIFHOP_00873	gene	456				
+DKOIFHOP_00873	CDS	456				hypothetical protein
+DKOIFHOP_00874	gene	1242	ugd			
+DKOIFHOP_00874	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+DKOIFHOP_00875	gene	600				
+DKOIFHOP_00875	CDS	600				hypothetical protein
+DKOIFHOP_00876	gene	549	bsaA			
+DKOIFHOP_00876	CDS	549	bsaA			Glutathione peroxidase BsaA
+DKOIFHOP_00877	gene	909	trxB			
+DKOIFHOP_00877	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+DKOIFHOP_00878	gene	1155				
+DKOIFHOP_00878	CDS	1155				hypothetical protein
+DKOIFHOP_00879	gene	1221				
+DKOIFHOP_00879	CDS	1221				hypothetical protein
+DKOIFHOP_00880	gene	798	tuaG			
+DKOIFHOP_00880	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+DKOIFHOP_00881	gene	1197	arnB			
+DKOIFHOP_00881	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+DKOIFHOP_00882	gene	594				
+DKOIFHOP_00882	CDS	594				hypothetical protein
+DKOIFHOP_00883	gene	1914	pglF			
+DKOIFHOP_00883	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+DKOIFHOP_00884	gene	1131				
+DKOIFHOP_00884	CDS	1131				hypothetical protein
+DKOIFHOP_00885	gene	1047				
+DKOIFHOP_00885	CDS	1047				hypothetical protein
+DKOIFHOP_00886	gene	171				
+DKOIFHOP_00886	CDS	171				hypothetical protein
+DKOIFHOP_00887	gene	510	pspA_1			
+DKOIFHOP_00887	CDS	510	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+DKOIFHOP_00888	gene	357	msbA_1			
+DKOIFHOP_00888	CDS	357	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+DKOIFHOP_00889	gene	111				
+DKOIFHOP_00889	CDS	111				hypothetical protein
+DKOIFHOP_00890	gene	2379				
+DKOIFHOP_00890	CDS	2379				hypothetical protein
+DKOIFHOP_00891	gene	780				
+DKOIFHOP_00891	CDS	780				hypothetical protein
+DKOIFHOP_00892	gene	1299				
+DKOIFHOP_00892	CDS	1299				hypothetical protein
+DKOIFHOP_00893	gene	906				
+DKOIFHOP_00893	CDS	906				hypothetical protein
+DKOIFHOP_00894	gene	1128	ampC			
+DKOIFHOP_00894	CDS	1128	ampC	3.5.2.6		Beta-lactamase
+DKOIFHOP_00895	gene	1008				
+DKOIFHOP_00895	CDS	1008				hypothetical protein
+DKOIFHOP_00896	gene	1059				
+DKOIFHOP_00896	CDS	1059				hypothetical protein
+DKOIFHOP_00897	gene	717	ypdB			
+DKOIFHOP_00897	CDS	717	ypdB		COG3279	Transcriptional regulatory protein YpdB
+DKOIFHOP_00898	gene	624	nfrA2_2			
+DKOIFHOP_00898	CDS	624	nfrA2_2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+DKOIFHOP_00899	gene	1095				
+DKOIFHOP_00899	CDS	1095				hypothetical protein
+DKOIFHOP_00900	gene	189				
+DKOIFHOP_00900	CDS	189				hypothetical protein
+DKOIFHOP_00901	gene	1443	tuaB_2			
+DKOIFHOP_00901	CDS	1443	tuaB_2		COG2244	Teichuronic acid biosynthesis protein TuaB
+DKOIFHOP_00902	gene	1440				
+DKOIFHOP_00902	CDS	1440				hypothetical protein
+DKOIFHOP_00903	gene	594				
+DKOIFHOP_00903	CDS	594				hypothetical protein
+DKOIFHOP_00904	gene	879				
+DKOIFHOP_00904	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+DKOIFHOP_00905	gene	609				
+DKOIFHOP_00905	CDS	609				hypothetical protein
+DKOIFHOP_00906	gene	567	yajL			
+DKOIFHOP_00906	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+DKOIFHOP_00907	gene	900	nadK			
+DKOIFHOP_00907	CDS	900	nadK	2.7.1.23		NAD kinase
+DKOIFHOP_00908	gene	1683				
+DKOIFHOP_00908	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+DKOIFHOP_00909	gene	1071				
+DKOIFHOP_00909	CDS	1071				hypothetical protein
+DKOIFHOP_00910	gene	1857	cptA			
+DKOIFHOP_00910	CDS	1857	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+DKOIFHOP_00911	gene	804				
+DKOIFHOP_00911	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+DKOIFHOP_00912	gene	1356	mshA_3			
+DKOIFHOP_00912	CDS	1356	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DKOIFHOP_00913	gene	330				
+DKOIFHOP_00913	CDS	330				hypothetical protein
+DKOIFHOP_00914	gene	603				
+DKOIFHOP_00914	CDS	603				hypothetical protein
+DKOIFHOP_00915	gene	705				
+DKOIFHOP_00915	CDS	705				hypothetical protein
+DKOIFHOP_00916	gene	4299				
+DKOIFHOP_00916	CDS	4299				hypothetical protein
+DKOIFHOP_00917	gene	2229	btuB_4			
+DKOIFHOP_00917	CDS	2229	btuB_4			Vitamin B12 transporter BtuB
+DKOIFHOP_00918	gene	765				
+DKOIFHOP_00918	CDS	765				hypothetical protein
+DKOIFHOP_00919	gene	477	ispF			
+DKOIFHOP_00919	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+DKOIFHOP_00920	gene	1152				
+DKOIFHOP_00920	CDS	1152				hypothetical protein
+DKOIFHOP_00921	gene	96				
+DKOIFHOP_00921	CDS	96				hypothetical protein
+DKOIFHOP_00922	gene	3567				
+DKOIFHOP_00922	CDS	3567				hypothetical protein
+DKOIFHOP_00923	gene	618	ycgM			
+DKOIFHOP_00923	CDS	618	ycgM		COG0179	putative protein YcgM
+DKOIFHOP_00924	gene	999	TSFM			
+DKOIFHOP_00924	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+DKOIFHOP_00925	gene	870	rpsB			
+DKOIFHOP_00925	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+DKOIFHOP_00926	gene	387	rpsI			
+DKOIFHOP_00926	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+DKOIFHOP_00927	gene	462	rplM			
+DKOIFHOP_00927	CDS	462	rplM		COG0102	50S ribosomal protein L13
+DKOIFHOP_00928	gene	1788				
+DKOIFHOP_00928	CDS	1788				hypothetical protein
+DKOIFHOP_00929	gene	390				
+DKOIFHOP_00929	CDS	390				hypothetical protein
+DKOIFHOP_00930	gene	834				
+DKOIFHOP_00930	CDS	834				hypothetical protein
+DKOIFHOP_00931	gene	192				
+DKOIFHOP_00931	CDS	192				hypothetical protein
+DKOIFHOP_00932	gene	1341				
+DKOIFHOP_00932	CDS	1341				hypothetical protein
+DKOIFHOP_00933	gene	1077				
+DKOIFHOP_00933	CDS	1077				hypothetical protein
+DKOIFHOP_00934	gene	135				
+DKOIFHOP_00934	CDS	135				hypothetical protein
+DKOIFHOP_00935	gene	717				
+DKOIFHOP_00935	CDS	717				hypothetical protein
+DKOIFHOP_00936	gene	633	nadD			
+DKOIFHOP_00936	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+DKOIFHOP_00937	gene	576	gmk			
+DKOIFHOP_00937	CDS	576	gmk	2.7.4.8	COG0194	Guanylate kinase
+DKOIFHOP_00938	gene	1149				
+DKOIFHOP_00938	CDS	1149				hypothetical protein
+DKOIFHOP_00939	gene	879				
+DKOIFHOP_00939	CDS	879				hypothetical protein
+DKOIFHOP_00940	gene	690				
+DKOIFHOP_00940	CDS	690				hypothetical protein
+DKOIFHOP_00941	gene	612				
+DKOIFHOP_00941	CDS	612				hypothetical protein
+DKOIFHOP_00942	gene	1347	murA			
+DKOIFHOP_00942	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+DKOIFHOP_00943	gene	522	rimM			
+DKOIFHOP_00943	CDS	522	rimM			Ribosome maturation factor RimM
+DKOIFHOP_00944	gene	1155	dxr			
+DKOIFHOP_00944	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+DKOIFHOP_00945	gene	1410				
+DKOIFHOP_00945	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+DKOIFHOP_00946	gene	3717				
+DKOIFHOP_00946	CDS	3717				hypothetical protein
+DKOIFHOP_00947	gene	477				
+DKOIFHOP_00947	CDS	477			COG3039	IS5 family transposase ISPg8
+DKOIFHOP_00948	gene	1896	sacC			
+DKOIFHOP_00948	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+DKOIFHOP_00949	gene	648				
+DKOIFHOP_00949	CDS	648				hypothetical protein
+DKOIFHOP_00950	gene	498				
+DKOIFHOP_00950	CDS	498				hypothetical protein
+DKOIFHOP_00951	gene	909	pfkB_1			
+DKOIFHOP_00951	CDS	909	pfkB_1	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+DKOIFHOP_00952	gene	3339				
+DKOIFHOP_00952	CDS	3339				hypothetical protein
+DKOIFHOP_00953	gene	1851				
+DKOIFHOP_00953	CDS	1851				hypothetical protein
+DKOIFHOP_00954	gene	1686				
+DKOIFHOP_00954	CDS	1686				hypothetical protein
+DKOIFHOP_00955	gene	1227				
+DKOIFHOP_00955	CDS	1227				hypothetical protein
+DKOIFHOP_00956	gene	540				
+DKOIFHOP_00956	CDS	540				hypothetical protein
+DKOIFHOP_00957	gene	165				
+DKOIFHOP_00957	CDS	165				hypothetical protein
+DKOIFHOP_00958	gene	468				
+DKOIFHOP_00958	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+DKOIFHOP_00959	gene	207				
+DKOIFHOP_00959	CDS	207				hypothetical protein
+DKOIFHOP_00960	gene	960				
+DKOIFHOP_00960	CDS	960				hypothetical protein
+DKOIFHOP_00961	gene	993	oleD			
+DKOIFHOP_00961	CDS	993	oleD	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+DKOIFHOP_00962	gene	2238	rnr			
+DKOIFHOP_00962	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+DKOIFHOP_00963	gene	864				
+DKOIFHOP_00963	CDS	864				hypothetical protein
+DKOIFHOP_00964	gene	654				
+DKOIFHOP_00964	CDS	654				hypothetical protein
+DKOIFHOP_00965	gene	1101				
+DKOIFHOP_00965	CDS	1101				hypothetical protein
+DKOIFHOP_00966	gene	1632				
+DKOIFHOP_00966	CDS	1632				hypothetical protein
+DKOIFHOP_00967	gene	666				
+DKOIFHOP_00967	CDS	666				hypothetical protein
+DKOIFHOP_00968	gene	2784	cobQ			
+DKOIFHOP_00968	CDS	2784	cobQ			Cobyric acid synthase
+DKOIFHOP_00969	gene	2178	btuB_5			
+DKOIFHOP_00969	CDS	2178	btuB_5			Vitamin B12 transporter BtuB
+DKOIFHOP_00970	gene	2133	btuB_6			
+DKOIFHOP_00970	CDS	2133	btuB_6			Vitamin B12 transporter BtuB
+DKOIFHOP_00971	gene	1140	cbiKp			
+DKOIFHOP_00971	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+DKOIFHOP_00972	gene	1488				
+DKOIFHOP_00972	CDS	1488				hypothetical protein
+DKOIFHOP_00973	gene	198				
+DKOIFHOP_00973	CDS	198				hypothetical protein
+DKOIFHOP_00974	gene	1428	cysG_1			
+DKOIFHOP_00974	CDS	1428	cysG_1	4.99.1.4		Siroheme synthase
+DKOIFHOP_00975	gene	1233	cbiET			
+DKOIFHOP_00975	CDS	1233	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+DKOIFHOP_00976	gene	1767	cysG_2			
+DKOIFHOP_00976	CDS	1767	cysG_2	4.99.1.4		Siroheme synthase
+DKOIFHOP_00977	gene	2142	cbiD			
+DKOIFHOP_00977	CDS	2142	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+DKOIFHOP_00978	gene	1137				
+DKOIFHOP_00978	CDS	1137				hypothetical protein
+DKOIFHOP_00979	gene	1023	hmuU_2			
+DKOIFHOP_00979	CDS	1023	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+DKOIFHOP_00980	gene	810				
+DKOIFHOP_00980	CDS	810				hypothetical protein
+DKOIFHOP_00981	gene	2106	recD2_2			
+DKOIFHOP_00981	CDS	2106	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+DKOIFHOP_00982	gene	1002	korB_1			
+DKOIFHOP_00982	CDS	1002	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+DKOIFHOP_00983	gene	1851	korA_1			
+DKOIFHOP_00983	CDS	1851	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+DKOIFHOP_00984	gene	1614	pckA			
+DKOIFHOP_00984	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+DKOIFHOP_00985	gene	660	upp			
+DKOIFHOP_00985	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+DKOIFHOP_00986	gene	516	dps			
+DKOIFHOP_00986	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+DKOIFHOP_00987	gene	1764	arnT			
+DKOIFHOP_00987	CDS	1764	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+DKOIFHOP_00988	gene	1977	mdoB			
+DKOIFHOP_00988	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+DKOIFHOP_00989	gene	1851				
+DKOIFHOP_00989	CDS	1851				hypothetical protein
+DKOIFHOP_00990	gene	552				
+DKOIFHOP_00990	CDS	552				hypothetical protein
+DKOIFHOP_00991	gene	2712				
+DKOIFHOP_00991	CDS	2712				hypothetical protein
+DKOIFHOP_00992	gene	1455				
+DKOIFHOP_00992	CDS	1455				hypothetical protein
+DKOIFHOP_00993	gene	396				
+DKOIFHOP_00993	CDS	396				hypothetical protein
+DKOIFHOP_00994	gene	1641				
+DKOIFHOP_00994	CDS	1641				hypothetical protein
+DKOIFHOP_00995	gene	2802				
+DKOIFHOP_00995	CDS	2802				hypothetical protein
+DKOIFHOP_00996	gene	546				
+DKOIFHOP_00996	CDS	546				hypothetical protein
+DKOIFHOP_00997	gene	138				
+DKOIFHOP_00997	CDS	138				hypothetical protein
+DKOIFHOP_00998	gene	759				
+DKOIFHOP_00998	CDS	759				hypothetical protein
+DKOIFHOP_00999	gene	774				
+DKOIFHOP_00999	CDS	774				hypothetical protein
+DKOIFHOP_01000	gene	1053				
+DKOIFHOP_01000	CDS	1053				hypothetical protein
+DKOIFHOP_01001	gene	717				
+DKOIFHOP_01001	CDS	717				hypothetical protein
+DKOIFHOP_01002	gene	147				
+DKOIFHOP_01002	CDS	147				hypothetical protein
+DKOIFHOP_01003	gene	2313	cirA			
+DKOIFHOP_01003	CDS	2313	cirA		COG4771	Colicin I receptor
+DKOIFHOP_01004	gene	1329				
+DKOIFHOP_01004	CDS	1329				hypothetical protein
+DKOIFHOP_01005	gene	135				
+DKOIFHOP_01005	CDS	135				hypothetical protein
+DKOIFHOP_01006	gene	2175				
+DKOIFHOP_01006	CDS	2175				hypothetical protein
+DKOIFHOP_01007	gene	4485				
+DKOIFHOP_01007	CDS	4485				hypothetical protein
+DKOIFHOP_01008	gene	354				
+DKOIFHOP_01008	CDS	354				hypothetical protein
+DKOIFHOP_01009	gene	1230	lolE_1			
+DKOIFHOP_01009	CDS	1230	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+DKOIFHOP_01010	gene	336	rbfA			
+DKOIFHOP_01010	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+DKOIFHOP_01011	gene	273	hup_1			
+DKOIFHOP_01011	CDS	273	hup_1			DNA-binding protein HU
+DKOIFHOP_01012	gene	894				
+DKOIFHOP_01012	CDS	894				hypothetical protein
+DKOIFHOP_01013	gene	1089				
+DKOIFHOP_01013	CDS	1089				hypothetical protein
+DKOIFHOP_01014	gene	3063	secD			
+DKOIFHOP_01014	CDS	3063	secD			Protein translocase subunit SecD
+DKOIFHOP_01015	gene	189				
+DKOIFHOP_01015	CDS	189				hypothetical protein
+DKOIFHOP_01016	gene	1896				
+DKOIFHOP_01016	CDS	1896				hypothetical protein
+DKOIFHOP_01017	gene	804	xerC_2			
+DKOIFHOP_01017	CDS	804	xerC_2			Tyrosine recombinase XerC
+DKOIFHOP_01018	gene	1179				
+DKOIFHOP_01018	CDS	1179			COG3385	IS4 family transposase ISDar2
+DKOIFHOP_01019	gene	1374				
+DKOIFHOP_01019	CDS	1374				hypothetical protein
+DKOIFHOP_01020	gene	477				
+DKOIFHOP_01020	CDS	477				hypothetical protein
+DKOIFHOP_01021	gene	1506				
+DKOIFHOP_01021	CDS	1506				hypothetical protein
+DKOIFHOP_01022	gene	471				
+DKOIFHOP_01022	CDS	471				hypothetical protein
+DKOIFHOP_01023	gene	1026				
+DKOIFHOP_01023	CDS	1026				hypothetical protein
+DKOIFHOP_01024	gene	1518				
+DKOIFHOP_01024	CDS	1518		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+DKOIFHOP_01025	gene	2307				
+DKOIFHOP_01025	CDS	2307				hypothetical protein
+DKOIFHOP_01026	gene	144				
+DKOIFHOP_01026	CDS	144				hypothetical protein
+DKOIFHOP_01027	gene	76				
+DKOIFHOP_01027	tRNA	76				tRNA-Asn(gtt)
+DKOIFHOP_01028	gene	1734				
+DKOIFHOP_01028	CDS	1734				hypothetical protein
+DKOIFHOP_01029	gene	129				
+DKOIFHOP_01029	CDS	129				hypothetical protein
+DKOIFHOP_01030	gene	1179				
+DKOIFHOP_01030	CDS	1179				hypothetical protein
+DKOIFHOP_01031	gene	1356				
+DKOIFHOP_01031	CDS	1356				hypothetical protein
+DKOIFHOP_01032	gene	936				
+DKOIFHOP_01032	CDS	936				hypothetical protein
+DKOIFHOP_01033	gene	1566				
+DKOIFHOP_01033	CDS	1566				hypothetical protein
+DKOIFHOP_01034	gene	3327				
+DKOIFHOP_01034	CDS	3327				TonB-dependent receptor P26
+DKOIFHOP_01035	gene	291				
+DKOIFHOP_01035	CDS	291				hypothetical protein
+DKOIFHOP_01036	gene	606	rnhB			
+DKOIFHOP_01036	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+DKOIFHOP_01037	gene	1020				
+DKOIFHOP_01037	CDS	1020				hypothetical protein
+DKOIFHOP_01038	gene	2871				
+DKOIFHOP_01038	CDS	2871				hypothetical protein
+DKOIFHOP_01039	gene	2085				
+DKOIFHOP_01039	CDS	2085				hypothetical protein
+DKOIFHOP_01040	gene	507				
+DKOIFHOP_01040	CDS	507				hypothetical protein
+DKOIFHOP_01041	gene	2112	metG			
+DKOIFHOP_01041	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+DKOIFHOP_01042	gene	234				
+DKOIFHOP_01042	CDS	234				hypothetical protein
+DKOIFHOP_01043	gene	73				
+DKOIFHOP_01043	tRNA	73				tRNA-Arg(cct)
+DKOIFHOP_01044	gene	450				
+DKOIFHOP_01044	CDS	450				hypothetical protein
+DKOIFHOP_01045	gene	549				
+DKOIFHOP_01045	CDS	549				hypothetical protein
+DKOIFHOP_01046	gene	465	sigL			
+DKOIFHOP_01046	CDS	465	sigL		COG1595	ECF RNA polymerase sigma factor SigL
+DKOIFHOP_01047	gene	471				
+DKOIFHOP_01047	CDS	471				hypothetical protein
+DKOIFHOP_01048	gene	1353	sufS			
+DKOIFHOP_01048	CDS	1353	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+DKOIFHOP_01049	gene	5739				
+DKOIFHOP_01049	CDS	5739				hypothetical protein
+DKOIFHOP_01050	gene	231				
+DKOIFHOP_01050	CDS	231				hypothetical protein
+DKOIFHOP_01051	gene	828				
+DKOIFHOP_01051	CDS	828				hypothetical protein
+DKOIFHOP_01052	gene	453	yvbK			
+DKOIFHOP_01052	CDS	453	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+DKOIFHOP_01053	gene	504				
+DKOIFHOP_01053	CDS	504				hypothetical protein
+DKOIFHOP_01054	gene	2196				
+DKOIFHOP_01054	CDS	2196				hypothetical protein
+DKOIFHOP_01055	gene	411				
+DKOIFHOP_01055	CDS	411				hypothetical protein
+DKOIFHOP_01056	gene	1584				
+DKOIFHOP_01056	CDS	1584				hypothetical protein
+DKOIFHOP_01057	gene	1365	sufD			
+DKOIFHOP_01057	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+DKOIFHOP_01058	gene	756	sufC			
+DKOIFHOP_01058	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+DKOIFHOP_01059	gene	366				
+DKOIFHOP_01059	CDS	366				hypothetical protein
+DKOIFHOP_01060	gene	1458	sufB			
+DKOIFHOP_01060	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+DKOIFHOP_01061	gene	147				
+DKOIFHOP_01061	CDS	147				hypothetical protein
+DKOIFHOP_01062	gene	2868	infB			
+DKOIFHOP_01062	CDS	2868	infB			Translation initiation factor IF-2
+DKOIFHOP_01063	gene	1257	nusA			
+DKOIFHOP_01063	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+DKOIFHOP_01064	gene	465	rimP			
+DKOIFHOP_01064	CDS	465	rimP			Ribosome maturation factor RimP
+DKOIFHOP_01065	gene	540				
+DKOIFHOP_01065	CDS	540				hypothetical protein
+DKOIFHOP_01066	gene	534				
+DKOIFHOP_01066	CDS	534				hypothetical protein
+DKOIFHOP_01067	gene	2004				
+DKOIFHOP_01067	CDS	2004				hypothetical protein
+DKOIFHOP_01068	gene	705	cobB			
+DKOIFHOP_01068	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+DKOIFHOP_01069	gene	156				
+DKOIFHOP_01069	CDS	156				hypothetical protein
+DKOIFHOP_01070	gene	1188				
+DKOIFHOP_01070	CDS	1188				hypothetical protein
+DKOIFHOP_01071	gene	3633				
+DKOIFHOP_01071	CDS	3633				hypothetical protein
+DKOIFHOP_01072	gene	1263				
+DKOIFHOP_01072	CDS	1263				hypothetical protein
+DKOIFHOP_01073	gene	123				
+DKOIFHOP_01073	CDS	123				hypothetical protein
+DKOIFHOP_01074	gene	606	fklB			
+DKOIFHOP_01074	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+DKOIFHOP_01075	gene	879				
+DKOIFHOP_01075	CDS	879				hypothetical protein
+DKOIFHOP_01076	gene	3693				
+DKOIFHOP_01076	CDS	3693				hypothetical protein
+DKOIFHOP_01077	gene	1389	ampG			
+DKOIFHOP_01077	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+DKOIFHOP_01078	gene	909				
+DKOIFHOP_01078	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+DKOIFHOP_01079	gene	1044	aguA			
+DKOIFHOP_01079	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+DKOIFHOP_01080	gene	96				
+DKOIFHOP_01080	CDS	96				hypothetical protein
+DKOIFHOP_01081	gene	879				
+DKOIFHOP_01081	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+DKOIFHOP_01082	gene	840				
+DKOIFHOP_01082	CDS	840				hypothetical protein
+DKOIFHOP_01083	gene	969				
+DKOIFHOP_01083	CDS	969				hypothetical protein
+DKOIFHOP_01084	gene	189				
+DKOIFHOP_01084	CDS	189				hypothetical protein
+DKOIFHOP_01085	gene	471				
+DKOIFHOP_01085	CDS	471				hypothetical protein
+DKOIFHOP_01086	gene	1029				
+DKOIFHOP_01086	CDS	1029				hypothetical protein
+DKOIFHOP_01087	gene	477				
+DKOIFHOP_01087	CDS	477				hypothetical protein
+DKOIFHOP_01088	gene	777	pyrK_1			
+DKOIFHOP_01088	CDS	777	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+DKOIFHOP_01089	gene	912	pyrD			
+DKOIFHOP_01089	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+DKOIFHOP_01090	gene	1092	aroC			
+DKOIFHOP_01090	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+DKOIFHOP_01091	gene	600	slyD			
+DKOIFHOP_01091	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+DKOIFHOP_01092	gene	216				
+DKOIFHOP_01092	CDS	216				hypothetical protein
+DKOIFHOP_01093	gene	2214				
+DKOIFHOP_01093	CDS	2214				hypothetical protein
+DKOIFHOP_01094	gene	498				
+DKOIFHOP_01094	CDS	498			COG0716	Flavodoxin 1
+DKOIFHOP_01095	gene	363				
+DKOIFHOP_01095	CDS	363				hypothetical protein
+DKOIFHOP_01096	gene	1506				
+DKOIFHOP_01096	CDS	1506		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+DKOIFHOP_01097	gene	822	acr1			
+DKOIFHOP_01097	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+DKOIFHOP_01098	gene	123				
+DKOIFHOP_01098	CDS	123				hypothetical protein
+DKOIFHOP_01099	gene	174				
+DKOIFHOP_01099	CDS	174				hypothetical protein
+DKOIFHOP_01100	gene	285				
+DKOIFHOP_01100	CDS	285				hypothetical protein
+DKOIFHOP_01101	gene	408				
+DKOIFHOP_01101	CDS	408				hypothetical protein
+DKOIFHOP_01102	gene	462				
+DKOIFHOP_01102	CDS	462				hypothetical protein
+DKOIFHOP_01103	gene	456				
+DKOIFHOP_01103	CDS	456				hypothetical protein
+DKOIFHOP_01104	gene	954	qmcA			
+DKOIFHOP_01104	CDS	954	qmcA		COG0330	Protein QmcA
+DKOIFHOP_01105	gene	1086	wbpI			
+DKOIFHOP_01105	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+DKOIFHOP_01106	gene	927	oxyR			
+DKOIFHOP_01106	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+DKOIFHOP_01107	gene	585	sodB			
+DKOIFHOP_01107	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+DKOIFHOP_01108	gene	567	ahpC			
+DKOIFHOP_01108	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+DKOIFHOP_01109	gene	1560	ahpF			
+DKOIFHOP_01109	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+DKOIFHOP_01110	gene	1047	rlmN			
+DKOIFHOP_01110	CDS	1047	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+DKOIFHOP_01111	gene	978				
+DKOIFHOP_01111	CDS	978				hypothetical protein
+DKOIFHOP_01112	gene	1107	pdxA2			
+DKOIFHOP_01112	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+DKOIFHOP_01113	gene	1095				
+DKOIFHOP_01113	CDS	1095				hypothetical protein
+DKOIFHOP_01114	gene	1059				
+DKOIFHOP_01114	CDS	1059				hypothetical protein
+DKOIFHOP_01115	gene	1065	kdsA_1			
+DKOIFHOP_01115	CDS	1065	kdsA_1	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+DKOIFHOP_01116	gene	2325				
+DKOIFHOP_01116	CDS	2325				hypothetical protein
+DKOIFHOP_01117	gene	855	bepA_2			
+DKOIFHOP_01117	CDS	855	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+DKOIFHOP_01118	gene	114				
+DKOIFHOP_01118	CDS	114				hypothetical protein
+DKOIFHOP_01119	gene	474				
+DKOIFHOP_01119	CDS	474				hypothetical protein
+DKOIFHOP_01120	gene	918	rhaS_1			
+DKOIFHOP_01120	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+DKOIFHOP_01121	gene	258				
+DKOIFHOP_01121	CDS	258				hypothetical protein
+DKOIFHOP_01122	gene	876	pdxS			
+DKOIFHOP_01122	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+DKOIFHOP_01123	gene	546	pdxT			
+DKOIFHOP_01123	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+DKOIFHOP_01124	gene	1299				
+DKOIFHOP_01124	CDS	1299				hypothetical protein
+DKOIFHOP_01125	gene	192				
+DKOIFHOP_01125	CDS	192				hypothetical protein
+	repeat_region	892				
+DKOIFHOP_01126	gene	579				
+DKOIFHOP_01126	CDS	579				hypothetical protein
+DKOIFHOP_01127	gene	3429				
+DKOIFHOP_01127	CDS	3429				hypothetical protein
+DKOIFHOP_01128	gene	402				
+DKOIFHOP_01128	CDS	402				hypothetical protein
+DKOIFHOP_01129	gene	2127				
+DKOIFHOP_01129	CDS	2127			COG1629	putative TonB-dependent receptor
+DKOIFHOP_01130	gene	753				
+DKOIFHOP_01130	CDS	753				hypothetical protein
+DKOIFHOP_01131	gene	480				
+DKOIFHOP_01131	CDS	480				hypothetical protein
+DKOIFHOP_01132	gene	1341	ffh			
+DKOIFHOP_01132	CDS	1341	ffh		COG0541	Signal recognition particle protein
+DKOIFHOP_01133	gene	924	folD			
+DKOIFHOP_01133	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+DKOIFHOP_01134	gene	180				
+DKOIFHOP_01134	CDS	180				hypothetical protein
+DKOIFHOP_01135	gene	234	rsxB			
+DKOIFHOP_01135	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+DKOIFHOP_01136	gene	1083	korA_2			
+DKOIFHOP_01136	CDS	1083	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+DKOIFHOP_01137	gene	771	korB_2			
+DKOIFHOP_01137	CDS	771	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+DKOIFHOP_01138	gene	543				
+DKOIFHOP_01138	CDS	543				hypothetical protein
+DKOIFHOP_01139	gene	567				
+DKOIFHOP_01139	CDS	567				hypothetical protein
+DKOIFHOP_01140	gene	228				
+DKOIFHOP_01140	CDS	228				hypothetical protein
+DKOIFHOP_01141	gene	264				
+DKOIFHOP_01141	CDS	264				hypothetical protein
+DKOIFHOP_01142	gene	426				
+DKOIFHOP_01142	CDS	426				hypothetical protein
+DKOIFHOP_01143	gene	1227				
+DKOIFHOP_01143	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+DKOIFHOP_01144	gene	1377				
+DKOIFHOP_01144	CDS	1377				hypothetical protein
+DKOIFHOP_01145	gene	222				
+DKOIFHOP_01145	CDS	222				hypothetical protein
+DKOIFHOP_01146	gene	1866	deaD_1			
+DKOIFHOP_01146	CDS	1866	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+DKOIFHOP_01147	gene	672				
+DKOIFHOP_01147	CDS	672				hypothetical protein
+DKOIFHOP_01148	gene	594				
+DKOIFHOP_01148	CDS	594				hypothetical protein
+DKOIFHOP_01149	gene	168				
+DKOIFHOP_01149	CDS	168				hypothetical protein
+DKOIFHOP_01150	gene	513				
+DKOIFHOP_01150	CDS	513				hypothetical protein
+DKOIFHOP_01151	gene	756	frdB			
+DKOIFHOP_01151	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+DKOIFHOP_01152	gene	1983	frdA			
+DKOIFHOP_01152	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+DKOIFHOP_01153	gene	690				
+DKOIFHOP_01153	CDS	690				hypothetical protein
+DKOIFHOP_01154	gene	1953	mnmG_1			
+DKOIFHOP_01154	CDS	1953	mnmG_1		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+DKOIFHOP_01155	gene	531	apt_1			
+DKOIFHOP_01155	CDS	531	apt_1	2.4.2.7		Adenine phosphoribosyltransferase
+DKOIFHOP_01156	gene	1827	uvrC_1			
+DKOIFHOP_01156	CDS	1827	uvrC_1		COG0322	UvrABC system protein C
+DKOIFHOP_01157	gene	453	dtd_1			
+DKOIFHOP_01157	CDS	453	dtd_1	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+DKOIFHOP_01158	gene	450				
+DKOIFHOP_01158	CDS	450				hypothetical protein
+DKOIFHOP_01159	gene	891	deoC_1			
+DKOIFHOP_01159	CDS	891	deoC_1	4.1.2.4		Deoxyribose-phosphate aldolase
+DKOIFHOP_01160	gene	606				
+DKOIFHOP_01160	CDS	606				hypothetical protein
+DKOIFHOP_01161	gene	978	ispB			
+DKOIFHOP_01161	CDS	978	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+DKOIFHOP_01162	gene	2766	polA			
+DKOIFHOP_01162	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+DKOIFHOP_01163	gene	1131	capA			
+DKOIFHOP_01163	CDS	1131	capA			Capsule biosynthesis protein CapA
+DKOIFHOP_01164	gene	1575				
+DKOIFHOP_01164	CDS	1575				hypothetical protein
+DKOIFHOP_01165	gene	2628	mutS_2			
+DKOIFHOP_01165	CDS	2628	mutS_2		COG0249	DNA mismatch repair protein MutS
+DKOIFHOP_01166	gene	849	lgt			
+DKOIFHOP_01166	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+DKOIFHOP_01167	gene	1104	ychF			
+DKOIFHOP_01167	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+DKOIFHOP_01168	gene	615				
+DKOIFHOP_01168	CDS	615				hypothetical protein
+DKOIFHOP_01169	gene	408				
+DKOIFHOP_01169	CDS	408				hypothetical protein
+DKOIFHOP_01170	gene	633	pflA			
+DKOIFHOP_01170	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+DKOIFHOP_01171	gene	642				
+DKOIFHOP_01171	CDS	642				hypothetical protein
+DKOIFHOP_01172	gene	2874	leuS			
+DKOIFHOP_01172	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+DKOIFHOP_01173	gene	969				
+DKOIFHOP_01173	CDS	969				hypothetical protein
+DKOIFHOP_01174	gene	609				
+DKOIFHOP_01174	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+DKOIFHOP_01175	gene	162				
+DKOIFHOP_01175	CDS	162				hypothetical protein
+DKOIFHOP_01176	gene	117				
+DKOIFHOP_01176	CDS	117				hypothetical protein
+DKOIFHOP_01177	gene	894				
+DKOIFHOP_01177	CDS	894				hypothetical protein
+DKOIFHOP_01178	gene	2139				
+DKOIFHOP_01178	CDS	2139				hypothetical protein
+DKOIFHOP_01179	gene	2379				
+DKOIFHOP_01179	CDS	2379				hypothetical protein
+DKOIFHOP_01180	gene	1395				
+DKOIFHOP_01180	CDS	1395				hypothetical protein
+DKOIFHOP_01181	gene	990	nadA			
+DKOIFHOP_01181	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+DKOIFHOP_01182	gene	1098				
+DKOIFHOP_01182	CDS	1098				hypothetical protein
+DKOIFHOP_01183	gene	645				
+DKOIFHOP_01183	CDS	645				hypothetical protein
+DKOIFHOP_01184	gene	1506	rpoN			
+DKOIFHOP_01184	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+DKOIFHOP_01185	gene	630				
+DKOIFHOP_01185	CDS	630				hypothetical protein
+DKOIFHOP_01186	gene	507	purE			
+DKOIFHOP_01186	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+DKOIFHOP_01187	gene	1413	ispG			
+DKOIFHOP_01187	CDS	1413	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+DKOIFHOP_01188	gene	804				
+DKOIFHOP_01188	CDS	804				hypothetical protein
+DKOIFHOP_01189	gene	126				
+DKOIFHOP_01189	CDS	126				hypothetical protein
+DKOIFHOP_01190	gene	231				
+DKOIFHOP_01190	CDS	231				hypothetical protein
+DKOIFHOP_01191	gene	1203				
+DKOIFHOP_01191	CDS	1203				hypothetical protein
+DKOIFHOP_01192	gene	1311				
+DKOIFHOP_01192	CDS	1311				hypothetical protein
+DKOIFHOP_01193	gene	1716				
+DKOIFHOP_01193	CDS	1716				hypothetical protein
+DKOIFHOP_01194	gene	828				
+DKOIFHOP_01194	CDS	828				hypothetical protein
+DKOIFHOP_01195	gene	486				
+DKOIFHOP_01195	CDS	486				hypothetical protein
+DKOIFHOP_01196	gene	201				
+DKOIFHOP_01196	CDS	201				hypothetical protein
+DKOIFHOP_01197	gene	489				
+DKOIFHOP_01197	CDS	489				hypothetical protein
+DKOIFHOP_01198	gene	86				
+DKOIFHOP_01198	tRNA	86				tRNA-Ser(tga)
+DKOIFHOP_01199	gene	2610	mutS2			
+DKOIFHOP_01199	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+DKOIFHOP_01200	gene	441				
+DKOIFHOP_01200	CDS	441				hypothetical protein
+DKOIFHOP_01201	gene	366				
+DKOIFHOP_01201	CDS	366				hypothetical protein
+DKOIFHOP_01202	gene	561	sigW			
+DKOIFHOP_01202	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+DKOIFHOP_01203	gene	1536				
+DKOIFHOP_01203	CDS	1536				hypothetical protein
+DKOIFHOP_01204	gene	366				
+DKOIFHOP_01204	CDS	366				hypothetical protein
+DKOIFHOP_01205	gene	915	rnz			
+DKOIFHOP_01205	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+DKOIFHOP_01206	gene	564				
+DKOIFHOP_01206	CDS	564				hypothetical protein
+DKOIFHOP_01207	gene	828	mazG			
+DKOIFHOP_01207	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+DKOIFHOP_01208	gene	2739	valS			
+DKOIFHOP_01208	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+DKOIFHOP_01209	gene	1188				
+DKOIFHOP_01209	CDS	1188				hypothetical protein
+DKOIFHOP_01210	gene	74				
+DKOIFHOP_01210	tRNA	74				tRNA-Pro(tgg)
+DKOIFHOP_01211	gene	279				
+DKOIFHOP_01211	CDS	279				hypothetical protein
+DKOIFHOP_01212	gene	123				
+DKOIFHOP_01212	CDS	123				hypothetical protein
+DKOIFHOP_01213	gene	756	kdsA_2			
+DKOIFHOP_01213	CDS	756	kdsA_2	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+DKOIFHOP_01214	gene	975	kdsD			
+DKOIFHOP_01214	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+DKOIFHOP_01215	gene	1227	cls			
+DKOIFHOP_01215	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+DKOIFHOP_01216	gene	2196				
+DKOIFHOP_01216	CDS	2196				hypothetical protein
+DKOIFHOP_01217	gene	912				
+DKOIFHOP_01217	CDS	912				hypothetical protein
+DKOIFHOP_01218	gene	1437	radA			
+DKOIFHOP_01218	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+DKOIFHOP_01219	gene	1932				
+DKOIFHOP_01219	CDS	1932				hypothetical protein
+DKOIFHOP_01220	gene	483				
+DKOIFHOP_01220	CDS	483				hypothetical protein
+DKOIFHOP_01221	gene	1518	dtpT			
+DKOIFHOP_01221	CDS	1518	dtpT		COG3104	Di-/tripeptide transporter
+DKOIFHOP_01222	gene	753				
+DKOIFHOP_01222	CDS	753				hypothetical protein
+DKOIFHOP_01223	gene	1356				
+DKOIFHOP_01223	CDS	1356				hypothetical protein
+DKOIFHOP_01224	gene	720				
+DKOIFHOP_01224	CDS	720				hypothetical protein
+DKOIFHOP_01225	gene	2868	uvrA_1			
+DKOIFHOP_01225	CDS	2868	uvrA_1		COG0178	UvrABC system protein A
+DKOIFHOP_01226	gene	1041	galE			
+DKOIFHOP_01226	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+DKOIFHOP_01227	gene	603	rnfA			
+DKOIFHOP_01227	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+DKOIFHOP_01228	gene	591	rnfE			
+DKOIFHOP_01228	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+DKOIFHOP_01229	gene	672	rsxG			
+DKOIFHOP_01229	CDS	672	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+DKOIFHOP_01230	gene	1035	rnfD			
+DKOIFHOP_01230	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+DKOIFHOP_01231	gene	1353	rnfC			
+DKOIFHOP_01231	CDS	1353	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+DKOIFHOP_01232	gene	903	rnfB			
+DKOIFHOP_01232	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+DKOIFHOP_01233	gene	435				
+DKOIFHOP_01233	CDS	435				hypothetical protein
+DKOIFHOP_01234	gene	444				
+DKOIFHOP_01234	CDS	444				hypothetical protein
+DKOIFHOP_01235	gene	1488				
+DKOIFHOP_01235	CDS	1488				hypothetical protein
+DKOIFHOP_01236	gene	73				
+DKOIFHOP_01236	tRNA	73				tRNA-Glu(ctc)
+DKOIFHOP_01237	gene	88				
+DKOIFHOP_01237	tRNA	88				tRNA-Ser(gct)
+DKOIFHOP_01238	gene	1200				
+DKOIFHOP_01238	CDS	1200				hypothetical protein
+DKOIFHOP_01239	gene	645	btuD_1			
+DKOIFHOP_01239	CDS	645	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+DKOIFHOP_01240	gene	1359				
+DKOIFHOP_01240	CDS	1359				hypothetical protein
+DKOIFHOP_01241	gene	723	rsmE_2			
+DKOIFHOP_01241	CDS	723	rsmE_2	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+DKOIFHOP_01242	gene	585				
+DKOIFHOP_01242	CDS	585				hypothetical protein
+DKOIFHOP_01243	gene	1347	nupG_2			
+DKOIFHOP_01243	CDS	1347	nupG_2			Nucleoside permease NupG
+DKOIFHOP_01244	gene	89				
+DKOIFHOP_01244	tRNA	89				tRNA-Ser(cga)
+DKOIFHOP_01245	gene	588	yigZ_2			
+DKOIFHOP_01245	CDS	588	yigZ_2		COG1739	IMPACT family member YigZ
+DKOIFHOP_01246	gene	1248				
+DKOIFHOP_01246	CDS	1248				hypothetical protein
+DKOIFHOP_01247	gene	918				
+DKOIFHOP_01247	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+DKOIFHOP_01248	gene	1068	serC_2			
+DKOIFHOP_01248	CDS	1068	serC_2	2.6.1.52	COG1932	Phosphoserine aminotransferase
+DKOIFHOP_01249	gene	795				
+DKOIFHOP_01249	CDS	795				hypothetical protein
+DKOIFHOP_01250	gene	1896	purF_2			
+DKOIFHOP_01250	CDS	1896	purF_2	2.4.2.14		Amidophosphoribosyltransferase
+DKOIFHOP_01251	gene	1077	carA			
+DKOIFHOP_01251	CDS	1077	carA	6.3.5.5		Carbamoyl-phosphate synthase small chain
+DKOIFHOP_01252	gene	3228	carB_2			
+DKOIFHOP_01252	CDS	3228	carB_2	6.3.5.5		Carbamoyl-phosphate synthase large chain
+DKOIFHOP_01253	gene	177				
+DKOIFHOP_01253	CDS	177				hypothetical protein
+DKOIFHOP_01254	gene	1338	mtaB_2			
+DKOIFHOP_01254	CDS	1338	mtaB_2	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+DKOIFHOP_01255	gene	1302				
+DKOIFHOP_01255	CDS	1302				hypothetical protein
+DKOIFHOP_01256	gene	387				
+DKOIFHOP_01256	CDS	387				hypothetical protein
+DKOIFHOP_01257	gene	321				
+DKOIFHOP_01257	CDS	321				hypothetical protein
+DKOIFHOP_01258	gene	861				
+DKOIFHOP_01258	CDS	861				hypothetical protein
+DKOIFHOP_01259	gene	1920	dnaK			
+DKOIFHOP_01259	CDS	1920	dnaK		COG0443	Chaperone protein DnaK
+DKOIFHOP_01260	gene	951				
+DKOIFHOP_01260	CDS	951				hypothetical protein
+DKOIFHOP_01261	gene	996				
+DKOIFHOP_01261	CDS	996				hypothetical protein
+DKOIFHOP_01262	gene	774	trmB			
+DKOIFHOP_01262	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+DKOIFHOP_01263	gene	2214				
+DKOIFHOP_01263	CDS	2214				hypothetical protein
+DKOIFHOP_01264	gene	1086				
+DKOIFHOP_01264	CDS	1086				hypothetical protein
+DKOIFHOP_01265	gene	1245	ybhR_1			
+DKOIFHOP_01265	CDS	1245	ybhR_1		COG0842	putative multidrug ABC transporter permease YbhR
+DKOIFHOP_01266	gene	1182				
+DKOIFHOP_01266	CDS	1182				hypothetical protein
+DKOIFHOP_01267	gene	987	emrA			
+DKOIFHOP_01267	CDS	987	emrA			Colistin resistance protein EmrA
+DKOIFHOP_01268	gene	1482				
+DKOIFHOP_01268	CDS	1482				hypothetical protein
+DKOIFHOP_01269	gene	873				
+DKOIFHOP_01269	CDS	873				hypothetical protein
+DKOIFHOP_01270	gene	216				
+DKOIFHOP_01270	CDS	216				hypothetical protein
+DKOIFHOP_01271	gene	1566	cydA			
+DKOIFHOP_01271	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+DKOIFHOP_01272	gene	1143	cydB			
+DKOIFHOP_01272	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+DKOIFHOP_01273	gene	963	manA			
+DKOIFHOP_01273	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+DKOIFHOP_01274	gene	1458	trkH			
+DKOIFHOP_01274	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+DKOIFHOP_01275	gene	1353	trkA			
+DKOIFHOP_01275	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+DKOIFHOP_01276	gene	2082	dxs			
+DKOIFHOP_01276	CDS	2082	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+DKOIFHOP_01277	gene	1098	apbC			
+DKOIFHOP_01277	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+DKOIFHOP_01278	gene	768				
+DKOIFHOP_01278	CDS	768				hypothetical protein
+DKOIFHOP_01279	gene	678	walR			
+DKOIFHOP_01279	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+DKOIFHOP_01280	gene	1686				
+DKOIFHOP_01280	CDS	1686				hypothetical protein
+DKOIFHOP_01281	gene	741				
+DKOIFHOP_01281	CDS	741				hypothetical protein
+DKOIFHOP_01282	gene	1470				
+DKOIFHOP_01282	CDS	1470				hypothetical protein
+DKOIFHOP_01283	gene	483				
+DKOIFHOP_01283	CDS	483				hypothetical protein
+DKOIFHOP_01284	gene	1500				
+DKOIFHOP_01284	CDS	1500				hypothetical protein
+DKOIFHOP_01285	gene	1023				
+DKOIFHOP_01285	CDS	1023				hypothetical protein
+DKOIFHOP_01286	gene	180				
+DKOIFHOP_01286	CDS	180				hypothetical protein
+DKOIFHOP_01287	gene	3594				
+DKOIFHOP_01287	CDS	3594				hypothetical protein
+DKOIFHOP_01288	gene	177				
+DKOIFHOP_01288	CDS	177				hypothetical protein
+DKOIFHOP_01289	gene	1191				
+DKOIFHOP_01289	CDS	1191				hypothetical protein
+DKOIFHOP_01290	gene	885	pfkB_2			
+DKOIFHOP_01290	CDS	885	pfkB_2	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+DKOIFHOP_01291	gene	1161				
+DKOIFHOP_01291	CDS	1161				hypothetical protein
+DKOIFHOP_01292	gene	1674				
+DKOIFHOP_01292	CDS	1674				hypothetical protein
+DKOIFHOP_01293	gene	624				
+DKOIFHOP_01293	CDS	624				hypothetical protein
+DKOIFHOP_01294	gene	2343				
+DKOIFHOP_01294	CDS	2343				hypothetical protein
+DKOIFHOP_01295	gene	1185				
+DKOIFHOP_01295	CDS	1185				hypothetical protein
+DKOIFHOP_01296	gene	1713				
+DKOIFHOP_01296	CDS	1713				SusD-like protein
+DKOIFHOP_01297	gene	3075				
+DKOIFHOP_01297	CDS	3075				TonB-dependent receptor P3
+DKOIFHOP_01298	gene	1629	rhaS_2			
+DKOIFHOP_01298	CDS	1629	rhaS_2			HTH-type transcriptional activator RhaS
+DKOIFHOP_01299	gene	273				
+DKOIFHOP_01299	CDS	273				hypothetical protein
+DKOIFHOP_01300	gene	1497				
+DKOIFHOP_01300	CDS	1497				hypothetical protein
+DKOIFHOP_01301	gene	636				
+DKOIFHOP_01301	CDS	636				hypothetical protein
+DKOIFHOP_01302	gene	630				
+DKOIFHOP_01302	CDS	630				hypothetical protein
+DKOIFHOP_01303	gene	321				
+DKOIFHOP_01303	CDS	321				hypothetical protein
+DKOIFHOP_01304	gene	1089	trpS2			
+DKOIFHOP_01304	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+DKOIFHOP_01305	gene	4329	rpoC			
+DKOIFHOP_01305	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+DKOIFHOP_01306	gene	3813	rpoB			
+DKOIFHOP_01306	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+DKOIFHOP_01307	gene	378	rplL			
+DKOIFHOP_01307	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+DKOIFHOP_01308	gene	516	rplJ			
+DKOIFHOP_01308	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+DKOIFHOP_01309	gene	693	rplA			
+DKOIFHOP_01309	CDS	693	rplA			50S ribosomal protein L1
+DKOIFHOP_01310	gene	438	rplK			
+DKOIFHOP_01310	CDS	438	rplK			50S ribosomal protein L11
+DKOIFHOP_01311	gene	543	nusG			
+DKOIFHOP_01311	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+DKOIFHOP_01312	gene	74				
+DKOIFHOP_01312	tRNA	74				tRNA-Trp(cca)
+DKOIFHOP_01313	gene	1185	tufB			
+DKOIFHOP_01313	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+DKOIFHOP_01314	gene	73				
+DKOIFHOP_01314	tRNA	73				tRNA-Thr(ggt)
+DKOIFHOP_01315	gene	74				
+DKOIFHOP_01315	tRNA	74				tRNA-Gly(tcc)
+DKOIFHOP_01316	gene	84				
+DKOIFHOP_01316	tRNA	84				tRNA-Tyr(gta)
+DKOIFHOP_01317	gene	75				
+DKOIFHOP_01317	tRNA	75				tRNA-Thr(tgt)
+DKOIFHOP_01318	gene	300	hpf			
+DKOIFHOP_01318	CDS	300	hpf			Ribosome hibernation promoting factor
+DKOIFHOP_01319	gene	882	xerD_2			
+DKOIFHOP_01319	CDS	882	xerD_2			Tyrosine recombinase XerD
+DKOIFHOP_01320	gene	192				
+DKOIFHOP_01320	CDS	192				hypothetical protein
+DKOIFHOP_01321	gene	207				
+DKOIFHOP_01321	CDS	207				hypothetical protein
+DKOIFHOP_01322	gene	1830				
+DKOIFHOP_01322	CDS	1830				hypothetical protein
+DKOIFHOP_01323	gene	111				
+DKOIFHOP_01323	CDS	111				hypothetical protein
+DKOIFHOP_01324	gene	1788				
+DKOIFHOP_01324	CDS	1788				hypothetical protein
+DKOIFHOP_01325	gene	1917				
+DKOIFHOP_01325	CDS	1917				hypothetical protein
+DKOIFHOP_01326	gene	1104				
+DKOIFHOP_01326	CDS	1104				hypothetical protein
+DKOIFHOP_01327	gene	1104				
+DKOIFHOP_01327	CDS	1104				hypothetical protein
+DKOIFHOP_01328	gene	1734				
+DKOIFHOP_01328	CDS	1734				hypothetical protein
+DKOIFHOP_01329	gene	1686	dauA			
+DKOIFHOP_01329	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+DKOIFHOP_01330	gene	1305				
+DKOIFHOP_01330	CDS	1305				hypothetical protein
+DKOIFHOP_01331	gene	159				
+DKOIFHOP_01331	CDS	159				hypothetical protein
+DKOIFHOP_01332	gene	993	mdh			
+DKOIFHOP_01332	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+DKOIFHOP_01333	gene	510				
+DKOIFHOP_01333	CDS	510				hypothetical protein
+DKOIFHOP_01334	gene	411				
+DKOIFHOP_01334	CDS	411				hypothetical protein
+DKOIFHOP_01335	gene	2538				
+DKOIFHOP_01335	CDS	2538				hypothetical protein
+DKOIFHOP_01336	gene	1002				
+DKOIFHOP_01336	CDS	1002				hypothetical protein
+DKOIFHOP_01337	gene	837				
+DKOIFHOP_01337	CDS	837				hypothetical protein
+DKOIFHOP_01338	gene	1413				
+DKOIFHOP_01338	CDS	1413				hypothetical protein
+DKOIFHOP_01339	gene	399				
+DKOIFHOP_01339	CDS	399			COG0537	putative HIT-like protein
+DKOIFHOP_01340	gene	465	greA			
+DKOIFHOP_01340	CDS	465	greA		COG0782	Transcription elongation factor GreA
+DKOIFHOP_01341	gene	75				
+DKOIFHOP_01341	tRNA	75				tRNA-Ala(ggc)
+DKOIFHOP_01342	gene	726				
+DKOIFHOP_01342	CDS	726				hypothetical protein
+DKOIFHOP_01343	gene	138				
+DKOIFHOP_01343	CDS	138				hypothetical protein
+DKOIFHOP_01344	gene	1032	cobD_1			
+DKOIFHOP_01344	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+DKOIFHOP_01345	gene	942	cobD_2			
+DKOIFHOP_01345	CDS	942	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+DKOIFHOP_01346	gene	573				
+DKOIFHOP_01346	CDS	573				hypothetical protein
+DKOIFHOP_01347	gene	2130				
+DKOIFHOP_01347	CDS	2130				hypothetical protein
+DKOIFHOP_01348	gene	825				
+DKOIFHOP_01348	CDS	825				hypothetical protein
+DKOIFHOP_01349	gene	696	mprA			
+DKOIFHOP_01349	CDS	696	mprA		COG0745	Response regulator MprA
+DKOIFHOP_01350	gene	1569	sasA_2			
+DKOIFHOP_01350	CDS	1569	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+DKOIFHOP_01351	gene	993				
+DKOIFHOP_01351	CDS	993				hypothetical protein
+DKOIFHOP_01352	gene	864				
+DKOIFHOP_01352	CDS	864				hypothetical protein
+DKOIFHOP_01353	gene	222				
+DKOIFHOP_01353	CDS	222				hypothetical protein
+DKOIFHOP_01354	gene	555	cobO			
+DKOIFHOP_01354	CDS	555	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+DKOIFHOP_01355	gene	606				
+DKOIFHOP_01355	CDS	606				hypothetical protein
+DKOIFHOP_01356	gene	309				
+DKOIFHOP_01356	CDS	309				hypothetical protein
+DKOIFHOP_01357	gene	399				
+DKOIFHOP_01357	CDS	399				hypothetical protein
+DKOIFHOP_01358	gene	1035				
+DKOIFHOP_01358	CDS	1035				hypothetical protein
+DKOIFHOP_01359	gene	924				
+DKOIFHOP_01359	CDS	924				hypothetical protein
+DKOIFHOP_01360	gene	618				
+DKOIFHOP_01360	CDS	618				hypothetical protein
+DKOIFHOP_01361	gene	1356				
+DKOIFHOP_01361	CDS	1356				hypothetical protein
+DKOIFHOP_01362	gene	972	ravA			
+DKOIFHOP_01362	CDS	972	ravA	3.6.3.-		ATPase RavA
+DKOIFHOP_01363	gene	1314				
+DKOIFHOP_01363	CDS	1314				hypothetical protein
+DKOIFHOP_01364	gene	642	gph_2			
+DKOIFHOP_01364	CDS	642	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+DKOIFHOP_01365	gene	1326				
+DKOIFHOP_01365	CDS	1326				hypothetical protein
+DKOIFHOP_01366	gene	606	ribE			
+DKOIFHOP_01366	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+DKOIFHOP_01367	gene	1272	apgM			
+DKOIFHOP_01367	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+DKOIFHOP_01368	gene	636				
+DKOIFHOP_01368	CDS	636				hypothetical protein
+DKOIFHOP_01369	gene	1365	bepA_3			
+DKOIFHOP_01369	CDS	1365	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+DKOIFHOP_01370	gene	1707	glnS			
+DKOIFHOP_01370	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+DKOIFHOP_01371	gene	309				
+DKOIFHOP_01371	CDS	309				hypothetical protein
+DKOIFHOP_01372	gene	1026	mltG			
+DKOIFHOP_01372	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+DKOIFHOP_01373	gene	1386				
+DKOIFHOP_01373	CDS	1386				hypothetical protein
+DKOIFHOP_01374	gene	432				
+DKOIFHOP_01374	CDS	432				hypothetical protein
+DKOIFHOP_01375	gene	2040	topB			
+DKOIFHOP_01375	CDS	2040	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+DKOIFHOP_01376	gene	738	lutA			
+DKOIFHOP_01376	CDS	738	lutA		COG0247	Lactate utilization protein A
+DKOIFHOP_01377	gene	1371	lutB			
+DKOIFHOP_01377	CDS	1371	lutB		COG1139	Lactate utilization protein B
+DKOIFHOP_01378	gene	585				
+DKOIFHOP_01378	CDS	585				hypothetical protein
+DKOIFHOP_01379	gene	549				
+DKOIFHOP_01379	CDS	549				hypothetical protein
+DKOIFHOP_01380	gene	537	sigE			
+DKOIFHOP_01380	CDS	537	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+DKOIFHOP_01381	gene	1242				
+DKOIFHOP_01381	CDS	1242				hypothetical protein
+DKOIFHOP_01382	gene	1848				
+DKOIFHOP_01382	CDS	1848				hypothetical protein
+DKOIFHOP_01383	gene	1239	fdtB			
+DKOIFHOP_01383	CDS	1239	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+DKOIFHOP_01384	gene	939				
+DKOIFHOP_01384	CDS	939				hypothetical protein
+DKOIFHOP_01385	gene	411	fdtA			
+DKOIFHOP_01385	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+DKOIFHOP_01386	gene	1134	rfbB			
+DKOIFHOP_01386	CDS	1134	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+DKOIFHOP_01387	gene	630	cmk_1			
+DKOIFHOP_01387	CDS	630	cmk_1	2.7.4.25		Cytidylate kinase
+DKOIFHOP_01388	gene	1404	mepA			
+DKOIFHOP_01388	CDS	1404	mepA			Multidrug export protein MepA
+DKOIFHOP_01389	gene	1323	xseA			
+DKOIFHOP_01389	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+DKOIFHOP_01390	gene	171	xseB			
+DKOIFHOP_01390	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+DKOIFHOP_01391	gene	1023	ilvE			
+DKOIFHOP_01391	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+DKOIFHOP_01392	gene	1431	pepC			
+DKOIFHOP_01392	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+DKOIFHOP_01393	gene	900	ddh			
+DKOIFHOP_01393	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+DKOIFHOP_01394	gene	606	ruvA			
+DKOIFHOP_01394	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+DKOIFHOP_01395	gene	7554				
+DKOIFHOP_01395	CDS	7554				hypothetical protein
+DKOIFHOP_01396	gene	1533	pafA			
+DKOIFHOP_01396	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+DKOIFHOP_01397	gene	162				
+DKOIFHOP_01397	CDS	162				hypothetical protein
+DKOIFHOP_01398	gene	336				
+DKOIFHOP_01398	CDS	336				hypothetical protein
+DKOIFHOP_01399	gene	1401	algC_1			
+DKOIFHOP_01399	CDS	1401	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+DKOIFHOP_01400	gene	642				
+DKOIFHOP_01400	CDS	642				hypothetical protein
+DKOIFHOP_01401	gene	138				
+DKOIFHOP_01401	CDS	138				hypothetical protein
+DKOIFHOP_01402	gene	873	carD			
+DKOIFHOP_01402	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+DKOIFHOP_01403	gene	1026	carE			
+DKOIFHOP_01403	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+DKOIFHOP_01404	gene	1725	caiA			
+DKOIFHOP_01404	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+DKOIFHOP_01405	gene	666				
+DKOIFHOP_01405	CDS	666				hypothetical protein
+DKOIFHOP_01406	gene	825				
+DKOIFHOP_01406	CDS	825				hypothetical protein
+DKOIFHOP_01407	gene	147				
+DKOIFHOP_01407	CDS	147				hypothetical protein
+DKOIFHOP_01408	gene	89				
+DKOIFHOP_01408	tRNA	89				tRNA-Ser(gga)
+DKOIFHOP_01409	gene	882	dtd3			
+DKOIFHOP_01409	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+DKOIFHOP_01410	gene	699				
+DKOIFHOP_01410	CDS	699				hypothetical protein
+DKOIFHOP_01411	gene	975				
+DKOIFHOP_01411	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+DKOIFHOP_01412	gene	720				
+DKOIFHOP_01412	CDS	720				hypothetical protein
+DKOIFHOP_01413	gene	951				
+DKOIFHOP_01413	CDS	951				hypothetical protein
+DKOIFHOP_01414	gene	2682	parC			
+DKOIFHOP_01414	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+DKOIFHOP_01415	gene	861				
+DKOIFHOP_01415	CDS	861				hypothetical protein
+DKOIFHOP_01416	gene	1005				
+DKOIFHOP_01416	CDS	1005				hypothetical protein
+DKOIFHOP_01417	gene	828	btuD_2			
+DKOIFHOP_01417	CDS	828	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+DKOIFHOP_01418	gene	83				
+DKOIFHOP_01418	tRNA	83				tRNA-Leu(tag)
+DKOIFHOP_01419	gene	861	ispH			
+DKOIFHOP_01419	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+DKOIFHOP_01420	gene	1107				
+DKOIFHOP_01420	CDS	1107		3.6.-.-	COG1703	putative GTPase
+DKOIFHOP_01421	gene	1065				
+DKOIFHOP_01421	CDS	1065				hypothetical protein
+DKOIFHOP_01422	gene	5553				
+DKOIFHOP_01422	CDS	5553				hypothetical protein
+DKOIFHOP_01423	gene	453	bcp			
+DKOIFHOP_01423	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+DKOIFHOP_01424	gene	2028				
+DKOIFHOP_01424	CDS	2028				hypothetical protein
+DKOIFHOP_01425	gene	2106	f1pep1			
+DKOIFHOP_01425	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+DKOIFHOP_01426	gene	765				
+DKOIFHOP_01426	CDS	765				hypothetical protein
+DKOIFHOP_01427	gene	744				
+DKOIFHOP_01427	CDS	744				hypothetical protein
+DKOIFHOP_01428	gene	2601	clpB1			
+DKOIFHOP_01428	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+DKOIFHOP_01429	gene	1257				
+DKOIFHOP_01429	CDS	1257				hypothetical protein
+DKOIFHOP_01430	gene	2181	recQ			
+DKOIFHOP_01430	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+DKOIFHOP_01431	gene	1230	clpX			
+DKOIFHOP_01431	CDS	1230	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+DKOIFHOP_01432	gene	666	clpP			
+DKOIFHOP_01432	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+DKOIFHOP_01433	gene	1356	tig			
+DKOIFHOP_01433	CDS	1356	tig	5.2.1.8		Trigger factor
+DKOIFHOP_01434	gene	3099				
+DKOIFHOP_01434	CDS	3099				hypothetical protein
+DKOIFHOP_01435	gene	582	resA_4			
+DKOIFHOP_01435	CDS	582	resA_4			Thiol-disulfide oxidoreductase ResA
+DKOIFHOP_01436	gene	939	prs			
+DKOIFHOP_01436	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+DKOIFHOP_01437	gene	609				
+DKOIFHOP_01437	CDS	609				hypothetical protein
+DKOIFHOP_01438	gene	888	lptB_2			
+DKOIFHOP_01438	CDS	888	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+DKOIFHOP_01439	gene	564				
+DKOIFHOP_01439	CDS	564				hypothetical protein
+DKOIFHOP_01440	gene	747	mlaE			
+DKOIFHOP_01440	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+DKOIFHOP_01441	gene	777	mkl			
+DKOIFHOP_01441	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+DKOIFHOP_01442	gene	399				
+DKOIFHOP_01442	CDS	399				hypothetical protein
+DKOIFHOP_01443	gene	1317	der			
+DKOIFHOP_01443	CDS	1317	der		COG1160	GTPase Der
+DKOIFHOP_01444	gene	1056	era			
+DKOIFHOP_01444	CDS	1056	era		COG1159	GTPase Era
+DKOIFHOP_01445	gene	1011	fabH			
+DKOIFHOP_01445	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+DKOIFHOP_01446	gene	189	rpmF			
+DKOIFHOP_01446	CDS	189	rpmF			50S ribosomal protein L32
+DKOIFHOP_01447	gene	522				
+DKOIFHOP_01447	CDS	522				hypothetical protein
+DKOIFHOP_01448	gene	627				
+DKOIFHOP_01448	CDS	627				hypothetical protein
+DKOIFHOP_01449	gene	1440				
+DKOIFHOP_01449	CDS	1440				hypothetical protein
+DKOIFHOP_01450	gene	360				
+DKOIFHOP_01450	CDS	360				hypothetical protein
+DKOIFHOP_01451	gene	126				
+DKOIFHOP_01451	CDS	126				hypothetical protein
+DKOIFHOP_01452	gene	1164	sasA_3			
+DKOIFHOP_01452	CDS	1164	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+DKOIFHOP_01453	gene	1542				
+DKOIFHOP_01453	CDS	1542				hypothetical protein
+DKOIFHOP_01454	gene	1197				
+DKOIFHOP_01454	CDS	1197				hypothetical protein
+DKOIFHOP_01455	gene	1005				
+DKOIFHOP_01455	CDS	1005				hypothetical protein
+DKOIFHOP_01456	gene	738				
+DKOIFHOP_01456	CDS	738				hypothetical protein
+DKOIFHOP_01457	gene	309				
+DKOIFHOP_01457	CDS	309				hypothetical protein
+DKOIFHOP_01458	gene	2064				
+DKOIFHOP_01458	CDS	2064				hypothetical protein
+DKOIFHOP_01459	gene	399				
+DKOIFHOP_01459	CDS	399				hypothetical protein
+DKOIFHOP_01460	gene	417				
+DKOIFHOP_01460	CDS	417				hypothetical protein
+DKOIFHOP_01461	gene	330				
+DKOIFHOP_01461	CDS	330				hypothetical protein
+DKOIFHOP_01462	gene	450				
+DKOIFHOP_01462	CDS	450				hypothetical protein
+DKOIFHOP_01463	gene	1452				
+DKOIFHOP_01463	CDS	1452				hypothetical protein
+DKOIFHOP_01464	gene	567	resA_5			
+DKOIFHOP_01464	CDS	567	resA_5			Thiol-disulfide oxidoreductase ResA
+DKOIFHOP_01465	gene	534	maa			
+DKOIFHOP_01465	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+DKOIFHOP_01466	gene	483				
+DKOIFHOP_01466	CDS	483				hypothetical protein
+DKOIFHOP_01467	gene	498				
+DKOIFHOP_01467	CDS	498				hypothetical protein
+DKOIFHOP_01468	gene	477				
+DKOIFHOP_01468	CDS	477				hypothetical protein
+DKOIFHOP_01469	gene	807	tolQ_2			
+DKOIFHOP_01469	CDS	807	tolQ_2			Tol-Pal system protein TolQ
+DKOIFHOP_01470	gene	486	asnC_1			
+DKOIFHOP_01470	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+DKOIFHOP_01471	gene	135				
+DKOIFHOP_01471	CDS	135				hypothetical protein
+DKOIFHOP_01472	gene	486	dfrA			
+DKOIFHOP_01472	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+DKOIFHOP_01473	gene	795	thyA			
+DKOIFHOP_01473	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+DKOIFHOP_01474	gene	1410	rsmF			
+DKOIFHOP_01474	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+DKOIFHOP_01475	gene	777				
+DKOIFHOP_01475	CDS	777				hypothetical protein
+DKOIFHOP_01476	gene	186				
+DKOIFHOP_01476	CDS	186				hypothetical protein
+DKOIFHOP_01477	gene	543	algU			
+DKOIFHOP_01477	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+DKOIFHOP_01478	gene	360				
+DKOIFHOP_01478	CDS	360				hypothetical protein
+DKOIFHOP_01479	gene	2067	pal_2			
+DKOIFHOP_01479	CDS	2067	pal_2			Peptidoglycan-associated lipoprotein
+DKOIFHOP_01480	gene	114				
+DKOIFHOP_01480	CDS	114				hypothetical protein
+DKOIFHOP_01481	gene	519				
+DKOIFHOP_01481	CDS	519				hypothetical protein
+DKOIFHOP_01482	gene	981	glkA			
+DKOIFHOP_01482	CDS	981	glkA	2.7.1.2		Glucokinase
+DKOIFHOP_01483	gene	690				
+DKOIFHOP_01483	CDS	690				hypothetical protein
+DKOIFHOP_01484	gene	579				
+DKOIFHOP_01484	CDS	579				hypothetical protein
+DKOIFHOP_01485	gene	858	rmlD			
+DKOIFHOP_01485	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+DKOIFHOP_01486	gene	1593	prfC			
+DKOIFHOP_01486	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+DKOIFHOP_01487	gene	1038				
+DKOIFHOP_01487	CDS	1038				hypothetical protein
+DKOIFHOP_01488	gene	1935				
+DKOIFHOP_01488	CDS	1935				hypothetical protein
+DKOIFHOP_01489	gene	1257				
+DKOIFHOP_01489	CDS	1257				hypothetical protein
+DKOIFHOP_01490	gene	888				
+DKOIFHOP_01490	CDS	888				hypothetical protein
+DKOIFHOP_01491	gene	1476	rbbA			
+DKOIFHOP_01491	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+DKOIFHOP_01492	gene	1065	ybhS			
+DKOIFHOP_01492	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+DKOIFHOP_01493	gene	1098	ybhR_2			
+DKOIFHOP_01493	CDS	1098	ybhR_2		COG0842	putative multidrug ABC transporter permease YbhR
+DKOIFHOP_01494	gene	1404				
+DKOIFHOP_01494	CDS	1404				hypothetical protein
+DKOIFHOP_01495	gene	2640	rep_1			
+DKOIFHOP_01495	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+DKOIFHOP_01496	gene	1251	tdcG			
+DKOIFHOP_01496	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+DKOIFHOP_01497	gene	405				
+DKOIFHOP_01497	CDS	405				hypothetical protein
+DKOIFHOP_01498	gene	822	cmk_2			
+DKOIFHOP_01498	CDS	822	cmk_2	2.7.4.25		Cytidylate kinase
+DKOIFHOP_01499	gene	1374	yeeO			
+DKOIFHOP_01499	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+DKOIFHOP_01500	gene	123				
+DKOIFHOP_01500	CDS	123				hypothetical protein
+DKOIFHOP_01501	gene	339				
+DKOIFHOP_01501	CDS	339				hypothetical protein
+DKOIFHOP_01502	gene	582				
+DKOIFHOP_01502	CDS	582				hypothetical protein
+DKOIFHOP_01503	gene	1542	glyQS			
+DKOIFHOP_01503	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+DKOIFHOP_01504	gene	105				
+DKOIFHOP_01504	CDS	105				hypothetical protein
+DKOIFHOP_01505	gene	117				
+DKOIFHOP_01505	CDS	117				hypothetical protein
+DKOIFHOP_01506	gene	2493				
+DKOIFHOP_01506	CDS	2493				hypothetical protein
+DKOIFHOP_01507	gene	1560				
+DKOIFHOP_01507	CDS	1560				hypothetical protein
+DKOIFHOP_01508	gene	102				
+DKOIFHOP_01508	CDS	102				hypothetical protein
+DKOIFHOP_01509	gene	1299				
+DKOIFHOP_01509	CDS	1299				hypothetical protein
+DKOIFHOP_01510	gene	462	ndk			
+DKOIFHOP_01510	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+DKOIFHOP_01511	gene	1698	eptC			
+DKOIFHOP_01511	CDS	1698	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+DKOIFHOP_01512	gene	1215	norR			
+DKOIFHOP_01512	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+DKOIFHOP_01513	gene	543				
+DKOIFHOP_01513	CDS	543				hypothetical protein
+DKOIFHOP_01514	gene	771				
+DKOIFHOP_01514	CDS	771				hypothetical protein
+DKOIFHOP_01515	gene	390				
+DKOIFHOP_01515	CDS	390				hypothetical protein
+DKOIFHOP_01516	gene	1671				
+DKOIFHOP_01516	CDS	1671				hypothetical protein
+DKOIFHOP_01517	gene	894				
+DKOIFHOP_01517	CDS	894				hypothetical protein
+DKOIFHOP_01518	gene	3201				
+DKOIFHOP_01518	CDS	3201				hypothetical protein
+DKOIFHOP_01519	gene	657	trmO			
+DKOIFHOP_01519	CDS	657	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+DKOIFHOP_01520	gene	1299				
+DKOIFHOP_01520	CDS	1299				hypothetical protein
+DKOIFHOP_01521	gene	75				
+DKOIFHOP_01521	tRNA	75				tRNA-His(gtg)
+DKOIFHOP_01522	gene	447				
+DKOIFHOP_01522	CDS	447				hypothetical protein
+DKOIFHOP_01523	gene	456				
+DKOIFHOP_01523	CDS	456				hypothetical protein
+DKOIFHOP_01524	gene	345	hxlR			
+DKOIFHOP_01524	CDS	345	hxlR		COG1733	HTH-type transcriptional activator HxlR
+DKOIFHOP_01525	gene	372				
+DKOIFHOP_01525	CDS	372				hypothetical protein
+DKOIFHOP_01526	gene	330				
+DKOIFHOP_01526	CDS	330				hypothetical protein
+DKOIFHOP_01527	gene	207				
+DKOIFHOP_01527	CDS	207				hypothetical protein
+DKOIFHOP_01528	gene	1074	adh			
+DKOIFHOP_01528	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+DKOIFHOP_01529	gene	285				
+DKOIFHOP_01529	CDS	285				hypothetical protein
+DKOIFHOP_01530	gene	261				
+DKOIFHOP_01530	CDS	261				hypothetical protein
+DKOIFHOP_01531	gene	606				
+DKOIFHOP_01531	CDS	606				hypothetical protein
+DKOIFHOP_01532	gene	1497	nrfA			
+DKOIFHOP_01532	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+DKOIFHOP_01533	gene	1311				
+DKOIFHOP_01533	CDS	1311				hypothetical protein
+DKOIFHOP_01534	gene	798	ccsA_2			
+DKOIFHOP_01534	CDS	798	ccsA_2			Cytochrome c biogenesis protein CcsA
+DKOIFHOP_01535	gene	398	ssrA			
+DKOIFHOP_01535	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+DKOIFHOP_01536	gene	636	wecA			
+DKOIFHOP_01536	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+DKOIFHOP_01537	gene	2499				
+DKOIFHOP_01537	CDS	2499				hypothetical protein
+DKOIFHOP_01538	gene	1077				
+DKOIFHOP_01538	CDS	1077				hypothetical protein
+DKOIFHOP_01539	gene	1194				
+DKOIFHOP_01539	CDS	1194				hypothetical protein
+DKOIFHOP_01540	gene	1530				
+DKOIFHOP_01540	CDS	1530				hypothetical protein
+DKOIFHOP_01541	gene	555	dapH_3			
+DKOIFHOP_01541	CDS	555	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+DKOIFHOP_01542	gene	1221				
+DKOIFHOP_01542	CDS	1221				hypothetical protein
+DKOIFHOP_01543	gene	1542				
+DKOIFHOP_01543	CDS	1542				hypothetical protein
+DKOIFHOP_01544	gene	1152	mshA_4			
+DKOIFHOP_01544	CDS	1152	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+DKOIFHOP_01545	gene	3417	mfd			
+DKOIFHOP_01545	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+DKOIFHOP_01546	gene	3024				
+DKOIFHOP_01546	CDS	3024				hypothetical protein
+DKOIFHOP_01547	gene	876				
+DKOIFHOP_01547	CDS	876				hypothetical protein
+DKOIFHOP_01548	gene	447				
+DKOIFHOP_01548	CDS	447				hypothetical protein
+DKOIFHOP_01549	gene	474				
+DKOIFHOP_01549	CDS	474				hypothetical protein
+DKOIFHOP_01550	gene	1446				
+DKOIFHOP_01550	CDS	1446				hypothetical protein
+DKOIFHOP_01551	gene	405				
+DKOIFHOP_01551	CDS	405				hypothetical protein
+DKOIFHOP_01552	gene	861				
+DKOIFHOP_01552	CDS	861				hypothetical protein
+DKOIFHOP_01553	gene	651				
+DKOIFHOP_01553	CDS	651				hypothetical protein
+DKOIFHOP_01554	gene	204				
+DKOIFHOP_01554	CDS	204				hypothetical protein
+DKOIFHOP_01555	gene	855				
+DKOIFHOP_01555	CDS	855				hypothetical protein
+DKOIFHOP_01556	gene	1131				
+DKOIFHOP_01556	CDS	1131				hypothetical protein
+DKOIFHOP_01557	gene	984				
+DKOIFHOP_01557	CDS	984		1.-.-.-		Oxidoreductase P35
+DKOIFHOP_01558	gene	76				
+DKOIFHOP_01558	tRNA	76				tRNA-Arg(tct)
+DKOIFHOP_01559	gene	888				
+DKOIFHOP_01559	CDS	888				hypothetical protein
+DKOIFHOP_01560	gene	924				
+DKOIFHOP_01560	CDS	924				hypothetical protein
+DKOIFHOP_01561	gene	729				
+DKOIFHOP_01561	CDS	729				hypothetical protein
+DKOIFHOP_01562	gene	2238				
+DKOIFHOP_01562	CDS	2238				hypothetical protein
+DKOIFHOP_01563	gene	789				
+DKOIFHOP_01563	CDS	789				hypothetical protein
+DKOIFHOP_01564	gene	74				
+DKOIFHOP_01564	tRNA	74				tRNA-Cys(gca)
+DKOIFHOP_01565	gene	204				
+DKOIFHOP_01565	CDS	204				hypothetical protein
+DKOIFHOP_01566	gene	1212				
+DKOIFHOP_01566	CDS	1212				hypothetical protein
+DKOIFHOP_01567	gene	753				
+DKOIFHOP_01567	CDS	753				hypothetical protein
+DKOIFHOP_01568	gene	1065	purR			
+DKOIFHOP_01568	CDS	1065	purR			HTH-type transcriptional repressor PurR
+DKOIFHOP_01569	gene	3516	sasA_4			
+DKOIFHOP_01569	CDS	3516	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+DKOIFHOP_01570	gene	726				
+DKOIFHOP_01570	CDS	726				hypothetical protein
+DKOIFHOP_01571	gene	624				
+DKOIFHOP_01571	CDS	624				hypothetical protein
+DKOIFHOP_01572	gene	1311	dapL			
+DKOIFHOP_01572	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+DKOIFHOP_01573	gene	573				
+DKOIFHOP_01573	CDS	573				hypothetical protein
+DKOIFHOP_01574	gene	1623				
+DKOIFHOP_01574	CDS	1623				hypothetical protein
+DKOIFHOP_01575	gene	738	yafV			
+DKOIFHOP_01575	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+DKOIFHOP_01576	gene	696	infC			
+DKOIFHOP_01576	CDS	696	infC			Translation initiation factor IF-3
+DKOIFHOP_01577	gene	198	rpmI			
+DKOIFHOP_01577	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+DKOIFHOP_01578	gene	345	rplT			
+DKOIFHOP_01578	CDS	345	rplT			50S ribosomal protein L20
+DKOIFHOP_01579	gene	1206				
+DKOIFHOP_01579	CDS	1206				hypothetical protein
+DKOIFHOP_01580	gene	2217	yhgF			
+DKOIFHOP_01580	CDS	2217	yhgF		COG2183	Protein YhgF
+DKOIFHOP_01581	gene	1953	yheS			
+DKOIFHOP_01581	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+DKOIFHOP_01582	gene	2037	pepO			
+DKOIFHOP_01582	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+DKOIFHOP_01583	gene	1341				
+DKOIFHOP_01583	CDS	1341				hypothetical protein
+DKOIFHOP_01584	gene	1491	algC_2			
+DKOIFHOP_01584	CDS	1491	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+DKOIFHOP_01585	gene	252				
+DKOIFHOP_01585	CDS	252				hypothetical protein
+DKOIFHOP_01586	gene	606				
+DKOIFHOP_01586	CDS	606				hypothetical protein
+DKOIFHOP_01587	gene	678				
+DKOIFHOP_01587	CDS	678				hypothetical protein
+DKOIFHOP_01588	gene	585				
+DKOIFHOP_01588	CDS	585				hypothetical protein
+DKOIFHOP_01589	gene	384				
+DKOIFHOP_01589	CDS	384				hypothetical protein
+DKOIFHOP_01590	gene	759	exoA			
+DKOIFHOP_01590	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+DKOIFHOP_01591	gene	318	rplU			
+DKOIFHOP_01591	CDS	318	rplU		COG0261	50S ribosomal protein L21
+DKOIFHOP_01592	gene	264	rpmA			
+DKOIFHOP_01592	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+DKOIFHOP_01593	gene	1317	serS			
+DKOIFHOP_01593	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+DKOIFHOP_01594	gene	2358	pyrK_2			
+DKOIFHOP_01594	CDS	2358	pyrK_2			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+DKOIFHOP_01595	gene	1116				
+DKOIFHOP_01595	CDS	1116				hypothetical protein
+DKOIFHOP_01596	gene	876	deoD			
+DKOIFHOP_01596	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+DKOIFHOP_01597	gene	1032	ltaE			
+DKOIFHOP_01597	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+DKOIFHOP_01598	gene	1374	mnmE			
+DKOIFHOP_01598	CDS	1374	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+DKOIFHOP_01599	gene	138				
+DKOIFHOP_01599	CDS	138				hypothetical protein
+DKOIFHOP_01600	gene	108				
+DKOIFHOP_01600	CDS	108				hypothetical protein
+DKOIFHOP_01601	gene	135				
+DKOIFHOP_01601	CDS	135				hypothetical protein
+DKOIFHOP_01602	gene	1524				
+DKOIFHOP_01602	CDS	1524				hypothetical protein
+DKOIFHOP_01603	gene	228				
+DKOIFHOP_01603	CDS	228				hypothetical protein
+DKOIFHOP_01604	gene	969	atpG			
+DKOIFHOP_01604	CDS	969	atpG		COG0224	ATP synthase gamma chain
+DKOIFHOP_01605	gene	1584	atpA			
+DKOIFHOP_01605	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+DKOIFHOP_01606	gene	534	atpH_1			
+DKOIFHOP_01606	CDS	534	atpH_1		COG0712	ATP synthase subunit delta
+DKOIFHOP_01607	gene	519	atpF			
+DKOIFHOP_01607	CDS	519	atpF		COG0711	ATP synthase subunit b
+DKOIFHOP_01608	gene	240	atpH_2			
+DKOIFHOP_01608	CDS	240	atpH_2			ATP synthase subunit c
+DKOIFHOP_01609	gene	1032	atpB			
+DKOIFHOP_01609	CDS	1032	atpB			ATP synthase subunit a
+DKOIFHOP_01610	gene	396				
+DKOIFHOP_01610	CDS	396				hypothetical protein
+DKOIFHOP_01611	gene	240	atpC			
+DKOIFHOP_01611	CDS	240	atpC			ATP synthase epsilon chain
+DKOIFHOP_01612	gene	1527	atpD			
+DKOIFHOP_01612	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+DKOIFHOP_01613	gene	978	pfkA			
+DKOIFHOP_01613	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+DKOIFHOP_01614	gene	1398				
+DKOIFHOP_01614	CDS	1398				hypothetical protein
+DKOIFHOP_01615	gene	981				
+DKOIFHOP_01615	CDS	981				hypothetical protein
+DKOIFHOP_01616	gene	1515				
+DKOIFHOP_01616	CDS	1515				hypothetical protein
+DKOIFHOP_01617	gene	990				
+DKOIFHOP_01617	CDS	990				hypothetical protein
+DKOIFHOP_01618	gene	1107				
+DKOIFHOP_01618	CDS	1107				hypothetical protein
+DKOIFHOP_01619	gene	573	yhdE			
+DKOIFHOP_01619	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+DKOIFHOP_01620	gene	519	kdsC			
+DKOIFHOP_01620	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+DKOIFHOP_01621	gene	783				
+DKOIFHOP_01621	CDS	783				hypothetical protein
+DKOIFHOP_01622	gene	528				
+DKOIFHOP_01622	CDS	528				hypothetical protein
+DKOIFHOP_01623	gene	75				
+DKOIFHOP_01623	tRNA	75				tRNA-Thr(tgt)
+DKOIFHOP_01624	gene	76				
+DKOIFHOP_01624	tRNA	76				tRNA-Asp(gtc)
+DKOIFHOP_01625	gene	516	speG			
+DKOIFHOP_01625	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+DKOIFHOP_01626	gene	1194				
+DKOIFHOP_01626	CDS	1194				hypothetical protein
+DKOIFHOP_01627	gene	423				
+DKOIFHOP_01627	CDS	423				hypothetical protein
+DKOIFHOP_01628	gene	615	recR			
+DKOIFHOP_01628	CDS	615	recR		COG0353	Recombination protein RecR
+DKOIFHOP_01629	gene	615	engB			
+DKOIFHOP_01629	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+DKOIFHOP_01630	gene	1812	ettA			
+DKOIFHOP_01630	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+DKOIFHOP_01631	gene	2061	pat			
+DKOIFHOP_01631	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+DKOIFHOP_01632	gene	1965	thrS			
+DKOIFHOP_01632	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+DKOIFHOP_01633	gene	1053				
+DKOIFHOP_01633	CDS	1053				hypothetical protein
+DKOIFHOP_01634	gene	405				
+DKOIFHOP_01634	CDS	405				hypothetical protein
+DKOIFHOP_01635	gene	564				
+DKOIFHOP_01635	CDS	564				hypothetical protein
+DKOIFHOP_01636	gene	567				
+DKOIFHOP_01636	CDS	567				hypothetical protein
+DKOIFHOP_01637	gene	456				
+DKOIFHOP_01637	CDS	456				hypothetical protein
+DKOIFHOP_01638	gene	588				
+DKOIFHOP_01638	CDS	588				hypothetical protein
+DKOIFHOP_01639	gene	1965	cpoB			
+DKOIFHOP_01639	CDS	1965	cpoB			Cell division coordinator CpoB
+DKOIFHOP_01640	gene	561	def			
+DKOIFHOP_01640	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+DKOIFHOP_01641	gene	291	yqgF			
+DKOIFHOP_01641	CDS	291	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+DKOIFHOP_01642	gene	516				
+DKOIFHOP_01642	CDS	516				hypothetical protein
+DKOIFHOP_01643	gene	216				
+DKOIFHOP_01643	CDS	216				hypothetical protein
+DKOIFHOP_01644	gene	369				
+DKOIFHOP_01644	CDS	369				hypothetical protein
+DKOIFHOP_01645	gene	294				
+DKOIFHOP_01645	CDS	294				hypothetical protein
+DKOIFHOP_01646	gene	774	rbn			
+DKOIFHOP_01646	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+DKOIFHOP_01647	gene	1026	murB			
+DKOIFHOP_01647	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+DKOIFHOP_01648	gene	852				
+DKOIFHOP_01648	CDS	852				hypothetical protein
+DKOIFHOP_01649	gene	1356				
+DKOIFHOP_01649	CDS	1356				hypothetical protein
+DKOIFHOP_01650	gene	1038	pheS			
+DKOIFHOP_01650	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+DKOIFHOP_01651	gene	390				
+DKOIFHOP_01651	CDS	390				hypothetical protein
+DKOIFHOP_01652	gene	1212				
+DKOIFHOP_01652	CDS	1212				hypothetical protein
+DKOIFHOP_01653	gene	936	arnC_2			
+DKOIFHOP_01653	CDS	936	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+DKOIFHOP_01654	gene	90				
+DKOIFHOP_01654	CDS	90				hypothetical protein
+DKOIFHOP_01655	gene	486	ftnA			
+DKOIFHOP_01655	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+DKOIFHOP_01656	gene	546				
+DKOIFHOP_01656	CDS	546				hypothetical protein
+DKOIFHOP_01657	gene	1164				
+DKOIFHOP_01657	CDS	1164				hypothetical protein
+DKOIFHOP_01658	gene	987	msrA			
+DKOIFHOP_01658	CDS	987	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+DKOIFHOP_01659	gene	74				
+DKOIFHOP_01659	tRNA	74				tRNA-Lys(ctt)
+DKOIFHOP_01660	gene	387				
+DKOIFHOP_01660	CDS	387				hypothetical protein
+DKOIFHOP_01661	gene	1782	lepA			
+DKOIFHOP_01661	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+DKOIFHOP_01662	gene	603				
+DKOIFHOP_01662	CDS	603				hypothetical protein
+DKOIFHOP_01663	gene	2181	bamA_1			
+DKOIFHOP_01663	CDS	2181	bamA_1			Outer membrane protein assembly factor BamA
+DKOIFHOP_01664	gene	465				
+DKOIFHOP_01664	CDS	465				hypothetical protein
+DKOIFHOP_01665	gene	807	yycJ			
+DKOIFHOP_01665	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+DKOIFHOP_01666	gene	2136				
+DKOIFHOP_01666	CDS	2136				hypothetical protein
+DKOIFHOP_01667	gene	2118				
+DKOIFHOP_01667	CDS	2118				hypothetical protein
+DKOIFHOP_01668	gene	264	rpmB			
+DKOIFHOP_01668	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+DKOIFHOP_01669	gene	189	rpmG2			
+DKOIFHOP_01669	CDS	189	rpmG2			50S ribosomal protein L33 2
+DKOIFHOP_01670	gene	159				
+DKOIFHOP_01670	CDS	159				hypothetical protein
+DKOIFHOP_01671	gene	957	ftsY			
+DKOIFHOP_01671	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+DKOIFHOP_01672	gene	1317	rimO			
+DKOIFHOP_01672	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+DKOIFHOP_01673	gene	294	hup_2			
+DKOIFHOP_01673	CDS	294	hup_2		COG0776	DNA-binding protein HU
+DKOIFHOP_01674	gene	1374	ihfA			
+DKOIFHOP_01674	CDS	1374	ihfA			Integration host factor subunit alpha
+DKOIFHOP_01675	gene	996				
+DKOIFHOP_01675	CDS	996				hypothetical protein
+DKOIFHOP_01676	gene	870				
+DKOIFHOP_01676	CDS	870				hypothetical protein
+DKOIFHOP_01677	gene	1107				
+DKOIFHOP_01677	CDS	1107				hypothetical protein
+DKOIFHOP_01678	gene	999				
+DKOIFHOP_01678	CDS	999				hypothetical protein
+DKOIFHOP_01679	gene	1029				
+DKOIFHOP_01679	CDS	1029				hypothetical protein
+DKOIFHOP_01680	gene	693				
+DKOIFHOP_01680	CDS	693				hypothetical protein
+DKOIFHOP_01681	gene	2562				
+DKOIFHOP_01681	CDS	2562				hypothetical protein
+DKOIFHOP_01682	gene	687				
+DKOIFHOP_01682	CDS	687				hypothetical protein
+DKOIFHOP_01683	gene	1236	queA_2			
+DKOIFHOP_01683	CDS	1236	queA_2	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+DKOIFHOP_01684	gene	1941	nadE			
+DKOIFHOP_01684	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+DKOIFHOP_01685	gene	891				
+DKOIFHOP_01685	CDS	891				hypothetical protein
+DKOIFHOP_01686	gene	2676	gyrA			
+DKOIFHOP_01686	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+DKOIFHOP_01687	gene	1170				
+DKOIFHOP_01687	CDS	1170				hypothetical protein
+DKOIFHOP_01688	gene	1209				
+DKOIFHOP_01688	CDS	1209				hypothetical protein
+DKOIFHOP_01689	gene	1254				
+DKOIFHOP_01689	CDS	1254				hypothetical protein
+DKOIFHOP_01690	gene	504				
+DKOIFHOP_01690	CDS	504				hypothetical protein
+DKOIFHOP_01691	gene	480	smpB			
+DKOIFHOP_01691	CDS	480	smpB		COG0691	SsrA-binding protein
+DKOIFHOP_01692	gene	405				
+DKOIFHOP_01692	CDS	405				hypothetical protein
+DKOIFHOP_01693	gene	855	map_1			
+DKOIFHOP_01693	CDS	855	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+DKOIFHOP_01694	gene	1026	tsaD			
+DKOIFHOP_01694	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+DKOIFHOP_01695	gene	492	pncC			
+DKOIFHOP_01695	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+DKOIFHOP_01696	gene	1482	degQ			
+DKOIFHOP_01696	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+DKOIFHOP_01697	gene	1026	ansA			
+DKOIFHOP_01697	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+DKOIFHOP_01698	gene	2061	btuB_7			
+DKOIFHOP_01698	CDS	2061	btuB_7			Vitamin B12 transporter BtuB
+DKOIFHOP_01699	gene	540				
+DKOIFHOP_01699	CDS	540				hypothetical protein
+DKOIFHOP_01700	gene	207				
+DKOIFHOP_01700	CDS	207				hypothetical protein
+DKOIFHOP_01701	gene	516				
+DKOIFHOP_01701	CDS	516				hypothetical protein
+DKOIFHOP_01702	gene	309				
+DKOIFHOP_01702	CDS	309				hypothetical protein
+DKOIFHOP_01703	gene	2520				
+DKOIFHOP_01703	CDS	2520				hypothetical protein
+DKOIFHOP_01704	gene	681				
+DKOIFHOP_01704	CDS	681				hypothetical protein
+DKOIFHOP_01705	gene	492				
+DKOIFHOP_01705	CDS	492				hypothetical protein
+DKOIFHOP_01706	gene	189				
+DKOIFHOP_01706	CDS	189				hypothetical protein
+DKOIFHOP_01707	gene	210				
+DKOIFHOP_01707	CDS	210				hypothetical protein
+DKOIFHOP_01708	gene	552				
+DKOIFHOP_01708	CDS	552				hypothetical protein
+DKOIFHOP_01709	gene	636				
+DKOIFHOP_01709	CDS	636				hypothetical protein
+DKOIFHOP_01710	gene	165				
+DKOIFHOP_01710	CDS	165				hypothetical protein
+DKOIFHOP_01711	gene	153				
+DKOIFHOP_01711	CDS	153				hypothetical protein
+DKOIFHOP_01712	gene	96				
+DKOIFHOP_01712	CDS	96				hypothetical protein
+DKOIFHOP_01713	gene	552				
+DKOIFHOP_01713	CDS	552				hypothetical protein
+DKOIFHOP_01714	gene	74				
+DKOIFHOP_01714	tRNA	74				tRNA-Phe(gaa)
+DKOIFHOP_01715	gene	75				
+DKOIFHOP_01715	tRNA	75				tRNA-Pro(cgg)
+DKOIFHOP_01716	gene	960				
+DKOIFHOP_01716	CDS	960				putative epimerase/dehydratase
+DKOIFHOP_01717	gene	1188	kbl			
+DKOIFHOP_01717	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+DKOIFHOP_01718	gene	477	argR			
+DKOIFHOP_01718	CDS	477	argR		COG1438	Arginine repressor
+DKOIFHOP_01719	gene	717	ybhL			
+DKOIFHOP_01719	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+DKOIFHOP_01720	gene	762				
+DKOIFHOP_01720	CDS	762				hypothetical protein
+DKOIFHOP_01721	gene	726				
+DKOIFHOP_01721	CDS	726				hypothetical protein
+DKOIFHOP_01722	gene	1311	murF			
+DKOIFHOP_01722	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+DKOIFHOP_01723	gene	885	folP			
+DKOIFHOP_01723	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+DKOIFHOP_01724	gene	765	cdaA			
+DKOIFHOP_01724	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+DKOIFHOP_01725	gene	1008	pta_1			
+DKOIFHOP_01725	CDS	1008	pta_1	2.3.1.8		Phosphate acetyltransferase
+DKOIFHOP_01726	gene	1194	ackA			
+DKOIFHOP_01726	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+DKOIFHOP_01727	gene	774	lpxH			
+DKOIFHOP_01727	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+DKOIFHOP_01728	gene	375				
+DKOIFHOP_01728	CDS	375				hypothetical protein
+DKOIFHOP_01729	gene	702				
+DKOIFHOP_01729	CDS	702				hypothetical protein
+DKOIFHOP_01730	gene	1104				
+DKOIFHOP_01730	CDS	1104				hypothetical protein
+DKOIFHOP_01731	gene	525	efp			
+DKOIFHOP_01731	CDS	525	efp		COG0231	Elongation factor P
+DKOIFHOP_01732	gene	222				
+DKOIFHOP_01732	CDS	222				hypothetical protein
+DKOIFHOP_01733	gene	825				
+DKOIFHOP_01733	CDS	825				hypothetical protein
+DKOIFHOP_01734	gene	1113	rluD_2			
+DKOIFHOP_01734	CDS	1113	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+DKOIFHOP_01735	gene	993	ddlA			
+DKOIFHOP_01735	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+DKOIFHOP_01736	gene	1176				
+DKOIFHOP_01736	CDS	1176				hypothetical protein
+DKOIFHOP_01737	gene	681				
+DKOIFHOP_01737	CDS	681				hypothetical protein
+DKOIFHOP_01738	gene	96				
+DKOIFHOP_01738	CDS	96				hypothetical protein
+DKOIFHOP_01739	gene	141				
+DKOIFHOP_01739	CDS	141				hypothetical protein
+DKOIFHOP_01740	gene	630				
+DKOIFHOP_01740	CDS	630				hypothetical protein
+DKOIFHOP_01741	gene	720				
+DKOIFHOP_01741	CDS	720				hypothetical protein
+DKOIFHOP_01742	gene	1218				
+DKOIFHOP_01742	CDS	1218			COG3385	IS4 family transposase ISDpr1
+DKOIFHOP_01743	gene	888				
+DKOIFHOP_01743	CDS	888				hypothetical protein
+DKOIFHOP_01744	gene	438				
+DKOIFHOP_01744	CDS	438				hypothetical protein
+DKOIFHOP_01745	gene	516				
+DKOIFHOP_01745	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+DKOIFHOP_01746	gene	138				
+DKOIFHOP_01746	CDS	138				hypothetical protein
+DKOIFHOP_01747	gene	1122	prfB			
+DKOIFHOP_01747	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+DKOIFHOP_01748	gene	1809				
+DKOIFHOP_01748	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+DKOIFHOP_01749	gene	678				
+DKOIFHOP_01749	CDS	678				hypothetical protein
+DKOIFHOP_01750	gene	444				
+DKOIFHOP_01750	CDS	444				hypothetical protein
+DKOIFHOP_01751	gene	927	deoC_2			
+DKOIFHOP_01751	CDS	927	deoC_2	4.1.2.4		Deoxyribose-phosphate aldolase
+DKOIFHOP_01752	gene	375				
+DKOIFHOP_01752	CDS	375				hypothetical protein
+DKOIFHOP_01753	gene	453	dtd_2			
+DKOIFHOP_01753	CDS	453	dtd_2	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+DKOIFHOP_01754	gene	1842	uvrC_2			
+DKOIFHOP_01754	CDS	1842	uvrC_2		COG0322	UvrABC system protein C
+DKOIFHOP_01755	gene	537	apt_2			
+DKOIFHOP_01755	CDS	537	apt_2	2.4.2.7		Adenine phosphoribosyltransferase
+DKOIFHOP_01756	gene	1878	mnmG_2			
+DKOIFHOP_01756	CDS	1878	mnmG_2		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+DKOIFHOP_01757	gene	213				
+DKOIFHOP_01757	CDS	213				hypothetical protein
+DKOIFHOP_01758	gene	1296	tyrS_2			
+DKOIFHOP_01758	CDS	1296	tyrS_2	6.1.1.1		Tyrosine--tRNA ligase
+DKOIFHOP_01759	gene	732				
+DKOIFHOP_01759	CDS	732				hypothetical protein
+DKOIFHOP_01760	gene	1212				
+DKOIFHOP_01760	CDS	1212				hypothetical protein
+DKOIFHOP_01761	gene	723				
+DKOIFHOP_01761	CDS	723				hypothetical protein
+DKOIFHOP_01762	gene	360				
+DKOIFHOP_01762	CDS	360				hypothetical protein
+DKOIFHOP_01763	gene	1113				
+DKOIFHOP_01763	CDS	1113				hypothetical protein
+DKOIFHOP_01764	gene	831				
+DKOIFHOP_01764	CDS	831				hypothetical protein
+DKOIFHOP_01765	gene	720	tarI			
+DKOIFHOP_01765	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+DKOIFHOP_01766	gene	987	fcl_2			
+DKOIFHOP_01766	CDS	987	fcl_2	1.1.1.271		GDP-L-fucose synthase
+DKOIFHOP_01767	gene	927				
+DKOIFHOP_01767	CDS	927				hypothetical protein
+DKOIFHOP_01768	gene	108				
+DKOIFHOP_01768	CDS	108				hypothetical protein
+DKOIFHOP_01769	gene	2385	btuB_8			
+DKOIFHOP_01769	CDS	2385	btuB_8			Vitamin B12 transporter BtuB
+DKOIFHOP_01770	gene	1233				
+DKOIFHOP_01770	CDS	1233				hypothetical protein
+DKOIFHOP_01771	gene	615				
+DKOIFHOP_01771	CDS	615				hypothetical protein
+DKOIFHOP_01772	gene	969				
+DKOIFHOP_01772	CDS	969				hypothetical protein
+DKOIFHOP_01773	gene	2100	recG			
+DKOIFHOP_01773	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+DKOIFHOP_01774	gene	711	ispD			
+DKOIFHOP_01774	CDS	711	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+DKOIFHOP_01775	gene	1299				
+DKOIFHOP_01775	CDS	1299				hypothetical protein
+DKOIFHOP_01776	gene	1032	cytR			
+DKOIFHOP_01776	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+DKOIFHOP_01777	gene	3081	susC			
+DKOIFHOP_01777	CDS	3081	susC			TonB-dependent receptor SusC
+DKOIFHOP_01778	gene	1617	susD			
+DKOIFHOP_01778	CDS	1617	susD			Starch-binding protein SusD
+DKOIFHOP_01779	gene	1122	susE			
+DKOIFHOP_01779	CDS	1122	susE			Outer membrane protein SusE
+DKOIFHOP_01780	gene	1092	susF			
+DKOIFHOP_01780	CDS	1092	susF			Outer membrane protein SusF
+DKOIFHOP_01781	gene	2058				
+DKOIFHOP_01781	CDS	2058				hypothetical protein
+DKOIFHOP_01782	gene	1218				
+DKOIFHOP_01782	CDS	1218				hypothetical protein
+DKOIFHOP_01783	gene	1944	rlhA			
+DKOIFHOP_01783	CDS	1944	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+DKOIFHOP_01784	gene	1017				
+DKOIFHOP_01784	CDS	1017				hypothetical protein
+DKOIFHOP_01785	gene	2409	btuB_9			
+DKOIFHOP_01785	CDS	2409	btuB_9			Vitamin B12 transporter BtuB
+DKOIFHOP_01786	gene	2217				
+DKOIFHOP_01786	CDS	2217				hypothetical protein
+DKOIFHOP_01787	gene	1578	glcA			
+DKOIFHOP_01787	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+DKOIFHOP_01788	gene	174				
+DKOIFHOP_01788	CDS	174				hypothetical protein
+DKOIFHOP_01789	gene	1134	hemW			
+DKOIFHOP_01789	CDS	1134	hemW		COG0635	Heme chaperone HemW
+DKOIFHOP_01790	gene	2160	fusA_1			
+DKOIFHOP_01790	CDS	2160	fusA_1		COG0480	Elongation factor G
+DKOIFHOP_01791	gene	687				
+DKOIFHOP_01791	CDS	687				hypothetical protein
+DKOIFHOP_01792	gene	1548	sasA_5			
+DKOIFHOP_01792	CDS	1548	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+DKOIFHOP_01793	gene	699	copR			
+DKOIFHOP_01793	CDS	699	copR			Transcriptional activator protein CopR
+DKOIFHOP_01794	gene	345				
+DKOIFHOP_01794	CDS	345				hypothetical protein
+DKOIFHOP_01795	gene	270				
+DKOIFHOP_01795	CDS	270				hypothetical protein
+DKOIFHOP_01796	gene	561				
+DKOIFHOP_01796	CDS	561				hypothetical protein
+DKOIFHOP_01797	gene	1593	nadB			
+DKOIFHOP_01797	CDS	1593	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+DKOIFHOP_01798	gene	1713				
+DKOIFHOP_01798	CDS	1713				hypothetical protein
+DKOIFHOP_01799	gene	2007	hutU			
+DKOIFHOP_01799	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+DKOIFHOP_01800	gene	1476	hutH			
+DKOIFHOP_01800	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+DKOIFHOP_01801	gene	1251	hutI			
+DKOIFHOP_01801	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+DKOIFHOP_01802	gene	339				
+DKOIFHOP_01802	CDS	339				hypothetical protein
+DKOIFHOP_01803	gene	966	queG			
+DKOIFHOP_01803	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+DKOIFHOP_01804	gene	552				
+DKOIFHOP_01804	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+DKOIFHOP_01805	gene	3336				
+DKOIFHOP_01805	CDS	3336				hypothetical protein
+DKOIFHOP_01806	gene	408	yqaA			
+DKOIFHOP_01806	CDS	408	yqaA		COG1238	Inner membrane protein YqaA
+DKOIFHOP_01807	gene	951				
+DKOIFHOP_01807	CDS	951				hypothetical protein
+DKOIFHOP_01808	gene	1389	purD			
+DKOIFHOP_01808	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+DKOIFHOP_01809	gene	789				
+DKOIFHOP_01809	CDS	789				IS982 family transposase IS195
+DKOIFHOP_01810	gene	318				
+DKOIFHOP_01810	CDS	318				hypothetical protein
+DKOIFHOP_01811	gene	1497				
+DKOIFHOP_01811	CDS	1497				hypothetical protein
+DKOIFHOP_01812	gene	372	rlpA			
+DKOIFHOP_01812	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+DKOIFHOP_01813	gene	1344	gdhB			
+DKOIFHOP_01813	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+DKOIFHOP_01814	gene	387	nudG			
+DKOIFHOP_01814	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+DKOIFHOP_01815	gene	4731	rep_2			
+DKOIFHOP_01815	CDS	4731	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+DKOIFHOP_01816	gene	1371				
+DKOIFHOP_01816	CDS	1371				hypothetical protein
+DKOIFHOP_01817	gene	240				
+DKOIFHOP_01817	CDS	240				hypothetical protein
+DKOIFHOP_01818	gene	834				
+DKOIFHOP_01818	CDS	834				hypothetical protein
+DKOIFHOP_01819	gene	471				
+DKOIFHOP_01819	CDS	471				hypothetical protein
+DKOIFHOP_01820	gene	993	rpoA			
+DKOIFHOP_01820	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+DKOIFHOP_01821	gene	609	rpsD			
+DKOIFHOP_01821	CDS	609	rpsD			30S ribosomal protein S4
+DKOIFHOP_01822	gene	387	rpsK			
+DKOIFHOP_01822	CDS	387	rpsK			30S ribosomal protein S11
+DKOIFHOP_01823	gene	381	rpsM			
+DKOIFHOP_01823	CDS	381	rpsM			30S ribosomal protein S13
+DKOIFHOP_01824	gene	117	ykgO			
+DKOIFHOP_01824	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+DKOIFHOP_01825	gene	219	infA			
+DKOIFHOP_01825	CDS	219	infA			Translation initiation factor IF-1
+DKOIFHOP_01826	gene	750	map_2			
+DKOIFHOP_01826	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+DKOIFHOP_01827	gene	1338	secY			
+DKOIFHOP_01827	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+DKOIFHOP_01828	gene	447	rplO			
+DKOIFHOP_01828	CDS	447	rplO		COG0200	50S ribosomal protein L15
+DKOIFHOP_01829	gene	177	rpmD			
+DKOIFHOP_01829	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+DKOIFHOP_01830	gene	510	rpsE			
+DKOIFHOP_01830	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+DKOIFHOP_01831	gene	345	rplR			
+DKOIFHOP_01831	CDS	345	rplR		COG0256	50S ribosomal protein L18
+DKOIFHOP_01832	gene	567	rplF			
+DKOIFHOP_01832	CDS	567	rplF		COG0097	50S ribosomal protein L6
+DKOIFHOP_01833	gene	396	rpsH			
+DKOIFHOP_01833	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+DKOIFHOP_01834	gene	303	rpsN			
+DKOIFHOP_01834	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+DKOIFHOP_01835	gene	555	rplE			
+DKOIFHOP_01835	CDS	555	rplE		COG0094	50S ribosomal protein L5
+DKOIFHOP_01836	gene	321	rplX			
+DKOIFHOP_01836	CDS	321	rplX		COG0198	50S ribosomal protein L24
+DKOIFHOP_01837	gene	366	rplN			
+DKOIFHOP_01837	CDS	366	rplN		COG0093	50S ribosomal protein L14
+DKOIFHOP_01838	gene	258	rpsQ			
+DKOIFHOP_01838	CDS	258	rpsQ			30S ribosomal protein S17
+DKOIFHOP_01839	gene	192	rpmC			
+DKOIFHOP_01839	CDS	192	rpmC			50S ribosomal protein L29
+DKOIFHOP_01840	gene	429	rplP			
+DKOIFHOP_01840	CDS	429	rplP		COG0197	50S ribosomal protein L16
+DKOIFHOP_01841	gene	735	rpsC			
+DKOIFHOP_01841	CDS	735	rpsC		COG0092	30S ribosomal protein S3
+DKOIFHOP_01842	gene	405				
+DKOIFHOP_01842	CDS	405				hypothetical protein
+DKOIFHOP_01843	gene	267	rpsS			
+DKOIFHOP_01843	CDS	267	rpsS			30S ribosomal protein S19
+DKOIFHOP_01844	gene	825	rplB			
+DKOIFHOP_01844	CDS	825	rplB		COG0090	50S ribosomal protein L2
+DKOIFHOP_01845	gene	294	rplW			
+DKOIFHOP_01845	CDS	294	rplW		COG0089	50S ribosomal protein L23
+DKOIFHOP_01846	gene	630	rplD			
+DKOIFHOP_01846	CDS	630	rplD			50S ribosomal protein L4
+DKOIFHOP_01847	gene	615	rplC			
+DKOIFHOP_01847	CDS	615	rplC		COG0087	50S ribosomal protein L3
+DKOIFHOP_01848	gene	306	rpsJ			
+DKOIFHOP_01848	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+DKOIFHOP_01849	gene	2127	fusA_2			
+DKOIFHOP_01849	CDS	2127	fusA_2		COG0480	Elongation factor G
+DKOIFHOP_01850	gene	477	rpsG			
+DKOIFHOP_01850	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+DKOIFHOP_01851	gene	381	rpsL			
+DKOIFHOP_01851	CDS	381	rpsL			30S ribosomal protein S12
+DKOIFHOP_01852	gene	123				
+DKOIFHOP_01852	CDS	123				hypothetical protein
+DKOIFHOP_01853	gene	558				
+DKOIFHOP_01853	CDS	558				hypothetical protein
+DKOIFHOP_01854	gene	132				
+DKOIFHOP_01854	CDS	132				hypothetical protein
+DKOIFHOP_01855	gene	345				
+DKOIFHOP_01855	CDS	345		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+DKOIFHOP_01856	gene	2742				
+DKOIFHOP_01856	CDS	2742				hypothetical protein
+DKOIFHOP_01857	gene	438				
+DKOIFHOP_01857	CDS	438				hypothetical protein
+DKOIFHOP_01858	gene	135				
+DKOIFHOP_01858	CDS	135				hypothetical protein
+DKOIFHOP_01859	gene	90				
+DKOIFHOP_01859	CDS	90				hypothetical protein
+DKOIFHOP_01860	gene	807				
+DKOIFHOP_01860	CDS	807				hypothetical protein
+DKOIFHOP_01861	gene	1446	patA_2			
+DKOIFHOP_01861	CDS	1446	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+DKOIFHOP_01862	gene	1329				
+DKOIFHOP_01862	CDS	1329				hypothetical protein
+DKOIFHOP_01863	gene	1224	yciC			
+DKOIFHOP_01863	CDS	1224	yciC		COG0523	Putative metal chaperone YciC
+DKOIFHOP_01864	gene	1446	pal_3			
+DKOIFHOP_01864	CDS	1446	pal_3			Peptidoglycan-associated lipoprotein
+DKOIFHOP_01865	gene	732				
+DKOIFHOP_01865	CDS	732				hypothetical protein
+DKOIFHOP_01866	gene	402				
+DKOIFHOP_01866	CDS	402				hypothetical protein
+DKOIFHOP_01867	gene	1014	asd			
+DKOIFHOP_01867	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+DKOIFHOP_01868	gene	2202	kefB_2			
+DKOIFHOP_01868	CDS	2202	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+DKOIFHOP_01869	gene	663	yknY_3			
+DKOIFHOP_01869	CDS	663	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+DKOIFHOP_01870	gene	603				
+DKOIFHOP_01870	CDS	603				hypothetical protein
+DKOIFHOP_01871	gene	279				
+DKOIFHOP_01871	CDS	279				hypothetical protein
+DKOIFHOP_01872	gene	1395	asnS			
+DKOIFHOP_01872	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+DKOIFHOP_01873	gene	1473				
+DKOIFHOP_01873	CDS	1473				hypothetical protein
+DKOIFHOP_01874	gene	1347	purB			
+DKOIFHOP_01874	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+DKOIFHOP_01875	gene	76				
+DKOIFHOP_01875	tRNA	76				tRNA-Val(tac)
+DKOIFHOP_01876	gene	76				
+DKOIFHOP_01876	tRNA	76				tRNA-Val(tac)
+DKOIFHOP_01877	gene	1209				
+DKOIFHOP_01877	CDS	1209				Outer membrane protein 40
+DKOIFHOP_01878	gene	1815	mutL			
+DKOIFHOP_01878	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+DKOIFHOP_01879	gene	273				
+DKOIFHOP_01879	CDS	273				hypothetical protein
+DKOIFHOP_01880	gene	1695	lptD_2			
+DKOIFHOP_01880	CDS	1695	lptD_2			LPS-assembly protein LptD
+DKOIFHOP_01881	gene	1464	surA_1			
+DKOIFHOP_01881	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+DKOIFHOP_01882	gene	1479	surA_2			
+DKOIFHOP_01882	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+DKOIFHOP_01883	gene	1479	guaB			
+DKOIFHOP_01883	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+DKOIFHOP_01884	gene	168				
+DKOIFHOP_01884	CDS	168				hypothetical protein
+DKOIFHOP_01885	gene	321				
+DKOIFHOP_01885	CDS	321				hypothetical protein
+DKOIFHOP_01886	gene	618				
+DKOIFHOP_01886	CDS	618				hypothetical protein
+DKOIFHOP_01887	gene	468				
+DKOIFHOP_01887	CDS	468				hypothetical protein
+DKOIFHOP_01888	gene	156				
+DKOIFHOP_01888	CDS	156				hypothetical protein
+DKOIFHOP_01889	gene	1416				
+DKOIFHOP_01889	CDS	1416				hypothetical protein
+DKOIFHOP_01890	gene	2685				
+DKOIFHOP_01890	CDS	2685				hypothetical protein
+DKOIFHOP_01891	gene	1116				
+DKOIFHOP_01891	CDS	1116				hypothetical protein
+DKOIFHOP_01892	gene	1503				
+DKOIFHOP_01892	CDS	1503				hypothetical protein
+DKOIFHOP_01893	gene	444				
+DKOIFHOP_01893	CDS	444				hypothetical protein
+DKOIFHOP_01894	gene	1545				
+DKOIFHOP_01894	CDS	1545				hypothetical protein
+DKOIFHOP_01895	gene	3537				
+DKOIFHOP_01895	CDS	3537				hypothetical protein
+DKOIFHOP_01896	gene	672				
+DKOIFHOP_01896	CDS	672				hypothetical protein
+DKOIFHOP_01897	gene	519				
+DKOIFHOP_01897	CDS	519				hypothetical protein
+DKOIFHOP_01898	gene	885				
+DKOIFHOP_01898	CDS	885				hypothetical protein
+DKOIFHOP_01899	gene	1008				
+DKOIFHOP_01899	CDS	1008				hypothetical protein
+DKOIFHOP_01900	gene	627	trmR			
+DKOIFHOP_01900	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+DKOIFHOP_01901	gene	420	aroQ1			
+DKOIFHOP_01901	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+DKOIFHOP_01902	gene	786				
+DKOIFHOP_01902	CDS	786				hypothetical protein
+DKOIFHOP_01903	gene	2049	bepA_4			
+DKOIFHOP_01903	CDS	2049	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+DKOIFHOP_01904	gene	1419				
+DKOIFHOP_01904	CDS	1419				hypothetical protein
+DKOIFHOP_01905	gene	705				
+DKOIFHOP_01905	CDS	705				hypothetical protein
+DKOIFHOP_01906	gene	750	ispU			
+DKOIFHOP_01906	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+DKOIFHOP_01907	gene	2616	bamA_2			
+DKOIFHOP_01907	CDS	2616	bamA_2			Outer membrane protein assembly factor BamA
+DKOIFHOP_01908	gene	513				
+DKOIFHOP_01908	CDS	513				hypothetical protein
+DKOIFHOP_01909	gene	501	skp			
+DKOIFHOP_01909	CDS	501	skp		COG2825	Chaperone protein Skp
+DKOIFHOP_01910	gene	633				
+DKOIFHOP_01910	CDS	633				hypothetical protein
+DKOIFHOP_01911	gene	843	murI			
+DKOIFHOP_01911	CDS	843	murI	5.1.1.3		Glutamate racemase
+DKOIFHOP_01912	gene	120				
+DKOIFHOP_01912	CDS	120				hypothetical protein
+DKOIFHOP_01913	gene	126				
+DKOIFHOP_01913	CDS	126				hypothetical protein
+DKOIFHOP_01914	gene	1704				
+DKOIFHOP_01914	CDS	1704				hypothetical protein
+DKOIFHOP_01915	gene	1794				
+DKOIFHOP_01915	CDS	1794				hypothetical protein
+DKOIFHOP_01916	gene	156				
+DKOIFHOP_01916	CDS	156				hypothetical protein
+DKOIFHOP_01917	gene	822	dapB			
+DKOIFHOP_01917	CDS	822	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+DKOIFHOP_01918	gene	1440				
+DKOIFHOP_01918	CDS	1440				hypothetical protein
+DKOIFHOP_01919	gene	411				
+DKOIFHOP_01919	CDS	411				hypothetical protein
+DKOIFHOP_01920	gene	606				
+DKOIFHOP_01920	CDS	606				hypothetical protein
+DKOIFHOP_01921	gene	1218	pyrP			
+DKOIFHOP_01921	CDS	1218	pyrP			Uracil permease
+DKOIFHOP_01922	gene	744				
+DKOIFHOP_01922	CDS	744				hypothetical protein
+DKOIFHOP_01923	gene	1296	adeQ			
+DKOIFHOP_01923	CDS	1296	adeQ		COG2252	Adenine permease AdeQ
+DKOIFHOP_01924	gene	1887				
+DKOIFHOP_01924	CDS	1887				hypothetical protein
+DKOIFHOP_01925	gene	468				
+DKOIFHOP_01925	CDS	468				hypothetical protein
+DKOIFHOP_01926	gene	2115				
+DKOIFHOP_01926	CDS	2115				hypothetical protein
+DKOIFHOP_01927	gene	102				
+DKOIFHOP_01927	CDS	102				hypothetical protein
+DKOIFHOP_01928	gene	450				
+DKOIFHOP_01928	CDS	450				hypothetical protein
+DKOIFHOP_01929	gene	945				
+DKOIFHOP_01929	CDS	945				hypothetical protein
+DKOIFHOP_01930	gene	558				
+DKOIFHOP_01930	CDS	558				hypothetical protein
+DKOIFHOP_01931	gene	1230				
+DKOIFHOP_01931	CDS	1230				hypothetical protein
+DKOIFHOP_01932	gene	4803				
+DKOIFHOP_01932	CDS	4803				hypothetical protein
+DKOIFHOP_01933	gene	291				
+DKOIFHOP_01933	CDS	291				hypothetical protein
+DKOIFHOP_01934	gene	651				
+DKOIFHOP_01934	CDS	651				hypothetical protein
+DKOIFHOP_01935	gene	843				
+DKOIFHOP_01935	CDS	843				hypothetical protein
+DKOIFHOP_01936	gene	546				
+DKOIFHOP_01936	CDS	546				hypothetical protein
+DKOIFHOP_01937	gene	192				
+DKOIFHOP_01937	CDS	192				hypothetical protein
+DKOIFHOP_01938	gene	717				
+DKOIFHOP_01938	CDS	717				hypothetical protein
+DKOIFHOP_01939	gene	1449				
+DKOIFHOP_01939	CDS	1449				hypothetical protein
+DKOIFHOP_01940	gene	1545				
+DKOIFHOP_01940	CDS	1545				hypothetical protein
+DKOIFHOP_01941	gene	1698				
+DKOIFHOP_01941	CDS	1698				hypothetical protein
+DKOIFHOP_01942	gene	1833	LIAS			
+DKOIFHOP_01942	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+DKOIFHOP_01943	gene	1158	pntA_1			
+DKOIFHOP_01943	CDS	1158	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+DKOIFHOP_01944	gene	315	pntA_2			
+DKOIFHOP_01944	CDS	315	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+DKOIFHOP_01945	gene	1533	pntB			
+DKOIFHOP_01945	CDS	1533	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+DKOIFHOP_01946	gene	1665	lcfB			
+DKOIFHOP_01946	CDS	1665	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+DKOIFHOP_01947	gene	1248	lolE_2			
+DKOIFHOP_01947	CDS	1248	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+DKOIFHOP_01948	gene	2055	htpG			
+DKOIFHOP_01948	CDS	2055	htpG			Chaperone protein HtpG
+DKOIFHOP_01949	gene	1455	pepD_2			
+DKOIFHOP_01949	CDS	1455	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+DKOIFHOP_01950	gene	258				
+DKOIFHOP_01950	CDS	258				hypothetical protein
+DKOIFHOP_01951	gene	606				
+DKOIFHOP_01951	CDS	606				hypothetical protein
+DKOIFHOP_01952	gene	636	nth			
+DKOIFHOP_01952	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+DKOIFHOP_01953	gene	711				
+DKOIFHOP_01953	CDS	711				hypothetical protein
+DKOIFHOP_01954	gene	648				
+DKOIFHOP_01954	CDS	648				hypothetical protein
+DKOIFHOP_01955	gene	2463	pheT			
+DKOIFHOP_01955	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+DKOIFHOP_01956	gene	726				
+DKOIFHOP_01956	CDS	726			COG0217	putative transcriptional regulatory protein
+DKOIFHOP_01957	gene	387				
+DKOIFHOP_01957	CDS	387				hypothetical protein
+DKOIFHOP_01958	gene	1788	ftsH_2			
+DKOIFHOP_01958	CDS	1788	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+DKOIFHOP_01959	gene	936	eamA			
+DKOIFHOP_01959	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+DKOIFHOP_01960	gene	1260	kdtA			
+DKOIFHOP_01960	CDS	1260	kdtA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+DKOIFHOP_01961	gene	1536	gltX			
+DKOIFHOP_01961	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+DKOIFHOP_01962	gene	2055	rny_2			
+DKOIFHOP_01962	CDS	2055	rny_2	3.1.-.-		Ribonuclease Y
+DKOIFHOP_01963	gene	1485				
+DKOIFHOP_01963	CDS	1485				hypothetical protein
+DKOIFHOP_01964	gene	900				
+DKOIFHOP_01964	CDS	900				hypothetical protein
+DKOIFHOP_01965	gene	2271	priA			
+DKOIFHOP_01965	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+DKOIFHOP_01966	gene	90				
+DKOIFHOP_01966	CDS	90				hypothetical protein
+DKOIFHOP_01967	gene	984	menF_2			
+DKOIFHOP_01967	CDS	984	menF_2	5.4.4.2		Isochorismate synthase MenF
+DKOIFHOP_01968	gene	597				
+DKOIFHOP_01968	CDS	597				hypothetical protein
+DKOIFHOP_01969	gene	600				
+DKOIFHOP_01969	CDS	600				hypothetical protein
+DKOIFHOP_01970	gene	1026				
+DKOIFHOP_01970	CDS	1026				hypothetical protein
+DKOIFHOP_01971	gene	1557				
+DKOIFHOP_01971	CDS	1557				hypothetical protein
+DKOIFHOP_01972	gene	816				
+DKOIFHOP_01972	CDS	816				hypothetical protein
+DKOIFHOP_01973	gene	1458	egtB			
+DKOIFHOP_01973	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+DKOIFHOP_01974	gene	1035				
+DKOIFHOP_01974	CDS	1035				hypothetical protein
+DKOIFHOP_01975	gene	633				
+DKOIFHOP_01975	CDS	633				hypothetical protein
+DKOIFHOP_01976	gene	498	yrdA			
+DKOIFHOP_01976	CDS	498	yrdA		COG0663	Protein YrdA
+DKOIFHOP_01977	gene	3030				
+DKOIFHOP_01977	CDS	3030				hypothetical protein
+DKOIFHOP_01978	gene	2295				
+DKOIFHOP_01978	CDS	2295				hypothetical protein
+DKOIFHOP_01979	gene	1506				
+DKOIFHOP_01979	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+DKOIFHOP_01980	gene	147				
+DKOIFHOP_01980	CDS	147				hypothetical protein
+DKOIFHOP_01981	gene	1374	tpl			
+DKOIFHOP_01981	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+DKOIFHOP_01982	gene	1674	aspT_2			
+DKOIFHOP_01982	CDS	1674	aspT_2			Aspartate/alanine antiporter
+DKOIFHOP_01983	gene	1041	ykoT			
+DKOIFHOP_01983	CDS	1041	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+DKOIFHOP_01984	gene	1092	lpxL			
+DKOIFHOP_01984	CDS	1092	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+DKOIFHOP_01985	gene	807				
+DKOIFHOP_01985	CDS	807				hypothetical protein
+DKOIFHOP_01986	gene	1968				
+DKOIFHOP_01986	CDS	1968				hypothetical protein
+DKOIFHOP_01987	gene	1560				
+DKOIFHOP_01987	CDS	1560				hypothetical protein
+DKOIFHOP_01988	gene	594				
+DKOIFHOP_01988	CDS	594				hypothetical protein
+DKOIFHOP_01989	gene	2613				
+DKOIFHOP_01989	CDS	2613				hypothetical protein
+DKOIFHOP_01990	gene	195				
+DKOIFHOP_01990	CDS	195				hypothetical protein
+DKOIFHOP_01991	gene	3435				
+DKOIFHOP_01991	CDS	3435				hypothetical protein
+DKOIFHOP_01992	gene	171				
+DKOIFHOP_01992	CDS	171				hypothetical protein
+DKOIFHOP_01993	gene	74				
+DKOIFHOP_01993	tRNA	74				tRNA-Met(cat)
+DKOIFHOP_01994	gene	612				
+DKOIFHOP_01994	CDS	612				hypothetical protein
+DKOIFHOP_01995	gene	747	fabG			
+DKOIFHOP_01995	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+DKOIFHOP_01996	gene	672	rluC			
+DKOIFHOP_01996	CDS	672	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+DKOIFHOP_01997	gene	747				
+DKOIFHOP_01997	CDS	747				hypothetical protein
+DKOIFHOP_01998	gene	180				
+DKOIFHOP_01998	CDS	180				hypothetical protein
+DKOIFHOP_01999	gene	4644				
+DKOIFHOP_01999	CDS	4644				hypothetical protein
+DKOIFHOP_02000	gene	2373	bamA_3			
+DKOIFHOP_02000	CDS	2373	bamA_3			Outer membrane protein assembly factor BamA
+DKOIFHOP_02001	gene	1410	clsA			
+DKOIFHOP_02001	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+DKOIFHOP_02002	gene	660	queE			
+DKOIFHOP_02002	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+DKOIFHOP_02003	gene	330				
+DKOIFHOP_02003	CDS	330				hypothetical protein
+DKOIFHOP_02004	gene	1938	dnaG_2			
+DKOIFHOP_02004	CDS	1938	dnaG_2	2.7.7.-		DNA primase
+DKOIFHOP_02005	gene	1038	nrnA			
+DKOIFHOP_02005	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+DKOIFHOP_02006	gene	840	pal_4			
+DKOIFHOP_02006	CDS	840	pal_4			Peptidoglycan-associated lipoprotein
+DKOIFHOP_02007	gene	165				
+DKOIFHOP_02007	CDS	165				hypothetical protein
+DKOIFHOP_02008	gene	4008	purL			
+DKOIFHOP_02008	CDS	4008	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+DKOIFHOP_02009	gene	552	srpC_1			
+DKOIFHOP_02009	CDS	552	srpC_1		COG2059	putative chromate transport protein
+DKOIFHOP_02010	gene	576	srpC_2			
+DKOIFHOP_02010	CDS	576	srpC_2		COG2059	putative chromate transport protein
+DKOIFHOP_02011	gene	2148	dcp			
+DKOIFHOP_02011	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+DKOIFHOP_02012	gene	1995	glgB_2			
+DKOIFHOP_02012	CDS	1995	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+DKOIFHOP_02013	gene	1959	pulA			
+DKOIFHOP_02013	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+DKOIFHOP_02014	gene	2220	susB			
+DKOIFHOP_02014	CDS	2220	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+DKOIFHOP_02015	gene	2736				
+DKOIFHOP_02015	CDS	2736				hypothetical protein
+DKOIFHOP_02016	gene	1386				
+DKOIFHOP_02016	CDS	1386				hypothetical protein
+DKOIFHOP_02017	gene	462				
+DKOIFHOP_02017	CDS	462				hypothetical protein
+DKOIFHOP_02018	gene	2052	ligA			
+DKOIFHOP_02018	CDS	2052	ligA	6.5.1.2		DNA ligase
+DKOIFHOP_02019	gene	855	pta_2			
+DKOIFHOP_02019	CDS	855	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+DKOIFHOP_02020	gene	1062	buk2			
+DKOIFHOP_02020	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+DKOIFHOP_02021	gene	675	trmD			
+DKOIFHOP_02021	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+DKOIFHOP_02022	gene	939				
+DKOIFHOP_02022	CDS	939				hypothetical protein
+DKOIFHOP_02023	gene	1416	pepP			
+DKOIFHOP_02023	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+DKOIFHOP_02024	gene	1197				
+DKOIFHOP_02024	CDS	1197				hypothetical protein
+DKOIFHOP_02025	gene	1731	recJ			
+DKOIFHOP_02025	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+DKOIFHOP_02026	gene	1911	deaD_2			
+DKOIFHOP_02026	CDS	1911	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+DKOIFHOP_02027	gene	813				
+DKOIFHOP_02027	CDS	813				hypothetical protein
+DKOIFHOP_02028	gene	1182				
+DKOIFHOP_02028	CDS	1182				Outer membrane protein 41
+DKOIFHOP_02029	gene	531	cobP			
+DKOIFHOP_02029	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+DKOIFHOP_02030	gene	1032	cobT			
+DKOIFHOP_02030	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+DKOIFHOP_02031	gene	792	cobS			
+DKOIFHOP_02031	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+DKOIFHOP_02032	gene	534	pspA_2			
+DKOIFHOP_02032	CDS	534	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+DKOIFHOP_02033	gene	729				
+DKOIFHOP_02033	CDS	729				hypothetical protein
+DKOIFHOP_02034	gene	1068				
+DKOIFHOP_02034	CDS	1068				hypothetical protein
+DKOIFHOP_02035	gene	1812				
+DKOIFHOP_02035	CDS	1812				hypothetical protein
+DKOIFHOP_02036	gene	9183				
+DKOIFHOP_02036	CDS	9183				hypothetical protein
+DKOIFHOP_02037	gene	837				
+DKOIFHOP_02037	CDS	837				hypothetical protein
+DKOIFHOP_02038	gene	1230				
+DKOIFHOP_02038	CDS	1230				hypothetical protein
+DKOIFHOP_02039	gene	732				
+DKOIFHOP_02039	CDS	732				hypothetical protein
+DKOIFHOP_02040	gene	1266				
+DKOIFHOP_02040	CDS	1266				hypothetical protein
+DKOIFHOP_02041	gene	1443	rlmCD			
+DKOIFHOP_02041	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+DKOIFHOP_02042	gene	1101				
+DKOIFHOP_02042	CDS	1101				hypothetical protein
+DKOIFHOP_02043	gene	2202	hppA1			
+DKOIFHOP_02043	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+DKOIFHOP_02044	gene	288				
+DKOIFHOP_02044	CDS	288				hypothetical protein
+DKOIFHOP_02045	gene	1083				
+DKOIFHOP_02045	CDS	1083				hypothetical protein
+DKOIFHOP_02046	gene	1188				
+DKOIFHOP_02046	CDS	1188				hypothetical protein
+DKOIFHOP_02047	gene	3591				
+DKOIFHOP_02047	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+DKOIFHOP_02048	gene	2310	maeB			
+DKOIFHOP_02048	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+DKOIFHOP_02049	gene	528				
+DKOIFHOP_02049	CDS	528				hypothetical protein
+DKOIFHOP_02050	gene	291				
+DKOIFHOP_02050	CDS	291				hypothetical protein
+DKOIFHOP_02051	gene	486	resA_6			
+DKOIFHOP_02051	CDS	486	resA_6			Thiol-disulfide oxidoreductase ResA
+DKOIFHOP_02052	gene	903	rhaS_3			
+DKOIFHOP_02052	CDS	903	rhaS_3			HTH-type transcriptional activator RhaS
+DKOIFHOP_02053	gene	1188	bioF			
+DKOIFHOP_02053	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+DKOIFHOP_02054	gene	2940	rcsC_2			
+DKOIFHOP_02054	CDS	2940	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+DKOIFHOP_02055	gene	423				
+DKOIFHOP_02055	CDS	423				hypothetical protein
+DKOIFHOP_02056	gene	1509	scpC			
+DKOIFHOP_02056	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+DKOIFHOP_02057	gene	558	fumB			
+DKOIFHOP_02057	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+DKOIFHOP_02058	gene	843	ttdA			
+DKOIFHOP_02058	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+DKOIFHOP_02059	gene	945				
+DKOIFHOP_02059	CDS	945				hypothetical protein
+DKOIFHOP_02060	gene	321				
+DKOIFHOP_02060	CDS	321				hypothetical protein
+DKOIFHOP_02061	gene	1380				
+DKOIFHOP_02061	CDS	1380				hypothetical protein
+DKOIFHOP_02062	gene	1239				
+DKOIFHOP_02062	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+DKOIFHOP_02063	gene	1464	glmE			
+DKOIFHOP_02063	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+DKOIFHOP_02064	gene	1383				
+DKOIFHOP_02064	CDS	1383				hypothetical protein
+DKOIFHOP_02065	gene	414	glmS			
+DKOIFHOP_02065	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+DKOIFHOP_02066	gene	600				
+DKOIFHOP_02066	CDS	600				hypothetical protein
+DKOIFHOP_02067	gene	747				
+DKOIFHOP_02067	CDS	747				hypothetical protein
+DKOIFHOP_02068	gene	552				
+DKOIFHOP_02068	CDS	552				hypothetical protein
+DKOIFHOP_02069	gene	414				
+DKOIFHOP_02069	CDS	414				hypothetical protein
+DKOIFHOP_02070	gene	912				
+DKOIFHOP_02070	CDS	912				hypothetical protein
+DKOIFHOP_02071	gene	483	asnC_2			
+DKOIFHOP_02071	CDS	483	asnC_2		COG1522	Regulatory protein AsnC
+DKOIFHOP_02072	gene	1755				
+DKOIFHOP_02072	CDS	1755				hypothetical protein
+DKOIFHOP_02073	gene	1029				
+DKOIFHOP_02073	CDS	1029				hypothetical protein
+DKOIFHOP_02074	gene	201				
+DKOIFHOP_02074	CDS	201				hypothetical protein
+DKOIFHOP_02075	gene	1233				
+DKOIFHOP_02075	CDS	1233				hypothetical protein
+DKOIFHOP_02076	gene	1473				
+DKOIFHOP_02076	CDS	1473				hypothetical protein
+DKOIFHOP_02077	gene	2127	dpp7			
+DKOIFHOP_02077	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+DKOIFHOP_02078	gene	717				
+DKOIFHOP_02078	CDS	717				hypothetical protein
+DKOIFHOP_02079	gene	726				
+DKOIFHOP_02079	CDS	726				hypothetical protein
+DKOIFHOP_02080	gene	1038	wbbI			
+DKOIFHOP_02080	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+DKOIFHOP_02081	gene	453				
+DKOIFHOP_02081	CDS	453				hypothetical protein
+DKOIFHOP_02082	gene	348				
+DKOIFHOP_02082	CDS	348				hypothetical protein
+DKOIFHOP_02083	gene	1377	fucP			
+DKOIFHOP_02083	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+DKOIFHOP_02084	gene	1167	mro			
+DKOIFHOP_02084	CDS	1167	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+DKOIFHOP_02085	gene	1227	fpgS			
+DKOIFHOP_02085	CDS	1227	fpgS	6.3.2.17		Folylpolyglutamate synthase
+DKOIFHOP_02086	gene	1173	dnaJ			
+DKOIFHOP_02086	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+DKOIFHOP_02087	gene	609	grpE			
+DKOIFHOP_02087	CDS	609	grpE			Protein GrpE
+DKOIFHOP_02088	gene	1611	ybiT			
+DKOIFHOP_02088	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+DKOIFHOP_02089	gene	228				
+DKOIFHOP_02089	CDS	228				hypothetical protein
+DKOIFHOP_02090	gene	3111				
+DKOIFHOP_02090	CDS	3111				hypothetical protein
+DKOIFHOP_02091	gene	2724	ppdK			
+DKOIFHOP_02091	CDS	2724	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+DKOIFHOP_02092	gene	76				
+DKOIFHOP_02092	tRNA	76				tRNA-Thr(cgt)
+DKOIFHOP_02093	gene	74				
+DKOIFHOP_02093	tRNA	74				tRNA-Gly(ccc)
+DKOIFHOP_02094	gene	2826	uvrA_2			
+DKOIFHOP_02094	CDS	2826	uvrA_2		COG0178	UvrABC system protein A
+DKOIFHOP_02095	gene	780	nudC_3			
+DKOIFHOP_02095	CDS	780	nudC_3	3.6.1.22		NADH pyrophosphatase
+DKOIFHOP_02096	gene	1911	yfkN_2			
+DKOIFHOP_02096	CDS	1911	yfkN_2		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+DKOIFHOP_02097	gene	2118				
+DKOIFHOP_02097	CDS	2118				hypothetical protein
+DKOIFHOP_02098	gene	693				
+DKOIFHOP_02098	CDS	693				hypothetical protein
+DKOIFHOP_02099	gene	993	htpX			
+DKOIFHOP_02099	CDS	993	htpX	3.4.24.-		Protease HtpX
+DKOIFHOP_02100	gene	564	lemA			
+DKOIFHOP_02100	CDS	564	lemA		COG1704	Protein LemA
+DKOIFHOP_02101	gene	405				
+DKOIFHOP_02101	CDS	405				hypothetical protein
+DKOIFHOP_02102	gene	107				
+DKOIFHOP_02102	rRNA	107				5S ribosomal RNA
+DKOIFHOP_02103	gene	153				
+DKOIFHOP_02103	CDS	153				hypothetical protein
+DKOIFHOP_02104	gene	1188	patB			
+DKOIFHOP_02104	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+DKOIFHOP_02105	gene	852				
+DKOIFHOP_02105	CDS	852				hypothetical protein
+DKOIFHOP_02106	gene	1308				
+DKOIFHOP_02106	CDS	1308				hypothetical protein
+DKOIFHOP_02107	gene	1695				
+DKOIFHOP_02107	CDS	1695				hypothetical protein
+DKOIFHOP_02108	gene	294				
+DKOIFHOP_02108	CDS	294				hypothetical protein
+DKOIFHOP_02109	gene	921				
+DKOIFHOP_02109	CDS	921				hypothetical protein
+DKOIFHOP_02110	gene	83				
+DKOIFHOP_02110	tRNA	83				tRNA-Leu(caa)
+DKOIFHOP_02111	gene	1095	algA_2			
+DKOIFHOP_02111	CDS	1095	algA_2		COG0662	Alginate biosynthesis protein AlgA
+DKOIFHOP_02112	gene	1164				
+DKOIFHOP_02112	CDS	1164				hypothetical protein
+DKOIFHOP_02113	gene	1056				
+DKOIFHOP_02113	CDS	1056			COG3039	IS5 family transposase ISPg8
+DKOIFHOP_02114	gene	612	nreC			
+DKOIFHOP_02114	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+DKOIFHOP_02115	gene	1911				
+DKOIFHOP_02115	CDS	1911				hypothetical protein
+DKOIFHOP_02116	gene	894	fabD			
+DKOIFHOP_02116	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+DKOIFHOP_02117	gene	1698	glgE			
+DKOIFHOP_02117	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+DKOIFHOP_02118	gene	687				
+DKOIFHOP_02118	CDS	687				hypothetical protein
+DKOIFHOP_02119	gene	420				
+DKOIFHOP_02119	CDS	420				hypothetical protein
+DKOIFHOP_02120	gene	597	carQ			
+DKOIFHOP_02120	CDS	597	carQ		COG1595	RNA polymerase sigma factor CarQ
+DKOIFHOP_02121	gene	648	rpe			
+DKOIFHOP_02121	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+DKOIFHOP_02122	gene	126				
+DKOIFHOP_02122	CDS	126				hypothetical protein
+DKOIFHOP_02123	gene	696	trpF			
+DKOIFHOP_02123	CDS	696	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+DKOIFHOP_02124	gene	564	pabA			
+DKOIFHOP_02124	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+DKOIFHOP_02125	gene	378	ridA			
+DKOIFHOP_02125	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+DKOIFHOP_02126	gene	1827	msbA_2			
+DKOIFHOP_02126	CDS	1827	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+DKOIFHOP_02127	gene	1068				
+DKOIFHOP_02127	CDS	1068				hypothetical protein
+DKOIFHOP_02128	gene	90				
+DKOIFHOP_02128	CDS	90				hypothetical protein
+DKOIFHOP_02129	gene	651				
+DKOIFHOP_02129	CDS	651				hypothetical protein
+DKOIFHOP_02130	gene	681				
+DKOIFHOP_02130	CDS	681				hypothetical protein
+DKOIFHOP_02131	gene	726				
+DKOIFHOP_02131	CDS	726				hypothetical protein
+DKOIFHOP_02132	gene	615				
+DKOIFHOP_02132	CDS	615				hypothetical protein
+DKOIFHOP_02133	gene	96				
+DKOIFHOP_02133	CDS	96				hypothetical protein
+DKOIFHOP_02134	gene	288				
+DKOIFHOP_02134	CDS	288				hypothetical protein
+DKOIFHOP_02135	gene	114				
+DKOIFHOP_02135	CDS	114				hypothetical protein

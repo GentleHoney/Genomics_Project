@@ -1,0 +1,3202 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OPANPEBB_00001	gene	195				
+OPANPEBB_00001	CDS	195				hypothetical protein
+OPANPEBB_00002	gene	1779				
+OPANPEBB_00002	CDS	1779				hypothetical protein
+OPANPEBB_00003	gene	141				
+OPANPEBB_00003	CDS	141				hypothetical protein
+OPANPEBB_00004	gene	426				
+OPANPEBB_00004	CDS	426				hypothetical protein
+OPANPEBB_00005	gene	1227				
+OPANPEBB_00005	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+OPANPEBB_00006	gene	1377				
+OPANPEBB_00006	CDS	1377				hypothetical protein
+OPANPEBB_00007	gene	1866	deaD_1			
+OPANPEBB_00007	CDS	1866	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+OPANPEBB_00008	gene	558				
+OPANPEBB_00008	CDS	558		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+OPANPEBB_00009	gene	594				
+OPANPEBB_00009	CDS	594				hypothetical protein
+OPANPEBB_00010	gene	168				
+OPANPEBB_00010	CDS	168				hypothetical protein
+OPANPEBB_00011	gene	513				
+OPANPEBB_00011	CDS	513				hypothetical protein
+OPANPEBB_00012	gene	756	frdB			
+OPANPEBB_00012	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+OPANPEBB_00013	gene	1983	frdA			
+OPANPEBB_00013	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+OPANPEBB_00014	gene	690				
+OPANPEBB_00014	CDS	690				hypothetical protein
+OPANPEBB_00015	gene	1953	mnmG			
+OPANPEBB_00015	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+OPANPEBB_00016	gene	531	apt			
+OPANPEBB_00016	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+OPANPEBB_00017	gene	1827	uvrC			
+OPANPEBB_00017	CDS	1827	uvrC		COG0322	UvrABC system protein C
+OPANPEBB_00018	gene	453	dtd			
+OPANPEBB_00018	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+OPANPEBB_00019	gene	417				
+OPANPEBB_00019	CDS	417				hypothetical protein
+OPANPEBB_00020	gene	936				
+OPANPEBB_00020	CDS	936				hypothetical protein
+OPANPEBB_00021	gene	105				
+OPANPEBB_00021	CDS	105				hypothetical protein
+OPANPEBB_00022	gene	1131				
+OPANPEBB_00022	CDS	1131				hypothetical protein
+OPANPEBB_00023	gene	1914	pglF			
+OPANPEBB_00023	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+OPANPEBB_00024	gene	594				
+OPANPEBB_00024	CDS	594				hypothetical protein
+OPANPEBB_00025	gene	1197	arnB			
+OPANPEBB_00025	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+OPANPEBB_00026	gene	798	tuaG			
+OPANPEBB_00026	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+OPANPEBB_00027	gene	1143				
+OPANPEBB_00027	CDS	1143				hypothetical protein
+OPANPEBB_00028	gene	1155				
+OPANPEBB_00028	CDS	1155				hypothetical protein
+OPANPEBB_00029	gene	909	trxB			
+OPANPEBB_00029	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+OPANPEBB_00030	gene	549	bsaA			
+OPANPEBB_00030	CDS	549	bsaA			Glutathione peroxidase BsaA
+OPANPEBB_00031	gene	600				
+OPANPEBB_00031	CDS	600				hypothetical protein
+OPANPEBB_00032	gene	1242	ugd			
+OPANPEBB_00032	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+OPANPEBB_00033	gene	456				
+OPANPEBB_00033	CDS	456				hypothetical protein
+OPANPEBB_00034	gene	1563				
+OPANPEBB_00034	CDS	1563				hypothetical protein
+OPANPEBB_00035	gene	126				
+OPANPEBB_00035	CDS	126				hypothetical protein
+OPANPEBB_00036	gene	621				
+OPANPEBB_00036	CDS	621				hypothetical protein
+OPANPEBB_00037	gene	879				
+OPANPEBB_00037	CDS	879				hypothetical protein
+OPANPEBB_00038	gene	690	tsaB			
+OPANPEBB_00038	CDS	690	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+OPANPEBB_00039	gene	612				
+OPANPEBB_00039	CDS	612				hypothetical protein
+OPANPEBB_00040	gene	1347	murA			
+OPANPEBB_00040	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OPANPEBB_00041	gene	522	rimM			
+OPANPEBB_00041	CDS	522	rimM			Ribosome maturation factor RimM
+OPANPEBB_00042	gene	1155	dxr			
+OPANPEBB_00042	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+OPANPEBB_00043	gene	1410				
+OPANPEBB_00043	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+OPANPEBB_00044	gene	1896	sacC			
+OPANPEBB_00044	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+OPANPEBB_00045	gene	276				
+OPANPEBB_00045	CDS	276				hypothetical protein
+OPANPEBB_00046	gene	684				
+OPANPEBB_00046	CDS	684				hypothetical protein
+OPANPEBB_00047	gene	909	pfkB_1			
+OPANPEBB_00047	CDS	909	pfkB_1	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+OPANPEBB_00048	gene	1812				
+OPANPEBB_00048	CDS	1812				hypothetical protein
+OPANPEBB_00049	gene	726				
+OPANPEBB_00049	CDS	726				hypothetical protein
+OPANPEBB_00050	gene	1506				
+OPANPEBB_00050	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+OPANPEBB_00051	gene	1374	tpl			
+OPANPEBB_00051	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+OPANPEBB_00052	gene	1674	aspT			
+OPANPEBB_00052	CDS	1674	aspT			Aspartate/alanine antiporter
+OPANPEBB_00053	gene	987	ykoT			
+OPANPEBB_00053	CDS	987	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+OPANPEBB_00054	gene	1020	lpxL			
+OPANPEBB_00054	CDS	1020	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+OPANPEBB_00055	gene	807				
+OPANPEBB_00055	CDS	807				hypothetical protein
+OPANPEBB_00056	gene	1968				
+OPANPEBB_00056	CDS	1968				hypothetical protein
+OPANPEBB_00057	gene	522				
+OPANPEBB_00057	CDS	522				hypothetical protein
+OPANPEBB_00058	gene	1239				
+OPANPEBB_00058	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+OPANPEBB_00059	gene	1464	glmE			
+OPANPEBB_00059	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+OPANPEBB_00060	gene	1383				
+OPANPEBB_00060	CDS	1383				hypothetical protein
+OPANPEBB_00061	gene	414	glmS			
+OPANPEBB_00061	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+OPANPEBB_00062	gene	600				
+OPANPEBB_00062	CDS	600				hypothetical protein
+OPANPEBB_00063	gene	744				
+OPANPEBB_00063	CDS	744				hypothetical protein
+OPANPEBB_00064	gene	552				
+OPANPEBB_00064	CDS	552				hypothetical protein
+OPANPEBB_00065	gene	510				
+OPANPEBB_00065	CDS	510				hypothetical protein
+OPANPEBB_00066	gene	1560				
+OPANPEBB_00066	CDS	1560				hypothetical protein
+OPANPEBB_00067	gene	576				
+OPANPEBB_00067	CDS	576				hypothetical protein
+OPANPEBB_00068	gene	396				
+OPANPEBB_00068	CDS	396				hypothetical protein
+OPANPEBB_00069	gene	987				
+OPANPEBB_00069	CDS	987				hypothetical protein
+OPANPEBB_00070	gene	963				
+OPANPEBB_00070	CDS	963				hypothetical protein
+OPANPEBB_00071	gene	480	dpp7			
+OPANPEBB_00071	CDS	480	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+OPANPEBB_00072	gene	717				
+OPANPEBB_00072	CDS	717				hypothetical protein
+OPANPEBB_00073	gene	726				
+OPANPEBB_00073	CDS	726				hypothetical protein
+OPANPEBB_00074	gene	1038	wbbI			
+OPANPEBB_00074	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+OPANPEBB_00075	gene	909				
+OPANPEBB_00075	CDS	909				hypothetical protein
+OPANPEBB_00076	gene	843				
+OPANPEBB_00076	CDS	843				hypothetical protein
+OPANPEBB_00077	gene	651				
+OPANPEBB_00077	CDS	651				hypothetical protein
+OPANPEBB_00078	gene	291				
+OPANPEBB_00078	CDS	291				hypothetical protein
+OPANPEBB_00079	gene	4803				
+OPANPEBB_00079	CDS	4803				hypothetical protein
+OPANPEBB_00080	gene	1035				
+OPANPEBB_00080	CDS	1035				hypothetical protein
+OPANPEBB_00081	gene	234	rsxB			
+OPANPEBB_00081	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+OPANPEBB_00082	gene	180				
+OPANPEBB_00082	CDS	180				hypothetical protein
+OPANPEBB_00083	gene	924	folD			
+OPANPEBB_00083	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+OPANPEBB_00084	gene	1341	ffh			
+OPANPEBB_00084	CDS	1341	ffh		COG0541	Signal recognition particle protein
+OPANPEBB_00085	gene	480				
+OPANPEBB_00085	CDS	480				hypothetical protein
+OPANPEBB_00086	gene	753				
+OPANPEBB_00086	CDS	753				hypothetical protein
+OPANPEBB_00087	gene	2127				
+OPANPEBB_00087	CDS	2127			COG1629	putative TonB-dependent receptor
+OPANPEBB_00088	gene	402				
+OPANPEBB_00088	CDS	402				hypothetical protein
+OPANPEBB_00089	gene	3417				
+OPANPEBB_00089	CDS	3417				hypothetical protein
+OPANPEBB_00090	gene	579				
+OPANPEBB_00090	CDS	579				hypothetical protein
+	repeat_region	827				
+OPANPEBB_00091	gene	405				
+OPANPEBB_00091	CDS	405				hypothetical protein
+OPANPEBB_00092	gene	1251	sdaA			
+OPANPEBB_00092	CDS	1251	sdaA	4.3.1.17	COG1760	L-serine dehydratase 1
+OPANPEBB_00093	gene	2640	rep_1			
+OPANPEBB_00093	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+OPANPEBB_00094	gene	1404				
+OPANPEBB_00094	CDS	1404				hypothetical protein
+OPANPEBB_00095	gene	1098	ybhR_1			
+OPANPEBB_00095	CDS	1098	ybhR_1		COG0842	putative multidrug ABC transporter permease YbhR
+OPANPEBB_00096	gene	1065	ybhS			
+OPANPEBB_00096	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+OPANPEBB_00097	gene	1476	rbbA			
+OPANPEBB_00097	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+OPANPEBB_00098	gene	888				
+OPANPEBB_00098	CDS	888				hypothetical protein
+OPANPEBB_00099	gene	1131				
+OPANPEBB_00099	CDS	1131				hypothetical protein
+OPANPEBB_00100	gene	210				
+OPANPEBB_00100	CDS	210				hypothetical protein
+OPANPEBB_00101	gene	1152	mshA_1			
+OPANPEBB_00101	CDS	1152	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OPANPEBB_00102	gene	1506				
+OPANPEBB_00102	CDS	1506				hypothetical protein
+OPANPEBB_00103	gene	1221				
+OPANPEBB_00103	CDS	1221				hypothetical protein
+OPANPEBB_00104	gene	555	dapH			
+OPANPEBB_00104	CDS	555	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OPANPEBB_00105	gene	1530				
+OPANPEBB_00105	CDS	1530				hypothetical protein
+OPANPEBB_00106	gene	1194				
+OPANPEBB_00106	CDS	1194				hypothetical protein
+OPANPEBB_00107	gene	1077				
+OPANPEBB_00107	CDS	1077				hypothetical protein
+OPANPEBB_00108	gene	723				
+OPANPEBB_00108	CDS	723				hypothetical protein
+OPANPEBB_00109	gene	618				
+OPANPEBB_00109	CDS	618				hypothetical protein
+OPANPEBB_00110	gene	210				
+OPANPEBB_00110	CDS	210				hypothetical protein
+OPANPEBB_00111	gene	318				
+OPANPEBB_00111	CDS	318				hypothetical protein
+OPANPEBB_00112	gene	906				
+OPANPEBB_00112	CDS	906				hypothetical protein
+OPANPEBB_00113	gene	165				
+OPANPEBB_00113	CDS	165				hypothetical protein
+OPANPEBB_00114	gene	2826				
+OPANPEBB_00114	CDS	2826				hypothetical protein
+OPANPEBB_00115	gene	1305	metK			
+OPANPEBB_00115	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+OPANPEBB_00116	gene	1050				
+OPANPEBB_00116	CDS	1050				hypothetical protein
+OPANPEBB_00117	gene	747				
+OPANPEBB_00117	CDS	747				hypothetical protein
+OPANPEBB_00118	gene	432	rnpA			
+OPANPEBB_00118	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+OPANPEBB_00119	gene	240				
+OPANPEBB_00119	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+OPANPEBB_00120	gene	1305	tyrS			
+OPANPEBB_00120	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+OPANPEBB_00121	gene	525				
+OPANPEBB_00121	CDS	525				hypothetical protein
+OPANPEBB_00122	gene	414				
+OPANPEBB_00122	CDS	414				hypothetical protein
+OPANPEBB_00123	gene	645				
+OPANPEBB_00123	CDS	645				hypothetical protein
+OPANPEBB_00124	gene	1506	rpoN			
+OPANPEBB_00124	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+OPANPEBB_00125	gene	630				
+OPANPEBB_00125	CDS	630				hypothetical protein
+OPANPEBB_00126	gene	507	purE			
+OPANPEBB_00126	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OPANPEBB_00127	gene	1413	ispG			
+OPANPEBB_00127	CDS	1413	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+OPANPEBB_00128	gene	804				
+OPANPEBB_00128	CDS	804				hypothetical protein
+OPANPEBB_00129	gene	126				
+OPANPEBB_00129	CDS	126				hypothetical protein
+OPANPEBB_00130	gene	231				
+OPANPEBB_00130	CDS	231				hypothetical protein
+OPANPEBB_00131	gene	1203				
+OPANPEBB_00131	CDS	1203				hypothetical protein
+OPANPEBB_00132	gene	1311				
+OPANPEBB_00132	CDS	1311				hypothetical protein
+OPANPEBB_00133	gene	1131	yhdJ			
+OPANPEBB_00133	CDS	1131	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+OPANPEBB_00134	gene	1557				
+OPANPEBB_00134	CDS	1557				hypothetical protein
+OPANPEBB_00135	gene	816				
+OPANPEBB_00135	CDS	816				hypothetical protein
+OPANPEBB_00136	gene	1458	egtB			
+OPANPEBB_00136	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+OPANPEBB_00137	gene	975				
+OPANPEBB_00137	CDS	975				hypothetical protein
+OPANPEBB_00138	gene	633				
+OPANPEBB_00138	CDS	633				hypothetical protein
+OPANPEBB_00139	gene	83				
+OPANPEBB_00139	tRNA	83				tRNA-Leu(caa)
+OPANPEBB_00140	gene	1095	algA			
+OPANPEBB_00140	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+OPANPEBB_00141	gene	1164				
+OPANPEBB_00141	CDS	1164				hypothetical protein
+OPANPEBB_00142	gene	330				
+OPANPEBB_00142	CDS	330				hypothetical protein
+OPANPEBB_00143	gene	89				
+OPANPEBB_00143	tRNA	89				tRNA-Ser(gga)
+OPANPEBB_00144	gene	837	dtd3			
+OPANPEBB_00144	CDS	837	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+OPANPEBB_00145	gene	699				
+OPANPEBB_00145	CDS	699				hypothetical protein
+OPANPEBB_00146	gene	975				
+OPANPEBB_00146	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+OPANPEBB_00147	gene	720				
+OPANPEBB_00147	CDS	720				hypothetical protein
+OPANPEBB_00148	gene	951				
+OPANPEBB_00148	CDS	951				hypothetical protein
+OPANPEBB_00149	gene	2682	parC			
+OPANPEBB_00149	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+OPANPEBB_00150	gene	861				
+OPANPEBB_00150	CDS	861				hypothetical protein
+OPANPEBB_00151	gene	1005				
+OPANPEBB_00151	CDS	1005				hypothetical protein
+OPANPEBB_00152	gene	567				
+OPANPEBB_00152	CDS	567				hypothetical protein
+OPANPEBB_00153	gene	564				
+OPANPEBB_00153	CDS	564				hypothetical protein
+OPANPEBB_00154	gene	405				
+OPANPEBB_00154	CDS	405				hypothetical protein
+OPANPEBB_00155	gene	1068				
+OPANPEBB_00155	CDS	1068				hypothetical protein
+OPANPEBB_00156	gene	1965	thrS			
+OPANPEBB_00156	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+OPANPEBB_00157	gene	2061	pat			
+OPANPEBB_00157	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+OPANPEBB_00158	gene	1812	ettA			
+OPANPEBB_00158	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+OPANPEBB_00159	gene	615	engB			
+OPANPEBB_00159	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+OPANPEBB_00160	gene	483				
+OPANPEBB_00160	CDS	483				hypothetical protein
+OPANPEBB_00161	gene	654				
+OPANPEBB_00161	CDS	654				hypothetical protein
+OPANPEBB_00162	gene	975				
+OPANPEBB_00162	CDS	975				hypothetical protein
+OPANPEBB_00163	gene	1632				
+OPANPEBB_00163	CDS	1632				hypothetical protein
+OPANPEBB_00164	gene	666				
+OPANPEBB_00164	CDS	666				hypothetical protein
+OPANPEBB_00165	gene	2784	cobQ			
+OPANPEBB_00165	CDS	2784	cobQ			Cobyric acid synthase
+OPANPEBB_00166	gene	672				
+OPANPEBB_00166	CDS	672				hypothetical protein
+OPANPEBB_00167	gene	1647	fumA			
+OPANPEBB_00167	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+OPANPEBB_00168	gene	1461	sasA_1			
+OPANPEBB_00168	CDS	1461	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+OPANPEBB_00169	gene	3873				
+OPANPEBB_00169	CDS	3873				hypothetical protein
+OPANPEBB_00170	gene	1554				
+OPANPEBB_00170	CDS	1554				hypothetical protein
+OPANPEBB_00171	gene	633				
+OPANPEBB_00171	CDS	633				hypothetical protein
+OPANPEBB_00172	gene	831				
+OPANPEBB_00172	CDS	831				hypothetical protein
+OPANPEBB_00173	gene	558	trmH			
+OPANPEBB_00173	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+OPANPEBB_00174	gene	429	sufE			
+OPANPEBB_00174	CDS	429	sufE		COG2166	Cysteine desulfuration protein SufE
+OPANPEBB_00175	gene	1290				
+OPANPEBB_00175	CDS	1290				hypothetical protein
+OPANPEBB_00176	gene	912	xerD_1			
+OPANPEBB_00176	CDS	912	xerD_1			Tyrosine recombinase XerD
+OPANPEBB_00177	gene	1359	miaB			
+OPANPEBB_00177	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+OPANPEBB_00178	gene	2886				
+OPANPEBB_00178	CDS	2886				hypothetical protein
+OPANPEBB_00179	gene	444				
+OPANPEBB_00179	CDS	444				hypothetical protein
+OPANPEBB_00180	gene	672				
+OPANPEBB_00180	CDS	672				hypothetical protein
+OPANPEBB_00181	gene	582				
+OPANPEBB_00181	CDS	582				hypothetical protein
+OPANPEBB_00182	gene	687				
+OPANPEBB_00182	CDS	687				hypothetical protein
+OPANPEBB_00183	gene	462				
+OPANPEBB_00183	CDS	462				hypothetical protein
+OPANPEBB_00184	gene	597				
+OPANPEBB_00184	CDS	597				hypothetical protein
+OPANPEBB_00185	gene	1176				
+OPANPEBB_00185	CDS	1176				hypothetical protein
+OPANPEBB_00186	gene	471				
+OPANPEBB_00186	CDS	471				hypothetical protein
+OPANPEBB_00187	gene	1584				
+OPANPEBB_00187	CDS	1584				hypothetical protein
+OPANPEBB_00188	gene	564				
+OPANPEBB_00188	CDS	564				hypothetical protein
+OPANPEBB_00189	gene	462				
+OPANPEBB_00189	CDS	462				hypothetical protein
+OPANPEBB_00190	gene	576				
+OPANPEBB_00190	CDS	576				hypothetical protein
+OPANPEBB_00191	gene	393				
+OPANPEBB_00191	CDS	393				hypothetical protein
+OPANPEBB_00192	gene	624	pyrE			
+OPANPEBB_00192	CDS	624	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OPANPEBB_00193	gene	852				
+OPANPEBB_00193	CDS	852				hypothetical protein
+OPANPEBB_00194	gene	1794				
+OPANPEBB_00194	CDS	1794				hypothetical protein
+OPANPEBB_00195	gene	471				
+OPANPEBB_00195	CDS	471				hypothetical protein
+OPANPEBB_00196	gene	1287				
+OPANPEBB_00196	CDS	1287				hypothetical protein
+OPANPEBB_00197	gene	507	recX			
+OPANPEBB_00197	CDS	507	recX			Regulatory protein RecX
+OPANPEBB_00198	gene	831	prmC_1			
+OPANPEBB_00198	CDS	831	prmC_1	2.1.1.297	COG2890	Release factor glutamine methyltransferase
+OPANPEBB_00199	gene	1311	murF			
+OPANPEBB_00199	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+OPANPEBB_00200	gene	183				
+OPANPEBB_00200	CDS	183				hypothetical protein
+OPANPEBB_00201	gene	513				
+OPANPEBB_00201	CDS	513				hypothetical protein
+OPANPEBB_00202	gene	1200	moaA			
+OPANPEBB_00202	CDS	1200	moaA			GTP 3',8-cyclase
+OPANPEBB_00203	gene	726				
+OPANPEBB_00203	CDS	726				hypothetical protein
+OPANPEBB_00204	gene	762				
+OPANPEBB_00204	CDS	762				hypothetical protein
+OPANPEBB_00205	gene	717	ybhL			
+OPANPEBB_00205	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+OPANPEBB_00206	gene	477	argR			
+OPANPEBB_00206	CDS	477	argR		COG1438	Arginine repressor
+OPANPEBB_00207	gene	1188	kbl			
+OPANPEBB_00207	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+OPANPEBB_00208	gene	1851				
+OPANPEBB_00208	CDS	1851				hypothetical protein
+OPANPEBB_00209	gene	1686				
+OPANPEBB_00209	CDS	1686				hypothetical protein
+OPANPEBB_00210	gene	1767				
+OPANPEBB_00210	CDS	1767				hypothetical protein
+OPANPEBB_00211	gene	165				
+OPANPEBB_00211	CDS	165				hypothetical protein
+OPANPEBB_00212	gene	549				
+OPANPEBB_00212	CDS	549				hypothetical protein
+OPANPEBB_00213	gene	1569				
+OPANPEBB_00213	CDS	1569				hypothetical protein
+OPANPEBB_00214	gene	1398				
+OPANPEBB_00214	CDS	1398				hypothetical protein
+OPANPEBB_00215	gene	981				
+OPANPEBB_00215	CDS	981				hypothetical protein
+OPANPEBB_00216	gene	1515				
+OPANPEBB_00216	CDS	1515				hypothetical protein
+OPANPEBB_00217	gene	990				
+OPANPEBB_00217	CDS	990				hypothetical protein
+OPANPEBB_00218	gene	1107				
+OPANPEBB_00218	CDS	1107				hypothetical protein
+OPANPEBB_00219	gene	573	yhdE			
+OPANPEBB_00219	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+OPANPEBB_00220	gene	519	kdsC			
+OPANPEBB_00220	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+OPANPEBB_00221	gene	783				
+OPANPEBB_00221	CDS	783				hypothetical protein
+OPANPEBB_00222	gene	528				
+OPANPEBB_00222	CDS	528				hypothetical protein
+OPANPEBB_00223	gene	75				
+OPANPEBB_00223	tRNA	75				tRNA-Thr(tgt)
+OPANPEBB_00224	gene	693				
+OPANPEBB_00224	CDS	693				hypothetical protein
+OPANPEBB_00225	gene	75				
+OPANPEBB_00225	tRNA	75				tRNA-Arg(ccg)
+OPANPEBB_00226	gene	1224	pepT			
+OPANPEBB_00226	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+OPANPEBB_00227	gene	117				
+OPANPEBB_00227	CDS	117				hypothetical protein
+OPANPEBB_00228	gene	1167	ybaL			
+OPANPEBB_00228	CDS	1167	ybaL		COG1226	Putative cation/proton antiporter YbaL
+OPANPEBB_00229	gene	990				
+OPANPEBB_00229	CDS	990				hypothetical protein
+OPANPEBB_00230	gene	1776				
+OPANPEBB_00230	CDS	1776				hypothetical protein
+OPANPEBB_00231	gene	585				
+OPANPEBB_00231	CDS	585				hypothetical protein
+OPANPEBB_00232	gene	297				
+OPANPEBB_00232	CDS	297				hypothetical protein
+OPANPEBB_00233	gene	393	adh			
+OPANPEBB_00233	CDS	393	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+OPANPEBB_00234	gene	261				
+OPANPEBB_00234	CDS	261				hypothetical protein
+OPANPEBB_00235	gene	606				
+OPANPEBB_00235	CDS	606				hypothetical protein
+OPANPEBB_00236	gene	1497	nrfA			
+OPANPEBB_00236	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+OPANPEBB_00237	gene	1311				
+OPANPEBB_00237	CDS	1311				hypothetical protein
+OPANPEBB_00238	gene	798	ccsA_1			
+OPANPEBB_00238	CDS	798	ccsA_1			Cytochrome c biogenesis protein CcsA
+OPANPEBB_00239	gene	398	ssrA			
+OPANPEBB_00239	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+OPANPEBB_00240	gene	636	wecA			
+OPANPEBB_00240	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+OPANPEBB_00241	gene	831	resA_1			
+OPANPEBB_00241	CDS	831	resA_1			Thiol-disulfide oxidoreductase ResA
+OPANPEBB_00242	gene	933	yrbG			
+OPANPEBB_00242	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+OPANPEBB_00243	gene	1062				
+OPANPEBB_00243	CDS	1062				hypothetical protein
+OPANPEBB_00244	gene	444				
+OPANPEBB_00244	CDS	444				hypothetical protein
+OPANPEBB_00245	gene	561	coaE			
+OPANPEBB_00245	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+OPANPEBB_00246	gene	987				
+OPANPEBB_00246	CDS	987				hypothetical protein
+OPANPEBB_00247	gene	330				
+OPANPEBB_00247	CDS	330				hypothetical protein
+OPANPEBB_00248	gene	1002	nusB			
+OPANPEBB_00248	CDS	1002	nusB			Transcription antitermination protein NusB
+OPANPEBB_00249	gene	612	ctc			
+OPANPEBB_00249	CDS	612	ctc		COG1825	General stress protein CTC
+OPANPEBB_00250	gene	618	pth			
+OPANPEBB_00250	CDS	618	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+OPANPEBB_00251	gene	489				
+OPANPEBB_00251	CDS	489				hypothetical protein
+OPANPEBB_00252	gene	570	purN			
+OPANPEBB_00252	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+OPANPEBB_00253	gene	546				
+OPANPEBB_00253	CDS	546				hypothetical protein
+OPANPEBB_00254	gene	765	cdaA			
+OPANPEBB_00254	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+OPANPEBB_00255	gene	1008	pta_1			
+OPANPEBB_00255	CDS	1008	pta_1	2.3.1.8		Phosphate acetyltransferase
+OPANPEBB_00256	gene	1194	ackA			
+OPANPEBB_00256	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+OPANPEBB_00257	gene	774	lpxH			
+OPANPEBB_00257	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+OPANPEBB_00258	gene	375				
+OPANPEBB_00258	CDS	375				hypothetical protein
+OPANPEBB_00259	gene	702				
+OPANPEBB_00259	CDS	702				hypothetical protein
+OPANPEBB_00260	gene	1104				
+OPANPEBB_00260	CDS	1104				hypothetical protein
+OPANPEBB_00261	gene	525	efp			
+OPANPEBB_00261	CDS	525	efp		COG0231	Elongation factor P
+OPANPEBB_00262	gene	222				
+OPANPEBB_00262	CDS	222				hypothetical protein
+OPANPEBB_00263	gene	744				
+OPANPEBB_00263	CDS	744				hypothetical protein
+OPANPEBB_00264	gene	798				
+OPANPEBB_00264	CDS	798				hypothetical protein
+OPANPEBB_00265	gene	1377				
+OPANPEBB_00265	CDS	1377				hypothetical protein
+OPANPEBB_00266	gene	204				
+OPANPEBB_00266	CDS	204				hypothetical protein
+OPANPEBB_00267	gene	1002				
+OPANPEBB_00267	CDS	1002				hypothetical protein
+OPANPEBB_00268	gene	180				
+OPANPEBB_00268	CDS	180				hypothetical protein
+OPANPEBB_00269	gene	3594				
+OPANPEBB_00269	CDS	3594				hypothetical protein
+OPANPEBB_00270	gene	177				
+OPANPEBB_00270	CDS	177				hypothetical protein
+OPANPEBB_00271	gene	1074				
+OPANPEBB_00271	CDS	1074				hypothetical protein
+OPANPEBB_00272	gene	678	walR			
+OPANPEBB_00272	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+OPANPEBB_00273	gene	768				
+OPANPEBB_00273	CDS	768				hypothetical protein
+OPANPEBB_00274	gene	1098	apbC			
+OPANPEBB_00274	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+OPANPEBB_00275	gene	2061	dxs			
+OPANPEBB_00275	CDS	2061	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+OPANPEBB_00276	gene	1353	trkA			
+OPANPEBB_00276	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+OPANPEBB_00277	gene	1458	trkH			
+OPANPEBB_00277	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+OPANPEBB_00278	gene	594	rluD			
+OPANPEBB_00278	CDS	594	rluD	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OPANPEBB_00279	gene	993	ddlA			
+OPANPEBB_00279	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+OPANPEBB_00280	gene	1176				
+OPANPEBB_00280	CDS	1176				hypothetical protein
+OPANPEBB_00281	gene	681				
+OPANPEBB_00281	CDS	681				hypothetical protein
+OPANPEBB_00282	gene	888				
+OPANPEBB_00282	CDS	888				hypothetical protein
+OPANPEBB_00283	gene	504				
+OPANPEBB_00283	CDS	504				hypothetical protein
+OPANPEBB_00284	gene	759				
+OPANPEBB_00284	CDS	759				hypothetical protein
+OPANPEBB_00285	gene	1038				
+OPANPEBB_00285	CDS	1038				hypothetical protein
+OPANPEBB_00286	gene	438				
+OPANPEBB_00286	CDS	438				hypothetical protein
+OPANPEBB_00287	gene	399				
+OPANPEBB_00287	CDS	399		3.6.1.25	COG2954	Inorganic triphosphatase
+OPANPEBB_00288	gene	1488				
+OPANPEBB_00288	CDS	1488				hypothetical protein
+OPANPEBB_00289	gene	444				
+OPANPEBB_00289	CDS	444				hypothetical protein
+OPANPEBB_00290	gene	435				
+OPANPEBB_00290	CDS	435				hypothetical protein
+OPANPEBB_00291	gene	903	rnfB			
+OPANPEBB_00291	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+OPANPEBB_00292	gene	1353	rnfC			
+OPANPEBB_00292	CDS	1353	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+OPANPEBB_00293	gene	1035	rnfD			
+OPANPEBB_00293	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+OPANPEBB_00294	gene	672	rsxG			
+OPANPEBB_00294	CDS	672	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+OPANPEBB_00295	gene	591	rnfE			
+OPANPEBB_00295	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+OPANPEBB_00296	gene	603	rnfA			
+OPANPEBB_00296	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+OPANPEBB_00297	gene	741	pgpH			
+OPANPEBB_00297	CDS	741	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+OPANPEBB_00298	gene	1485				
+OPANPEBB_00298	CDS	1485				hypothetical protein
+OPANPEBB_00299	gene	900				
+OPANPEBB_00299	CDS	900				hypothetical protein
+OPANPEBB_00300	gene	2271	priA			
+OPANPEBB_00300	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+OPANPEBB_00301	gene	108				
+OPANPEBB_00301	CDS	108				hypothetical protein
+OPANPEBB_00302	gene	984	menF_1			
+OPANPEBB_00302	CDS	984	menF_1	5.4.4.2		Isochorismate synthase MenF
+OPANPEBB_00303	gene	597				
+OPANPEBB_00303	CDS	597				hypothetical protein
+OPANPEBB_00304	gene	600				
+OPANPEBB_00304	CDS	600				hypothetical protein
+OPANPEBB_00305	gene	3579	rep_2			
+OPANPEBB_00305	CDS	3579	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+OPANPEBB_00306	gene	387	nudG			
+OPANPEBB_00306	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+OPANPEBB_00307	gene	1344	gdhB			
+OPANPEBB_00307	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+OPANPEBB_00308	gene	372	rlpA			
+OPANPEBB_00308	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+OPANPEBB_00309	gene	1497				
+OPANPEBB_00309	CDS	1497				hypothetical protein
+OPANPEBB_00310	gene	165				
+OPANPEBB_00310	CDS	165				hypothetical protein
+OPANPEBB_00311	gene	4008	purL			
+OPANPEBB_00311	CDS	4008	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+OPANPEBB_00312	gene	552	srpC_1			
+OPANPEBB_00312	CDS	552	srpC_1		COG2059	putative chromate transport protein
+OPANPEBB_00313	gene	576	srpC_2			
+OPANPEBB_00313	CDS	576	srpC_2		COG2059	putative chromate transport protein
+OPANPEBB_00314	gene	2148	dcp			
+OPANPEBB_00314	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+OPANPEBB_00315	gene	324				
+OPANPEBB_00315	CDS	324				hypothetical protein
+OPANPEBB_00316	gene	1527				
+OPANPEBB_00316	CDS	1527				hypothetical protein
+OPANPEBB_00317	gene	1314				
+OPANPEBB_00317	CDS	1314				hypothetical protein
+OPANPEBB_00318	gene	1494	patA_1			
+OPANPEBB_00318	CDS	1494	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+OPANPEBB_00319	gene	417				
+OPANPEBB_00319	CDS	417				hypothetical protein
+OPANPEBB_00320	gene	1821	argS			
+OPANPEBB_00320	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+OPANPEBB_00321	gene	279				
+OPANPEBB_00321	CDS	279				hypothetical protein
+OPANPEBB_00322	gene	1356	pgi			
+OPANPEBB_00322	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+OPANPEBB_00323	gene	705	hxpA			
+OPANPEBB_00323	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+OPANPEBB_00324	gene	114				
+OPANPEBB_00324	CDS	114				hypothetical protein
+OPANPEBB_00325	gene	1077	mnmA			
+OPANPEBB_00325	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+OPANPEBB_00326	gene	1464				
+OPANPEBB_00326	CDS	1464				hypothetical protein
+OPANPEBB_00327	gene	645	yfiC			
+OPANPEBB_00327	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+OPANPEBB_00328	gene	618	ycgM			
+OPANPEBB_00328	CDS	618	ycgM		COG0179	putative protein YcgM
+OPANPEBB_00329	gene	3567				
+OPANPEBB_00329	CDS	3567				hypothetical protein
+OPANPEBB_00330	gene	96				
+OPANPEBB_00330	CDS	96				hypothetical protein
+OPANPEBB_00331	gene	1152				
+OPANPEBB_00331	CDS	1152				hypothetical protein
+OPANPEBB_00332	gene	477	ispF			
+OPANPEBB_00332	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+OPANPEBB_00333	gene	765				
+OPANPEBB_00333	CDS	765				hypothetical protein
+OPANPEBB_00334	gene	1197				
+OPANPEBB_00334	CDS	1197				hypothetical protein
+OPANPEBB_00335	gene	534				
+OPANPEBB_00335	CDS	534				hypothetical protein
+OPANPEBB_00336	gene	540				
+OPANPEBB_00336	CDS	540				hypothetical protein
+OPANPEBB_00337	gene	465	rimP			
+OPANPEBB_00337	CDS	465	rimP			Ribosome maturation factor RimP
+OPANPEBB_00338	gene	1257	nusA			
+OPANPEBB_00338	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+OPANPEBB_00339	gene	67				
+OPANPEBB_00339	tRNA	67				tRNA-Glu(ttc)
+OPANPEBB_00340	gene	726	recO			
+OPANPEBB_00340	CDS	726	recO		COG1381	DNA repair protein RecO
+OPANPEBB_00341	gene	273				
+OPANPEBB_00341	CDS	273				hypothetical protein
+OPANPEBB_00342	gene	1122				
+OPANPEBB_00342	CDS	1122				hypothetical protein
+OPANPEBB_00343	gene	447	yqeY			
+OPANPEBB_00343	CDS	447	yqeY		COG1610	putative protein YqeY
+OPANPEBB_00344	gene	1320	ftsZ			
+OPANPEBB_00344	CDS	1320	ftsZ			Cell division protein FtsZ
+OPANPEBB_00345	gene	1461	ftsA			
+OPANPEBB_00345	CDS	1461	ftsA			Cell division protein FtsA
+OPANPEBB_00346	gene	1002				
+OPANPEBB_00346	CDS	1002				hypothetical protein
+OPANPEBB_00347	gene	909	murC			
+OPANPEBB_00347	CDS	909	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+OPANPEBB_00348	gene	765				
+OPANPEBB_00348	CDS	765				hypothetical protein
+OPANPEBB_00349	gene	486				
+OPANPEBB_00349	CDS	486				hypothetical protein
+OPANPEBB_00350	gene	576				
+OPANPEBB_00350	CDS	576				hypothetical protein
+OPANPEBB_00351	gene	2406	btuB_1			
+OPANPEBB_00351	CDS	2406	btuB_1			Vitamin B12 transporter BtuB
+OPANPEBB_00352	gene	150				
+OPANPEBB_00352	CDS	150				hypothetical protein
+OPANPEBB_00353	gene	549				
+OPANPEBB_00353	CDS	549				hypothetical protein
+OPANPEBB_00354	gene	549				
+OPANPEBB_00354	CDS	549				hypothetical protein
+OPANPEBB_00355	gene	216				
+OPANPEBB_00355	CDS	216				hypothetical protein
+OPANPEBB_00356	gene	2214				
+OPANPEBB_00356	CDS	2214				hypothetical protein
+OPANPEBB_00357	gene	498				
+OPANPEBB_00357	CDS	498			COG0716	Flavodoxin 1
+OPANPEBB_00358	gene	363				
+OPANPEBB_00358	CDS	363				hypothetical protein
+OPANPEBB_00359	gene	1506	yhfT			
+OPANPEBB_00359	CDS	1506	yhfT	6.2.1.-	COG0318	putative acyl--CoA ligase YhfT
+OPANPEBB_00360	gene	822	acr1			
+OPANPEBB_00360	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+OPANPEBB_00361	gene	123				
+OPANPEBB_00361	CDS	123				hypothetical protein
+OPANPEBB_00362	gene	285				
+OPANPEBB_00362	CDS	285				hypothetical protein
+OPANPEBB_00363	gene	408				
+OPANPEBB_00363	CDS	408				hypothetical protein
+OPANPEBB_00364	gene	1611	ybiT			
+OPANPEBB_00364	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+OPANPEBB_00365	gene	732				
+OPANPEBB_00365	CDS	732				hypothetical protein
+OPANPEBB_00366	gene	1035				
+OPANPEBB_00366	CDS	1035				hypothetical protein
+OPANPEBB_00367	gene	924				
+OPANPEBB_00367	CDS	924				hypothetical protein
+OPANPEBB_00368	gene	618				
+OPANPEBB_00368	CDS	618				hypothetical protein
+OPANPEBB_00369	gene	1356				
+OPANPEBB_00369	CDS	1356				hypothetical protein
+OPANPEBB_00370	gene	399				
+OPANPEBB_00370	CDS	399				hypothetical protein
+OPANPEBB_00371	gene	894				
+OPANPEBB_00371	CDS	894				hypothetical protein
+OPANPEBB_00372	gene	1245	ybhR_2			
+OPANPEBB_00372	CDS	1245	ybhR_2		COG0842	putative multidrug ABC transporter permease YbhR
+OPANPEBB_00373	gene	1182				
+OPANPEBB_00373	CDS	1182				hypothetical protein
+OPANPEBB_00374	gene	987	emrA			
+OPANPEBB_00374	CDS	987	emrA			Colistin resistance protein EmrA
+OPANPEBB_00375	gene	1482				
+OPANPEBB_00375	CDS	1482				hypothetical protein
+OPANPEBB_00376	gene	873				
+OPANPEBB_00376	CDS	873				hypothetical protein
+OPANPEBB_00377	gene	216				
+OPANPEBB_00377	CDS	216				hypothetical protein
+OPANPEBB_00378	gene	138				
+OPANPEBB_00378	CDS	138				hypothetical protein
+OPANPEBB_00379	gene	2337				
+OPANPEBB_00379	CDS	2337				hypothetical protein
+OPANPEBB_00380	gene	2214	lagD			
+OPANPEBB_00380	CDS	2214	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+OPANPEBB_00381	gene	486				
+OPANPEBB_00381	CDS	486				hypothetical protein
+OPANPEBB_00382	gene	426				
+OPANPEBB_00382	CDS	426				hypothetical protein
+OPANPEBB_00383	gene	309				
+OPANPEBB_00383	CDS	309				hypothetical protein
+OPANPEBB_00384	gene	270				
+OPANPEBB_00384	CDS	270				hypothetical protein
+OPANPEBB_00385	gene	189	rbn_1			
+OPANPEBB_00385	CDS	189	rbn_1	3.1.-.-	COG1234	Ribonuclease BN
+OPANPEBB_00386	gene	366				
+OPANPEBB_00386	CDS	366				hypothetical protein
+OPANPEBB_00387	gene	1536				
+OPANPEBB_00387	CDS	1536				hypothetical protein
+OPANPEBB_00388	gene	561	sigW			
+OPANPEBB_00388	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+OPANPEBB_00389	gene	366				
+OPANPEBB_00389	CDS	366				hypothetical protein
+OPANPEBB_00390	gene	441				
+OPANPEBB_00390	CDS	441				hypothetical protein
+OPANPEBB_00391	gene	2610	mutS2			
+OPANPEBB_00391	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+OPANPEBB_00392	gene	86				
+OPANPEBB_00392	tRNA	86				tRNA-Ser(tga)
+OPANPEBB_00393	gene	312				
+OPANPEBB_00393	CDS	312				hypothetical protein
+OPANPEBB_00394	gene	309				
+OPANPEBB_00394	CDS	309				hypothetical protein
+OPANPEBB_00395	gene	273				
+OPANPEBB_00395	CDS	273				hypothetical protein
+OPANPEBB_00396	gene	1695	lptD			
+OPANPEBB_00396	CDS	1695	lptD			LPS-assembly protein LptD
+OPANPEBB_00397	gene	1464	surA_1			
+OPANPEBB_00397	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+OPANPEBB_00398	gene	1479	surA_2			
+OPANPEBB_00398	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+OPANPEBB_00399	gene	1479	guaB			
+OPANPEBB_00399	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+OPANPEBB_00400	gene	168				
+OPANPEBB_00400	CDS	168				hypothetical protein
+OPANPEBB_00401	gene	819	menB			
+OPANPEBB_00401	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+OPANPEBB_00402	gene	300				
+OPANPEBB_00402	CDS	300				hypothetical protein
+OPANPEBB_00403	gene	303				
+OPANPEBB_00403	CDS	303				hypothetical protein
+OPANPEBB_00404	gene	1761	aspS			
+OPANPEBB_00404	CDS	1761	aspS	6.1.1.12		Aspartate--tRNA ligase
+OPANPEBB_00405	gene	384				
+OPANPEBB_00405	CDS	384				hypothetical protein
+OPANPEBB_00406	gene	1314				
+OPANPEBB_00406	CDS	1314				hypothetical protein
+OPANPEBB_00407	gene	2133	cirA_1			
+OPANPEBB_00407	CDS	2133	cirA_1		COG4771	Colicin I receptor
+OPANPEBB_00408	gene	1140	cbiKp			
+OPANPEBB_00408	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+OPANPEBB_00409	gene	1488				
+OPANPEBB_00409	CDS	1488				hypothetical protein
+OPANPEBB_00410	gene	198				
+OPANPEBB_00410	CDS	198				hypothetical protein
+OPANPEBB_00411	gene	1428	cysG_1			
+OPANPEBB_00411	CDS	1428	cysG_1	4.99.1.4		Siroheme synthase
+OPANPEBB_00412	gene	756	kdsB			
+OPANPEBB_00412	CDS	756	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+OPANPEBB_00413	gene	1104				
+OPANPEBB_00413	CDS	1104				hypothetical protein
+OPANPEBB_00414	gene	2037	glgB			
+OPANPEBB_00414	CDS	2037	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+OPANPEBB_00415	gene	72				
+OPANPEBB_00415	tRNA	72				tRNA-Gln(ttg)
+OPANPEBB_00416	gene	243				
+OPANPEBB_00416	CDS	243				hypothetical protein
+OPANPEBB_00417	gene	2703	rcsC_1			
+OPANPEBB_00417	CDS	2703	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+OPANPEBB_00418	gene	432				
+OPANPEBB_00418	CDS	432				hypothetical protein
+OPANPEBB_00419	gene	381				
+OPANPEBB_00419	CDS	381				hypothetical protein
+OPANPEBB_00420	gene	339				
+OPANPEBB_00420	CDS	339				hypothetical protein
+OPANPEBB_00421	gene	279				
+OPANPEBB_00421	CDS	279				hypothetical protein
+OPANPEBB_00422	gene	1668	udk_1			
+OPANPEBB_00422	CDS	1668	udk_1	2.7.1.48		Uridine kinase
+OPANPEBB_00423	gene	657				
+OPANPEBB_00423	CDS	657				hypothetical protein
+OPANPEBB_00424	gene	252				
+OPANPEBB_00424	CDS	252				hypothetical protein
+OPANPEBB_00425	gene	1632	groL			
+OPANPEBB_00425	CDS	1632	groL		COG0459	60 kDa chaperonin
+OPANPEBB_00426	gene	273	groS1			
+OPANPEBB_00426	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+OPANPEBB_00427	gene	2409	pcrA			
+OPANPEBB_00427	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+OPANPEBB_00428	gene	708	mtgA			
+OPANPEBB_00428	CDS	708	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+OPANPEBB_00429	gene	696	pal_1			
+OPANPEBB_00429	CDS	696	pal_1			Peptidoglycan-associated lipoprotein
+OPANPEBB_00430	gene	1740				
+OPANPEBB_00430	CDS	1740				hypothetical protein
+OPANPEBB_00431	gene	687				
+OPANPEBB_00431	CDS	687				hypothetical protein
+OPANPEBB_00432	gene	1236	queA_1			
+OPANPEBB_00432	CDS	1236	queA_1	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OPANPEBB_00433	gene	1941	nadE			
+OPANPEBB_00433	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+OPANPEBB_00434	gene	891				
+OPANPEBB_00434	CDS	891				hypothetical protein
+OPANPEBB_00435	gene	1071				
+OPANPEBB_00435	CDS	1071				hypothetical protein
+OPANPEBB_00436	gene	381	folB			
+OPANPEBB_00436	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+OPANPEBB_00437	gene	1185				
+OPANPEBB_00437	CDS	1185				hypothetical protein
+OPANPEBB_00438	gene	903				
+OPANPEBB_00438	CDS	903				hypothetical protein
+OPANPEBB_00439	gene	1410	dnaA			
+OPANPEBB_00439	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+OPANPEBB_00440	gene	471				
+OPANPEBB_00440	CDS	471				hypothetical protein
+OPANPEBB_00441	gene	420				
+OPANPEBB_00441	CDS	420				hypothetical protein
+OPANPEBB_00442	gene	108				
+OPANPEBB_00442	CDS	108				hypothetical protein
+OPANPEBB_00443	gene	303				
+OPANPEBB_00443	CDS	303				hypothetical protein
+OPANPEBB_00444	gene	996				
+OPANPEBB_00444	CDS	996				hypothetical protein
+OPANPEBB_00445	gene	963				
+OPANPEBB_00445	CDS	963				hypothetical protein
+OPANPEBB_00446	gene	1899	dnaK			
+OPANPEBB_00446	CDS	1899	dnaK			Chaperone protein DnaK
+OPANPEBB_00447	gene	672				
+OPANPEBB_00447	CDS	672				hypothetical protein
+OPANPEBB_00448	gene	462				
+OPANPEBB_00448	CDS	462				hypothetical protein
+OPANPEBB_00449	gene	1122				
+OPANPEBB_00449	CDS	1122				hypothetical protein
+OPANPEBB_00450	gene	222				
+OPANPEBB_00450	CDS	222				hypothetical protein
+OPANPEBB_00451	gene	2313				
+OPANPEBB_00451	CDS	2313				hypothetical protein
+OPANPEBB_00452	gene	522				
+OPANPEBB_00452	CDS	522				hypothetical protein
+OPANPEBB_00453	gene	852				
+OPANPEBB_00453	CDS	852				hypothetical protein
+OPANPEBB_00454	gene	1971	ftsH_1			
+OPANPEBB_00454	CDS	1971	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OPANPEBB_00455	gene	360	rsfS			
+OPANPEBB_00455	CDS	360	rsfS			Ribosomal silencing factor RsfS
+OPANPEBB_00456	gene	1356				
+OPANPEBB_00456	CDS	1356				hypothetical protein
+OPANPEBB_00457	gene	1038	pheS			
+OPANPEBB_00457	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+OPANPEBB_00458	gene	390				
+OPANPEBB_00458	CDS	390				hypothetical protein
+OPANPEBB_00459	gene	1212				
+OPANPEBB_00459	CDS	1212				hypothetical protein
+OPANPEBB_00460	gene	936	arnC			
+OPANPEBB_00460	CDS	936	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OPANPEBB_00461	gene	486	ftnA			
+OPANPEBB_00461	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+OPANPEBB_00462	gene	570				
+OPANPEBB_00462	CDS	570				hypothetical protein
+OPANPEBB_00463	gene	1179				
+OPANPEBB_00463	CDS	1179			COG3385	IS4 family transposase ISDar2
+OPANPEBB_00464	gene	804	xerC_1			
+OPANPEBB_00464	CDS	804	xerC_1			Tyrosine recombinase XerC
+OPANPEBB_00465	gene	1896				
+OPANPEBB_00465	CDS	1896				hypothetical protein
+OPANPEBB_00466	gene	747				
+OPANPEBB_00466	CDS	747				hypothetical protein
+OPANPEBB_00467	gene	318	rplU			
+OPANPEBB_00467	CDS	318	rplU		COG0261	50S ribosomal protein L21
+OPANPEBB_00468	gene	756	exoA			
+OPANPEBB_00468	CDS	756	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+OPANPEBB_00469	gene	384				
+OPANPEBB_00469	CDS	384				hypothetical protein
+OPANPEBB_00470	gene	585				
+OPANPEBB_00470	CDS	585				hypothetical protein
+OPANPEBB_00471	gene	678				
+OPANPEBB_00471	CDS	678				hypothetical protein
+OPANPEBB_00472	gene	606				
+OPANPEBB_00472	CDS	606				hypothetical protein
+OPANPEBB_00473	gene	1491	algC			
+OPANPEBB_00473	CDS	1491	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+OPANPEBB_00474	gene	909	pepO			
+OPANPEBB_00474	CDS	909	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+OPANPEBB_00475	gene	273				
+OPANPEBB_00475	CDS	273				hypothetical protein
+OPANPEBB_00476	gene	624				
+OPANPEBB_00476	CDS	624				hypothetical protein
+OPANPEBB_00477	gene	1311	dapL			
+OPANPEBB_00477	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+OPANPEBB_00478	gene	573				
+OPANPEBB_00478	CDS	573				hypothetical protein
+OPANPEBB_00479	gene	1623				
+OPANPEBB_00479	CDS	1623				hypothetical protein
+OPANPEBB_00480	gene	738	yafV			
+OPANPEBB_00480	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+OPANPEBB_00481	gene	696	infC			
+OPANPEBB_00481	CDS	696	infC			Translation initiation factor IF-3
+OPANPEBB_00482	gene	198	rpmI			
+OPANPEBB_00482	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+OPANPEBB_00483	gene	345	rplT			
+OPANPEBB_00483	CDS	345	rplT			50S ribosomal protein L20
+OPANPEBB_00484	gene	228				
+OPANPEBB_00484	CDS	228				hypothetical protein
+OPANPEBB_00485	gene	3111				
+OPANPEBB_00485	CDS	3111				hypothetical protein
+OPANPEBB_00486	gene	2724	ppdK			
+OPANPEBB_00486	CDS	2724	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+OPANPEBB_00487	gene	795				
+OPANPEBB_00487	CDS	795				hypothetical protein
+OPANPEBB_00488	gene	567	resA_2			
+OPANPEBB_00488	CDS	567	resA_2			Thiol-disulfide oxidoreductase ResA
+OPANPEBB_00489	gene	657	maa			
+OPANPEBB_00489	CDS	657	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+OPANPEBB_00490	gene	483				
+OPANPEBB_00490	CDS	483				hypothetical protein
+OPANPEBB_00491	gene	498				
+OPANPEBB_00491	CDS	498				hypothetical protein
+OPANPEBB_00492	gene	477				
+OPANPEBB_00492	CDS	477				hypothetical protein
+OPANPEBB_00493	gene	807	tolQ			
+OPANPEBB_00493	CDS	807	tolQ			Tol-Pal system protein TolQ
+OPANPEBB_00494	gene	486	asnC_1			
+OPANPEBB_00494	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+OPANPEBB_00495	gene	135				
+OPANPEBB_00495	CDS	135				hypothetical protein
+OPANPEBB_00496	gene	486	dfrA			
+OPANPEBB_00496	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+OPANPEBB_00497	gene	795	thyA			
+OPANPEBB_00497	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+OPANPEBB_00498	gene	195				
+OPANPEBB_00498	CDS	195				hypothetical protein
+OPANPEBB_00499	gene	1038				
+OPANPEBB_00499	CDS	1038				hypothetical protein
+OPANPEBB_00500	gene	1593	prfC			
+OPANPEBB_00500	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+OPANPEBB_00501	gene	858	rmlD			
+OPANPEBB_00501	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+OPANPEBB_00502	gene	579				
+OPANPEBB_00502	CDS	579				hypothetical protein
+OPANPEBB_00503	gene	690				
+OPANPEBB_00503	CDS	690				hypothetical protein
+OPANPEBB_00504	gene	981	glkA			
+OPANPEBB_00504	CDS	981	glkA	2.7.1.2		Glucokinase
+OPANPEBB_00505	gene	1218	pyrP			
+OPANPEBB_00505	CDS	1218	pyrP			Uracil permease
+OPANPEBB_00506	gene	606				
+OPANPEBB_00506	CDS	606				hypothetical protein
+OPANPEBB_00507	gene	411				
+OPANPEBB_00507	CDS	411				hypothetical protein
+OPANPEBB_00508	gene	1440				
+OPANPEBB_00508	CDS	1440				hypothetical protein
+OPANPEBB_00509	gene	777	dapB			
+OPANPEBB_00509	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+OPANPEBB_00510	gene	300				
+OPANPEBB_00510	CDS	300				hypothetical protein
+OPANPEBB_00511	gene	765				
+OPANPEBB_00511	CDS	765				hypothetical protein
+OPANPEBB_00512	gene	258				
+OPANPEBB_00512	CDS	258				hypothetical protein
+OPANPEBB_00513	gene	75				
+OPANPEBB_00513	tRNA	75				tRNA-Met(cat)
+OPANPEBB_00514	gene	654				
+OPANPEBB_00514	CDS	654				hypothetical protein
+OPANPEBB_00515	gene	3777				
+OPANPEBB_00515	CDS	3777				hypothetical protein
+OPANPEBB_00516	gene	705	cobB			
+OPANPEBB_00516	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+OPANPEBB_00517	gene	2604	yoaB			
+OPANPEBB_00517	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+OPANPEBB_00518	gene	621				
+OPANPEBB_00518	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+OPANPEBB_00519	gene	945	ribF			
+OPANPEBB_00519	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+OPANPEBB_00520	gene	792				
+OPANPEBB_00520	CDS	792				hypothetical protein
+OPANPEBB_00521	gene	477				
+OPANPEBB_00521	CDS	477				hypothetical protein
+OPANPEBB_00522	gene	513	sigH			
+OPANPEBB_00522	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+OPANPEBB_00523	gene	789				
+OPANPEBB_00523	CDS	789				hypothetical protein
+OPANPEBB_00524	gene	1473				
+OPANPEBB_00524	CDS	1473				hypothetical protein
+OPANPEBB_00525	gene	1233				
+OPANPEBB_00525	CDS	1233				hypothetical protein
+OPANPEBB_00526	gene	201				
+OPANPEBB_00526	CDS	201				hypothetical protein
+OPANPEBB_00527	gene	1038				
+OPANPEBB_00527	CDS	1038				hypothetical protein
+OPANPEBB_00528	gene	987				
+OPANPEBB_00528	CDS	987				hypothetical protein
+OPANPEBB_00529	gene	465	mraZ			
+OPANPEBB_00529	CDS	465	mraZ			Transcriptional regulator MraZ
+OPANPEBB_00530	gene	1032	rsmH			
+OPANPEBB_00530	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+OPANPEBB_00531	gene	624				
+OPANPEBB_00531	CDS	624				hypothetical protein
+OPANPEBB_00532	gene	2148	pbpB			
+OPANPEBB_00532	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+OPANPEBB_00533	gene	1452	murE			
+OPANPEBB_00533	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+OPANPEBB_00534	gene	225				
+OPANPEBB_00534	CDS	225				hypothetical protein
+OPANPEBB_00535	gene	744				
+OPANPEBB_00535	CDS	744				hypothetical protein
+OPANPEBB_00536	gene	168	fdxA			
+OPANPEBB_00536	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+OPANPEBB_00537	gene	567				
+OPANPEBB_00537	CDS	567				hypothetical protein
+OPANPEBB_00538	gene	711	pyrH			
+OPANPEBB_00538	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+OPANPEBB_00539	gene	558				
+OPANPEBB_00539	CDS	558				hypothetical protein
+OPANPEBB_00540	gene	741	birA			
+OPANPEBB_00540	CDS	741	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+OPANPEBB_00541	gene	555	tadA_1			
+OPANPEBB_00541	CDS	555	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+OPANPEBB_00542	gene	846				
+OPANPEBB_00542	CDS	846				hypothetical protein
+OPANPEBB_00543	gene	372	rsmI			
+OPANPEBB_00543	CDS	372	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+OPANPEBB_00544	gene	567	ahpC			
+OPANPEBB_00544	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+OPANPEBB_00545	gene	1560	ahpF			
+OPANPEBB_00545	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+OPANPEBB_00546	gene	1014	rlmN			
+OPANPEBB_00546	CDS	1014	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+OPANPEBB_00547	gene	978				
+OPANPEBB_00547	CDS	978				hypothetical protein
+OPANPEBB_00548	gene	1107	pdxA2			
+OPANPEBB_00548	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+OPANPEBB_00549	gene	1275	cysG_2			
+OPANPEBB_00549	CDS	1275	cysG_2	4.99.1.4		Siroheme synthase
+OPANPEBB_00550	gene	1836	cbiD			
+OPANPEBB_00550	CDS	1836	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+OPANPEBB_00551	gene	1137				
+OPANPEBB_00551	CDS	1137				hypothetical protein
+OPANPEBB_00552	gene	1023	hmuU			
+OPANPEBB_00552	CDS	1023	hmuU		COG0609	Hemin transport system permease protein HmuU
+OPANPEBB_00553	gene	810				
+OPANPEBB_00553	CDS	810				hypothetical protein
+OPANPEBB_00554	gene	684	susC			
+OPANPEBB_00554	CDS	684	susC			TonB-dependent receptor SusC
+OPANPEBB_00555	gene	1617	susD			
+OPANPEBB_00555	CDS	1617	susD			Starch-binding protein SusD
+OPANPEBB_00556	gene	1122	susE			
+OPANPEBB_00556	CDS	1122	susE			Outer membrane protein SusE
+OPANPEBB_00557	gene	1092	susF			
+OPANPEBB_00557	CDS	1092	susF			Outer membrane protein SusF
+OPANPEBB_00558	gene	168				
+OPANPEBB_00558	CDS	168				hypothetical protein
+OPANPEBB_00559	gene	972				
+OPANPEBB_00559	CDS	972				hypothetical protein
+OPANPEBB_00560	gene	876				
+OPANPEBB_00560	CDS	876				hypothetical protein
+OPANPEBB_00561	gene	474				
+OPANPEBB_00561	CDS	474				hypothetical protein
+OPANPEBB_00562	gene	1446				
+OPANPEBB_00562	CDS	1446				hypothetical protein
+OPANPEBB_00563	gene	405				
+OPANPEBB_00563	CDS	405				hypothetical protein
+OPANPEBB_00564	gene	861				
+OPANPEBB_00564	CDS	861				hypothetical protein
+OPANPEBB_00565	gene	1791	arnT			
+OPANPEBB_00565	CDS	1791	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+OPANPEBB_00566	gene	516	dps			
+OPANPEBB_00566	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+OPANPEBB_00567	gene	660	upp			
+OPANPEBB_00567	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+OPANPEBB_00568	gene	1614	pckA			
+OPANPEBB_00568	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+OPANPEBB_00569	gene	654				
+OPANPEBB_00569	CDS	654				hypothetical protein
+OPANPEBB_00570	gene	1182	purH_1			
+OPANPEBB_00570	CDS	1182	purH_1	3.5.4.10		Bifunctional purine biosynthesis protein PurH
+OPANPEBB_00571	gene	1809	mutS_1			
+OPANPEBB_00571	CDS	1809	mutS_1			DNA mismatch repair protein MutS
+OPANPEBB_00572	gene	831				
+OPANPEBB_00572	CDS	831				hypothetical protein
+OPANPEBB_00573	gene	600				
+OPANPEBB_00573	CDS	600				hypothetical protein
+OPANPEBB_00574	gene	372				
+OPANPEBB_00574	CDS	372				hypothetical protein
+OPANPEBB_00575	gene	1089				
+OPANPEBB_00575	CDS	1089				hypothetical protein
+OPANPEBB_00576	gene	894				
+OPANPEBB_00576	CDS	894				hypothetical protein
+OPANPEBB_00577	gene	273	hup_1			
+OPANPEBB_00577	CDS	273	hup_1			DNA-binding protein HU
+OPANPEBB_00578	gene	336	rbfA			
+OPANPEBB_00578	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+OPANPEBB_00579	gene	1230	lolE_1			
+OPANPEBB_00579	CDS	1230	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+OPANPEBB_00580	gene	354				
+OPANPEBB_00580	CDS	354				hypothetical protein
+OPANPEBB_00581	gene	2241				
+OPANPEBB_00581	CDS	2241				hypothetical protein
+OPANPEBB_00582	gene	1353	sufS			
+OPANPEBB_00582	CDS	1353	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+OPANPEBB_00583	gene	441				
+OPANPEBB_00583	CDS	441				hypothetical protein
+OPANPEBB_00584	gene	465	sigE_1			
+OPANPEBB_00584	CDS	465	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+OPANPEBB_00585	gene	549				
+OPANPEBB_00585	CDS	549				hypothetical protein
+OPANPEBB_00586	gene	450				
+OPANPEBB_00586	CDS	450				hypothetical protein
+OPANPEBB_00587	gene	73				
+OPANPEBB_00587	tRNA	73				tRNA-Arg(cct)
+OPANPEBB_00588	gene	138				
+OPANPEBB_00588	CDS	138				hypothetical protein
+OPANPEBB_00589	gene	2313	cirA_2			
+OPANPEBB_00589	CDS	2313	cirA_2		COG4771	Colicin I receptor
+OPANPEBB_00590	gene	1329				
+OPANPEBB_00590	CDS	1329				hypothetical protein
+OPANPEBB_00591	gene	1200				
+OPANPEBB_00591	CDS	1200				hypothetical protein
+OPANPEBB_00592	gene	3288				
+OPANPEBB_00592	CDS	3288				hypothetical protein
+OPANPEBB_00593	gene	339				
+OPANPEBB_00593	CDS	339				hypothetical protein
+OPANPEBB_00594	gene	591				
+OPANPEBB_00594	CDS	591				hypothetical protein
+OPANPEBB_00595	gene	342				
+OPANPEBB_00595	CDS	342				hypothetical protein
+OPANPEBB_00596	gene	804				
+OPANPEBB_00596	CDS	804				hypothetical protein
+OPANPEBB_00597	gene	1641	pfp			
+OPANPEBB_00597	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+OPANPEBB_00598	gene	273				
+OPANPEBB_00598	CDS	273				hypothetical protein
+OPANPEBB_00599	gene	555				
+OPANPEBB_00599	CDS	555				hypothetical protein
+OPANPEBB_00600	gene	237				
+OPANPEBB_00600	CDS	237				hypothetical protein
+OPANPEBB_00601	gene	375				
+OPANPEBB_00601	CDS	375				hypothetical protein
+OPANPEBB_00602	gene	633				
+OPANPEBB_00602	CDS	633				hypothetical protein
+OPANPEBB_00603	gene	843	murI			
+OPANPEBB_00603	CDS	843	murI	5.1.1.3		Glutamate racemase
+OPANPEBB_00604	gene	2613				
+OPANPEBB_00604	CDS	2613				hypothetical protein
+OPANPEBB_00605	gene	594				
+OPANPEBB_00605	CDS	594				hypothetical protein
+OPANPEBB_00606	gene	711				
+OPANPEBB_00606	CDS	711				hypothetical protein
+OPANPEBB_00607	gene	1458				
+OPANPEBB_00607	CDS	1458				hypothetical protein
+OPANPEBB_00608	gene	1950				
+OPANPEBB_00608	CDS	1950				hypothetical protein
+OPANPEBB_00609	gene	423				
+OPANPEBB_00609	CDS	423				hypothetical protein
+OPANPEBB_00610	gene	738				
+OPANPEBB_00610	CDS	738				hypothetical protein
+OPANPEBB_00611	gene	522				
+OPANPEBB_00611	CDS	522				hypothetical protein
+OPANPEBB_00612	gene	189	rpmF			
+OPANPEBB_00612	CDS	189	rpmF			50S ribosomal protein L32
+OPANPEBB_00613	gene	1011	fabH			
+OPANPEBB_00613	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+OPANPEBB_00614	gene	495	era_1			
+OPANPEBB_00614	CDS	495	era_1			GTPase Era
+OPANPEBB_00615	gene	537	era_2			
+OPANPEBB_00615	CDS	537	era_2		COG1159	GTPase Era
+OPANPEBB_00616	gene	1317	der			
+OPANPEBB_00616	CDS	1317	der		COG1160	GTPase Der
+OPANPEBB_00617	gene	399				
+OPANPEBB_00617	CDS	399				hypothetical protein
+OPANPEBB_00618	gene	576	mkl			
+OPANPEBB_00618	CDS	576	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+OPANPEBB_00619	gene	735				
+OPANPEBB_00619	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+OPANPEBB_00620	gene	549				
+OPANPEBB_00620	CDS	549				hypothetical protein
+OPANPEBB_00621	gene	249				
+OPANPEBB_00621	CDS	249				hypothetical protein
+OPANPEBB_00622	gene	780				
+OPANPEBB_00622	CDS	780				hypothetical protein
+OPANPEBB_00623	gene	405				
+OPANPEBB_00623	CDS	405				hypothetical protein
+OPANPEBB_00624	gene	978				
+OPANPEBB_00624	CDS	978				hypothetical protein
+OPANPEBB_00625	gene	3669				
+OPANPEBB_00625	CDS	3669				hypothetical protein
+OPANPEBB_00626	gene	1770				
+OPANPEBB_00626	CDS	1770				hypothetical protein
+OPANPEBB_00627	gene	582				
+OPANPEBB_00627	CDS	582				hypothetical protein
+OPANPEBB_00628	gene	1512	glyQS			
+OPANPEBB_00628	CDS	1512	glyQS	6.1.1.14		Glycine--tRNA ligase
+OPANPEBB_00629	gene	105				
+OPANPEBB_00629	CDS	105				hypothetical protein
+OPANPEBB_00630	gene	117				
+OPANPEBB_00630	CDS	117				hypothetical protein
+OPANPEBB_00631	gene	2493				
+OPANPEBB_00631	CDS	2493				hypothetical protein
+OPANPEBB_00632	gene	1419	phoV			
+OPANPEBB_00632	CDS	1419	phoV	3.1.3.1		Alkaline phosphatase PhoV
+OPANPEBB_00633	gene	1197				
+OPANPEBB_00633	CDS	1197				hypothetical protein
+OPANPEBB_00634	gene	780	coaX			
+OPANPEBB_00634	CDS	780	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+OPANPEBB_00635	gene	1296				
+OPANPEBB_00635	CDS	1296				hypothetical protein
+OPANPEBB_00636	gene	732				
+OPANPEBB_00636	CDS	732				hypothetical protein
+OPANPEBB_00637	gene	126				
+OPANPEBB_00637	CDS	126				hypothetical protein
+OPANPEBB_00638	gene	600	tdk			
+OPANPEBB_00638	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+OPANPEBB_00639	gene	1134				
+OPANPEBB_00639	CDS	1134				hypothetical protein
+OPANPEBB_00640	gene	74				
+OPANPEBB_00640	tRNA	74				tRNA-Lys(ttt)
+OPANPEBB_00641	gene	74				
+OPANPEBB_00641	tRNA	74				tRNA-Pro(ggg)
+OPANPEBB_00642	gene	852				
+OPANPEBB_00642	CDS	852				hypothetical protein
+OPANPEBB_00643	gene	861				
+OPANPEBB_00643	CDS	861				hypothetical protein
+OPANPEBB_00644	gene	99				
+OPANPEBB_00644	CDS	99				hypothetical protein
+OPANPEBB_00645	gene	471				
+OPANPEBB_00645	CDS	471				hypothetical protein
+OPANPEBB_00646	gene	822	panB			
+OPANPEBB_00646	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+OPANPEBB_00647	gene	1194				
+OPANPEBB_00647	CDS	1194				hypothetical protein
+OPANPEBB_00648	gene	3411				
+OPANPEBB_00648	CDS	3411				hypothetical protein
+OPANPEBB_00649	gene	2874	leuS			
+OPANPEBB_00649	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+OPANPEBB_00650	gene	642				
+OPANPEBB_00650	CDS	642				hypothetical protein
+OPANPEBB_00651	gene	633	pflA			
+OPANPEBB_00651	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+OPANPEBB_00652	gene	1509	scpC			
+OPANPEBB_00652	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+OPANPEBB_00653	gene	558	fumB			
+OPANPEBB_00653	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+OPANPEBB_00654	gene	843	ttdA			
+OPANPEBB_00654	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+OPANPEBB_00655	gene	945				
+OPANPEBB_00655	CDS	945				hypothetical protein
+OPANPEBB_00656	gene	321				
+OPANPEBB_00656	CDS	321				hypothetical protein
+OPANPEBB_00657	gene	1152				
+OPANPEBB_00657	CDS	1152				hypothetical protein
+OPANPEBB_00658	gene	453				
+OPANPEBB_00658	CDS	453				hypothetical protein
+OPANPEBB_00659	gene	708	rluB			
+OPANPEBB_00659	CDS	708	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+OPANPEBB_00660	gene	1395	asnS			
+OPANPEBB_00660	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+OPANPEBB_00661	gene	279				
+OPANPEBB_00661	CDS	279				hypothetical protein
+OPANPEBB_00662	gene	603				
+OPANPEBB_00662	CDS	603				hypothetical protein
+OPANPEBB_00663	gene	663	yknY_1			
+OPANPEBB_00663	CDS	663	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OPANPEBB_00664	gene	1215				
+OPANPEBB_00664	CDS	1215				hypothetical protein
+OPANPEBB_00665	gene	621	rnd			
+OPANPEBB_00665	CDS	621	rnd	3.1.13.5		Ribonuclease D
+OPANPEBB_00666	gene	1182	rlmI			
+OPANPEBB_00666	CDS	1182	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+OPANPEBB_00667	gene	1332	tilS			
+OPANPEBB_00667	CDS	1332	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+OPANPEBB_00668	gene	762	lptB_1			
+OPANPEBB_00668	CDS	762	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+OPANPEBB_00669	gene	1506	secA			
+OPANPEBB_00669	CDS	1506	secA		COG0653	Protein translocase subunit SecA
+OPANPEBB_00670	gene	3411				
+OPANPEBB_00670	CDS	3411				hypothetical protein
+OPANPEBB_00671	gene	1173				
+OPANPEBB_00671	CDS	1173				hypothetical protein
+OPANPEBB_00672	gene	474				
+OPANPEBB_00672	CDS	474				hypothetical protein
+OPANPEBB_00673	gene	288				
+OPANPEBB_00673	CDS	288				hypothetical protein
+OPANPEBB_00674	gene	771				
+OPANPEBB_00674	CDS	771				hypothetical protein
+OPANPEBB_00675	gene	390				
+OPANPEBB_00675	CDS	390				hypothetical protein
+OPANPEBB_00676	gene	2580				
+OPANPEBB_00676	CDS	2580				hypothetical protein
+OPANPEBB_00677	gene	411				
+OPANPEBB_00677	CDS	411				hypothetical protein
+OPANPEBB_00678	gene	693				
+OPANPEBB_00678	CDS	693				hypothetical protein
+OPANPEBB_00679	gene	1269	mshA_2			
+OPANPEBB_00679	CDS	1269	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OPANPEBB_00680	gene	1416				
+OPANPEBB_00680	CDS	1416				hypothetical protein
+OPANPEBB_00681	gene	108				
+OPANPEBB_00681	CDS	108				hypothetical protein
+OPANPEBB_00682	gene	825	pyrF			
+OPANPEBB_00682	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+OPANPEBB_00683	gene	762	prfA			
+OPANPEBB_00683	CDS	762	prfA		COG0216	Peptide chain release factor 1
+OPANPEBB_00684	gene	612	nreC			
+OPANPEBB_00684	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+OPANPEBB_00685	gene	1050	nrdB			
+OPANPEBB_00685	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+OPANPEBB_00686	gene	2520				
+OPANPEBB_00686	CDS	2520				hypothetical protein
+OPANPEBB_00687	gene	1407				
+OPANPEBB_00687	CDS	1407				hypothetical protein
+OPANPEBB_00688	gene	1065	purR			
+OPANPEBB_00688	CDS	1065	purR			HTH-type transcriptional repressor PurR
+OPANPEBB_00689	gene	753				
+OPANPEBB_00689	CDS	753				hypothetical protein
+OPANPEBB_00690	gene	1212				
+OPANPEBB_00690	CDS	1212				hypothetical protein
+OPANPEBB_00691	gene	204				
+OPANPEBB_00691	CDS	204				hypothetical protein
+OPANPEBB_00692	gene	74				
+OPANPEBB_00692	tRNA	74				tRNA-Cys(gca)
+OPANPEBB_00693	gene	783				
+OPANPEBB_00693	CDS	783				hypothetical protein
+OPANPEBB_00694	gene	756				
+OPANPEBB_00694	CDS	756				hypothetical protein
+OPANPEBB_00695	gene	1224				
+OPANPEBB_00695	CDS	1224				hypothetical protein
+OPANPEBB_00696	gene	1221				
+OPANPEBB_00696	CDS	1221				hypothetical protein
+OPANPEBB_00697	gene	705	yknY_2			
+OPANPEBB_00697	CDS	705	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OPANPEBB_00698	gene	1155				
+OPANPEBB_00698	CDS	1155				hypothetical protein
+OPANPEBB_00699	gene	396				
+OPANPEBB_00699	CDS	396				hypothetical protein
+OPANPEBB_00700	gene	561	def			
+OPANPEBB_00700	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+OPANPEBB_00701	gene	423	yrrK			
+OPANPEBB_00701	CDS	423	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+OPANPEBB_00702	gene	516				
+OPANPEBB_00702	CDS	516				hypothetical protein
+OPANPEBB_00703	gene	216				
+OPANPEBB_00703	CDS	216				hypothetical protein
+OPANPEBB_00704	gene	369				
+OPANPEBB_00704	CDS	369				hypothetical protein
+OPANPEBB_00705	gene	294				
+OPANPEBB_00705	CDS	294				hypothetical protein
+OPANPEBB_00706	gene	774	rbn_2			
+OPANPEBB_00706	CDS	774	rbn_2	3.1.26.11		Ribonuclease BN
+OPANPEBB_00707	gene	939	murB			
+OPANPEBB_00707	CDS	939	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+OPANPEBB_00708	gene	564				
+OPANPEBB_00708	CDS	564				hypothetical protein
+OPANPEBB_00709	gene	828	mazG			
+OPANPEBB_00709	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+OPANPEBB_00710	gene	2739	valS			
+OPANPEBB_00710	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+OPANPEBB_00711	gene	744				
+OPANPEBB_00711	CDS	744				hypothetical protein
+OPANPEBB_00712	gene	2394				
+OPANPEBB_00712	CDS	2394				hypothetical protein
+OPANPEBB_00713	gene	222				
+OPANPEBB_00713	CDS	222				hypothetical protein
+OPANPEBB_00714	gene	696	gmk			
+OPANPEBB_00714	CDS	696	gmk	2.7.4.8	COG0194	Guanylate kinase
+OPANPEBB_00715	gene	633	nadD			
+OPANPEBB_00715	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+OPANPEBB_00716	gene	717				
+OPANPEBB_00716	CDS	717				hypothetical protein
+OPANPEBB_00717	gene	1161				
+OPANPEBB_00717	CDS	1161				hypothetical protein
+OPANPEBB_00718	gene	1341				
+OPANPEBB_00718	CDS	1341				hypothetical protein
+OPANPEBB_00719	gene	270				
+OPANPEBB_00719	CDS	270				hypothetical protein
+OPANPEBB_00720	gene	378	rplL			
+OPANPEBB_00720	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+OPANPEBB_00721	gene	3813	rpoB			
+OPANPEBB_00721	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+OPANPEBB_00722	gene	1431	purF			
+OPANPEBB_00722	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OPANPEBB_00723	gene	891	dapA			
+OPANPEBB_00723	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+OPANPEBB_00724	gene	723				
+OPANPEBB_00724	CDS	723				hypothetical protein
+OPANPEBB_00725	gene	687				
+OPANPEBB_00725	CDS	687				hypothetical protein
+OPANPEBB_00726	gene	1482	degQ			
+OPANPEBB_00726	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+OPANPEBB_00727	gene	1026	ansA			
+OPANPEBB_00727	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+OPANPEBB_00728	gene	2061	btuB_2			
+OPANPEBB_00728	CDS	2061	btuB_2			Vitamin B12 transporter BtuB
+OPANPEBB_00729	gene	306				
+OPANPEBB_00729	CDS	306				hypothetical protein
+OPANPEBB_00730	gene	201				
+OPANPEBB_00730	CDS	201				hypothetical protein
+OPANPEBB_00731	gene	315	pntA			
+OPANPEBB_00731	CDS	315	pntA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+OPANPEBB_00732	gene	1524	pntB			
+OPANPEBB_00732	CDS	1524	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+OPANPEBB_00733	gene	1665	lcfB			
+OPANPEBB_00733	CDS	1665	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+OPANPEBB_00734	gene	1188	lolE_2			
+OPANPEBB_00734	CDS	1188	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+OPANPEBB_00735	gene	1032				
+OPANPEBB_00735	CDS	1032				hypothetical protein
+OPANPEBB_00736	gene	2628	mutS_2			
+OPANPEBB_00736	CDS	2628	mutS_2		COG0249	DNA mismatch repair protein MutS
+OPANPEBB_00737	gene	849	lgt			
+OPANPEBB_00737	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+OPANPEBB_00738	gene	513	ychF			
+OPANPEBB_00738	CDS	513	ychF		COG0012	Ribosome-binding ATPase YchF
+OPANPEBB_00739	gene	1254				
+OPANPEBB_00739	CDS	1254				hypothetical protein
+OPANPEBB_00740	gene	264				
+OPANPEBB_00740	CDS	264				hypothetical protein
+OPANPEBB_00741	gene	762				
+OPANPEBB_00741	CDS	762				hypothetical protein
+OPANPEBB_00742	gene	285				
+OPANPEBB_00742	CDS	285				hypothetical protein
+OPANPEBB_00743	gene	720				
+OPANPEBB_00743	CDS	720				hypothetical protein
+OPANPEBB_00744	gene	876	rmlA			
+OPANPEBB_00744	CDS	876	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+OPANPEBB_00745	gene	624				
+OPANPEBB_00745	CDS	624				hypothetical protein
+OPANPEBB_00746	gene	300				
+OPANPEBB_00746	CDS	300				hypothetical protein
+OPANPEBB_00747	gene	294				
+OPANPEBB_00747	CDS	294				hypothetical protein
+OPANPEBB_00748	gene	462				
+OPANPEBB_00748	CDS	462				hypothetical protein
+OPANPEBB_00749	gene	255	rpmE2			
+OPANPEBB_00749	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+OPANPEBB_00750	gene	1335				
+OPANPEBB_00750	CDS	1335				hypothetical protein
+OPANPEBB_00751	gene	930				
+OPANPEBB_00751	CDS	930				hypothetical protein
+OPANPEBB_00752	gene	1707				
+OPANPEBB_00752	CDS	1707				hypothetical protein
+OPANPEBB_00753	gene	651				
+OPANPEBB_00753	CDS	651				hypothetical protein
+OPANPEBB_00754	gene	291				
+OPANPEBB_00754	CDS	291				hypothetical protein
+OPANPEBB_00755	gene	855				
+OPANPEBB_00755	CDS	855				hypothetical protein
+OPANPEBB_00756	gene	1131				
+OPANPEBB_00756	CDS	1131				hypothetical protein
+OPANPEBB_00757	gene	984				
+OPANPEBB_00757	CDS	984		1.-.-.-		Oxidoreductase P35
+OPANPEBB_00758	gene	708				
+OPANPEBB_00758	CDS	708				hypothetical protein
+OPANPEBB_00759	gene	582				
+OPANPEBB_00759	CDS	582				hypothetical protein
+OPANPEBB_00760	gene	1602	menD			
+OPANPEBB_00760	CDS	1602	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+OPANPEBB_00761	gene	1056	menF_2			
+OPANPEBB_00761	CDS	1056	menF_2	5.4.4.2		Isochorismate synthase MenF
+OPANPEBB_00762	gene	426				
+OPANPEBB_00762	CDS	426		3.1.2.-	COG2050	Putative esterase
+OPANPEBB_00763	gene	1641				
+OPANPEBB_00763	CDS	1641				hypothetical protein
+OPANPEBB_00764	gene	396				
+OPANPEBB_00764	CDS	396				hypothetical protein
+OPANPEBB_00765	gene	1392				
+OPANPEBB_00765	CDS	1392				hypothetical protein
+OPANPEBB_00766	gene	1545				
+OPANPEBB_00766	CDS	1545				hypothetical protein
+OPANPEBB_00767	gene	528				
+OPANPEBB_00767	CDS	528				hypothetical protein
+OPANPEBB_00768	gene	1086				
+OPANPEBB_00768	CDS	1086				hypothetical protein
+OPANPEBB_00769	gene	786	tcdA			
+OPANPEBB_00769	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+OPANPEBB_00770	gene	450				
+OPANPEBB_00770	CDS	450				hypothetical protein
+OPANPEBB_00771	gene	102				
+OPANPEBB_00771	CDS	102				hypothetical protein
+OPANPEBB_00772	gene	2115				
+OPANPEBB_00772	CDS	2115				hypothetical protein
+OPANPEBB_00773	gene	468				
+OPANPEBB_00773	CDS	468				hypothetical protein
+OPANPEBB_00774	gene	273				
+OPANPEBB_00774	CDS	273				hypothetical protein
+OPANPEBB_00775	gene	555				
+OPANPEBB_00775	CDS	555				hypothetical protein
+OPANPEBB_00776	gene	2130	tpiA			
+OPANPEBB_00776	CDS	2130	tpiA			Triosephosphate isomerase
+OPANPEBB_00777	gene	639				
+OPANPEBB_00777	CDS	639				hypothetical protein
+OPANPEBB_00778	gene	594	folE			
+OPANPEBB_00778	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OPANPEBB_00779	gene	1632	pepDA			
+OPANPEBB_00779	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+OPANPEBB_00780	gene	1623				
+OPANPEBB_00780	CDS	1623				hypothetical protein
+OPANPEBB_00781	gene	849	nadC			
+OPANPEBB_00781	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+OPANPEBB_00782	gene	495				
+OPANPEBB_00782	CDS	495				hypothetical protein
+OPANPEBB_00783	gene	1917				
+OPANPEBB_00783	CDS	1917				hypothetical protein
+OPANPEBB_00784	gene	1788				
+OPANPEBB_00784	CDS	1788				hypothetical protein
+OPANPEBB_00785	gene	111				
+OPANPEBB_00785	CDS	111				hypothetical protein
+OPANPEBB_00786	gene	630				
+OPANPEBB_00786	CDS	630				hypothetical protein
+OPANPEBB_00787	gene	747				
+OPANPEBB_00787	CDS	747				hypothetical protein
+OPANPEBB_00788	gene	270				
+OPANPEBB_00788	CDS	270				hypothetical protein
+OPANPEBB_00789	gene	561				
+OPANPEBB_00789	CDS	561				hypothetical protein
+OPANPEBB_00790	gene	1593	nadB			
+OPANPEBB_00790	CDS	1593	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+OPANPEBB_00791	gene	1713				
+OPANPEBB_00791	CDS	1713				hypothetical protein
+OPANPEBB_00792	gene	255				
+OPANPEBB_00792	CDS	255				hypothetical protein
+OPANPEBB_00793	gene	1038				
+OPANPEBB_00793	CDS	1038				hypothetical protein
+OPANPEBB_00794	gene	2109				
+OPANPEBB_00794	CDS	2109				hypothetical protein
+OPANPEBB_00795	gene	738				
+OPANPEBB_00795	CDS	738				hypothetical protein
+OPANPEBB_00796	gene	636				
+OPANPEBB_00796	CDS	636				hypothetical protein
+OPANPEBB_00797	gene	3600				
+OPANPEBB_00797	CDS	3600				hypothetical protein
+OPANPEBB_00798	gene	1188				
+OPANPEBB_00798	CDS	1188				hypothetical protein
+OPANPEBB_00799	gene	1392				
+OPANPEBB_00799	CDS	1392				hypothetical protein
+OPANPEBB_00800	gene	2517				
+OPANPEBB_00800	CDS	2517				hypothetical protein
+OPANPEBB_00801	gene	102				
+OPANPEBB_00801	CDS	102				hypothetical protein
+OPANPEBB_00802	gene	840				
+OPANPEBB_00802	CDS	840				hypothetical protein
+OPANPEBB_00803	gene	1011	gapA			
+OPANPEBB_00803	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+OPANPEBB_00804	gene	423	mscL			
+OPANPEBB_00804	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+OPANPEBB_00805	gene	1038	lplJ			
+OPANPEBB_00805	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+OPANPEBB_00806	gene	1095	gcvT			
+OPANPEBB_00806	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+OPANPEBB_00807	gene	1506	btuB_3			
+OPANPEBB_00807	CDS	1506	btuB_3			Vitamin B12 transporter BtuB
+OPANPEBB_00808	gene	510				
+OPANPEBB_00808	CDS	510				hypothetical protein
+OPANPEBB_00809	gene	105				
+OPANPEBB_00809	CDS	105				hypothetical protein
+OPANPEBB_00810	gene	879				
+OPANPEBB_00810	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+OPANPEBB_00811	gene	840				
+OPANPEBB_00811	CDS	840				hypothetical protein
+OPANPEBB_00812	gene	963				
+OPANPEBB_00812	CDS	963				hypothetical protein
+OPANPEBB_00813	gene	189				
+OPANPEBB_00813	CDS	189				hypothetical protein
+OPANPEBB_00814	gene	486				
+OPANPEBB_00814	CDS	486				hypothetical protein
+OPANPEBB_00815	gene	396				
+OPANPEBB_00815	CDS	396				hypothetical protein
+OPANPEBB_00816	gene	435				
+OPANPEBB_00816	CDS	435				hypothetical protein
+OPANPEBB_00817	gene	189				
+OPANPEBB_00817	CDS	189				hypothetical protein
+OPANPEBB_00818	gene	1557	rapZ			
+OPANPEBB_00818	CDS	1557	rapZ			RNase adapter protein RapZ
+OPANPEBB_00819	gene	234				
+OPANPEBB_00819	CDS	234				hypothetical protein
+OPANPEBB_00820	gene	1221				
+OPANPEBB_00820	CDS	1221				hypothetical protein
+OPANPEBB_00821	gene	1044	lpxD			
+OPANPEBB_00821	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+OPANPEBB_00822	gene	897	bamD_1			
+OPANPEBB_00822	CDS	897	bamD_1			Outer membrane protein assembly factor BamD
+OPANPEBB_00823	gene	351				
+OPANPEBB_00823	CDS	351				hypothetical protein
+OPANPEBB_00824	gene	471				
+OPANPEBB_00824	CDS	471				hypothetical protein
+OPANPEBB_00825	gene	567				
+OPANPEBB_00825	CDS	567				hypothetical protein
+OPANPEBB_00826	gene	129				
+OPANPEBB_00826	CDS	129				hypothetical protein
+OPANPEBB_00827	gene	1245	xerC_2			
+OPANPEBB_00827	CDS	1245	xerC_2			Tyrosine recombinase XerC
+OPANPEBB_00828	gene	405				
+OPANPEBB_00828	CDS	405				hypothetical protein
+OPANPEBB_00829	gene	903				
+OPANPEBB_00829	CDS	903				hypothetical protein
+OPANPEBB_00830	gene	765				
+OPANPEBB_00830	CDS	765				hypothetical protein
+OPANPEBB_00831	gene	537				
+OPANPEBB_00831	CDS	537				hypothetical protein
+OPANPEBB_00832	gene	270				
+OPANPEBB_00832	CDS	270				hypothetical protein
+OPANPEBB_00833	gene	207				
+OPANPEBB_00833	CDS	207				hypothetical protein
+OPANPEBB_00834	gene	555	nudC_1			
+OPANPEBB_00834	CDS	555	nudC_1	3.6.1.22		NADH pyrophosphatase
+OPANPEBB_00835	gene	507				
+OPANPEBB_00835	CDS	507				hypothetical protein
+OPANPEBB_00836	gene	1152	resA_3			
+OPANPEBB_00836	CDS	1152	resA_3			Thiol-disulfide oxidoreductase ResA
+OPANPEBB_00837	gene	990				
+OPANPEBB_00837	CDS	990				hypothetical protein
+OPANPEBB_00838	gene	195				
+OPANPEBB_00838	CDS	195				hypothetical protein
+OPANPEBB_00839	gene	699	copR			
+OPANPEBB_00839	CDS	699	copR			Transcriptional activator protein CopR
+OPANPEBB_00840	gene	1548	sasA_2			
+OPANPEBB_00840	CDS	1548	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+OPANPEBB_00841	gene	777				
+OPANPEBB_00841	CDS	777				hypothetical protein
+OPANPEBB_00842	gene	627	fusA			
+OPANPEBB_00842	CDS	627	fusA		COG0480	Elongation factor G
+OPANPEBB_00843	gene	135				
+OPANPEBB_00843	CDS	135				hypothetical protein
+OPANPEBB_00844	gene	102				
+OPANPEBB_00844	CDS	102				hypothetical protein
+OPANPEBB_00845	gene	606				
+OPANPEBB_00845	CDS	606				hypothetical protein
+OPANPEBB_00846	gene	978	sdsA			
+OPANPEBB_00846	CDS	978	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+OPANPEBB_00847	gene	2766	polA			
+OPANPEBB_00847	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+OPANPEBB_00848	gene	606	tsaC			
+OPANPEBB_00848	CDS	606	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+OPANPEBB_00849	gene	1785	clcB			
+OPANPEBB_00849	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+OPANPEBB_00850	gene	963	fmt			
+OPANPEBB_00850	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+OPANPEBB_00851	gene	993	menE			
+OPANPEBB_00851	CDS	993	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+OPANPEBB_00852	gene	183				
+OPANPEBB_00852	CDS	183				hypothetical protein
+OPANPEBB_00853	gene	222				
+OPANPEBB_00853	CDS	222				hypothetical protein
+OPANPEBB_00854	gene	1989	nuoL			
+OPANPEBB_00854	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+OPANPEBB_00855	gene	312	nuoK			
+OPANPEBB_00855	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+OPANPEBB_00856	gene	513				
+OPANPEBB_00856	CDS	513				hypothetical protein
+OPANPEBB_00857	gene	534	nuoI			
+OPANPEBB_00857	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+OPANPEBB_00858	gene	714	ndhA			
+OPANPEBB_00858	CDS	714	ndhA	7.1.1.-	COG1005	NAD(P)H-quinone oxidoreductase subunit 1
+OPANPEBB_00859	gene	432	gyrB_1			
+OPANPEBB_00859	CDS	432	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+OPANPEBB_00860	gene	879				
+OPANPEBB_00860	CDS	879				hypothetical protein
+OPANPEBB_00861	gene	621				
+OPANPEBB_00861	CDS	621				hypothetical protein
+OPANPEBB_00862	gene	747	ung			
+OPANPEBB_00862	CDS	747	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+OPANPEBB_00863	gene	1518	gpmI			
+OPANPEBB_00863	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OPANPEBB_00864	gene	495				
+OPANPEBB_00864	CDS	495				hypothetical protein
+OPANPEBB_00865	gene	1098	fcl			
+OPANPEBB_00865	CDS	1098	fcl	1.1.1.271	COG0451	GDP-L-fucose synthase
+OPANPEBB_00866	gene	1086	gmd			
+OPANPEBB_00866	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+OPANPEBB_00867	gene	1059	rfbM			
+OPANPEBB_00867	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+OPANPEBB_00868	gene	621				
+OPANPEBB_00868	CDS	621				hypothetical protein
+OPANPEBB_00869	gene	525				
+OPANPEBB_00869	CDS	525				hypothetical protein
+OPANPEBB_00870	gene	1314				
+OPANPEBB_00870	CDS	1314				hypothetical protein
+OPANPEBB_00871	gene	1329				
+OPANPEBB_00871	CDS	1329				hypothetical protein
+OPANPEBB_00872	gene	2409				
+OPANPEBB_00872	CDS	2409		5.1.1.1		Alanine racemase
+OPANPEBB_00873	gene	282				
+OPANPEBB_00873	CDS	282				hypothetical protein
+OPANPEBB_00874	gene	726				
+OPANPEBB_00874	CDS	726				hypothetical protein
+OPANPEBB_00875	gene	687	psd			
+OPANPEBB_00875	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+OPANPEBB_00876	gene	1602	cptA			
+OPANPEBB_00876	CDS	1602	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+OPANPEBB_00877	gene	804				
+OPANPEBB_00877	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+OPANPEBB_00878	gene	1329	mshA_3			
+OPANPEBB_00878	CDS	1329	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OPANPEBB_00879	gene	405				
+OPANPEBB_00879	CDS	405				hypothetical protein
+OPANPEBB_00880	gene	1545	comM			
+OPANPEBB_00880	CDS	1545	comM		COG0606	Competence protein ComM
+OPANPEBB_00881	gene	1233				
+OPANPEBB_00881	CDS	1233			COG2081	putative protein
+OPANPEBB_00882	gene	963	ptpA			
+OPANPEBB_00882	CDS	963	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+OPANPEBB_00883	gene	1050	dusB			
+OPANPEBB_00883	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+OPANPEBB_00884	gene	1128				
+OPANPEBB_00884	CDS	1128				hypothetical protein
+OPANPEBB_00885	gene	453				
+OPANPEBB_00885	CDS	453				hypothetical protein
+OPANPEBB_00886	gene	1302				
+OPANPEBB_00886	CDS	1302				hypothetical protein
+OPANPEBB_00887	gene	1329				
+OPANPEBB_00887	CDS	1329				hypothetical protein
+OPANPEBB_00888	gene	1446	patA_2			
+OPANPEBB_00888	CDS	1446	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+OPANPEBB_00889	gene	807				
+OPANPEBB_00889	CDS	807				hypothetical protein
+OPANPEBB_00890	gene	438				
+OPANPEBB_00890	CDS	438				hypothetical protein
+OPANPEBB_00891	gene	432				
+OPANPEBB_00891	CDS	432				hypothetical protein
+OPANPEBB_00892	gene	2583				
+OPANPEBB_00892	CDS	2583				hypothetical protein
+OPANPEBB_00893	gene	705	gph_1			
+OPANPEBB_00893	CDS	705	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+OPANPEBB_00894	gene	933				
+OPANPEBB_00894	CDS	933				hypothetical protein
+OPANPEBB_00895	gene	732				
+OPANPEBB_00895	CDS	732				hypothetical protein
+OPANPEBB_00896	gene	1059				
+OPANPEBB_00896	CDS	1059				hypothetical protein
+OPANPEBB_00897	gene	192				
+OPANPEBB_00897	CDS	192				hypothetical protein
+OPANPEBB_00898	gene	174				
+OPANPEBB_00898	CDS	174				hypothetical protein
+OPANPEBB_00899	gene	657	gpx1			
+OPANPEBB_00899	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+OPANPEBB_00900	gene	450				
+OPANPEBB_00900	CDS	450				hypothetical protein
+OPANPEBB_00901	gene	1932				
+OPANPEBB_00901	CDS	1932				hypothetical protein
+OPANPEBB_00902	gene	171				
+OPANPEBB_00902	CDS	171				hypothetical protein
+OPANPEBB_00903	gene	672	yknY_3			
+OPANPEBB_00903	CDS	672	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OPANPEBB_00904	gene	1260	macB			
+OPANPEBB_00904	CDS	1260	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+OPANPEBB_00905	gene	480				
+OPANPEBB_00905	CDS	480				hypothetical protein
+OPANPEBB_00906	gene	246				
+OPANPEBB_00906	CDS	246				hypothetical protein
+OPANPEBB_00907	gene	729				
+OPANPEBB_00907	CDS	729				hypothetical protein
+OPANPEBB_00908	gene	1068				
+OPANPEBB_00908	CDS	1068				hypothetical protein
+OPANPEBB_00909	gene	423				
+OPANPEBB_00909	CDS	423				hypothetical protein
+OPANPEBB_00910	gene	1239	fdtB			
+OPANPEBB_00910	CDS	1239	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+OPANPEBB_00911	gene	939				
+OPANPEBB_00911	CDS	939				hypothetical protein
+OPANPEBB_00912	gene	411	fdtA			
+OPANPEBB_00912	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+OPANPEBB_00913	gene	1086	rfbB			
+OPANPEBB_00913	CDS	1086	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+OPANPEBB_00914	gene	1239				
+OPANPEBB_00914	CDS	1239				hypothetical protein
+OPANPEBB_00915	gene	1788				
+OPANPEBB_00915	CDS	1788				hypothetical protein
+OPANPEBB_00916	gene	321				
+OPANPEBB_00916	CDS	321				hypothetical protein
+OPANPEBB_00917	gene	288	hutH			
+OPANPEBB_00917	CDS	288	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+OPANPEBB_00918	gene	1251	hutI			
+OPANPEBB_00918	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+OPANPEBB_00919	gene	339				
+OPANPEBB_00919	CDS	339				hypothetical protein
+OPANPEBB_00920	gene	966	queG			
+OPANPEBB_00920	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+OPANPEBB_00921	gene	552				
+OPANPEBB_00921	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+OPANPEBB_00922	gene	831				
+OPANPEBB_00922	CDS	831				hypothetical protein
+OPANPEBB_00923	gene	1461	pepD_1			
+OPANPEBB_00923	CDS	1461	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+OPANPEBB_00924	gene	141				
+OPANPEBB_00924	CDS	141				hypothetical protein
+OPANPEBB_00925	gene	927				
+OPANPEBB_00925	CDS	927				hypothetical protein
+OPANPEBB_00926	gene	279				
+OPANPEBB_00926	CDS	279				hypothetical protein
+OPANPEBB_00927	gene	606	rnhB			
+OPANPEBB_00927	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+OPANPEBB_00928	gene	1023				
+OPANPEBB_00928	CDS	1023				hypothetical protein
+OPANPEBB_00929	gene	1770				
+OPANPEBB_00929	CDS	1770				hypothetical protein
+OPANPEBB_00930	gene	465				
+OPANPEBB_00930	CDS	465				hypothetical protein
+OPANPEBB_00931	gene	1026				
+OPANPEBB_00931	CDS	1026				hypothetical protein
+OPANPEBB_00932	gene	1518				
+OPANPEBB_00932	CDS	1518		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+OPANPEBB_00933	gene	492				
+OPANPEBB_00933	CDS	492				hypothetical protein
+OPANPEBB_00934	gene	2730				
+OPANPEBB_00934	CDS	2730				hypothetical protein
+OPANPEBB_00935	gene	720				
+OPANPEBB_00935	CDS	720				hypothetical protein
+OPANPEBB_00936	gene	1356				
+OPANPEBB_00936	CDS	1356				hypothetical protein
+OPANPEBB_00937	gene	753				
+OPANPEBB_00937	CDS	753				hypothetical protein
+OPANPEBB_00938	gene	1854	bepA_1			
+OPANPEBB_00938	CDS	1854	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+OPANPEBB_00939	gene	786				
+OPANPEBB_00939	CDS	786				hypothetical protein
+OPANPEBB_00940	gene	420	aroQ1			
+OPANPEBB_00940	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+OPANPEBB_00941	gene	627	trmR			
+OPANPEBB_00941	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+OPANPEBB_00942	gene	624				
+OPANPEBB_00942	CDS	624				hypothetical protein
+OPANPEBB_00943	gene	1641				
+OPANPEBB_00943	CDS	1641				hypothetical protein
+OPANPEBB_00944	gene	2565	glgP			
+OPANPEBB_00944	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+OPANPEBB_00945	gene	675	ruvB			
+OPANPEBB_00945	CDS	675	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+OPANPEBB_00946	gene	1578				
+OPANPEBB_00946	CDS	1578				hypothetical protein
+OPANPEBB_00947	gene	411	ybeY			
+OPANPEBB_00947	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+OPANPEBB_00948	gene	441	coaD			
+OPANPEBB_00948	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+OPANPEBB_00949	gene	1272	gyrB_2			
+OPANPEBB_00949	CDS	1272	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+OPANPEBB_00950	gene	1218	norV			
+OPANPEBB_00950	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+OPANPEBB_00951	gene	1317				
+OPANPEBB_00951	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+OPANPEBB_00952	gene	1368				
+OPANPEBB_00952	CDS	1368				hypothetical protein
+OPANPEBB_00953	gene	579	addB			
+OPANPEBB_00953	CDS	579	addB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+OPANPEBB_00954	gene	138				
+OPANPEBB_00954	CDS	138				hypothetical protein
+OPANPEBB_00955	gene	1389	purD			
+OPANPEBB_00955	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+OPANPEBB_00956	gene	951				
+OPANPEBB_00956	CDS	951				hypothetical protein
+OPANPEBB_00957	gene	453	yqaA			
+OPANPEBB_00957	CDS	453	yqaA		COG1238	Inner membrane protein YqaA
+OPANPEBB_00958	gene	519				
+OPANPEBB_00958	CDS	519				hypothetical protein
+OPANPEBB_00959	gene	819				
+OPANPEBB_00959	CDS	819				hypothetical protein
+OPANPEBB_00960	gene	2310	maeB			
+OPANPEBB_00960	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+OPANPEBB_00961	gene	615				
+OPANPEBB_00961	CDS	615		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+OPANPEBB_00962	gene	1308				
+OPANPEBB_00962	CDS	1308				hypothetical protein
+OPANPEBB_00963	gene	1695				
+OPANPEBB_00963	CDS	1695				hypothetical protein
+OPANPEBB_00964	gene	840	pal_2			
+OPANPEBB_00964	CDS	840	pal_2			Peptidoglycan-associated lipoprotein
+OPANPEBB_00965	gene	4227				
+OPANPEBB_00965	CDS	4227				hypothetical protein
+OPANPEBB_00966	gene	867	korA			
+OPANPEBB_00966	CDS	867	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+OPANPEBB_00967	gene	1002	korB			
+OPANPEBB_00967	CDS	1002	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+OPANPEBB_00968	gene	2106	recD2			
+OPANPEBB_00968	CDS	2106	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+OPANPEBB_00969	gene	2229	relA_1			
+OPANPEBB_00969	CDS	2229	relA_1	2.7.6.5		GTP pyrophosphokinase
+OPANPEBB_00970	gene	624	truA			
+OPANPEBB_00970	CDS	624	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+OPANPEBB_00971	gene	606	fklB			
+OPANPEBB_00971	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+OPANPEBB_00972	gene	879				
+OPANPEBB_00972	CDS	879				hypothetical protein
+OPANPEBB_00973	gene	912				
+OPANPEBB_00973	CDS	912				hypothetical protein
+OPANPEBB_00974	gene	468	asnC_2			
+OPANPEBB_00974	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+OPANPEBB_00975	gene	849				
+OPANPEBB_00975	CDS	849				hypothetical protein
+OPANPEBB_00976	gene	429				
+OPANPEBB_00976	CDS	429				hypothetical protein
+OPANPEBB_00977	gene	339				
+OPANPEBB_00977	CDS	339				hypothetical protein
+OPANPEBB_00978	gene	465	queF			
+OPANPEBB_00978	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+OPANPEBB_00979	gene	1017				
+OPANPEBB_00979	CDS	1017				hypothetical protein
+OPANPEBB_00980	gene	123				
+OPANPEBB_00980	CDS	123				hypothetical protein
+OPANPEBB_00981	gene	88				
+OPANPEBB_00981	tRNA	88				tRNA-Ser(cga)
+OPANPEBB_00982	gene	585	yigZ			
+OPANPEBB_00982	CDS	585	yigZ		COG1739	IMPACT family member YigZ
+OPANPEBB_00983	gene	1248				
+OPANPEBB_00983	CDS	1248				hypothetical protein
+OPANPEBB_00984	gene	918				
+OPANPEBB_00984	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+OPANPEBB_00985	gene	1068	serC			
+OPANPEBB_00985	CDS	1068	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+OPANPEBB_00986	gene	657				
+OPANPEBB_00986	CDS	657				hypothetical protein
+OPANPEBB_00987	gene	1257	hflX			
+OPANPEBB_00987	CDS	1257	hflX			GTPase HflX
+OPANPEBB_00988	gene	945	nagB			
+OPANPEBB_00988	CDS	945	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+OPANPEBB_00989	gene	228				
+OPANPEBB_00989	CDS	228				hypothetical protein
+OPANPEBB_00990	gene	657				
+OPANPEBB_00990	CDS	657				hypothetical protein
+OPANPEBB_00991	gene	1833	LIAS			
+OPANPEBB_00991	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+OPANPEBB_00992	gene	462	ndk			
+OPANPEBB_00992	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+OPANPEBB_00993	gene	1698	eptC			
+OPANPEBB_00993	CDS	1698	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+OPANPEBB_00994	gene	1215	norR			
+OPANPEBB_00994	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+OPANPEBB_00995	gene	204				
+OPANPEBB_00995	CDS	204				hypothetical protein
+OPANPEBB_00996	gene	2373	bamA			
+OPANPEBB_00996	CDS	2373	bamA			Outer membrane protein assembly factor BamA
+OPANPEBB_00997	gene	1410	clsA			
+OPANPEBB_00997	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+OPANPEBB_00998	gene	270				
+OPANPEBB_00998	CDS	270				hypothetical protein
+OPANPEBB_00999	gene	90				
+OPANPEBB_00999	CDS	90				hypothetical protein
+OPANPEBB_01000	gene	300				
+OPANPEBB_01000	CDS	300			COG0776	DNA-binding protein HRL53
+OPANPEBB_01001	gene	444	rpiB			
+OPANPEBB_01001	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+OPANPEBB_01002	gene	561	tkt_1			
+OPANPEBB_01002	CDS	561	tkt_1	2.2.1.1		Transketolase
+OPANPEBB_01003	gene	1413	tkt_2			
+OPANPEBB_01003	CDS	1413	tkt_2	2.2.1.1		Transketolase
+OPANPEBB_01004	gene	966				
+OPANPEBB_01004	CDS	966				hypothetical protein
+OPANPEBB_01005	gene	498	yqgN			
+OPANPEBB_01005	CDS	498	yqgN		COG0212	putative protein YqgN
+OPANPEBB_01006	gene	291				
+OPANPEBB_01006	CDS	291				hypothetical protein
+OPANPEBB_01007	gene	1095	recF			
+OPANPEBB_01007	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+OPANPEBB_01008	gene	741				
+OPANPEBB_01008	CDS	741				hypothetical protein
+OPANPEBB_01009	gene	648				
+OPANPEBB_01009	CDS	648				hypothetical protein
+OPANPEBB_01010	gene	675	trmD			
+OPANPEBB_01010	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+OPANPEBB_01011	gene	1062	buk2			
+OPANPEBB_01011	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+OPANPEBB_01012	gene	855	pta_2			
+OPANPEBB_01012	CDS	855	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+OPANPEBB_01013	gene	270	ligA			
+OPANPEBB_01013	CDS	270	ligA	6.5.1.2	COG0272	DNA ligase
+OPANPEBB_01014	gene	855	serS			
+OPANPEBB_01014	CDS	855	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+OPANPEBB_01015	gene	2358	pyrK			
+OPANPEBB_01015	CDS	2358	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+OPANPEBB_01016	gene	420				
+OPANPEBB_01016	CDS	420				hypothetical protein
+OPANPEBB_01017	gene	1275				
+OPANPEBB_01017	CDS	1275				hypothetical protein
+OPANPEBB_01018	gene	255				
+OPANPEBB_01018	CDS	255				hypothetical protein
+OPANPEBB_01019	gene	216				
+OPANPEBB_01019	CDS	216				hypothetical protein
+OPANPEBB_01020	gene	774				
+OPANPEBB_01020	CDS	774				hypothetical protein
+OPANPEBB_01021	gene	507				
+OPANPEBB_01021	CDS	507				hypothetical protein
+OPANPEBB_01022	gene	876	deoD			
+OPANPEBB_01022	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+OPANPEBB_01023	gene	1032	ltaE			
+OPANPEBB_01023	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+OPANPEBB_01024	gene	1374	mnmE			
+OPANPEBB_01024	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+OPANPEBB_01025	gene	120				
+OPANPEBB_01025	CDS	120				hypothetical protein
+OPANPEBB_01026	gene	255				
+OPANPEBB_01026	CDS	255				hypothetical protein
+OPANPEBB_01027	gene	444				
+OPANPEBB_01027	CDS	444				hypothetical protein
+OPANPEBB_01028	gene	1434	dtpA			
+OPANPEBB_01028	CDS	1434	dtpA		COG3104	Dipeptide and tripeptide permease A
+OPANPEBB_01029	gene	417				
+OPANPEBB_01029	CDS	417				hypothetical protein
+OPANPEBB_01030	gene	399				
+OPANPEBB_01030	CDS	399		2.8.1.-	COG0607	Sulfurtransferase
+OPANPEBB_01031	gene	1311	eno			
+OPANPEBB_01031	CDS	1311	eno	4.2.1.11		Enolase
+OPANPEBB_01032	gene	981	ribD			
+OPANPEBB_01032	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+OPANPEBB_01033	gene	645	caiE			
+OPANPEBB_01033	CDS	645	caiE			Carnitine operon protein CaiE
+OPANPEBB_01034	gene	3030				
+OPANPEBB_01034	CDS	3030				hypothetical protein
+OPANPEBB_01035	gene	546				
+OPANPEBB_01035	CDS	546				hypothetical protein
+OPANPEBB_01036	gene	747				
+OPANPEBB_01036	CDS	747				hypothetical protein
+OPANPEBB_01037	gene	774				
+OPANPEBB_01037	CDS	774				hypothetical protein
+OPANPEBB_01038	gene	1053				
+OPANPEBB_01038	CDS	1053				hypothetical protein
+OPANPEBB_01039	gene	354				
+OPANPEBB_01039	CDS	354				hypothetical protein
+OPANPEBB_01040	gene	1734	topA			
+OPANPEBB_01040	CDS	1734	topA	5.6.2.1	COG0550	DNA topoisomerase 1
+OPANPEBB_01041	gene	528	aroK			
+OPANPEBB_01041	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+OPANPEBB_01042	gene	255				
+OPANPEBB_01042	CDS	255				hypothetical protein
+OPANPEBB_01043	gene	192				
+OPANPEBB_01043	CDS	192				hypothetical protein
+OPANPEBB_01044	gene	192				
+OPANPEBB_01044	CDS	192				hypothetical protein
+OPANPEBB_01045	gene	255				
+OPANPEBB_01045	CDS	255				hypothetical protein
+OPANPEBB_01046	gene	2343				
+OPANPEBB_01046	CDS	2343				hypothetical protein
+OPANPEBB_01047	gene	366				
+OPANPEBB_01047	CDS	366				hypothetical protein
+OPANPEBB_01048	gene	210				
+OPANPEBB_01048	CDS	210				hypothetical protein
+OPANPEBB_01049	gene	552				
+OPANPEBB_01049	CDS	552				hypothetical protein
+OPANPEBB_01050	gene	153				
+OPANPEBB_01050	CDS	153				hypothetical protein
+OPANPEBB_01051	gene	144				
+OPANPEBB_01051	CDS	144				hypothetical protein
+OPANPEBB_01052	gene	76				
+OPANPEBB_01052	tRNA	76				tRNA-Asn(gtt)
+OPANPEBB_01053	gene	1734				
+OPANPEBB_01053	CDS	1734				hypothetical protein
+OPANPEBB_01054	gene	384				
+OPANPEBB_01054	CDS	384				hypothetical protein
+OPANPEBB_01055	gene	510				
+OPANPEBB_01055	CDS	510				hypothetical protein
+OPANPEBB_01056	gene	993	mdh			
+OPANPEBB_01056	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+OPANPEBB_01057	gene	159				
+OPANPEBB_01057	CDS	159				hypothetical protein
+OPANPEBB_01058	gene	1305				
+OPANPEBB_01058	CDS	1305				hypothetical protein
+OPANPEBB_01059	gene	843				
+OPANPEBB_01059	CDS	843				hypothetical protein
+OPANPEBB_01060	gene	1932				
+OPANPEBB_01060	CDS	1932				hypothetical protein
+OPANPEBB_01061	gene	2238	rnr			
+OPANPEBB_01061	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+OPANPEBB_01062	gene	993	oleD			
+OPANPEBB_01062	CDS	993	oleD	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+OPANPEBB_01063	gene	792	rsmA			
+OPANPEBB_01063	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+OPANPEBB_01064	gene	624				
+OPANPEBB_01064	CDS	624				hypothetical protein
+OPANPEBB_01065	gene	1317				
+OPANPEBB_01065	CDS	1317				hypothetical protein
+OPANPEBB_01066	gene	411				
+OPANPEBB_01066	CDS	411				Single-stranded DNA-binding protein
+OPANPEBB_01067	gene	879				
+OPANPEBB_01067	CDS	879				hypothetical protein
+OPANPEBB_01068	gene	663	queC			
+OPANPEBB_01068	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+OPANPEBB_01069	gene	1251	pgk			
+OPANPEBB_01069	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+OPANPEBB_01070	gene	390				
+OPANPEBB_01070	CDS	390				hypothetical protein
+OPANPEBB_01071	gene	699				
+OPANPEBB_01071	CDS	699				hypothetical protein
+OPANPEBB_01072	gene	615				
+OPANPEBB_01072	CDS	615				hypothetical protein
+OPANPEBB_01073	gene	1233				
+OPANPEBB_01073	CDS	1233				hypothetical protein
+OPANPEBB_01074	gene	1191				
+OPANPEBB_01074	CDS	1191				hypothetical protein
+OPANPEBB_01075	gene	1272	apgM			
+OPANPEBB_01075	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OPANPEBB_01076	gene	636				
+OPANPEBB_01076	CDS	636				hypothetical protein
+OPANPEBB_01077	gene	1365	bepA_2			
+OPANPEBB_01077	CDS	1365	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+OPANPEBB_01078	gene	492	glnS			
+OPANPEBB_01078	CDS	492	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+OPANPEBB_01079	gene	351				
+OPANPEBB_01079	CDS	351				hypothetical protein
+OPANPEBB_01080	gene	903	menA			
+OPANPEBB_01080	CDS	903	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+OPANPEBB_01081	gene	633				
+OPANPEBB_01081	CDS	633				hypothetical protein
+OPANPEBB_01082	gene	642				
+OPANPEBB_01082	CDS	642				hypothetical protein
+OPANPEBB_01083	gene	954				
+OPANPEBB_01083	CDS	954				hypothetical protein
+OPANPEBB_01084	gene	315	trxA			
+OPANPEBB_01084	CDS	315	trxA			Thioredoxin 1
+OPANPEBB_01085	gene	3408	dnaE			
+OPANPEBB_01085	CDS	3408	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+OPANPEBB_01086	gene	606				
+OPANPEBB_01086	CDS	606				hypothetical protein
+OPANPEBB_01087	gene	237	acpP			
+OPANPEBB_01087	CDS	237	acpP		COG0236	Acyl carrier protein
+OPANPEBB_01088	gene	1263	fabF			
+OPANPEBB_01088	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+OPANPEBB_01089	gene	1050	rnc			
+OPANPEBB_01089	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+OPANPEBB_01090	gene	1194	ttgA			
+OPANPEBB_01090	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+OPANPEBB_01091	gene	489				
+OPANPEBB_01091	CDS	489				hypothetical protein
+OPANPEBB_01092	gene	1443	tuaB			
+OPANPEBB_01092	CDS	1443	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+OPANPEBB_01093	gene	1440				
+OPANPEBB_01093	CDS	1440				hypothetical protein
+OPANPEBB_01094	gene	411				
+OPANPEBB_01094	CDS	411				hypothetical protein
+OPANPEBB_01095	gene	447				
+OPANPEBB_01095	CDS	447				hypothetical protein
+OPANPEBB_01096	gene	456				
+OPANPEBB_01096	CDS	456				hypothetical protein
+OPANPEBB_01097	gene	345	hxlR			
+OPANPEBB_01097	CDS	345	hxlR		COG1733	HTH-type transcriptional activator HxlR
+OPANPEBB_01098	gene	372				
+OPANPEBB_01098	CDS	372				hypothetical protein
+OPANPEBB_01099	gene	330				
+OPANPEBB_01099	CDS	330				hypothetical protein
+OPANPEBB_01100	gene	207				
+OPANPEBB_01100	CDS	207				hypothetical protein
+OPANPEBB_01101	gene	789				
+OPANPEBB_01101	CDS	789				hypothetical protein
+OPANPEBB_01102	gene	996				
+OPANPEBB_01102	CDS	996				hypothetical protein
+OPANPEBB_01103	gene	141				
+OPANPEBB_01103	CDS	141				hypothetical protein
+OPANPEBB_01104	gene	1527	dgt			
+OPANPEBB_01104	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+OPANPEBB_01105	gene	585				
+OPANPEBB_01105	CDS	585				hypothetical protein
+OPANPEBB_01106	gene	786				
+OPANPEBB_01106	CDS	786				hypothetical protein
+OPANPEBB_01107	gene	639				
+OPANPEBB_01107	CDS	639				hypothetical protein
+OPANPEBB_01108	gene	1788	ftsH_2			
+OPANPEBB_01108	CDS	1788	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OPANPEBB_01109	gene	936	eamA			
+OPANPEBB_01109	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+OPANPEBB_01110	gene	291				
+OPANPEBB_01110	CDS	291				hypothetical protein
+OPANPEBB_01111	gene	849				
+OPANPEBB_01111	CDS	849				hypothetical protein
+OPANPEBB_01112	gene	597				
+OPANPEBB_01112	CDS	597				hypothetical protein
+OPANPEBB_01113	gene	837				
+OPANPEBB_01113	CDS	837				hypothetical protein
+OPANPEBB_01114	gene	2439				
+OPANPEBB_01114	CDS	2439				hypothetical protein
+OPANPEBB_01115	gene	1014	asd			
+OPANPEBB_01115	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+OPANPEBB_01116	gene	477				
+OPANPEBB_01116	CDS	477				hypothetical protein
+OPANPEBB_01117	gene	1002				
+OPANPEBB_01117	CDS	1002				hypothetical protein
+OPANPEBB_01118	gene	2538				
+OPANPEBB_01118	CDS	2538				hypothetical protein
+OPANPEBB_01119	gene	597	miaA_1			
+OPANPEBB_01119	CDS	597	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+OPANPEBB_01120	gene	2469	mrcA_1			
+OPANPEBB_01120	CDS	2469	mrcA_1		COG5009	Penicillin-binding protein 1A
+OPANPEBB_01121	gene	492	pncC			
+OPANPEBB_01121	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+OPANPEBB_01122	gene	1026	tsaD			
+OPANPEBB_01122	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+OPANPEBB_01123	gene	855	map			
+OPANPEBB_01123	CDS	855	map	3.4.11.18	COG0024	Methionine aminopeptidase
+OPANPEBB_01124	gene	405				
+OPANPEBB_01124	CDS	405				hypothetical protein
+OPANPEBB_01125	gene	480	smpB			
+OPANPEBB_01125	CDS	480	smpB		COG0691	SsrA-binding protein
+OPANPEBB_01126	gene	1371				
+OPANPEBB_01126	CDS	1371				hypothetical protein
+OPANPEBB_01127	gene	126				
+OPANPEBB_01127	CDS	126				hypothetical protein
+OPANPEBB_01128	gene	648				
+OPANPEBB_01128	CDS	648				hypothetical protein
+OPANPEBB_01129	gene	753	manA			
+OPANPEBB_01129	CDS	753	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+OPANPEBB_01130	gene	1143	cydB			
+OPANPEBB_01130	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+OPANPEBB_01131	gene	1530	cydA			
+OPANPEBB_01131	CDS	1530	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+OPANPEBB_01132	gene	228				
+OPANPEBB_01132	CDS	228				hypothetical protein
+OPANPEBB_01133	gene	1209				
+OPANPEBB_01133	CDS	1209				hypothetical protein
+OPANPEBB_01134	gene	1170				
+OPANPEBB_01134	CDS	1170				hypothetical protein
+OPANPEBB_01135	gene	984	gyrA			
+OPANPEBB_01135	CDS	984	gyrA	5.6.2.2		DNA gyrase subunit A
+OPANPEBB_01136	gene	534	pspA_1			
+OPANPEBB_01136	CDS	534	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+OPANPEBB_01137	gene	792	cobS			
+OPANPEBB_01137	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+OPANPEBB_01138	gene	1032	cobT			
+OPANPEBB_01138	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+OPANPEBB_01139	gene	531	cobP			
+OPANPEBB_01139	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+OPANPEBB_01140	gene	912				
+OPANPEBB_01140	CDS	912				hypothetical protein
+OPANPEBB_01141	gene	558	rsmD			
+OPANPEBB_01141	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+OPANPEBB_01142	gene	861				
+OPANPEBB_01142	CDS	861				hypothetical protein
+OPANPEBB_01143	gene	492				
+OPANPEBB_01143	CDS	492				hypothetical protein
+OPANPEBB_01144	gene	696	mtnN			
+OPANPEBB_01144	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+OPANPEBB_01145	gene	480	luxS			
+OPANPEBB_01145	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+OPANPEBB_01146	gene	1467	dinF			
+OPANPEBB_01146	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+OPANPEBB_01147	gene	420	typA			
+OPANPEBB_01147	CDS	420	typA		COG1217	GTP-binding protein TypA/BipA
+OPANPEBB_01148	gene	1644	hcp			
+OPANPEBB_01148	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+OPANPEBB_01149	gene	96				
+OPANPEBB_01149	CDS	96				hypothetical protein
+OPANPEBB_01150	gene	600				
+OPANPEBB_01150	CDS	600				hypothetical protein
+OPANPEBB_01151	gene	669				
+OPANPEBB_01151	CDS	669				hypothetical protein
+OPANPEBB_01152	gene	177				
+OPANPEBB_01152	CDS	177				hypothetical protein
+OPANPEBB_01153	gene	243				
+OPANPEBB_01153	CDS	243				hypothetical protein
+OPANPEBB_01154	gene	2325				
+OPANPEBB_01154	CDS	2325				hypothetical protein
+OPANPEBB_01155	gene	2040	uvrB			
+OPANPEBB_01155	CDS	2040	uvrB		COG0556	UvrABC system protein B
+OPANPEBB_01156	gene	255				
+OPANPEBB_01156	CDS	255				hypothetical protein
+OPANPEBB_01157	gene	426				
+OPANPEBB_01157	CDS	426				hypothetical protein
+OPANPEBB_01158	gene	873				
+OPANPEBB_01158	CDS	873				hypothetical protein
+OPANPEBB_01159	gene	726	mhqN			
+OPANPEBB_01159	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+OPANPEBB_01160	gene	555				
+OPANPEBB_01160	CDS	555				hypothetical protein
+OPANPEBB_01161	gene	75				
+OPANPEBB_01161	tRNA	75				tRNA-Ala(ggc)
+OPANPEBB_01162	gene	465	greA			
+OPANPEBB_01162	CDS	465	greA		COG0782	Transcription elongation factor GreA
+OPANPEBB_01163	gene	399				
+OPANPEBB_01163	CDS	399			COG0537	putative HIT-like protein
+OPANPEBB_01164	gene	315				
+OPANPEBB_01164	CDS	315				hypothetical protein
+OPANPEBB_01165	gene	507				
+OPANPEBB_01165	CDS	507				hypothetical protein
+OPANPEBB_01166	gene	444				
+OPANPEBB_01166	CDS	444				hypothetical protein
+OPANPEBB_01167	gene	261				
+OPANPEBB_01167	CDS	261				hypothetical protein
+OPANPEBB_01168	gene	2187	ccsA_2			
+OPANPEBB_01168	CDS	2187	ccsA_2			Cytochrome c biogenesis protein CcsA
+OPANPEBB_01169	gene	108				
+OPANPEBB_01169	CDS	108				hypothetical protein
+OPANPEBB_01170	gene	600	purH_2			
+OPANPEBB_01170	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+OPANPEBB_01171	gene	1026	mbl			
+OPANPEBB_01171	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+OPANPEBB_01172	gene	867				
+OPANPEBB_01172	CDS	867				hypothetical protein
+OPANPEBB_01173	gene	201				
+OPANPEBB_01173	CDS	201				hypothetical protein
+OPANPEBB_01174	gene	213				
+OPANPEBB_01174	CDS	213				hypothetical protein
+OPANPEBB_01175	gene	1248				
+OPANPEBB_01175	CDS	1248				hypothetical protein
+OPANPEBB_01176	gene	438				
+OPANPEBB_01176	CDS	438				hypothetical protein
+OPANPEBB_01177	gene	1257	mrdB			
+OPANPEBB_01177	CDS	1257	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+OPANPEBB_01178	gene	405	epi			
+OPANPEBB_01178	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+OPANPEBB_01179	gene	2364				
+OPANPEBB_01179	CDS	2364				hypothetical protein
+OPANPEBB_01180	gene	348				
+OPANPEBB_01180	CDS	348				hypothetical protein
+OPANPEBB_01181	gene	1440	relA_2			
+OPANPEBB_01181	CDS	1440	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+OPANPEBB_01182	gene	336				
+OPANPEBB_01182	CDS	336				hypothetical protein
+OPANPEBB_01183	gene	537	sigE_2			
+OPANPEBB_01183	CDS	537	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+OPANPEBB_01184	gene	549				
+OPANPEBB_01184	CDS	549				hypothetical protein
+OPANPEBB_01185	gene	585				
+OPANPEBB_01185	CDS	585				hypothetical protein
+OPANPEBB_01186	gene	183				
+OPANPEBB_01186	CDS	183				hypothetical protein
+OPANPEBB_01187	gene	1083				
+OPANPEBB_01187	CDS	1083				hypothetical protein
+OPANPEBB_01188	gene	255				
+OPANPEBB_01188	CDS	255				hypothetical protein
+OPANPEBB_01189	gene	1689	hppA1			
+OPANPEBB_01189	CDS	1689	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+OPANPEBB_01190	gene	783	uppP			
+OPANPEBB_01190	CDS	783	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+OPANPEBB_01191	gene	699	truB			
+OPANPEBB_01191	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+OPANPEBB_01192	gene	1119	queA_2			
+OPANPEBB_01192	CDS	1119	queA_2	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OPANPEBB_01193	gene	426	sulD			
+OPANPEBB_01193	CDS	426	sulD		COG0801	Bifunctional folate synthesis protein
+OPANPEBB_01194	gene	1224	recN			
+OPANPEBB_01194	CDS	1224	recN		COG0497	DNA repair protein RecN
+OPANPEBB_01195	gene	1647				
+OPANPEBB_01195	CDS	1647				hypothetical protein
+OPANPEBB_01196	gene	858	panC			
+OPANPEBB_01196	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+OPANPEBB_01197	gene	813	glgA			
+OPANPEBB_01197	CDS	813	glgA	2.4.1.21		Glycogen synthase
+OPANPEBB_01198	gene	1362	oprM			
+OPANPEBB_01198	CDS	1362	oprM		COG1538	Outer membrane protein OprM
+OPANPEBB_01199	gene	1212	bepE			
+OPANPEBB_01199	CDS	1212	bepE			Efflux pump membrane transporter BepE
+OPANPEBB_01200	gene	894	fabD			
+OPANPEBB_01200	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+OPANPEBB_01201	gene	462				
+OPANPEBB_01201	CDS	462				hypothetical protein
+OPANPEBB_01202	gene	2238	secDF			
+OPANPEBB_01202	CDS	2238	secDF		COG0341	Protein translocase subunit SecDF
+OPANPEBB_01203	gene	189				
+OPANPEBB_01203	CDS	189				hypothetical protein
+OPANPEBB_01204	gene	1536	gltX			
+OPANPEBB_01204	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+OPANPEBB_01205	gene	309				
+OPANPEBB_01205	CDS	309				hypothetical protein
+OPANPEBB_01206	gene	1809				
+OPANPEBB_01206	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+OPANPEBB_01207	gene	660				
+OPANPEBB_01207	CDS	660				hypothetical protein
+OPANPEBB_01208	gene	114				
+OPANPEBB_01208	CDS	114				hypothetical protein
+OPANPEBB_01209	gene	627				
+OPANPEBB_01209	CDS	627				hypothetical protein
+OPANPEBB_01210	gene	828				
+OPANPEBB_01210	CDS	828				hypothetical protein
+OPANPEBB_01211	gene	519				
+OPANPEBB_01211	CDS	519			COG3039	IS5 family transposase ISPg8
+OPANPEBB_01212	gene	516	rny			
+OPANPEBB_01212	CDS	516	rny	3.1.-.-	COG1418	Ribonuclease Y
+OPANPEBB_01213	gene	957				
+OPANPEBB_01213	CDS	957				hypothetical protein
+OPANPEBB_01214	gene	585	malT			
+OPANPEBB_01214	CDS	585	malT			HTH-type transcriptional regulator MalT
+OPANPEBB_01215	gene	936	gcdB			
+OPANPEBB_01215	CDS	936	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+OPANPEBB_01216	gene	68				
+OPANPEBB_01216	tRNA	68				tRNA-Pro(cgg)
+OPANPEBB_01217	gene	74				
+OPANPEBB_01217	tRNA	74				tRNA-Phe(gaa)
+OPANPEBB_01218	gene	552				
+OPANPEBB_01218	CDS	552				hypothetical protein
+OPANPEBB_01219	gene	303				
+OPANPEBB_01219	CDS	303				hypothetical protein
+OPANPEBB_01220	gene	636				
+OPANPEBB_01220	CDS	636				hypothetical protein
+OPANPEBB_01221	gene	552				
+OPANPEBB_01221	CDS	552				hypothetical protein
+OPANPEBB_01222	gene	747	mlaE			
+OPANPEBB_01222	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+OPANPEBB_01223	gene	564				
+OPANPEBB_01223	CDS	564				hypothetical protein
+OPANPEBB_01224	gene	825	lptB_2			
+OPANPEBB_01224	CDS	825	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+OPANPEBB_01225	gene	2661	rcsC_2			
+OPANPEBB_01225	CDS	2661	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+OPANPEBB_01226	gene	423				
+OPANPEBB_01226	CDS	423				hypothetical protein
+OPANPEBB_01227	gene	471				
+OPANPEBB_01227	CDS	471				hypothetical protein
+OPANPEBB_01228	gene	993	rpoA			
+OPANPEBB_01228	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+OPANPEBB_01229	gene	609	rpsD			
+OPANPEBB_01229	CDS	609	rpsD			30S ribosomal protein S4
+OPANPEBB_01230	gene	354	rpsK			
+OPANPEBB_01230	CDS	354	rpsK			30S ribosomal protein S11
+OPANPEBB_01231	gene	780	nudC_2			
+OPANPEBB_01231	CDS	780	nudC_2	3.6.1.22		NADH pyrophosphatase
+OPANPEBB_01232	gene	1911	yfkN			
+OPANPEBB_01232	CDS	1911	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+OPANPEBB_01233	gene	843	yidC			
+OPANPEBB_01233	CDS	843	yidC			Membrane protein insertase YidC
+OPANPEBB_01234	gene	114				
+OPANPEBB_01234	CDS	114				hypothetical protein
+OPANPEBB_01235	gene	474				
+OPANPEBB_01235	CDS	474				hypothetical protein
+OPANPEBB_01236	gene	918	rhaS_1			
+OPANPEBB_01236	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+OPANPEBB_01237	gene	258				
+OPANPEBB_01237	CDS	258				hypothetical protein
+OPANPEBB_01238	gene	405				
+OPANPEBB_01238	CDS	405				hypothetical protein
+OPANPEBB_01239	gene	564	lemA			
+OPANPEBB_01239	CDS	564	lemA		COG1704	Protein LemA
+OPANPEBB_01240	gene	993	htpX			
+OPANPEBB_01240	CDS	993	htpX	3.4.24.-		Protease HtpX
+OPANPEBB_01241	gene	1224	clpC			
+OPANPEBB_01241	CDS	1224	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+OPANPEBB_01242	gene	1563				
+OPANPEBB_01242	CDS	1563				hypothetical protein
+OPANPEBB_01243	gene	543	pucR			
+OPANPEBB_01243	CDS	543	pucR		COG2508	Purine catabolism regulatory protein
+OPANPEBB_01244	gene	1179	garK			
+OPANPEBB_01244	CDS	1179	garK	2.7.1.165	COG1929	Glycerate 2-kinase
+OPANPEBB_01245	gene	771	kduD			
+OPANPEBB_01245	CDS	771	kduD	1.1.1.127		2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+OPANPEBB_01246	gene	1257				
+OPANPEBB_01246	CDS	1257				hypothetical protein
+OPANPEBB_01247	gene	1533	dbpA			
+OPANPEBB_01247	CDS	1533	dbpA	3.6.4.13		ATP-dependent RNA helicase DbpA
+OPANPEBB_01248	gene	645				
+OPANPEBB_01248	CDS	645		3.-.-.-		putative protein
+OPANPEBB_01249	gene	558	ruvC			
+OPANPEBB_01249	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+OPANPEBB_01250	gene	111				
+OPANPEBB_01250	CDS	111				hypothetical protein
+OPANPEBB_01251	gene	468				
+OPANPEBB_01251	CDS	468				hypothetical protein
+OPANPEBB_01252	gene	687				
+OPANPEBB_01252	CDS	687				hypothetical protein
+OPANPEBB_01253	gene	381				
+OPANPEBB_01253	CDS	381				hypothetical protein
+OPANPEBB_01254	gene	825				
+OPANPEBB_01254	CDS	825				hypothetical protein
+OPANPEBB_01255	gene	642	gph_2			
+OPANPEBB_01255	CDS	642	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+OPANPEBB_01256	gene	1326				
+OPANPEBB_01256	CDS	1326				hypothetical protein
+OPANPEBB_01257	gene	1416	pepP			
+OPANPEBB_01257	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+OPANPEBB_01258	gene	1197				
+OPANPEBB_01258	CDS	1197				hypothetical protein
+OPANPEBB_01259	gene	1185				
+OPANPEBB_01259	CDS	1185				hypothetical protein
+OPANPEBB_01260	gene	207				
+OPANPEBB_01260	CDS	207				hypothetical protein
+OPANPEBB_01261	gene	76				
+OPANPEBB_01261	tRNA	76				tRNA-Asp(gtc)
+OPANPEBB_01262	gene	516	speG			
+OPANPEBB_01262	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+OPANPEBB_01263	gene	1194				
+OPANPEBB_01263	CDS	1194				hypothetical protein
+OPANPEBB_01264	gene	423				
+OPANPEBB_01264	CDS	423				hypothetical protein
+OPANPEBB_01265	gene	513	recR			
+OPANPEBB_01265	CDS	513	recR		COG0353	Recombination protein RecR
+OPANPEBB_01266	gene	900	nadK			
+OPANPEBB_01266	CDS	900	nadK	2.7.1.23	COG0061	NAD kinase
+OPANPEBB_01267	gene	567	yajL			
+OPANPEBB_01267	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+OPANPEBB_01268	gene	423	rarA_1			
+OPANPEBB_01268	CDS	423	rarA_1		COG2256	Replication-associated recombination protein A
+OPANPEBB_01269	gene	720	rarA_2			
+OPANPEBB_01269	CDS	720	rarA_2		COG2256	Replication-associated recombination protein A
+OPANPEBB_01270	gene	621				
+OPANPEBB_01270	CDS	621				hypothetical protein
+OPANPEBB_01271	gene	75				
+OPANPEBB_01271	tRNA	75				tRNA-Arg(acg)
+OPANPEBB_01272	gene	726	murU			
+OPANPEBB_01272	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+OPANPEBB_01273	gene	2058				
+OPANPEBB_01273	CDS	2058				hypothetical protein
+OPANPEBB_01274	gene	318	rpsO			
+OPANPEBB_01274	CDS	318	rpsO		COG0184	30S ribosomal protein S15
+OPANPEBB_01275	gene	669	rgtE			
+OPANPEBB_01275	CDS	669	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+OPANPEBB_01276	gene	486				
+OPANPEBB_01276	CDS	486				hypothetical protein
+OPANPEBB_01277	gene	684				
+OPANPEBB_01277	CDS	684				hypothetical protein
+OPANPEBB_01278	gene	942	apbE			
+OPANPEBB_01278	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+OPANPEBB_01279	gene	2526	bamD_2			
+OPANPEBB_01279	CDS	2526	bamD_2			Outer membrane protein assembly factor BamD
+OPANPEBB_01280	gene	2133				
+OPANPEBB_01280	CDS	2133				hypothetical protein
+OPANPEBB_01281	gene	408				
+OPANPEBB_01281	CDS	408				hypothetical protein
+OPANPEBB_01282	gene	327				
+OPANPEBB_01282	CDS	327				hypothetical protein
+OPANPEBB_01283	gene	579	pal_3			
+OPANPEBB_01283	CDS	579	pal_3			Peptidoglycan-associated lipoprotein
+OPANPEBB_01284	gene	360				
+OPANPEBB_01284	CDS	360				hypothetical protein
+OPANPEBB_01285	gene	567	algU			
+OPANPEBB_01285	CDS	567	algU		COG1595	RNA polymerase sigma-H factor
+OPANPEBB_01286	gene	186				
+OPANPEBB_01286	CDS	186				hypothetical protein
+OPANPEBB_01287	gene	777				
+OPANPEBB_01287	CDS	777				hypothetical protein
+OPANPEBB_01288	gene	693	rpsA			
+OPANPEBB_01288	CDS	693	rpsA		COG0539	30S ribosomal protein S1
+OPANPEBB_01289	gene	450				
+OPANPEBB_01289	CDS	450				hypothetical protein
+OPANPEBB_01290	gene	873	sigA			
+OPANPEBB_01290	CDS	873	sigA		COG0568	RNA polymerase sigma factor SigA
+OPANPEBB_01291	gene	405	zupT			
+OPANPEBB_01291	CDS	405	zupT			Zinc transporter ZupT
+OPANPEBB_01292	gene	1536				
+OPANPEBB_01292	CDS	1536				hypothetical protein
+OPANPEBB_01293	gene	360				
+OPANPEBB_01293	CDS	360				hypothetical protein
+OPANPEBB_01294	gene	636	nth			
+OPANPEBB_01294	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+OPANPEBB_01295	gene	711				
+OPANPEBB_01295	CDS	711				hypothetical protein
+OPANPEBB_01296	gene	648				
+OPANPEBB_01296	CDS	648				hypothetical protein
+OPANPEBB_01297	gene	672				
+OPANPEBB_01297	CDS	672				hypothetical protein
+OPANPEBB_01298	gene	717				
+OPANPEBB_01298	CDS	717				hypothetical protein
+OPANPEBB_01299	gene	117				
+OPANPEBB_01299	CDS	117				hypothetical protein
+OPANPEBB_01300	gene	2325	ileS			
+OPANPEBB_01300	CDS	2325	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+OPANPEBB_01301	gene	381	dksA			
+OPANPEBB_01301	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+OPANPEBB_01302	gene	1086	wbpI			
+OPANPEBB_01302	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+OPANPEBB_01303	gene	954	qmcA			
+OPANPEBB_01303	CDS	954	qmcA		COG0330	Protein QmcA
+OPANPEBB_01304	gene	456				
+OPANPEBB_01304	CDS	456				hypothetical protein
+OPANPEBB_01305	gene	153				
+OPANPEBB_01305	CDS	153				hypothetical protein
+OPANPEBB_01306	gene	999				
+OPANPEBB_01306	CDS	999				IS110 family transposase ISCaa7
+OPANPEBB_01307	gene	159				
+OPANPEBB_01307	CDS	159				hypothetical protein
+OPANPEBB_01308	gene	804				
+OPANPEBB_01308	CDS	804				hypothetical protein
+OPANPEBB_01309	gene	1200	pulA			
+OPANPEBB_01309	CDS	1200	pulA	3.2.1.41	COG1523	Pullulanase
+OPANPEBB_01310	gene	1749	pgcA			
+OPANPEBB_01310	CDS	1749	pgcA	5.4.2.2		Phosphoglucomutase
+OPANPEBB_01311	gene	399				
+OPANPEBB_01311	CDS	399				hypothetical protein
+OPANPEBB_01312	gene	162				
+OPANPEBB_01312	CDS	162				hypothetical protein
+OPANPEBB_01313	gene	108				
+OPANPEBB_01313	CDS	108				hypothetical protein
+OPANPEBB_01314	gene	927				
+OPANPEBB_01314	CDS	927				hypothetical protein
+OPANPEBB_01315	gene	420				
+OPANPEBB_01315	CDS	420				hypothetical protein
+OPANPEBB_01316	gene	609				
+OPANPEBB_01316	CDS	609				hypothetical protein
+OPANPEBB_01317	gene	1380	spoIIIE			
+OPANPEBB_01317	CDS	1380	spoIIIE		COG1674	DNA translocase SpoIIIE
+OPANPEBB_01318	gene	636	miaA_2			
+OPANPEBB_01318	CDS	636	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+OPANPEBB_01319	gene	933	ytlR			
+OPANPEBB_01319	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+OPANPEBB_01320	gene	282				
+OPANPEBB_01320	CDS	282				hypothetical protein
+OPANPEBB_01321	gene	2304	mrcA_2			
+OPANPEBB_01321	CDS	2304	mrcA_2		COG5009	Penicillin-binding protein 1A
+OPANPEBB_01322	gene	510	aguA			
+OPANPEBB_01322	CDS	510	aguA	3.5.3.12	COG2957	Agmatine deiminase
+OPANPEBB_01323	gene	909				
+OPANPEBB_01323	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+OPANPEBB_01324	gene	1203	ampG			
+OPANPEBB_01324	CDS	1203	ampG		COG0477	Anhydromuropeptide permease
+OPANPEBB_01325	gene	405				
+OPANPEBB_01325	CDS	405				hypothetical protein
+OPANPEBB_01326	gene	372	flK			
+OPANPEBB_01326	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+OPANPEBB_01327	gene	630				
+OPANPEBB_01327	CDS	630				hypothetical protein
+OPANPEBB_01328	gene	480				
+OPANPEBB_01328	CDS	480		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+OPANPEBB_01329	gene	1359	lysS			
+OPANPEBB_01329	CDS	1359	lysS	6.1.1.6		Lysine--tRNA ligase
+OPANPEBB_01330	gene	93				
+OPANPEBB_01330	CDS	93				hypothetical protein
+OPANPEBB_01331	gene	996	gpsA			
+OPANPEBB_01331	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+OPANPEBB_01332	gene	606				
+OPANPEBB_01332	CDS	606				hypothetical protein
+OPANPEBB_01333	gene	258				
+OPANPEBB_01333	CDS	258				hypothetical protein
+OPANPEBB_01334	gene	1455	pepD_2			
+OPANPEBB_01334	CDS	1455	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+OPANPEBB_01335	gene	942				
+OPANPEBB_01335	CDS	942				hypothetical protein
+OPANPEBB_01336	gene	1089				
+OPANPEBB_01336	CDS	1089				hypothetical protein
+OPANPEBB_01337	gene	627	nqrD			
+OPANPEBB_01337	CDS	627	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+OPANPEBB_01338	gene	627	nqrE			
+OPANPEBB_01338	CDS	627	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+OPANPEBB_01339	gene	669				
+OPANPEBB_01339	CDS	669				hypothetical protein
+OPANPEBB_01340	gene	333				
+OPANPEBB_01340	CDS	333				hypothetical protein
+OPANPEBB_01341	gene	837	prs			
+OPANPEBB_01341	CDS	837	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+OPANPEBB_01342	gene	582	resA_4			
+OPANPEBB_01342	CDS	582	resA_4			Thiol-disulfide oxidoreductase ResA
+OPANPEBB_01343	gene	549				
+OPANPEBB_01343	CDS	549				hypothetical protein
+OPANPEBB_01344	gene	921	recJ			
+OPANPEBB_01344	CDS	921	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+OPANPEBB_01345	gene	1017	prmC_2			
+OPANPEBB_01345	CDS	1017	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+OPANPEBB_01346	gene	1095				
+OPANPEBB_01346	CDS	1095				hypothetical protein
+OPANPEBB_01347	gene	1233	rne			
+OPANPEBB_01347	CDS	1233	rne	3.1.26.12	COG1530	Ribonuclease E
+OPANPEBB_01348	gene	474	guaD			
+OPANPEBB_01348	CDS	474	guaD	3.5.4.3	COG0590	Guanine deaminase
+OPANPEBB_01349	gene	162				
+OPANPEBB_01349	CDS	162			COG1773	Rubredoxin
+OPANPEBB_01350	gene	831	purA			
+OPANPEBB_01350	CDS	831	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+OPANPEBB_01351	gene	1362	hisS			
+OPANPEBB_01351	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+OPANPEBB_01352	gene	885				
+OPANPEBB_01352	CDS	885				hypothetical protein
+OPANPEBB_01353	gene	519				
+OPANPEBB_01353	CDS	519				hypothetical protein
+OPANPEBB_01354	gene	672				
+OPANPEBB_01354	CDS	672				hypothetical protein
+OPANPEBB_01355	gene	585				
+OPANPEBB_01355	CDS	585				hypothetical protein
+OPANPEBB_01356	gene	1038	nrnA			
+OPANPEBB_01356	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+OPANPEBB_01357	gene	339	dnaG_1			
+OPANPEBB_01357	CDS	339	dnaG_1	2.7.7.-	COG0358	DNA primase
+OPANPEBB_01358	gene	525				
+OPANPEBB_01358	CDS	525				hypothetical protein
+OPANPEBB_01359	gene	384				
+OPANPEBB_01359	CDS	384				hypothetical protein
+OPANPEBB_01360	gene	1017	dnaG_2			
+OPANPEBB_01360	CDS	1017	dnaG_2	2.7.7.-		DNA primase
+OPANPEBB_01361	gene	498				
+OPANPEBB_01361	CDS	498				hypothetical protein
+OPANPEBB_01362	gene	636	udk_2			
+OPANPEBB_01362	CDS	636	udk_2	2.7.1.48		Uridine kinase
+OPANPEBB_01363	gene	99				
+OPANPEBB_01363	CDS	99				hypothetical protein
+OPANPEBB_01364	gene	660				
+OPANPEBB_01364	CDS	660				IS982 family transposase IS195
+OPANPEBB_01365	gene	981				
+OPANPEBB_01365	CDS	981			COG1702	PhoH-like protein
+OPANPEBB_01366	gene	981	purC			
+OPANPEBB_01366	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OPANPEBB_01367	gene	912				
+OPANPEBB_01367	CDS	912				hypothetical protein
+OPANPEBB_01368	gene	2106	f1pep1			
+OPANPEBB_01368	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+OPANPEBB_01369	gene	378	ridA			
+OPANPEBB_01369	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+OPANPEBB_01370	gene	765				
+OPANPEBB_01370	CDS	765				hypothetical protein
+OPANPEBB_01371	gene	912				
+OPANPEBB_01371	CDS	912				hypothetical protein
+OPANPEBB_01372	gene	397	ssrA			
+OPANPEBB_01372	tmRNA	397	ssrA			transfer-messenger RNA, SsrA
+OPANPEBB_01373	gene	732				
+OPANPEBB_01373	CDS	732				hypothetical protein
+OPANPEBB_01374	gene	1254				
+OPANPEBB_01374	CDS	1254				hypothetical protein
+OPANPEBB_01375	gene	699				
+OPANPEBB_01375	CDS	699				hypothetical protein
+OPANPEBB_01376	gene	246				
+OPANPEBB_01376	CDS	246				hypothetical protein
+OPANPEBB_01377	gene	1350	nqrA			
+OPANPEBB_01377	CDS	1350	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+OPANPEBB_01378	gene	249				
+OPANPEBB_01378	CDS	249				hypothetical protein
+OPANPEBB_01379	gene	2100	recG			
+OPANPEBB_01379	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+OPANPEBB_01380	gene	294	hup_2			
+OPANPEBB_01380	CDS	294	hup_2			DNA-binding protein HU
+OPANPEBB_01381	gene	1071	rimO			
+OPANPEBB_01381	CDS	1071	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+OPANPEBB_01382	gene	744				
+OPANPEBB_01382	CDS	744				hypothetical protein
+OPANPEBB_01383	gene	780				
+OPANPEBB_01383	CDS	780				hypothetical protein
+OPANPEBB_01384	gene	1584	pheT			
+OPANPEBB_01384	CDS	1584	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+OPANPEBB_01385	gene	726				
+OPANPEBB_01385	CDS	726			COG0217	putative transcriptional regulatory protein
+OPANPEBB_01386	gene	99				
+OPANPEBB_01386	CDS	99				hypothetical protein
+OPANPEBB_01387	gene	555	polC			
+OPANPEBB_01387	CDS	555	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+OPANPEBB_01388	gene	300				
+OPANPEBB_01388	CDS	300			COG3039	IS5 family transposase ISPta1
+OPANPEBB_01389	gene	534	atpH			
+OPANPEBB_01389	CDS	534	atpH		COG0712	ATP synthase subunit delta
+OPANPEBB_01390	gene	1584	atpA			
+OPANPEBB_01390	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+OPANPEBB_01391	gene	498				
+OPANPEBB_01391	CDS	498				hypothetical protein
+OPANPEBB_01392	gene	1437	ndhB			
+OPANPEBB_01392	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+OPANPEBB_01393	gene	483	ndhD1			
+OPANPEBB_01393	CDS	483	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+OPANPEBB_01394	gene	138				
+OPANPEBB_01394	CDS	138				hypothetical protein
+OPANPEBB_01395	gene	873	carD			
+OPANPEBB_01395	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+OPANPEBB_01396	gene	1026	carE			
+OPANPEBB_01396	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+OPANPEBB_01397	gene	2244	btuB_4			
+OPANPEBB_01397	CDS	2244	btuB_4			Vitamin B12 transporter BtuB
+OPANPEBB_01398	gene	168	dut			
+OPANPEBB_01398	CDS	168	dut	3.6.1.23	COG0756	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OPANPEBB_01399	gene	1779	bepA_3			
+OPANPEBB_01399	CDS	1779	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+OPANPEBB_01400	gene	165				
+OPANPEBB_01400	CDS	165				hypothetical protein
+OPANPEBB_01401	gene	360	yjbR			
+OPANPEBB_01401	CDS	360	yjbR		COG2315	putative protein YjbR
+OPANPEBB_01402	gene	1281	glyA			
+OPANPEBB_01402	CDS	1281	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+OPANPEBB_01403	gene	417	lon1			
+OPANPEBB_01403	CDS	417	lon1	3.4.21.53	COG0466	Lon protease 1
+OPANPEBB_01404	gene	1128	tgt			
+OPANPEBB_01404	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+OPANPEBB_01405	gene	174				
+OPANPEBB_01405	CDS	174				hypothetical protein
+OPANPEBB_01406	gene	612				
+OPANPEBB_01406	CDS	612				hypothetical protein
+OPANPEBB_01407	gene	1119				
+OPANPEBB_01407	CDS	1119				hypothetical protein
+OPANPEBB_01408	gene	312	yhcG_1			
+OPANPEBB_01408	CDS	312	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+OPANPEBB_01409	gene	642	yhcG_2			
+OPANPEBB_01409	CDS	642	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+OPANPEBB_01410	gene	96				
+OPANPEBB_01410	CDS	96				hypothetical protein
+OPANPEBB_01411	gene	750				
+OPANPEBB_01411	CDS	750				hypothetical protein
+OPANPEBB_01412	gene	624				
+OPANPEBB_01412	CDS	624				hypothetical protein
+OPANPEBB_01413	gene	507				
+OPANPEBB_01413	CDS	507				hypothetical protein
+OPANPEBB_01414	gene	639				
+OPANPEBB_01414	CDS	639				hypothetical protein
+OPANPEBB_01415	gene	999	yegS			
+OPANPEBB_01415	CDS	999	yegS	2.7.1.-		lipid kinase YegS
+OPANPEBB_01416	gene	1521				
+OPANPEBB_01416	CDS	1521				hypothetical protein
+OPANPEBB_01417	gene	798	lpd			
+OPANPEBB_01417	CDS	798	lpd	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase
+OPANPEBB_01418	gene	855				
+OPANPEBB_01418	CDS	855				hypothetical protein
+OPANPEBB_01419	gene	339				
+OPANPEBB_01419	CDS	339				hypothetical protein
+OPANPEBB_01420	gene	267	ogt			
+OPANPEBB_01420	CDS	267	ogt	2.1.1.63	COG0350	Methylated-DNA--protein-cysteine methyltransferase
+OPANPEBB_01421	gene	666				
+OPANPEBB_01421	CDS	666				hypothetical protein
+OPANPEBB_01422	gene	750	ispU			
+OPANPEBB_01422	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+OPANPEBB_01423	gene	74				
+OPANPEBB_01423	tRNA	74				tRNA-Lys(ctt)
+OPANPEBB_01424	gene	969	msrA			
+OPANPEBB_01424	CDS	969	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+OPANPEBB_01425	gene	330				
+OPANPEBB_01425	CDS	330				hypothetical protein
+OPANPEBB_01426	gene	603				
+OPANPEBB_01426	CDS	603				hypothetical protein
+OPANPEBB_01427	gene	705				
+OPANPEBB_01427	CDS	705				hypothetical protein
+OPANPEBB_01428	gene	684				
+OPANPEBB_01428	CDS	684				hypothetical protein
+OPANPEBB_01429	gene	429				
+OPANPEBB_01429	CDS	429				hypothetical protein
+OPANPEBB_01430	gene	1143				
+OPANPEBB_01430	CDS	1143				hypothetical protein
+OPANPEBB_01431	gene	411				
+OPANPEBB_01431	CDS	411				hypothetical protein
+OPANPEBB_01432	gene	489				
+OPANPEBB_01432	CDS	489				hypothetical protein
+OPANPEBB_01433	gene	354				
+OPANPEBB_01433	CDS	354				hypothetical protein
+OPANPEBB_01434	gene	1782	lepA			
+OPANPEBB_01434	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+OPANPEBB_01435	gene	387				
+OPANPEBB_01435	CDS	387				hypothetical protein
+OPANPEBB_01436	gene	74				
+OPANPEBB_01436	tRNA	74				tRNA-Pro(tgg)
+OPANPEBB_01437	gene	267				
+OPANPEBB_01437	CDS	267				hypothetical protein
+OPANPEBB_01438	gene	159				
+OPANPEBB_01438	CDS	159				hypothetical protein
+OPANPEBB_01439	gene	756	kdsA			
+OPANPEBB_01439	CDS	756	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+OPANPEBB_01440	gene	1137				
+OPANPEBB_01440	CDS	1137				hypothetical protein
+OPANPEBB_01441	gene	225				
+OPANPEBB_01441	CDS	225				hypothetical protein
+OPANPEBB_01442	gene	885	pfkB_2			
+OPANPEBB_01442	CDS	885	pfkB_2	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+OPANPEBB_01443	gene	975				
+OPANPEBB_01443	CDS	975				hypothetical protein
+OPANPEBB_01444	gene	1629	rhaS_2			
+OPANPEBB_01444	CDS	1629	rhaS_2			HTH-type transcriptional activator RhaS
+OPANPEBB_01445	gene	1356				
+OPANPEBB_01445	CDS	1356				hypothetical protein
+OPANPEBB_01446	gene	510	pspA_2			
+OPANPEBB_01446	CDS	510	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+OPANPEBB_01447	gene	369				
+OPANPEBB_01447	CDS	369				hypothetical protein
+OPANPEBB_01448	gene	1179				
+OPANPEBB_01448	CDS	1179				hypothetical protein
+OPANPEBB_01449	gene	522				
+OPANPEBB_01449	CDS	522				hypothetical protein
+OPANPEBB_01450	gene	753				
+OPANPEBB_01450	CDS	753				hypothetical protein
+OPANPEBB_01451	gene	564				
+OPANPEBB_01451	CDS	564				hypothetical protein
+OPANPEBB_01452	gene	399				
+OPANPEBB_01452	CDS	399				hypothetical protein
+OPANPEBB_01453	gene	609				
+OPANPEBB_01453	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+OPANPEBB_01454	gene	897				
+OPANPEBB_01454	CDS	897				hypothetical protein
+OPANPEBB_01455	gene	138				
+OPANPEBB_01455	CDS	138				hypothetical protein
+OPANPEBB_01456	gene	1032	cobD			
+OPANPEBB_01456	CDS	1032	cobD	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+OPANPEBB_01457	gene	405				
+OPANPEBB_01457	CDS	405				hypothetical protein
+OPANPEBB_01458	gene	681				
+OPANPEBB_01458	CDS	681				hypothetical protein
+OPANPEBB_01459	gene	612				
+OPANPEBB_01459	CDS	612				hypothetical protein
+OPANPEBB_01460	gene	513				
+OPANPEBB_01460	CDS	513				hypothetical protein
+OPANPEBB_01461	gene	645	ilvE			
+OPANPEBB_01461	CDS	645	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OPANPEBB_01462	gene	1431	pepC			
+OPANPEBB_01462	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+OPANPEBB_01463	gene	549				
+OPANPEBB_01463	CDS	549				hypothetical protein
+OPANPEBB_01464	gene	1533	mutB			
+OPANPEBB_01464	CDS	1533	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+OPANPEBB_01465	gene	846				
+OPANPEBB_01465	CDS	846				hypothetical protein
+OPANPEBB_01466	gene	972				
+OPANPEBB_01466	CDS	972				hypothetical protein
+OPANPEBB_01467	gene	459				
+OPANPEBB_01467	CDS	459				hypothetical protein
+OPANPEBB_01468	gene	1695				
+OPANPEBB_01468	CDS	1695				hypothetical protein
+OPANPEBB_01469	gene	87				
+OPANPEBB_01469	tRNA	87				tRNA-Leu(taa)
+OPANPEBB_01470	gene	1149				
+OPANPEBB_01470	CDS	1149				hypothetical protein
+OPANPEBB_01471	gene	939				
+OPANPEBB_01471	CDS	939				hypothetical protein
+OPANPEBB_01472	gene	135				
+OPANPEBB_01472	CDS	135				hypothetical protein
+OPANPEBB_01473	gene	372				
+OPANPEBB_01473	CDS	372				hypothetical protein
+OPANPEBB_01474	gene	510				
+OPANPEBB_01474	CDS	510				hypothetical protein
+OPANPEBB_01475	gene	678				
+OPANPEBB_01475	CDS	678				hypothetical protein
+OPANPEBB_01476	gene	1893				
+OPANPEBB_01476	CDS	1893				hypothetical protein
+OPANPEBB_01477	gene	585	ndhK			
+OPANPEBB_01477	CDS	585	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+OPANPEBB_01478	gene	1563	nuoC			
+OPANPEBB_01478	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+OPANPEBB_01479	gene	903	rhaS_3			
+OPANPEBB_01479	CDS	903	rhaS_3			HTH-type transcriptional activator RhaS
+OPANPEBB_01480	gene	717	bioF			
+OPANPEBB_01480	CDS	717	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+OPANPEBB_01481	gene	687				
+OPANPEBB_01481	CDS	687				hypothetical protein
+OPANPEBB_01482	gene	294				
+OPANPEBB_01482	CDS	294				hypothetical protein
+OPANPEBB_01483	gene	90				
+OPANPEBB_01483	CDS	90				hypothetical protein
+OPANPEBB_01484	gene	1563				
+OPANPEBB_01484	CDS	1563				hypothetical protein
+OPANPEBB_01485	gene	1329	nupG			
+OPANPEBB_01485	CDS	1329	nupG			Nucleoside permease NupG
+OPANPEBB_01486	gene	564				
+OPANPEBB_01486	CDS	564				hypothetical protein
+OPANPEBB_01487	gene	1404	mepA			
+OPANPEBB_01487	CDS	1404	mepA			Multidrug export protein MepA
+OPANPEBB_01488	gene	630	cmk			
+OPANPEBB_01488	CDS	630	cmk	2.7.4.25		Cytidylate kinase
+OPANPEBB_01489	gene	1209	rhaR			
+OPANPEBB_01489	CDS	1209	rhaR			HTH-type transcriptional activator RhaR
+OPANPEBB_01490	gene	663	rsgA			
+OPANPEBB_01490	CDS	663	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+OPANPEBB_01491	gene	1335				
+OPANPEBB_01491	CDS	1335				hypothetical protein
+OPANPEBB_01492	gene	348				
+OPANPEBB_01492	CDS	348				hypothetical protein
+OPANPEBB_01493	gene	468				
+OPANPEBB_01493	CDS	468				hypothetical protein
+OPANPEBB_01494	gene	1128	xerC_3			
+OPANPEBB_01494	CDS	1128	xerC_3			Tyrosine recombinase XerC
+OPANPEBB_01495	gene	1347	purB			
+OPANPEBB_01495	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+OPANPEBB_01496	gene	76				
+OPANPEBB_01496	tRNA	76				tRNA-Val(tac)
+OPANPEBB_01497	gene	74				
+OPANPEBB_01497	tRNA	74				tRNA-Val(tac)
+OPANPEBB_01498	gene	1194				
+OPANPEBB_01498	CDS	1194				hypothetical protein
+OPANPEBB_01499	gene	729				
+OPANPEBB_01499	CDS	729				hypothetical protein
+OPANPEBB_01500	gene	999	pccB			
+OPANPEBB_01500	CDS	999	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+OPANPEBB_01501	gene	159				
+OPANPEBB_01501	CDS	159				hypothetical protein
+OPANPEBB_01502	gene	432	accB			
+OPANPEBB_01502	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+OPANPEBB_01503	gene	279	panD			
+OPANPEBB_01503	CDS	279	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+OPANPEBB_01504	gene	306				
+OPANPEBB_01504	CDS	306				hypothetical protein
+OPANPEBB_01505	gene	1320	lysC			
+OPANPEBB_01505	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+OPANPEBB_01506	gene	192				
+OPANPEBB_01506	CDS	192				hypothetical protein
+OPANPEBB_01507	gene	207				
+OPANPEBB_01507	CDS	207				hypothetical protein
+OPANPEBB_01508	gene	942				
+OPANPEBB_01508	CDS	942				hypothetical protein
+OPANPEBB_01509	gene	375				
+OPANPEBB_01509	CDS	375				hypothetical protein
+OPANPEBB_01510	gene	114				
+OPANPEBB_01510	CDS	114				hypothetical protein
+OPANPEBB_01511	gene	1449				
+OPANPEBB_01511	CDS	1449				hypothetical protein
+OPANPEBB_01512	gene	1446	btuD			
+OPANPEBB_01512	CDS	1446	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OPANPEBB_01513	gene	720				
+OPANPEBB_01513	CDS	720				hypothetical protein
+OPANPEBB_01514	gene	111				
+OPANPEBB_01514	CDS	111				hypothetical protein
+OPANPEBB_01515	gene	873	prlC			
+OPANPEBB_01515	CDS	873	prlC	3.4.24.70	COG0339	Oligopeptidase A
+OPANPEBB_01516	gene	444	tadA_2			
+OPANPEBB_01516	CDS	444	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+OPANPEBB_01517	gene	606				
+OPANPEBB_01517	CDS	606				hypothetical protein
+OPANPEBB_01518	gene	768				
+OPANPEBB_01518	CDS	768				IS982 family transposase IS195
+OPANPEBB_01519	gene	375	yycJ			
+OPANPEBB_01519	CDS	375	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+OPANPEBB_01520	gene	924				
+OPANPEBB_01520	CDS	924				hypothetical protein
+OPANPEBB_01521	gene	618				
+OPANPEBB_01521	CDS	618				hypothetical protein
+OPANPEBB_01522	gene	936				
+OPANPEBB_01522	CDS	936				hypothetical protein
+OPANPEBB_01523	gene	159				
+OPANPEBB_01523	CDS	159				hypothetical protein
+OPANPEBB_01524	gene	288	ubiE			
+OPANPEBB_01524	CDS	288	ubiE	2.1.1.163	COG2226	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+OPANPEBB_01525	gene	741	aroE			
+OPANPEBB_01525	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+OPANPEBB_01526	gene	846				
+OPANPEBB_01526	CDS	846				hypothetical protein
+OPANPEBB_01527	gene	468				
+OPANPEBB_01527	CDS	468				hypothetical protein
+OPANPEBB_01528	gene	702				
+OPANPEBB_01528	CDS	702				hypothetical protein
+OPANPEBB_01529	gene	459	rnhA			
+OPANPEBB_01529	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+OPANPEBB_01530	gene	150				
+OPANPEBB_01530	CDS	150				hypothetical protein
+OPANPEBB_01531	gene	429				
+OPANPEBB_01531	CDS	429				hypothetical protein
+OPANPEBB_01532	gene	1101				
+OPANPEBB_01532	CDS	1101				hypothetical protein
+OPANPEBB_01533	gene	756	rlmCD			
+OPANPEBB_01533	CDS	756	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+OPANPEBB_01534	gene	459				
+OPANPEBB_01534	CDS	459				hypothetical protein
+OPANPEBB_01535	gene	90				
+OPANPEBB_01535	CDS	90				hypothetical protein
+OPANPEBB_01536	gene	654	rbr			
+OPANPEBB_01536	CDS	654	rbr		COG1592	Rubrerythrin
+OPANPEBB_01537	gene	741				
+OPANPEBB_01537	CDS	741				hypothetical protein
+OPANPEBB_01538	gene	651				
+OPANPEBB_01538	CDS	651				hypothetical protein
+OPANPEBB_01539	gene	1164	secY			
+OPANPEBB_01539	CDS	1164	secY		COG0201	Protein translocase subunit SecY
+OPANPEBB_01540	gene	1173	lpxK			
+OPANPEBB_01540	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+OPANPEBB_01541	gene	666	recA			
+OPANPEBB_01541	CDS	666	recA			Protein RecA
+OPANPEBB_01542	gene	996	alaS			
+OPANPEBB_01542	CDS	996	alaS	6.1.1.7		Alanine--tRNA ligase
+OPANPEBB_01543	gene	1404	cysS			
+OPANPEBB_01543	CDS	1404	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+OPANPEBB_01544	gene	939				
+OPANPEBB_01544	CDS	939				hypothetical protein
+OPANPEBB_01545	gene	447				
+OPANPEBB_01545	CDS	447				hypothetical protein
+OPANPEBB_01546	gene	759	ppm1			
+OPANPEBB_01546	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+OPANPEBB_01547	gene	762				
+OPANPEBB_01547	CDS	762				hypothetical protein
+OPANPEBB_01548	gene	423				
+OPANPEBB_01548	CDS	423				hypothetical protein
+OPANPEBB_01549	gene	306				
+OPANPEBB_01549	CDS	306				hypothetical protein
+OPANPEBB_01550	gene	774	lpxA			
+OPANPEBB_01550	CDS	774	lpxA	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+OPANPEBB_01551	gene	582				
+OPANPEBB_01551	CDS	582				hypothetical protein
+OPANPEBB_01552	gene	696	trpF			
+OPANPEBB_01552	CDS	696	trpF	5.3.1.24		N-(5'-phosphoribosyl)anthranilate isomerase
+OPANPEBB_01553	gene	564	pabA			
+OPANPEBB_01553	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+OPANPEBB_01554	gene	93				
+OPANPEBB_01554	CDS	93				hypothetical protein
+OPANPEBB_01555	gene	132				
+OPANPEBB_01555	CDS	132				hypothetical protein
+OPANPEBB_01556	gene	369				
+OPANPEBB_01556	CDS	369				hypothetical protein
+OPANPEBB_01557	gene	171				
+OPANPEBB_01557	CDS	171				hypothetical protein
+OPANPEBB_01558	gene	174				
+OPANPEBB_01558	CDS	174				hypothetical protein
+OPANPEBB_01559	gene	834				
+OPANPEBB_01559	CDS	834				hypothetical protein
+OPANPEBB_01560	gene	1467				
+OPANPEBB_01560	CDS	1467				hypothetical protein
+OPANPEBB_01561	gene	732				
+OPANPEBB_01561	CDS	732				hypothetical protein
+OPANPEBB_01562	gene	813				
+OPANPEBB_01562	CDS	813				hypothetical protein
+OPANPEBB_01563	gene	147				
+OPANPEBB_01563	CDS	147				hypothetical protein
+OPANPEBB_01564	gene	159				
+OPANPEBB_01564	CDS	159				hypothetical protein
+OPANPEBB_01565	gene	258				
+OPANPEBB_01565	CDS	258				hypothetical protein
+OPANPEBB_01566	gene	186				
+OPANPEBB_01566	CDS	186				hypothetical protein
+OPANPEBB_01567	gene	306				
+OPANPEBB_01567	CDS	306				hypothetical protein
+OPANPEBB_01568	gene	441	slyD			
+OPANPEBB_01568	CDS	441	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+OPANPEBB_01569	gene	1092	aroC			
+OPANPEBB_01569	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+OPANPEBB_01570	gene	83				
+OPANPEBB_01570	tRNA	83				tRNA-Leu(tag)
+OPANPEBB_01571	gene	861	ispH			
+OPANPEBB_01571	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+OPANPEBB_01572	gene	249				
+OPANPEBB_01572	CDS	249				hypothetical protein
+OPANPEBB_01573	gene	1365	sufD			
+OPANPEBB_01573	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+OPANPEBB_01574	gene	276	sufC			
+OPANPEBB_01574	CDS	276	sufC		COG0396	Vegetative protein 296
+OPANPEBB_01575	gene	681				
+OPANPEBB_01575	CDS	681				hypothetical protein
+OPANPEBB_01576	gene	492				
+OPANPEBB_01576	CDS	492				hypothetical protein
+OPANPEBB_01577	gene	1527	atpD			
+OPANPEBB_01577	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+OPANPEBB_01578	gene	1065	deaD_2			
+OPANPEBB_01578	CDS	1065	deaD_2	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+OPANPEBB_01579	gene	210				
+OPANPEBB_01579	CDS	210				hypothetical protein
+OPANPEBB_01580	gene	528				
+OPANPEBB_01580	CDS	528				hypothetical protein
+OPANPEBB_01581	gene	504				
+OPANPEBB_01581	CDS	504				hypothetical protein
+OPANPEBB_01582	gene	1506	dnaC			
+OPANPEBB_01582	CDS	1506	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+OPANPEBB_01583	gene	1176	nspC			
+OPANPEBB_01583	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+OPANPEBB_01584	gene	300	hpf			
+OPANPEBB_01584	CDS	300	hpf			Ribosome hibernation promoting factor
+OPANPEBB_01585	gene	882	xerD_2			
+OPANPEBB_01585	CDS	882	xerD_2			Tyrosine recombinase XerD
+OPANPEBB_01586	gene	1059				
+OPANPEBB_01586	CDS	1059				hypothetical protein
+OPANPEBB_01587	gene	252				
+OPANPEBB_01587	CDS	252				hypothetical protein
+OPANPEBB_01588	gene	951				
+OPANPEBB_01588	CDS	951				hypothetical protein
+OPANPEBB_01589	gene	1326	gcvPA			
+OPANPEBB_01589	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+OPANPEBB_01590	gene	486	resA_5			
+OPANPEBB_01590	CDS	486	resA_5			Thiol-disulfide oxidoreductase ResA
+OPANPEBB_01591	gene	342				
+OPANPEBB_01591	CDS	342				hypothetical protein
+OPANPEBB_01592	gene	186				
+OPANPEBB_01592	CDS	186				hypothetical protein
+OPANPEBB_01593	gene	336				
+OPANPEBB_01593	CDS	336				hypothetical protein
+OPANPEBB_01594	gene	117				
+OPANPEBB_01594	CDS	117				hypothetical protein
+OPANPEBB_01595	gene	1455				
+OPANPEBB_01595	CDS	1455				hypothetical protein
+OPANPEBB_01596	gene	294	glmM			
+OPANPEBB_01596	CDS	294	glmM			Phosphoglucosamine mutase
+OPANPEBB_01597	gene	162				
+OPANPEBB_01597	CDS	162				hypothetical protein
+OPANPEBB_01598	gene	867	pafA			
+OPANPEBB_01598	CDS	867	pafA	3.1.3.1		Alkaline phosphatase PafA
+OPANPEBB_01599	gene	558				
+OPANPEBB_01599	CDS	558				hypothetical protein
+OPANPEBB_01600	gene	96				
+OPANPEBB_01600	CDS	96				hypothetical protein

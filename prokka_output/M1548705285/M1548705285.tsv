@@ -1,0 +1,4171 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+CEMEIKGF_00001	gene	107				
+CEMEIKGF_00001	rRNA	107				5S ribosomal RNA
+CEMEIKGF_00002	gene	375				
+CEMEIKGF_00002	CDS	375				hypothetical protein
+CEMEIKGF_00003	gene	546				
+CEMEIKGF_00003	CDS	546				hypothetical protein
+CEMEIKGF_00004	gene	1164	sasA_1			
+CEMEIKGF_00004	CDS	1164	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+CEMEIKGF_00005	gene	360				
+CEMEIKGF_00005	CDS	360				hypothetical protein
+CEMEIKGF_00006	gene	1440				
+CEMEIKGF_00006	CDS	1440				hypothetical protein
+CEMEIKGF_00007	gene	627				
+CEMEIKGF_00007	CDS	627				hypothetical protein
+CEMEIKGF_00008	gene	522				
+CEMEIKGF_00008	CDS	522				hypothetical protein
+CEMEIKGF_00009	gene	522				
+CEMEIKGF_00009	CDS	522				hypothetical protein
+CEMEIKGF_00010	gene	189	rpmF			
+CEMEIKGF_00010	CDS	189	rpmF			50S ribosomal protein L32
+CEMEIKGF_00011	gene	1011	fabH			
+CEMEIKGF_00011	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+CEMEIKGF_00012	gene	1056	era			
+CEMEIKGF_00012	CDS	1056	era		COG1159	GTPase Era
+CEMEIKGF_00013	gene	1317	der_1			
+CEMEIKGF_00013	CDS	1317	der_1		COG1160	GTPase Der
+CEMEIKGF_00014	gene	399				
+CEMEIKGF_00014	CDS	399				hypothetical protein
+CEMEIKGF_00015	gene	777	mkl			
+CEMEIKGF_00015	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+CEMEIKGF_00016	gene	747	mlaE			
+CEMEIKGF_00016	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+CEMEIKGF_00017	gene	564				
+CEMEIKGF_00017	CDS	564				hypothetical protein
+CEMEIKGF_00018	gene	825	lptB_1			
+CEMEIKGF_00018	CDS	825	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+CEMEIKGF_00019	gene	609				
+CEMEIKGF_00019	CDS	609				hypothetical protein
+CEMEIKGF_00020	gene	939	prs			
+CEMEIKGF_00020	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+CEMEIKGF_00021	gene	582	resA_1			
+CEMEIKGF_00021	CDS	582	resA_1			Thiol-disulfide oxidoreductase ResA
+CEMEIKGF_00022	gene	3099				
+CEMEIKGF_00022	CDS	3099				hypothetical protein
+CEMEIKGF_00023	gene	1356	tig			
+CEMEIKGF_00023	CDS	1356	tig	5.2.1.8		Trigger factor
+CEMEIKGF_00024	gene	666	clpP			
+CEMEIKGF_00024	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+CEMEIKGF_00025	gene	1230	clpX_1			
+CEMEIKGF_00025	CDS	1230	clpX_1		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+CEMEIKGF_00026	gene	2181	recQ			
+CEMEIKGF_00026	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+CEMEIKGF_00027	gene	1257				
+CEMEIKGF_00027	CDS	1257				hypothetical protein
+CEMEIKGF_00028	gene	2601	clpB1			
+CEMEIKGF_00028	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+CEMEIKGF_00029	gene	744				
+CEMEIKGF_00029	CDS	744				hypothetical protein
+CEMEIKGF_00030	gene	759				
+CEMEIKGF_00030	CDS	759				hypothetical protein
+CEMEIKGF_00031	gene	768				
+CEMEIKGF_00031	CDS	768				hypothetical protein
+CEMEIKGF_00032	gene	2106	f1pep1			
+CEMEIKGF_00032	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+CEMEIKGF_00033	gene	2028				
+CEMEIKGF_00033	CDS	2028				hypothetical protein
+CEMEIKGF_00034	gene	453	bcp			
+CEMEIKGF_00034	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+CEMEIKGF_00035	gene	5553				
+CEMEIKGF_00035	CDS	5553				hypothetical protein
+CEMEIKGF_00036	gene	1065				
+CEMEIKGF_00036	CDS	1065				hypothetical protein
+CEMEIKGF_00037	gene	1107				
+CEMEIKGF_00037	CDS	1107		3.6.-.-	COG1703	putative GTPase
+CEMEIKGF_00038	gene	861	ispH			
+CEMEIKGF_00038	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+CEMEIKGF_00039	gene	83				
+CEMEIKGF_00039	tRNA	83				tRNA-Leu(tag)
+CEMEIKGF_00040	gene	828	btuD_1			
+CEMEIKGF_00040	CDS	828	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CEMEIKGF_00041	gene	1005				
+CEMEIKGF_00041	CDS	1005				hypothetical protein
+CEMEIKGF_00042	gene	861				
+CEMEIKGF_00042	CDS	861				hypothetical protein
+CEMEIKGF_00043	gene	2682	parC			
+CEMEIKGF_00043	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+CEMEIKGF_00044	gene	951				
+CEMEIKGF_00044	CDS	951				hypothetical protein
+CEMEIKGF_00045	gene	720				
+CEMEIKGF_00045	CDS	720				hypothetical protein
+CEMEIKGF_00046	gene	975				
+CEMEIKGF_00046	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+CEMEIKGF_00047	gene	699				
+CEMEIKGF_00047	CDS	699				hypothetical protein
+CEMEIKGF_00048	gene	882	dtd3			
+CEMEIKGF_00048	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+CEMEIKGF_00049	gene	89				
+CEMEIKGF_00049	tRNA	89				tRNA-Ser(gga)
+CEMEIKGF_00050	gene	1323				
+CEMEIKGF_00050	CDS	1323				hypothetical protein
+CEMEIKGF_00051	gene	441				
+CEMEIKGF_00051	CDS	441				hypothetical protein
+CEMEIKGF_00052	gene	1452				
+CEMEIKGF_00052	CDS	1452				hypothetical protein
+CEMEIKGF_00053	gene	567	resA_2			
+CEMEIKGF_00053	CDS	567	resA_2			Thiol-disulfide oxidoreductase ResA
+CEMEIKGF_00054	gene	534	maa			
+CEMEIKGF_00054	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+CEMEIKGF_00055	gene	483				
+CEMEIKGF_00055	CDS	483				hypothetical protein
+CEMEIKGF_00056	gene	498				
+CEMEIKGF_00056	CDS	498				hypothetical protein
+CEMEIKGF_00057	gene	477				
+CEMEIKGF_00057	CDS	477				hypothetical protein
+CEMEIKGF_00058	gene	807	tolQ_1			
+CEMEIKGF_00058	CDS	807	tolQ_1			Tol-Pal system protein TolQ
+CEMEIKGF_00059	gene	486	asnC_1			
+CEMEIKGF_00059	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+CEMEIKGF_00060	gene	135				
+CEMEIKGF_00060	CDS	135				hypothetical protein
+CEMEIKGF_00061	gene	486	dfrA			
+CEMEIKGF_00061	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+CEMEIKGF_00062	gene	795	thyA			
+CEMEIKGF_00062	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+CEMEIKGF_00063	gene	1410	rsmF			
+CEMEIKGF_00063	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+CEMEIKGF_00064	gene	777				
+CEMEIKGF_00064	CDS	777				hypothetical protein
+CEMEIKGF_00065	gene	186				
+CEMEIKGF_00065	CDS	186				hypothetical protein
+CEMEIKGF_00066	gene	543	algU			
+CEMEIKGF_00066	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+CEMEIKGF_00067	gene	360				
+CEMEIKGF_00067	CDS	360				hypothetical protein
+CEMEIKGF_00068	gene	2067	pal_1			
+CEMEIKGF_00068	CDS	2067	pal_1			Peptidoglycan-associated lipoprotein
+CEMEIKGF_00069	gene	114				
+CEMEIKGF_00069	CDS	114				hypothetical protein
+CEMEIKGF_00070	gene	519				
+CEMEIKGF_00070	CDS	519				hypothetical protein
+CEMEIKGF_00071	gene	981	glkA			
+CEMEIKGF_00071	CDS	981	glkA	2.7.1.2		Glucokinase
+CEMEIKGF_00072	gene	690				
+CEMEIKGF_00072	CDS	690				hypothetical protein
+CEMEIKGF_00073	gene	579				
+CEMEIKGF_00073	CDS	579				hypothetical protein
+CEMEIKGF_00074	gene	858	rmlD			
+CEMEIKGF_00074	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+CEMEIKGF_00075	gene	1593	prfC			
+CEMEIKGF_00075	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+CEMEIKGF_00076	gene	1038				
+CEMEIKGF_00076	CDS	1038				hypothetical protein
+CEMEIKGF_00077	gene	1932				
+CEMEIKGF_00077	CDS	1932				hypothetical protein
+CEMEIKGF_00078	gene	1296				
+CEMEIKGF_00078	CDS	1296				hypothetical protein
+CEMEIKGF_00079	gene	888				
+CEMEIKGF_00079	CDS	888				hypothetical protein
+CEMEIKGF_00080	gene	1476	rbbA			
+CEMEIKGF_00080	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+CEMEIKGF_00081	gene	1065	ybhS			
+CEMEIKGF_00081	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+CEMEIKGF_00082	gene	1098	ybhR_1			
+CEMEIKGF_00082	CDS	1098	ybhR_1		COG0842	putative multidrug ABC transporter permease YbhR
+CEMEIKGF_00083	gene	1404				
+CEMEIKGF_00083	CDS	1404				hypothetical protein
+CEMEIKGF_00084	gene	2640	rep_1			
+CEMEIKGF_00084	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+CEMEIKGF_00085	gene	1251	tdcG			
+CEMEIKGF_00085	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+CEMEIKGF_00086	gene	405				
+CEMEIKGF_00086	CDS	405				hypothetical protein
+CEMEIKGF_00087	gene	822	cmk_1			
+CEMEIKGF_00087	CDS	822	cmk_1	2.7.4.25		Cytidylate kinase
+CEMEIKGF_00088	gene	1374	yeeO			
+CEMEIKGF_00088	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+CEMEIKGF_00089	gene	123				
+CEMEIKGF_00089	CDS	123				hypothetical protein
+CEMEIKGF_00090	gene	339				
+CEMEIKGF_00090	CDS	339				hypothetical protein
+CEMEIKGF_00091	gene	582				
+CEMEIKGF_00091	CDS	582				hypothetical protein
+CEMEIKGF_00092	gene	1542	glyQS			
+CEMEIKGF_00092	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+CEMEIKGF_00093	gene	105				
+CEMEIKGF_00093	CDS	105				hypothetical protein
+CEMEIKGF_00094	gene	117				
+CEMEIKGF_00094	CDS	117				hypothetical protein
+CEMEIKGF_00095	gene	2493				
+CEMEIKGF_00095	CDS	2493				hypothetical protein
+CEMEIKGF_00096	gene	1560				
+CEMEIKGF_00096	CDS	1560				hypothetical protein
+CEMEIKGF_00097	gene	102				
+CEMEIKGF_00097	CDS	102				hypothetical protein
+CEMEIKGF_00098	gene	1815				
+CEMEIKGF_00098	CDS	1815				hypothetical protein
+CEMEIKGF_00099	gene	1377	fucP			
+CEMEIKGF_00099	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+CEMEIKGF_00100	gene	1191	mro			
+CEMEIKGF_00100	CDS	1191	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+CEMEIKGF_00101	gene	1224	fpgS			
+CEMEIKGF_00101	CDS	1224	fpgS	6.3.2.17		Folylpolyglutamate synthase
+CEMEIKGF_00102	gene	1173	dnaJ			
+CEMEIKGF_00102	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+CEMEIKGF_00103	gene	582	grpE			
+CEMEIKGF_00103	CDS	582	grpE		COG0576	Protein GrpE
+CEMEIKGF_00104	gene	1611	ybiT			
+CEMEIKGF_00104	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+CEMEIKGF_00105	gene	129				
+CEMEIKGF_00105	CDS	129				hypothetical protein
+CEMEIKGF_00106	gene	732				
+CEMEIKGF_00106	CDS	732				hypothetical protein
+CEMEIKGF_00107	gene	1035				
+CEMEIKGF_00107	CDS	1035				hypothetical protein
+CEMEIKGF_00108	gene	924				
+CEMEIKGF_00108	CDS	924				hypothetical protein
+CEMEIKGF_00109	gene	618				
+CEMEIKGF_00109	CDS	618				hypothetical protein
+CEMEIKGF_00110	gene	1356				
+CEMEIKGF_00110	CDS	1356				hypothetical protein
+CEMEIKGF_00111	gene	972	ravA			
+CEMEIKGF_00111	CDS	972	ravA	3.6.3.-		ATPase RavA
+CEMEIKGF_00112	gene	1314				
+CEMEIKGF_00112	CDS	1314				hypothetical protein
+CEMEIKGF_00113	gene	642	gph_1			
+CEMEIKGF_00113	CDS	642	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+CEMEIKGF_00114	gene	1326				
+CEMEIKGF_00114	CDS	1326				hypothetical protein
+CEMEIKGF_00115	gene	606	ribE			
+CEMEIKGF_00115	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+CEMEIKGF_00116	gene	1272	apgM			
+CEMEIKGF_00116	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+CEMEIKGF_00117	gene	636				
+CEMEIKGF_00117	CDS	636				hypothetical protein
+CEMEIKGF_00118	gene	1365	bepA_1			
+CEMEIKGF_00118	CDS	1365	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+CEMEIKGF_00119	gene	1707	glnS			
+CEMEIKGF_00119	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+CEMEIKGF_00120	gene	282				
+CEMEIKGF_00120	CDS	282				hypothetical protein
+CEMEIKGF_00121	gene	1026	mltG			
+CEMEIKGF_00121	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+CEMEIKGF_00122	gene	1386				
+CEMEIKGF_00122	CDS	1386				hypothetical protein
+CEMEIKGF_00123	gene	432				
+CEMEIKGF_00123	CDS	432				hypothetical protein
+CEMEIKGF_00124	gene	2040	topB_1			
+CEMEIKGF_00124	CDS	2040	topB_1	5.6.2.1	COG0550	DNA topoisomerase 3
+CEMEIKGF_00125	gene	738	lutA			
+CEMEIKGF_00125	CDS	738	lutA		COG0247	Lactate utilization protein A
+CEMEIKGF_00126	gene	1371	lutB			
+CEMEIKGF_00126	CDS	1371	lutB		COG1139	Lactate utilization protein B
+CEMEIKGF_00127	gene	585				
+CEMEIKGF_00127	CDS	585				hypothetical protein
+CEMEIKGF_00128	gene	570				
+CEMEIKGF_00128	CDS	570				hypothetical protein
+CEMEIKGF_00129	gene	537	sigE			
+CEMEIKGF_00129	CDS	537	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+CEMEIKGF_00130	gene	1242				
+CEMEIKGF_00130	CDS	1242				hypothetical protein
+CEMEIKGF_00131	gene	1824				
+CEMEIKGF_00131	CDS	1824				hypothetical protein
+CEMEIKGF_00132	gene	1116	fdtB			
+CEMEIKGF_00132	CDS	1116	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+CEMEIKGF_00133	gene	939				
+CEMEIKGF_00133	CDS	939				hypothetical protein
+CEMEIKGF_00134	gene	411	fdtA			
+CEMEIKGF_00134	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+CEMEIKGF_00135	gene	1134	rfbB_1			
+CEMEIKGF_00135	CDS	1134	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+CEMEIKGF_00136	gene	630	cmk_2			
+CEMEIKGF_00136	CDS	630	cmk_2	2.7.4.25		Cytidylate kinase
+CEMEIKGF_00137	gene	1404	mepA			
+CEMEIKGF_00137	CDS	1404	mepA			Multidrug export protein MepA
+CEMEIKGF_00138	gene	1323	xseA			
+CEMEIKGF_00138	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+CEMEIKGF_00139	gene	171	xseB			
+CEMEIKGF_00139	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+CEMEIKGF_00140	gene	1023	ilvE			
+CEMEIKGF_00140	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+CEMEIKGF_00141	gene	1431	pepC			
+CEMEIKGF_00141	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+CEMEIKGF_00142	gene	900	ddh			
+CEMEIKGF_00142	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+CEMEIKGF_00143	gene	606	ruvA			
+CEMEIKGF_00143	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+CEMEIKGF_00144	gene	7554				
+CEMEIKGF_00144	CDS	7554				hypothetical protein
+CEMEIKGF_00145	gene	1533	pafA			
+CEMEIKGF_00145	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+CEMEIKGF_00146	gene	162				
+CEMEIKGF_00146	CDS	162				hypothetical protein
+CEMEIKGF_00147	gene	1401	algC_1			
+CEMEIKGF_00147	CDS	1401	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+CEMEIKGF_00148	gene	642				
+CEMEIKGF_00148	CDS	642				hypothetical protein
+CEMEIKGF_00149	gene	873	carD			
+CEMEIKGF_00149	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+CEMEIKGF_00150	gene	1026	carE			
+CEMEIKGF_00150	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+CEMEIKGF_00151	gene	1725	caiA			
+CEMEIKGF_00151	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+CEMEIKGF_00152	gene	114				
+CEMEIKGF_00152	CDS	114				hypothetical protein
+CEMEIKGF_00153	gene	627				
+CEMEIKGF_00153	CDS	627				hypothetical protein
+CEMEIKGF_00154	gene	825				
+CEMEIKGF_00154	CDS	825				hypothetical protein
+CEMEIKGF_00155	gene	591				
+CEMEIKGF_00155	CDS	591				hypothetical protein
+CEMEIKGF_00156	gene	1278				
+CEMEIKGF_00156	CDS	1278				hypothetical protein
+CEMEIKGF_00157	gene	96				
+CEMEIKGF_00157	CDS	96				hypothetical protein
+CEMEIKGF_00158	gene	165				
+CEMEIKGF_00158	CDS	165				hypothetical protein
+CEMEIKGF_00159	gene	1833	LIAS			
+CEMEIKGF_00159	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+CEMEIKGF_00160	gene	1158	pntA_1			
+CEMEIKGF_00160	CDS	1158	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+CEMEIKGF_00161	gene	315	pntA_2			
+CEMEIKGF_00161	CDS	315	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+CEMEIKGF_00162	gene	1533	pntB			
+CEMEIKGF_00162	CDS	1533	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+CEMEIKGF_00163	gene	1665	fadD3			
+CEMEIKGF_00163	CDS	1665	fadD3	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+CEMEIKGF_00164	gene	1248	lolE_1			
+CEMEIKGF_00164	CDS	1248	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+CEMEIKGF_00165	gene	2055	htpG			
+CEMEIKGF_00165	CDS	2055	htpG			Chaperone protein HtpG
+CEMEIKGF_00166	gene	1455	pepD_1			
+CEMEIKGF_00166	CDS	1455	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+CEMEIKGF_00167	gene	231				
+CEMEIKGF_00167	CDS	231				hypothetical protein
+CEMEIKGF_00168	gene	606				
+CEMEIKGF_00168	CDS	606				hypothetical protein
+CEMEIKGF_00169	gene	636	nth			
+CEMEIKGF_00169	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+CEMEIKGF_00170	gene	711				
+CEMEIKGF_00170	CDS	711				hypothetical protein
+CEMEIKGF_00171	gene	648				
+CEMEIKGF_00171	CDS	648				hypothetical protein
+CEMEIKGF_00172	gene	2463	pheT			
+CEMEIKGF_00172	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+CEMEIKGF_00173	gene	726				
+CEMEIKGF_00173	CDS	726			COG0217	putative transcriptional regulatory protein
+CEMEIKGF_00174	gene	387				
+CEMEIKGF_00174	CDS	387				hypothetical protein
+CEMEIKGF_00175	gene	1782	lepA			
+CEMEIKGF_00175	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+CEMEIKGF_00176	gene	603				
+CEMEIKGF_00176	CDS	603				hypothetical protein
+CEMEIKGF_00177	gene	2181	bamA_1			
+CEMEIKGF_00177	CDS	2181	bamA_1			Outer membrane protein assembly factor BamA
+CEMEIKGF_00178	gene	465				
+CEMEIKGF_00178	CDS	465				hypothetical protein
+CEMEIKGF_00179	gene	807	yycJ			
+CEMEIKGF_00179	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+CEMEIKGF_00180	gene	2136				
+CEMEIKGF_00180	CDS	2136				hypothetical protein
+CEMEIKGF_00181	gene	2118				
+CEMEIKGF_00181	CDS	2118				hypothetical protein
+CEMEIKGF_00182	gene	264	rpmB			
+CEMEIKGF_00182	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+CEMEIKGF_00183	gene	189	rpmG2			
+CEMEIKGF_00183	CDS	189	rpmG2			50S ribosomal protein L33 2
+CEMEIKGF_00184	gene	159				
+CEMEIKGF_00184	CDS	159				hypothetical protein
+CEMEIKGF_00185	gene	957	ftsY			
+CEMEIKGF_00185	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+CEMEIKGF_00186	gene	1317	rimO			
+CEMEIKGF_00186	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+CEMEIKGF_00187	gene	294	hup_1			
+CEMEIKGF_00187	CDS	294	hup_1		COG0776	DNA-binding protein HU
+CEMEIKGF_00188	gene	1374	ihfA			
+CEMEIKGF_00188	CDS	1374	ihfA			Integration host factor subunit alpha
+CEMEIKGF_00189	gene	996				
+CEMEIKGF_00189	CDS	996				hypothetical protein
+CEMEIKGF_00190	gene	870				
+CEMEIKGF_00190	CDS	870				hypothetical protein
+CEMEIKGF_00191	gene	1107				
+CEMEIKGF_00191	CDS	1107				hypothetical protein
+CEMEIKGF_00192	gene	999				
+CEMEIKGF_00192	CDS	999				hypothetical protein
+CEMEIKGF_00193	gene	1029				
+CEMEIKGF_00193	CDS	1029				hypothetical protein
+CEMEIKGF_00194	gene	693				
+CEMEIKGF_00194	CDS	693				hypothetical protein
+CEMEIKGF_00195	gene	2562				
+CEMEIKGF_00195	CDS	2562				hypothetical protein
+CEMEIKGF_00196	gene	687				
+CEMEIKGF_00196	CDS	687				hypothetical protein
+CEMEIKGF_00197	gene	1236	queA_1			
+CEMEIKGF_00197	CDS	1236	queA_1	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+CEMEIKGF_00198	gene	1941	nadE			
+CEMEIKGF_00198	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+CEMEIKGF_00199	gene	891				
+CEMEIKGF_00199	CDS	891				hypothetical protein
+CEMEIKGF_00200	gene	2676	gyrA			
+CEMEIKGF_00200	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+CEMEIKGF_00201	gene	1170				
+CEMEIKGF_00201	CDS	1170				hypothetical protein
+CEMEIKGF_00202	gene	1209				
+CEMEIKGF_00202	CDS	1209				hypothetical protein
+CEMEIKGF_00203	gene	1254				
+CEMEIKGF_00203	CDS	1254				hypothetical protein
+CEMEIKGF_00204	gene	504				
+CEMEIKGF_00204	CDS	504				hypothetical protein
+CEMEIKGF_00205	gene	480	smpB			
+CEMEIKGF_00205	CDS	480	smpB		COG0691	SsrA-binding protein
+CEMEIKGF_00206	gene	405				
+CEMEIKGF_00206	CDS	405				hypothetical protein
+CEMEIKGF_00207	gene	855	map_1			
+CEMEIKGF_00207	CDS	855	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+CEMEIKGF_00208	gene	1026	tsaD			
+CEMEIKGF_00208	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+CEMEIKGF_00209	gene	492	pncC			
+CEMEIKGF_00209	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+CEMEIKGF_00210	gene	120				
+CEMEIKGF_00210	CDS	120				hypothetical protein
+CEMEIKGF_00211	gene	1482	degQ			
+CEMEIKGF_00211	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+CEMEIKGF_00212	gene	1026	ansA			
+CEMEIKGF_00212	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+CEMEIKGF_00213	gene	2061	btuB_1			
+CEMEIKGF_00213	CDS	2061	btuB_1			Vitamin B12 transporter BtuB
+CEMEIKGF_00214	gene	540				
+CEMEIKGF_00214	CDS	540				hypothetical protein
+CEMEIKGF_00215	gene	1986	rho			
+CEMEIKGF_00215	CDS	1986	rho	3.6.4.-		Transcription termination factor Rho
+CEMEIKGF_00216	gene	303				
+CEMEIKGF_00216	CDS	303				hypothetical protein
+CEMEIKGF_00217	gene	579				
+CEMEIKGF_00217	CDS	579		2.3.1.-	COG1670	Acetyltransferase
+CEMEIKGF_00218	gene	531				
+CEMEIKGF_00218	CDS	531				hypothetical protein
+CEMEIKGF_00219	gene	90				
+CEMEIKGF_00219	CDS	90				hypothetical protein
+CEMEIKGF_00220	gene	654	rbr			
+CEMEIKGF_00220	CDS	654	rbr		COG1592	Rubrerythrin
+CEMEIKGF_00221	gene	74				
+CEMEIKGF_00221	tRNA	74				tRNA-Lys(ctt)
+CEMEIKGF_00222	gene	969	msrA			
+CEMEIKGF_00222	CDS	969	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+CEMEIKGF_00223	gene	1164				
+CEMEIKGF_00223	CDS	1164				hypothetical protein
+CEMEIKGF_00224	gene	546				
+CEMEIKGF_00224	CDS	546				hypothetical protein
+CEMEIKGF_00225	gene	486	ftnA			
+CEMEIKGF_00225	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+CEMEIKGF_00226	gene	936	arnC_1			
+CEMEIKGF_00226	CDS	936	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+CEMEIKGF_00227	gene	1212				
+CEMEIKGF_00227	CDS	1212				hypothetical protein
+CEMEIKGF_00228	gene	390				
+CEMEIKGF_00228	CDS	390				hypothetical protein
+CEMEIKGF_00229	gene	1038	pheS			
+CEMEIKGF_00229	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+CEMEIKGF_00230	gene	1356				
+CEMEIKGF_00230	CDS	1356				hypothetical protein
+CEMEIKGF_00231	gene	852				
+CEMEIKGF_00231	CDS	852				hypothetical protein
+CEMEIKGF_00232	gene	1026	murB			
+CEMEIKGF_00232	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+CEMEIKGF_00233	gene	774	rbn			
+CEMEIKGF_00233	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+CEMEIKGF_00234	gene	294				
+CEMEIKGF_00234	CDS	294				hypothetical protein
+CEMEIKGF_00235	gene	369				
+CEMEIKGF_00235	CDS	369				hypothetical protein
+CEMEIKGF_00236	gene	216				
+CEMEIKGF_00236	CDS	216				hypothetical protein
+CEMEIKGF_00237	gene	516				
+CEMEIKGF_00237	CDS	516				hypothetical protein
+CEMEIKGF_00238	gene	291	yqgF			
+CEMEIKGF_00238	CDS	291	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+CEMEIKGF_00239	gene	561	def			
+CEMEIKGF_00239	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+CEMEIKGF_00240	gene	1965	bepA_2			
+CEMEIKGF_00240	CDS	1965	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+CEMEIKGF_00241	gene	570				
+CEMEIKGF_00241	CDS	570				hypothetical protein
+CEMEIKGF_00242	gene	456				
+CEMEIKGF_00242	CDS	456				hypothetical protein
+CEMEIKGF_00243	gene	567				
+CEMEIKGF_00243	CDS	567				hypothetical protein
+CEMEIKGF_00244	gene	561				
+CEMEIKGF_00244	CDS	561				hypothetical protein
+CEMEIKGF_00245	gene	405				
+CEMEIKGF_00245	CDS	405				hypothetical protein
+CEMEIKGF_00246	gene	1161				
+CEMEIKGF_00246	CDS	1161				hypothetical protein
+CEMEIKGF_00247	gene	1230				
+CEMEIKGF_00247	CDS	1230				hypothetical protein
+CEMEIKGF_00248	gene	1080				
+CEMEIKGF_00248	CDS	1080				hypothetical protein
+CEMEIKGF_00249	gene	1965	thrS			
+CEMEIKGF_00249	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+CEMEIKGF_00250	gene	2061	pat			
+CEMEIKGF_00250	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+CEMEIKGF_00251	gene	1812	ettA			
+CEMEIKGF_00251	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+CEMEIKGF_00252	gene	615	engB			
+CEMEIKGF_00252	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+CEMEIKGF_00253	gene	615	recR			
+CEMEIKGF_00253	CDS	615	recR		COG0353	Recombination protein RecR
+CEMEIKGF_00254	gene	423				
+CEMEIKGF_00254	CDS	423				hypothetical protein
+CEMEIKGF_00255	gene	1194				
+CEMEIKGF_00255	CDS	1194				hypothetical protein
+CEMEIKGF_00256	gene	516	speG			
+CEMEIKGF_00256	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+CEMEIKGF_00257	gene	76				
+CEMEIKGF_00257	tRNA	76				tRNA-Asp(gtc)
+CEMEIKGF_00258	gene	75				
+CEMEIKGF_00258	tRNA	75				tRNA-Thr(tgt)
+CEMEIKGF_00259	gene	528				
+CEMEIKGF_00259	CDS	528				hypothetical protein
+CEMEIKGF_00260	gene	783				
+CEMEIKGF_00260	CDS	783				hypothetical protein
+CEMEIKGF_00261	gene	519	kdsC			
+CEMEIKGF_00261	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+CEMEIKGF_00262	gene	573	yhdE			
+CEMEIKGF_00262	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+CEMEIKGF_00263	gene	1107				
+CEMEIKGF_00263	CDS	1107				hypothetical protein
+CEMEIKGF_00264	gene	990				
+CEMEIKGF_00264	CDS	990				hypothetical protein
+CEMEIKGF_00265	gene	1515				
+CEMEIKGF_00265	CDS	1515				hypothetical protein
+CEMEIKGF_00266	gene	981				
+CEMEIKGF_00266	CDS	981				hypothetical protein
+CEMEIKGF_00267	gene	1398				
+CEMEIKGF_00267	CDS	1398				hypothetical protein
+CEMEIKGF_00268	gene	978	pfkA			
+CEMEIKGF_00268	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+CEMEIKGF_00269	gene	1527	atpD			
+CEMEIKGF_00269	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+CEMEIKGF_00270	gene	240	atpC			
+CEMEIKGF_00270	CDS	240	atpC			ATP synthase epsilon chain
+CEMEIKGF_00271	gene	393				
+CEMEIKGF_00271	CDS	393				hypothetical protein
+CEMEIKGF_00272	gene	1032	atpB			
+CEMEIKGF_00272	CDS	1032	atpB			ATP synthase subunit a
+CEMEIKGF_00273	gene	240	atpH_1			
+CEMEIKGF_00273	CDS	240	atpH_1			ATP synthase subunit c
+CEMEIKGF_00274	gene	519	atpF			
+CEMEIKGF_00274	CDS	519	atpF		COG0711	ATP synthase subunit b
+CEMEIKGF_00275	gene	534	atpH_2			
+CEMEIKGF_00275	CDS	534	atpH_2		COG0712	ATP synthase subunit delta
+CEMEIKGF_00276	gene	1584	atpA			
+CEMEIKGF_00276	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+CEMEIKGF_00277	gene	969	atpG			
+CEMEIKGF_00277	CDS	969	atpG		COG0224	ATP synthase gamma chain
+CEMEIKGF_00278	gene	264				
+CEMEIKGF_00278	CDS	264				hypothetical protein
+CEMEIKGF_00279	gene	1488				
+CEMEIKGF_00279	CDS	1488				hypothetical protein
+CEMEIKGF_00280	gene	813	glgA			
+CEMEIKGF_00280	CDS	813	glgA	2.4.1.21		Glycogen synthase
+CEMEIKGF_00281	gene	858	panC			
+CEMEIKGF_00281	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+CEMEIKGF_00282	gene	345	panD			
+CEMEIKGF_00282	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+CEMEIKGF_00283	gene	432	accB			
+CEMEIKGF_00283	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+CEMEIKGF_00284	gene	159				
+CEMEIKGF_00284	CDS	159				hypothetical protein
+CEMEIKGF_00285	gene	1554	pccB			
+CEMEIKGF_00285	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+CEMEIKGF_00286	gene	405	epi			
+CEMEIKGF_00286	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+CEMEIKGF_00287	gene	2364				
+CEMEIKGF_00287	CDS	2364				hypothetical protein
+CEMEIKGF_00288	gene	1977	fbp			
+CEMEIKGF_00288	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+CEMEIKGF_00289	gene	1125				
+CEMEIKGF_00289	CDS	1125				hypothetical protein
+CEMEIKGF_00290	gene	1320	lysC			
+CEMEIKGF_00290	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+CEMEIKGF_00291	gene	708	btuD_2			
+CEMEIKGF_00291	CDS	708	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+CEMEIKGF_00292	gene	1296	deaD_1			
+CEMEIKGF_00292	CDS	1296	deaD_1	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+CEMEIKGF_00293	gene	1164				
+CEMEIKGF_00293	CDS	1164				hypothetical protein
+CEMEIKGF_00294	gene	1128	tgt			
+CEMEIKGF_00294	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+CEMEIKGF_00295	gene	2424	lon1			
+CEMEIKGF_00295	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+CEMEIKGF_00296	gene	645	yfiC			
+CEMEIKGF_00296	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+CEMEIKGF_00297	gene	1464				
+CEMEIKGF_00297	CDS	1464				hypothetical protein
+CEMEIKGF_00298	gene	1077	mnmA			
+CEMEIKGF_00298	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+CEMEIKGF_00299	gene	705	hxpA			
+CEMEIKGF_00299	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+CEMEIKGF_00300	gene	1356	pgi			
+CEMEIKGF_00300	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+CEMEIKGF_00301	gene	88				
+CEMEIKGF_00301	tRNA	88				tRNA-Ser(gct)
+CEMEIKGF_00302	gene	73				
+CEMEIKGF_00302	tRNA	73				tRNA-Glu(ctc)
+CEMEIKGF_00303	gene	1488				
+CEMEIKGF_00303	CDS	1488				hypothetical protein
+CEMEIKGF_00304	gene	444				
+CEMEIKGF_00304	CDS	444				hypothetical protein
+CEMEIKGF_00305	gene	435				
+CEMEIKGF_00305	CDS	435				hypothetical protein
+CEMEIKGF_00306	gene	903	rnfB			
+CEMEIKGF_00306	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+CEMEIKGF_00307	gene	1353	rnfC			
+CEMEIKGF_00307	CDS	1353	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+CEMEIKGF_00308	gene	1035	rnfD			
+CEMEIKGF_00308	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+CEMEIKGF_00309	gene	672	rsxG			
+CEMEIKGF_00309	CDS	672	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+CEMEIKGF_00310	gene	591	rnfE			
+CEMEIKGF_00310	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+CEMEIKGF_00311	gene	603	rnfA			
+CEMEIKGF_00311	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+CEMEIKGF_00312	gene	1041	galE			
+CEMEIKGF_00312	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+CEMEIKGF_00313	gene	2868	uvrA_1			
+CEMEIKGF_00313	CDS	2868	uvrA_1		COG0178	UvrABC system protein A
+CEMEIKGF_00314	gene	720				
+CEMEIKGF_00314	CDS	720				hypothetical protein
+CEMEIKGF_00315	gene	1356				
+CEMEIKGF_00315	CDS	1356				hypothetical protein
+CEMEIKGF_00316	gene	753				
+CEMEIKGF_00316	CDS	753				hypothetical protein
+CEMEIKGF_00317	gene	1518	dtpA			
+CEMEIKGF_00317	CDS	1518	dtpA		COG3104	Dipeptide and tripeptide permease A
+CEMEIKGF_00318	gene	483				
+CEMEIKGF_00318	CDS	483				hypothetical protein
+CEMEIKGF_00319	gene	1932				
+CEMEIKGF_00319	CDS	1932				hypothetical protein
+CEMEIKGF_00320	gene	1437	radA			
+CEMEIKGF_00320	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+CEMEIKGF_00321	gene	912				
+CEMEIKGF_00321	CDS	912				hypothetical protein
+CEMEIKGF_00322	gene	2196				
+CEMEIKGF_00322	CDS	2196				hypothetical protein
+CEMEIKGF_00323	gene	1227	cls			
+CEMEIKGF_00323	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+CEMEIKGF_00324	gene	975	kdsD			
+CEMEIKGF_00324	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+CEMEIKGF_00325	gene	756	kdsA_1			
+CEMEIKGF_00325	CDS	756	kdsA_1	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+CEMEIKGF_00326	gene	123				
+CEMEIKGF_00326	CDS	123				hypothetical protein
+CEMEIKGF_00327	gene	279				
+CEMEIKGF_00327	CDS	279				hypothetical protein
+CEMEIKGF_00328	gene	74				
+CEMEIKGF_00328	tRNA	74				tRNA-Pro(tgg)
+CEMEIKGF_00329	gene	1188				
+CEMEIKGF_00329	CDS	1188				hypothetical protein
+CEMEIKGF_00330	gene	2739	valS			
+CEMEIKGF_00330	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+CEMEIKGF_00331	gene	828	mazG			
+CEMEIKGF_00331	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+CEMEIKGF_00332	gene	564				
+CEMEIKGF_00332	CDS	564				hypothetical protein
+CEMEIKGF_00333	gene	915	rnz			
+CEMEIKGF_00333	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+CEMEIKGF_00334	gene	366				
+CEMEIKGF_00334	CDS	366				hypothetical protein
+CEMEIKGF_00335	gene	1536				
+CEMEIKGF_00335	CDS	1536				hypothetical protein
+CEMEIKGF_00336	gene	561	sigW			
+CEMEIKGF_00336	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+CEMEIKGF_00337	gene	366				
+CEMEIKGF_00337	CDS	366				hypothetical protein
+CEMEIKGF_00338	gene	441				
+CEMEIKGF_00338	CDS	441				hypothetical protein
+CEMEIKGF_00339	gene	2610	mutS2			
+CEMEIKGF_00339	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+CEMEIKGF_00340	gene	86				
+CEMEIKGF_00340	tRNA	86				tRNA-Ser(tga)
+CEMEIKGF_00341	gene	1944	rlhA			
+CEMEIKGF_00341	CDS	1944	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+CEMEIKGF_00342	gene	1017				
+CEMEIKGF_00342	CDS	1017				hypothetical protein
+CEMEIKGF_00343	gene	2421	btuB_2			
+CEMEIKGF_00343	CDS	2421	btuB_2			Vitamin B12 transporter BtuB
+CEMEIKGF_00344	gene	2205				
+CEMEIKGF_00344	CDS	2205				hypothetical protein
+CEMEIKGF_00345	gene	1578	glcA			
+CEMEIKGF_00345	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+CEMEIKGF_00346	gene	1134	hemW			
+CEMEIKGF_00346	CDS	1134	hemW		COG0635	Heme chaperone HemW
+CEMEIKGF_00347	gene	2160	fusA_1			
+CEMEIKGF_00347	CDS	2160	fusA_1		COG0480	Elongation factor G
+CEMEIKGF_00348	gene	690				
+CEMEIKGF_00348	CDS	690				hypothetical protein
+CEMEIKGF_00349	gene	1548	sasA_2			
+CEMEIKGF_00349	CDS	1548	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+CEMEIKGF_00350	gene	699	copR			
+CEMEIKGF_00350	CDS	699	copR			Transcriptional activator protein CopR
+CEMEIKGF_00351	gene	345				
+CEMEIKGF_00351	CDS	345				hypothetical protein
+CEMEIKGF_00352	gene	270				
+CEMEIKGF_00352	CDS	270				hypothetical protein
+CEMEIKGF_00353	gene	561				
+CEMEIKGF_00353	CDS	561				hypothetical protein
+CEMEIKGF_00354	gene	1593	nadB			
+CEMEIKGF_00354	CDS	1593	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+CEMEIKGF_00355	gene	1713				
+CEMEIKGF_00355	CDS	1713				hypothetical protein
+CEMEIKGF_00356	gene	2007	hutU			
+CEMEIKGF_00356	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+CEMEIKGF_00357	gene	1476	hutH			
+CEMEIKGF_00357	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+CEMEIKGF_00358	gene	1251	hutI			
+CEMEIKGF_00358	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+CEMEIKGF_00359	gene	339				
+CEMEIKGF_00359	CDS	339				hypothetical protein
+CEMEIKGF_00360	gene	966	queG			
+CEMEIKGF_00360	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+CEMEIKGF_00361	gene	552				
+CEMEIKGF_00361	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+CEMEIKGF_00362	gene	3336				
+CEMEIKGF_00362	CDS	3336				hypothetical protein
+CEMEIKGF_00363	gene	408	yqaA			
+CEMEIKGF_00363	CDS	408	yqaA		COG1238	Inner membrane protein YqaA
+CEMEIKGF_00364	gene	951				
+CEMEIKGF_00364	CDS	951				hypothetical protein
+CEMEIKGF_00365	gene	1389	purD			
+CEMEIKGF_00365	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+CEMEIKGF_00366	gene	138				
+CEMEIKGF_00366	CDS	138				hypothetical protein
+CEMEIKGF_00367	gene	2901	rexB			
+CEMEIKGF_00367	CDS	2901	rexB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+CEMEIKGF_00368	gene	3246	recB			
+CEMEIKGF_00368	CDS	3246	recB	3.1.11.5		RecBCD enzyme subunit RecB
+CEMEIKGF_00369	gene	1620				
+CEMEIKGF_00369	CDS	1620				hypothetical protein
+CEMEIKGF_00370	gene	2169	dpp5			
+CEMEIKGF_00370	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+CEMEIKGF_00371	gene	1902	yidC			
+CEMEIKGF_00371	CDS	1902	yidC			Membrane protein insertase YidC
+CEMEIKGF_00372	gene	1245				
+CEMEIKGF_00372	CDS	1245				hypothetical protein
+CEMEIKGF_00373	gene	384				
+CEMEIKGF_00373	CDS	384				hypothetical protein
+CEMEIKGF_00374	gene	1761	aspS			
+CEMEIKGF_00374	CDS	1761	aspS	6.1.1.12		Aspartate--tRNA ligase
+CEMEIKGF_00375	gene	303				
+CEMEIKGF_00375	CDS	303				hypothetical protein
+CEMEIKGF_00376	gene	333				
+CEMEIKGF_00376	CDS	333				hypothetical protein
+CEMEIKGF_00377	gene	819	menB			
+CEMEIKGF_00377	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+CEMEIKGF_00378	gene	1047	menC			
+CEMEIKGF_00378	CDS	1047	menC	4.2.1.113	COG1441	o-succinylbenzoate synthase
+CEMEIKGF_00379	gene	375				
+CEMEIKGF_00379	CDS	375				hypothetical protein
+CEMEIKGF_00380	gene	792	rlmB_1			
+CEMEIKGF_00380	CDS	792	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+CEMEIKGF_00381	gene	801	rlmB_2			
+CEMEIKGF_00381	CDS	801	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+CEMEIKGF_00382	gene	630				
+CEMEIKGF_00382	CDS	630				hypothetical protein
+CEMEIKGF_00383	gene	372	flK			
+CEMEIKGF_00383	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+CEMEIKGF_00384	gene	1866	icmF			
+CEMEIKGF_00384	CDS	1866	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+CEMEIKGF_00385	gene	2166	mutB			
+CEMEIKGF_00385	CDS	2166	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+CEMEIKGF_00386	gene	549				
+CEMEIKGF_00386	CDS	549				hypothetical protein
+CEMEIKGF_00387	gene	1680				
+CEMEIKGF_00387	CDS	1680				hypothetical protein
+CEMEIKGF_00388	gene	477	cdd			
+CEMEIKGF_00388	CDS	477	cdd	3.5.4.5	COG0295	Cytidine deaminase
+CEMEIKGF_00389	gene	522				
+CEMEIKGF_00389	CDS	522				hypothetical protein
+CEMEIKGF_00390	gene	1059				
+CEMEIKGF_00390	CDS	1059				hypothetical protein
+CEMEIKGF_00391	gene	546	rfbC			
+CEMEIKGF_00391	CDS	546	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+CEMEIKGF_00392	gene	819				
+CEMEIKGF_00392	CDS	819				hypothetical protein
+CEMEIKGF_00393	gene	798	ispE			
+CEMEIKGF_00393	CDS	798	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+CEMEIKGF_00394	gene	1506	dnaC			
+CEMEIKGF_00394	CDS	1506	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+CEMEIKGF_00395	gene	732	truA			
+CEMEIKGF_00395	CDS	732	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+CEMEIKGF_00396	gene	2229	relA_1			
+CEMEIKGF_00396	CDS	2229	relA_1	2.7.6.5		GTP pyrophosphokinase
+CEMEIKGF_00397	gene	1524				
+CEMEIKGF_00397	CDS	1524				hypothetical protein
+CEMEIKGF_00398	gene	1749	pgcA			
+CEMEIKGF_00398	CDS	1749	pgcA	5.4.2.2		Phosphoglucomutase
+CEMEIKGF_00399	gene	399				
+CEMEIKGF_00399	CDS	399				hypothetical protein
+CEMEIKGF_00400	gene	471	rlmH			
+CEMEIKGF_00400	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+CEMEIKGF_00401	gene	117				
+CEMEIKGF_00401	CDS	117				hypothetical protein
+CEMEIKGF_00402	gene	2205	dap4			
+CEMEIKGF_00402	CDS	2205	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+CEMEIKGF_00403	gene	918				
+CEMEIKGF_00403	CDS	918				hypothetical protein
+CEMEIKGF_00404	gene	816				
+CEMEIKGF_00404	CDS	816				hypothetical protein
+CEMEIKGF_00405	gene	1341				
+CEMEIKGF_00405	CDS	1341				hypothetical protein
+CEMEIKGF_00406	gene	933	rsgA			
+CEMEIKGF_00406	CDS	933	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+CEMEIKGF_00407	gene	561	frr			
+CEMEIKGF_00407	CDS	561	frr		COG0233	Ribosome-recycling factor
+CEMEIKGF_00408	gene	792	rsmA			
+CEMEIKGF_00408	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+CEMEIKGF_00409	gene	624				
+CEMEIKGF_00409	CDS	624				hypothetical protein
+CEMEIKGF_00410	gene	1317				
+CEMEIKGF_00410	CDS	1317				hypothetical protein
+CEMEIKGF_00411	gene	411				
+CEMEIKGF_00411	CDS	411				Single-stranded DNA-binding protein
+CEMEIKGF_00412	gene	549				
+CEMEIKGF_00412	CDS	549				hypothetical protein
+CEMEIKGF_00413	gene	74				
+CEMEIKGF_00413	tRNA	74				tRNA-Gly(gcc)
+CEMEIKGF_00414	gene	84				
+CEMEIKGF_00414	tRNA	84				tRNA-Leu(gag)
+CEMEIKGF_00415	gene	84				
+CEMEIKGF_00415	tRNA	84				tRNA-Leu(cag)
+CEMEIKGF_00416	gene	74				
+CEMEIKGF_00416	tRNA	74				tRNA-Gly(gcc)
+CEMEIKGF_00417	gene	1176	nspC			
+CEMEIKGF_00417	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+CEMEIKGF_00418	gene	321	rbr3B			
+CEMEIKGF_00418	CDS	321	rbr3B	1.11.1.1	COG1592	Reverse rubrerythrin-2
+CEMEIKGF_00419	gene	219	rbr3A			
+CEMEIKGF_00419	CDS	219	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+CEMEIKGF_00420	gene	1362	hisS			
+CEMEIKGF_00420	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+CEMEIKGF_00421	gene	1275	purA			
+CEMEIKGF_00421	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+CEMEIKGF_00422	gene	513				
+CEMEIKGF_00422	CDS	513				hypothetical protein
+CEMEIKGF_00423	gene	612				
+CEMEIKGF_00423	CDS	612				hypothetical protein
+CEMEIKGF_00424	gene	1959				
+CEMEIKGF_00424	CDS	1959				hypothetical protein
+CEMEIKGF_00425	gene	531				
+CEMEIKGF_00425	CDS	531				hypothetical protein
+CEMEIKGF_00426	gene	273				
+CEMEIKGF_00426	CDS	273				hypothetical protein
+CEMEIKGF_00427	gene	495				
+CEMEIKGF_00427	CDS	495				hypothetical protein
+CEMEIKGF_00428	gene	894				
+CEMEIKGF_00428	CDS	894				hypothetical protein
+CEMEIKGF_00429	gene	393				
+CEMEIKGF_00429	CDS	393				hypothetical protein
+CEMEIKGF_00430	gene	864	sigA_1			
+CEMEIKGF_00430	CDS	864	sigA_1			RNA polymerase sigma factor SigA
+CEMEIKGF_00431	gene	88				
+CEMEIKGF_00431	tRNA	88				tRNA-Ser(cga)
+CEMEIKGF_00432	gene	585	yigZ			
+CEMEIKGF_00432	CDS	585	yigZ		COG1739	IMPACT family member YigZ
+CEMEIKGF_00433	gene	1248				
+CEMEIKGF_00433	CDS	1248				hypothetical protein
+CEMEIKGF_00434	gene	918				
+CEMEIKGF_00434	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+CEMEIKGF_00435	gene	1068	serC			
+CEMEIKGF_00435	CDS	1068	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+CEMEIKGF_00436	gene	1320	dbpA			
+CEMEIKGF_00436	CDS	1320	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+CEMEIKGF_00437	gene	399				
+CEMEIKGF_00437	CDS	399				hypothetical protein
+CEMEIKGF_00438	gene	1269				
+CEMEIKGF_00438	CDS	1269				hypothetical protein
+CEMEIKGF_00439	gene	582				
+CEMEIKGF_00439	CDS	582				hypothetical protein
+CEMEIKGF_00440	gene	1602	menD			
+CEMEIKGF_00440	CDS	1602	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+CEMEIKGF_00441	gene	1110	menF_1			
+CEMEIKGF_00441	CDS	1110	menF_1	5.4.4.2		Isochorismate synthase MenF
+CEMEIKGF_00442	gene	426				
+CEMEIKGF_00442	CDS	426		3.1.2.-	COG2050	Putative esterase
+CEMEIKGF_00443	gene	1539				
+CEMEIKGF_00443	CDS	1539				hypothetical protein
+CEMEIKGF_00444	gene	1431	purF			
+CEMEIKGF_00444	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+CEMEIKGF_00445	gene	891	dapA			
+CEMEIKGF_00445	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+CEMEIKGF_00446	gene	723				
+CEMEIKGF_00446	CDS	723				hypothetical protein
+CEMEIKGF_00447	gene	2499	clpC			
+CEMEIKGF_00447	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+CEMEIKGF_00448	gene	1563				
+CEMEIKGF_00448	CDS	1563				hypothetical protein
+CEMEIKGF_00449	gene	1269	nqrF			
+CEMEIKGF_00449	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+CEMEIKGF_00450	gene	627	nqrE			
+CEMEIKGF_00450	CDS	627	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+CEMEIKGF_00451	gene	627	nqrD			
+CEMEIKGF_00451	CDS	627	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+CEMEIKGF_00452	gene	615	nqrC			
+CEMEIKGF_00452	CDS	615	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+CEMEIKGF_00453	gene	1152	nqrB			
+CEMEIKGF_00453	CDS	1152	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+CEMEIKGF_00454	gene	1371	nqrA			
+CEMEIKGF_00454	CDS	1371	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+CEMEIKGF_00455	gene	4482				
+CEMEIKGF_00455	CDS	4482				hypothetical protein
+CEMEIKGF_00456	gene	1194				
+CEMEIKGF_00456	CDS	1194				hypothetical protein
+CEMEIKGF_00457	gene	822	panB			
+CEMEIKGF_00457	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+CEMEIKGF_00458	gene	663	vldH			
+CEMEIKGF_00458	CDS	663	vldH	3.1.3.101		Validoxylamine A 7'-phosphate phosphatase
+CEMEIKGF_00459	gene	834				
+CEMEIKGF_00459	CDS	834				hypothetical protein
+CEMEIKGF_00460	gene	624	rsmG			
+CEMEIKGF_00460	CDS	624	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+CEMEIKGF_00461	gene	645				
+CEMEIKGF_00461	CDS	645		3.-.-.-		putative protein
+CEMEIKGF_00462	gene	558	ruvC			
+CEMEIKGF_00462	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+CEMEIKGF_00463	gene	468				
+CEMEIKGF_00463	CDS	468				hypothetical protein
+CEMEIKGF_00464	gene	687				
+CEMEIKGF_00464	CDS	687				hypothetical protein
+CEMEIKGF_00465	gene	1152				
+CEMEIKGF_00465	CDS	1152				hypothetical protein
+CEMEIKGF_00466	gene	2037	glgB_1			
+CEMEIKGF_00466	CDS	2037	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+CEMEIKGF_00467	gene	1104				
+CEMEIKGF_00467	CDS	1104				hypothetical protein
+CEMEIKGF_00468	gene	756	kdsB			
+CEMEIKGF_00468	CDS	756	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+CEMEIKGF_00469	gene	2403	feoB			
+CEMEIKGF_00469	CDS	2403	feoB		COG0370	Fe(2+) transporter FeoB
+CEMEIKGF_00470	gene	879				
+CEMEIKGF_00470	CDS	879				hypothetical protein
+CEMEIKGF_00471	gene	663	queC			
+CEMEIKGF_00471	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+CEMEIKGF_00472	gene	1251	pgk			
+CEMEIKGF_00472	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+CEMEIKGF_00473	gene	936				
+CEMEIKGF_00473	CDS	936				hypothetical protein
+CEMEIKGF_00474	gene	2565	glgP			
+CEMEIKGF_00474	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+CEMEIKGF_00475	gene	1641				
+CEMEIKGF_00475	CDS	1641				hypothetical protein
+CEMEIKGF_00476	gene	432				
+CEMEIKGF_00476	CDS	432				hypothetical protein
+CEMEIKGF_00477	gene	2583				
+CEMEIKGF_00477	CDS	2583				hypothetical protein
+CEMEIKGF_00478	gene	705	gph_2			
+CEMEIKGF_00478	CDS	705	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+CEMEIKGF_00479	gene	933				
+CEMEIKGF_00479	CDS	933				hypothetical protein
+CEMEIKGF_00480	gene	813				
+CEMEIKGF_00480	CDS	813				hypothetical protein
+CEMEIKGF_00481	gene	717				
+CEMEIKGF_00481	CDS	717				hypothetical protein
+CEMEIKGF_00482	gene	117				
+CEMEIKGF_00482	CDS	117				hypothetical protein
+CEMEIKGF_00483	gene	1638	rlmL			
+CEMEIKGF_00483	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+CEMEIKGF_00484	gene	2166	ptpA			
+CEMEIKGF_00484	CDS	2166	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+CEMEIKGF_00485	gene	1224				
+CEMEIKGF_00485	CDS	1224			COG2081	putative protein
+CEMEIKGF_00486	gene	1545	comM			
+CEMEIKGF_00486	CDS	1545	comM		COG0606	Competence protein ComM
+CEMEIKGF_00487	gene	786				
+CEMEIKGF_00487	CDS	786				hypothetical protein
+CEMEIKGF_00488	gene	810				
+CEMEIKGF_00488	CDS	810				IS3 family transposase ISEnfa3
+CEMEIKGF_00489	gene	537				
+CEMEIKGF_00489	CDS	537				hypothetical protein
+CEMEIKGF_00490	gene	2133	surA_1			
+CEMEIKGF_00490	CDS	2133	surA_1	5.2.1.8		Chaperone SurA
+CEMEIKGF_00491	gene	1269				
+CEMEIKGF_00491	CDS	1269				hypothetical protein
+CEMEIKGF_00492	gene	726				
+CEMEIKGF_00492	CDS	726				hypothetical protein
+CEMEIKGF_00493	gene	1296				
+CEMEIKGF_00493	CDS	1296				hypothetical protein
+CEMEIKGF_00494	gene	729	coaX			
+CEMEIKGF_00494	CDS	729	coaX	2.7.1.33		Type III pantothenate kinase
+CEMEIKGF_00495	gene	1197				
+CEMEIKGF_00495	CDS	1197				hypothetical protein
+CEMEIKGF_00496	gene	1419	phoV			
+CEMEIKGF_00496	CDS	1419	phoV	3.1.3.1		Alkaline phosphatase PhoV
+CEMEIKGF_00497	gene	3348	secA			
+CEMEIKGF_00497	CDS	3348	secA			Protein translocase subunit SecA
+CEMEIKGF_00498	gene	762	lptB_2			
+CEMEIKGF_00498	CDS	762	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+CEMEIKGF_00499	gene	1332	tilS			
+CEMEIKGF_00499	CDS	1332	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+CEMEIKGF_00500	gene	1182	rlmI			
+CEMEIKGF_00500	CDS	1182	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+CEMEIKGF_00501	gene	621	rnd			
+CEMEIKGF_00501	CDS	621	rnd	3.1.13.5		Ribonuclease D
+CEMEIKGF_00502	gene	2409				
+CEMEIKGF_00502	CDS	2409				hypothetical protein
+CEMEIKGF_00503	gene	609				
+CEMEIKGF_00503	CDS	609				hypothetical protein
+CEMEIKGF_00504	gene	1494				
+CEMEIKGF_00504	CDS	1494				hypothetical protein
+CEMEIKGF_00505	gene	1098	fcl_1			
+CEMEIKGF_00505	CDS	1098	fcl_1	1.1.1.271	COG0451	GDP-L-fucose synthase
+CEMEIKGF_00506	gene	1086	gmd			
+CEMEIKGF_00506	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+CEMEIKGF_00507	gene	1059	rfbM			
+CEMEIKGF_00507	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+CEMEIKGF_00508	gene	987				
+CEMEIKGF_00508	CDS	987				hypothetical protein
+CEMEIKGF_00509	gene	2304	mrcA_1			
+CEMEIKGF_00509	CDS	2304	mrcA_1		COG5009	Penicillin-binding protein 1A
+CEMEIKGF_00510	gene	948	pyrB			
+CEMEIKGF_00510	CDS	948	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+CEMEIKGF_00511	gene	459	pyrI			
+CEMEIKGF_00511	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+CEMEIKGF_00512	gene	1254	mltF			
+CEMEIKGF_00512	CDS	1254	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+CEMEIKGF_00513	gene	168				
+CEMEIKGF_00513	CDS	168				hypothetical protein
+CEMEIKGF_00514	gene	1632	pepDA			
+CEMEIKGF_00514	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+CEMEIKGF_00515	gene	1623				
+CEMEIKGF_00515	CDS	1623				hypothetical protein
+CEMEIKGF_00516	gene	849	nadC			
+CEMEIKGF_00516	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+CEMEIKGF_00517	gene	495				
+CEMEIKGF_00517	CDS	495				hypothetical protein
+CEMEIKGF_00518	gene	1479	cstA			
+CEMEIKGF_00518	CDS	1479	cstA		COG1966	Peptide transporter CstA
+CEMEIKGF_00519	gene	1722				
+CEMEIKGF_00519	CDS	1722				hypothetical protein
+CEMEIKGF_00520	gene	717				
+CEMEIKGF_00520	CDS	717		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+CEMEIKGF_00521	gene	1731	lysS			
+CEMEIKGF_00521	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+CEMEIKGF_00522	gene	93				
+CEMEIKGF_00522	CDS	93				hypothetical protein
+CEMEIKGF_00523	gene	996	gpsA			
+CEMEIKGF_00523	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+CEMEIKGF_00524	gene	360				
+CEMEIKGF_00524	CDS	360				hypothetical protein
+CEMEIKGF_00525	gene	999	menE			
+CEMEIKGF_00525	CDS	999	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+CEMEIKGF_00526	gene	963	fmt			
+CEMEIKGF_00526	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+CEMEIKGF_00527	gene	1785	clcB			
+CEMEIKGF_00527	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+CEMEIKGF_00528	gene	606	tsaC			
+CEMEIKGF_00528	CDS	606	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+CEMEIKGF_00529	gene	75				
+CEMEIKGF_00529	tRNA	75				tRNA-Phe(gaa)
+CEMEIKGF_00530	gene	984				
+CEMEIKGF_00530	CDS	984				hypothetical protein
+CEMEIKGF_00531	gene	345				
+CEMEIKGF_00531	CDS	345				hypothetical protein
+CEMEIKGF_00532	gene	76				
+CEMEIKGF_00532	tRNA	76				tRNA-Thr(cgt)
+CEMEIKGF_00533	gene	74				
+CEMEIKGF_00533	tRNA	74				tRNA-Gly(ccc)
+CEMEIKGF_00534	gene	2826	uvrA_2			
+CEMEIKGF_00534	CDS	2826	uvrA_2		COG0178	UvrABC system protein A
+CEMEIKGF_00535	gene	780	nudC_1			
+CEMEIKGF_00535	CDS	780	nudC_1	3.6.1.22		NADH pyrophosphatase
+CEMEIKGF_00536	gene	1824	cpdB			
+CEMEIKGF_00536	CDS	1824	cpdB	3.1.3.6	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+CEMEIKGF_00537	gene	591				
+CEMEIKGF_00537	CDS	591				hypothetical protein
+CEMEIKGF_00538	gene	339				
+CEMEIKGF_00538	CDS	339				hypothetical protein
+CEMEIKGF_00539	gene	3288				
+CEMEIKGF_00539	CDS	3288				hypothetical protein
+CEMEIKGF_00540	gene	1200				
+CEMEIKGF_00540	CDS	1200				hypothetical protein
+CEMEIKGF_00541	gene	645	ytrE			
+CEMEIKGF_00541	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+CEMEIKGF_00542	gene	1341				
+CEMEIKGF_00542	CDS	1341				hypothetical protein
+CEMEIKGF_00543	gene	732	rsmE			
+CEMEIKGF_00543	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+CEMEIKGF_00544	gene	564				
+CEMEIKGF_00544	CDS	564				hypothetical protein
+CEMEIKGF_00545	gene	1329	nupG			
+CEMEIKGF_00545	CDS	1329	nupG			Nucleoside permease NupG
+CEMEIKGF_00546	gene	999	dagK			
+CEMEIKGF_00546	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+CEMEIKGF_00547	gene	954				
+CEMEIKGF_00547	CDS	954				hypothetical protein
+CEMEIKGF_00548	gene	675				
+CEMEIKGF_00548	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+CEMEIKGF_00549	gene	492				
+CEMEIKGF_00549	CDS	492				hypothetical protein
+CEMEIKGF_00550	gene	621				
+CEMEIKGF_00550	CDS	621				hypothetical protein
+CEMEIKGF_00551	gene	978				
+CEMEIKGF_00551	CDS	978				hypothetical protein
+CEMEIKGF_00552	gene	405				
+CEMEIKGF_00552	CDS	405				hypothetical protein
+CEMEIKGF_00553	gene	780				
+CEMEIKGF_00553	CDS	780				hypothetical protein
+CEMEIKGF_00554	gene	249				
+CEMEIKGF_00554	CDS	249				hypothetical protein
+CEMEIKGF_00555	gene	549				
+CEMEIKGF_00555	CDS	549				hypothetical protein
+CEMEIKGF_00556	gene	735				
+CEMEIKGF_00556	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+CEMEIKGF_00557	gene	1767	sppA			
+CEMEIKGF_00557	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+CEMEIKGF_00558	gene	1173	lpxK			
+CEMEIKGF_00558	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+CEMEIKGF_00559	gene	660	punA			
+CEMEIKGF_00559	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+CEMEIKGF_00560	gene	1116	thiL			
+CEMEIKGF_00560	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+CEMEIKGF_00561	gene	1344	glyA			
+CEMEIKGF_00561	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+CEMEIKGF_00562	gene	360	yjbR			
+CEMEIKGF_00562	CDS	360	yjbR		COG2315	putative protein YjbR
+CEMEIKGF_00563	gene	579				
+CEMEIKGF_00563	CDS	579				hypothetical protein
+CEMEIKGF_00564	gene	1020				
+CEMEIKGF_00564	CDS	1020				hypothetical protein
+CEMEIKGF_00565	gene	1332	mtaB			
+CEMEIKGF_00565	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+CEMEIKGF_00566	gene	195				
+CEMEIKGF_00566	CDS	195				hypothetical protein
+CEMEIKGF_00567	gene	207				
+CEMEIKGF_00567	CDS	207				hypothetical protein
+CEMEIKGF_00568	gene	1779	rpsA			
+CEMEIKGF_00568	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+CEMEIKGF_00569	gene	273				
+CEMEIKGF_00569	CDS	273				hypothetical protein
+CEMEIKGF_00570	gene	873	sigA_2			
+CEMEIKGF_00570	CDS	873	sigA_2		COG0568	RNA polymerase sigma factor SigA
+CEMEIKGF_00571	gene	780	zupT			
+CEMEIKGF_00571	CDS	780	zupT		COG0428	Zinc transporter ZupT
+CEMEIKGF_00572	gene	1011	gapA			
+CEMEIKGF_00572	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+CEMEIKGF_00573	gene	423	mscL			
+CEMEIKGF_00573	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+CEMEIKGF_00574	gene	1038	lplJ			
+CEMEIKGF_00574	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+CEMEIKGF_00575	gene	1095	gcvT			
+CEMEIKGF_00575	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+CEMEIKGF_00576	gene	387	gcvH			
+CEMEIKGF_00576	CDS	387	gcvH			Glycine cleavage system H protein
+CEMEIKGF_00577	gene	1326	gcvPA			
+CEMEIKGF_00577	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+CEMEIKGF_00578	gene	1509	gcvPB			
+CEMEIKGF_00578	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+CEMEIKGF_00579	gene	1314	pdhD			
+CEMEIKGF_00579	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+CEMEIKGF_00580	gene	855				
+CEMEIKGF_00580	CDS	855				hypothetical protein
+CEMEIKGF_00581	gene	339				
+CEMEIKGF_00581	CDS	339				hypothetical protein
+CEMEIKGF_00582	gene	462	ogt			
+CEMEIKGF_00582	CDS	462	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+CEMEIKGF_00583	gene	1566	guaA			
+CEMEIKGF_00583	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+CEMEIKGF_00584	gene	726	murU			
+CEMEIKGF_00584	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+CEMEIKGF_00585	gene	75				
+CEMEIKGF_00585	tRNA	75				tRNA-Arg(acg)
+CEMEIKGF_00586	gene	621				
+CEMEIKGF_00586	CDS	621				hypothetical protein
+CEMEIKGF_00587	gene	1278	rarA			
+CEMEIKGF_00587	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+CEMEIKGF_00588	gene	813				
+CEMEIKGF_00588	CDS	813				hypothetical protein
+CEMEIKGF_00589	gene	801				
+CEMEIKGF_00589	CDS	801				hypothetical protein
+CEMEIKGF_00590	gene	981				
+CEMEIKGF_00590	CDS	981			COG1702	PhoH-like protein
+CEMEIKGF_00591	gene	981	purC			
+CEMEIKGF_00591	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+CEMEIKGF_00592	gene	735	menG			
+CEMEIKGF_00592	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+CEMEIKGF_00593	gene	741	aroE			
+CEMEIKGF_00593	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+CEMEIKGF_00594	gene	1203	purM			
+CEMEIKGF_00594	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+CEMEIKGF_00595	gene	1113	prfA			
+CEMEIKGF_00595	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+CEMEIKGF_00596	gene	825	pyrF			
+CEMEIKGF_00596	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+CEMEIKGF_00597	gene	108				
+CEMEIKGF_00597	CDS	108				hypothetical protein
+CEMEIKGF_00598	gene	1416				
+CEMEIKGF_00598	CDS	1416				hypothetical protein
+CEMEIKGF_00599	gene	1269	mshA_1			
+CEMEIKGF_00599	CDS	1269	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CEMEIKGF_00600	gene	1917				
+CEMEIKGF_00600	CDS	1917				hypothetical protein
+CEMEIKGF_00601	gene	933	ytlR			
+CEMEIKGF_00601	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+CEMEIKGF_00602	gene	1029	miaA_1			
+CEMEIKGF_00602	CDS	1029	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+CEMEIKGF_00603	gene	606				
+CEMEIKGF_00603	CDS	606				hypothetical protein
+CEMEIKGF_00604	gene	2064	dsbD			
+CEMEIKGF_00604	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+CEMEIKGF_00605	gene	1113	macA			
+CEMEIKGF_00605	CDS	1113	macA		COG0845	Macrolide export protein MacA
+CEMEIKGF_00606	gene	1248	macB_1			
+CEMEIKGF_00606	CDS	1248	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+CEMEIKGF_00607	gene	1284	macB_2			
+CEMEIKGF_00607	CDS	1284	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+CEMEIKGF_00608	gene	672	yknY_1			
+CEMEIKGF_00608	CDS	672	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+CEMEIKGF_00609	gene	186				
+CEMEIKGF_00609	CDS	186				hypothetical protein
+CEMEIKGF_00610	gene	171				
+CEMEIKGF_00610	CDS	171				hypothetical protein
+CEMEIKGF_00611	gene	2559				
+CEMEIKGF_00611	CDS	2559				hypothetical protein
+CEMEIKGF_00612	gene	2469	mrcA_2			
+CEMEIKGF_00612	CDS	2469	mrcA_2		COG5009	Penicillin-binding protein 1A
+CEMEIKGF_00613	gene	909	miaA_2			
+CEMEIKGF_00613	CDS	909	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+CEMEIKGF_00614	gene	774	lpxA_1			
+CEMEIKGF_00614	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+CEMEIKGF_00615	gene	1386	lpxC			
+CEMEIKGF_00615	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+CEMEIKGF_00616	gene	1044	lpxD			
+CEMEIKGF_00616	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+CEMEIKGF_00617	gene	1221				
+CEMEIKGF_00617	CDS	1221				hypothetical protein
+CEMEIKGF_00618	gene	1557	rapZ			
+CEMEIKGF_00618	CDS	1557	rapZ			RNase adapter protein RapZ
+CEMEIKGF_00619	gene	189				
+CEMEIKGF_00619	CDS	189				hypothetical protein
+CEMEIKGF_00620	gene	2682				
+CEMEIKGF_00620	CDS	2682				hypothetical protein
+CEMEIKGF_00621	gene	690				
+CEMEIKGF_00621	CDS	690				hypothetical protein
+CEMEIKGF_00622	gene	246				
+CEMEIKGF_00622	CDS	246				hypothetical protein
+CEMEIKGF_00623	gene	1632	groL			
+CEMEIKGF_00623	CDS	1632	groL		COG0459	60 kDa chaperonin
+CEMEIKGF_00624	gene	273	groS1			
+CEMEIKGF_00624	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+CEMEIKGF_00625	gene	2409	pcrA			
+CEMEIKGF_00625	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+CEMEIKGF_00626	gene	708	mtgA			
+CEMEIKGF_00626	CDS	708	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+CEMEIKGF_00627	gene	696	pal_2			
+CEMEIKGF_00627	CDS	696	pal_2			Peptidoglycan-associated lipoprotein
+CEMEIKGF_00628	gene	1482	proS			
+CEMEIKGF_00628	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+CEMEIKGF_00629	gene	222				
+CEMEIKGF_00629	CDS	222				hypothetical protein
+CEMEIKGF_00630	gene	903				
+CEMEIKGF_00630	CDS	903				hypothetical protein
+CEMEIKGF_00631	gene	633	lspA			
+CEMEIKGF_00631	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+CEMEIKGF_00632	gene	381	dksA			
+CEMEIKGF_00632	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+CEMEIKGF_00633	gene	3585	ileS			
+CEMEIKGF_00633	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+CEMEIKGF_00634	gene	408				
+CEMEIKGF_00634	CDS	408				hypothetical protein
+CEMEIKGF_00635	gene	1623				
+CEMEIKGF_00635	CDS	1623				hypothetical protein
+CEMEIKGF_00636	gene	1023				
+CEMEIKGF_00636	CDS	1023				hypothetical protein
+CEMEIKGF_00637	gene	882	prmC_1			
+CEMEIKGF_00637	CDS	882	prmC_1	2.1.1.297		Release factor glutamine methyltransferase
+CEMEIKGF_00638	gene	804				
+CEMEIKGF_00638	CDS	804				hypothetical protein
+CEMEIKGF_00639	gene	1641	pfp			
+CEMEIKGF_00639	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+CEMEIKGF_00640	gene	273				
+CEMEIKGF_00640	CDS	273				hypothetical protein
+CEMEIKGF_00641	gene	555				
+CEMEIKGF_00641	CDS	555				hypothetical protein
+CEMEIKGF_00642	gene	2589				
+CEMEIKGF_00642	CDS	2589				hypothetical protein
+CEMEIKGF_00643	gene	306				
+CEMEIKGF_00643	CDS	306				hypothetical protein
+CEMEIKGF_00644	gene	1827				
+CEMEIKGF_00644	CDS	1827				hypothetical protein
+CEMEIKGF_00645	gene	1068				
+CEMEIKGF_00645	CDS	1068				hypothetical protein
+CEMEIKGF_00646	gene	513	COQ3			
+CEMEIKGF_00646	CDS	513	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+CEMEIKGF_00647	gene	174				
+CEMEIKGF_00647	CDS	174				hypothetical protein
+CEMEIKGF_00648	gene	657	gpx1			
+CEMEIKGF_00648	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+CEMEIKGF_00649	gene	450				
+CEMEIKGF_00649	CDS	450				hypothetical protein
+CEMEIKGF_00650	gene	1716	aspT_1			
+CEMEIKGF_00650	CDS	1716	aspT_1			Aspartate/alanine antiporter
+CEMEIKGF_00651	gene	957				
+CEMEIKGF_00651	CDS	957				hypothetical protein
+CEMEIKGF_00652	gene	450				
+CEMEIKGF_00652	CDS	450				hypothetical protein
+CEMEIKGF_00653	gene	1158	gcdB			
+CEMEIKGF_00653	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+CEMEIKGF_00654	gene	585	malT			
+CEMEIKGF_00654	CDS	585	malT			HTH-type transcriptional regulator MalT
+CEMEIKGF_00655	gene	957				
+CEMEIKGF_00655	CDS	957				hypothetical protein
+CEMEIKGF_00656	gene	1533	rny_1			
+CEMEIKGF_00656	CDS	1533	rny_1	3.1.-.-	COG1418	Ribonuclease Y
+CEMEIKGF_00657	gene	294				
+CEMEIKGF_00657	CDS	294				hypothetical protein
+CEMEIKGF_00658	gene	300				
+CEMEIKGF_00658	CDS	300				hypothetical protein
+CEMEIKGF_00659	gene	624				
+CEMEIKGF_00659	CDS	624				hypothetical protein
+CEMEIKGF_00660	gene	876	rmlA			
+CEMEIKGF_00660	CDS	876	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+CEMEIKGF_00661	gene	2484				
+CEMEIKGF_00661	CDS	2484				hypothetical protein
+CEMEIKGF_00662	gene	3351	carB			
+CEMEIKGF_00662	CDS	3351	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+CEMEIKGF_00663	gene	744				
+CEMEIKGF_00663	CDS	744				hypothetical protein
+CEMEIKGF_00664	gene	1185				
+CEMEIKGF_00664	CDS	1185				hypothetical protein
+CEMEIKGF_00665	gene	1584				
+CEMEIKGF_00665	CDS	1584				hypothetical protein
+CEMEIKGF_00666	gene	279				
+CEMEIKGF_00666	CDS	279				hypothetical protein
+CEMEIKGF_00667	gene	3321				
+CEMEIKGF_00667	CDS	3321				hypothetical protein
+CEMEIKGF_00668	gene	204				
+CEMEIKGF_00668	CDS	204				hypothetical protein
+CEMEIKGF_00669	gene	150				
+CEMEIKGF_00669	CDS	150				hypothetical protein
+CEMEIKGF_00670	gene	990				
+CEMEIKGF_00670	CDS	990				hypothetical protein
+CEMEIKGF_00671	gene	1437	ndhB			
+CEMEIKGF_00671	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+CEMEIKGF_00672	gene	1500	ndhD1			
+CEMEIKGF_00672	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+CEMEIKGF_00673	gene	1989	nuoL			
+CEMEIKGF_00673	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+CEMEIKGF_00674	gene	312	nuoK			
+CEMEIKGF_00674	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+CEMEIKGF_00675	gene	513				
+CEMEIKGF_00675	CDS	513				hypothetical protein
+CEMEIKGF_00676	gene	534	nuoI			
+CEMEIKGF_00676	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+CEMEIKGF_00677	gene	1089	nuoH			
+CEMEIKGF_00677	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+CEMEIKGF_00678	gene	1563	nuoC			
+CEMEIKGF_00678	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+CEMEIKGF_00679	gene	750	ndhK			
+CEMEIKGF_00679	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+CEMEIKGF_00680	gene	351	ndhC			
+CEMEIKGF_00680	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+CEMEIKGF_00681	gene	678				
+CEMEIKGF_00681	CDS	678				hypothetical protein
+CEMEIKGF_00682	gene	1182	bdhA			
+CEMEIKGF_00682	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+CEMEIKGF_00683	gene	579				
+CEMEIKGF_00683	CDS	579				hypothetical protein
+CEMEIKGF_00684	gene	951	rgtE			
+CEMEIKGF_00684	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+CEMEIKGF_00685	gene	486				
+CEMEIKGF_00685	CDS	486				hypothetical protein
+CEMEIKGF_00686	gene	681				
+CEMEIKGF_00686	CDS	681				hypothetical protein
+CEMEIKGF_00687	gene	942	apbE			
+CEMEIKGF_00687	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+CEMEIKGF_00688	gene	603				
+CEMEIKGF_00688	CDS	603				hypothetical protein
+CEMEIKGF_00689	gene	2094	prlC			
+CEMEIKGF_00689	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+CEMEIKGF_00690	gene	444	tadA_1			
+CEMEIKGF_00690	CDS	444	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+CEMEIKGF_00691	gene	1725				
+CEMEIKGF_00691	CDS	1725				hypothetical protein
+CEMEIKGF_00692	gene	498	yqgN			
+CEMEIKGF_00692	CDS	498	yqgN		COG0212	putative protein YqgN
+CEMEIKGF_00693	gene	291				
+CEMEIKGF_00693	CDS	291				hypothetical protein
+CEMEIKGF_00694	gene	1095	recF			
+CEMEIKGF_00694	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+CEMEIKGF_00695	gene	741				
+CEMEIKGF_00695	CDS	741				hypothetical protein
+CEMEIKGF_00696	gene	477	ribH			
+CEMEIKGF_00696	CDS	477	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+CEMEIKGF_00697	gene	567				
+CEMEIKGF_00697	CDS	567				hypothetical protein
+CEMEIKGF_00698	gene	459				
+CEMEIKGF_00698	CDS	459				hypothetical protein
+CEMEIKGF_00699	gene	351				
+CEMEIKGF_00699	CDS	351				hypothetical protein
+CEMEIKGF_00700	gene	897	bamD_1			
+CEMEIKGF_00700	CDS	897	bamD_1			Outer membrane protein assembly factor BamD
+CEMEIKGF_00701	gene	2460				
+CEMEIKGF_00701	CDS	2460				hypothetical protein
+CEMEIKGF_00702	gene	2040	uvrB			
+CEMEIKGF_00702	CDS	2040	uvrB		COG0556	UvrABC system protein B
+CEMEIKGF_00703	gene	255				
+CEMEIKGF_00703	CDS	255				hypothetical protein
+CEMEIKGF_00704	gene	2334				
+CEMEIKGF_00704	CDS	2334				hypothetical protein
+CEMEIKGF_00705	gene	903	menA			
+CEMEIKGF_00705	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+CEMEIKGF_00706	gene	633				
+CEMEIKGF_00706	CDS	633				hypothetical protein
+CEMEIKGF_00707	gene	642				
+CEMEIKGF_00707	CDS	642				hypothetical protein
+CEMEIKGF_00708	gene	2100				
+CEMEIKGF_00708	CDS	2100				hypothetical protein
+CEMEIKGF_00709	gene	147				
+CEMEIKGF_00709	CDS	147				hypothetical protein
+CEMEIKGF_00710	gene	3303				
+CEMEIKGF_00710	CDS	3303				hypothetical protein
+CEMEIKGF_00711	gene	1932				
+CEMEIKGF_00711	CDS	1932				hypothetical protein
+CEMEIKGF_00712	gene	1785				
+CEMEIKGF_00712	CDS	1785				hypothetical protein
+CEMEIKGF_00713	gene	156				
+CEMEIKGF_00713	CDS	156				hypothetical protein
+CEMEIKGF_00714	gene	900	rluD_1			
+CEMEIKGF_00714	CDS	900	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+CEMEIKGF_00715	gene	1995	tkt			
+CEMEIKGF_00715	CDS	1995	tkt	2.2.1.1		Transketolase
+CEMEIKGF_00716	gene	444	rpiB			
+CEMEIKGF_00716	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+CEMEIKGF_00717	gene	2520				
+CEMEIKGF_00717	CDS	2520				hypothetical protein
+CEMEIKGF_00718	gene	681				
+CEMEIKGF_00718	CDS	681				hypothetical protein
+CEMEIKGF_00719	gene	492				
+CEMEIKGF_00719	CDS	492				hypothetical protein
+CEMEIKGF_00720	gene	189				
+CEMEIKGF_00720	CDS	189				hypothetical protein
+CEMEIKGF_00721	gene	204				
+CEMEIKGF_00721	CDS	204				hypothetical protein
+CEMEIKGF_00722	gene	558				
+CEMEIKGF_00722	CDS	558				hypothetical protein
+CEMEIKGF_00723	gene	636				
+CEMEIKGF_00723	CDS	636				hypothetical protein
+CEMEIKGF_00724	gene	552				
+CEMEIKGF_00724	CDS	552				hypothetical protein
+CEMEIKGF_00725	gene	74				
+CEMEIKGF_00725	tRNA	74				tRNA-Phe(gaa)
+CEMEIKGF_00726	gene	75				
+CEMEIKGF_00726	tRNA	75				tRNA-Pro(cgg)
+CEMEIKGF_00727	gene	960				
+CEMEIKGF_00727	CDS	960				putative epimerase/dehydratase
+CEMEIKGF_00728	gene	1188	kbl			
+CEMEIKGF_00728	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+CEMEIKGF_00729	gene	477	argR			
+CEMEIKGF_00729	CDS	477	argR		COG1438	Arginine repressor
+CEMEIKGF_00730	gene	717	ybhL			
+CEMEIKGF_00730	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+CEMEIKGF_00731	gene	756				
+CEMEIKGF_00731	CDS	756				hypothetical protein
+CEMEIKGF_00732	gene	726				
+CEMEIKGF_00732	CDS	726				hypothetical protein
+CEMEIKGF_00733	gene	1200	moaA_1			
+CEMEIKGF_00733	CDS	1200	moaA_1			GTP 3',8-cyclase
+CEMEIKGF_00734	gene	513				
+CEMEIKGF_00734	CDS	513				hypothetical protein
+CEMEIKGF_00735	gene	183				
+CEMEIKGF_00735	CDS	183				hypothetical protein
+CEMEIKGF_00736	gene	1311	murF			
+CEMEIKGF_00736	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+CEMEIKGF_00737	gene	885	folP			
+CEMEIKGF_00737	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+CEMEIKGF_00738	gene	765	cdaA			
+CEMEIKGF_00738	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+CEMEIKGF_00739	gene	1008	pta_1			
+CEMEIKGF_00739	CDS	1008	pta_1	2.3.1.8		Phosphate acetyltransferase
+CEMEIKGF_00740	gene	1194	ackA			
+CEMEIKGF_00740	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+CEMEIKGF_00741	gene	774	lpxH			
+CEMEIKGF_00741	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+CEMEIKGF_00742	gene	375				
+CEMEIKGF_00742	CDS	375				hypothetical protein
+CEMEIKGF_00743	gene	702				
+CEMEIKGF_00743	CDS	702				hypothetical protein
+CEMEIKGF_00744	gene	1104				
+CEMEIKGF_00744	CDS	1104				hypothetical protein
+CEMEIKGF_00745	gene	525	efp			
+CEMEIKGF_00745	CDS	525	efp		COG0231	Elongation factor P
+CEMEIKGF_00746	gene	222				
+CEMEIKGF_00746	CDS	222				hypothetical protein
+CEMEIKGF_00747	gene	825				
+CEMEIKGF_00747	CDS	825				hypothetical protein
+CEMEIKGF_00748	gene	1113	rluD_2			
+CEMEIKGF_00748	CDS	1113	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+CEMEIKGF_00749	gene	993	ddlA			
+CEMEIKGF_00749	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+CEMEIKGF_00750	gene	1176				
+CEMEIKGF_00750	CDS	1176				hypothetical protein
+CEMEIKGF_00751	gene	681				
+CEMEIKGF_00751	CDS	681				hypothetical protein
+CEMEIKGF_00752	gene	888				
+CEMEIKGF_00752	CDS	888				hypothetical protein
+CEMEIKGF_00753	gene	438				
+CEMEIKGF_00753	CDS	438				hypothetical protein
+CEMEIKGF_00754	gene	516				
+CEMEIKGF_00754	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+CEMEIKGF_00755	gene	138				
+CEMEIKGF_00755	CDS	138				hypothetical protein
+CEMEIKGF_00756	gene	1122	prfB			
+CEMEIKGF_00756	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+CEMEIKGF_00757	gene	1809				
+CEMEIKGF_00757	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+CEMEIKGF_00758	gene	678				
+CEMEIKGF_00758	CDS	678				hypothetical protein
+CEMEIKGF_00759	gene	1233				
+CEMEIKGF_00759	CDS	1233				hypothetical protein
+CEMEIKGF_00760	gene	1011				
+CEMEIKGF_00760	CDS	1011				hypothetical protein
+CEMEIKGF_00761	gene	1911				
+CEMEIKGF_00761	CDS	1911				hypothetical protein
+CEMEIKGF_00762	gene	612	nreC			
+CEMEIKGF_00762	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+CEMEIKGF_00763	gene	1056	nrdB			
+CEMEIKGF_00763	CDS	1056	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+CEMEIKGF_00764	gene	2520				
+CEMEIKGF_00764	CDS	2520				hypothetical protein
+CEMEIKGF_00765	gene	3018				
+CEMEIKGF_00765	CDS	3018				hypothetical protein
+CEMEIKGF_00766	gene	147				
+CEMEIKGF_00766	CDS	147				hypothetical protein
+CEMEIKGF_00767	gene	2604	yoaB			
+CEMEIKGF_00767	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+CEMEIKGF_00768	gene	621				
+CEMEIKGF_00768	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+CEMEIKGF_00769	gene	945	ribF			
+CEMEIKGF_00769	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+CEMEIKGF_00770	gene	792				
+CEMEIKGF_00770	CDS	792				hypothetical protein
+CEMEIKGF_00771	gene	144				
+CEMEIKGF_00771	CDS	144				hypothetical protein
+CEMEIKGF_00772	gene	477				
+CEMEIKGF_00772	CDS	477				hypothetical protein
+CEMEIKGF_00773	gene	513	sigH			
+CEMEIKGF_00773	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+CEMEIKGF_00774	gene	1893	speA			
+CEMEIKGF_00774	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+CEMEIKGF_00775	gene	528	aroK			
+CEMEIKGF_00775	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+CEMEIKGF_00776	gene	2415	topA			
+CEMEIKGF_00776	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+CEMEIKGF_00777	gene	699				
+CEMEIKGF_00777	CDS	699				hypothetical protein
+CEMEIKGF_00778	gene	822				
+CEMEIKGF_00778	CDS	822				hypothetical protein
+CEMEIKGF_00779	gene	555	nudC_2			
+CEMEIKGF_00779	CDS	555	nudC_2	3.6.1.22		NADH pyrophosphatase
+CEMEIKGF_00780	gene	417				
+CEMEIKGF_00780	CDS	417				hypothetical protein
+CEMEIKGF_00781	gene	1152	resA_3			
+CEMEIKGF_00781	CDS	1152	resA_3			Thiol-disulfide oxidoreductase ResA
+CEMEIKGF_00782	gene	990				
+CEMEIKGF_00782	CDS	990				hypothetical protein
+CEMEIKGF_00783	gene	1026				
+CEMEIKGF_00783	CDS	1026				hypothetical protein
+CEMEIKGF_00784	gene	1089				
+CEMEIKGF_00784	CDS	1089				hypothetical protein
+CEMEIKGF_00785	gene	1893				
+CEMEIKGF_00785	CDS	1893				hypothetical protein
+CEMEIKGF_00786	gene	1143				
+CEMEIKGF_00786	CDS	1143				hypothetical protein
+CEMEIKGF_00787	gene	390				
+CEMEIKGF_00787	CDS	390				hypothetical protein
+CEMEIKGF_00788	gene	1116				
+CEMEIKGF_00788	CDS	1116				hypothetical protein
+CEMEIKGF_00789	gene	1812				
+CEMEIKGF_00789	CDS	1812				hypothetical protein
+CEMEIKGF_00790	gene	2355	pnp			
+CEMEIKGF_00790	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+CEMEIKGF_00791	gene	219				
+CEMEIKGF_00791	CDS	219				hypothetical protein
+CEMEIKGF_00792	gene	1812	der_2			
+CEMEIKGF_00792	CDS	1812	der_2			GTPase Der
+CEMEIKGF_00793	gene	387				
+CEMEIKGF_00793	CDS	387				hypothetical protein
+CEMEIKGF_00794	gene	1917				
+CEMEIKGF_00794	CDS	1917				hypothetical protein
+CEMEIKGF_00795	gene	2103				
+CEMEIKGF_00795	CDS	2103				hypothetical protein
+CEMEIKGF_00796	gene	276				
+CEMEIKGF_00796	CDS	276				hypothetical protein
+CEMEIKGF_00797	gene	336				
+CEMEIKGF_00797	CDS	336				hypothetical protein
+CEMEIKGF_00798	gene	840				
+CEMEIKGF_00798	CDS	840				hypothetical protein
+CEMEIKGF_00799	gene	102				
+CEMEIKGF_00799	CDS	102				hypothetical protein
+CEMEIKGF_00800	gene	2517				
+CEMEIKGF_00800	CDS	2517				hypothetical protein
+CEMEIKGF_00801	gene	1650				
+CEMEIKGF_00801	CDS	1650				hypothetical protein
+CEMEIKGF_00802	gene	888				
+CEMEIKGF_00802	CDS	888				hypothetical protein
+CEMEIKGF_00803	gene	1779	bepA_3			
+CEMEIKGF_00803	CDS	1779	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+CEMEIKGF_00804	gene	438	dut			
+CEMEIKGF_00804	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+CEMEIKGF_00805	gene	1527	dgt			
+CEMEIKGF_00805	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+CEMEIKGF_00806	gene	174				
+CEMEIKGF_00806	CDS	174				hypothetical protein
+CEMEIKGF_00807	gene	279				
+CEMEIKGF_00807	CDS	279				hypothetical protein
+CEMEIKGF_00808	gene	261				
+CEMEIKGF_00808	CDS	261				hypothetical protein
+CEMEIKGF_00809	gene	420				
+CEMEIKGF_00809	CDS	420				hypothetical protein
+CEMEIKGF_00810	gene	477				
+CEMEIKGF_00810	CDS	477				hypothetical protein
+CEMEIKGF_00811	gene	1023				
+CEMEIKGF_00811	CDS	1023				hypothetical protein
+CEMEIKGF_00812	gene	828				
+CEMEIKGF_00812	CDS	828				hypothetical protein
+CEMEIKGF_00813	gene	465	mraZ			
+CEMEIKGF_00813	CDS	465	mraZ			Transcriptional regulator MraZ
+CEMEIKGF_00814	gene	1032	rsmH			
+CEMEIKGF_00814	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+CEMEIKGF_00815	gene	624				
+CEMEIKGF_00815	CDS	624				hypothetical protein
+CEMEIKGF_00816	gene	2148	pbpB			
+CEMEIKGF_00816	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+CEMEIKGF_00817	gene	1452	murE			
+CEMEIKGF_00817	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+CEMEIKGF_00818	gene	1272	mraY			
+CEMEIKGF_00818	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+CEMEIKGF_00819	gene	1344	murD			
+CEMEIKGF_00819	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+CEMEIKGF_00820	gene	1287	mrdB_1			
+CEMEIKGF_00820	CDS	1287	mrdB_1	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+CEMEIKGF_00821	gene	1116	murG			
+CEMEIKGF_00821	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+CEMEIKGF_00822	gene	1401	murC			
+CEMEIKGF_00822	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+CEMEIKGF_00823	gene	1002				
+CEMEIKGF_00823	CDS	1002				hypothetical protein
+CEMEIKGF_00824	gene	1461	ftsA			
+CEMEIKGF_00824	CDS	1461	ftsA			Cell division protein FtsA
+CEMEIKGF_00825	gene	1320	ftsZ			
+CEMEIKGF_00825	CDS	1320	ftsZ			Cell division protein FtsZ
+CEMEIKGF_00826	gene	447	yqeY			
+CEMEIKGF_00826	CDS	447	yqeY		COG1610	putative protein YqeY
+CEMEIKGF_00827	gene	1122				
+CEMEIKGF_00827	CDS	1122				hypothetical protein
+CEMEIKGF_00828	gene	726	recO			
+CEMEIKGF_00828	CDS	726	recO		COG1381	DNA repair protein RecO
+CEMEIKGF_00829	gene	75				
+CEMEIKGF_00829	tRNA	75				tRNA-Glu(ttc)
+CEMEIKGF_00830	gene	255	rpsT			
+CEMEIKGF_00830	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+CEMEIKGF_00831	gene	135				
+CEMEIKGF_00831	CDS	135				hypothetical protein
+CEMEIKGF_00832	gene	1971	gyrB_1			
+CEMEIKGF_00832	CDS	1971	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+CEMEIKGF_00833	gene	879				
+CEMEIKGF_00833	CDS	879				hypothetical protein
+CEMEIKGF_00834	gene	621				
+CEMEIKGF_00834	CDS	621				hypothetical protein
+CEMEIKGF_00835	gene	666	ung			
+CEMEIKGF_00835	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+CEMEIKGF_00836	gene	1518	gpmI			
+CEMEIKGF_00836	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+CEMEIKGF_00837	gene	2196				
+CEMEIKGF_00837	CDS	2196				hypothetical protein
+CEMEIKGF_00838	gene	1050	dusB			
+CEMEIKGF_00838	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+CEMEIKGF_00839	gene	1128				
+CEMEIKGF_00839	CDS	1128				hypothetical protein
+CEMEIKGF_00840	gene	453				
+CEMEIKGF_00840	CDS	453				hypothetical protein
+CEMEIKGF_00841	gene	1302				
+CEMEIKGF_00841	CDS	1302				hypothetical protein
+CEMEIKGF_00842	gene	1149	yghO			
+CEMEIKGF_00842	CDS	1149	yghO			Protein YghO
+CEMEIKGF_00843	gene	1944	gyrB_2			
+CEMEIKGF_00843	CDS	1944	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+CEMEIKGF_00844	gene	441	coaD			
+CEMEIKGF_00844	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+CEMEIKGF_00845	gene	411	ybeY			
+CEMEIKGF_00845	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+CEMEIKGF_00846	gene	1578				
+CEMEIKGF_00846	CDS	1578				hypothetical protein
+CEMEIKGF_00847	gene	1035	ruvB			
+CEMEIKGF_00847	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+CEMEIKGF_00848	gene	1218	norV			
+CEMEIKGF_00848	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+CEMEIKGF_00849	gene	1317				
+CEMEIKGF_00849	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+CEMEIKGF_00850	gene	1368				
+CEMEIKGF_00850	CDS	1368				hypothetical protein
+CEMEIKGF_00851	gene	75				
+CEMEIKGF_00851	tRNA	75				tRNA-Met(cat)
+CEMEIKGF_00852	gene	693				
+CEMEIKGF_00852	CDS	693				hypothetical protein
+CEMEIKGF_00853	gene	486	resA_4			
+CEMEIKGF_00853	CDS	486	resA_4			Thiol-disulfide oxidoreductase ResA
+CEMEIKGF_00854	gene	1659				
+CEMEIKGF_00854	CDS	1659				hypothetical protein
+CEMEIKGF_00855	gene	786				
+CEMEIKGF_00855	CDS	786				hypothetical protein
+CEMEIKGF_00856	gene	639				
+CEMEIKGF_00856	CDS	639				hypothetical protein
+CEMEIKGF_00857	gene	1419	aspA			
+CEMEIKGF_00857	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+CEMEIKGF_00858	gene	726	mhqN			
+CEMEIKGF_00858	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+CEMEIKGF_00859	gene	363				
+CEMEIKGF_00859	CDS	363				hypothetical protein
+CEMEIKGF_00860	gene	747				
+CEMEIKGF_00860	CDS	747				hypothetical protein
+CEMEIKGF_00861	gene	105				
+CEMEIKGF_00861	CDS	105				hypothetical protein
+CEMEIKGF_00862	gene	1896				
+CEMEIKGF_00862	CDS	1896				hypothetical protein
+CEMEIKGF_00863	gene	804	xerC_1			
+CEMEIKGF_00863	CDS	804	xerC_1			Tyrosine recombinase XerC
+CEMEIKGF_00864	gene	1179				
+CEMEIKGF_00864	CDS	1179			COG3385	IS4 family transposase ISDpr1
+CEMEIKGF_00865	gene	255				
+CEMEIKGF_00865	CDS	255				hypothetical protein
+CEMEIKGF_00866	gene	213				
+CEMEIKGF_00866	CDS	213				hypothetical protein
+CEMEIKGF_00867	gene	435				
+CEMEIKGF_00867	CDS	435				hypothetical protein
+CEMEIKGF_00868	gene	85				
+CEMEIKGF_00868	tRNA	85				tRNA-Leu(caa)
+CEMEIKGF_00869	gene	1095	algA			
+CEMEIKGF_00869	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+CEMEIKGF_00870	gene	1164				
+CEMEIKGF_00870	CDS	1164				hypothetical protein
+CEMEIKGF_00871	gene	1134				
+CEMEIKGF_00871	CDS	1134				hypothetical protein
+CEMEIKGF_00872	gene	1443	tuaB_1			
+CEMEIKGF_00872	CDS	1443	tuaB_1		COG2244	Teichuronic acid biosynthesis protein TuaB
+CEMEIKGF_00873	gene	807	rfbF			
+CEMEIKGF_00873	CDS	807	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+CEMEIKGF_00874	gene	1101	rfbG			
+CEMEIKGF_00874	CDS	1101	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+CEMEIKGF_00875	gene	450				
+CEMEIKGF_00875	CDS	450				hypothetical protein
+CEMEIKGF_00876	gene	138				
+CEMEIKGF_00876	CDS	138				hypothetical protein
+CEMEIKGF_00877	gene	1059				
+CEMEIKGF_00877	CDS	1059				hypothetical protein
+CEMEIKGF_00878	gene	105				
+CEMEIKGF_00878	CDS	105				hypothetical protein
+CEMEIKGF_00879	gene	912	rfbJ			
+CEMEIKGF_00879	CDS	912	rfbJ	1.1.1.341	COG0451	CDP-abequose synthase
+CEMEIKGF_00880	gene	1269				
+CEMEIKGF_00880	CDS	1269				hypothetical protein
+CEMEIKGF_00881	gene	1050	tagF			
+CEMEIKGF_00881	CDS	1050	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+CEMEIKGF_00882	gene	969				
+CEMEIKGF_00882	CDS	969				hypothetical protein
+CEMEIKGF_00883	gene	828	arnC_2			
+CEMEIKGF_00883	CDS	828	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+CEMEIKGF_00884	gene	168				
+CEMEIKGF_00884	CDS	168				hypothetical protein
+CEMEIKGF_00885	gene	174	vat			
+CEMEIKGF_00885	CDS	174	vat	2.3.1.-		Virginiamycin A acetyltransferase
+CEMEIKGF_00886	gene	846				
+CEMEIKGF_00886	CDS	846				hypothetical protein
+CEMEIKGF_00887	gene	1092				
+CEMEIKGF_00887	CDS	1092				hypothetical protein
+CEMEIKGF_00888	gene	1020				
+CEMEIKGF_00888	CDS	1020				hypothetical protein
+CEMEIKGF_00889	gene	927				
+CEMEIKGF_00889	CDS	927				hypothetical protein
+CEMEIKGF_00890	gene	1035	gumH			
+CEMEIKGF_00890	CDS	1035	gumH	2.4.1.252	COG0438	GDP-mannose:cellobiosyl-diphosphopolyprenol alpha-mannosyltransferase
+CEMEIKGF_00891	gene	1215				
+CEMEIKGF_00891	CDS	1215				hypothetical protein
+CEMEIKGF_00892	gene	1155	mshA_2			
+CEMEIKGF_00892	CDS	1155	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CEMEIKGF_00893	gene	543	dapH_1			
+CEMEIKGF_00893	CDS	543	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+CEMEIKGF_00894	gene	792	tagA			
+CEMEIKGF_00894	CDS	792	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+CEMEIKGF_00895	gene	963				
+CEMEIKGF_00895	CDS	963				hypothetical protein
+CEMEIKGF_00896	gene	1110				
+CEMEIKGF_00896	CDS	1110				hypothetical protein
+CEMEIKGF_00897	gene	105				
+CEMEIKGF_00897	CDS	105				hypothetical protein
+CEMEIKGF_00898	gene	615				
+CEMEIKGF_00898	CDS	615				hypothetical protein
+CEMEIKGF_00899	gene	594	folE			
+CEMEIKGF_00899	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+CEMEIKGF_00900	gene	639				
+CEMEIKGF_00900	CDS	639				hypothetical protein
+CEMEIKGF_00901	gene	2130	tpiA			
+CEMEIKGF_00901	CDS	2130	tpiA			Triosephosphate isomerase
+CEMEIKGF_00902	gene	555				
+CEMEIKGF_00902	CDS	555				hypothetical protein
+CEMEIKGF_00903	gene	459				
+CEMEIKGF_00903	CDS	459				hypothetical protein
+CEMEIKGF_00904	gene	1617	cca			
+CEMEIKGF_00904	CDS	1617	cca	2.7.7.72		CCA-adding enzyme
+CEMEIKGF_00905	gene	1194	ttgA			
+CEMEIKGF_00905	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+CEMEIKGF_00906	gene	3258	bepE			
+CEMEIKGF_00906	CDS	3258	bepE			Efflux pump membrane transporter BepE
+CEMEIKGF_00907	gene	1362	oprM			
+CEMEIKGF_00907	CDS	1362	oprM		COG1538	Outer membrane protein OprM
+CEMEIKGF_00908	gene	774	lpxA_2			
+CEMEIKGF_00908	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+CEMEIKGF_00909	gene	120				
+CEMEIKGF_00909	CDS	120				hypothetical protein
+CEMEIKGF_00910	gene	225				
+CEMEIKGF_00910	CDS	225				hypothetical protein
+CEMEIKGF_00911	gene	1689				
+CEMEIKGF_00911	CDS	1689				hypothetical protein
+CEMEIKGF_00912	gene	999				
+CEMEIKGF_00912	CDS	999				hypothetical protein
+CEMEIKGF_00913	gene	1647				
+CEMEIKGF_00913	CDS	1647				hypothetical protein
+CEMEIKGF_00914	gene	1668	recN			
+CEMEIKGF_00914	CDS	1668	recN		COG0497	DNA repair protein RecN
+CEMEIKGF_00915	gene	903				
+CEMEIKGF_00915	CDS	903				hypothetical protein
+CEMEIKGF_00916	gene	1212	undec1A			
+CEMEIKGF_00916	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+CEMEIKGF_00917	gene	855	dinG			
+CEMEIKGF_00917	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+CEMEIKGF_00918	gene	1125	dnaN			
+CEMEIKGF_00918	CDS	1125	dnaN			Beta sliding clamp
+CEMEIKGF_00919	gene	417				
+CEMEIKGF_00919	CDS	417				hypothetical protein
+CEMEIKGF_00920	gene	399	glpE			
+CEMEIKGF_00920	CDS	399	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+CEMEIKGF_00921	gene	1311	eno			
+CEMEIKGF_00921	CDS	1311	eno	4.2.1.11	COG0148	Enolase
+CEMEIKGF_00922	gene	981	ribD			
+CEMEIKGF_00922	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+CEMEIKGF_00923	gene	777				
+CEMEIKGF_00923	CDS	777				hypothetical protein
+CEMEIKGF_00924	gene	1305	tyrS			
+CEMEIKGF_00924	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+CEMEIKGF_00925	gene	492				
+CEMEIKGF_00925	CDS	492				hypothetical protein
+CEMEIKGF_00926	gene	432	rnpA			
+CEMEIKGF_00926	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+CEMEIKGF_00927	gene	747				
+CEMEIKGF_00927	CDS	747				hypothetical protein
+CEMEIKGF_00928	gene	1050				
+CEMEIKGF_00928	CDS	1050				hypothetical protein
+CEMEIKGF_00929	gene	1305	metK			
+CEMEIKGF_00929	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+CEMEIKGF_00930	gene	2826				
+CEMEIKGF_00930	CDS	2826				hypothetical protein
+CEMEIKGF_00931	gene	165				
+CEMEIKGF_00931	CDS	165				hypothetical protein
+CEMEIKGF_00932	gene	894				
+CEMEIKGF_00932	CDS	894				hypothetical protein
+CEMEIKGF_00933	gene	318				
+CEMEIKGF_00933	CDS	318				hypothetical protein
+CEMEIKGF_00934	gene	210				
+CEMEIKGF_00934	CDS	210				hypothetical protein
+CEMEIKGF_00935	gene	618				
+CEMEIKGF_00935	CDS	618				hypothetical protein
+CEMEIKGF_00936	gene	153				
+CEMEIKGF_00936	CDS	153				hypothetical protein
+CEMEIKGF_00937	gene	1491	cysS_1			
+CEMEIKGF_00937	CDS	1491	cysS_1	6.1.1.16	COG0215	Cysteine--tRNA ligase
+CEMEIKGF_00938	gene	936				
+CEMEIKGF_00938	CDS	936				hypothetical protein
+CEMEIKGF_00939	gene	1008				
+CEMEIKGF_00939	CDS	1008				hypothetical protein
+CEMEIKGF_00940	gene	1047				
+CEMEIKGF_00940	CDS	1047				hypothetical protein
+CEMEIKGF_00941	gene	606				
+CEMEIKGF_00941	CDS	606				hypothetical protein
+CEMEIKGF_00942	gene	237	acpP			
+CEMEIKGF_00942	CDS	237	acpP		COG0236	Acyl carrier protein
+CEMEIKGF_00943	gene	1263	fabF			
+CEMEIKGF_00943	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+CEMEIKGF_00944	gene	1050	rnc			
+CEMEIKGF_00944	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+CEMEIKGF_00945	gene	1644	hcp			
+CEMEIKGF_00945	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+CEMEIKGF_00946	gene	96				
+CEMEIKGF_00946	CDS	96				hypothetical protein
+CEMEIKGF_00947	gene	600				
+CEMEIKGF_00947	CDS	600				hypothetical protein
+CEMEIKGF_00948	gene	669				
+CEMEIKGF_00948	CDS	669				hypothetical protein
+CEMEIKGF_00949	gene	177				
+CEMEIKGF_00949	CDS	177				hypothetical protein
+CEMEIKGF_00950	gene	321				
+CEMEIKGF_00950	CDS	321				hypothetical protein
+CEMEIKGF_00951	gene	1527				
+CEMEIKGF_00951	CDS	1527				hypothetical protein
+CEMEIKGF_00952	gene	1314				
+CEMEIKGF_00952	CDS	1314				hypothetical protein
+CEMEIKGF_00953	gene	1494	patA_1			
+CEMEIKGF_00953	CDS	1494	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+CEMEIKGF_00954	gene	417				
+CEMEIKGF_00954	CDS	417				hypothetical protein
+CEMEIKGF_00955	gene	1821	argS_1			
+CEMEIKGF_00955	CDS	1821	argS_1	6.1.1.19	COG0018	Arginine--tRNA ligase
+CEMEIKGF_00956	gene	174				
+CEMEIKGF_00956	CDS	174				hypothetical protein
+CEMEIKGF_00957	gene	114				
+CEMEIKGF_00957	CDS	114				hypothetical protein
+CEMEIKGF_00958	gene	921				
+CEMEIKGF_00958	CDS	921				hypothetical protein
+CEMEIKGF_00959	gene	72				
+CEMEIKGF_00959	tRNA	72				tRNA-Gln(ttg)
+CEMEIKGF_00960	gene	243				
+CEMEIKGF_00960	CDS	243				hypothetical protein
+CEMEIKGF_00961	gene	2703	rcsC_1			
+CEMEIKGF_00961	CDS	2703	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+CEMEIKGF_00962	gene	432				
+CEMEIKGF_00962	CDS	432				hypothetical protein
+CEMEIKGF_00963	gene	381				
+CEMEIKGF_00963	CDS	381				hypothetical protein
+CEMEIKGF_00964	gene	339				
+CEMEIKGF_00964	CDS	339				hypothetical protein
+CEMEIKGF_00965	gene	1668	udk_1			
+CEMEIKGF_00965	CDS	1668	udk_1	2.7.1.48		Uridine kinase
+CEMEIKGF_00966	gene	1722				
+CEMEIKGF_00966	CDS	1722				hypothetical protein
+CEMEIKGF_00967	gene	1050	btuB_3			
+CEMEIKGF_00967	CDS	1050	btuB_3			Vitamin B12 transporter BtuB
+CEMEIKGF_00968	gene	285				
+CEMEIKGF_00968	CDS	285				hypothetical protein
+CEMEIKGF_00969	gene	6564				
+CEMEIKGF_00969	CDS	6564				hypothetical protein
+CEMEIKGF_00970	gene	1173				
+CEMEIKGF_00970	CDS	1173				hypothetical protein
+CEMEIKGF_00971	gene	1005	hmuU_1			
+CEMEIKGF_00971	CDS	1005	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+CEMEIKGF_00972	gene	894	prmC_2			
+CEMEIKGF_00972	CDS	894	prmC_2	2.1.1.297		Release factor glutamine methyltransferase
+CEMEIKGF_00973	gene	507	recX			
+CEMEIKGF_00973	CDS	507	recX			Regulatory protein RecX
+CEMEIKGF_00974	gene	1287				
+CEMEIKGF_00974	CDS	1287				hypothetical protein
+CEMEIKGF_00975	gene	471				
+CEMEIKGF_00975	CDS	471				hypothetical protein
+CEMEIKGF_00976	gene	1794				
+CEMEIKGF_00976	CDS	1794				hypothetical protein
+CEMEIKGF_00977	gene	852				
+CEMEIKGF_00977	CDS	852				hypothetical protein
+CEMEIKGF_00978	gene	624	pyrE			
+CEMEIKGF_00978	CDS	624	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+CEMEIKGF_00979	gene	423				
+CEMEIKGF_00979	CDS	423				hypothetical protein
+CEMEIKGF_00980	gene	576				
+CEMEIKGF_00980	CDS	576				hypothetical protein
+CEMEIKGF_00981	gene	87				
+CEMEIKGF_00981	tRNA	87				tRNA-Leu(taa)
+CEMEIKGF_00982	gene	1005				
+CEMEIKGF_00982	CDS	1005				hypothetical protein
+CEMEIKGF_00983	gene	696				
+CEMEIKGF_00983	CDS	696				hypothetical protein
+CEMEIKGF_00984	gene	459	rnhA_1			
+CEMEIKGF_00984	CDS	459	rnhA_1	3.1.26.4	COG3341	Ribonuclease H
+CEMEIKGF_00985	gene	477				
+CEMEIKGF_00985	CDS	477				hypothetical protein
+CEMEIKGF_00986	gene	681				
+CEMEIKGF_00986	CDS	681				hypothetical protein
+CEMEIKGF_00987	gene	831				
+CEMEIKGF_00987	CDS	831				hypothetical protein
+CEMEIKGF_00988	gene	558	trmH			
+CEMEIKGF_00988	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+CEMEIKGF_00989	gene	429	csdE			
+CEMEIKGF_00989	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+CEMEIKGF_00990	gene	1299				
+CEMEIKGF_00990	CDS	1299				hypothetical protein
+CEMEIKGF_00991	gene	912	xerD_1			
+CEMEIKGF_00991	CDS	912	xerD_1			Tyrosine recombinase XerD
+CEMEIKGF_00992	gene	1359	miaB_1			
+CEMEIKGF_00992	CDS	1359	miaB_1	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+CEMEIKGF_00993	gene	2886				
+CEMEIKGF_00993	CDS	2886				hypothetical protein
+CEMEIKGF_00994	gene	300				
+CEMEIKGF_00994	CDS	300			COG0776	DNA-binding protein HRL53
+CEMEIKGF_00995	gene	90				
+CEMEIKGF_00995	CDS	90				hypothetical protein
+CEMEIKGF_00996	gene	1575	rne			
+CEMEIKGF_00996	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+CEMEIKGF_00997	gene	474	guaD			
+CEMEIKGF_00997	CDS	474	guaD	3.5.4.3	COG0590	Guanine deaminase
+CEMEIKGF_00998	gene	162				
+CEMEIKGF_00998	CDS	162			COG1773	Rubredoxin
+CEMEIKGF_00999	gene	657	ppaX			
+CEMEIKGF_00999	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+CEMEIKGF_01000	gene	705	ttcA			
+CEMEIKGF_01000	CDS	705	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+CEMEIKGF_01001	gene	507				
+CEMEIKGF_01001	CDS	507				hypothetical protein
+CEMEIKGF_01002	gene	762	ydfG			
+CEMEIKGF_01002	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+CEMEIKGF_01003	gene	1698	glgE			
+CEMEIKGF_01003	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+CEMEIKGF_01004	gene	894	fabD			
+CEMEIKGF_01004	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+CEMEIKGF_01005	gene	450				
+CEMEIKGF_01005	CDS	450				hypothetical protein
+CEMEIKGF_01006	gene	462				
+CEMEIKGF_01006	CDS	462				hypothetical protein
+CEMEIKGF_01007	gene	2052	ligA			
+CEMEIKGF_01007	CDS	2052	ligA	6.5.1.2		DNA ligase
+CEMEIKGF_01008	gene	855	pta_2			
+CEMEIKGF_01008	CDS	855	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+CEMEIKGF_01009	gene	1062	buk2			
+CEMEIKGF_01009	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+CEMEIKGF_01010	gene	675	trmD			
+CEMEIKGF_01010	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+CEMEIKGF_01011	gene	888				
+CEMEIKGF_01011	CDS	888				hypothetical protein
+CEMEIKGF_01012	gene	1416	pepP			
+CEMEIKGF_01012	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+CEMEIKGF_01013	gene	1197				
+CEMEIKGF_01013	CDS	1197				hypothetical protein
+CEMEIKGF_01014	gene	480				
+CEMEIKGF_01014	CDS	480				hypothetical protein
+CEMEIKGF_01015	gene	1731	recJ			
+CEMEIKGF_01015	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+CEMEIKGF_01016	gene	1911	srmB			
+CEMEIKGF_01016	CDS	1911	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+CEMEIKGF_01017	gene	813				
+CEMEIKGF_01017	CDS	813				hypothetical protein
+CEMEIKGF_01018	gene	1182				
+CEMEIKGF_01018	CDS	1182				Outer membrane protein 41
+CEMEIKGF_01019	gene	531	cobP			
+CEMEIKGF_01019	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+CEMEIKGF_01020	gene	1032	cobT			
+CEMEIKGF_01020	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+CEMEIKGF_01021	gene	792	cobS			
+CEMEIKGF_01021	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+CEMEIKGF_01022	gene	522	pspA_1			
+CEMEIKGF_01022	CDS	522	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+CEMEIKGF_01023	gene	543				
+CEMEIKGF_01023	CDS	543				hypothetical protein
+CEMEIKGF_01024	gene	771	korB_1			
+CEMEIKGF_01024	CDS	771	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+CEMEIKGF_01025	gene	1083	korA_1			
+CEMEIKGF_01025	CDS	1083	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+CEMEIKGF_01026	gene	234	rsxB_1			
+CEMEIKGF_01026	CDS	234	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CEMEIKGF_01027	gene	180				
+CEMEIKGF_01027	CDS	180				hypothetical protein
+CEMEIKGF_01028	gene	924	folD			
+CEMEIKGF_01028	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+CEMEIKGF_01029	gene	1341	ffh			
+CEMEIKGF_01029	CDS	1341	ffh		COG0541	Signal recognition particle protein
+CEMEIKGF_01030	gene	480				
+CEMEIKGF_01030	CDS	480				hypothetical protein
+CEMEIKGF_01031	gene	753				
+CEMEIKGF_01031	CDS	753				hypothetical protein
+CEMEIKGF_01032	gene	2127				
+CEMEIKGF_01032	CDS	2127			COG1629	putative TonB-dependent receptor
+CEMEIKGF_01033	gene	402				
+CEMEIKGF_01033	CDS	402				hypothetical protein
+CEMEIKGF_01034	gene	3411				
+CEMEIKGF_01034	CDS	3411				hypothetical protein
+CEMEIKGF_01035	gene	579				
+CEMEIKGF_01035	CDS	579				hypothetical protein
+	repeat_region	431				
+CEMEIKGF_01036	gene	195				
+CEMEIKGF_01036	CDS	195				hypothetical protein
+CEMEIKGF_01037	gene	1299				
+CEMEIKGF_01037	CDS	1299				hypothetical protein
+CEMEIKGF_01038	gene	546	pdxT			
+CEMEIKGF_01038	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+CEMEIKGF_01039	gene	876	pdxS			
+CEMEIKGF_01039	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+CEMEIKGF_01040	gene	918	rhaS_1			
+CEMEIKGF_01040	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+CEMEIKGF_01041	gene	474				
+CEMEIKGF_01041	CDS	474				hypothetical protein
+CEMEIKGF_01042	gene	114				
+CEMEIKGF_01042	CDS	114				hypothetical protein
+CEMEIKGF_01043	gene	855	bepA_4			
+CEMEIKGF_01043	CDS	855	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+CEMEIKGF_01044	gene	2325				
+CEMEIKGF_01044	CDS	2325				hypothetical protein
+CEMEIKGF_01045	gene	1065	kdsA_2			
+CEMEIKGF_01045	CDS	1065	kdsA_2	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+CEMEIKGF_01046	gene	1059				
+CEMEIKGF_01046	CDS	1059				hypothetical protein
+CEMEIKGF_01047	gene	1095				
+CEMEIKGF_01047	CDS	1095				hypothetical protein
+CEMEIKGF_01048	gene	1107	pdxA2			
+CEMEIKGF_01048	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+CEMEIKGF_01049	gene	978				
+CEMEIKGF_01049	CDS	978				hypothetical protein
+CEMEIKGF_01050	gene	1014	rlmN			
+CEMEIKGF_01050	CDS	1014	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+CEMEIKGF_01051	gene	1560	ahpF			
+CEMEIKGF_01051	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+CEMEIKGF_01052	gene	567	ahpC			
+CEMEIKGF_01052	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+CEMEIKGF_01053	gene	585	sodB			
+CEMEIKGF_01053	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+CEMEIKGF_01054	gene	927	oxyR			
+CEMEIKGF_01054	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+CEMEIKGF_01055	gene	1086	wbpI			
+CEMEIKGF_01055	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+CEMEIKGF_01056	gene	108				
+CEMEIKGF_01056	CDS	108				hypothetical protein
+CEMEIKGF_01057	gene	954	qmcA			
+CEMEIKGF_01057	CDS	954	qmcA		COG0330	Protein QmcA
+CEMEIKGF_01058	gene	456				
+CEMEIKGF_01058	CDS	456				hypothetical protein
+CEMEIKGF_01059	gene	462				
+CEMEIKGF_01059	CDS	462				hypothetical protein
+CEMEIKGF_01060	gene	408				
+CEMEIKGF_01060	CDS	408				hypothetical protein
+CEMEIKGF_01061	gene	285				
+CEMEIKGF_01061	CDS	285				hypothetical protein
+CEMEIKGF_01062	gene	123				
+CEMEIKGF_01062	CDS	123				hypothetical protein
+CEMEIKGF_01063	gene	822	acr1			
+CEMEIKGF_01063	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+CEMEIKGF_01064	gene	1506	yhfT			
+CEMEIKGF_01064	CDS	1506	yhfT	6.2.1.-	COG0318	putative acyl--CoA ligase YhfT
+CEMEIKGF_01065	gene	363				
+CEMEIKGF_01065	CDS	363				hypothetical protein
+CEMEIKGF_01066	gene	498				
+CEMEIKGF_01066	CDS	498			COG0716	Flavodoxin 1
+CEMEIKGF_01067	gene	2214				
+CEMEIKGF_01067	CDS	2214				hypothetical protein
+CEMEIKGF_01068	gene	216				
+CEMEIKGF_01068	CDS	216				hypothetical protein
+CEMEIKGF_01069	gene	600	slyD			
+CEMEIKGF_01069	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+CEMEIKGF_01070	gene	1092	aroC			
+CEMEIKGF_01070	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+CEMEIKGF_01071	gene	912	pyrD			
+CEMEIKGF_01071	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+CEMEIKGF_01072	gene	777	pyrK_1			
+CEMEIKGF_01072	CDS	777	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+CEMEIKGF_01073	gene	477				
+CEMEIKGF_01073	CDS	477				hypothetical protein
+CEMEIKGF_01074	gene	1029				
+CEMEIKGF_01074	CDS	1029				hypothetical protein
+CEMEIKGF_01075	gene	471				
+CEMEIKGF_01075	CDS	471				hypothetical protein
+CEMEIKGF_01076	gene	189				
+CEMEIKGF_01076	CDS	189				hypothetical protein
+CEMEIKGF_01077	gene	951				
+CEMEIKGF_01077	CDS	951				hypothetical protein
+CEMEIKGF_01078	gene	840				
+CEMEIKGF_01078	CDS	840				hypothetical protein
+CEMEIKGF_01079	gene	879				
+CEMEIKGF_01079	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+CEMEIKGF_01080	gene	105				
+CEMEIKGF_01080	CDS	105				hypothetical protein
+CEMEIKGF_01081	gene	135				
+CEMEIKGF_01081	CDS	135				hypothetical protein
+CEMEIKGF_01082	gene	1044	aguA			
+CEMEIKGF_01082	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+CEMEIKGF_01083	gene	909				
+CEMEIKGF_01083	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+CEMEIKGF_01084	gene	1389	ampG			
+CEMEIKGF_01084	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+CEMEIKGF_01085	gene	378				
+CEMEIKGF_01085	CDS	378				hypothetical protein
+CEMEIKGF_01086	gene	3693				
+CEMEIKGF_01086	CDS	3693				hypothetical protein
+CEMEIKGF_01087	gene	462	ndk			
+CEMEIKGF_01087	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+CEMEIKGF_01088	gene	1698	eptC			
+CEMEIKGF_01088	CDS	1698	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+CEMEIKGF_01089	gene	114				
+CEMEIKGF_01089	CDS	114				hypothetical protein
+CEMEIKGF_01090	gene	1215	norR			
+CEMEIKGF_01090	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+CEMEIKGF_01091	gene	543				
+CEMEIKGF_01091	CDS	543				hypothetical protein
+CEMEIKGF_01092	gene	771				
+CEMEIKGF_01092	CDS	771				hypothetical protein
+CEMEIKGF_01093	gene	390				
+CEMEIKGF_01093	CDS	390				hypothetical protein
+CEMEIKGF_01094	gene	2580				
+CEMEIKGF_01094	CDS	2580				hypothetical protein
+CEMEIKGF_01095	gene	3201				
+CEMEIKGF_01095	CDS	3201				hypothetical protein
+CEMEIKGF_01096	gene	702	trmO			
+CEMEIKGF_01096	CDS	702	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+CEMEIKGF_01097	gene	1299				
+CEMEIKGF_01097	CDS	1299				hypothetical protein
+CEMEIKGF_01098	gene	79				
+CEMEIKGF_01098	tRNA	79				tRNA-His(gtg)
+CEMEIKGF_01099	gene	1032				
+CEMEIKGF_01099	CDS	1032				hypothetical protein
+CEMEIKGF_01100	gene	756				
+CEMEIKGF_01100	CDS	756				hypothetical protein
+CEMEIKGF_01101	gene	693				
+CEMEIKGF_01101	CDS	693				hypothetical protein
+CEMEIKGF_01102	gene	75				
+CEMEIKGF_01102	tRNA	75				tRNA-Arg(ccg)
+CEMEIKGF_01103	gene	1224	pepT			
+CEMEIKGF_01103	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+CEMEIKGF_01104	gene	2256	kefB_1			
+CEMEIKGF_01104	CDS	2256	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+CEMEIKGF_01105	gene	1776				
+CEMEIKGF_01105	CDS	1776				hypothetical protein
+CEMEIKGF_01106	gene	585				
+CEMEIKGF_01106	CDS	585				hypothetical protein
+CEMEIKGF_01107	gene	2772	lptD_1			
+CEMEIKGF_01107	CDS	2772	lptD_1			LPS-assembly protein LptD
+CEMEIKGF_01108	gene	759	ppm1			
+CEMEIKGF_01108	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+CEMEIKGF_01109	gene	762				
+CEMEIKGF_01109	CDS	762				hypothetical protein
+CEMEIKGF_01110	gene	228				
+CEMEIKGF_01110	CDS	228				hypothetical protein
+CEMEIKGF_01111	gene	1209	rhaR			
+CEMEIKGF_01111	CDS	1209	rhaR			HTH-type transcriptional activator RhaR
+CEMEIKGF_01112	gene	675				
+CEMEIKGF_01112	CDS	675				hypothetical protein
+CEMEIKGF_01113	gene	756				
+CEMEIKGF_01113	CDS	756				hypothetical protein
+CEMEIKGF_01114	gene	1224				
+CEMEIKGF_01114	CDS	1224				hypothetical protein
+CEMEIKGF_01115	gene	1221				
+CEMEIKGF_01115	CDS	1221				hypothetical protein
+CEMEIKGF_01116	gene	705	yknY_2			
+CEMEIKGF_01116	CDS	705	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+CEMEIKGF_01117	gene	1152				
+CEMEIKGF_01117	CDS	1152				hypothetical protein
+CEMEIKGF_01118	gene	1278				
+CEMEIKGF_01118	CDS	1278				hypothetical protein
+CEMEIKGF_01119	gene	1179				
+CEMEIKGF_01119	CDS	1179				hypothetical protein
+CEMEIKGF_01120	gene	1329	allB			
+CEMEIKGF_01120	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+CEMEIKGF_01121	gene	849				
+CEMEIKGF_01121	CDS	849				hypothetical protein
+CEMEIKGF_01122	gene	429				
+CEMEIKGF_01122	CDS	429				hypothetical protein
+CEMEIKGF_01123	gene	339				
+CEMEIKGF_01123	CDS	339				hypothetical protein
+CEMEIKGF_01124	gene	465	queF			
+CEMEIKGF_01124	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+CEMEIKGF_01125	gene	1017				
+CEMEIKGF_01125	CDS	1017				hypothetical protein
+CEMEIKGF_01126	gene	123				
+CEMEIKGF_01126	CDS	123				hypothetical protein
+CEMEIKGF_01127	gene	132				
+CEMEIKGF_01127	CDS	132				hypothetical protein
+CEMEIKGF_01128	gene	1518				
+CEMEIKGF_01128	CDS	1518				hypothetical protein
+CEMEIKGF_01129	gene	483				
+CEMEIKGF_01129	CDS	483			COG3039	IS5 family transposase ISPta1
+CEMEIKGF_01130	gene	378				
+CEMEIKGF_01130	CDS	378			COG3039	IS5 family transposase ISPta1
+CEMEIKGF_01131	gene	555	polC			
+CEMEIKGF_01131	CDS	555	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+CEMEIKGF_01132	gene	99				
+CEMEIKGF_01132	CDS	99				hypothetical protein
+CEMEIKGF_01133	gene	2943				
+CEMEIKGF_01133	CDS	2943				hypothetical protein
+CEMEIKGF_01134	gene	570	purN			
+CEMEIKGF_01134	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+CEMEIKGF_01135	gene	489				
+CEMEIKGF_01135	CDS	489				hypothetical protein
+CEMEIKGF_01136	gene	618	pth			
+CEMEIKGF_01136	CDS	618	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+CEMEIKGF_01137	gene	612	ctc			
+CEMEIKGF_01137	CDS	612	ctc		COG1825	General stress protein CTC
+CEMEIKGF_01138	gene	1002	nusB			
+CEMEIKGF_01138	CDS	1002	nusB			Transcription antitermination protein NusB
+CEMEIKGF_01139	gene	330				
+CEMEIKGF_01139	CDS	330				hypothetical protein
+CEMEIKGF_01140	gene	987				
+CEMEIKGF_01140	CDS	987				hypothetical protein
+CEMEIKGF_01141	gene	561	coaE			
+CEMEIKGF_01141	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+CEMEIKGF_01142	gene	444				
+CEMEIKGF_01142	CDS	444				hypothetical protein
+CEMEIKGF_01143	gene	249				
+CEMEIKGF_01143	CDS	249				hypothetical protein
+CEMEIKGF_01144	gene	1062				
+CEMEIKGF_01144	CDS	1062				hypothetical protein
+CEMEIKGF_01145	gene	933	yrbG			
+CEMEIKGF_01145	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+CEMEIKGF_01146	gene	831	resA_5			
+CEMEIKGF_01146	CDS	831	resA_5			Thiol-disulfide oxidoreductase ResA
+CEMEIKGF_01147	gene	1071	aroB			
+CEMEIKGF_01147	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+CEMEIKGF_01148	gene	222				
+CEMEIKGF_01148	CDS	222				hypothetical protein
+CEMEIKGF_01149	gene	2319				
+CEMEIKGF_01149	CDS	2319				hypothetical protein
+CEMEIKGF_01150	gene	522				
+CEMEIKGF_01150	CDS	522				hypothetical protein
+CEMEIKGF_01151	gene	852				
+CEMEIKGF_01151	CDS	852				hypothetical protein
+CEMEIKGF_01152	gene	1971	ftsH_1			
+CEMEIKGF_01152	CDS	1971	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+CEMEIKGF_01153	gene	360	rsfS			
+CEMEIKGF_01153	CDS	360	rsfS		COG0799	Ribosomal silencing factor RsfS
+CEMEIKGF_01154	gene	72				
+CEMEIKGF_01154	tRNA	72				tRNA-Gln(ctg)
+CEMEIKGF_01155	gene	1854				
+CEMEIKGF_01155	CDS	1854				hypothetical protein
+CEMEIKGF_01156	gene	927				
+CEMEIKGF_01156	CDS	927				hypothetical protein
+CEMEIKGF_01157	gene	141				
+CEMEIKGF_01157	CDS	141				hypothetical protein
+CEMEIKGF_01158	gene	1461	pepD_2			
+CEMEIKGF_01158	CDS	1461	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+CEMEIKGF_01159	gene	963				
+CEMEIKGF_01159	CDS	963				hypothetical protein
+CEMEIKGF_01160	gene	1149	lpxB			
+CEMEIKGF_01160	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+CEMEIKGF_01161	gene	774	surE			
+CEMEIKGF_01161	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+CEMEIKGF_01162	gene	99				
+CEMEIKGF_01162	CDS	99				hypothetical protein
+CEMEIKGF_01163	gene	762	soj			
+CEMEIKGF_01163	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+CEMEIKGF_01164	gene	900	parB			
+CEMEIKGF_01164	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+CEMEIKGF_01165	gene	765				
+CEMEIKGF_01165	CDS	765				hypothetical protein
+CEMEIKGF_01166	gene	1536				
+CEMEIKGF_01166	CDS	1536				hypothetical protein
+CEMEIKGF_01167	gene	2286	relA_2			
+CEMEIKGF_01167	CDS	2286	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+CEMEIKGF_01168	gene	348				
+CEMEIKGF_01168	CDS	348				hypothetical protein
+CEMEIKGF_01169	gene	2826	alaS			
+CEMEIKGF_01169	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+CEMEIKGF_01170	gene	1023	recA			
+CEMEIKGF_01170	CDS	1023	recA			Protein RecA
+CEMEIKGF_01171	gene	1305				
+CEMEIKGF_01171	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+CEMEIKGF_01172	gene	597				
+CEMEIKGF_01172	CDS	597				hypothetical protein
+CEMEIKGF_01173	gene	849				
+CEMEIKGF_01173	CDS	849				hypothetical protein
+CEMEIKGF_01174	gene	1347	nhaD			
+CEMEIKGF_01174	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+CEMEIKGF_01175	gene	912				
+CEMEIKGF_01175	CDS	912				hypothetical protein
+CEMEIKGF_01176	gene	558	rsmD			
+CEMEIKGF_01176	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+CEMEIKGF_01177	gene	861				
+CEMEIKGF_01177	CDS	861				hypothetical protein
+CEMEIKGF_01178	gene	492				
+CEMEIKGF_01178	CDS	492				hypothetical protein
+CEMEIKGF_01179	gene	1440	recD2_1			
+CEMEIKGF_01179	CDS	1440	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+CEMEIKGF_01180	gene	579				
+CEMEIKGF_01180	CDS	579				hypothetical protein
+CEMEIKGF_01181	gene	1038	nrnA			
+CEMEIKGF_01181	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+CEMEIKGF_01182	gene	339	dnaG_1			
+CEMEIKGF_01182	CDS	339	dnaG_1	2.7.7.-	COG0358	DNA primase
+CEMEIKGF_01183	gene	1938	dnaG_2			
+CEMEIKGF_01183	CDS	1938	dnaG_2	2.7.7.-		DNA primase
+CEMEIKGF_01184	gene	330	queD			
+CEMEIKGF_01184	CDS	330	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+CEMEIKGF_01185	gene	660	queE			
+CEMEIKGF_01185	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+CEMEIKGF_01186	gene	1410	clsA			
+CEMEIKGF_01186	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+CEMEIKGF_01187	gene	2373	bamA_2			
+CEMEIKGF_01187	CDS	2373	bamA_2			Outer membrane protein assembly factor BamA
+CEMEIKGF_01188	gene	4644				
+CEMEIKGF_01188	CDS	4644				hypothetical protein
+CEMEIKGF_01189	gene	723				
+CEMEIKGF_01189	CDS	723				hypothetical protein
+CEMEIKGF_01190	gene	672	rluD_3			
+CEMEIKGF_01190	CDS	672	rluD_3	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+CEMEIKGF_01191	gene	747	fabG			
+CEMEIKGF_01191	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+CEMEIKGF_01192	gene	612				
+CEMEIKGF_01192	CDS	612				hypothetical protein
+CEMEIKGF_01193	gene	74				
+CEMEIKGF_01193	tRNA	74				tRNA-Met(cat)
+CEMEIKGF_01194	gene	129				
+CEMEIKGF_01194	CDS	129				hypothetical protein
+CEMEIKGF_01195	gene	486				
+CEMEIKGF_01195	CDS	486				hypothetical protein
+CEMEIKGF_01196	gene	174				
+CEMEIKGF_01196	CDS	174				hypothetical protein
+CEMEIKGF_01197	gene	1089	chuR			
+CEMEIKGF_01197	CDS	1089	chuR	1.1.99.-	COG0641	Anaerobic sulfatase-maturating enzyme
+CEMEIKGF_01198	gene	1236	moaA_2			
+CEMEIKGF_01198	CDS	1236	moaA_2			GTP 3',8-cyclase
+CEMEIKGF_01199	gene	966	moaA_3			
+CEMEIKGF_01199	CDS	966	moaA_3			GTP 3',8-cyclase
+CEMEIKGF_01200	gene	1026				
+CEMEIKGF_01200	CDS	1026				hypothetical protein
+CEMEIKGF_01201	gene	96				
+CEMEIKGF_01201	CDS	96				hypothetical protein
+CEMEIKGF_01202	gene	774	rfaH			
+CEMEIKGF_01202	CDS	774	rfaH			Transcription antitermination protein RfaH
+CEMEIKGF_01203	gene	120				
+CEMEIKGF_01203	CDS	120				hypothetical protein
+CEMEIKGF_01204	gene	804				
+CEMEIKGF_01204	CDS	804				hypothetical protein
+CEMEIKGF_01205	gene	1413	ispG			
+CEMEIKGF_01205	CDS	1413	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+CEMEIKGF_01206	gene	507	purE			
+CEMEIKGF_01206	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+CEMEIKGF_01207	gene	630				
+CEMEIKGF_01207	CDS	630				hypothetical protein
+CEMEIKGF_01208	gene	1506	rpoN			
+CEMEIKGF_01208	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+CEMEIKGF_01209	gene	645				
+CEMEIKGF_01209	CDS	645				hypothetical protein
+CEMEIKGF_01210	gene	1089				
+CEMEIKGF_01210	CDS	1089				hypothetical protein
+CEMEIKGF_01211	gene	990	nadA			
+CEMEIKGF_01211	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+CEMEIKGF_01212	gene	1395				
+CEMEIKGF_01212	CDS	1395				hypothetical protein
+CEMEIKGF_01213	gene	2379				
+CEMEIKGF_01213	CDS	2379				hypothetical protein
+CEMEIKGF_01214	gene	2139				
+CEMEIKGF_01214	CDS	2139				hypothetical protein
+CEMEIKGF_01215	gene	897				
+CEMEIKGF_01215	CDS	897				hypothetical protein
+CEMEIKGF_01216	gene	609				
+CEMEIKGF_01216	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+CEMEIKGF_01217	gene	969				
+CEMEIKGF_01217	CDS	969				hypothetical protein
+CEMEIKGF_01218	gene	2874	leuS			
+CEMEIKGF_01218	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+CEMEIKGF_01219	gene	126				
+CEMEIKGF_01219	CDS	126				hypothetical protein
+CEMEIKGF_01220	gene	642				
+CEMEIKGF_01220	CDS	642				hypothetical protein
+CEMEIKGF_01221	gene	633	pflA			
+CEMEIKGF_01221	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+CEMEIKGF_01222	gene	1104	ychF			
+CEMEIKGF_01222	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+CEMEIKGF_01223	gene	849	lgt			
+CEMEIKGF_01223	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+CEMEIKGF_01224	gene	2628	mutS_1			
+CEMEIKGF_01224	CDS	2628	mutS_1		COG0249	DNA mismatch repair protein MutS
+CEMEIKGF_01225	gene	1575				
+CEMEIKGF_01225	CDS	1575				hypothetical protein
+CEMEIKGF_01226	gene	1131	capA			
+CEMEIKGF_01226	CDS	1131	capA			Capsule biosynthesis protein CapA
+CEMEIKGF_01227	gene	2766	polA			
+CEMEIKGF_01227	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+CEMEIKGF_01228	gene	978	sdsA			
+CEMEIKGF_01228	CDS	978	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+CEMEIKGF_01229	gene	606				
+CEMEIKGF_01229	CDS	606				hypothetical protein
+CEMEIKGF_01230	gene	891	deoC			
+CEMEIKGF_01230	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+CEMEIKGF_01231	gene	393	ypjD			
+CEMEIKGF_01231	CDS	393	ypjD		COG1694	putative protein YpjD
+CEMEIKGF_01232	gene	453	dtd			
+CEMEIKGF_01232	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+CEMEIKGF_01233	gene	1836	uvrC			
+CEMEIKGF_01233	CDS	1836	uvrC		COG0322	UvrABC system protein C
+CEMEIKGF_01234	gene	531	apt			
+CEMEIKGF_01234	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+CEMEIKGF_01235	gene	1953	mnmG			
+CEMEIKGF_01235	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+CEMEIKGF_01236	gene	690				
+CEMEIKGF_01236	CDS	690				hypothetical protein
+CEMEIKGF_01237	gene	1983	frdA			
+CEMEIKGF_01237	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+CEMEIKGF_01238	gene	756	frdB			
+CEMEIKGF_01238	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+CEMEIKGF_01239	gene	513				
+CEMEIKGF_01239	CDS	513				hypothetical protein
+CEMEIKGF_01240	gene	168				
+CEMEIKGF_01240	CDS	168				hypothetical protein
+CEMEIKGF_01241	gene	594				
+CEMEIKGF_01241	CDS	594				hypothetical protein
+CEMEIKGF_01242	gene	708				
+CEMEIKGF_01242	CDS	708				hypothetical protein
+CEMEIKGF_01243	gene	1866	deaD_2			
+CEMEIKGF_01243	CDS	1866	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+CEMEIKGF_01244	gene	1377				
+CEMEIKGF_01244	CDS	1377				hypothetical protein
+CEMEIKGF_01245	gene	1227				
+CEMEIKGF_01245	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+CEMEIKGF_01246	gene	426				
+CEMEIKGF_01246	CDS	426				hypothetical protein
+CEMEIKGF_01247	gene	822	dapB			
+CEMEIKGF_01247	CDS	822	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+CEMEIKGF_01248	gene	1440				
+CEMEIKGF_01248	CDS	1440				hypothetical protein
+CEMEIKGF_01249	gene	411				
+CEMEIKGF_01249	CDS	411				hypothetical protein
+CEMEIKGF_01250	gene	606				
+CEMEIKGF_01250	CDS	606				hypothetical protein
+CEMEIKGF_01251	gene	1218	pyrP			
+CEMEIKGF_01251	CDS	1218	pyrP			Uracil permease
+CEMEIKGF_01252	gene	744				
+CEMEIKGF_01252	CDS	744				hypothetical protein
+CEMEIKGF_01253	gene	1296	adeP			
+CEMEIKGF_01253	CDS	1296	adeP		COG2252	Adenine permease AdeP
+CEMEIKGF_01254	gene	1887				
+CEMEIKGF_01254	CDS	1887				hypothetical protein
+CEMEIKGF_01255	gene	468				
+CEMEIKGF_01255	CDS	468				hypothetical protein
+CEMEIKGF_01256	gene	2115				
+CEMEIKGF_01256	CDS	2115				hypothetical protein
+CEMEIKGF_01257	gene	102				
+CEMEIKGF_01257	CDS	102				hypothetical protein
+CEMEIKGF_01258	gene	450				
+CEMEIKGF_01258	CDS	450				hypothetical protein
+CEMEIKGF_01259	gene	786	tcdA			
+CEMEIKGF_01259	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+CEMEIKGF_01260	gene	558				
+CEMEIKGF_01260	CDS	558				hypothetical protein
+CEMEIKGF_01261	gene	135				
+CEMEIKGF_01261	CDS	135				hypothetical protein
+CEMEIKGF_01262	gene	1161				
+CEMEIKGF_01262	CDS	1161				hypothetical protein
+CEMEIKGF_01263	gene	906				
+CEMEIKGF_01263	CDS	906				IS1595 family transposase ISCco4
+CEMEIKGF_01264	gene	1599				
+CEMEIKGF_01264	CDS	1599				hypothetical protein
+CEMEIKGF_01265	gene	1230				
+CEMEIKGF_01265	CDS	1230				hypothetical protein
+CEMEIKGF_01266	gene	4773				
+CEMEIKGF_01266	CDS	4773				hypothetical protein
+CEMEIKGF_01267	gene	264				
+CEMEIKGF_01267	CDS	264				hypothetical protein
+CEMEIKGF_01268	gene	291				
+CEMEIKGF_01268	CDS	291				hypothetical protein
+CEMEIKGF_01269	gene	651				
+CEMEIKGF_01269	CDS	651				hypothetical protein
+CEMEIKGF_01270	gene	852				
+CEMEIKGF_01270	CDS	852				hypothetical protein
+CEMEIKGF_01271	gene	1038	wbbI			
+CEMEIKGF_01271	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+CEMEIKGF_01272	gene	726				
+CEMEIKGF_01272	CDS	726				hypothetical protein
+CEMEIKGF_01273	gene	717				
+CEMEIKGF_01273	CDS	717				hypothetical protein
+CEMEIKGF_01274	gene	2127	dpp7			
+CEMEIKGF_01274	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+CEMEIKGF_01275	gene	1473				
+CEMEIKGF_01275	CDS	1473				hypothetical protein
+CEMEIKGF_01276	gene	1233				
+CEMEIKGF_01276	CDS	1233				hypothetical protein
+CEMEIKGF_01277	gene	1029				
+CEMEIKGF_01277	CDS	1029				hypothetical protein
+CEMEIKGF_01278	gene	1755				
+CEMEIKGF_01278	CDS	1755				hypothetical protein
+CEMEIKGF_01279	gene	468	asnC_2			
+CEMEIKGF_01279	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+CEMEIKGF_01280	gene	912				
+CEMEIKGF_01280	CDS	912				hypothetical protein
+CEMEIKGF_01281	gene	1173	cpdA			
+CEMEIKGF_01281	CDS	1173	cpdA	3.1.4.53		3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+CEMEIKGF_01282	gene	750				
+CEMEIKGF_01282	CDS	750				hypothetical protein
+CEMEIKGF_01283	gene	75				
+CEMEIKGF_01283	tRNA	75				tRNA-His(gtg)
+CEMEIKGF_01284	gene	213				
+CEMEIKGF_01284	CDS	213				hypothetical protein
+CEMEIKGF_01285	gene	1047				
+CEMEIKGF_01285	CDS	1047				hypothetical protein
+CEMEIKGF_01286	gene	1560				
+CEMEIKGF_01286	CDS	1560				hypothetical protein
+CEMEIKGF_01287	gene	900				
+CEMEIKGF_01287	CDS	900				hypothetical protein
+CEMEIKGF_01288	gene	264				
+CEMEIKGF_01288	CDS	264				hypothetical protein
+CEMEIKGF_01289	gene	1254				
+CEMEIKGF_01289	CDS	1254				hypothetical protein
+CEMEIKGF_01290	gene	168				
+CEMEIKGF_01290	CDS	168				hypothetical protein
+CEMEIKGF_01291	gene	639				
+CEMEIKGF_01291	CDS	639				hypothetical protein
+CEMEIKGF_01292	gene	90				
+CEMEIKGF_01292	CDS	90				hypothetical protein
+CEMEIKGF_01293	gene	294				
+CEMEIKGF_01293	CDS	294				hypothetical protein
+CEMEIKGF_01294	gene	687				
+CEMEIKGF_01294	CDS	687				hypothetical protein
+CEMEIKGF_01295	gene	1302				
+CEMEIKGF_01295	CDS	1302				hypothetical protein
+CEMEIKGF_01296	gene	387				
+CEMEIKGF_01296	CDS	387				hypothetical protein
+CEMEIKGF_01297	gene	459				
+CEMEIKGF_01297	CDS	459				hypothetical protein
+CEMEIKGF_01298	gene	849				
+CEMEIKGF_01298	CDS	849				hypothetical protein
+CEMEIKGF_01299	gene	1914	dnaK			
+CEMEIKGF_01299	CDS	1914	dnaK		COG0443	Chaperone protein DnaK
+CEMEIKGF_01300	gene	318				
+CEMEIKGF_01300	CDS	318				hypothetical protein
+CEMEIKGF_01301	gene	810				
+CEMEIKGF_01301	CDS	810				hypothetical protein
+CEMEIKGF_01302	gene	996				
+CEMEIKGF_01302	CDS	996				hypothetical protein
+CEMEIKGF_01303	gene	774	trmB			
+CEMEIKGF_01303	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+CEMEIKGF_01304	gene	2205				
+CEMEIKGF_01304	CDS	2205				hypothetical protein
+CEMEIKGF_01305	gene	1086				
+CEMEIKGF_01305	CDS	1086				hypothetical protein
+CEMEIKGF_01306	gene	1245	ybhR_2			
+CEMEIKGF_01306	CDS	1245	ybhR_2		COG0842	putative multidrug ABC transporter permease YbhR
+CEMEIKGF_01307	gene	1182				
+CEMEIKGF_01307	CDS	1182				hypothetical protein
+CEMEIKGF_01308	gene	987	emrA			
+CEMEIKGF_01308	CDS	987	emrA			Colistin resistance protein EmrA
+CEMEIKGF_01309	gene	1482				
+CEMEIKGF_01309	CDS	1482				hypothetical protein
+CEMEIKGF_01310	gene	873				
+CEMEIKGF_01310	CDS	873				hypothetical protein
+CEMEIKGF_01311	gene	216				
+CEMEIKGF_01311	CDS	216				hypothetical protein
+CEMEIKGF_01312	gene	1566	cydA			
+CEMEIKGF_01312	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+CEMEIKGF_01313	gene	1143	cydB			
+CEMEIKGF_01313	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+CEMEIKGF_01314	gene	963	manA			
+CEMEIKGF_01314	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+CEMEIKGF_01315	gene	1458	trkH			
+CEMEIKGF_01315	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+CEMEIKGF_01316	gene	1353	trkA			
+CEMEIKGF_01316	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+CEMEIKGF_01317	gene	2082	dxs			
+CEMEIKGF_01317	CDS	2082	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+CEMEIKGF_01318	gene	1098	apbC			
+CEMEIKGF_01318	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+CEMEIKGF_01319	gene	768				
+CEMEIKGF_01319	CDS	768				hypothetical protein
+CEMEIKGF_01320	gene	678	walR			
+CEMEIKGF_01320	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+CEMEIKGF_01321	gene	1686				
+CEMEIKGF_01321	CDS	1686				hypothetical protein
+CEMEIKGF_01322	gene	741				
+CEMEIKGF_01322	CDS	741				hypothetical protein
+CEMEIKGF_01323	gene	2016				
+CEMEIKGF_01323	CDS	2016				hypothetical protein
+CEMEIKGF_01324	gene	261				
+CEMEIKGF_01324	CDS	261				hypothetical protein
+CEMEIKGF_01325	gene	1266				
+CEMEIKGF_01325	CDS	1266				hypothetical protein
+CEMEIKGF_01326	gene	1002				
+CEMEIKGF_01326	CDS	1002				hypothetical protein
+CEMEIKGF_01327	gene	180				
+CEMEIKGF_01327	CDS	180				hypothetical protein
+CEMEIKGF_01328	gene	3591				
+CEMEIKGF_01328	CDS	3591				hypothetical protein
+CEMEIKGF_01329	gene	177				
+CEMEIKGF_01329	CDS	177				hypothetical protein
+CEMEIKGF_01330	gene	678				
+CEMEIKGF_01330	CDS	678				hypothetical protein
+CEMEIKGF_01331	gene	498				
+CEMEIKGF_01331	CDS	498				hypothetical protein
+CEMEIKGF_01332	gene	5436				
+CEMEIKGF_01332	CDS	5436				hypothetical protein
+CEMEIKGF_01333	gene	807				
+CEMEIKGF_01333	CDS	807				hypothetical protein
+CEMEIKGF_01334	gene	2667				
+CEMEIKGF_01334	CDS	2667				hypothetical protein
+CEMEIKGF_01335	gene	2808				
+CEMEIKGF_01335	CDS	2808				hypothetical protein
+CEMEIKGF_01336	gene	3597				
+CEMEIKGF_01336	CDS	3597				hypothetical protein
+CEMEIKGF_01337	gene	1326				
+CEMEIKGF_01337	CDS	1326				hypothetical protein
+CEMEIKGF_01338	gene	1449				
+CEMEIKGF_01338	CDS	1449				hypothetical protein
+CEMEIKGF_01339	gene	663				
+CEMEIKGF_01339	CDS	663				hypothetical protein
+CEMEIKGF_01340	gene	1089				
+CEMEIKGF_01340	CDS	1089				hypothetical protein
+CEMEIKGF_01341	gene	936				
+CEMEIKGF_01341	CDS	936				hypothetical protein
+CEMEIKGF_01342	gene	306				
+CEMEIKGF_01342	CDS	306				hypothetical protein
+CEMEIKGF_01343	gene	228				
+CEMEIKGF_01343	CDS	228				hypothetical protein
+CEMEIKGF_01344	gene	222				
+CEMEIKGF_01344	CDS	222				hypothetical protein
+CEMEIKGF_01345	gene	288				
+CEMEIKGF_01345	CDS	288				hypothetical protein
+CEMEIKGF_01346	gene	138				
+CEMEIKGF_01346	CDS	138				hypothetical protein
+CEMEIKGF_01347	gene	96				
+CEMEIKGF_01347	CDS	96				hypothetical protein
+CEMEIKGF_01348	gene	759				
+CEMEIKGF_01348	CDS	759				hypothetical protein
+CEMEIKGF_01349	gene	1074	adh			
+CEMEIKGF_01349	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+CEMEIKGF_01350	gene	261				
+CEMEIKGF_01350	CDS	261				hypothetical protein
+CEMEIKGF_01351	gene	606				
+CEMEIKGF_01351	CDS	606				hypothetical protein
+CEMEIKGF_01352	gene	1497	nrfA			
+CEMEIKGF_01352	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+CEMEIKGF_01353	gene	1311				
+CEMEIKGF_01353	CDS	1311				hypothetical protein
+CEMEIKGF_01354	gene	798	ccsA			
+CEMEIKGF_01354	CDS	798	ccsA			Cytochrome c biogenesis protein CcsA
+CEMEIKGF_01355	gene	398	ssrA			
+CEMEIKGF_01355	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+CEMEIKGF_01356	gene	636	wecA			
+CEMEIKGF_01356	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+CEMEIKGF_01357	gene	2499				
+CEMEIKGF_01357	CDS	2499				hypothetical protein
+CEMEIKGF_01358	gene	1077				
+CEMEIKGF_01358	CDS	1077				hypothetical protein
+CEMEIKGF_01359	gene	1194				
+CEMEIKGF_01359	CDS	1194				hypothetical protein
+CEMEIKGF_01360	gene	1530				
+CEMEIKGF_01360	CDS	1530				hypothetical protein
+CEMEIKGF_01361	gene	555	dapH_2			
+CEMEIKGF_01361	CDS	555	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+CEMEIKGF_01362	gene	1221				
+CEMEIKGF_01362	CDS	1221				hypothetical protein
+CEMEIKGF_01363	gene	1542				
+CEMEIKGF_01363	CDS	1542				hypothetical protein
+CEMEIKGF_01364	gene	1152	mshA_3			
+CEMEIKGF_01364	CDS	1152	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CEMEIKGF_01365	gene	3417	mfd			
+CEMEIKGF_01365	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+CEMEIKGF_01366	gene	3024				
+CEMEIKGF_01366	CDS	3024				hypothetical protein
+CEMEIKGF_01367	gene	876				
+CEMEIKGF_01367	CDS	876				hypothetical protein
+CEMEIKGF_01368	gene	447				
+CEMEIKGF_01368	CDS	447				hypothetical protein
+CEMEIKGF_01369	gene	474				
+CEMEIKGF_01369	CDS	474				hypothetical protein
+CEMEIKGF_01370	gene	1446				
+CEMEIKGF_01370	CDS	1446				hypothetical protein
+CEMEIKGF_01371	gene	405				
+CEMEIKGF_01371	CDS	405				hypothetical protein
+CEMEIKGF_01372	gene	861				
+CEMEIKGF_01372	CDS	861				hypothetical protein
+CEMEIKGF_01373	gene	1746				
+CEMEIKGF_01373	CDS	1746				hypothetical protein
+CEMEIKGF_01374	gene	510	pspA_2			
+CEMEIKGF_01374	CDS	510	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+CEMEIKGF_01375	gene	1008				
+CEMEIKGF_01375	CDS	1008				hypothetical protein
+CEMEIKGF_01376	gene	465				
+CEMEIKGF_01376	CDS	465				hypothetical protein
+CEMEIKGF_01377	gene	225				
+CEMEIKGF_01377	CDS	225				hypothetical protein
+CEMEIKGF_01378	gene	1107				
+CEMEIKGF_01378	CDS	1107				hypothetical protein
+CEMEIKGF_01379	gene	1914	pglF			
+CEMEIKGF_01379	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+CEMEIKGF_01380	gene	594				
+CEMEIKGF_01380	CDS	594				hypothetical protein
+CEMEIKGF_01381	gene	1197	arnB			
+CEMEIKGF_01381	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+CEMEIKGF_01382	gene	798	tuaG			
+CEMEIKGF_01382	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+CEMEIKGF_01383	gene	1143				
+CEMEIKGF_01383	CDS	1143				hypothetical protein
+CEMEIKGF_01384	gene	1155				
+CEMEIKGF_01384	CDS	1155				hypothetical protein
+CEMEIKGF_01385	gene	909	trxB			
+CEMEIKGF_01385	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+CEMEIKGF_01386	gene	549	bsaA			
+CEMEIKGF_01386	CDS	549	bsaA			Glutathione peroxidase BsaA
+CEMEIKGF_01387	gene	600				
+CEMEIKGF_01387	CDS	600				hypothetical protein
+CEMEIKGF_01388	gene	1242	ugd			
+CEMEIKGF_01388	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+CEMEIKGF_01389	gene	456				
+CEMEIKGF_01389	CDS	456				hypothetical protein
+CEMEIKGF_01390	gene	1563				
+CEMEIKGF_01390	CDS	1563				hypothetical protein
+CEMEIKGF_01391	gene	498				
+CEMEIKGF_01391	CDS	498				hypothetical protein
+CEMEIKGF_01392	gene	2223	apxIB_1			
+CEMEIKGF_01392	CDS	2223	apxIB_1		COG2274	Toxin RTX-I translocation ATP-binding protein
+CEMEIKGF_01393	gene	2409				
+CEMEIKGF_01393	CDS	2409				hypothetical protein
+CEMEIKGF_01394	gene	1158	pqqE			
+CEMEIKGF_01394	CDS	1158	pqqE	1.21.98.4		PqqA peptide cyclase
+CEMEIKGF_01395	gene	2310				
+CEMEIKGF_01395	CDS	2310				hypothetical protein
+CEMEIKGF_01396	gene	108				
+CEMEIKGF_01396	CDS	108				hypothetical protein
+CEMEIKGF_01397	gene	816				
+CEMEIKGF_01397	CDS	816				IS982 family transposase IS195
+CEMEIKGF_01398	gene	189				
+CEMEIKGF_01398	CDS	189				hypothetical protein
+CEMEIKGF_01399	gene	906				
+CEMEIKGF_01399	CDS	906				hypothetical protein
+CEMEIKGF_01400	gene	255	rpmE2			
+CEMEIKGF_01400	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+CEMEIKGF_01401	gene	1335				
+CEMEIKGF_01401	CDS	1335				hypothetical protein
+CEMEIKGF_01402	gene	930				
+CEMEIKGF_01402	CDS	930				hypothetical protein
+CEMEIKGF_01403	gene	2562				
+CEMEIKGF_01403	CDS	2562				hypothetical protein
+CEMEIKGF_01404	gene	1038				
+CEMEIKGF_01404	CDS	1038				hypothetical protein
+CEMEIKGF_01405	gene	573				
+CEMEIKGF_01405	CDS	573				hypothetical protein
+CEMEIKGF_01406	gene	636	udk_2			
+CEMEIKGF_01406	CDS	636	udk_2	2.7.1.48		Uridine kinase
+CEMEIKGF_01407	gene	510				
+CEMEIKGF_01407	CDS	510				hypothetical protein
+CEMEIKGF_01408	gene	798				
+CEMEIKGF_01408	CDS	798				hypothetical protein
+CEMEIKGF_01409	gene	411	tsaE			
+CEMEIKGF_01409	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+CEMEIKGF_01410	gene	1569	cheB			
+CEMEIKGF_01410	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+CEMEIKGF_01411	gene	3387	bamD_2			
+CEMEIKGF_01411	CDS	3387	bamD_2			Outer membrane protein assembly factor BamD
+CEMEIKGF_01412	gene	393				
+CEMEIKGF_01412	CDS	393				hypothetical protein
+CEMEIKGF_01413	gene	1251	aroA			
+CEMEIKGF_01413	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+CEMEIKGF_01414	gene	1167				
+CEMEIKGF_01414	CDS	1167				hypothetical protein
+CEMEIKGF_01415	gene	471				
+CEMEIKGF_01415	CDS	471				hypothetical protein
+CEMEIKGF_01416	gene	99				
+CEMEIKGF_01416	CDS	99				hypothetical protein
+CEMEIKGF_01417	gene	840				
+CEMEIKGF_01417	CDS	840				hypothetical protein
+CEMEIKGF_01418	gene	852				
+CEMEIKGF_01418	CDS	852				hypothetical protein
+CEMEIKGF_01419	gene	74				
+CEMEIKGF_01419	tRNA	74				tRNA-Pro(ggg)
+CEMEIKGF_01420	gene	74				
+CEMEIKGF_01420	tRNA	74				tRNA-Lys(ttt)
+CEMEIKGF_01421	gene	1134				
+CEMEIKGF_01421	CDS	1134				hypothetical protein
+CEMEIKGF_01422	gene	600	tdk			
+CEMEIKGF_01422	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+CEMEIKGF_01423	gene	1866				
+CEMEIKGF_01423	CDS	1866				hypothetical protein
+CEMEIKGF_01424	gene	1209	ribBA			
+CEMEIKGF_01424	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+CEMEIKGF_01425	gene	831	tolQ_2			
+CEMEIKGF_01425	CDS	831	tolQ_2			Tol-Pal system protein TolQ
+CEMEIKGF_01426	gene	675				
+CEMEIKGF_01426	CDS	675				hypothetical protein
+CEMEIKGF_01427	gene	648				
+CEMEIKGF_01427	CDS	648				hypothetical protein
+CEMEIKGF_01428	gene	846				
+CEMEIKGF_01428	CDS	846				hypothetical protein
+CEMEIKGF_01429	gene	963				
+CEMEIKGF_01429	CDS	963				hypothetical protein
+CEMEIKGF_01430	gene	1458				
+CEMEIKGF_01430	CDS	1458				hypothetical protein
+CEMEIKGF_01431	gene	1950				
+CEMEIKGF_01431	CDS	1950				hypothetical protein
+CEMEIKGF_01432	gene	423				
+CEMEIKGF_01432	CDS	423				hypothetical protein
+CEMEIKGF_01433	gene	738				
+CEMEIKGF_01433	CDS	738				hypothetical protein
+CEMEIKGF_01434	gene	2559				
+CEMEIKGF_01434	CDS	2559				hypothetical protein
+CEMEIKGF_01435	gene	381	folB			
+CEMEIKGF_01435	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+CEMEIKGF_01436	gene	1185				
+CEMEIKGF_01436	CDS	1185				hypothetical protein
+CEMEIKGF_01437	gene	903				
+CEMEIKGF_01437	CDS	903				hypothetical protein
+CEMEIKGF_01438	gene	1410	dnaA			
+CEMEIKGF_01438	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+CEMEIKGF_01439	gene	471				
+CEMEIKGF_01439	CDS	471				hypothetical protein
+CEMEIKGF_01440	gene	420				
+CEMEIKGF_01440	CDS	420				hypothetical protein
+CEMEIKGF_01441	gene	402				
+CEMEIKGF_01441	CDS	402				hypothetical protein
+CEMEIKGF_01442	gene	75				
+CEMEIKGF_01442	tRNA	75				tRNA-Met(cat)
+CEMEIKGF_01443	gene	3183				
+CEMEIKGF_01443	CDS	3183				TonB-dependent receptor P26
+CEMEIKGF_01444	gene	1494				
+CEMEIKGF_01444	CDS	1494				hypothetical protein
+CEMEIKGF_01445	gene	714				
+CEMEIKGF_01445	CDS	714				hypothetical protein
+CEMEIKGF_01446	gene	519				
+CEMEIKGF_01446	CDS	519				hypothetical protein
+CEMEIKGF_01447	gene	1233				
+CEMEIKGF_01447	CDS	1233				hypothetical protein
+CEMEIKGF_01448	gene	744				
+CEMEIKGF_01448	CDS	744				hypothetical protein
+CEMEIKGF_01449	gene	2394				
+CEMEIKGF_01449	CDS	2394				hypothetical protein
+CEMEIKGF_01450	gene	1965	btuB_4			
+CEMEIKGF_01450	CDS	1965	btuB_4			Vitamin B12 transporter BtuB
+CEMEIKGF_01451	gene	1242				
+CEMEIKGF_01451	CDS	1242				hypothetical protein
+CEMEIKGF_01452	gene	1554				
+CEMEIKGF_01452	CDS	1554				hypothetical protein
+CEMEIKGF_01453	gene	3873				
+CEMEIKGF_01453	CDS	3873				hypothetical protein
+CEMEIKGF_01454	gene	1461	sasA_3			
+CEMEIKGF_01454	CDS	1461	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+CEMEIKGF_01455	gene	177				
+CEMEIKGF_01455	CDS	177				hypothetical protein
+CEMEIKGF_01456	gene	1659				
+CEMEIKGF_01456	CDS	1659				hypothetical protein
+CEMEIKGF_01457	gene	96				
+CEMEIKGF_01457	CDS	96				hypothetical protein
+CEMEIKGF_01458	gene	1524				
+CEMEIKGF_01458	CDS	1524				hypothetical protein
+CEMEIKGF_01459	gene	1647	fumA			
+CEMEIKGF_01459	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+CEMEIKGF_01460	gene	2898				
+CEMEIKGF_01460	CDS	2898				hypothetical protein
+CEMEIKGF_01461	gene	1866				
+CEMEIKGF_01461	CDS	1866				hypothetical protein
+CEMEIKGF_01462	gene	1257	hflX			
+CEMEIKGF_01462	CDS	1257	hflX			GTPase HflX
+CEMEIKGF_01463	gene	792	nagB			
+CEMEIKGF_01463	CDS	792	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+CEMEIKGF_01464	gene	582				
+CEMEIKGF_01464	CDS	582			COG3385	IS4 family transposase ISPg4
+CEMEIKGF_01465	gene	210				
+CEMEIKGF_01465	CDS	210				hypothetical protein
+CEMEIKGF_01466	gene	600				
+CEMEIKGF_01466	CDS	600				hypothetical protein
+CEMEIKGF_01467	gene	840				
+CEMEIKGF_01467	CDS	840				hypothetical protein
+CEMEIKGF_01468	gene	1809	mutS_2			
+CEMEIKGF_01468	CDS	1809	mutS_2			DNA mismatch repair protein MutS
+CEMEIKGF_01469	gene	1182	purH_1			
+CEMEIKGF_01469	CDS	1182	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+CEMEIKGF_01470	gene	192				
+CEMEIKGF_01470	CDS	192				hypothetical protein
+CEMEIKGF_01471	gene	339				
+CEMEIKGF_01471	CDS	339				hypothetical protein
+CEMEIKGF_01472	gene	1200	mgl			
+CEMEIKGF_01472	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+CEMEIKGF_01473	gene	1002	fda			
+CEMEIKGF_01473	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+CEMEIKGF_01474	gene	1077				
+CEMEIKGF_01474	CDS	1077				hypothetical protein
+CEMEIKGF_01475	gene	735				
+CEMEIKGF_01475	CDS	735				hypothetical protein
+CEMEIKGF_01476	gene	1557	nnr			
+CEMEIKGF_01476	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+CEMEIKGF_01477	gene	537	hpt			
+CEMEIKGF_01477	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+CEMEIKGF_01478	gene	567	adk			
+CEMEIKGF_01478	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+CEMEIKGF_01479	gene	1176	obg			
+CEMEIKGF_01479	CDS	1176	obg	3.6.5.-		GTPase Obg
+CEMEIKGF_01480	gene	813				
+CEMEIKGF_01480	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+CEMEIKGF_01481	gene	549				
+CEMEIKGF_01481	CDS	549				hypothetical protein
+CEMEIKGF_01482	gene	150				
+CEMEIKGF_01482	CDS	150				hypothetical protein
+CEMEIKGF_01483	gene	2406	btuB_5			
+CEMEIKGF_01483	CDS	2406	btuB_5			Vitamin B12 transporter BtuB
+CEMEIKGF_01484	gene	576				
+CEMEIKGF_01484	CDS	576				hypothetical protein
+CEMEIKGF_01485	gene	363	rplS			
+CEMEIKGF_01485	CDS	363	rplS		COG0335	50S ribosomal protein L19
+CEMEIKGF_01486	gene	135				
+CEMEIKGF_01486	CDS	135				hypothetical protein
+CEMEIKGF_01487	gene	765				
+CEMEIKGF_01487	CDS	765				hypothetical protein
+CEMEIKGF_01488	gene	843	yfkN			
+CEMEIKGF_01488	CDS	843	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+CEMEIKGF_01489	gene	744				
+CEMEIKGF_01489	CDS	744				hypothetical protein
+CEMEIKGF_01490	gene	168	fdxA			
+CEMEIKGF_01490	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+CEMEIKGF_01491	gene	567				
+CEMEIKGF_01491	CDS	567				hypothetical protein
+CEMEIKGF_01492	gene	711	pyrH			
+CEMEIKGF_01492	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+CEMEIKGF_01493	gene	558				
+CEMEIKGF_01493	CDS	558				hypothetical protein
+CEMEIKGF_01494	gene	732	birA			
+CEMEIKGF_01494	CDS	732	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+CEMEIKGF_01495	gene	453	tadA_2			
+CEMEIKGF_01495	CDS	453	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+CEMEIKGF_01496	gene	846				
+CEMEIKGF_01496	CDS	846				hypothetical protein
+CEMEIKGF_01497	gene	687	rsmI			
+CEMEIKGF_01497	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+CEMEIKGF_01498	gene	1140				
+CEMEIKGF_01498	CDS	1140				hypothetical protein
+CEMEIKGF_01499	gene	1248				
+CEMEIKGF_01499	CDS	1248				hypothetical protein
+CEMEIKGF_01500	gene	438				
+CEMEIKGF_01500	CDS	438				hypothetical protein
+CEMEIKGF_01501	gene	1470	mrdB_2			
+CEMEIKGF_01501	CDS	1470	mrdB_2	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+CEMEIKGF_01502	gene	1851	mrdA			
+CEMEIKGF_01502	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+CEMEIKGF_01503	gene	498				
+CEMEIKGF_01503	CDS	498				hypothetical protein
+CEMEIKGF_01504	gene	867				
+CEMEIKGF_01504	CDS	867				hypothetical protein
+CEMEIKGF_01505	gene	1026	mbl			
+CEMEIKGF_01505	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+CEMEIKGF_01506	gene	600	purH_2			
+CEMEIKGF_01506	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+CEMEIKGF_01507	gene	426	sulD			
+CEMEIKGF_01507	CDS	426	sulD		COG0801	Bifunctional folate synthesis protein
+CEMEIKGF_01508	gene	1119	queA_2			
+CEMEIKGF_01508	CDS	1119	queA_2	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+CEMEIKGF_01509	gene	699	truB			
+CEMEIKGF_01509	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+CEMEIKGF_01510	gene	879	uppP			
+CEMEIKGF_01510	CDS	879	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+CEMEIKGF_01511	gene	249				
+CEMEIKGF_01511	CDS	249				hypothetical protein
+CEMEIKGF_01512	gene	879	ftsX			
+CEMEIKGF_01512	CDS	879	ftsX		COG2177	Cell division protein FtsX
+CEMEIKGF_01513	gene	780				
+CEMEIKGF_01513	CDS	780				hypothetical protein
+CEMEIKGF_01514	gene	621				
+CEMEIKGF_01514	CDS	621				hypothetical protein
+CEMEIKGF_01515	gene	534	yhcG_1			
+CEMEIKGF_01515	CDS	534	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+CEMEIKGF_01516	gene	420	yhcG_2			
+CEMEIKGF_01516	CDS	420	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+CEMEIKGF_01517	gene	270	rpsO			
+CEMEIKGF_01517	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+CEMEIKGF_01518	gene	2508				
+CEMEIKGF_01518	CDS	2508				hypothetical protein
+CEMEIKGF_01519	gene	696	mtnN			
+CEMEIKGF_01519	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+CEMEIKGF_01520	gene	480	luxS			
+CEMEIKGF_01520	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+CEMEIKGF_01521	gene	1425	dinF			
+CEMEIKGF_01521	CDS	1425	dinF		COG0534	DNA damage-inducible protein F
+CEMEIKGF_01522	gene	1851	typA			
+CEMEIKGF_01522	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+CEMEIKGF_01523	gene	435	nudC_3			
+CEMEIKGF_01523	CDS	435	nudC_3	3.6.1.22		NADH pyrophosphatase
+CEMEIKGF_01524	gene	852				
+CEMEIKGF_01524	CDS	852				hypothetical protein
+CEMEIKGF_01525	gene	2409				
+CEMEIKGF_01525	CDS	2409		5.1.1.1		Alanine racemase
+CEMEIKGF_01526	gene	282				
+CEMEIKGF_01526	CDS	282				hypothetical protein
+CEMEIKGF_01527	gene	726				
+CEMEIKGF_01527	CDS	726				hypothetical protein
+CEMEIKGF_01528	gene	687	psd			
+CEMEIKGF_01528	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+CEMEIKGF_01529	gene	3711	dnaE			
+CEMEIKGF_01529	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+CEMEIKGF_01530	gene	315	trxA			
+CEMEIKGF_01530	CDS	315	trxA			Thioredoxin 1
+CEMEIKGF_01531	gene	285				
+CEMEIKGF_01531	CDS	285				hypothetical protein
+CEMEIKGF_01532	gene	4182	cas9			
+CEMEIKGF_01532	CDS	4182	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+CEMEIKGF_01533	gene	933	cas1			
+CEMEIKGF_01533	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+CEMEIKGF_01534	gene	306	cas2			
+CEMEIKGF_01534	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+	repeat_region	2278				
+CEMEIKGF_01535	gene	1035				
+CEMEIKGF_01535	CDS	1035				hypothetical protein
+CEMEIKGF_01536	gene	1458	egtB			
+CEMEIKGF_01536	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+CEMEIKGF_01537	gene	816				
+CEMEIKGF_01537	CDS	816				hypothetical protein
+CEMEIKGF_01538	gene	1557				
+CEMEIKGF_01538	CDS	1557				hypothetical protein
+CEMEIKGF_01539	gene	1026				
+CEMEIKGF_01539	CDS	1026				hypothetical protein
+CEMEIKGF_01540	gene	600				
+CEMEIKGF_01540	CDS	600				hypothetical protein
+CEMEIKGF_01541	gene	597				
+CEMEIKGF_01541	CDS	597				hypothetical protein
+CEMEIKGF_01542	gene	984	menF_2			
+CEMEIKGF_01542	CDS	984	menF_2	5.4.4.2		Isochorismate synthase MenF
+CEMEIKGF_01543	gene	90				
+CEMEIKGF_01543	CDS	90				hypothetical protein
+CEMEIKGF_01544	gene	2271	priA			
+CEMEIKGF_01544	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+CEMEIKGF_01545	gene	900				
+CEMEIKGF_01545	CDS	900				hypothetical protein
+CEMEIKGF_01546	gene	1485				
+CEMEIKGF_01546	CDS	1485				hypothetical protein
+CEMEIKGF_01547	gene	2055	rny_2			
+CEMEIKGF_01547	CDS	2055	rny_2	3.1.-.-		Ribonuclease Y
+CEMEIKGF_01548	gene	1536	gltX			
+CEMEIKGF_01548	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+CEMEIKGF_01549	gene	1260	kdtA			
+CEMEIKGF_01549	CDS	1260	kdtA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+CEMEIKGF_01550	gene	936	eamA			
+CEMEIKGF_01550	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+CEMEIKGF_01551	gene	1788	ftsH_2			
+CEMEIKGF_01551	CDS	1788	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+CEMEIKGF_01552	gene	387				
+CEMEIKGF_01552	CDS	387				hypothetical protein
+CEMEIKGF_01553	gene	498	yrdA			
+CEMEIKGF_01553	CDS	498	yrdA		COG0663	Protein YrdA
+CEMEIKGF_01554	gene	3030				
+CEMEIKGF_01554	CDS	3030				hypothetical protein
+CEMEIKGF_01555	gene	2295				
+CEMEIKGF_01555	CDS	2295				hypothetical protein
+CEMEIKGF_01556	gene	1506				
+CEMEIKGF_01556	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+CEMEIKGF_01557	gene	147				
+CEMEIKGF_01557	CDS	147				hypothetical protein
+CEMEIKGF_01558	gene	1374	tpl			
+CEMEIKGF_01558	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+CEMEIKGF_01559	gene	1674	aspT_2			
+CEMEIKGF_01559	CDS	1674	aspT_2			Aspartate/alanine antiporter
+CEMEIKGF_01560	gene	987	ykoT			
+CEMEIKGF_01560	CDS	987	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+CEMEIKGF_01561	gene	1020	lpxL			
+CEMEIKGF_01561	CDS	1020	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+CEMEIKGF_01562	gene	807				
+CEMEIKGF_01562	CDS	807				hypothetical protein
+CEMEIKGF_01563	gene	1968				
+CEMEIKGF_01563	CDS	1968				hypothetical protein
+CEMEIKGF_01564	gene	1560				
+CEMEIKGF_01564	CDS	1560				hypothetical protein
+CEMEIKGF_01565	gene	594				
+CEMEIKGF_01565	CDS	594				hypothetical protein
+CEMEIKGF_01566	gene	2613				
+CEMEIKGF_01566	CDS	2613				hypothetical protein
+CEMEIKGF_01567	gene	843	murI_1			
+CEMEIKGF_01567	CDS	843	murI_1	5.1.1.3		Glutamate racemase
+CEMEIKGF_01568	gene	633				
+CEMEIKGF_01568	CDS	633				hypothetical protein
+CEMEIKGF_01569	gene	501	skp_1			
+CEMEIKGF_01569	CDS	501	skp_1		COG2825	Chaperone protein Skp
+CEMEIKGF_01570	gene	513				
+CEMEIKGF_01570	CDS	513				hypothetical protein
+CEMEIKGF_01571	gene	2616	bamA_3			
+CEMEIKGF_01571	CDS	2616	bamA_3			Outer membrane protein assembly factor BamA
+CEMEIKGF_01572	gene	750	ispU_1			
+CEMEIKGF_01572	CDS	750	ispU_1	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+CEMEIKGF_01573	gene	705				
+CEMEIKGF_01573	CDS	705				hypothetical protein
+CEMEIKGF_01574	gene	1419				
+CEMEIKGF_01574	CDS	1419				hypothetical protein
+CEMEIKGF_01575	gene	450				
+CEMEIKGF_01575	CDS	450				hypothetical protein
+CEMEIKGF_01576	gene	1008				
+CEMEIKGF_01576	CDS	1008				hypothetical protein
+CEMEIKGF_01577	gene	1059				
+CEMEIKGF_01577	CDS	1059				hypothetical protein
+CEMEIKGF_01578	gene	717	ypdB			
+CEMEIKGF_01578	CDS	717	ypdB		COG3279	Transcriptional regulatory protein YpdB
+CEMEIKGF_01579	gene	102				
+CEMEIKGF_01579	CDS	102				hypothetical protein
+CEMEIKGF_01580	gene	636	nfrA2			
+CEMEIKGF_01580	CDS	636	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+CEMEIKGF_01581	gene	1095				
+CEMEIKGF_01581	CDS	1095				hypothetical protein
+CEMEIKGF_01582	gene	189				
+CEMEIKGF_01582	CDS	189				hypothetical protein
+CEMEIKGF_01583	gene	1443	tuaB_2			
+CEMEIKGF_01583	CDS	1443	tuaB_2		COG2244	Teichuronic acid biosynthesis protein TuaB
+CEMEIKGF_01584	gene	1440				
+CEMEIKGF_01584	CDS	1440				hypothetical protein
+CEMEIKGF_01585	gene	594				
+CEMEIKGF_01585	CDS	594				hypothetical protein
+CEMEIKGF_01586	gene	879				
+CEMEIKGF_01586	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+CEMEIKGF_01587	gene	609				
+CEMEIKGF_01587	CDS	609				hypothetical protein
+CEMEIKGF_01588	gene	567	yajL			
+CEMEIKGF_01588	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+CEMEIKGF_01589	gene	900	nadK			
+CEMEIKGF_01589	CDS	900	nadK	2.7.1.23		NAD kinase
+CEMEIKGF_01590	gene	1683				
+CEMEIKGF_01590	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+CEMEIKGF_01591	gene	1071				
+CEMEIKGF_01591	CDS	1071				hypothetical protein
+CEMEIKGF_01592	gene	1857	cptA			
+CEMEIKGF_01592	CDS	1857	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+CEMEIKGF_01593	gene	804				
+CEMEIKGF_01593	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+CEMEIKGF_01594	gene	1329	mshA_4			
+CEMEIKGF_01594	CDS	1329	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+CEMEIKGF_01595	gene	330				
+CEMEIKGF_01595	CDS	330				hypothetical protein
+CEMEIKGF_01596	gene	603				
+CEMEIKGF_01596	CDS	603				hypothetical protein
+CEMEIKGF_01597	gene	705				
+CEMEIKGF_01597	CDS	705				hypothetical protein
+CEMEIKGF_01598	gene	4299				
+CEMEIKGF_01598	CDS	4299				hypothetical protein
+CEMEIKGF_01599	gene	2229	btuB_6			
+CEMEIKGF_01599	CDS	2229	btuB_6			Vitamin B12 transporter BtuB
+CEMEIKGF_01600	gene	765				
+CEMEIKGF_01600	CDS	765				hypothetical protein
+CEMEIKGF_01601	gene	477	ispF			
+CEMEIKGF_01601	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+CEMEIKGF_01602	gene	1152				
+CEMEIKGF_01602	CDS	1152				hypothetical protein
+CEMEIKGF_01603	gene	96				
+CEMEIKGF_01603	CDS	96				hypothetical protein
+CEMEIKGF_01604	gene	3567				
+CEMEIKGF_01604	CDS	3567				hypothetical protein
+CEMEIKGF_01605	gene	618	ycgM			
+CEMEIKGF_01605	CDS	618	ycgM		COG0179	putative protein YcgM
+CEMEIKGF_01606	gene	999	TSFM			
+CEMEIKGF_01606	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+CEMEIKGF_01607	gene	870	rpsB			
+CEMEIKGF_01607	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+CEMEIKGF_01608	gene	387	rpsI			
+CEMEIKGF_01608	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+CEMEIKGF_01609	gene	462	rplM			
+CEMEIKGF_01609	CDS	462	rplM		COG0102	50S ribosomal protein L13
+CEMEIKGF_01610	gene	1788				
+CEMEIKGF_01610	CDS	1788				hypothetical protein
+CEMEIKGF_01611	gene	1359				
+CEMEIKGF_01611	CDS	1359				hypothetical protein
+CEMEIKGF_01612	gene	192				
+CEMEIKGF_01612	CDS	192				hypothetical protein
+CEMEIKGF_01613	gene	1341				
+CEMEIKGF_01613	CDS	1341				hypothetical protein
+CEMEIKGF_01614	gene	1077				
+CEMEIKGF_01614	CDS	1077				hypothetical protein
+CEMEIKGF_01615	gene	117				
+CEMEIKGF_01615	CDS	117				hypothetical protein
+CEMEIKGF_01616	gene	717				
+CEMEIKGF_01616	CDS	717				hypothetical protein
+CEMEIKGF_01617	gene	633	nadD			
+CEMEIKGF_01617	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+CEMEIKGF_01618	gene	576	gmk			
+CEMEIKGF_01618	CDS	576	gmk	2.7.4.8	COG0194	Guanylate kinase
+CEMEIKGF_01619	gene	1149				
+CEMEIKGF_01619	CDS	1149				hypothetical protein
+CEMEIKGF_01620	gene	879				
+CEMEIKGF_01620	CDS	879				hypothetical protein
+CEMEIKGF_01621	gene	690	tsaB			
+CEMEIKGF_01621	CDS	690	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+CEMEIKGF_01622	gene	612				
+CEMEIKGF_01622	CDS	612				hypothetical protein
+CEMEIKGF_01623	gene	1347	murA			
+CEMEIKGF_01623	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+CEMEIKGF_01624	gene	522	rimM			
+CEMEIKGF_01624	CDS	522	rimM			Ribosome maturation factor RimM
+CEMEIKGF_01625	gene	1155	dxr			
+CEMEIKGF_01625	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+CEMEIKGF_01626	gene	1410				
+CEMEIKGF_01626	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+CEMEIKGF_01627	gene	1296				
+CEMEIKGF_01627	CDS	1296				hypothetical protein
+CEMEIKGF_01628	gene	348				
+CEMEIKGF_01628	CDS	348				hypothetical protein
+CEMEIKGF_01629	gene	702				
+CEMEIKGF_01629	CDS	702				hypothetical protein
+CEMEIKGF_01630	gene	189				
+CEMEIKGF_01630	CDS	189				hypothetical protein
+CEMEIKGF_01631	gene	3063	secD			
+CEMEIKGF_01631	CDS	3063	secD			Protein translocase subunit SecD
+CEMEIKGF_01632	gene	1089				
+CEMEIKGF_01632	CDS	1089				hypothetical protein
+CEMEIKGF_01633	gene	894				
+CEMEIKGF_01633	CDS	894				hypothetical protein
+CEMEIKGF_01634	gene	273	hup_2			
+CEMEIKGF_01634	CDS	273	hup_2			DNA-binding protein HU
+CEMEIKGF_01635	gene	336	rbfA			
+CEMEIKGF_01635	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+CEMEIKGF_01636	gene	1230	lolE_2			
+CEMEIKGF_01636	CDS	1230	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+CEMEIKGF_01637	gene	354				
+CEMEIKGF_01637	CDS	354				hypothetical protein
+CEMEIKGF_01638	gene	4485				
+CEMEIKGF_01638	CDS	4485				hypothetical protein
+CEMEIKGF_01639	gene	1392				
+CEMEIKGF_01639	CDS	1392				hypothetical protein
+CEMEIKGF_01640	gene	825				
+CEMEIKGF_01640	CDS	825				hypothetical protein
+CEMEIKGF_01641	gene	1329				
+CEMEIKGF_01641	CDS	1329				hypothetical protein
+CEMEIKGF_01642	gene	2313	cirA			
+CEMEIKGF_01642	CDS	2313	cirA		COG4771	Colicin I receptor
+CEMEIKGF_01643	gene	717				
+CEMEIKGF_01643	CDS	717				hypothetical protein
+CEMEIKGF_01644	gene	1053				
+CEMEIKGF_01644	CDS	1053				hypothetical protein
+CEMEIKGF_01645	gene	774				
+CEMEIKGF_01645	CDS	774				hypothetical protein
+CEMEIKGF_01646	gene	747				
+CEMEIKGF_01646	CDS	747				hypothetical protein
+CEMEIKGF_01647	gene	138				
+CEMEIKGF_01647	CDS	138				hypothetical protein
+CEMEIKGF_01648	gene	546				
+CEMEIKGF_01648	CDS	546				hypothetical protein
+CEMEIKGF_01649	gene	2802				
+CEMEIKGF_01649	CDS	2802				hypothetical protein
+CEMEIKGF_01650	gene	1641				
+CEMEIKGF_01650	CDS	1641				hypothetical protein
+CEMEIKGF_01651	gene	396				
+CEMEIKGF_01651	CDS	396				hypothetical protein
+CEMEIKGF_01652	gene	1455				
+CEMEIKGF_01652	CDS	1455				hypothetical protein
+CEMEIKGF_01653	gene	2895				
+CEMEIKGF_01653	CDS	2895				hypothetical protein
+CEMEIKGF_01654	gene	552				
+CEMEIKGF_01654	CDS	552				hypothetical protein
+CEMEIKGF_01655	gene	99				
+CEMEIKGF_01655	CDS	99				hypothetical protein
+CEMEIKGF_01656	gene	1977	mdoB_1			
+CEMEIKGF_01656	CDS	1977	mdoB_1	2.7.8.20		Phosphoglycerol transferase I
+CEMEIKGF_01657	gene	1764	arnT			
+CEMEIKGF_01657	CDS	1764	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+CEMEIKGF_01658	gene	516	dps			
+CEMEIKGF_01658	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+CEMEIKGF_01659	gene	660	upp			
+CEMEIKGF_01659	CDS	660	upp	2.4.2.9		Uracil phosphoribosyltransferase
+CEMEIKGF_01660	gene	1614	pckA			
+CEMEIKGF_01660	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+CEMEIKGF_01661	gene	1851	korA_2			
+CEMEIKGF_01661	CDS	1851	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+CEMEIKGF_01662	gene	1002	korB_2			
+CEMEIKGF_01662	CDS	1002	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+CEMEIKGF_01663	gene	2106	recD2_2			
+CEMEIKGF_01663	CDS	2106	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+CEMEIKGF_01664	gene	696				
+CEMEIKGF_01664	CDS	696				hypothetical protein
+CEMEIKGF_01665	gene	96				
+CEMEIKGF_01665	CDS	96				hypothetical protein
+CEMEIKGF_01666	gene	1023	hmuU_2			
+CEMEIKGF_01666	CDS	1023	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+CEMEIKGF_01667	gene	1137				
+CEMEIKGF_01667	CDS	1137				hypothetical protein
+CEMEIKGF_01668	gene	2076	cbiD			
+CEMEIKGF_01668	CDS	2076	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+CEMEIKGF_01669	gene	1767	cysG_1			
+CEMEIKGF_01669	CDS	1767	cysG_1	4.99.1.4		Siroheme synthase
+CEMEIKGF_01670	gene	1233	cbiET			
+CEMEIKGF_01670	CDS	1233	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+CEMEIKGF_01671	gene	1428	cysG_2			
+CEMEIKGF_01671	CDS	1428	cysG_2	4.99.1.4		Siroheme synthase
+CEMEIKGF_01672	gene	198				
+CEMEIKGF_01672	CDS	198				hypothetical protein
+CEMEIKGF_01673	gene	882	xerD_2			
+CEMEIKGF_01673	CDS	882	xerD_2			Tyrosine recombinase XerD
+CEMEIKGF_01674	gene	300	hpf			
+CEMEIKGF_01674	CDS	300	hpf			Ribosome hibernation promoting factor
+CEMEIKGF_01675	gene	75				
+CEMEIKGF_01675	tRNA	75				tRNA-Thr(tgt)
+CEMEIKGF_01676	gene	84				
+CEMEIKGF_01676	tRNA	84				tRNA-Tyr(gta)
+CEMEIKGF_01677	gene	74				
+CEMEIKGF_01677	tRNA	74				tRNA-Gly(tcc)
+CEMEIKGF_01678	gene	73				
+CEMEIKGF_01678	tRNA	73				tRNA-Thr(ggt)
+CEMEIKGF_01679	gene	1185	tufB			
+CEMEIKGF_01679	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+CEMEIKGF_01680	gene	74				
+CEMEIKGF_01680	tRNA	74				tRNA-Trp(cca)
+CEMEIKGF_01681	gene	543	nusG			
+CEMEIKGF_01681	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+CEMEIKGF_01682	gene	438	rplK			
+CEMEIKGF_01682	CDS	438	rplK			50S ribosomal protein L11
+CEMEIKGF_01683	gene	693	rplA			
+CEMEIKGF_01683	CDS	693	rplA			50S ribosomal protein L1
+CEMEIKGF_01684	gene	516	rplJ			
+CEMEIKGF_01684	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+CEMEIKGF_01685	gene	378	rplL			
+CEMEIKGF_01685	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+CEMEIKGF_01686	gene	3813	rpoB			
+CEMEIKGF_01686	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+CEMEIKGF_01687	gene	4329	rpoC			
+CEMEIKGF_01687	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+CEMEIKGF_01688	gene	1089	trpS2			
+CEMEIKGF_01688	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+CEMEIKGF_01689	gene	321				
+CEMEIKGF_01689	CDS	321				hypothetical protein
+CEMEIKGF_01690	gene	630				
+CEMEIKGF_01690	CDS	630				hypothetical protein
+CEMEIKGF_01691	gene	504				
+CEMEIKGF_01691	CDS	504				hypothetical protein
+CEMEIKGF_01692	gene	1491				
+CEMEIKGF_01692	CDS	1491				hypothetical protein
+CEMEIKGF_01693	gene	381	rpsL			
+CEMEIKGF_01693	CDS	381	rpsL			30S ribosomal protein S12
+CEMEIKGF_01694	gene	477	rpsG			
+CEMEIKGF_01694	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+CEMEIKGF_01695	gene	2127	fusA_2			
+CEMEIKGF_01695	CDS	2127	fusA_2		COG0480	Elongation factor G
+CEMEIKGF_01696	gene	306	rpsJ			
+CEMEIKGF_01696	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+CEMEIKGF_01697	gene	615	rplC			
+CEMEIKGF_01697	CDS	615	rplC		COG0087	50S ribosomal protein L3
+CEMEIKGF_01698	gene	630	rplD			
+CEMEIKGF_01698	CDS	630	rplD			50S ribosomal protein L4
+CEMEIKGF_01699	gene	294	rplW			
+CEMEIKGF_01699	CDS	294	rplW		COG0089	50S ribosomal protein L23
+CEMEIKGF_01700	gene	825	rplB			
+CEMEIKGF_01700	CDS	825	rplB		COG0090	50S ribosomal protein L2
+CEMEIKGF_01701	gene	267	rpsS			
+CEMEIKGF_01701	CDS	267	rpsS			30S ribosomal protein S19
+CEMEIKGF_01702	gene	405				
+CEMEIKGF_01702	CDS	405				hypothetical protein
+CEMEIKGF_01703	gene	735	rpsC			
+CEMEIKGF_01703	CDS	735	rpsC		COG0092	30S ribosomal protein S3
+CEMEIKGF_01704	gene	429	rplP			
+CEMEIKGF_01704	CDS	429	rplP		COG0197	50S ribosomal protein L16
+CEMEIKGF_01705	gene	195	rpmC			
+CEMEIKGF_01705	CDS	195	rpmC			50S ribosomal protein L29
+CEMEIKGF_01706	gene	258	rpsQ			
+CEMEIKGF_01706	CDS	258	rpsQ			30S ribosomal protein S17
+CEMEIKGF_01707	gene	366	rplN			
+CEMEIKGF_01707	CDS	366	rplN		COG0093	50S ribosomal protein L14
+CEMEIKGF_01708	gene	321	rplX			
+CEMEIKGF_01708	CDS	321	rplX		COG0198	50S ribosomal protein L24
+CEMEIKGF_01709	gene	555	rplE			
+CEMEIKGF_01709	CDS	555	rplE		COG0094	50S ribosomal protein L5
+CEMEIKGF_01710	gene	303	rpsN			
+CEMEIKGF_01710	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+CEMEIKGF_01711	gene	396	rpsH			
+CEMEIKGF_01711	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+CEMEIKGF_01712	gene	567	rplF			
+CEMEIKGF_01712	CDS	567	rplF		COG0097	50S ribosomal protein L6
+CEMEIKGF_01713	gene	345	rplR			
+CEMEIKGF_01713	CDS	345	rplR		COG0256	50S ribosomal protein L18
+CEMEIKGF_01714	gene	516	rpsE			
+CEMEIKGF_01714	CDS	516	rpsE		COG0098	30S ribosomal protein S5
+CEMEIKGF_01715	gene	177	rpmD			
+CEMEIKGF_01715	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+CEMEIKGF_01716	gene	447	rplO			
+CEMEIKGF_01716	CDS	447	rplO		COG0200	50S ribosomal protein L15
+CEMEIKGF_01717	gene	1338	secY			
+CEMEIKGF_01717	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+CEMEIKGF_01718	gene	750	map_2			
+CEMEIKGF_01718	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+CEMEIKGF_01719	gene	219	infA			
+CEMEIKGF_01719	CDS	219	infA			Translation initiation factor IF-1
+CEMEIKGF_01720	gene	117	ykgO			
+CEMEIKGF_01720	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+CEMEIKGF_01721	gene	381	rpsM			
+CEMEIKGF_01721	CDS	381	rpsM			30S ribosomal protein S13
+CEMEIKGF_01722	gene	387	rpsK			
+CEMEIKGF_01722	CDS	387	rpsK			30S ribosomal protein S11
+CEMEIKGF_01723	gene	609	rpsD			
+CEMEIKGF_01723	CDS	609	rpsD			30S ribosomal protein S4
+CEMEIKGF_01724	gene	993	rpoA			
+CEMEIKGF_01724	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+CEMEIKGF_01725	gene	471				
+CEMEIKGF_01725	CDS	471				hypothetical protein
+CEMEIKGF_01726	gene	834				
+CEMEIKGF_01726	CDS	834				hypothetical protein
+CEMEIKGF_01727	gene	126				
+CEMEIKGF_01727	CDS	126				hypothetical protein
+CEMEIKGF_01728	gene	1371				
+CEMEIKGF_01728	CDS	1371				hypothetical protein
+CEMEIKGF_01729	gene	4716	rep_2			
+CEMEIKGF_01729	CDS	4716	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+CEMEIKGF_01730	gene	387	nudG			
+CEMEIKGF_01730	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+CEMEIKGF_01731	gene	1344	gdhB			
+CEMEIKGF_01731	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+CEMEIKGF_01732	gene	372	rlpA			
+CEMEIKGF_01732	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+CEMEIKGF_01733	gene	786				
+CEMEIKGF_01733	CDS	786				IS982 family transposase IS195
+CEMEIKGF_01734	gene	621				
+CEMEIKGF_01734	CDS	621			COG2826	IS30 family transposase IS4351
+CEMEIKGF_01735	gene	840				
+CEMEIKGF_01735	CDS	840				hypothetical protein
+CEMEIKGF_01736	gene	126				
+CEMEIKGF_01736	CDS	126				hypothetical protein
+CEMEIKGF_01737	gene	651				
+CEMEIKGF_01737	CDS	651				hypothetical protein
+CEMEIKGF_01738	gene	204				
+CEMEIKGF_01738	CDS	204				hypothetical protein
+CEMEIKGF_01739	gene	855				
+CEMEIKGF_01739	CDS	855				hypothetical protein
+CEMEIKGF_01740	gene	1131				
+CEMEIKGF_01740	CDS	1131				hypothetical protein
+CEMEIKGF_01741	gene	984				
+CEMEIKGF_01741	CDS	984		1.-.-.-		Oxidoreductase P35
+CEMEIKGF_01742	gene	76				
+CEMEIKGF_01742	tRNA	76				tRNA-Arg(tct)
+CEMEIKGF_01743	gene	888				
+CEMEIKGF_01743	CDS	888				hypothetical protein
+CEMEIKGF_01744	gene	924				
+CEMEIKGF_01744	CDS	924				hypothetical protein
+CEMEIKGF_01745	gene	729				
+CEMEIKGF_01745	CDS	729				hypothetical protein
+CEMEIKGF_01746	gene	2238				
+CEMEIKGF_01746	CDS	2238				hypothetical protein
+CEMEIKGF_01747	gene	789	rsxB_2			
+CEMEIKGF_01747	CDS	789	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+CEMEIKGF_01748	gene	74				
+CEMEIKGF_01748	tRNA	74				tRNA-Cys(gca)
+CEMEIKGF_01749	gene	204				
+CEMEIKGF_01749	CDS	204				hypothetical protein
+CEMEIKGF_01750	gene	1212				
+CEMEIKGF_01750	CDS	1212				hypothetical protein
+CEMEIKGF_01751	gene	753				
+CEMEIKGF_01751	CDS	753				hypothetical protein
+CEMEIKGF_01752	gene	1065	purR			
+CEMEIKGF_01752	CDS	1065	purR			HTH-type transcriptional repressor PurR
+CEMEIKGF_01753	gene	3516	sasA_4			
+CEMEIKGF_01753	CDS	3516	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+CEMEIKGF_01754	gene	726				
+CEMEIKGF_01754	CDS	726				hypothetical protein
+CEMEIKGF_01755	gene	624				
+CEMEIKGF_01755	CDS	624				hypothetical protein
+CEMEIKGF_01756	gene	1311	dapL			
+CEMEIKGF_01756	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+CEMEIKGF_01757	gene	573				
+CEMEIKGF_01757	CDS	573				hypothetical protein
+CEMEIKGF_01758	gene	1623				
+CEMEIKGF_01758	CDS	1623				hypothetical protein
+CEMEIKGF_01759	gene	738	yafV			
+CEMEIKGF_01759	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+CEMEIKGF_01760	gene	696	infC			
+CEMEIKGF_01760	CDS	696	infC			Translation initiation factor IF-3
+CEMEIKGF_01761	gene	198	rpmI			
+CEMEIKGF_01761	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+CEMEIKGF_01762	gene	345	rplT			
+CEMEIKGF_01762	CDS	345	rplT			50S ribosomal protein L20
+CEMEIKGF_01763	gene	261				
+CEMEIKGF_01763	CDS	261				hypothetical protein
+CEMEIKGF_01764	gene	2217	yhgF			
+CEMEIKGF_01764	CDS	2217	yhgF		COG2183	Protein YhgF
+CEMEIKGF_01765	gene	1953	yheS			
+CEMEIKGF_01765	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+CEMEIKGF_01766	gene	2037	pepO			
+CEMEIKGF_01766	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+CEMEIKGF_01767	gene	1491	algC_2			
+CEMEIKGF_01767	CDS	1491	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+CEMEIKGF_01768	gene	606				
+CEMEIKGF_01768	CDS	606				hypothetical protein
+CEMEIKGF_01769	gene	678				
+CEMEIKGF_01769	CDS	678				hypothetical protein
+CEMEIKGF_01770	gene	585				
+CEMEIKGF_01770	CDS	585				hypothetical protein
+CEMEIKGF_01771	gene	384				
+CEMEIKGF_01771	CDS	384				hypothetical protein
+CEMEIKGF_01772	gene	756	exoA			
+CEMEIKGF_01772	CDS	756	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+CEMEIKGF_01773	gene	318	rplU			
+CEMEIKGF_01773	CDS	318	rplU		COG0261	50S ribosomal protein L21
+CEMEIKGF_01774	gene	264	rpmA			
+CEMEIKGF_01774	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+CEMEIKGF_01775	gene	1317	serS			
+CEMEIKGF_01775	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+CEMEIKGF_01776	gene	2358	pyrK_2			
+CEMEIKGF_01776	CDS	2358	pyrK_2			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+CEMEIKGF_01777	gene	1116				
+CEMEIKGF_01777	CDS	1116				hypothetical protein
+CEMEIKGF_01778	gene	876	deoD			
+CEMEIKGF_01778	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+CEMEIKGF_01779	gene	1032	ltaE			
+CEMEIKGF_01779	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+CEMEIKGF_01780	gene	1374	mnmE			
+CEMEIKGF_01780	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+CEMEIKGF_01781	gene	468				
+CEMEIKGF_01781	CDS	468				hypothetical protein
+CEMEIKGF_01782	gene	387				
+CEMEIKGF_01782	CDS	387				hypothetical protein
+CEMEIKGF_01783	gene	1446				
+CEMEIKGF_01783	CDS	1446				hypothetical protein
+CEMEIKGF_01784	gene	3633				
+CEMEIKGF_01784	CDS	3633				hypothetical protein
+CEMEIKGF_01785	gene	102				
+CEMEIKGF_01785	CDS	102				hypothetical protein
+CEMEIKGF_01786	gene	1140				
+CEMEIKGF_01786	CDS	1140				hypothetical protein
+CEMEIKGF_01787	gene	1314	clpX_2			
+CEMEIKGF_01787	CDS	1314	clpX_2			ATP-dependent Clp protease ATP-binding subunit ClpX
+CEMEIKGF_01788	gene	618				
+CEMEIKGF_01788	CDS	618				hypothetical protein
+CEMEIKGF_01789	gene	717				
+CEMEIKGF_01789	CDS	717				hypothetical protein
+CEMEIKGF_01790	gene	207				
+CEMEIKGF_01790	CDS	207				hypothetical protein
+CEMEIKGF_01791	gene	705	cobB			
+CEMEIKGF_01791	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+CEMEIKGF_01792	gene	2004				
+CEMEIKGF_01792	CDS	2004				hypothetical protein
+CEMEIKGF_01793	gene	534				
+CEMEIKGF_01793	CDS	534				hypothetical protein
+CEMEIKGF_01794	gene	540				
+CEMEIKGF_01794	CDS	540				hypothetical protein
+CEMEIKGF_01795	gene	465	rimP			
+CEMEIKGF_01795	CDS	465	rimP			Ribosome maturation factor RimP
+CEMEIKGF_01796	gene	1257	nusA			
+CEMEIKGF_01796	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+CEMEIKGF_01797	gene	2868	infB			
+CEMEIKGF_01797	CDS	2868	infB			Translation initiation factor IF-2
+CEMEIKGF_01798	gene	1458	sufB			
+CEMEIKGF_01798	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+CEMEIKGF_01799	gene	366				
+CEMEIKGF_01799	CDS	366				hypothetical protein
+CEMEIKGF_01800	gene	756	sufC			
+CEMEIKGF_01800	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+CEMEIKGF_01801	gene	1365	sufD			
+CEMEIKGF_01801	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+CEMEIKGF_01802	gene	1584				
+CEMEIKGF_01802	CDS	1584				hypothetical protein
+CEMEIKGF_01803	gene	1176				
+CEMEIKGF_01803	CDS	1176				hypothetical protein
+CEMEIKGF_01804	gene	597				
+CEMEIKGF_01804	CDS	597				hypothetical protein
+CEMEIKGF_01805	gene	462				
+CEMEIKGF_01805	CDS	462				hypothetical protein
+CEMEIKGF_01806	gene	687				
+CEMEIKGF_01806	CDS	687				hypothetical protein
+CEMEIKGF_01807	gene	582				
+CEMEIKGF_01807	CDS	582				hypothetical protein
+CEMEIKGF_01808	gene	1056				
+CEMEIKGF_01808	CDS	1056			COG3039	IS5 family transposase ISPg8
+CEMEIKGF_01809	gene	441				
+CEMEIKGF_01809	CDS	441				hypothetical protein
+CEMEIKGF_01810	gene	204				
+CEMEIKGF_01810	CDS	204				hypothetical protein
+CEMEIKGF_01811	gene	3012				
+CEMEIKGF_01811	CDS	3012				hypothetical protein
+CEMEIKGF_01812	gene	1176				
+CEMEIKGF_01812	CDS	1176				hypothetical protein
+CEMEIKGF_01813	gene	375				
+CEMEIKGF_01813	CDS	375				hypothetical protein
+CEMEIKGF_01814	gene	2634				
+CEMEIKGF_01814	CDS	2634				hypothetical protein
+CEMEIKGF_01815	gene	1032				
+CEMEIKGF_01815	CDS	1032				hypothetical protein
+CEMEIKGF_01816	gene	354				
+CEMEIKGF_01816	CDS	354				hypothetical protein
+CEMEIKGF_01817	gene	252				
+CEMEIKGF_01817	CDS	252				hypothetical protein
+CEMEIKGF_01818	gene	465				
+CEMEIKGF_01818	CDS	465				hypothetical protein
+CEMEIKGF_01819	gene	1026				
+CEMEIKGF_01819	CDS	1026				hypothetical protein
+CEMEIKGF_01820	gene	1518				
+CEMEIKGF_01820	CDS	1518		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+CEMEIKGF_01821	gene	2307				
+CEMEIKGF_01821	CDS	2307				hypothetical protein
+CEMEIKGF_01822	gene	144				
+CEMEIKGF_01822	CDS	144				hypothetical protein
+CEMEIKGF_01823	gene	76				
+CEMEIKGF_01823	tRNA	76				tRNA-Asn(gtt)
+CEMEIKGF_01824	gene	1734				
+CEMEIKGF_01824	CDS	1734				hypothetical protein
+CEMEIKGF_01825	gene	243				
+CEMEIKGF_01825	CDS	243				hypothetical protein
+CEMEIKGF_01826	gene	1179				
+CEMEIKGF_01826	CDS	1179				hypothetical protein
+CEMEIKGF_01827	gene	1356				
+CEMEIKGF_01827	CDS	1356				hypothetical protein
+CEMEIKGF_01828	gene	936				
+CEMEIKGF_01828	CDS	936				hypothetical protein
+CEMEIKGF_01829	gene	1566				
+CEMEIKGF_01829	CDS	1566				hypothetical protein
+CEMEIKGF_01830	gene	3327				
+CEMEIKGF_01830	CDS	3327				TonB-dependent receptor P26
+CEMEIKGF_01831	gene	291				
+CEMEIKGF_01831	CDS	291				hypothetical protein
+CEMEIKGF_01832	gene	606	rnhB			
+CEMEIKGF_01832	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+CEMEIKGF_01833	gene	1023				
+CEMEIKGF_01833	CDS	1023				hypothetical protein
+CEMEIKGF_01834	gene	2871				
+CEMEIKGF_01834	CDS	2871				hypothetical protein
+CEMEIKGF_01835	gene	2085				
+CEMEIKGF_01835	CDS	2085				hypothetical protein
+CEMEIKGF_01836	gene	507				
+CEMEIKGF_01836	CDS	507				hypothetical protein
+CEMEIKGF_01837	gene	2112	metG			
+CEMEIKGF_01837	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+CEMEIKGF_01838	gene	73				
+CEMEIKGF_01838	tRNA	73				tRNA-Arg(cct)
+CEMEIKGF_01839	gene	450				
+CEMEIKGF_01839	CDS	450				hypothetical protein
+CEMEIKGF_01840	gene	549				
+CEMEIKGF_01840	CDS	549				hypothetical protein
+CEMEIKGF_01841	gene	513	sigJ			
+CEMEIKGF_01841	CDS	513	sigJ			ECF RNA polymerase sigma factor SigJ
+CEMEIKGF_01842	gene	471				
+CEMEIKGF_01842	CDS	471				hypothetical protein
+CEMEIKGF_01843	gene	1353	sufS			
+CEMEIKGF_01843	CDS	1353	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+CEMEIKGF_01844	gene	5739				
+CEMEIKGF_01844	CDS	5739				hypothetical protein
+CEMEIKGF_01845	gene	408				
+CEMEIKGF_01845	CDS	408				hypothetical protein
+CEMEIKGF_01846	gene	219				
+CEMEIKGF_01846	CDS	219				hypothetical protein
+CEMEIKGF_01847	gene	192				
+CEMEIKGF_01847	CDS	192				hypothetical protein
+CEMEIKGF_01848	gene	207				
+CEMEIKGF_01848	CDS	207				hypothetical protein
+CEMEIKGF_01849	gene	1830				
+CEMEIKGF_01849	CDS	1830				hypothetical protein
+CEMEIKGF_01850	gene	111				
+CEMEIKGF_01850	CDS	111				hypothetical protein
+CEMEIKGF_01851	gene	1788				
+CEMEIKGF_01851	CDS	1788				hypothetical protein
+CEMEIKGF_01852	gene	1917				
+CEMEIKGF_01852	CDS	1917				hypothetical protein
+CEMEIKGF_01853	gene	822				
+CEMEIKGF_01853	CDS	822				hypothetical protein
+CEMEIKGF_01854	gene	795	dpnA			
+CEMEIKGF_01854	CDS	795	dpnA	2.1.1.72		Modification methylase DpnIIB
+CEMEIKGF_01855	gene	438				
+CEMEIKGF_01855	CDS	438				hypothetical protein
+CEMEIKGF_01856	gene	1551	dauA			
+CEMEIKGF_01856	CDS	1551	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+CEMEIKGF_01857	gene	1305				
+CEMEIKGF_01857	CDS	1305				hypothetical protein
+CEMEIKGF_01858	gene	159				
+CEMEIKGF_01858	CDS	159				hypothetical protein
+CEMEIKGF_01859	gene	993	mdh			
+CEMEIKGF_01859	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+CEMEIKGF_01860	gene	510				
+CEMEIKGF_01860	CDS	510				hypothetical protein
+CEMEIKGF_01861	gene	414				
+CEMEIKGF_01861	CDS	414				hypothetical protein
+CEMEIKGF_01862	gene	2538				
+CEMEIKGF_01862	CDS	2538				hypothetical protein
+CEMEIKGF_01863	gene	1002				
+CEMEIKGF_01863	CDS	1002				hypothetical protein
+CEMEIKGF_01864	gene	837				
+CEMEIKGF_01864	CDS	837				hypothetical protein
+CEMEIKGF_01865	gene	1413				
+CEMEIKGF_01865	CDS	1413				hypothetical protein
+CEMEIKGF_01866	gene	399				
+CEMEIKGF_01866	CDS	399			COG0537	putative HIT-like protein
+CEMEIKGF_01867	gene	465	greA			
+CEMEIKGF_01867	CDS	465	greA		COG0782	Transcription elongation factor GreA
+CEMEIKGF_01868	gene	75				
+CEMEIKGF_01868	tRNA	75				tRNA-Ala(ggc)
+CEMEIKGF_01869	gene	573				
+CEMEIKGF_01869	CDS	573				hypothetical protein
+CEMEIKGF_01870	gene	1032	cobD_1			
+CEMEIKGF_01870	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+CEMEIKGF_01871	gene	942	cobD_2			
+CEMEIKGF_01871	CDS	942	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+CEMEIKGF_01872	gene	573				
+CEMEIKGF_01872	CDS	573				hypothetical protein
+CEMEIKGF_01873	gene	2130				
+CEMEIKGF_01873	CDS	2130				hypothetical protein
+CEMEIKGF_01874	gene	825				
+CEMEIKGF_01874	CDS	825				hypothetical protein
+CEMEIKGF_01875	gene	696	mprA			
+CEMEIKGF_01875	CDS	696	mprA			Response regulator MprA
+CEMEIKGF_01876	gene	1569	sasA_5			
+CEMEIKGF_01876	CDS	1569	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+CEMEIKGF_01877	gene	2070				
+CEMEIKGF_01877	CDS	2070				hypothetical protein
+CEMEIKGF_01878	gene	222				
+CEMEIKGF_01878	CDS	222				hypothetical protein
+CEMEIKGF_01879	gene	555	cobO			
+CEMEIKGF_01879	CDS	555	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+CEMEIKGF_01880	gene	606				
+CEMEIKGF_01880	CDS	606				hypothetical protein
+CEMEIKGF_01881	gene	1122	apxIB_2			
+CEMEIKGF_01881	CDS	1122	apxIB_2		COG2274	Toxin RTX-I translocation ATP-binding protein
+CEMEIKGF_01882	gene	480				
+CEMEIKGF_01882	CDS	480				hypothetical protein
+CEMEIKGF_01883	gene	1377				
+CEMEIKGF_01883	CDS	1377				hypothetical protein
+CEMEIKGF_01884	gene	693				
+CEMEIKGF_01884	CDS	693				hypothetical protein
+CEMEIKGF_01885	gene	729	ispU_2			
+CEMEIKGF_01885	CDS	729	ispU_2	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+CEMEIKGF_01886	gene	2619	bamA_4			
+CEMEIKGF_01886	CDS	2619	bamA_4			Outer membrane protein assembly factor BamA
+CEMEIKGF_01887	gene	519				
+CEMEIKGF_01887	CDS	519				hypothetical protein
+CEMEIKGF_01888	gene	504	skp_2			
+CEMEIKGF_01888	CDS	504	skp_2		COG2825	Chaperone protein Skp
+CEMEIKGF_01889	gene	510				
+CEMEIKGF_01889	CDS	510				hypothetical protein
+CEMEIKGF_01890	gene	843	murI_2			
+CEMEIKGF_01890	CDS	843	murI_2	5.1.1.3	COG0796	Glutamate racemase
+CEMEIKGF_01891	gene	465	rnhA_2			
+CEMEIKGF_01891	CDS	465	rnhA_2	3.1.26.4	COG3341	Ribonuclease H
+CEMEIKGF_01892	gene	579				
+CEMEIKGF_01892	CDS	579				hypothetical protein
+CEMEIKGF_01893	gene	1821	argS_2			
+CEMEIKGF_01893	CDS	1821	argS_2	6.1.1.19	COG0018	Arginine--tRNA ligase
+CEMEIKGF_01894	gene	1578				
+CEMEIKGF_01894	CDS	1578				hypothetical protein
+CEMEIKGF_01895	gene	708	fepC			
+CEMEIKGF_01895	CDS	708	fepC		COG1120	Ferric enterobactin transport ATP-binding protein FepC
+CEMEIKGF_01896	gene	405				
+CEMEIKGF_01896	CDS	405				hypothetical protein
+CEMEIKGF_01897	gene	1332	miaB_2			
+CEMEIKGF_01897	CDS	1332	miaB_2	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+CEMEIKGF_01898	gene	1860	msbA_1			
+CEMEIKGF_01898	CDS	1860	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+CEMEIKGF_01899	gene	1974	mdoB_2			
+CEMEIKGF_01899	CDS	1974	mdoB_2	2.7.8.20		Phosphoglycerol transferase I
+CEMEIKGF_01900	gene	117				
+CEMEIKGF_01900	CDS	117				hypothetical protein
+CEMEIKGF_01901	gene	888				
+CEMEIKGF_01901	CDS	888				hypothetical protein
+CEMEIKGF_01902	gene	1236	xerC_2			
+CEMEIKGF_01902	CDS	1236	xerC_2			Tyrosine recombinase XerC
+CEMEIKGF_01903	gene	363				
+CEMEIKGF_01903	CDS	363				hypothetical protein
+CEMEIKGF_01904	gene	276				
+CEMEIKGF_01904	CDS	276				hypothetical protein
+CEMEIKGF_01905	gene	258				
+CEMEIKGF_01905	CDS	258				hypothetical protein
+CEMEIKGF_01906	gene	357				
+CEMEIKGF_01906	CDS	357				hypothetical protein
+CEMEIKGF_01907	gene	315				
+CEMEIKGF_01907	CDS	315				hypothetical protein
+CEMEIKGF_01908	gene	1569				
+CEMEIKGF_01908	CDS	1569				hypothetical protein
+CEMEIKGF_01909	gene	2088	topB_2			
+CEMEIKGF_01909	CDS	2088	topB_2	5.6.2.1	COG0550	DNA topoisomerase 3
+CEMEIKGF_01910	gene	453				
+CEMEIKGF_01910	CDS	453				hypothetical protein
+CEMEIKGF_01911	gene	627				
+CEMEIKGF_01911	CDS	627				hypothetical protein
+CEMEIKGF_01912	gene	486				
+CEMEIKGF_01912	CDS	486				hypothetical protein
+CEMEIKGF_01913	gene	1254				
+CEMEIKGF_01913	CDS	1254				hypothetical protein
+CEMEIKGF_01914	gene	1290				
+CEMEIKGF_01914	CDS	1290				hypothetical protein
+CEMEIKGF_01915	gene	816	xerC_3			
+CEMEIKGF_01915	CDS	816	xerC_3			Tyrosine recombinase XerC
+CEMEIKGF_01916	gene	321				
+CEMEIKGF_01916	CDS	321				hypothetical protein
+CEMEIKGF_01917	gene	126				
+CEMEIKGF_01917	CDS	126				hypothetical protein
+CEMEIKGF_01918	gene	168				
+CEMEIKGF_01918	CDS	168				hypothetical protein
+CEMEIKGF_01919	gene	1479	guaB			
+CEMEIKGF_01919	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+CEMEIKGF_01920	gene	1479	surA_2			
+CEMEIKGF_01920	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+CEMEIKGF_01921	gene	1464	surA_3			
+CEMEIKGF_01921	CDS	1464	surA_3	5.2.1.8		Chaperone SurA
+CEMEIKGF_01922	gene	1695	lptD_2			
+CEMEIKGF_01922	CDS	1695	lptD_2			LPS-assembly protein LptD
+CEMEIKGF_01923	gene	273				
+CEMEIKGF_01923	CDS	273				hypothetical protein
+CEMEIKGF_01924	gene	1815	mutL			
+CEMEIKGF_01924	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+CEMEIKGF_01925	gene	1209				
+CEMEIKGF_01925	CDS	1209				Outer membrane protein 40
+CEMEIKGF_01926	gene	76				
+CEMEIKGF_01926	tRNA	76				tRNA-Val(tac)
+CEMEIKGF_01927	gene	76				
+CEMEIKGF_01927	tRNA	76				tRNA-Val(tac)
+CEMEIKGF_01928	gene	1347	purB			
+CEMEIKGF_01928	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+CEMEIKGF_01929	gene	1431				
+CEMEIKGF_01929	CDS	1431				hypothetical protein
+CEMEIKGF_01930	gene	1395	asnS			
+CEMEIKGF_01930	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+CEMEIKGF_01931	gene	198				
+CEMEIKGF_01931	CDS	198				hypothetical protein
+CEMEIKGF_01932	gene	603				
+CEMEIKGF_01932	CDS	603				hypothetical protein
+CEMEIKGF_01933	gene	663	yknY_3			
+CEMEIKGF_01933	CDS	663	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+CEMEIKGF_01934	gene	2202	kefB_2			
+CEMEIKGF_01934	CDS	2202	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+CEMEIKGF_01935	gene	1014	asd			
+CEMEIKGF_01935	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+CEMEIKGF_01936	gene	732				
+CEMEIKGF_01936	CDS	732				hypothetical protein
+CEMEIKGF_01937	gene	1446	pal_3			
+CEMEIKGF_01937	CDS	1446	pal_3			Peptidoglycan-associated lipoprotein
+CEMEIKGF_01938	gene	1230	yciC			
+CEMEIKGF_01938	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+CEMEIKGF_01939	gene	1329				
+CEMEIKGF_01939	CDS	1329				hypothetical protein
+CEMEIKGF_01940	gene	1446	patA_2			
+CEMEIKGF_01940	CDS	1446	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+CEMEIKGF_01941	gene	807				
+CEMEIKGF_01941	CDS	807				hypothetical protein
+CEMEIKGF_01942	gene	693				
+CEMEIKGF_01942	CDS	693				hypothetical protein
+CEMEIKGF_01943	gene	2160				
+CEMEIKGF_01943	CDS	2160				hypothetical protein
+CEMEIKGF_01944	gene	360				
+CEMEIKGF_01944	CDS	360				hypothetical protein
+CEMEIKGF_01945	gene	1074				
+CEMEIKGF_01945	CDS	1074				hypothetical protein
+CEMEIKGF_01946	gene	831				
+CEMEIKGF_01946	CDS	831				hypothetical protein
+CEMEIKGF_01947	gene	720	tarI			
+CEMEIKGF_01947	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+CEMEIKGF_01948	gene	987	fcl_2			
+CEMEIKGF_01948	CDS	987	fcl_2	1.1.1.271		GDP-L-fucose synthase
+CEMEIKGF_01949	gene	927				
+CEMEIKGF_01949	CDS	927				hypothetical protein
+CEMEIKGF_01950	gene	108				
+CEMEIKGF_01950	CDS	108				hypothetical protein
+CEMEIKGF_01951	gene	2385	btuB_7			
+CEMEIKGF_01951	CDS	2385	btuB_7			Vitamin B12 transporter BtuB
+CEMEIKGF_01952	gene	1233				
+CEMEIKGF_01952	CDS	1233				hypothetical protein
+CEMEIKGF_01953	gene	615				
+CEMEIKGF_01953	CDS	615				hypothetical protein
+CEMEIKGF_01954	gene	969				
+CEMEIKGF_01954	CDS	969				hypothetical protein
+CEMEIKGF_01955	gene	2100	recG			
+CEMEIKGF_01955	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+CEMEIKGF_01956	gene	711	ispD			
+CEMEIKGF_01956	CDS	711	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+CEMEIKGF_01957	gene	1299				
+CEMEIKGF_01957	CDS	1299				hypothetical protein
+CEMEIKGF_01958	gene	1032	cytR			
+CEMEIKGF_01958	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+CEMEIKGF_01959	gene	3081	susC			
+CEMEIKGF_01959	CDS	3081	susC			TonB-dependent receptor SusC
+CEMEIKGF_01960	gene	1617	susD			
+CEMEIKGF_01960	CDS	1617	susD			Starch-binding protein SusD
+CEMEIKGF_01961	gene	1122	susE			
+CEMEIKGF_01961	CDS	1122	susE			Outer membrane protein SusE
+CEMEIKGF_01962	gene	1092	susF			
+CEMEIKGF_01962	CDS	1092	susF			Outer membrane protein SusF
+CEMEIKGF_01963	gene	2058				
+CEMEIKGF_01963	CDS	2058				hypothetical protein
+CEMEIKGF_01964	gene	1218				
+CEMEIKGF_01964	CDS	1218				hypothetical protein
+CEMEIKGF_01965	gene	1188	patB			
+CEMEIKGF_01965	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+CEMEIKGF_01966	gene	855				
+CEMEIKGF_01966	CDS	855				hypothetical protein
+CEMEIKGF_01967	gene	612				
+CEMEIKGF_01967	CDS	612				hypothetical protein
+CEMEIKGF_01968	gene	1287				
+CEMEIKGF_01968	CDS	1287				hypothetical protein
+CEMEIKGF_01969	gene	1308				
+CEMEIKGF_01969	CDS	1308				hypothetical protein
+CEMEIKGF_01970	gene	1695				
+CEMEIKGF_01970	CDS	1695				hypothetical protein
+CEMEIKGF_01971	gene	840	pal_4			
+CEMEIKGF_01971	CDS	840	pal_4			Peptidoglycan-associated lipoprotein
+CEMEIKGF_01972	gene	4008	purL			
+CEMEIKGF_01972	CDS	4008	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+CEMEIKGF_01973	gene	552	srpC_1			
+CEMEIKGF_01973	CDS	552	srpC_1		COG2059	putative chromate transport protein
+CEMEIKGF_01974	gene	576	srpC_2			
+CEMEIKGF_01974	CDS	576	srpC_2		COG2059	putative chromate transport protein
+CEMEIKGF_01975	gene	2148	dcp			
+CEMEIKGF_01975	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+CEMEIKGF_01976	gene	1995	glgB_2			
+CEMEIKGF_01976	CDS	1995	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+CEMEIKGF_01977	gene	1959	pulA			
+CEMEIKGF_01977	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+CEMEIKGF_01978	gene	2220	susB			
+CEMEIKGF_01978	CDS	2220	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+CEMEIKGF_01979	gene	2736				
+CEMEIKGF_01979	CDS	2736				hypothetical protein
+CEMEIKGF_01980	gene	237				
+CEMEIKGF_01980	CDS	237				hypothetical protein
+CEMEIKGF_01981	gene	2343				
+CEMEIKGF_01981	CDS	2343				hypothetical protein
+CEMEIKGF_01982	gene	300				
+CEMEIKGF_01982	CDS	300				hypothetical protein
+CEMEIKGF_01983	gene	819	pdxK			
+CEMEIKGF_01983	CDS	819	pdxK	2.7.1.35	COG2240	Pyridoxine/pyridoxal/pyridoxamine kinase
+CEMEIKGF_01984	gene	144				
+CEMEIKGF_01984	CDS	144				hypothetical protein
+CEMEIKGF_01985	gene	1416				
+CEMEIKGF_01985	CDS	1416				hypothetical protein
+CEMEIKGF_01986	gene	2685				
+CEMEIKGF_01986	CDS	2685				hypothetical protein
+CEMEIKGF_01987	gene	1116				
+CEMEIKGF_01987	CDS	1116				hypothetical protein
+CEMEIKGF_01988	gene	1563				
+CEMEIKGF_01988	CDS	1563				hypothetical protein
+CEMEIKGF_01989	gene	444				
+CEMEIKGF_01989	CDS	444				hypothetical protein
+CEMEIKGF_01990	gene	1545				
+CEMEIKGF_01990	CDS	1545				hypothetical protein
+CEMEIKGF_01991	gene	3537				
+CEMEIKGF_01991	CDS	3537				hypothetical protein
+CEMEIKGF_01992	gene	672				
+CEMEIKGF_01992	CDS	672				hypothetical protein
+CEMEIKGF_01993	gene	519				
+CEMEIKGF_01993	CDS	519				hypothetical protein
+CEMEIKGF_01994	gene	885				
+CEMEIKGF_01994	CDS	885				hypothetical protein
+CEMEIKGF_01995	gene	1008				
+CEMEIKGF_01995	CDS	1008				hypothetical protein
+CEMEIKGF_01996	gene	627	trmR			
+CEMEIKGF_01996	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+CEMEIKGF_01997	gene	420	aroQ1			
+CEMEIKGF_01997	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+CEMEIKGF_01998	gene	786				
+CEMEIKGF_01998	CDS	786				hypothetical protein
+CEMEIKGF_01999	gene	2049	bepA_5			
+CEMEIKGF_01999	CDS	2049	bepA_5	3.4.-.-		Beta-barrel assembly-enhancing protease
+CEMEIKGF_02000	gene	960				
+CEMEIKGF_02000	CDS	960				hypothetical protein
+CEMEIKGF_02001	gene	993	rfbB_2			
+CEMEIKGF_02001	CDS	993	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+CEMEIKGF_02002	gene	2238	rnr			
+CEMEIKGF_02002	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+CEMEIKGF_02003	gene	864				
+CEMEIKGF_02003	CDS	864				hypothetical protein
+CEMEIKGF_02004	gene	654				
+CEMEIKGF_02004	CDS	654				hypothetical protein
+CEMEIKGF_02005	gene	1101				
+CEMEIKGF_02005	CDS	1101				hypothetical protein
+CEMEIKGF_02006	gene	714				
+CEMEIKGF_02006	CDS	714				hypothetical protein
+CEMEIKGF_02007	gene	645				
+CEMEIKGF_02007	CDS	645				hypothetical protein
+CEMEIKGF_02008	gene	1632				
+CEMEIKGF_02008	CDS	1632				hypothetical protein
+CEMEIKGF_02009	gene	666				
+CEMEIKGF_02009	CDS	666				hypothetical protein
+CEMEIKGF_02010	gene	2784	cobQ			
+CEMEIKGF_02010	CDS	2784	cobQ			Cobyric acid synthase
+CEMEIKGF_02011	gene	2178	btuB_8			
+CEMEIKGF_02011	CDS	2178	btuB_8			Vitamin B12 transporter BtuB
+CEMEIKGF_02012	gene	2133	btuB_9			
+CEMEIKGF_02012	CDS	2133	btuB_9			Vitamin B12 transporter BtuB
+CEMEIKGF_02013	gene	1140	cbiKp			
+CEMEIKGF_02013	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+CEMEIKGF_02014	gene	291				
+CEMEIKGF_02014	CDS	291				hypothetical protein
+CEMEIKGF_02015	gene	1188	bioF			
+CEMEIKGF_02015	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+CEMEIKGF_02016	gene	903	rhaS_2			
+CEMEIKGF_02016	CDS	903	rhaS_2			HTH-type transcriptional activator RhaS
+CEMEIKGF_02017	gene	510	resA_6			
+CEMEIKGF_02017	CDS	510	resA_6			Thiol-disulfide oxidoreductase ResA
+CEMEIKGF_02018	gene	819				
+CEMEIKGF_02018	CDS	819				hypothetical protein
+CEMEIKGF_02019	gene	2307	maeB			
+CEMEIKGF_02019	CDS	2307	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+CEMEIKGF_02020	gene	3591				
+CEMEIKGF_02020	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+CEMEIKGF_02021	gene	1188				
+CEMEIKGF_02021	CDS	1188				hypothetical protein
+CEMEIKGF_02022	gene	1083				
+CEMEIKGF_02022	CDS	1083				hypothetical protein
+CEMEIKGF_02023	gene	291				
+CEMEIKGF_02023	CDS	291				hypothetical protein
+CEMEIKGF_02024	gene	2202	hppA1			
+CEMEIKGF_02024	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+CEMEIKGF_02025	gene	1101				
+CEMEIKGF_02025	CDS	1101				hypothetical protein
+CEMEIKGF_02026	gene	1443	rlmCD			
+CEMEIKGF_02026	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+CEMEIKGF_02027	gene	252				
+CEMEIKGF_02027	CDS	252				hypothetical protein
+CEMEIKGF_02028	gene	525				
+CEMEIKGF_02028	CDS	525				hypothetical protein
+CEMEIKGF_02029	gene	792				
+CEMEIKGF_02029	CDS	792				IS3 family transposase ISBth167
+CEMEIKGF_02030	gene	1896	sacC			
+CEMEIKGF_02030	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+CEMEIKGF_02031	gene	1155				
+CEMEIKGF_02031	CDS	1155				hypothetical protein
+CEMEIKGF_02032	gene	909	pfkB_1			
+CEMEIKGF_02032	CDS	909	pfkB_1	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+CEMEIKGF_02033	gene	3339				
+CEMEIKGF_02033	CDS	3339				hypothetical protein
+CEMEIKGF_02034	gene	1851				
+CEMEIKGF_02034	CDS	1851				hypothetical protein
+CEMEIKGF_02035	gene	1686				
+CEMEIKGF_02035	CDS	1686				hypothetical protein
+CEMEIKGF_02036	gene	1032				
+CEMEIKGF_02036	CDS	1032				hypothetical protein
+CEMEIKGF_02037	gene	732				
+CEMEIKGF_02037	CDS	732				hypothetical protein
+CEMEIKGF_02038	gene	165				
+CEMEIKGF_02038	CDS	165				hypothetical protein
+CEMEIKGF_02039	gene	468				
+CEMEIKGF_02039	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+CEMEIKGF_02040	gene	1629	rhaS_3			
+CEMEIKGF_02040	CDS	1629	rhaS_3			HTH-type transcriptional activator RhaS
+CEMEIKGF_02041	gene	3075				
+CEMEIKGF_02041	CDS	3075				TonB-dependent receptor P3
+CEMEIKGF_02042	gene	1713				
+CEMEIKGF_02042	CDS	1713				SusD-like protein
+CEMEIKGF_02043	gene	1185				
+CEMEIKGF_02043	CDS	1185				hypothetical protein
+CEMEIKGF_02044	gene	2343				
+CEMEIKGF_02044	CDS	2343				hypothetical protein
+CEMEIKGF_02045	gene	624				
+CEMEIKGF_02045	CDS	624				hypothetical protein
+CEMEIKGF_02046	gene	1674				
+CEMEIKGF_02046	CDS	1674				hypothetical protein
+CEMEIKGF_02047	gene	1161				
+CEMEIKGF_02047	CDS	1161				hypothetical protein
+CEMEIKGF_02048	gene	885	pfkB_2			
+CEMEIKGF_02048	CDS	885	pfkB_2	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+CEMEIKGF_02049	gene	717				
+CEMEIKGF_02049	CDS	717			COG2826	IS30 family transposase IS4351
+CEMEIKGF_02050	gene	2940	rcsC_2			
+CEMEIKGF_02050	CDS	2940	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+CEMEIKGF_02051	gene	423				
+CEMEIKGF_02051	CDS	423				hypothetical protein
+CEMEIKGF_02052	gene	1509	scpC_1			
+CEMEIKGF_02052	CDS	1509	scpC_1	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+CEMEIKGF_02053	gene	558	fumB			
+CEMEIKGF_02053	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+CEMEIKGF_02054	gene	843	ttdA			
+CEMEIKGF_02054	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+CEMEIKGF_02055	gene	945				
+CEMEIKGF_02055	CDS	945				hypothetical protein
+CEMEIKGF_02056	gene	321				
+CEMEIKGF_02056	CDS	321				hypothetical protein
+CEMEIKGF_02057	gene	1380				
+CEMEIKGF_02057	CDS	1380				hypothetical protein
+CEMEIKGF_02058	gene	1239				
+CEMEIKGF_02058	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+CEMEIKGF_02059	gene	1464	glmE			
+CEMEIKGF_02059	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+CEMEIKGF_02060	gene	1383				
+CEMEIKGF_02060	CDS	1383				hypothetical protein
+CEMEIKGF_02061	gene	414	glmS			
+CEMEIKGF_02061	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+CEMEIKGF_02062	gene	117				
+CEMEIKGF_02062	CDS	117				hypothetical protein
+CEMEIKGF_02063	gene	1512				
+CEMEIKGF_02063	CDS	1512				hypothetical protein
+CEMEIKGF_02064	gene	2007				
+CEMEIKGF_02064	CDS	2007				hypothetical protein
+CEMEIKGF_02065	gene	816				
+CEMEIKGF_02065	CDS	816				hypothetical protein
+CEMEIKGF_02066	gene	1509	scpC_2			
+CEMEIKGF_02066	CDS	1509	scpC_2	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+CEMEIKGF_02067	gene	1491	cysS_2			
+CEMEIKGF_02067	CDS	1491	cysS_2	6.1.1.16	COG0215	Cysteine--tRNA ligase
+CEMEIKGF_02068	gene	432				
+CEMEIKGF_02068	CDS	432				hypothetical protein
+CEMEIKGF_02069	gene	783				
+CEMEIKGF_02069	CDS	783				hypothetical protein
+CEMEIKGF_02070	gene	975				
+CEMEIKGF_02070	CDS	975				hypothetical protein
+CEMEIKGF_02071	gene	867	kdsA_3			
+CEMEIKGF_02071	CDS	867	kdsA_3	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+CEMEIKGF_02072	gene	90				
+CEMEIKGF_02072	CDS	90				hypothetical protein
+CEMEIKGF_02073	gene	408				
+CEMEIKGF_02073	CDS	408				hypothetical protein
+CEMEIKGF_02074	gene	693				
+CEMEIKGF_02074	CDS	693				hypothetical protein
+CEMEIKGF_02075	gene	1827	msbA_2			
+CEMEIKGF_02075	CDS	1827	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+CEMEIKGF_02076	gene	378	ridA			
+CEMEIKGF_02076	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+CEMEIKGF_02077	gene	735				
+CEMEIKGF_02077	CDS	735				hypothetical protein
+CEMEIKGF_02078	gene	993	htpX			
+CEMEIKGF_02078	CDS	993	htpX	3.4.24.-		Protease HtpX
+CEMEIKGF_02079	gene	564	lemA			
+CEMEIKGF_02079	CDS	564	lemA		COG1704	Protein LemA
+CEMEIKGF_02080	gene	405				
+CEMEIKGF_02080	CDS	405				hypothetical protein
+CEMEIKGF_02081	gene	107				
+CEMEIKGF_02081	rRNA	107				5S ribosomal RNA
+CEMEIKGF_02082	gene	2721	ppdK			
+CEMEIKGF_02082	CDS	2721	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+CEMEIKGF_02083	gene	966				
+CEMEIKGF_02083	CDS	966				hypothetical protein
+CEMEIKGF_02084	gene	321				
+CEMEIKGF_02084	CDS	321				hypothetical protein

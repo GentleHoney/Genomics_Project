@@ -1,0 +1,3309 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PEKLDMPL_00001	gene	591				
+PEKLDMPL_00001	CDS	591				hypothetical protein
+PEKLDMPL_00002	gene	339				
+PEKLDMPL_00002	CDS	339				hypothetical protein
+PEKLDMPL_00003	gene	3288				
+PEKLDMPL_00003	CDS	3288				hypothetical protein
+PEKLDMPL_00004	gene	1200				
+PEKLDMPL_00004	CDS	1200				hypothetical protein
+PEKLDMPL_00005	gene	645	ytrE			
+PEKLDMPL_00005	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+PEKLDMPL_00006	gene	1341				
+PEKLDMPL_00006	CDS	1341				hypothetical protein
+PEKLDMPL_00007	gene	732	rsmE			
+PEKLDMPL_00007	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+PEKLDMPL_00008	gene	564				
+PEKLDMPL_00008	CDS	564				hypothetical protein
+PEKLDMPL_00009	gene	1329	nupG			
+PEKLDMPL_00009	CDS	1329	nupG			Nucleoside permease NupG
+PEKLDMPL_00010	gene	999	dagK			
+PEKLDMPL_00010	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+PEKLDMPL_00011	gene	954				
+PEKLDMPL_00011	CDS	954				hypothetical protein
+PEKLDMPL_00012	gene	675				
+PEKLDMPL_00012	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+PEKLDMPL_00013	gene	492				
+PEKLDMPL_00013	CDS	492				hypothetical protein
+PEKLDMPL_00014	gene	621				
+PEKLDMPL_00014	CDS	621				hypothetical protein
+PEKLDMPL_00015	gene	978				
+PEKLDMPL_00015	CDS	978				hypothetical protein
+PEKLDMPL_00016	gene	405				
+PEKLDMPL_00016	CDS	405				hypothetical protein
+PEKLDMPL_00017	gene	780				
+PEKLDMPL_00017	CDS	780				hypothetical protein
+PEKLDMPL_00018	gene	249				
+PEKLDMPL_00018	CDS	249				hypothetical protein
+PEKLDMPL_00019	gene	549				
+PEKLDMPL_00019	CDS	549				hypothetical protein
+PEKLDMPL_00020	gene	735				
+PEKLDMPL_00020	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+PEKLDMPL_00021	gene	1767	sppA			
+PEKLDMPL_00021	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+PEKLDMPL_00022	gene	1173	lpxK			
+PEKLDMPL_00022	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+PEKLDMPL_00023	gene	660	punA			
+PEKLDMPL_00023	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+PEKLDMPL_00024	gene	1116	thiL			
+PEKLDMPL_00024	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+PEKLDMPL_00025	gene	1281	glyA			
+PEKLDMPL_00025	CDS	1281	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+PEKLDMPL_00026	gene	360	yjbR			
+PEKLDMPL_00026	CDS	360	yjbR		COG2315	putative protein YjbR
+PEKLDMPL_00027	gene	579				
+PEKLDMPL_00027	CDS	579				hypothetical protein
+PEKLDMPL_00028	gene	1020				
+PEKLDMPL_00028	CDS	1020				hypothetical protein
+PEKLDMPL_00029	gene	1332	mtaB			
+PEKLDMPL_00029	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+PEKLDMPL_00030	gene	195				
+PEKLDMPL_00030	CDS	195				hypothetical protein
+PEKLDMPL_00031	gene	207				
+PEKLDMPL_00031	CDS	207				hypothetical protein
+PEKLDMPL_00032	gene	1779	rpsA			
+PEKLDMPL_00032	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+PEKLDMPL_00033	gene	405				
+PEKLDMPL_00033	CDS	405				hypothetical protein
+PEKLDMPL_00034	gene	873	sigA			
+PEKLDMPL_00034	CDS	873	sigA		COG0568	RNA polymerase sigma factor SigA
+PEKLDMPL_00035	gene	780	zupT			
+PEKLDMPL_00035	CDS	780	zupT		COG0428	Zinc transporter ZupT
+PEKLDMPL_00036	gene	1011	gapA			
+PEKLDMPL_00036	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+PEKLDMPL_00037	gene	156				
+PEKLDMPL_00037	CDS	156				hypothetical protein
+PEKLDMPL_00038	gene	423	mscL			
+PEKLDMPL_00038	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+PEKLDMPL_00039	gene	1038	lplJ			
+PEKLDMPL_00039	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+PEKLDMPL_00040	gene	1095	gcvT			
+PEKLDMPL_00040	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+PEKLDMPL_00041	gene	387	gcvH			
+PEKLDMPL_00041	CDS	387	gcvH			Glycine cleavage system H protein
+PEKLDMPL_00042	gene	1326	gcvPA			
+PEKLDMPL_00042	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+PEKLDMPL_00043	gene	1509	gcvPB			
+PEKLDMPL_00043	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+PEKLDMPL_00044	gene	1314	pdhD			
+PEKLDMPL_00044	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+PEKLDMPL_00045	gene	855				
+PEKLDMPL_00045	CDS	855				hypothetical protein
+PEKLDMPL_00046	gene	255				
+PEKLDMPL_00046	CDS	255				hypothetical protein
+PEKLDMPL_00047	gene	462	ogt			
+PEKLDMPL_00047	CDS	462	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+PEKLDMPL_00048	gene	1566	guaA			
+PEKLDMPL_00048	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+PEKLDMPL_00049	gene	726	murU			
+PEKLDMPL_00049	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+PEKLDMPL_00050	gene	75				
+PEKLDMPL_00050	tRNA	75				tRNA-Arg(acg)
+PEKLDMPL_00051	gene	621				
+PEKLDMPL_00051	CDS	621				hypothetical protein
+PEKLDMPL_00052	gene	1278	rarA			
+PEKLDMPL_00052	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+PEKLDMPL_00053	gene	813				
+PEKLDMPL_00053	CDS	813				hypothetical protein
+PEKLDMPL_00054	gene	801				
+PEKLDMPL_00054	CDS	801				hypothetical protein
+PEKLDMPL_00055	gene	981				
+PEKLDMPL_00055	CDS	981			COG1702	PhoH-like protein
+PEKLDMPL_00056	gene	981	purC			
+PEKLDMPL_00056	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+PEKLDMPL_00057	gene	735	menG			
+PEKLDMPL_00057	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+PEKLDMPL_00058	gene	741	aroE			
+PEKLDMPL_00058	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+PEKLDMPL_00059	gene	1203	purM			
+PEKLDMPL_00059	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+PEKLDMPL_00060	gene	1113	prfA			
+PEKLDMPL_00060	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+PEKLDMPL_00061	gene	825	pyrF			
+PEKLDMPL_00061	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+PEKLDMPL_00062	gene	1416				
+PEKLDMPL_00062	CDS	1416				hypothetical protein
+PEKLDMPL_00063	gene	1269	mshA_1			
+PEKLDMPL_00063	CDS	1269	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PEKLDMPL_00064	gene	1917				
+PEKLDMPL_00064	CDS	1917				hypothetical protein
+PEKLDMPL_00065	gene	933	ytlR			
+PEKLDMPL_00065	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+PEKLDMPL_00066	gene	987	miaA_1			
+PEKLDMPL_00066	CDS	987	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+PEKLDMPL_00067	gene	606				
+PEKLDMPL_00067	CDS	606				hypothetical protein
+PEKLDMPL_00068	gene	2064	dsbD			
+PEKLDMPL_00068	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+PEKLDMPL_00069	gene	1113	macA			
+PEKLDMPL_00069	CDS	1113	macA		COG0845	Macrolide export protein MacA
+PEKLDMPL_00070	gene	1248	macB_1			
+PEKLDMPL_00070	CDS	1248	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+PEKLDMPL_00071	gene	1260	macB_2			
+PEKLDMPL_00071	CDS	1260	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+PEKLDMPL_00072	gene	672	yknY_1			
+PEKLDMPL_00072	CDS	672	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PEKLDMPL_00073	gene	186				
+PEKLDMPL_00073	CDS	186				hypothetical protein
+PEKLDMPL_00074	gene	171				
+PEKLDMPL_00074	CDS	171				hypothetical protein
+PEKLDMPL_00075	gene	2559				
+PEKLDMPL_00075	CDS	2559				hypothetical protein
+PEKLDMPL_00076	gene	2469	mrcA			
+PEKLDMPL_00076	CDS	2469	mrcA		COG5009	Penicillin-binding protein 1A
+PEKLDMPL_00077	gene	909	miaA_2			
+PEKLDMPL_00077	CDS	909	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+PEKLDMPL_00078	gene	774	lpxA_1			
+PEKLDMPL_00078	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+PEKLDMPL_00079	gene	1386	lpxC			
+PEKLDMPL_00079	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+PEKLDMPL_00080	gene	1044	lpxD			
+PEKLDMPL_00080	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+PEKLDMPL_00081	gene	1221				
+PEKLDMPL_00081	CDS	1221				hypothetical protein
+PEKLDMPL_00082	gene	1557	rapZ			
+PEKLDMPL_00082	CDS	1557	rapZ			RNase adapter protein RapZ
+PEKLDMPL_00083	gene	189				
+PEKLDMPL_00083	CDS	189				hypothetical protein
+PEKLDMPL_00084	gene	2682				
+PEKLDMPL_00084	CDS	2682				hypothetical protein
+PEKLDMPL_00085	gene	690				
+PEKLDMPL_00085	CDS	690				hypothetical protein
+PEKLDMPL_00086	gene	246				
+PEKLDMPL_00086	CDS	246				hypothetical protein
+PEKLDMPL_00087	gene	1632	groL			
+PEKLDMPL_00087	CDS	1632	groL		COG0459	60 kDa chaperonin
+PEKLDMPL_00088	gene	273	groS1			
+PEKLDMPL_00088	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+PEKLDMPL_00089	gene	2409	pcrA			
+PEKLDMPL_00089	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+PEKLDMPL_00090	gene	732	mtgA			
+PEKLDMPL_00090	CDS	732	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+PEKLDMPL_00091	gene	696	pal_1			
+PEKLDMPL_00091	CDS	696	pal_1			Peptidoglycan-associated lipoprotein
+PEKLDMPL_00092	gene	1482	proS			
+PEKLDMPL_00092	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+PEKLDMPL_00093	gene	222				
+PEKLDMPL_00093	CDS	222				hypothetical protein
+PEKLDMPL_00094	gene	903				
+PEKLDMPL_00094	CDS	903				hypothetical protein
+PEKLDMPL_00095	gene	633	lspA			
+PEKLDMPL_00095	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+PEKLDMPL_00096	gene	381	dksA			
+PEKLDMPL_00096	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+PEKLDMPL_00097	gene	3585	ileS			
+PEKLDMPL_00097	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+PEKLDMPL_00098	gene	408				
+PEKLDMPL_00098	CDS	408				hypothetical protein
+PEKLDMPL_00099	gene	1623				
+PEKLDMPL_00099	CDS	1623				hypothetical protein
+PEKLDMPL_00100	gene	1023				
+PEKLDMPL_00100	CDS	1023				hypothetical protein
+PEKLDMPL_00101	gene	882	prmC			
+PEKLDMPL_00101	CDS	882	prmC	2.1.1.297		Release factor glutamine methyltransferase
+PEKLDMPL_00102	gene	804				
+PEKLDMPL_00102	CDS	804				hypothetical protein
+PEKLDMPL_00103	gene	1641	pfp			
+PEKLDMPL_00103	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+PEKLDMPL_00104	gene	273				
+PEKLDMPL_00104	CDS	273				hypothetical protein
+PEKLDMPL_00105	gene	555				
+PEKLDMPL_00105	CDS	555				hypothetical protein
+PEKLDMPL_00106	gene	2589				
+PEKLDMPL_00106	CDS	2589				hypothetical protein
+PEKLDMPL_00107	gene	306				
+PEKLDMPL_00107	CDS	306				hypothetical protein
+PEKLDMPL_00108	gene	1827				
+PEKLDMPL_00108	CDS	1827				hypothetical protein
+PEKLDMPL_00109	gene	1059				
+PEKLDMPL_00109	CDS	1059				hypothetical protein
+PEKLDMPL_00110	gene	516	COQ3			
+PEKLDMPL_00110	CDS	516	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+PEKLDMPL_00111	gene	174				
+PEKLDMPL_00111	CDS	174				hypothetical protein
+PEKLDMPL_00112	gene	657	gpx1			
+PEKLDMPL_00112	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+PEKLDMPL_00113	gene	450				
+PEKLDMPL_00113	CDS	450				hypothetical protein
+PEKLDMPL_00114	gene	1716	aspT			
+PEKLDMPL_00114	CDS	1716	aspT			Aspartate/alanine antiporter
+PEKLDMPL_00115	gene	957				
+PEKLDMPL_00115	CDS	957				hypothetical protein
+PEKLDMPL_00116	gene	450				
+PEKLDMPL_00116	CDS	450				hypothetical protein
+PEKLDMPL_00117	gene	1158	gcdB			
+PEKLDMPL_00117	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+PEKLDMPL_00118	gene	585	malT			
+PEKLDMPL_00118	CDS	585	malT			HTH-type transcriptional regulator MalT
+PEKLDMPL_00119	gene	957				
+PEKLDMPL_00119	CDS	957				hypothetical protein
+PEKLDMPL_00120	gene	1533	rny			
+PEKLDMPL_00120	CDS	1533	rny	3.1.-.-	COG1418	Ribonuclease Y
+PEKLDMPL_00121	gene	345				
+PEKLDMPL_00121	CDS	345				hypothetical protein
+PEKLDMPL_00122	gene	300				
+PEKLDMPL_00122	CDS	300				hypothetical protein
+PEKLDMPL_00123	gene	624				
+PEKLDMPL_00123	CDS	624				hypothetical protein
+PEKLDMPL_00124	gene	876	rfbA			
+PEKLDMPL_00124	CDS	876	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+PEKLDMPL_00125	gene	2484				
+PEKLDMPL_00125	CDS	2484				hypothetical protein
+PEKLDMPL_00126	gene	3306	carB_1			
+PEKLDMPL_00126	CDS	3306	carB_1	6.3.5.5		Carbamoyl-phosphate synthase large chain
+PEKLDMPL_00127	gene	744	kgp			
+PEKLDMPL_00127	CDS	744	kgp	3.4.22.47		Lys-gingipain
+PEKLDMPL_00128	gene	1185				
+PEKLDMPL_00128	CDS	1185				hypothetical protein
+PEKLDMPL_00129	gene	1584				
+PEKLDMPL_00129	CDS	1584				hypothetical protein
+PEKLDMPL_00130	gene	279				
+PEKLDMPL_00130	CDS	279				hypothetical protein
+PEKLDMPL_00131	gene	3327				
+PEKLDMPL_00131	CDS	3327				hypothetical protein
+PEKLDMPL_00132	gene	204				
+PEKLDMPL_00132	CDS	204				hypothetical protein
+PEKLDMPL_00133	gene	147				
+PEKLDMPL_00133	CDS	147				hypothetical protein
+PEKLDMPL_00134	gene	813				
+PEKLDMPL_00134	CDS	813				hypothetical protein
+PEKLDMPL_00135	gene	1437	ndhB			
+PEKLDMPL_00135	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+PEKLDMPL_00136	gene	1500	ndhD1			
+PEKLDMPL_00136	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+PEKLDMPL_00137	gene	1989	nuoL			
+PEKLDMPL_00137	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+PEKLDMPL_00138	gene	312	nuoK			
+PEKLDMPL_00138	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+PEKLDMPL_00139	gene	513				
+PEKLDMPL_00139	CDS	513				hypothetical protein
+PEKLDMPL_00140	gene	534	nuoI			
+PEKLDMPL_00140	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+PEKLDMPL_00141	gene	1089	nuoH			
+PEKLDMPL_00141	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+PEKLDMPL_00142	gene	1563	nuoC			
+PEKLDMPL_00142	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+PEKLDMPL_00143	gene	750	ndhK			
+PEKLDMPL_00143	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+PEKLDMPL_00144	gene	351	ndhC			
+PEKLDMPL_00144	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+PEKLDMPL_00145	gene	678				
+PEKLDMPL_00145	CDS	678				hypothetical protein
+PEKLDMPL_00146	gene	1182	bdhA			
+PEKLDMPL_00146	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+PEKLDMPL_00147	gene	117				
+PEKLDMPL_00147	CDS	117				hypothetical protein
+PEKLDMPL_00148	gene	456				
+PEKLDMPL_00148	CDS	456				hypothetical protein
+PEKLDMPL_00149	gene	633				
+PEKLDMPL_00149	CDS	633				hypothetical protein
+PEKLDMPL_00150	gene	579				
+PEKLDMPL_00150	CDS	579				hypothetical protein
+PEKLDMPL_00151	gene	951	rgtE			
+PEKLDMPL_00151	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+PEKLDMPL_00152	gene	486				
+PEKLDMPL_00152	CDS	486				hypothetical protein
+PEKLDMPL_00153	gene	684				
+PEKLDMPL_00153	CDS	684				hypothetical protein
+PEKLDMPL_00154	gene	942	apbE			
+PEKLDMPL_00154	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+PEKLDMPL_00155	gene	618				
+PEKLDMPL_00155	CDS	618				hypothetical protein
+PEKLDMPL_00156	gene	2094	prlC			
+PEKLDMPL_00156	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+PEKLDMPL_00157	gene	444	tadA_1			
+PEKLDMPL_00157	CDS	444	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+PEKLDMPL_00158	gene	1725				
+PEKLDMPL_00158	CDS	1725				hypothetical protein
+PEKLDMPL_00159	gene	498	yqgN			
+PEKLDMPL_00159	CDS	498	yqgN		COG0212	putative protein YqgN
+PEKLDMPL_00160	gene	291				
+PEKLDMPL_00160	CDS	291				hypothetical protein
+PEKLDMPL_00161	gene	1095	recF			
+PEKLDMPL_00161	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+PEKLDMPL_00162	gene	741				
+PEKLDMPL_00162	CDS	741				hypothetical protein
+PEKLDMPL_00163	gene	477	ribH			
+PEKLDMPL_00163	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+PEKLDMPL_00164	gene	237				
+PEKLDMPL_00164	CDS	237				hypothetical protein
+PEKLDMPL_00165	gene	567				
+PEKLDMPL_00165	CDS	567				hypothetical protein
+PEKLDMPL_00166	gene	459				
+PEKLDMPL_00166	CDS	459				hypothetical protein
+PEKLDMPL_00167	gene	351				
+PEKLDMPL_00167	CDS	351				hypothetical protein
+PEKLDMPL_00168	gene	897	bamD			
+PEKLDMPL_00168	CDS	897	bamD			Outer membrane protein assembly factor BamD
+PEKLDMPL_00169	gene	2460				
+PEKLDMPL_00169	CDS	2460				hypothetical protein
+PEKLDMPL_00170	gene	2040	uvrB			
+PEKLDMPL_00170	CDS	2040	uvrB		COG0556	UvrABC system protein B
+PEKLDMPL_00171	gene	255				
+PEKLDMPL_00171	CDS	255				hypothetical protein
+PEKLDMPL_00172	gene	2280				
+PEKLDMPL_00172	CDS	2280				hypothetical protein
+PEKLDMPL_00173	gene	903	menA			
+PEKLDMPL_00173	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PEKLDMPL_00174	gene	642				
+PEKLDMPL_00174	CDS	642				hypothetical protein
+PEKLDMPL_00175	gene	642				
+PEKLDMPL_00175	CDS	642				hypothetical protein
+PEKLDMPL_00176	gene	2100				
+PEKLDMPL_00176	CDS	2100				hypothetical protein
+PEKLDMPL_00177	gene	144				
+PEKLDMPL_00177	CDS	144				hypothetical protein
+PEKLDMPL_00178	gene	3303				
+PEKLDMPL_00178	CDS	3303				hypothetical protein
+PEKLDMPL_00179	gene	1932				
+PEKLDMPL_00179	CDS	1932				hypothetical protein
+PEKLDMPL_00180	gene	1785				
+PEKLDMPL_00180	CDS	1785				hypothetical protein
+PEKLDMPL_00181	gene	162				
+PEKLDMPL_00181	CDS	162				hypothetical protein
+PEKLDMPL_00182	gene	900	rluD_1			
+PEKLDMPL_00182	CDS	900	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PEKLDMPL_00183	gene	1995	tkt			
+PEKLDMPL_00183	CDS	1995	tkt	2.2.1.1		Transketolase
+PEKLDMPL_00184	gene	444	rpiB			
+PEKLDMPL_00184	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+PEKLDMPL_00185	gene	300				
+PEKLDMPL_00185	CDS	300			COG0776	DNA-binding protein HRL53
+PEKLDMPL_00186	gene	90				
+PEKLDMPL_00186	CDS	90				hypothetical protein
+PEKLDMPL_00187	gene	1575	rne			
+PEKLDMPL_00187	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+PEKLDMPL_00188	gene	474	guaD			
+PEKLDMPL_00188	CDS	474	guaD	3.5.4.3	COG0590	Guanine deaminase
+PEKLDMPL_00189	gene	162				
+PEKLDMPL_00189	CDS	162			COG1773	Rubredoxin
+PEKLDMPL_00190	gene	657	ppaX			
+PEKLDMPL_00190	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+PEKLDMPL_00191	gene	705	ttcA			
+PEKLDMPL_00191	CDS	705	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+PEKLDMPL_00192	gene	507				
+PEKLDMPL_00192	CDS	507				hypothetical protein
+PEKLDMPL_00193	gene	762	ydfG			
+PEKLDMPL_00193	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+PEKLDMPL_00194	gene	1698	glgE			
+PEKLDMPL_00194	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+PEKLDMPL_00195	gene	894	fabD			
+PEKLDMPL_00195	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+PEKLDMPL_00196	gene	462				
+PEKLDMPL_00196	CDS	462				hypothetical protein
+PEKLDMPL_00197	gene	462				
+PEKLDMPL_00197	CDS	462				hypothetical protein
+PEKLDMPL_00198	gene	2052	ligA			
+PEKLDMPL_00198	CDS	2052	ligA	6.5.1.2		DNA ligase
+PEKLDMPL_00199	gene	855	pta_1			
+PEKLDMPL_00199	CDS	855	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+PEKLDMPL_00200	gene	1062	buk2			
+PEKLDMPL_00200	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+PEKLDMPL_00201	gene	675	trmD			
+PEKLDMPL_00201	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+PEKLDMPL_00202	gene	939				
+PEKLDMPL_00202	CDS	939				hypothetical protein
+PEKLDMPL_00203	gene	1416	pepP			
+PEKLDMPL_00203	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+PEKLDMPL_00204	gene	1197				
+PEKLDMPL_00204	CDS	1197				hypothetical protein
+PEKLDMPL_00205	gene	813				
+PEKLDMPL_00205	CDS	813				hypothetical protein
+PEKLDMPL_00206	gene	897				
+PEKLDMPL_00206	CDS	897				hypothetical protein
+PEKLDMPL_00207	gene	519				
+PEKLDMPL_00207	CDS	519				hypothetical protein
+PEKLDMPL_00208	gene	792				
+PEKLDMPL_00208	CDS	792				hypothetical protein
+PEKLDMPL_00209	gene	558				
+PEKLDMPL_00209	CDS	558				hypothetical protein
+PEKLDMPL_00210	gene	807				
+PEKLDMPL_00210	CDS	807				hypothetical protein
+PEKLDMPL_00211	gene	192				
+PEKLDMPL_00211	CDS	192				hypothetical protein
+PEKLDMPL_00212	gene	717				
+PEKLDMPL_00212	CDS	717				hypothetical protein
+PEKLDMPL_00213	gene	1449				
+PEKLDMPL_00213	CDS	1449				hypothetical protein
+PEKLDMPL_00214	gene	1545				
+PEKLDMPL_00214	CDS	1545				hypothetical protein
+PEKLDMPL_00215	gene	1698				
+PEKLDMPL_00215	CDS	1698				hypothetical protein
+PEKLDMPL_00216	gene	1833	LIAS			
+PEKLDMPL_00216	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+PEKLDMPL_00217	gene	1158	pntA_1			
+PEKLDMPL_00217	CDS	1158	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+PEKLDMPL_00218	gene	315	pntA_2			
+PEKLDMPL_00218	CDS	315	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+PEKLDMPL_00219	gene	1533	pntB			
+PEKLDMPL_00219	CDS	1533	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+PEKLDMPL_00220	gene	1665	lcfB			
+PEKLDMPL_00220	CDS	1665	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+PEKLDMPL_00221	gene	1248	lolE_1			
+PEKLDMPL_00221	CDS	1248	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+PEKLDMPL_00222	gene	2055	htpG			
+PEKLDMPL_00222	CDS	2055	htpG			Chaperone protein HtpG
+PEKLDMPL_00223	gene	1455	pepD_1			
+PEKLDMPL_00223	CDS	1455	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+PEKLDMPL_00224	gene	231				
+PEKLDMPL_00224	CDS	231				hypothetical protein
+PEKLDMPL_00225	gene	606				
+PEKLDMPL_00225	CDS	606				hypothetical protein
+PEKLDMPL_00226	gene	636	nth			
+PEKLDMPL_00226	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+PEKLDMPL_00227	gene	711				
+PEKLDMPL_00227	CDS	711				hypothetical protein
+PEKLDMPL_00228	gene	648				
+PEKLDMPL_00228	CDS	648				hypothetical protein
+PEKLDMPL_00229	gene	2463	pheT			
+PEKLDMPL_00229	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+PEKLDMPL_00230	gene	726				
+PEKLDMPL_00230	CDS	726			COG0217	putative transcriptional regulatory protein
+PEKLDMPL_00231	gene	387				
+PEKLDMPL_00231	CDS	387				hypothetical protein
+PEKLDMPL_00232	gene	1782	lepA			
+PEKLDMPL_00232	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+PEKLDMPL_00233	gene	603				
+PEKLDMPL_00233	CDS	603				hypothetical protein
+PEKLDMPL_00234	gene	2187	bamA_1			
+PEKLDMPL_00234	CDS	2187	bamA_1			Outer membrane protein assembly factor BamA
+PEKLDMPL_00235	gene	465				
+PEKLDMPL_00235	CDS	465				hypothetical protein
+PEKLDMPL_00236	gene	807	yycJ			
+PEKLDMPL_00236	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+PEKLDMPL_00237	gene	2136				
+PEKLDMPL_00237	CDS	2136				hypothetical protein
+PEKLDMPL_00238	gene	2118				
+PEKLDMPL_00238	CDS	2118				hypothetical protein
+PEKLDMPL_00239	gene	264	rpmB			
+PEKLDMPL_00239	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+PEKLDMPL_00240	gene	189	rpmG2			
+PEKLDMPL_00240	CDS	189	rpmG2			50S ribosomal protein L33 2
+PEKLDMPL_00241	gene	159				
+PEKLDMPL_00241	CDS	159				hypothetical protein
+PEKLDMPL_00242	gene	957	ftsY			
+PEKLDMPL_00242	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+PEKLDMPL_00243	gene	1317	rimO			
+PEKLDMPL_00243	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+PEKLDMPL_00244	gene	294	hup_1			
+PEKLDMPL_00244	CDS	294	hup_1			DNA-binding protein HU
+PEKLDMPL_00245	gene	1374	ihfA			
+PEKLDMPL_00245	CDS	1374	ihfA			Integration host factor subunit alpha
+PEKLDMPL_00246	gene	996				
+PEKLDMPL_00246	CDS	996				hypothetical protein
+PEKLDMPL_00247	gene	870				
+PEKLDMPL_00247	CDS	870				hypothetical protein
+PEKLDMPL_00248	gene	1107				
+PEKLDMPL_00248	CDS	1107				hypothetical protein
+PEKLDMPL_00249	gene	999				
+PEKLDMPL_00249	CDS	999				hypothetical protein
+PEKLDMPL_00250	gene	1029				
+PEKLDMPL_00250	CDS	1029				hypothetical protein
+PEKLDMPL_00251	gene	693				
+PEKLDMPL_00251	CDS	693				hypothetical protein
+PEKLDMPL_00252	gene	2562				
+PEKLDMPL_00252	CDS	2562				hypothetical protein
+PEKLDMPL_00253	gene	687				
+PEKLDMPL_00253	CDS	687				hypothetical protein
+PEKLDMPL_00254	gene	1236	queA			
+PEKLDMPL_00254	CDS	1236	queA	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PEKLDMPL_00255	gene	1941	nadE			
+PEKLDMPL_00255	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+PEKLDMPL_00256	gene	891				
+PEKLDMPL_00256	CDS	891				hypothetical protein
+PEKLDMPL_00257	gene	2676	gyrA			
+PEKLDMPL_00257	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+PEKLDMPL_00258	gene	1170				
+PEKLDMPL_00258	CDS	1170				hypothetical protein
+PEKLDMPL_00259	gene	1209				
+PEKLDMPL_00259	CDS	1209				hypothetical protein
+PEKLDMPL_00260	gene	1254				
+PEKLDMPL_00260	CDS	1254				hypothetical protein
+PEKLDMPL_00261	gene	504				
+PEKLDMPL_00261	CDS	504				hypothetical protein
+PEKLDMPL_00262	gene	480	smpB			
+PEKLDMPL_00262	CDS	480	smpB		COG0691	SsrA-binding protein
+PEKLDMPL_00263	gene	405				
+PEKLDMPL_00263	CDS	405				hypothetical protein
+PEKLDMPL_00264	gene	855	map			
+PEKLDMPL_00264	CDS	855	map	3.4.11.18	COG0024	Methionine aminopeptidase
+PEKLDMPL_00265	gene	1026	tsaD			
+PEKLDMPL_00265	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+PEKLDMPL_00266	gene	492	pncC			
+PEKLDMPL_00266	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+PEKLDMPL_00267	gene	1482	degQ			
+PEKLDMPL_00267	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+PEKLDMPL_00268	gene	1026	ansA			
+PEKLDMPL_00268	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+PEKLDMPL_00269	gene	2061	btuB_1			
+PEKLDMPL_00269	CDS	2061	btuB_1			Vitamin B12 transporter BtuB
+PEKLDMPL_00270	gene	540				
+PEKLDMPL_00270	CDS	540				hypothetical protein
+PEKLDMPL_00271	gene	1986	rho			
+PEKLDMPL_00271	CDS	1986	rho	3.6.4.-		Transcription termination factor Rho
+PEKLDMPL_00272	gene	303				
+PEKLDMPL_00272	CDS	303				hypothetical protein
+PEKLDMPL_00273	gene	378				
+PEKLDMPL_00273	CDS	378				hypothetical protein
+PEKLDMPL_00274	gene	207				
+PEKLDMPL_00274	CDS	207				hypothetical protein
+PEKLDMPL_00275	gene	531				
+PEKLDMPL_00275	CDS	531				hypothetical protein
+PEKLDMPL_00276	gene	654	rbr			
+PEKLDMPL_00276	CDS	654	rbr		COG1592	Rubrerythrin
+PEKLDMPL_00277	gene	90				
+PEKLDMPL_00277	CDS	90				hypothetical protein
+PEKLDMPL_00278	gene	74				
+PEKLDMPL_00278	tRNA	74				tRNA-Lys(ctt)
+PEKLDMPL_00279	gene	987	msrA			
+PEKLDMPL_00279	CDS	987	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+PEKLDMPL_00280	gene	1164				
+PEKLDMPL_00280	CDS	1164				hypothetical protein
+PEKLDMPL_00281	gene	546				
+PEKLDMPL_00281	CDS	546				hypothetical protein
+PEKLDMPL_00282	gene	486	ftnA			
+PEKLDMPL_00282	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+PEKLDMPL_00283	gene	936	arnC_1			
+PEKLDMPL_00283	CDS	936	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+PEKLDMPL_00284	gene	1212				
+PEKLDMPL_00284	CDS	1212				hypothetical protein
+PEKLDMPL_00285	gene	390				
+PEKLDMPL_00285	CDS	390				hypothetical protein
+PEKLDMPL_00286	gene	1038	pheS			
+PEKLDMPL_00286	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+PEKLDMPL_00287	gene	1356				
+PEKLDMPL_00287	CDS	1356				hypothetical protein
+PEKLDMPL_00288	gene	852				
+PEKLDMPL_00288	CDS	852				hypothetical protein
+PEKLDMPL_00289	gene	1026	murB			
+PEKLDMPL_00289	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+PEKLDMPL_00290	gene	774	rbn			
+PEKLDMPL_00290	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+PEKLDMPL_00291	gene	294				
+PEKLDMPL_00291	CDS	294				hypothetical protein
+PEKLDMPL_00292	gene	369				
+PEKLDMPL_00292	CDS	369				hypothetical protein
+PEKLDMPL_00293	gene	216				
+PEKLDMPL_00293	CDS	216				hypothetical protein
+PEKLDMPL_00294	gene	516				
+PEKLDMPL_00294	CDS	516				hypothetical protein
+PEKLDMPL_00295	gene	291	yqgF			
+PEKLDMPL_00295	CDS	291	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+PEKLDMPL_00296	gene	561	def			
+PEKLDMPL_00296	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+PEKLDMPL_00297	gene	1965	cpoB			
+PEKLDMPL_00297	CDS	1965	cpoB			Cell division coordinator CpoB
+PEKLDMPL_00298	gene	588				
+PEKLDMPL_00298	CDS	588				hypothetical protein
+PEKLDMPL_00299	gene	456				
+PEKLDMPL_00299	CDS	456				hypothetical protein
+PEKLDMPL_00300	gene	564				
+PEKLDMPL_00300	CDS	564				hypothetical protein
+PEKLDMPL_00301	gene	564				
+PEKLDMPL_00301	CDS	564				hypothetical protein
+PEKLDMPL_00302	gene	405				
+PEKLDMPL_00302	CDS	405				hypothetical protein
+PEKLDMPL_00303	gene	1068				
+PEKLDMPL_00303	CDS	1068				hypothetical protein
+PEKLDMPL_00304	gene	1965	thrS			
+PEKLDMPL_00304	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+PEKLDMPL_00305	gene	2061	pat			
+PEKLDMPL_00305	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+PEKLDMPL_00306	gene	1812	ettA			
+PEKLDMPL_00306	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+PEKLDMPL_00307	gene	615	engB			
+PEKLDMPL_00307	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+PEKLDMPL_00308	gene	615	recR			
+PEKLDMPL_00308	CDS	615	recR		COG0353	Recombination protein RecR
+PEKLDMPL_00309	gene	423				
+PEKLDMPL_00309	CDS	423				hypothetical protein
+PEKLDMPL_00310	gene	1194				
+PEKLDMPL_00310	CDS	1194				hypothetical protein
+PEKLDMPL_00311	gene	516	speG			
+PEKLDMPL_00311	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+PEKLDMPL_00312	gene	76				
+PEKLDMPL_00312	tRNA	76				tRNA-Asp(gtc)
+PEKLDMPL_00313	gene	76				
+PEKLDMPL_00313	tRNA	76				tRNA-Asp(gtc)
+PEKLDMPL_00314	gene	75				
+PEKLDMPL_00314	tRNA	75				tRNA-Thr(tgt)
+PEKLDMPL_00315	gene	528				
+PEKLDMPL_00315	CDS	528				hypothetical protein
+PEKLDMPL_00316	gene	783				
+PEKLDMPL_00316	CDS	783				hypothetical protein
+PEKLDMPL_00317	gene	519	kdsC			
+PEKLDMPL_00317	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+PEKLDMPL_00318	gene	573	yhdE			
+PEKLDMPL_00318	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+PEKLDMPL_00319	gene	1107				
+PEKLDMPL_00319	CDS	1107				hypothetical protein
+PEKLDMPL_00320	gene	990				
+PEKLDMPL_00320	CDS	990				hypothetical protein
+PEKLDMPL_00321	gene	1515				
+PEKLDMPL_00321	CDS	1515				hypothetical protein
+PEKLDMPL_00322	gene	981				
+PEKLDMPL_00322	CDS	981				hypothetical protein
+PEKLDMPL_00323	gene	1398				
+PEKLDMPL_00323	CDS	1398				hypothetical protein
+PEKLDMPL_00324	gene	978	pfkA			
+PEKLDMPL_00324	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+PEKLDMPL_00325	gene	1527	atpD			
+PEKLDMPL_00325	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+PEKLDMPL_00326	gene	240	atpC			
+PEKLDMPL_00326	CDS	240	atpC			ATP synthase epsilon chain
+PEKLDMPL_00327	gene	393				
+PEKLDMPL_00327	CDS	393				hypothetical protein
+PEKLDMPL_00328	gene	1032	atpB			
+PEKLDMPL_00328	CDS	1032	atpB			ATP synthase subunit a
+PEKLDMPL_00329	gene	240	atpH_1			
+PEKLDMPL_00329	CDS	240	atpH_1			ATP synthase subunit c
+PEKLDMPL_00330	gene	519	atpF			
+PEKLDMPL_00330	CDS	519	atpF		COG0711	ATP synthase subunit b
+PEKLDMPL_00331	gene	534	atpH_2			
+PEKLDMPL_00331	CDS	534	atpH_2		COG0712	ATP synthase subunit delta
+PEKLDMPL_00332	gene	1584	atpA			
+PEKLDMPL_00332	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+PEKLDMPL_00333	gene	969	atpG			
+PEKLDMPL_00333	CDS	969	atpG		COG0224	ATP synthase gamma chain
+PEKLDMPL_00334	gene	264				
+PEKLDMPL_00334	CDS	264				hypothetical protein
+PEKLDMPL_00335	gene	1488				
+PEKLDMPL_00335	CDS	1488				hypothetical protein
+PEKLDMPL_00336	gene	813	glgA			
+PEKLDMPL_00336	CDS	813	glgA	2.4.1.21		Glycogen synthase
+PEKLDMPL_00337	gene	858	panC			
+PEKLDMPL_00337	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+PEKLDMPL_00338	gene	345	panD			
+PEKLDMPL_00338	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+PEKLDMPL_00339	gene	432	accB			
+PEKLDMPL_00339	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PEKLDMPL_00340	gene	159				
+PEKLDMPL_00340	CDS	159				hypothetical protein
+PEKLDMPL_00341	gene	1554	pccB			
+PEKLDMPL_00341	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+PEKLDMPL_00342	gene	405	epi			
+PEKLDMPL_00342	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+PEKLDMPL_00343	gene	2364				
+PEKLDMPL_00343	CDS	2364				hypothetical protein
+PEKLDMPL_00344	gene	1977	fbp			
+PEKLDMPL_00344	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+PEKLDMPL_00345	gene	1125				
+PEKLDMPL_00345	CDS	1125				hypothetical protein
+PEKLDMPL_00346	gene	1320	lysC			
+PEKLDMPL_00346	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+PEKLDMPL_00347	gene	708	btuD_1			
+PEKLDMPL_00347	CDS	708	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PEKLDMPL_00348	gene	1296	deaD_1			
+PEKLDMPL_00348	CDS	1296	deaD_1	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+PEKLDMPL_00349	gene	1164				
+PEKLDMPL_00349	CDS	1164				hypothetical protein
+PEKLDMPL_00350	gene	1128	tgt			
+PEKLDMPL_00350	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+PEKLDMPL_00351	gene	2424	lon1			
+PEKLDMPL_00351	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+PEKLDMPL_00352	gene	645	yfiC			
+PEKLDMPL_00352	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+PEKLDMPL_00353	gene	1464				
+PEKLDMPL_00353	CDS	1464				hypothetical protein
+PEKLDMPL_00354	gene	1077	mnmA			
+PEKLDMPL_00354	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+PEKLDMPL_00355	gene	114				
+PEKLDMPL_00355	CDS	114				hypothetical protein
+PEKLDMPL_00356	gene	705	hxpA			
+PEKLDMPL_00356	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+PEKLDMPL_00357	gene	1356	pgi			
+PEKLDMPL_00357	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+PEKLDMPL_00358	gene	88				
+PEKLDMPL_00358	tRNA	88				tRNA-Ser(gct)
+PEKLDMPL_00359	gene	73				
+PEKLDMPL_00359	tRNA	73				tRNA-Glu(ctc)
+PEKLDMPL_00360	gene	1488				
+PEKLDMPL_00360	CDS	1488				hypothetical protein
+PEKLDMPL_00361	gene	444				
+PEKLDMPL_00361	CDS	444				hypothetical protein
+PEKLDMPL_00362	gene	435				
+PEKLDMPL_00362	CDS	435				hypothetical protein
+PEKLDMPL_00363	gene	903	rnfB			
+PEKLDMPL_00363	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+PEKLDMPL_00364	gene	1353	rnfC			
+PEKLDMPL_00364	CDS	1353	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+PEKLDMPL_00365	gene	1035	rnfD			
+PEKLDMPL_00365	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+PEKLDMPL_00366	gene	672	rsxG			
+PEKLDMPL_00366	CDS	672	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+PEKLDMPL_00367	gene	591	rnfE			
+PEKLDMPL_00367	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+PEKLDMPL_00368	gene	603	rnfA			
+PEKLDMPL_00368	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+PEKLDMPL_00369	gene	1041	galE			
+PEKLDMPL_00369	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+PEKLDMPL_00370	gene	2868	uvrA_1			
+PEKLDMPL_00370	CDS	2868	uvrA_1		COG0178	UvrABC system protein A
+PEKLDMPL_00371	gene	720				
+PEKLDMPL_00371	CDS	720				hypothetical protein
+PEKLDMPL_00372	gene	1356				
+PEKLDMPL_00372	CDS	1356				hypothetical protein
+PEKLDMPL_00373	gene	753				
+PEKLDMPL_00373	CDS	753				hypothetical protein
+PEKLDMPL_00374	gene	1518	dtpA			
+PEKLDMPL_00374	CDS	1518	dtpA		COG3104	Dipeptide and tripeptide permease A
+PEKLDMPL_00375	gene	483				
+PEKLDMPL_00375	CDS	483				hypothetical protein
+PEKLDMPL_00376	gene	1932				
+PEKLDMPL_00376	CDS	1932				hypothetical protein
+PEKLDMPL_00377	gene	1437	radA			
+PEKLDMPL_00377	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+PEKLDMPL_00378	gene	912				
+PEKLDMPL_00378	CDS	912				hypothetical protein
+PEKLDMPL_00379	gene	2196				
+PEKLDMPL_00379	CDS	2196				hypothetical protein
+PEKLDMPL_00380	gene	1227	cls			
+PEKLDMPL_00380	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+PEKLDMPL_00381	gene	975	kdsD			
+PEKLDMPL_00381	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+PEKLDMPL_00382	gene	756	kdsA_1			
+PEKLDMPL_00382	CDS	756	kdsA_1	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+PEKLDMPL_00383	gene	159				
+PEKLDMPL_00383	CDS	159				hypothetical protein
+PEKLDMPL_00384	gene	279				
+PEKLDMPL_00384	CDS	279				hypothetical protein
+PEKLDMPL_00385	gene	74				
+PEKLDMPL_00385	tRNA	74				tRNA-Pro(tgg)
+PEKLDMPL_00386	gene	1188				
+PEKLDMPL_00386	CDS	1188				hypothetical protein
+PEKLDMPL_00387	gene	2739	valS			
+PEKLDMPL_00387	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+PEKLDMPL_00388	gene	828	mazG			
+PEKLDMPL_00388	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+PEKLDMPL_00389	gene	564				
+PEKLDMPL_00389	CDS	564				hypothetical protein
+PEKLDMPL_00390	gene	915	rnz			
+PEKLDMPL_00390	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+PEKLDMPL_00391	gene	366				
+PEKLDMPL_00391	CDS	366				hypothetical protein
+PEKLDMPL_00392	gene	1536				
+PEKLDMPL_00392	CDS	1536				hypothetical protein
+PEKLDMPL_00393	gene	561	sigW			
+PEKLDMPL_00393	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+PEKLDMPL_00394	gene	366				
+PEKLDMPL_00394	CDS	366				hypothetical protein
+PEKLDMPL_00395	gene	441				
+PEKLDMPL_00395	CDS	441				hypothetical protein
+PEKLDMPL_00396	gene	2610	mutS2			
+PEKLDMPL_00396	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+PEKLDMPL_00397	gene	86				
+PEKLDMPL_00397	tRNA	86				tRNA-Ser(tga)
+PEKLDMPL_00398	gene	1542				
+PEKLDMPL_00398	CDS	1542				hypothetical protein
+PEKLDMPL_00399	gene	1245	sasA_1			
+PEKLDMPL_00399	CDS	1245	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+PEKLDMPL_00400	gene	327				
+PEKLDMPL_00400	CDS	327				hypothetical protein
+PEKLDMPL_00401	gene	1440				
+PEKLDMPL_00401	CDS	1440				hypothetical protein
+PEKLDMPL_00402	gene	627				
+PEKLDMPL_00402	CDS	627				hypothetical protein
+PEKLDMPL_00403	gene	522				
+PEKLDMPL_00403	CDS	522				hypothetical protein
+PEKLDMPL_00404	gene	522				
+PEKLDMPL_00404	CDS	522				hypothetical protein
+PEKLDMPL_00405	gene	189	rpmF			
+PEKLDMPL_00405	CDS	189	rpmF			50S ribosomal protein L32
+PEKLDMPL_00406	gene	1011	fabH			
+PEKLDMPL_00406	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+PEKLDMPL_00407	gene	1056	era			
+PEKLDMPL_00407	CDS	1056	era		COG1159	GTPase Era
+PEKLDMPL_00408	gene	1317	der			
+PEKLDMPL_00408	CDS	1317	der		COG1160	GTPase Der
+PEKLDMPL_00409	gene	399				
+PEKLDMPL_00409	CDS	399				hypothetical protein
+PEKLDMPL_00410	gene	777	mkl			
+PEKLDMPL_00410	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+PEKLDMPL_00411	gene	747	mlaE			
+PEKLDMPL_00411	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+PEKLDMPL_00412	gene	564				
+PEKLDMPL_00412	CDS	564				hypothetical protein
+PEKLDMPL_00413	gene	825	lptB			
+PEKLDMPL_00413	CDS	825	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+PEKLDMPL_00414	gene	609				
+PEKLDMPL_00414	CDS	609				hypothetical protein
+PEKLDMPL_00415	gene	939	prs			
+PEKLDMPL_00415	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+PEKLDMPL_00416	gene	582	resA_1			
+PEKLDMPL_00416	CDS	582	resA_1			Thiol-disulfide oxidoreductase ResA
+PEKLDMPL_00417	gene	3099				
+PEKLDMPL_00417	CDS	3099				hypothetical protein
+PEKLDMPL_00418	gene	1356	tig			
+PEKLDMPL_00418	CDS	1356	tig	5.2.1.8		Trigger factor
+PEKLDMPL_00419	gene	666	clpP			
+PEKLDMPL_00419	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+PEKLDMPL_00420	gene	1230	clpX			
+PEKLDMPL_00420	CDS	1230	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+PEKLDMPL_00421	gene	2181	recQ			
+PEKLDMPL_00421	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+PEKLDMPL_00422	gene	1257				
+PEKLDMPL_00422	CDS	1257				hypothetical protein
+PEKLDMPL_00423	gene	2601	clpB1			
+PEKLDMPL_00423	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+PEKLDMPL_00424	gene	744				
+PEKLDMPL_00424	CDS	744				hypothetical protein
+PEKLDMPL_00425	gene	768				
+PEKLDMPL_00425	CDS	768				hypothetical protein
+PEKLDMPL_00426	gene	768				
+PEKLDMPL_00426	CDS	768				hypothetical protein
+PEKLDMPL_00427	gene	276				
+PEKLDMPL_00427	CDS	276				hypothetical protein
+PEKLDMPL_00428	gene	2106	f1pep1			
+PEKLDMPL_00428	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+PEKLDMPL_00429	gene	1368				
+PEKLDMPL_00429	CDS	1368				hypothetical protein
+PEKLDMPL_00430	gene	2028				
+PEKLDMPL_00430	CDS	2028				hypothetical protein
+PEKLDMPL_00431	gene	453	bcp			
+PEKLDMPL_00431	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+PEKLDMPL_00432	gene	5553				
+PEKLDMPL_00432	CDS	5553				hypothetical protein
+PEKLDMPL_00433	gene	1065				
+PEKLDMPL_00433	CDS	1065				hypothetical protein
+PEKLDMPL_00434	gene	1107				
+PEKLDMPL_00434	CDS	1107		3.6.-.-	COG1703	putative GTPase
+PEKLDMPL_00435	gene	861	ispH			
+PEKLDMPL_00435	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+PEKLDMPL_00436	gene	83				
+PEKLDMPL_00436	tRNA	83				tRNA-Leu(tag)
+PEKLDMPL_00437	gene	828	btuD_2			
+PEKLDMPL_00437	CDS	828	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PEKLDMPL_00438	gene	1005				
+PEKLDMPL_00438	CDS	1005				hypothetical protein
+PEKLDMPL_00439	gene	861				
+PEKLDMPL_00439	CDS	861				hypothetical protein
+PEKLDMPL_00440	gene	2682	parC			
+PEKLDMPL_00440	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+PEKLDMPL_00441	gene	951				
+PEKLDMPL_00441	CDS	951				hypothetical protein
+PEKLDMPL_00442	gene	720				
+PEKLDMPL_00442	CDS	720				hypothetical protein
+PEKLDMPL_00443	gene	975				
+PEKLDMPL_00443	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+PEKLDMPL_00444	gene	699				
+PEKLDMPL_00444	CDS	699				hypothetical protein
+PEKLDMPL_00445	gene	882	dtd3			
+PEKLDMPL_00445	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+PEKLDMPL_00446	gene	89				
+PEKLDMPL_00446	tRNA	89				tRNA-Ser(gga)
+PEKLDMPL_00447	gene	330				
+PEKLDMPL_00447	CDS	330				hypothetical protein
+PEKLDMPL_00448	gene	450				
+PEKLDMPL_00448	CDS	450				hypothetical protein
+PEKLDMPL_00449	gene	1452				
+PEKLDMPL_00449	CDS	1452				hypothetical protein
+PEKLDMPL_00450	gene	567	resA_2			
+PEKLDMPL_00450	CDS	567	resA_2			Thiol-disulfide oxidoreductase ResA
+PEKLDMPL_00451	gene	534	maa			
+PEKLDMPL_00451	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+PEKLDMPL_00452	gene	483				
+PEKLDMPL_00452	CDS	483				hypothetical protein
+PEKLDMPL_00453	gene	498				
+PEKLDMPL_00453	CDS	498				hypothetical protein
+PEKLDMPL_00454	gene	477				
+PEKLDMPL_00454	CDS	477				hypothetical protein
+PEKLDMPL_00455	gene	783	tolQ			
+PEKLDMPL_00455	CDS	783	tolQ			Tol-Pal system protein TolQ
+PEKLDMPL_00456	gene	486	asnC_1			
+PEKLDMPL_00456	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+PEKLDMPL_00457	gene	135				
+PEKLDMPL_00457	CDS	135				hypothetical protein
+PEKLDMPL_00458	gene	486	dfrA			
+PEKLDMPL_00458	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+PEKLDMPL_00459	gene	795	thyA			
+PEKLDMPL_00459	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+PEKLDMPL_00460	gene	1410	rsmF			
+PEKLDMPL_00460	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+PEKLDMPL_00461	gene	777				
+PEKLDMPL_00461	CDS	777				hypothetical protein
+PEKLDMPL_00462	gene	186				
+PEKLDMPL_00462	CDS	186				hypothetical protein
+PEKLDMPL_00463	gene	543	algU			
+PEKLDMPL_00463	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+PEKLDMPL_00464	gene	360				
+PEKLDMPL_00464	CDS	360				hypothetical protein
+PEKLDMPL_00465	gene	2067	pal_2			
+PEKLDMPL_00465	CDS	2067	pal_2			Peptidoglycan-associated lipoprotein
+PEKLDMPL_00466	gene	114				
+PEKLDMPL_00466	CDS	114				hypothetical protein
+PEKLDMPL_00467	gene	519				
+PEKLDMPL_00467	CDS	519				hypothetical protein
+PEKLDMPL_00468	gene	108				
+PEKLDMPL_00468	CDS	108				hypothetical protein
+PEKLDMPL_00469	gene	981	glkA			
+PEKLDMPL_00469	CDS	981	glkA	2.7.1.2		Glucokinase
+PEKLDMPL_00470	gene	690				
+PEKLDMPL_00470	CDS	690				hypothetical protein
+PEKLDMPL_00471	gene	579				
+PEKLDMPL_00471	CDS	579				hypothetical protein
+PEKLDMPL_00472	gene	858	rmlD			
+PEKLDMPL_00472	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+PEKLDMPL_00473	gene	1593	prfC			
+PEKLDMPL_00473	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+PEKLDMPL_00474	gene	273	crcB			
+PEKLDMPL_00474	CDS	273	crcB			Putative fluoride ion transporter CrcB
+PEKLDMPL_00475	gene	1038				
+PEKLDMPL_00475	CDS	1038				hypothetical protein
+PEKLDMPL_00476	gene	1935				
+PEKLDMPL_00476	CDS	1935				hypothetical protein
+PEKLDMPL_00477	gene	1296				
+PEKLDMPL_00477	CDS	1296				hypothetical protein
+PEKLDMPL_00478	gene	888				
+PEKLDMPL_00478	CDS	888				hypothetical protein
+PEKLDMPL_00479	gene	1476	rbbA			
+PEKLDMPL_00479	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+PEKLDMPL_00480	gene	1065	ybhS			
+PEKLDMPL_00480	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+PEKLDMPL_00481	gene	1104	ybhR			
+PEKLDMPL_00481	CDS	1104	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+PEKLDMPL_00482	gene	1404				
+PEKLDMPL_00482	CDS	1404				hypothetical protein
+PEKLDMPL_00483	gene	2640	rep			
+PEKLDMPL_00483	CDS	2640	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+PEKLDMPL_00484	gene	1251	tdcG			
+PEKLDMPL_00484	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+PEKLDMPL_00485	gene	405				
+PEKLDMPL_00485	CDS	405				hypothetical protein
+PEKLDMPL_00486	gene	822	cmk_1			
+PEKLDMPL_00486	CDS	822	cmk_1	2.7.4.25		Cytidylate kinase
+PEKLDMPL_00487	gene	1374	yeeO			
+PEKLDMPL_00487	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+PEKLDMPL_00488	gene	123				
+PEKLDMPL_00488	CDS	123				hypothetical protein
+PEKLDMPL_00489	gene	339				
+PEKLDMPL_00489	CDS	339				hypothetical protein
+PEKLDMPL_00490	gene	582				
+PEKLDMPL_00490	CDS	582				hypothetical protein
+PEKLDMPL_00491	gene	1542	glyQS			
+PEKLDMPL_00491	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+PEKLDMPL_00492	gene	105				
+PEKLDMPL_00492	CDS	105				hypothetical protein
+PEKLDMPL_00493	gene	117				
+PEKLDMPL_00493	CDS	117				hypothetical protein
+PEKLDMPL_00494	gene	2493				
+PEKLDMPL_00494	CDS	2493				hypothetical protein
+PEKLDMPL_00495	gene	1560				
+PEKLDMPL_00495	CDS	1560				hypothetical protein
+PEKLDMPL_00496	gene	102				
+PEKLDMPL_00496	CDS	102				hypothetical protein
+PEKLDMPL_00497	gene	1815				
+PEKLDMPL_00497	CDS	1815				hypothetical protein
+PEKLDMPL_00498	gene	1377	fucP			
+PEKLDMPL_00498	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+PEKLDMPL_00499	gene	1191	mro			
+PEKLDMPL_00499	CDS	1191	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+PEKLDMPL_00500	gene	1224	fpgS			
+PEKLDMPL_00500	CDS	1224	fpgS	6.3.2.17		Folylpolyglutamate synthase
+PEKLDMPL_00501	gene	1173	dnaJ			
+PEKLDMPL_00501	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+PEKLDMPL_00502	gene	582	grpE			
+PEKLDMPL_00502	CDS	582	grpE		COG0576	Protein GrpE
+PEKLDMPL_00503	gene	1611	ybiT			
+PEKLDMPL_00503	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+PEKLDMPL_00504	gene	732				
+PEKLDMPL_00504	CDS	732				hypothetical protein
+PEKLDMPL_00505	gene	1101				
+PEKLDMPL_00505	CDS	1101				hypothetical protein
+PEKLDMPL_00506	gene	924				
+PEKLDMPL_00506	CDS	924				hypothetical protein
+PEKLDMPL_00507	gene	618				
+PEKLDMPL_00507	CDS	618				hypothetical protein
+PEKLDMPL_00508	gene	1356				
+PEKLDMPL_00508	CDS	1356				hypothetical protein
+PEKLDMPL_00509	gene	972	ravA			
+PEKLDMPL_00509	CDS	972	ravA	3.6.3.-		ATPase RavA
+PEKLDMPL_00510	gene	1314				
+PEKLDMPL_00510	CDS	1314				hypothetical protein
+PEKLDMPL_00511	gene	642	gph			
+PEKLDMPL_00511	CDS	642	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+PEKLDMPL_00512	gene	1326				
+PEKLDMPL_00512	CDS	1326				hypothetical protein
+PEKLDMPL_00513	gene	606	ribE			
+PEKLDMPL_00513	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+PEKLDMPL_00514	gene	1272	apgM			
+PEKLDMPL_00514	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+PEKLDMPL_00515	gene	636				
+PEKLDMPL_00515	CDS	636				hypothetical protein
+PEKLDMPL_00516	gene	1365	bepA_1			
+PEKLDMPL_00516	CDS	1365	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+PEKLDMPL_00517	gene	1707	glnS			
+PEKLDMPL_00517	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+PEKLDMPL_00518	gene	240				
+PEKLDMPL_00518	CDS	240				hypothetical protein
+PEKLDMPL_00519	gene	1026	mltG			
+PEKLDMPL_00519	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+PEKLDMPL_00520	gene	1386	wcaJ			
+PEKLDMPL_00520	CDS	1386	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+PEKLDMPL_00521	gene	432				
+PEKLDMPL_00521	CDS	432				hypothetical protein
+PEKLDMPL_00522	gene	2040	topB			
+PEKLDMPL_00522	CDS	2040	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+PEKLDMPL_00523	gene	738	lutA			
+PEKLDMPL_00523	CDS	738	lutA		COG0247	Lactate utilization protein A
+PEKLDMPL_00524	gene	1371	lutB			
+PEKLDMPL_00524	CDS	1371	lutB		COG1139	Lactate utilization protein B
+PEKLDMPL_00525	gene	585				
+PEKLDMPL_00525	CDS	585				hypothetical protein
+PEKLDMPL_00526	gene	549				
+PEKLDMPL_00526	CDS	549				hypothetical protein
+PEKLDMPL_00527	gene	537	sigE_1			
+PEKLDMPL_00527	CDS	537	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+PEKLDMPL_00528	gene	1242				
+PEKLDMPL_00528	CDS	1242				hypothetical protein
+PEKLDMPL_00529	gene	1824				
+PEKLDMPL_00529	CDS	1824				hypothetical protein
+PEKLDMPL_00530	gene	1239	fdtB			
+PEKLDMPL_00530	CDS	1239	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+PEKLDMPL_00531	gene	939				
+PEKLDMPL_00531	CDS	939				hypothetical protein
+PEKLDMPL_00532	gene	411	fdtA			
+PEKLDMPL_00532	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+PEKLDMPL_00533	gene	1134	rfbB_1			
+PEKLDMPL_00533	CDS	1134	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+PEKLDMPL_00534	gene	630	cmk_2			
+PEKLDMPL_00534	CDS	630	cmk_2	2.7.4.25		Cytidylate kinase
+PEKLDMPL_00535	gene	1404	mepA			
+PEKLDMPL_00535	CDS	1404	mepA			Multidrug export protein MepA
+PEKLDMPL_00536	gene	1323	xseA			
+PEKLDMPL_00536	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+PEKLDMPL_00537	gene	171	xseB			
+PEKLDMPL_00537	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+PEKLDMPL_00538	gene	1023	ilvE			
+PEKLDMPL_00538	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+PEKLDMPL_00539	gene	1431	pepC			
+PEKLDMPL_00539	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+PEKLDMPL_00540	gene	900	ddh			
+PEKLDMPL_00540	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+PEKLDMPL_00541	gene	606	ruvA			
+PEKLDMPL_00541	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+PEKLDMPL_00542	gene	7554				
+PEKLDMPL_00542	CDS	7554				hypothetical protein
+PEKLDMPL_00543	gene	1533	pafA			
+PEKLDMPL_00543	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+PEKLDMPL_00544	gene	162				
+PEKLDMPL_00544	CDS	162				hypothetical protein
+PEKLDMPL_00545	gene	1401	algC_1			
+PEKLDMPL_00545	CDS	1401	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+PEKLDMPL_00546	gene	642				
+PEKLDMPL_00546	CDS	642				hypothetical protein
+PEKLDMPL_00547	gene	873	carD			
+PEKLDMPL_00547	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+PEKLDMPL_00548	gene	1026	carE			
+PEKLDMPL_00548	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+PEKLDMPL_00549	gene	1725	caiA			
+PEKLDMPL_00549	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+PEKLDMPL_00550	gene	114				
+PEKLDMPL_00550	CDS	114				hypothetical protein
+PEKLDMPL_00551	gene	627				
+PEKLDMPL_00551	CDS	627				hypothetical protein
+PEKLDMPL_00552	gene	825				
+PEKLDMPL_00552	CDS	825				hypothetical protein
+PEKLDMPL_00553	gene	147				
+PEKLDMPL_00553	CDS	147				hypothetical protein
+PEKLDMPL_00554	gene	768				
+PEKLDMPL_00554	CDS	768			COG3039	IS5 family transposase ISPg8
+PEKLDMPL_00555	gene	195				
+PEKLDMPL_00555	CDS	195				hypothetical protein
+PEKLDMPL_00556	gene	3435				
+PEKLDMPL_00556	CDS	3435				hypothetical protein
+PEKLDMPL_00557	gene	171				
+PEKLDMPL_00557	CDS	171				hypothetical protein
+PEKLDMPL_00558	gene	74				
+PEKLDMPL_00558	tRNA	74				tRNA-Met(cat)
+PEKLDMPL_00559	gene	612				
+PEKLDMPL_00559	CDS	612				hypothetical protein
+PEKLDMPL_00560	gene	747	fabG			
+PEKLDMPL_00560	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PEKLDMPL_00561	gene	672	rluC			
+PEKLDMPL_00561	CDS	672	rluC	5.4.99.24	COG0564	Ribosomal large subunit pseudouridine synthase C
+PEKLDMPL_00562	gene	747				
+PEKLDMPL_00562	CDS	747				hypothetical protein
+PEKLDMPL_00563	gene	1332				
+PEKLDMPL_00563	CDS	1332				hypothetical protein
+PEKLDMPL_00564	gene	4644				
+PEKLDMPL_00564	CDS	4644				hypothetical protein
+PEKLDMPL_00565	gene	2373	bamA_2			
+PEKLDMPL_00565	CDS	2373	bamA_2			Outer membrane protein assembly factor BamA
+PEKLDMPL_00566	gene	1410	clsA			
+PEKLDMPL_00566	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+PEKLDMPL_00567	gene	660	queE			
+PEKLDMPL_00567	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+PEKLDMPL_00568	gene	330				
+PEKLDMPL_00568	CDS	330				hypothetical protein
+PEKLDMPL_00569	gene	1938	dnaG			
+PEKLDMPL_00569	CDS	1938	dnaG	2.7.7.-		DNA primase
+PEKLDMPL_00570	gene	1038	nrnA			
+PEKLDMPL_00570	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+PEKLDMPL_00571	gene	585				
+PEKLDMPL_00571	CDS	585				hypothetical protein
+PEKLDMPL_00572	gene	1440	recD2			
+PEKLDMPL_00572	CDS	1440	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+PEKLDMPL_00573	gene	492				
+PEKLDMPL_00573	CDS	492				hypothetical protein
+PEKLDMPL_00574	gene	861				
+PEKLDMPL_00574	CDS	861				hypothetical protein
+PEKLDMPL_00575	gene	558	rsmD			
+PEKLDMPL_00575	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+PEKLDMPL_00576	gene	912				
+PEKLDMPL_00576	CDS	912				hypothetical protein
+PEKLDMPL_00577	gene	1347	nhaD			
+PEKLDMPL_00577	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+PEKLDMPL_00578	gene	849				
+PEKLDMPL_00578	CDS	849				hypothetical protein
+PEKLDMPL_00579	gene	597				
+PEKLDMPL_00579	CDS	597				hypothetical protein
+PEKLDMPL_00580	gene	1305				
+PEKLDMPL_00580	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+PEKLDMPL_00581	gene	1023	recA			
+PEKLDMPL_00581	CDS	1023	recA			Protein RecA
+PEKLDMPL_00582	gene	2826	alaS			
+PEKLDMPL_00582	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+PEKLDMPL_00583	gene	348				
+PEKLDMPL_00583	CDS	348				hypothetical protein
+PEKLDMPL_00584	gene	2286	relA			
+PEKLDMPL_00584	CDS	2286	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+PEKLDMPL_00585	gene	1536				
+PEKLDMPL_00585	CDS	1536				hypothetical protein
+PEKLDMPL_00586	gene	765				
+PEKLDMPL_00586	CDS	765				hypothetical protein
+PEKLDMPL_00587	gene	900	parB			
+PEKLDMPL_00587	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+PEKLDMPL_00588	gene	762	soj			
+PEKLDMPL_00588	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+PEKLDMPL_00589	gene	774	surE			
+PEKLDMPL_00589	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+PEKLDMPL_00590	gene	1149	lpxB			
+PEKLDMPL_00590	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+PEKLDMPL_00591	gene	963				
+PEKLDMPL_00591	CDS	963				hypothetical protein
+PEKLDMPL_00592	gene	1461	pepD_2			
+PEKLDMPL_00592	CDS	1461	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+PEKLDMPL_00593	gene	141				
+PEKLDMPL_00593	CDS	141				hypothetical protein
+PEKLDMPL_00594	gene	927				
+PEKLDMPL_00594	CDS	927				hypothetical protein
+PEKLDMPL_00595	gene	1854				
+PEKLDMPL_00595	CDS	1854				hypothetical protein
+PEKLDMPL_00596	gene	72				
+PEKLDMPL_00596	tRNA	72				tRNA-Gln(ctg)
+PEKLDMPL_00597	gene	360	rsfS			
+PEKLDMPL_00597	CDS	360	rsfS			Ribosomal silencing factor RsfS
+PEKLDMPL_00598	gene	1971	ftsH			
+PEKLDMPL_00598	CDS	1971	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+PEKLDMPL_00599	gene	852				
+PEKLDMPL_00599	CDS	852				hypothetical protein
+PEKLDMPL_00600	gene	522				
+PEKLDMPL_00600	CDS	522				hypothetical protein
+PEKLDMPL_00601	gene	2313				
+PEKLDMPL_00601	CDS	2313				hypothetical protein
+PEKLDMPL_00602	gene	222				
+PEKLDMPL_00602	CDS	222				hypothetical protein
+PEKLDMPL_00603	gene	1047	aroB			
+PEKLDMPL_00603	CDS	1047	aroB	4.2.3.4		3-dehydroquinate synthase
+PEKLDMPL_00604	gene	831	resA_3			
+PEKLDMPL_00604	CDS	831	resA_3			Thiol-disulfide oxidoreductase ResA
+PEKLDMPL_00605	gene	933	yrbG			
+PEKLDMPL_00605	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+PEKLDMPL_00606	gene	1065				
+PEKLDMPL_00606	CDS	1065				hypothetical protein
+PEKLDMPL_00607	gene	444				
+PEKLDMPL_00607	CDS	444				hypothetical protein
+PEKLDMPL_00608	gene	561	coaE			
+PEKLDMPL_00608	CDS	561	coaE	2.7.1.24		Dephospho-CoA kinase
+PEKLDMPL_00609	gene	987				
+PEKLDMPL_00609	CDS	987				hypothetical protein
+PEKLDMPL_00610	gene	330				
+PEKLDMPL_00610	CDS	330				hypothetical protein
+PEKLDMPL_00611	gene	1002	nusB			
+PEKLDMPL_00611	CDS	1002	nusB			Transcription antitermination protein NusB
+PEKLDMPL_00612	gene	612	ctc			
+PEKLDMPL_00612	CDS	612	ctc		COG1825	General stress protein CTC
+PEKLDMPL_00613	gene	618	pth			
+PEKLDMPL_00613	CDS	618	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+PEKLDMPL_00614	gene	489				
+PEKLDMPL_00614	CDS	489				hypothetical protein
+PEKLDMPL_00615	gene	570	purN			
+PEKLDMPL_00615	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+PEKLDMPL_00616	gene	2943				
+PEKLDMPL_00616	CDS	2943				hypothetical protein
+PEKLDMPL_00617	gene	99				
+PEKLDMPL_00617	CDS	99				hypothetical protein
+PEKLDMPL_00618	gene	1197				
+PEKLDMPL_00618	CDS	1197				hypothetical protein
+PEKLDMPL_00619	gene	555	polC			
+PEKLDMPL_00619	CDS	555	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+PEKLDMPL_00620	gene	1017				
+PEKLDMPL_00620	CDS	1017				hypothetical protein
+PEKLDMPL_00621	gene	465	queF			
+PEKLDMPL_00621	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+PEKLDMPL_00622	gene	339				
+PEKLDMPL_00622	CDS	339				hypothetical protein
+PEKLDMPL_00623	gene	429				
+PEKLDMPL_00623	CDS	429				hypothetical protein
+PEKLDMPL_00624	gene	849				
+PEKLDMPL_00624	CDS	849				hypothetical protein
+PEKLDMPL_00625	gene	1329	allB			
+PEKLDMPL_00625	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+PEKLDMPL_00626	gene	1179				
+PEKLDMPL_00626	CDS	1179				hypothetical protein
+PEKLDMPL_00627	gene	1278				
+PEKLDMPL_00627	CDS	1278				hypothetical protein
+PEKLDMPL_00628	gene	1152				
+PEKLDMPL_00628	CDS	1152				hypothetical protein
+PEKLDMPL_00629	gene	705	yknY_2			
+PEKLDMPL_00629	CDS	705	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PEKLDMPL_00630	gene	1221				
+PEKLDMPL_00630	CDS	1221				hypothetical protein
+PEKLDMPL_00631	gene	1224				
+PEKLDMPL_00631	CDS	1224				hypothetical protein
+PEKLDMPL_00632	gene	756				
+PEKLDMPL_00632	CDS	756				hypothetical protein
+PEKLDMPL_00633	gene	675				
+PEKLDMPL_00633	CDS	675				hypothetical protein
+PEKLDMPL_00634	gene	1209	rhaR_1			
+PEKLDMPL_00634	CDS	1209	rhaR_1			HTH-type transcriptional activator RhaR
+PEKLDMPL_00635	gene	762				
+PEKLDMPL_00635	CDS	762				hypothetical protein
+PEKLDMPL_00636	gene	759	ppm1			
+PEKLDMPL_00636	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+PEKLDMPL_00637	gene	2772	lptD_1			
+PEKLDMPL_00637	CDS	2772	lptD_1			LPS-assembly protein LptD
+PEKLDMPL_00638	gene	585				
+PEKLDMPL_00638	CDS	585				hypothetical protein
+PEKLDMPL_00639	gene	1776				
+PEKLDMPL_00639	CDS	1776				hypothetical protein
+PEKLDMPL_00640	gene	2256	kefB_1			
+PEKLDMPL_00640	CDS	2256	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+PEKLDMPL_00641	gene	1224	pepT			
+PEKLDMPL_00641	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+PEKLDMPL_00642	gene	75				
+PEKLDMPL_00642	tRNA	75				tRNA-Arg(ccg)
+PEKLDMPL_00643	gene	693				
+PEKLDMPL_00643	CDS	693				hypothetical protein
+PEKLDMPL_00644	gene	756				
+PEKLDMPL_00644	CDS	756				hypothetical protein
+PEKLDMPL_00645	gene	1032				
+PEKLDMPL_00645	CDS	1032				hypothetical protein
+PEKLDMPL_00646	gene	2109				
+PEKLDMPL_00646	CDS	2109				hypothetical protein
+PEKLDMPL_00647	gene	738				
+PEKLDMPL_00647	CDS	738				hypothetical protein
+PEKLDMPL_00648	gene	909				
+PEKLDMPL_00648	CDS	909				hypothetical protein
+PEKLDMPL_00649	gene	258				
+PEKLDMPL_00649	CDS	258				hypothetical protein
+PEKLDMPL_00650	gene	759				
+PEKLDMPL_00650	CDS	759				IS982 family transposase IS195
+PEKLDMPL_00651	gene	939	cobD_1			
+PEKLDMPL_00651	CDS	939	cobD_1		COG1270	Cobalamin biosynthesis protein CobD
+PEKLDMPL_00652	gene	1032	cobD_2			
+PEKLDMPL_00652	CDS	1032	cobD_2	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+PEKLDMPL_00653	gene	138				
+PEKLDMPL_00653	CDS	138				hypothetical protein
+PEKLDMPL_00654	gene	726				
+PEKLDMPL_00654	CDS	726				hypothetical protein
+PEKLDMPL_00655	gene	75				
+PEKLDMPL_00655	tRNA	75				tRNA-Ala(ggc)
+PEKLDMPL_00656	gene	465	greA			
+PEKLDMPL_00656	CDS	465	greA		COG0782	Transcription elongation factor GreA
+PEKLDMPL_00657	gene	399				
+PEKLDMPL_00657	CDS	399			COG0537	putative HIT-like protein
+PEKLDMPL_00658	gene	1413				
+PEKLDMPL_00658	CDS	1413				hypothetical protein
+PEKLDMPL_00659	gene	837				
+PEKLDMPL_00659	CDS	837				hypothetical protein
+PEKLDMPL_00660	gene	1002				
+PEKLDMPL_00660	CDS	1002				hypothetical protein
+PEKLDMPL_00661	gene	2538				
+PEKLDMPL_00661	CDS	2538				hypothetical protein
+PEKLDMPL_00662	gene	411				
+PEKLDMPL_00662	CDS	411				hypothetical protein
+PEKLDMPL_00663	gene	510				
+PEKLDMPL_00663	CDS	510				hypothetical protein
+PEKLDMPL_00664	gene	993	mdh			
+PEKLDMPL_00664	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+PEKLDMPL_00665	gene	213				
+PEKLDMPL_00665	CDS	213				hypothetical protein
+PEKLDMPL_00666	gene	1287				
+PEKLDMPL_00666	CDS	1287				hypothetical protein
+PEKLDMPL_00667	gene	1686	dauA			
+PEKLDMPL_00667	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+PEKLDMPL_00668	gene	1734				
+PEKLDMPL_00668	CDS	1734				hypothetical protein
+PEKLDMPL_00669	gene	1104				
+PEKLDMPL_00669	CDS	1104				hypothetical protein
+PEKLDMPL_00670	gene	1104				
+PEKLDMPL_00670	CDS	1104				hypothetical protein
+PEKLDMPL_00671	gene	1917				
+PEKLDMPL_00671	CDS	1917				hypothetical protein
+PEKLDMPL_00672	gene	1788				
+PEKLDMPL_00672	CDS	1788				hypothetical protein
+PEKLDMPL_00673	gene	111				
+PEKLDMPL_00673	CDS	111				hypothetical protein
+PEKLDMPL_00674	gene	1830				
+PEKLDMPL_00674	CDS	1830				hypothetical protein
+PEKLDMPL_00675	gene	207				
+PEKLDMPL_00675	CDS	207				hypothetical protein
+PEKLDMPL_00676	gene	192				
+PEKLDMPL_00676	CDS	192				hypothetical protein
+PEKLDMPL_00677	gene	960				
+PEKLDMPL_00677	CDS	960				hypothetical protein
+PEKLDMPL_00678	gene	792				
+PEKLDMPL_00678	CDS	792				IS3 family transposase ISBth167
+PEKLDMPL_00679	gene	525				
+PEKLDMPL_00679	CDS	525				hypothetical protein
+PEKLDMPL_00680	gene	882	xerD_1			
+PEKLDMPL_00680	CDS	882	xerD_1			Tyrosine recombinase XerD
+PEKLDMPL_00681	gene	300	hpf			
+PEKLDMPL_00681	CDS	300	hpf			Ribosome hibernation promoting factor
+PEKLDMPL_00682	gene	75				
+PEKLDMPL_00682	tRNA	75				tRNA-Thr(tgt)
+PEKLDMPL_00683	gene	84				
+PEKLDMPL_00683	tRNA	84				tRNA-Tyr(gta)
+PEKLDMPL_00684	gene	74				
+PEKLDMPL_00684	tRNA	74				tRNA-Gly(tcc)
+PEKLDMPL_00685	gene	73				
+PEKLDMPL_00685	tRNA	73				tRNA-Thr(ggt)
+PEKLDMPL_00686	gene	1185	tufB			
+PEKLDMPL_00686	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+PEKLDMPL_00687	gene	74				
+PEKLDMPL_00687	tRNA	74				tRNA-Trp(cca)
+PEKLDMPL_00688	gene	543	nusG			
+PEKLDMPL_00688	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+PEKLDMPL_00689	gene	438	rplK			
+PEKLDMPL_00689	CDS	438	rplK			50S ribosomal protein L11
+PEKLDMPL_00690	gene	693	rplA			
+PEKLDMPL_00690	CDS	693	rplA			50S ribosomal protein L1
+PEKLDMPL_00691	gene	516	rplJ			
+PEKLDMPL_00691	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+PEKLDMPL_00692	gene	378	rplL			
+PEKLDMPL_00692	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+PEKLDMPL_00693	gene	3813	rpoB			
+PEKLDMPL_00693	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+PEKLDMPL_00694	gene	4329	rpoC			
+PEKLDMPL_00694	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+PEKLDMPL_00695	gene	1089	trpS2			
+PEKLDMPL_00695	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+PEKLDMPL_00696	gene	321				
+PEKLDMPL_00696	CDS	321				hypothetical protein
+PEKLDMPL_00697	gene	630				
+PEKLDMPL_00697	CDS	630				hypothetical protein
+PEKLDMPL_00698	gene	123				
+PEKLDMPL_00698	CDS	123				hypothetical protein
+PEKLDMPL_00699	gene	636				
+PEKLDMPL_00699	CDS	636				hypothetical protein
+PEKLDMPL_00700	gene	1491				
+PEKLDMPL_00700	CDS	1491				hypothetical protein
+	repeat_region	3269				
+PEKLDMPL_00701	gene	306	cas2			
+PEKLDMPL_00701	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+PEKLDMPL_00702	gene	933	cas1			
+PEKLDMPL_00702	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+PEKLDMPL_00703	gene	4182	cas9			
+PEKLDMPL_00703	CDS	4182	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+PEKLDMPL_00704	gene	624	yjdF			
+PEKLDMPL_00704	CDS	624	yjdF		COG3647	Inner membrane protein YjdF
+PEKLDMPL_00705	gene	83				
+PEKLDMPL_00705	tRNA	83				tRNA-Leu(caa)
+PEKLDMPL_00706	gene	1095	algA			
+PEKLDMPL_00706	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+PEKLDMPL_00707	gene	1164				
+PEKLDMPL_00707	CDS	1164				hypothetical protein
+PEKLDMPL_00708	gene	1134				
+PEKLDMPL_00708	CDS	1134				hypothetical protein
+PEKLDMPL_00709	gene	1443	tuaB_1			
+PEKLDMPL_00709	CDS	1443	tuaB_1		COG2244	Teichuronic acid biosynthesis protein TuaB
+PEKLDMPL_00710	gene	807	rfbF			
+PEKLDMPL_00710	CDS	807	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+PEKLDMPL_00711	gene	1101	rfbG			
+PEKLDMPL_00711	CDS	1101	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+PEKLDMPL_00712	gene	450				
+PEKLDMPL_00712	CDS	450				hypothetical protein
+PEKLDMPL_00713	gene	912	rfbJ			
+PEKLDMPL_00713	CDS	912	rfbJ	1.1.1.341	COG0451	CDP-abequose synthase
+PEKLDMPL_00714	gene	1269				
+PEKLDMPL_00714	CDS	1269				hypothetical protein
+PEKLDMPL_00715	gene	1050	tagF			
+PEKLDMPL_00715	CDS	1050	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+PEKLDMPL_00716	gene	969				
+PEKLDMPL_00716	CDS	969				hypothetical protein
+PEKLDMPL_00717	gene	828	arnC_2			
+PEKLDMPL_00717	CDS	828	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+PEKLDMPL_00718	gene	678	dapH_1			
+PEKLDMPL_00718	CDS	678	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PEKLDMPL_00719	gene	603	dapH_2			
+PEKLDMPL_00719	CDS	603	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PEKLDMPL_00720	gene	930				
+PEKLDMPL_00720	CDS	930				hypothetical protein
+PEKLDMPL_00721	gene	1158	carB_2			
+PEKLDMPL_00721	CDS	1158	carB_2			Carbamoyl-phosphate synthase large chain
+PEKLDMPL_00722	gene	876				
+PEKLDMPL_00722	CDS	876				hypothetical protein
+PEKLDMPL_00723	gene	1035	mshA_2			
+PEKLDMPL_00723	CDS	1035	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PEKLDMPL_00724	gene	744				
+PEKLDMPL_00724	CDS	744				hypothetical protein
+PEKLDMPL_00725	gene	864				
+PEKLDMPL_00725	CDS	864				hypothetical protein
+PEKLDMPL_00726	gene	1587	thiK			
+PEKLDMPL_00726	CDS	1587	thiK	2.7.1.89		Thiamine kinase
+PEKLDMPL_00727	gene	1536				
+PEKLDMPL_00727	CDS	1536			COG1292	putative glycine betaine transporter
+PEKLDMPL_00728	gene	786				
+PEKLDMPL_00728	CDS	786				hypothetical protein
+PEKLDMPL_00729	gene	1200				
+PEKLDMPL_00729	CDS	1200				hypothetical protein
+PEKLDMPL_00730	gene	1155	mshA_3			
+PEKLDMPL_00730	CDS	1155	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PEKLDMPL_00731	gene	543	dapH_3			
+PEKLDMPL_00731	CDS	543	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PEKLDMPL_00732	gene	792	tagA			
+PEKLDMPL_00732	CDS	792	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+PEKLDMPL_00733	gene	963				
+PEKLDMPL_00733	CDS	963				hypothetical protein
+PEKLDMPL_00734	gene	1110				
+PEKLDMPL_00734	CDS	1110				hypothetical protein
+PEKLDMPL_00735	gene	615				
+PEKLDMPL_00735	CDS	615				hypothetical protein
+PEKLDMPL_00736	gene	594	folE			
+PEKLDMPL_00736	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+PEKLDMPL_00737	gene	639				
+PEKLDMPL_00737	CDS	639				hypothetical protein
+PEKLDMPL_00738	gene	2130	tpiA			
+PEKLDMPL_00738	CDS	2130	tpiA			Triosephosphate isomerase
+PEKLDMPL_00739	gene	555				
+PEKLDMPL_00739	CDS	555				hypothetical protein
+PEKLDMPL_00740	gene	459				
+PEKLDMPL_00740	CDS	459				hypothetical protein
+PEKLDMPL_00741	gene	183				
+PEKLDMPL_00741	CDS	183				hypothetical protein
+PEKLDMPL_00742	gene	1065	ydiO			
+PEKLDMPL_00742	CDS	1065	ydiO	2.1.1.37	COG0270	putative BsuMI modification methylase subunit YdiO
+PEKLDMPL_00743	gene	2124				
+PEKLDMPL_00743	CDS	2124				hypothetical protein
+PEKLDMPL_00744	gene	1278				
+PEKLDMPL_00744	CDS	1278				hypothetical protein
+PEKLDMPL_00745	gene	423	vsr			
+PEKLDMPL_00745	CDS	423	vsr	3.1.-.-	COG3727	Very short patch repair protein
+PEKLDMPL_00746	gene	1614	cca			
+PEKLDMPL_00746	CDS	1614	cca	2.7.7.72		CCA-adding enzyme
+PEKLDMPL_00747	gene	1194	ttgA			
+PEKLDMPL_00747	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+PEKLDMPL_00748	gene	3258	bepE			
+PEKLDMPL_00748	CDS	3258	bepE			Efflux pump membrane transporter BepE
+PEKLDMPL_00749	gene	1386	oprM			
+PEKLDMPL_00749	CDS	1386	oprM		COG1538	Outer membrane protein OprM
+PEKLDMPL_00750	gene	774	lpxA_2			
+PEKLDMPL_00750	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+PEKLDMPL_00751	gene	1647				
+PEKLDMPL_00751	CDS	1647				hypothetical protein
+PEKLDMPL_00752	gene	1668	recN			
+PEKLDMPL_00752	CDS	1668	recN		COG0497	DNA repair protein RecN
+PEKLDMPL_00753	gene	903				
+PEKLDMPL_00753	CDS	903				hypothetical protein
+PEKLDMPL_00754	gene	1212	undec1A			
+PEKLDMPL_00754	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+PEKLDMPL_00755	gene	855	dinG			
+PEKLDMPL_00755	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+PEKLDMPL_00756	gene	1125	dnaN			
+PEKLDMPL_00756	CDS	1125	dnaN			Beta sliding clamp
+PEKLDMPL_00757	gene	417				
+PEKLDMPL_00757	CDS	417				hypothetical protein
+PEKLDMPL_00758	gene	399				
+PEKLDMPL_00758	CDS	399		2.8.1.-	COG0607	Sulfurtransferase
+PEKLDMPL_00759	gene	1311	eno			
+PEKLDMPL_00759	CDS	1311	eno	4.2.1.11		Enolase
+PEKLDMPL_00760	gene	981	ribD			
+PEKLDMPL_00760	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+PEKLDMPL_00761	gene	654				
+PEKLDMPL_00761	CDS	654				hypothetical protein
+PEKLDMPL_00762	gene	1305	tyrS			
+PEKLDMPL_00762	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+PEKLDMPL_00763	gene	240				
+PEKLDMPL_00763	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+PEKLDMPL_00764	gene	432	rnpA			
+PEKLDMPL_00764	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+PEKLDMPL_00765	gene	747				
+PEKLDMPL_00765	CDS	747				hypothetical protein
+PEKLDMPL_00766	gene	1050				
+PEKLDMPL_00766	CDS	1050				hypothetical protein
+PEKLDMPL_00767	gene	1305	metK			
+PEKLDMPL_00767	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+PEKLDMPL_00768	gene	2826				
+PEKLDMPL_00768	CDS	2826				hypothetical protein
+PEKLDMPL_00769	gene	165				
+PEKLDMPL_00769	CDS	165				hypothetical protein
+PEKLDMPL_00770	gene	894				
+PEKLDMPL_00770	CDS	894				hypothetical protein
+PEKLDMPL_00771	gene	318				
+PEKLDMPL_00771	CDS	318				hypothetical protein
+PEKLDMPL_00772	gene	210				
+PEKLDMPL_00772	CDS	210				hypothetical protein
+PEKLDMPL_00773	gene	618				
+PEKLDMPL_00773	CDS	618				hypothetical protein
+PEKLDMPL_00774	gene	123				
+PEKLDMPL_00774	CDS	123				hypothetical protein
+PEKLDMPL_00775	gene	1491	cysS			
+PEKLDMPL_00775	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+PEKLDMPL_00776	gene	936				
+PEKLDMPL_00776	CDS	936				hypothetical protein
+PEKLDMPL_00777	gene	1008	pepE			
+PEKLDMPL_00777	CDS	1008	pepE	3.4.22.-	COG3579	Aminopeptidase E
+PEKLDMPL_00778	gene	1047				
+PEKLDMPL_00778	CDS	1047				hypothetical protein
+PEKLDMPL_00779	gene	606				
+PEKLDMPL_00779	CDS	606				hypothetical protein
+PEKLDMPL_00780	gene	237	acpP			
+PEKLDMPL_00780	CDS	237	acpP		COG0236	Acyl carrier protein
+PEKLDMPL_00781	gene	1263	fabF			
+PEKLDMPL_00781	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+PEKLDMPL_00782	gene	1050	rnc			
+PEKLDMPL_00782	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+PEKLDMPL_00783	gene	171				
+PEKLDMPL_00783	CDS	171				hypothetical protein
+PEKLDMPL_00784	gene	1644	hcp			
+PEKLDMPL_00784	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+PEKLDMPL_00785	gene	96				
+PEKLDMPL_00785	CDS	96				hypothetical protein
+PEKLDMPL_00786	gene	600				
+PEKLDMPL_00786	CDS	600				hypothetical protein
+PEKLDMPL_00787	gene	669				
+PEKLDMPL_00787	CDS	669				hypothetical protein
+PEKLDMPL_00788	gene	177				
+PEKLDMPL_00788	CDS	177				hypothetical protein
+PEKLDMPL_00789	gene	321				
+PEKLDMPL_00789	CDS	321				hypothetical protein
+PEKLDMPL_00790	gene	1527				
+PEKLDMPL_00790	CDS	1527				hypothetical protein
+PEKLDMPL_00791	gene	1314				
+PEKLDMPL_00791	CDS	1314				hypothetical protein
+PEKLDMPL_00792	gene	1494	patA_1			
+PEKLDMPL_00792	CDS	1494	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+PEKLDMPL_00793	gene	417				
+PEKLDMPL_00793	CDS	417				hypothetical protein
+PEKLDMPL_00794	gene	1821	argS			
+PEKLDMPL_00794	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+PEKLDMPL_00795	gene	255				
+PEKLDMPL_00795	CDS	255				hypothetical protein
+PEKLDMPL_00796	gene	921				
+PEKLDMPL_00796	CDS	921				hypothetical protein
+PEKLDMPL_00797	gene	72				
+PEKLDMPL_00797	tRNA	72				tRNA-Gln(ttg)
+PEKLDMPL_00798	gene	243				
+PEKLDMPL_00798	CDS	243				hypothetical protein
+PEKLDMPL_00799	gene	2703	rcsC_1			
+PEKLDMPL_00799	CDS	2703	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+PEKLDMPL_00800	gene	432				
+PEKLDMPL_00800	CDS	432				hypothetical protein
+PEKLDMPL_00801	gene	381				
+PEKLDMPL_00801	CDS	381				hypothetical protein
+PEKLDMPL_00802	gene	339				
+PEKLDMPL_00802	CDS	339				hypothetical protein
+PEKLDMPL_00803	gene	132				
+PEKLDMPL_00803	CDS	132				hypothetical protein
+PEKLDMPL_00804	gene	1668	udk_1			
+PEKLDMPL_00804	CDS	1668	udk_1	2.7.1.48		Uridine kinase
+PEKLDMPL_00805	gene	1722				
+PEKLDMPL_00805	CDS	1722				hypothetical protein
+PEKLDMPL_00806	gene	1050	btuB_2			
+PEKLDMPL_00806	CDS	1050	btuB_2			Vitamin B12 transporter BtuB
+PEKLDMPL_00807	gene	285				
+PEKLDMPL_00807	CDS	285				hypothetical protein
+PEKLDMPL_00808	gene	6564				
+PEKLDMPL_00808	CDS	6564				hypothetical protein
+PEKLDMPL_00809	gene	1173				
+PEKLDMPL_00809	CDS	1173				hypothetical protein
+PEKLDMPL_00810	gene	1005	hmuU			
+PEKLDMPL_00810	CDS	1005	hmuU		COG0609	Hemin transport system permease protein HmuU
+PEKLDMPL_00811	gene	894	prmB			
+PEKLDMPL_00811	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+PEKLDMPL_00812	gene	507	recX			
+PEKLDMPL_00812	CDS	507	recX			Regulatory protein RecX
+PEKLDMPL_00813	gene	1287				
+PEKLDMPL_00813	CDS	1287				hypothetical protein
+PEKLDMPL_00814	gene	492				
+PEKLDMPL_00814	CDS	492				hypothetical protein
+PEKLDMPL_00815	gene	1794				
+PEKLDMPL_00815	CDS	1794				hypothetical protein
+PEKLDMPL_00816	gene	852				
+PEKLDMPL_00816	CDS	852				hypothetical protein
+PEKLDMPL_00817	gene	633	pyrE			
+PEKLDMPL_00817	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+PEKLDMPL_00818	gene	423				
+PEKLDMPL_00818	CDS	423				hypothetical protein
+PEKLDMPL_00819	gene	576				
+PEKLDMPL_00819	CDS	576				hypothetical protein
+PEKLDMPL_00820	gene	87				
+PEKLDMPL_00820	tRNA	87				tRNA-Leu(taa)
+PEKLDMPL_00821	gene	1686				
+PEKLDMPL_00821	CDS	1686				hypothetical protein
+PEKLDMPL_00822	gene	1005				
+PEKLDMPL_00822	CDS	1005				hypothetical protein
+PEKLDMPL_00823	gene	696				
+PEKLDMPL_00823	CDS	696				hypothetical protein
+PEKLDMPL_00824	gene	459	rnhA			
+PEKLDMPL_00824	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+PEKLDMPL_00825	gene	477				
+PEKLDMPL_00825	CDS	477				hypothetical protein
+PEKLDMPL_00826	gene	666				
+PEKLDMPL_00826	CDS	666				hypothetical protein
+PEKLDMPL_00827	gene	831				
+PEKLDMPL_00827	CDS	831				hypothetical protein
+PEKLDMPL_00828	gene	558	trmH			
+PEKLDMPL_00828	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+PEKLDMPL_00829	gene	429	csdE			
+PEKLDMPL_00829	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+PEKLDMPL_00830	gene	1296				
+PEKLDMPL_00830	CDS	1296				hypothetical protein
+PEKLDMPL_00831	gene	912	xerD_2			
+PEKLDMPL_00831	CDS	912	xerD_2			Tyrosine recombinase XerD
+PEKLDMPL_00832	gene	1359	miaB			
+PEKLDMPL_00832	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PEKLDMPL_00833	gene	2886				
+PEKLDMPL_00833	CDS	2886				hypothetical protein
+PEKLDMPL_00834	gene	291				
+PEKLDMPL_00834	CDS	291				hypothetical protein
+PEKLDMPL_00835	gene	1140	cbiKp			
+PEKLDMPL_00835	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+PEKLDMPL_00836	gene	2133	cirA_1			
+PEKLDMPL_00836	CDS	2133	cirA_1		COG4771	Colicin I receptor
+PEKLDMPL_00837	gene	2178	btuB_3			
+PEKLDMPL_00837	CDS	2178	btuB_3			Vitamin B12 transporter BtuB
+PEKLDMPL_00838	gene	2784	cobQ			
+PEKLDMPL_00838	CDS	2784	cobQ			Cobyric acid synthase
+PEKLDMPL_00839	gene	666				
+PEKLDMPL_00839	CDS	666				hypothetical protein
+PEKLDMPL_00840	gene	1632				
+PEKLDMPL_00840	CDS	1632				hypothetical protein
+PEKLDMPL_00841	gene	996				
+PEKLDMPL_00841	CDS	996				hypothetical protein
+PEKLDMPL_00842	gene	654				
+PEKLDMPL_00842	CDS	654				hypothetical protein
+PEKLDMPL_00843	gene	864				
+PEKLDMPL_00843	CDS	864				hypothetical protein
+PEKLDMPL_00844	gene	2238	rnr			
+PEKLDMPL_00844	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+PEKLDMPL_00845	gene	993	rfbB_2			
+PEKLDMPL_00845	CDS	993	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+PEKLDMPL_00846	gene	960				
+PEKLDMPL_00846	CDS	960				hypothetical protein
+PEKLDMPL_00847	gene	378	ridA			
+PEKLDMPL_00847	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+PEKLDMPL_00848	gene	1827	msbA			
+PEKLDMPL_00848	CDS	1827	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+PEKLDMPL_00849	gene	1548				
+PEKLDMPL_00849	CDS	1548				hypothetical protein
+PEKLDMPL_00850	gene	846				
+PEKLDMPL_00850	CDS	846				hypothetical protein
+PEKLDMPL_00851	gene	1224				
+PEKLDMPL_00851	CDS	1224				hypothetical protein
+PEKLDMPL_00852	gene	1104				
+PEKLDMPL_00852	CDS	1104				hypothetical protein
+PEKLDMPL_00853	gene	3108	hsdR			
+PEKLDMPL_00853	CDS	3108	hsdR	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+PEKLDMPL_00854	gene	135				
+PEKLDMPL_00854	CDS	135				hypothetical protein
+PEKLDMPL_00855	gene	804				
+PEKLDMPL_00855	CDS	804				hypothetical protein
+PEKLDMPL_00856	gene	1413	ispG			
+PEKLDMPL_00856	CDS	1413	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+PEKLDMPL_00857	gene	507	purE			
+PEKLDMPL_00857	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+PEKLDMPL_00858	gene	630				
+PEKLDMPL_00858	CDS	630				hypothetical protein
+PEKLDMPL_00859	gene	1506	rpoN			
+PEKLDMPL_00859	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+PEKLDMPL_00860	gene	645				
+PEKLDMPL_00860	CDS	645				hypothetical protein
+PEKLDMPL_00861	gene	1098				
+PEKLDMPL_00861	CDS	1098				hypothetical protein
+PEKLDMPL_00862	gene	990	nadA			
+PEKLDMPL_00862	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+PEKLDMPL_00863	gene	1395				
+PEKLDMPL_00863	CDS	1395				hypothetical protein
+PEKLDMPL_00864	gene	2379				
+PEKLDMPL_00864	CDS	2379				hypothetical protein
+PEKLDMPL_00865	gene	2139				
+PEKLDMPL_00865	CDS	2139				hypothetical protein
+PEKLDMPL_00866	gene	897				
+PEKLDMPL_00866	CDS	897				hypothetical protein
+PEKLDMPL_00867	gene	609				
+PEKLDMPL_00867	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+PEKLDMPL_00868	gene	969				
+PEKLDMPL_00868	CDS	969				hypothetical protein
+PEKLDMPL_00869	gene	2874	leuS			
+PEKLDMPL_00869	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+PEKLDMPL_00870	gene	642				
+PEKLDMPL_00870	CDS	642				hypothetical protein
+PEKLDMPL_00871	gene	633	pflA			
+PEKLDMPL_00871	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+PEKLDMPL_00872	gene	438				
+PEKLDMPL_00872	CDS	438				hypothetical protein
+PEKLDMPL_00873	gene	1104	ychF			
+PEKLDMPL_00873	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+PEKLDMPL_00874	gene	849	lgt			
+PEKLDMPL_00874	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+PEKLDMPL_00875	gene	2628	mutS_1			
+PEKLDMPL_00875	CDS	2628	mutS_1		COG0249	DNA mismatch repair protein MutS
+PEKLDMPL_00876	gene	1575				
+PEKLDMPL_00876	CDS	1575				hypothetical protein
+PEKLDMPL_00877	gene	1131	capA			
+PEKLDMPL_00877	CDS	1131	capA			Capsule biosynthesis protein CapA
+PEKLDMPL_00878	gene	2766	polA			
+PEKLDMPL_00878	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+PEKLDMPL_00879	gene	978	ispB			
+PEKLDMPL_00879	CDS	978	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+PEKLDMPL_00880	gene	606				
+PEKLDMPL_00880	CDS	606				hypothetical protein
+PEKLDMPL_00881	gene	891	deoC			
+PEKLDMPL_00881	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+PEKLDMPL_00882	gene	393	ypjD			
+PEKLDMPL_00882	CDS	393	ypjD		COG1694	putative protein YpjD
+PEKLDMPL_00883	gene	453	dtd			
+PEKLDMPL_00883	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+PEKLDMPL_00884	gene	1827	uvrC			
+PEKLDMPL_00884	CDS	1827	uvrC		COG0322	UvrABC system protein C
+PEKLDMPL_00885	gene	531	apt			
+PEKLDMPL_00885	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+PEKLDMPL_00886	gene	1953	mnmG			
+PEKLDMPL_00886	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+PEKLDMPL_00887	gene	129				
+PEKLDMPL_00887	CDS	129				hypothetical protein
+PEKLDMPL_00888	gene	690				
+PEKLDMPL_00888	CDS	690				hypothetical protein
+PEKLDMPL_00889	gene	1983	frdA			
+PEKLDMPL_00889	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+PEKLDMPL_00890	gene	756	frdB			
+PEKLDMPL_00890	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+PEKLDMPL_00891	gene	513				
+PEKLDMPL_00891	CDS	513				hypothetical protein
+PEKLDMPL_00892	gene	168				
+PEKLDMPL_00892	CDS	168				hypothetical protein
+PEKLDMPL_00893	gene	594				
+PEKLDMPL_00893	CDS	594				hypothetical protein
+PEKLDMPL_00894	gene	621				
+PEKLDMPL_00894	CDS	621		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+PEKLDMPL_00895	gene	1866	deaD_2			
+PEKLDMPL_00895	CDS	1866	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+PEKLDMPL_00896	gene	222				
+PEKLDMPL_00896	CDS	222				hypothetical protein
+PEKLDMPL_00897	gene	1377				
+PEKLDMPL_00897	CDS	1377				hypothetical protein
+PEKLDMPL_00898	gene	1227				
+PEKLDMPL_00898	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+PEKLDMPL_00899	gene	426				
+PEKLDMPL_00899	CDS	426				hypothetical protein
+PEKLDMPL_00900	gene	777	dapB			
+PEKLDMPL_00900	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+PEKLDMPL_00901	gene	1440				
+PEKLDMPL_00901	CDS	1440				hypothetical protein
+PEKLDMPL_00902	gene	411				
+PEKLDMPL_00902	CDS	411				hypothetical protein
+PEKLDMPL_00903	gene	606				
+PEKLDMPL_00903	CDS	606				hypothetical protein
+PEKLDMPL_00904	gene	1218	pyrP			
+PEKLDMPL_00904	CDS	1218	pyrP			Uracil permease
+PEKLDMPL_00905	gene	744				
+PEKLDMPL_00905	CDS	744				hypothetical protein
+PEKLDMPL_00906	gene	1296	adeP			
+PEKLDMPL_00906	CDS	1296	adeP		COG2252	Adenine permease AdeP
+PEKLDMPL_00907	gene	1887				
+PEKLDMPL_00907	CDS	1887				hypothetical protein
+PEKLDMPL_00908	gene	468				
+PEKLDMPL_00908	CDS	468				hypothetical protein
+PEKLDMPL_00909	gene	2115				
+PEKLDMPL_00909	CDS	2115				hypothetical protein
+PEKLDMPL_00910	gene	102				
+PEKLDMPL_00910	CDS	102				hypothetical protein
+PEKLDMPL_00911	gene	450				
+PEKLDMPL_00911	CDS	450				hypothetical protein
+PEKLDMPL_00912	gene	786	tcdA			
+PEKLDMPL_00912	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+PEKLDMPL_00913	gene	558				
+PEKLDMPL_00913	CDS	558				hypothetical protein
+PEKLDMPL_00914	gene	1230				
+PEKLDMPL_00914	CDS	1230				hypothetical protein
+PEKLDMPL_00915	gene	4803				
+PEKLDMPL_00915	CDS	4803				hypothetical protein
+PEKLDMPL_00916	gene	264				
+PEKLDMPL_00916	CDS	264				hypothetical protein
+PEKLDMPL_00917	gene	291				
+PEKLDMPL_00917	CDS	291				hypothetical protein
+PEKLDMPL_00918	gene	651				
+PEKLDMPL_00918	CDS	651				hypothetical protein
+PEKLDMPL_00919	gene	447				
+PEKLDMPL_00919	CDS	447				hypothetical protein
+PEKLDMPL_00920	gene	378				
+PEKLDMPL_00920	CDS	378				hypothetical protein
+PEKLDMPL_00921	gene	948				
+PEKLDMPL_00921	CDS	948				hypothetical protein
+PEKLDMPL_00922	gene	1038	wbbI			
+PEKLDMPL_00922	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+PEKLDMPL_00923	gene	726				
+PEKLDMPL_00923	CDS	726				hypothetical protein
+PEKLDMPL_00924	gene	717				
+PEKLDMPL_00924	CDS	717				hypothetical protein
+PEKLDMPL_00925	gene	2127	dpp7			
+PEKLDMPL_00925	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+PEKLDMPL_00926	gene	1473				
+PEKLDMPL_00926	CDS	1473				hypothetical protein
+PEKLDMPL_00927	gene	1233				
+PEKLDMPL_00927	CDS	1233				hypothetical protein
+PEKLDMPL_00928	gene	1029				
+PEKLDMPL_00928	CDS	1029				hypothetical protein
+PEKLDMPL_00929	gene	1755				
+PEKLDMPL_00929	CDS	1755				hypothetical protein
+PEKLDMPL_00930	gene	483	asnC_2			
+PEKLDMPL_00930	CDS	483	asnC_2		COG1522	Regulatory protein AsnC
+PEKLDMPL_00931	gene	912				
+PEKLDMPL_00931	CDS	912				hypothetical protein
+PEKLDMPL_00932	gene	879				
+PEKLDMPL_00932	CDS	879				hypothetical protein
+PEKLDMPL_00933	gene	606	fklB			
+PEKLDMPL_00933	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+PEKLDMPL_00934	gene	1446				
+PEKLDMPL_00934	CDS	1446				hypothetical protein
+PEKLDMPL_00935	gene	96				
+PEKLDMPL_00935	CDS	96				hypothetical protein
+PEKLDMPL_00936	gene	1056	yhcG			
+PEKLDMPL_00936	CDS	1056	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+PEKLDMPL_00937	gene	3633				
+PEKLDMPL_00937	CDS	3633				hypothetical protein
+PEKLDMPL_00938	gene	1188				
+PEKLDMPL_00938	CDS	1188				hypothetical protein
+PEKLDMPL_00939	gene	156				
+PEKLDMPL_00939	CDS	156				hypothetical protein
+PEKLDMPL_00940	gene	705	cobB			
+PEKLDMPL_00940	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+PEKLDMPL_00941	gene	2004				
+PEKLDMPL_00941	CDS	2004				hypothetical protein
+PEKLDMPL_00942	gene	534				
+PEKLDMPL_00942	CDS	534				hypothetical protein
+PEKLDMPL_00943	gene	540				
+PEKLDMPL_00943	CDS	540				hypothetical protein
+PEKLDMPL_00944	gene	465	rimP			
+PEKLDMPL_00944	CDS	465	rimP			Ribosome maturation factor RimP
+PEKLDMPL_00945	gene	1257	nusA			
+PEKLDMPL_00945	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+PEKLDMPL_00946	gene	2868	infB			
+PEKLDMPL_00946	CDS	2868	infB			Translation initiation factor IF-2
+PEKLDMPL_00947	gene	147				
+PEKLDMPL_00947	CDS	147				hypothetical protein
+PEKLDMPL_00948	gene	1458	sufB			
+PEKLDMPL_00948	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+PEKLDMPL_00949	gene	366				
+PEKLDMPL_00949	CDS	366				hypothetical protein
+PEKLDMPL_00950	gene	756	sufC			
+PEKLDMPL_00950	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+PEKLDMPL_00951	gene	1365	sufD			
+PEKLDMPL_00951	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+PEKLDMPL_00952	gene	1584				
+PEKLDMPL_00952	CDS	1584				hypothetical protein
+PEKLDMPL_00953	gene	219				
+PEKLDMPL_00953	CDS	219				hypothetical protein
+PEKLDMPL_00954	gene	246				
+PEKLDMPL_00954	CDS	246				hypothetical protein
+PEKLDMPL_00955	gene	789				
+PEKLDMPL_00955	CDS	789				IS982 family transposase IS195
+PEKLDMPL_00956	gene	636	udk_2			
+PEKLDMPL_00956	CDS	636	udk_2	2.7.1.48		Uridine kinase
+PEKLDMPL_00957	gene	573				
+PEKLDMPL_00957	CDS	573				hypothetical protein
+PEKLDMPL_00958	gene	1038				
+PEKLDMPL_00958	CDS	1038				hypothetical protein
+PEKLDMPL_00959	gene	2562				
+PEKLDMPL_00959	CDS	2562				hypothetical protein
+PEKLDMPL_00960	gene	930				
+PEKLDMPL_00960	CDS	930				hypothetical protein
+PEKLDMPL_00961	gene	1335				
+PEKLDMPL_00961	CDS	1335				hypothetical protein
+PEKLDMPL_00962	gene	255	rpmE2			
+PEKLDMPL_00962	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+PEKLDMPL_00963	gene	906				
+PEKLDMPL_00963	CDS	906				hypothetical protein
+PEKLDMPL_00964	gene	1563				
+PEKLDMPL_00964	CDS	1563				hypothetical protein
+PEKLDMPL_00965	gene	456				
+PEKLDMPL_00965	CDS	456				hypothetical protein
+PEKLDMPL_00966	gene	1242	ugd			
+PEKLDMPL_00966	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+PEKLDMPL_00967	gene	600				
+PEKLDMPL_00967	CDS	600				hypothetical protein
+PEKLDMPL_00968	gene	549	bsaA			
+PEKLDMPL_00968	CDS	549	bsaA			Glutathione peroxidase BsaA
+PEKLDMPL_00969	gene	909	trxB			
+PEKLDMPL_00969	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+PEKLDMPL_00970	gene	1155				
+PEKLDMPL_00970	CDS	1155				hypothetical protein
+PEKLDMPL_00971	gene	1221				
+PEKLDMPL_00971	CDS	1221				hypothetical protein
+PEKLDMPL_00972	gene	798	tuaG			
+PEKLDMPL_00972	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+PEKLDMPL_00973	gene	1197	arnB			
+PEKLDMPL_00973	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+PEKLDMPL_00974	gene	594				
+PEKLDMPL_00974	CDS	594				hypothetical protein
+PEKLDMPL_00975	gene	1914	pglF			
+PEKLDMPL_00975	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+PEKLDMPL_00976	gene	1113				
+PEKLDMPL_00976	CDS	1113				hypothetical protein
+PEKLDMPL_00977	gene	1047				
+PEKLDMPL_00977	CDS	1047				hypothetical protein
+PEKLDMPL_00978	gene	510	pspA_1			
+PEKLDMPL_00978	CDS	510	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+PEKLDMPL_00979	gene	1746	ruvB_1			
+PEKLDMPL_00979	CDS	1746	ruvB_1	3.6.4.12		Holliday junction ATP-dependent DNA helicase RuvB
+PEKLDMPL_00980	gene	861				
+PEKLDMPL_00980	CDS	861				hypothetical protein
+PEKLDMPL_00981	gene	405				
+PEKLDMPL_00981	CDS	405				hypothetical protein
+PEKLDMPL_00982	gene	1446				
+PEKLDMPL_00982	CDS	1446				hypothetical protein
+PEKLDMPL_00983	gene	474				
+PEKLDMPL_00983	CDS	474				hypothetical protein
+PEKLDMPL_00984	gene	447				
+PEKLDMPL_00984	CDS	447				hypothetical protein
+PEKLDMPL_00985	gene	876				
+PEKLDMPL_00985	CDS	876				hypothetical protein
+PEKLDMPL_00986	gene	3024				
+PEKLDMPL_00986	CDS	3024				hypothetical protein
+PEKLDMPL_00987	gene	3417	mfd			
+PEKLDMPL_00987	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+PEKLDMPL_00988	gene	1152	mshA_4			
+PEKLDMPL_00988	CDS	1152	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PEKLDMPL_00989	gene	1542				
+PEKLDMPL_00989	CDS	1542				hypothetical protein
+PEKLDMPL_00990	gene	1221				
+PEKLDMPL_00990	CDS	1221				hypothetical protein
+PEKLDMPL_00991	gene	555	dapH_4			
+PEKLDMPL_00991	CDS	555	dapH_4	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PEKLDMPL_00992	gene	1530				
+PEKLDMPL_00992	CDS	1530				hypothetical protein
+PEKLDMPL_00993	gene	1194				
+PEKLDMPL_00993	CDS	1194				hypothetical protein
+PEKLDMPL_00994	gene	1077				
+PEKLDMPL_00994	CDS	1077				hypothetical protein
+PEKLDMPL_00995	gene	2499				
+PEKLDMPL_00995	CDS	2499				hypothetical protein
+PEKLDMPL_00996	gene	636	wecA			
+PEKLDMPL_00996	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+PEKLDMPL_00997	gene	398	ssrA			
+PEKLDMPL_00997	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+PEKLDMPL_00998	gene	798	ccsA_1			
+PEKLDMPL_00998	CDS	798	ccsA_1			Cytochrome c biogenesis protein CcsA
+PEKLDMPL_00999	gene	1311				
+PEKLDMPL_00999	CDS	1311				hypothetical protein
+PEKLDMPL_01000	gene	1497	nrfA			
+PEKLDMPL_01000	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+PEKLDMPL_01001	gene	606				
+PEKLDMPL_01001	CDS	606				hypothetical protein
+PEKLDMPL_01002	gene	261				
+PEKLDMPL_01002	CDS	261				hypothetical protein
+PEKLDMPL_01003	gene	216				
+PEKLDMPL_01003	CDS	216				hypothetical protein
+PEKLDMPL_01004	gene	1074	adh			
+PEKLDMPL_01004	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+PEKLDMPL_01005	gene	75				
+PEKLDMPL_01005	tRNA	75				tRNA-His(gtg)
+PEKLDMPL_01006	gene	1299				
+PEKLDMPL_01006	CDS	1299				hypothetical protein
+PEKLDMPL_01007	gene	702	trmO			
+PEKLDMPL_01007	CDS	702	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+PEKLDMPL_01008	gene	3201				
+PEKLDMPL_01008	CDS	3201				hypothetical protein
+PEKLDMPL_01009	gene	2580				
+PEKLDMPL_01009	CDS	2580				hypothetical protein
+PEKLDMPL_01010	gene	3117				
+PEKLDMPL_01010	CDS	3117				hypothetical protein
+PEKLDMPL_01011	gene	390				
+PEKLDMPL_01011	CDS	390				hypothetical protein
+PEKLDMPL_01012	gene	771				
+PEKLDMPL_01012	CDS	771				hypothetical protein
+PEKLDMPL_01013	gene	543				
+PEKLDMPL_01013	CDS	543				hypothetical protein
+PEKLDMPL_01014	gene	1215	norR			
+PEKLDMPL_01014	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+PEKLDMPL_01015	gene	1698	eptC			
+PEKLDMPL_01015	CDS	1698	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+PEKLDMPL_01016	gene	462	ndk			
+PEKLDMPL_01016	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+PEKLDMPL_01017	gene	3693				
+PEKLDMPL_01017	CDS	3693				hypothetical protein
+PEKLDMPL_01018	gene	1389	ampG			
+PEKLDMPL_01018	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+PEKLDMPL_01019	gene	909				
+PEKLDMPL_01019	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+PEKLDMPL_01020	gene	1044	aguA			
+PEKLDMPL_01020	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+PEKLDMPL_01021	gene	135				
+PEKLDMPL_01021	CDS	135				hypothetical protein
+PEKLDMPL_01022	gene	105				
+PEKLDMPL_01022	CDS	105				hypothetical protein
+PEKLDMPL_01023	gene	879				
+PEKLDMPL_01023	CDS	879				hypothetical protein
+PEKLDMPL_01024	gene	840				
+PEKLDMPL_01024	CDS	840				hypothetical protein
+PEKLDMPL_01025	gene	951				
+PEKLDMPL_01025	CDS	951				hypothetical protein
+PEKLDMPL_01026	gene	174				
+PEKLDMPL_01026	CDS	174				hypothetical protein
+PEKLDMPL_01027	gene	471				
+PEKLDMPL_01027	CDS	471				hypothetical protein
+PEKLDMPL_01028	gene	1029				
+PEKLDMPL_01028	CDS	1029				hypothetical protein
+PEKLDMPL_01029	gene	477				
+PEKLDMPL_01029	CDS	477				hypothetical protein
+PEKLDMPL_01030	gene	777	pyrK_1			
+PEKLDMPL_01030	CDS	777	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+PEKLDMPL_01031	gene	912	pyrD			
+PEKLDMPL_01031	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+PEKLDMPL_01032	gene	1092	aroC			
+PEKLDMPL_01032	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+PEKLDMPL_01033	gene	600	slyD			
+PEKLDMPL_01033	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+PEKLDMPL_01034	gene	216				
+PEKLDMPL_01034	CDS	216				hypothetical protein
+PEKLDMPL_01035	gene	2214				
+PEKLDMPL_01035	CDS	2214				hypothetical protein
+PEKLDMPL_01036	gene	498				
+PEKLDMPL_01036	CDS	498			COG0716	Flavodoxin 1
+PEKLDMPL_01037	gene	363				
+PEKLDMPL_01037	CDS	363				hypothetical protein
+PEKLDMPL_01038	gene	1506				
+PEKLDMPL_01038	CDS	1506		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+PEKLDMPL_01039	gene	822	acr1			
+PEKLDMPL_01039	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+PEKLDMPL_01040	gene	123				
+PEKLDMPL_01040	CDS	123				hypothetical protein
+PEKLDMPL_01041	gene	285				
+PEKLDMPL_01041	CDS	285				hypothetical protein
+PEKLDMPL_01042	gene	408				
+PEKLDMPL_01042	CDS	408				hypothetical protein
+PEKLDMPL_01043	gene	462				
+PEKLDMPL_01043	CDS	462				hypothetical protein
+PEKLDMPL_01044	gene	456				
+PEKLDMPL_01044	CDS	456				hypothetical protein
+PEKLDMPL_01045	gene	954	qmcA			
+PEKLDMPL_01045	CDS	954	qmcA		COG0330	Protein QmcA
+PEKLDMPL_01046	gene	108				
+PEKLDMPL_01046	CDS	108				hypothetical protein
+PEKLDMPL_01047	gene	1086	wbpI			
+PEKLDMPL_01047	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+PEKLDMPL_01048	gene	927	oxyR			
+PEKLDMPL_01048	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+PEKLDMPL_01049	gene	585	sodB			
+PEKLDMPL_01049	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+PEKLDMPL_01050	gene	567	ahpC			
+PEKLDMPL_01050	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+PEKLDMPL_01051	gene	1560	ahpF			
+PEKLDMPL_01051	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+PEKLDMPL_01052	gene	1047	rlmN			
+PEKLDMPL_01052	CDS	1047	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+PEKLDMPL_01053	gene	978				
+PEKLDMPL_01053	CDS	978				hypothetical protein
+PEKLDMPL_01054	gene	1107	pdxA2			
+PEKLDMPL_01054	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+PEKLDMPL_01055	gene	1095				
+PEKLDMPL_01055	CDS	1095				hypothetical protein
+PEKLDMPL_01056	gene	1059				
+PEKLDMPL_01056	CDS	1059				hypothetical protein
+PEKLDMPL_01057	gene	1065	kdsA_2			
+PEKLDMPL_01057	CDS	1065	kdsA_2	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+PEKLDMPL_01058	gene	2325				
+PEKLDMPL_01058	CDS	2325				hypothetical protein
+PEKLDMPL_01059	gene	855	bepA_2			
+PEKLDMPL_01059	CDS	855	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+PEKLDMPL_01060	gene	114				
+PEKLDMPL_01060	CDS	114				hypothetical protein
+PEKLDMPL_01061	gene	129				
+PEKLDMPL_01061	CDS	129				hypothetical protein
+PEKLDMPL_01062	gene	474				
+PEKLDMPL_01062	CDS	474				hypothetical protein
+PEKLDMPL_01063	gene	918	rhaS			
+PEKLDMPL_01063	CDS	918	rhaS			HTH-type transcriptional activator RhaS
+PEKLDMPL_01064	gene	258				
+PEKLDMPL_01064	CDS	258				hypothetical protein
+PEKLDMPL_01065	gene	876	pdxS			
+PEKLDMPL_01065	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+PEKLDMPL_01066	gene	546	pdxT			
+PEKLDMPL_01066	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+PEKLDMPL_01067	gene	1299				
+PEKLDMPL_01067	CDS	1299				hypothetical protein
+PEKLDMPL_01068	gene	225				
+PEKLDMPL_01068	CDS	225				hypothetical protein
+PEKLDMPL_01069	gene	2343				
+PEKLDMPL_01069	CDS	2343				hypothetical protein
+PEKLDMPL_01070	gene	468				
+PEKLDMPL_01070	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+PEKLDMPL_01071	gene	165				
+PEKLDMPL_01071	CDS	165				hypothetical protein
+PEKLDMPL_01072	gene	1767				
+PEKLDMPL_01072	CDS	1767				hypothetical protein
+PEKLDMPL_01073	gene	1686				
+PEKLDMPL_01073	CDS	1686				hypothetical protein
+PEKLDMPL_01074	gene	1851				
+PEKLDMPL_01074	CDS	1851				hypothetical protein
+PEKLDMPL_01075	gene	3339				
+PEKLDMPL_01075	CDS	3339				hypothetical protein
+PEKLDMPL_01076	gene	909	pfkB			
+PEKLDMPL_01076	CDS	909	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+PEKLDMPL_01077	gene	1155				
+PEKLDMPL_01077	CDS	1155				hypothetical protein
+PEKLDMPL_01078	gene	1896	sacC			
+PEKLDMPL_01078	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+PEKLDMPL_01079	gene	702				
+PEKLDMPL_01079	CDS	702				hypothetical protein
+PEKLDMPL_01080	gene	348				
+PEKLDMPL_01080	CDS	348				hypothetical protein
+PEKLDMPL_01081	gene	1296				
+PEKLDMPL_01081	CDS	1296				hypothetical protein
+PEKLDMPL_01082	gene	1410				
+PEKLDMPL_01082	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+PEKLDMPL_01083	gene	1155	dxr			
+PEKLDMPL_01083	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+PEKLDMPL_01084	gene	522	rimM			
+PEKLDMPL_01084	CDS	522	rimM			Ribosome maturation factor RimM
+PEKLDMPL_01085	gene	1347	murA			
+PEKLDMPL_01085	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PEKLDMPL_01086	gene	612				
+PEKLDMPL_01086	CDS	612				hypothetical protein
+PEKLDMPL_01087	gene	690	tsaB			
+PEKLDMPL_01087	CDS	690	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PEKLDMPL_01088	gene	879				
+PEKLDMPL_01088	CDS	879				hypothetical protein
+PEKLDMPL_01089	gene	1149				
+PEKLDMPL_01089	CDS	1149				hypothetical protein
+PEKLDMPL_01090	gene	696	gmk			
+PEKLDMPL_01090	CDS	696	gmk	2.7.4.8	COG0194	Guanylate kinase
+PEKLDMPL_01091	gene	633	nadD			
+PEKLDMPL_01091	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+PEKLDMPL_01092	gene	717				
+PEKLDMPL_01092	CDS	717				hypothetical protein
+PEKLDMPL_01093	gene	117				
+PEKLDMPL_01093	CDS	117				hypothetical protein
+PEKLDMPL_01094	gene	1077				
+PEKLDMPL_01094	CDS	1077				hypothetical protein
+PEKLDMPL_01095	gene	1341				
+PEKLDMPL_01095	CDS	1341				hypothetical protein
+PEKLDMPL_01096	gene	1734				
+PEKLDMPL_01096	CDS	1734				hypothetical protein
+PEKLDMPL_01097	gene	1788				
+PEKLDMPL_01097	CDS	1788				hypothetical protein
+PEKLDMPL_01098	gene	462	rplM			
+PEKLDMPL_01098	CDS	462	rplM		COG0102	50S ribosomal protein L13
+PEKLDMPL_01099	gene	387	rpsI			
+PEKLDMPL_01099	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+PEKLDMPL_01100	gene	870	rpsB			
+PEKLDMPL_01100	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+PEKLDMPL_01101	gene	999	TSFM			
+PEKLDMPL_01101	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+PEKLDMPL_01102	gene	618	ycgM			
+PEKLDMPL_01102	CDS	618	ycgM		COG0179	putative protein YcgM
+PEKLDMPL_01103	gene	3567				
+PEKLDMPL_01103	CDS	3567				hypothetical protein
+PEKLDMPL_01104	gene	96				
+PEKLDMPL_01104	CDS	96				hypothetical protein
+PEKLDMPL_01105	gene	1146				
+PEKLDMPL_01105	CDS	1146				hypothetical protein
+PEKLDMPL_01106	gene	477	ispF			
+PEKLDMPL_01106	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+PEKLDMPL_01107	gene	765				
+PEKLDMPL_01107	CDS	765				hypothetical protein
+PEKLDMPL_01108	gene	2229	btuB_4			
+PEKLDMPL_01108	CDS	2229	btuB_4			Vitamin B12 transporter BtuB
+PEKLDMPL_01109	gene	4299				
+PEKLDMPL_01109	CDS	4299				hypothetical protein
+PEKLDMPL_01110	gene	705				
+PEKLDMPL_01110	CDS	705				hypothetical protein
+PEKLDMPL_01111	gene	603				
+PEKLDMPL_01111	CDS	603				hypothetical protein
+PEKLDMPL_01112	gene	309				
+PEKLDMPL_01112	CDS	309				hypothetical protein
+PEKLDMPL_01113	gene	1356	mshA_5			
+PEKLDMPL_01113	CDS	1356	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PEKLDMPL_01114	gene	804				
+PEKLDMPL_01114	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+PEKLDMPL_01115	gene	1857	cptA			
+PEKLDMPL_01115	CDS	1857	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+PEKLDMPL_01116	gene	1071				
+PEKLDMPL_01116	CDS	1071				hypothetical protein
+PEKLDMPL_01117	gene	1683				
+PEKLDMPL_01117	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+PEKLDMPL_01118	gene	900	nadK			
+PEKLDMPL_01118	CDS	900	nadK	2.7.1.23		NAD kinase
+PEKLDMPL_01119	gene	567	yajL			
+PEKLDMPL_01119	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+PEKLDMPL_01120	gene	609				
+PEKLDMPL_01120	CDS	609				hypothetical protein
+PEKLDMPL_01121	gene	879				
+PEKLDMPL_01121	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+PEKLDMPL_01122	gene	639				
+PEKLDMPL_01122	CDS	639				hypothetical protein
+PEKLDMPL_01123	gene	1440				
+PEKLDMPL_01123	CDS	1440				hypothetical protein
+PEKLDMPL_01124	gene	1443	tuaB_2			
+PEKLDMPL_01124	CDS	1443	tuaB_2		COG2244	Teichuronic acid biosynthesis protein TuaB
+PEKLDMPL_01125	gene	975				
+PEKLDMPL_01125	CDS	975				hypothetical protein
+PEKLDMPL_01126	gene	582				
+PEKLDMPL_01126	CDS	582				hypothetical protein
+PEKLDMPL_01127	gene	1095				
+PEKLDMPL_01127	CDS	1095				hypothetical protein
+PEKLDMPL_01128	gene	636	nfrA2			
+PEKLDMPL_01128	CDS	636	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+PEKLDMPL_01129	gene	102				
+PEKLDMPL_01129	CDS	102				hypothetical protein
+PEKLDMPL_01130	gene	183				
+PEKLDMPL_01130	CDS	183				hypothetical protein
+PEKLDMPL_01131	gene	219				
+PEKLDMPL_01131	CDS	219				hypothetical protein
+PEKLDMPL_01132	gene	174				
+PEKLDMPL_01132	CDS	174				hypothetical protein
+PEKLDMPL_01133	gene	1632				
+PEKLDMPL_01133	CDS	1632				hypothetical protein
+PEKLDMPL_01134	gene	2064				
+PEKLDMPL_01134	CDS	2064				hypothetical protein
+PEKLDMPL_01135	gene	2214				
+PEKLDMPL_01135	CDS	2214				hypothetical protein
+PEKLDMPL_01136	gene	660				
+PEKLDMPL_01136	CDS	660				hypothetical protein
+PEKLDMPL_01137	gene	408				
+PEKLDMPL_01137	CDS	408				hypothetical protein
+PEKLDMPL_01138	gene	840				
+PEKLDMPL_01138	CDS	840				hypothetical protein
+PEKLDMPL_01139	gene	102				
+PEKLDMPL_01139	CDS	102				hypothetical protein
+PEKLDMPL_01140	gene	2517				
+PEKLDMPL_01140	CDS	2517				hypothetical protein
+PEKLDMPL_01141	gene	1650				
+PEKLDMPL_01141	CDS	1650				hypothetical protein
+PEKLDMPL_01142	gene	888				
+PEKLDMPL_01142	CDS	888				hypothetical protein
+PEKLDMPL_01143	gene	1779	bepA_3			
+PEKLDMPL_01143	CDS	1779	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+PEKLDMPL_01144	gene	438	dut			
+PEKLDMPL_01144	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PEKLDMPL_01145	gene	1527	dgt			
+PEKLDMPL_01145	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+PEKLDMPL_01146	gene	279				
+PEKLDMPL_01146	CDS	279				hypothetical protein
+PEKLDMPL_01147	gene	261				
+PEKLDMPL_01147	CDS	261				hypothetical protein
+PEKLDMPL_01148	gene	420				
+PEKLDMPL_01148	CDS	420				hypothetical protein
+PEKLDMPL_01149	gene	477				
+PEKLDMPL_01149	CDS	477				hypothetical protein
+PEKLDMPL_01150	gene	1017				
+PEKLDMPL_01150	CDS	1017				hypothetical protein
+PEKLDMPL_01151	gene	828				
+PEKLDMPL_01151	CDS	828				hypothetical protein
+PEKLDMPL_01152	gene	465	mraZ			
+PEKLDMPL_01152	CDS	465	mraZ			Transcriptional regulator MraZ
+PEKLDMPL_01153	gene	1032	rsmH			
+PEKLDMPL_01153	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+PEKLDMPL_01154	gene	624				
+PEKLDMPL_01154	CDS	624				hypothetical protein
+PEKLDMPL_01155	gene	2148	pbpB			
+PEKLDMPL_01155	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+PEKLDMPL_01156	gene	1452	murE			
+PEKLDMPL_01156	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+PEKLDMPL_01157	gene	1272	mraY			
+PEKLDMPL_01157	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PEKLDMPL_01158	gene	1344	murD			
+PEKLDMPL_01158	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PEKLDMPL_01159	gene	1287	ftsW			
+PEKLDMPL_01159	CDS	1287	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+PEKLDMPL_01160	gene	1116	murG			
+PEKLDMPL_01160	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PEKLDMPL_01161	gene	1401	murC			
+PEKLDMPL_01161	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+PEKLDMPL_01162	gene	1002				
+PEKLDMPL_01162	CDS	1002				hypothetical protein
+PEKLDMPL_01163	gene	1461	ftsA			
+PEKLDMPL_01163	CDS	1461	ftsA			Cell division protein FtsA
+PEKLDMPL_01164	gene	1320	ftsZ			
+PEKLDMPL_01164	CDS	1320	ftsZ			Cell division protein FtsZ
+PEKLDMPL_01165	gene	447	yqeY			
+PEKLDMPL_01165	CDS	447	yqeY		COG1610	putative protein YqeY
+PEKLDMPL_01166	gene	1122				
+PEKLDMPL_01166	CDS	1122				hypothetical protein
+PEKLDMPL_01167	gene	726	recO			
+PEKLDMPL_01167	CDS	726	recO		COG1381	DNA repair protein RecO
+PEKLDMPL_01168	gene	75				
+PEKLDMPL_01168	tRNA	75				tRNA-Glu(ttc)
+PEKLDMPL_01169	gene	255	rpsT			
+PEKLDMPL_01169	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+PEKLDMPL_01170	gene	135				
+PEKLDMPL_01170	CDS	135				hypothetical protein
+PEKLDMPL_01171	gene	1971	gyrB_1			
+PEKLDMPL_01171	CDS	1971	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+PEKLDMPL_01172	gene	879				
+PEKLDMPL_01172	CDS	879				hypothetical protein
+PEKLDMPL_01173	gene	621				
+PEKLDMPL_01173	CDS	621				hypothetical protein
+PEKLDMPL_01174	gene	666	ung			
+PEKLDMPL_01174	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+PEKLDMPL_01175	gene	1518	gpmI			
+PEKLDMPL_01175	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+PEKLDMPL_01176	gene	213				
+PEKLDMPL_01176	CDS	213				hypothetical protein
+PEKLDMPL_01177	gene	2196				
+PEKLDMPL_01177	CDS	2196				hypothetical protein
+PEKLDMPL_01178	gene	1050	dusB			
+PEKLDMPL_01178	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+PEKLDMPL_01179	gene	1128				
+PEKLDMPL_01179	CDS	1128				hypothetical protein
+PEKLDMPL_01180	gene	453				
+PEKLDMPL_01180	CDS	453				hypothetical protein
+PEKLDMPL_01181	gene	1365				
+PEKLDMPL_01181	CDS	1365				hypothetical protein
+PEKLDMPL_01182	gene	102				
+PEKLDMPL_01182	CDS	102				hypothetical protein
+PEKLDMPL_01183	gene	1413				
+PEKLDMPL_01183	CDS	1413				hypothetical protein
+PEKLDMPL_01184	gene	909				
+PEKLDMPL_01184	CDS	909				hypothetical protein
+PEKLDMPL_01185	gene	1149	yghO			
+PEKLDMPL_01185	CDS	1149	yghO			Protein YghO
+PEKLDMPL_01186	gene	1944	gyrB_2			
+PEKLDMPL_01186	CDS	1944	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+PEKLDMPL_01187	gene	441	coaD			
+PEKLDMPL_01187	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+PEKLDMPL_01188	gene	411	ybeY			
+PEKLDMPL_01188	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+PEKLDMPL_01189	gene	1578				
+PEKLDMPL_01189	CDS	1578				hypothetical protein
+PEKLDMPL_01190	gene	1035	ruvB_2			
+PEKLDMPL_01190	CDS	1035	ruvB_2	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+PEKLDMPL_01191	gene	1218	norV			
+PEKLDMPL_01191	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+PEKLDMPL_01192	gene	1308				
+PEKLDMPL_01192	CDS	1308		3.4.24.-	COG0612	putative zinc protease
+PEKLDMPL_01193	gene	1368				
+PEKLDMPL_01193	CDS	1368				hypothetical protein
+PEKLDMPL_01194	gene	1254				
+PEKLDMPL_01194	CDS	1254				hypothetical protein
+PEKLDMPL_01195	gene	3657				
+PEKLDMPL_01195	CDS	3657				hypothetical protein
+PEKLDMPL_01196	gene	1188	bioF			
+PEKLDMPL_01196	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+PEKLDMPL_01197	gene	903	rhaR_2			
+PEKLDMPL_01197	CDS	903	rhaR_2			HTH-type transcriptional activator RhaR
+PEKLDMPL_01198	gene	510	resA_4			
+PEKLDMPL_01198	CDS	510	resA_4			Thiol-disulfide oxidoreductase ResA
+PEKLDMPL_01199	gene	105				
+PEKLDMPL_01199	CDS	105				hypothetical protein
+PEKLDMPL_01200	gene	819				
+PEKLDMPL_01200	CDS	819				hypothetical protein
+PEKLDMPL_01201	gene	2310	maeB			
+PEKLDMPL_01201	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+PEKLDMPL_01202	gene	3591				
+PEKLDMPL_01202	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+PEKLDMPL_01203	gene	1188				
+PEKLDMPL_01203	CDS	1188				hypothetical protein
+PEKLDMPL_01204	gene	1083				
+PEKLDMPL_01204	CDS	1083				hypothetical protein
+PEKLDMPL_01205	gene	291				
+PEKLDMPL_01205	CDS	291				hypothetical protein
+PEKLDMPL_01206	gene	2202	hppA1			
+PEKLDMPL_01206	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+PEKLDMPL_01207	gene	1101				
+PEKLDMPL_01207	CDS	1101				hypothetical protein
+PEKLDMPL_01208	gene	1443	rlmCD			
+PEKLDMPL_01208	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PEKLDMPL_01209	gene	1524				
+PEKLDMPL_01209	CDS	1524				hypothetical protein
+PEKLDMPL_01210	gene	123				
+PEKLDMPL_01210	CDS	123				hypothetical protein
+PEKLDMPL_01211	gene	1374	mnmE			
+PEKLDMPL_01211	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+PEKLDMPL_01212	gene	1032	ltaE			
+PEKLDMPL_01212	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+PEKLDMPL_01213	gene	876	deoD			
+PEKLDMPL_01213	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+PEKLDMPL_01214	gene	1116				
+PEKLDMPL_01214	CDS	1116				hypothetical protein
+PEKLDMPL_01215	gene	2358	pyrK_2			
+PEKLDMPL_01215	CDS	2358	pyrK_2			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+PEKLDMPL_01216	gene	1317	serS			
+PEKLDMPL_01216	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+PEKLDMPL_01217	gene	264	rpmA			
+PEKLDMPL_01217	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+PEKLDMPL_01218	gene	318	rplU			
+PEKLDMPL_01218	CDS	318	rplU		COG0261	50S ribosomal protein L21
+PEKLDMPL_01219	gene	759	exoA			
+PEKLDMPL_01219	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+PEKLDMPL_01220	gene	384				
+PEKLDMPL_01220	CDS	384				hypothetical protein
+PEKLDMPL_01221	gene	585				
+PEKLDMPL_01221	CDS	585				hypothetical protein
+PEKLDMPL_01222	gene	678				
+PEKLDMPL_01222	CDS	678				hypothetical protein
+PEKLDMPL_01223	gene	606				
+PEKLDMPL_01223	CDS	606				hypothetical protein
+PEKLDMPL_01224	gene	411				
+PEKLDMPL_01224	CDS	411				hypothetical protein
+PEKLDMPL_01225	gene	1491	algC_2			
+PEKLDMPL_01225	CDS	1491	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+PEKLDMPL_01226	gene	2037	pepO			
+PEKLDMPL_01226	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+PEKLDMPL_01227	gene	1953	yheS			
+PEKLDMPL_01227	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+PEKLDMPL_01228	gene	2217	yhgF			
+PEKLDMPL_01228	CDS	2217	yhgF		COG2183	Protein YhgF
+PEKLDMPL_01229	gene	1206				
+PEKLDMPL_01229	CDS	1206				hypothetical protein
+PEKLDMPL_01230	gene	345	rplT			
+PEKLDMPL_01230	CDS	345	rplT			50S ribosomal protein L20
+PEKLDMPL_01231	gene	198	rpmI			
+PEKLDMPL_01231	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+PEKLDMPL_01232	gene	696	infC			
+PEKLDMPL_01232	CDS	696	infC			Translation initiation factor IF-3
+PEKLDMPL_01233	gene	738	yafV			
+PEKLDMPL_01233	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+PEKLDMPL_01234	gene	1623				
+PEKLDMPL_01234	CDS	1623				hypothetical protein
+PEKLDMPL_01235	gene	573				
+PEKLDMPL_01235	CDS	573				hypothetical protein
+PEKLDMPL_01236	gene	1311	dapL			
+PEKLDMPL_01236	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+PEKLDMPL_01237	gene	624				
+PEKLDMPL_01237	CDS	624				hypothetical protein
+PEKLDMPL_01238	gene	726				
+PEKLDMPL_01238	CDS	726				hypothetical protein
+PEKLDMPL_01239	gene	3516	sasA_2			
+PEKLDMPL_01239	CDS	3516	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+PEKLDMPL_01240	gene	1065	purR			
+PEKLDMPL_01240	CDS	1065	purR			HTH-type transcriptional repressor PurR
+PEKLDMPL_01241	gene	753				
+PEKLDMPL_01241	CDS	753				hypothetical protein
+PEKLDMPL_01242	gene	1212				
+PEKLDMPL_01242	CDS	1212				hypothetical protein
+PEKLDMPL_01243	gene	204				
+PEKLDMPL_01243	CDS	204				hypothetical protein
+PEKLDMPL_01244	gene	74				
+PEKLDMPL_01244	tRNA	74				tRNA-Cys(gca)
+PEKLDMPL_01245	gene	789				
+PEKLDMPL_01245	CDS	789				hypothetical protein
+PEKLDMPL_01246	gene	2238				
+PEKLDMPL_01246	CDS	2238				hypothetical protein
+PEKLDMPL_01247	gene	729				
+PEKLDMPL_01247	CDS	729				hypothetical protein
+PEKLDMPL_01248	gene	924				
+PEKLDMPL_01248	CDS	924				hypothetical protein
+PEKLDMPL_01249	gene	888				
+PEKLDMPL_01249	CDS	888				hypothetical protein
+PEKLDMPL_01250	gene	76				
+PEKLDMPL_01250	tRNA	76				tRNA-Arg(tct)
+PEKLDMPL_01251	gene	984				
+PEKLDMPL_01251	CDS	984		1.-.-.-		Oxidoreductase P35
+PEKLDMPL_01252	gene	1131				
+PEKLDMPL_01252	CDS	1131				hypothetical protein
+PEKLDMPL_01253	gene	855				
+PEKLDMPL_01253	CDS	855				hypothetical protein
+PEKLDMPL_01254	gene	537				
+PEKLDMPL_01254	CDS	537				hypothetical protein
+PEKLDMPL_01255	gene	177				
+PEKLDMPL_01255	CDS	177				hypothetical protein
+PEKLDMPL_01256	gene	3594				
+PEKLDMPL_01256	CDS	3594				hypothetical protein
+PEKLDMPL_01257	gene	180				
+PEKLDMPL_01257	CDS	180				hypothetical protein
+PEKLDMPL_01258	gene	1002				
+PEKLDMPL_01258	CDS	1002				hypothetical protein
+PEKLDMPL_01259	gene	204				
+PEKLDMPL_01259	CDS	204				hypothetical protein
+PEKLDMPL_01260	gene	1500				
+PEKLDMPL_01260	CDS	1500				hypothetical protein
+PEKLDMPL_01261	gene	2016				
+PEKLDMPL_01261	CDS	2016				hypothetical protein
+PEKLDMPL_01262	gene	741				
+PEKLDMPL_01262	CDS	741				hypothetical protein
+PEKLDMPL_01263	gene	1686				
+PEKLDMPL_01263	CDS	1686				hypothetical protein
+PEKLDMPL_01264	gene	678	walR			
+PEKLDMPL_01264	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+PEKLDMPL_01265	gene	768				
+PEKLDMPL_01265	CDS	768				hypothetical protein
+PEKLDMPL_01266	gene	1098	apbC			
+PEKLDMPL_01266	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+PEKLDMPL_01267	gene	2082	dxs			
+PEKLDMPL_01267	CDS	2082	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+PEKLDMPL_01268	gene	1353	trkA			
+PEKLDMPL_01268	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+PEKLDMPL_01269	gene	1458	trkH			
+PEKLDMPL_01269	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+PEKLDMPL_01270	gene	963	manA			
+PEKLDMPL_01270	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+PEKLDMPL_01271	gene	1143	cydB			
+PEKLDMPL_01271	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+PEKLDMPL_01272	gene	1566	cydA			
+PEKLDMPL_01272	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+PEKLDMPL_01273	gene	216				
+PEKLDMPL_01273	CDS	216				hypothetical protein
+PEKLDMPL_01274	gene	873				
+PEKLDMPL_01274	CDS	873				hypothetical protein
+PEKLDMPL_01275	gene	1482				
+PEKLDMPL_01275	CDS	1482				hypothetical protein
+PEKLDMPL_01276	gene	987	emrA			
+PEKLDMPL_01276	CDS	987	emrA			Colistin resistance protein EmrA
+PEKLDMPL_01277	gene	1182				
+PEKLDMPL_01277	CDS	1182				hypothetical protein
+PEKLDMPL_01278	gene	1245				
+PEKLDMPL_01278	CDS	1245				hypothetical protein
+PEKLDMPL_01279	gene	1086				
+PEKLDMPL_01279	CDS	1086				hypothetical protein
+PEKLDMPL_01280	gene	2214				
+PEKLDMPL_01280	CDS	2214				hypothetical protein
+PEKLDMPL_01281	gene	774	trmB			
+PEKLDMPL_01281	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+PEKLDMPL_01282	gene	996				
+PEKLDMPL_01282	CDS	996				hypothetical protein
+PEKLDMPL_01283	gene	957				
+PEKLDMPL_01283	CDS	957				hypothetical protein
+PEKLDMPL_01284	gene	1911	dnaK			
+PEKLDMPL_01284	CDS	1911	dnaK			Chaperone protein DnaK
+PEKLDMPL_01285	gene	600				
+PEKLDMPL_01285	CDS	600				hypothetical protein
+PEKLDMPL_01286	gene	459				
+PEKLDMPL_01286	CDS	459				hypothetical protein
+PEKLDMPL_01287	gene	387				
+PEKLDMPL_01287	CDS	387				hypothetical protein
+PEKLDMPL_01288	gene	1302				
+PEKLDMPL_01288	CDS	1302				hypothetical protein
+PEKLDMPL_01289	gene	213				
+PEKLDMPL_01289	CDS	213				hypothetical protein
+PEKLDMPL_01290	gene	594				
+PEKLDMPL_01290	CDS	594				hypothetical protein
+PEKLDMPL_01291	gene	294				
+PEKLDMPL_01291	CDS	294				hypothetical protein
+PEKLDMPL_01292	gene	90				
+PEKLDMPL_01292	CDS	90				hypothetical protein
+PEKLDMPL_01293	gene	555				
+PEKLDMPL_01293	CDS	555				hypothetical protein
+PEKLDMPL_01294	gene	360				
+PEKLDMPL_01294	CDS	360				hypothetical protein
+PEKLDMPL_01295	gene	1254				
+PEKLDMPL_01295	CDS	1254				hypothetical protein
+PEKLDMPL_01296	gene	129				
+PEKLDMPL_01296	CDS	129				hypothetical protein
+PEKLDMPL_01297	gene	894				
+PEKLDMPL_01297	CDS	894				hypothetical protein
+PEKLDMPL_01298	gene	387				
+PEKLDMPL_01298	CDS	387				hypothetical protein
+PEKLDMPL_01299	gene	1086				
+PEKLDMPL_01299	CDS	1086				hypothetical protein
+PEKLDMPL_01300	gene	327				
+PEKLDMPL_01300	CDS	327				hypothetical protein
+PEKLDMPL_01301	gene	564				
+PEKLDMPL_01301	CDS	564				hypothetical protein
+PEKLDMPL_01302	gene	438				
+PEKLDMPL_01302	CDS	438				hypothetical protein
+PEKLDMPL_01303	gene	894				
+PEKLDMPL_01303	CDS	894				hypothetical protein
+PEKLDMPL_01304	gene	774				
+PEKLDMPL_01304	CDS	774				hypothetical protein
+PEKLDMPL_01305	gene	1053				
+PEKLDMPL_01305	CDS	1053				hypothetical protein
+PEKLDMPL_01306	gene	717				
+PEKLDMPL_01306	CDS	717				hypothetical protein
+PEKLDMPL_01307	gene	2313	cirA_2			
+PEKLDMPL_01307	CDS	2313	cirA_2		COG4771	Colicin I receptor
+PEKLDMPL_01308	gene	1329				
+PEKLDMPL_01308	CDS	1329				hypothetical protein
+PEKLDMPL_01309	gene	216				
+PEKLDMPL_01309	CDS	216				hypothetical protein
+PEKLDMPL_01310	gene	2175				
+PEKLDMPL_01310	CDS	2175				hypothetical protein
+PEKLDMPL_01311	gene	4485				
+PEKLDMPL_01311	CDS	4485				hypothetical protein
+PEKLDMPL_01312	gene	354				
+PEKLDMPL_01312	CDS	354				hypothetical protein
+PEKLDMPL_01313	gene	1230	lolE_2			
+PEKLDMPL_01313	CDS	1230	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+PEKLDMPL_01314	gene	336	rbfA			
+PEKLDMPL_01314	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+PEKLDMPL_01315	gene	273	hup_2			
+PEKLDMPL_01315	CDS	273	hup_2			DNA-binding protein HU
+PEKLDMPL_01316	gene	894				
+PEKLDMPL_01316	CDS	894				hypothetical protein
+PEKLDMPL_01317	gene	1086				
+PEKLDMPL_01317	CDS	1086				hypothetical protein
+PEKLDMPL_01318	gene	3063	secD			
+PEKLDMPL_01318	CDS	3063	secD			Protein translocase subunit SecD
+PEKLDMPL_01319	gene	189				
+PEKLDMPL_01319	CDS	189				hypothetical protein
+PEKLDMPL_01320	gene	2940	rcsC_2			
+PEKLDMPL_01320	CDS	2940	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+PEKLDMPL_01321	gene	423				
+PEKLDMPL_01321	CDS	423				hypothetical protein
+PEKLDMPL_01322	gene	1509	scpC			
+PEKLDMPL_01322	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+PEKLDMPL_01323	gene	558	fumB			
+PEKLDMPL_01323	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+PEKLDMPL_01324	gene	843	ttdA			
+PEKLDMPL_01324	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+PEKLDMPL_01325	gene	945				
+PEKLDMPL_01325	CDS	945				hypothetical protein
+PEKLDMPL_01326	gene	321				
+PEKLDMPL_01326	CDS	321				hypothetical protein
+PEKLDMPL_01327	gene	1380				
+PEKLDMPL_01327	CDS	1380				hypothetical protein
+PEKLDMPL_01328	gene	1239				
+PEKLDMPL_01328	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+PEKLDMPL_01329	gene	1464	glmE			
+PEKLDMPL_01329	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+PEKLDMPL_01330	gene	1383				
+PEKLDMPL_01330	CDS	1383				hypothetical protein
+PEKLDMPL_01331	gene	414	glmS			
+PEKLDMPL_01331	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+PEKLDMPL_01332	gene	600				
+PEKLDMPL_01332	CDS	600				hypothetical protein
+PEKLDMPL_01333	gene	744				
+PEKLDMPL_01333	CDS	744				hypothetical protein
+PEKLDMPL_01334	gene	552				
+PEKLDMPL_01334	CDS	552				hypothetical protein
+PEKLDMPL_01335	gene	510				
+PEKLDMPL_01335	CDS	510				hypothetical protein
+PEKLDMPL_01336	gene	960				
+PEKLDMPL_01336	CDS	960				hypothetical protein
+PEKLDMPL_01337	gene	471				
+PEKLDMPL_01337	CDS	471				hypothetical protein
+PEKLDMPL_01338	gene	453				
+PEKLDMPL_01338	CDS	453				hypothetical protein
+PEKLDMPL_01339	gene	1002				
+PEKLDMPL_01339	CDS	1002				hypothetical protein
+PEKLDMPL_01340	gene	663				
+PEKLDMPL_01340	CDS	663				hypothetical protein
+PEKLDMPL_01341	gene	453				
+PEKLDMPL_01341	CDS	453				hypothetical protein
+PEKLDMPL_01342	gene	435				
+PEKLDMPL_01342	CDS	435				hypothetical protein
+PEKLDMPL_01343	gene	1317				
+PEKLDMPL_01343	CDS	1317				hypothetical protein
+PEKLDMPL_01344	gene	750				
+PEKLDMPL_01344	CDS	750				hypothetical protein
+PEKLDMPL_01345	gene	642				
+PEKLDMPL_01345	CDS	642				hypothetical protein
+PEKLDMPL_01346	gene	174				
+PEKLDMPL_01346	CDS	174				hypothetical protein
+PEKLDMPL_01347	gene	732				
+PEKLDMPL_01347	CDS	732				hypothetical protein
+PEKLDMPL_01348	gene	468				
+PEKLDMPL_01348	CDS	468				hypothetical protein
+PEKLDMPL_01349	gene	1812				
+PEKLDMPL_01349	CDS	1812				hypothetical protein
+PEKLDMPL_01350	gene	1116				
+PEKLDMPL_01350	CDS	1116				hypothetical protein
+PEKLDMPL_01351	gene	123				
+PEKLDMPL_01351	CDS	123				hypothetical protein
+PEKLDMPL_01352	gene	390				
+PEKLDMPL_01352	CDS	390				hypothetical protein
+PEKLDMPL_01353	gene	1143				
+PEKLDMPL_01353	CDS	1143				hypothetical protein
+PEKLDMPL_01354	gene	1893				
+PEKLDMPL_01354	CDS	1893				hypothetical protein
+PEKLDMPL_01355	gene	1089				
+PEKLDMPL_01355	CDS	1089				hypothetical protein
+PEKLDMPL_01356	gene	1026				
+PEKLDMPL_01356	CDS	1026				hypothetical protein
+PEKLDMPL_01357	gene	990				
+PEKLDMPL_01357	CDS	990				hypothetical protein
+PEKLDMPL_01358	gene	1152	resA_5			
+PEKLDMPL_01358	CDS	1152	resA_5			Thiol-disulfide oxidoreductase ResA
+PEKLDMPL_01359	gene	417				
+PEKLDMPL_01359	CDS	417				hypothetical protein
+PEKLDMPL_01360	gene	555	nudC_1			
+PEKLDMPL_01360	CDS	555	nudC_1	3.6.1.22		NADH pyrophosphatase
+PEKLDMPL_01361	gene	810				
+PEKLDMPL_01361	CDS	810				hypothetical protein
+PEKLDMPL_01362	gene	699				
+PEKLDMPL_01362	CDS	699				hypothetical protein
+PEKLDMPL_01363	gene	2415	topA			
+PEKLDMPL_01363	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+PEKLDMPL_01364	gene	528	aroK			
+PEKLDMPL_01364	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+PEKLDMPL_01365	gene	1893	speA			
+PEKLDMPL_01365	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+PEKLDMPL_01366	gene	513	sigH			
+PEKLDMPL_01366	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+PEKLDMPL_01367	gene	477				
+PEKLDMPL_01367	CDS	477				hypothetical protein
+PEKLDMPL_01368	gene	792				
+PEKLDMPL_01368	CDS	792				hypothetical protein
+PEKLDMPL_01369	gene	945	ribF			
+PEKLDMPL_01369	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+PEKLDMPL_01370	gene	621				
+PEKLDMPL_01370	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+PEKLDMPL_01371	gene	2604	yoaB			
+PEKLDMPL_01371	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+PEKLDMPL_01372	gene	147				
+PEKLDMPL_01372	CDS	147				hypothetical protein
+PEKLDMPL_01373	gene	3018				
+PEKLDMPL_01373	CDS	3018				hypothetical protein
+PEKLDMPL_01374	gene	2520				
+PEKLDMPL_01374	CDS	2520				hypothetical protein
+PEKLDMPL_01375	gene	1050	nrdB			
+PEKLDMPL_01375	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+PEKLDMPL_01376	gene	612	nreC			
+PEKLDMPL_01376	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+PEKLDMPL_01377	gene	1911				
+PEKLDMPL_01377	CDS	1911				hypothetical protein
+PEKLDMPL_01378	gene	951				
+PEKLDMPL_01378	CDS	951				hypothetical protein
+PEKLDMPL_01379	gene	1656				
+PEKLDMPL_01379	CDS	1656				hypothetical protein
+PEKLDMPL_01380	gene	987				
+PEKLDMPL_01380	CDS	987				hypothetical protein
+PEKLDMPL_01381	gene	1245				
+PEKLDMPL_01381	CDS	1245				hypothetical protein
+PEKLDMPL_01382	gene	705				
+PEKLDMPL_01382	CDS	705				hypothetical protein
+PEKLDMPL_01383	gene	420				
+PEKLDMPL_01383	CDS	420				hypothetical protein
+PEKLDMPL_01384	gene	1017				
+PEKLDMPL_01384	CDS	1017				hypothetical protein
+PEKLDMPL_01385	gene	819	pdxK			
+PEKLDMPL_01385	CDS	819	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+PEKLDMPL_01386	gene	1416				
+PEKLDMPL_01386	CDS	1416				hypothetical protein
+PEKLDMPL_01387	gene	2685				
+PEKLDMPL_01387	CDS	2685				hypothetical protein
+PEKLDMPL_01388	gene	1116				
+PEKLDMPL_01388	CDS	1116				hypothetical protein
+PEKLDMPL_01389	gene	1563				
+PEKLDMPL_01389	CDS	1563				hypothetical protein
+PEKLDMPL_01390	gene	444				
+PEKLDMPL_01390	CDS	444				hypothetical protein
+PEKLDMPL_01391	gene	1545				
+PEKLDMPL_01391	CDS	1545				hypothetical protein
+PEKLDMPL_01392	gene	3537				
+PEKLDMPL_01392	CDS	3537				hypothetical protein
+PEKLDMPL_01393	gene	672				
+PEKLDMPL_01393	CDS	672				hypothetical protein
+PEKLDMPL_01394	gene	519				
+PEKLDMPL_01394	CDS	519				hypothetical protein
+PEKLDMPL_01395	gene	885				
+PEKLDMPL_01395	CDS	885				hypothetical protein
+PEKLDMPL_01396	gene	1008				
+PEKLDMPL_01396	CDS	1008				hypothetical protein
+PEKLDMPL_01397	gene	627	trmR			
+PEKLDMPL_01397	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+PEKLDMPL_01398	gene	420	aroQ1			
+PEKLDMPL_01398	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+PEKLDMPL_01399	gene	786				
+PEKLDMPL_01399	CDS	786				hypothetical protein
+PEKLDMPL_01400	gene	2049	bepA_4			
+PEKLDMPL_01400	CDS	2049	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+PEKLDMPL_01401	gene	162				
+PEKLDMPL_01401	CDS	162				hypothetical protein
+PEKLDMPL_01402	gene	1419				
+PEKLDMPL_01402	CDS	1419				hypothetical protein
+PEKLDMPL_01403	gene	705				
+PEKLDMPL_01403	CDS	705				hypothetical protein
+PEKLDMPL_01404	gene	750	ispU			
+PEKLDMPL_01404	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+PEKLDMPL_01405	gene	2616	bamA_3			
+PEKLDMPL_01405	CDS	2616	bamA_3			Outer membrane protein assembly factor BamA
+PEKLDMPL_01406	gene	513				
+PEKLDMPL_01406	CDS	513				hypothetical protein
+PEKLDMPL_01407	gene	501	skp			
+PEKLDMPL_01407	CDS	501	skp		COG2825	Chaperone protein Skp
+PEKLDMPL_01408	gene	633				
+PEKLDMPL_01408	CDS	633				hypothetical protein
+PEKLDMPL_01409	gene	843	murI			
+PEKLDMPL_01409	CDS	843	murI	5.1.1.3		Glutamate racemase
+PEKLDMPL_01410	gene	2613				
+PEKLDMPL_01410	CDS	2613				hypothetical protein
+PEKLDMPL_01411	gene	594				
+PEKLDMPL_01411	CDS	594				hypothetical protein
+PEKLDMPL_01412	gene	1560				
+PEKLDMPL_01412	CDS	1560				hypothetical protein
+PEKLDMPL_01413	gene	1968				
+PEKLDMPL_01413	CDS	1968				hypothetical protein
+PEKLDMPL_01414	gene	807				
+PEKLDMPL_01414	CDS	807				hypothetical protein
+PEKLDMPL_01415	gene	1020	lpxL			
+PEKLDMPL_01415	CDS	1020	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+PEKLDMPL_01416	gene	1008	ykoT			
+PEKLDMPL_01416	CDS	1008	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+PEKLDMPL_01417	gene	600	purH_1			
+PEKLDMPL_01417	CDS	600	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+PEKLDMPL_01418	gene	1026	mbl			
+PEKLDMPL_01418	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+PEKLDMPL_01419	gene	867				
+PEKLDMPL_01419	CDS	867				hypothetical protein
+PEKLDMPL_01420	gene	498				
+PEKLDMPL_01420	CDS	498				hypothetical protein
+PEKLDMPL_01421	gene	1851	mrdA			
+PEKLDMPL_01421	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+PEKLDMPL_01422	gene	1470	mrdB			
+PEKLDMPL_01422	CDS	1470	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+PEKLDMPL_01423	gene	465				
+PEKLDMPL_01423	CDS	465				hypothetical protein
+PEKLDMPL_01424	gene	1248				
+PEKLDMPL_01424	CDS	1248				hypothetical protein
+PEKLDMPL_01425	gene	1107				
+PEKLDMPL_01425	CDS	1107				hypothetical protein
+PEKLDMPL_01426	gene	687	rsmI			
+PEKLDMPL_01426	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+PEKLDMPL_01427	gene	846				
+PEKLDMPL_01427	CDS	846				hypothetical protein
+PEKLDMPL_01428	gene	453	tadA_2			
+PEKLDMPL_01428	CDS	453	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+PEKLDMPL_01429	gene	741	birA			
+PEKLDMPL_01429	CDS	741	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+PEKLDMPL_01430	gene	558				
+PEKLDMPL_01430	CDS	558				hypothetical protein
+PEKLDMPL_01431	gene	711	pyrH			
+PEKLDMPL_01431	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+PEKLDMPL_01432	gene	567				
+PEKLDMPL_01432	CDS	567				hypothetical protein
+PEKLDMPL_01433	gene	168	fdxA			
+PEKLDMPL_01433	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+PEKLDMPL_01434	gene	744				
+PEKLDMPL_01434	CDS	744				hypothetical protein
+PEKLDMPL_01435	gene	843	yfkN_1			
+PEKLDMPL_01435	CDS	843	yfkN_1		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+PEKLDMPL_01436	gene	765				
+PEKLDMPL_01436	CDS	765				hypothetical protein
+PEKLDMPL_01437	gene	363	rplS			
+PEKLDMPL_01437	CDS	363	rplS		COG0335	50S ribosomal protein L19
+PEKLDMPL_01438	gene	576				
+PEKLDMPL_01438	CDS	576				hypothetical protein
+PEKLDMPL_01439	gene	144				
+PEKLDMPL_01439	CDS	144				hypothetical protein
+PEKLDMPL_01440	gene	2406	btuB_5			
+PEKLDMPL_01440	CDS	2406	btuB_5			Vitamin B12 transporter BtuB
+PEKLDMPL_01441	gene	549				
+PEKLDMPL_01441	CDS	549				hypothetical protein
+PEKLDMPL_01442	gene	567				
+PEKLDMPL_01442	CDS	567				hypothetical protein
+PEKLDMPL_01443	gene	813				
+PEKLDMPL_01443	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+PEKLDMPL_01444	gene	1176	obg			
+PEKLDMPL_01444	CDS	1176	obg	3.6.5.-		GTPase Obg
+PEKLDMPL_01445	gene	567	adk			
+PEKLDMPL_01445	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+PEKLDMPL_01446	gene	537	hpt			
+PEKLDMPL_01446	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+PEKLDMPL_01447	gene	1557	nnr			
+PEKLDMPL_01447	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+PEKLDMPL_01448	gene	735				
+PEKLDMPL_01448	CDS	735				hypothetical protein
+PEKLDMPL_01449	gene	1077				
+PEKLDMPL_01449	CDS	1077				hypothetical protein
+PEKLDMPL_01450	gene	1002	fda			
+PEKLDMPL_01450	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+PEKLDMPL_01451	gene	1200	mgl			
+PEKLDMPL_01451	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+PEKLDMPL_01452	gene	192				
+PEKLDMPL_01452	CDS	192				hypothetical protein
+PEKLDMPL_01453	gene	1182	purH_2			
+PEKLDMPL_01453	CDS	1182	purH_2	3.5.4.10		Bifunctional purine biosynthesis protein PurH
+PEKLDMPL_01454	gene	1809	mutS_2			
+PEKLDMPL_01454	CDS	1809	mutS_2			DNA mismatch repair protein MutS
+PEKLDMPL_01455	gene	840				
+PEKLDMPL_01455	CDS	840				hypothetical protein
+PEKLDMPL_01456	gene	234				
+PEKLDMPL_01456	CDS	234				hypothetical protein
+PEKLDMPL_01457	gene	600				
+PEKLDMPL_01457	CDS	600				hypothetical protein
+PEKLDMPL_01458	gene	231				
+PEKLDMPL_01458	CDS	231				hypothetical protein
+PEKLDMPL_01459	gene	75				
+PEKLDMPL_01459	tRNA	75				tRNA-Met(cat)
+PEKLDMPL_01460	gene	687				
+PEKLDMPL_01460	CDS	687				hypothetical protein
+PEKLDMPL_01461	gene	486	resA_6			
+PEKLDMPL_01461	CDS	486	resA_6			Thiol-disulfide oxidoreductase ResA
+PEKLDMPL_01462	gene	1659				
+PEKLDMPL_01462	CDS	1659				hypothetical protein
+PEKLDMPL_01463	gene	786				
+PEKLDMPL_01463	CDS	786				hypothetical protein
+PEKLDMPL_01464	gene	639				
+PEKLDMPL_01464	CDS	639				hypothetical protein
+PEKLDMPL_01465	gene	1419	aspA			
+PEKLDMPL_01465	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+PEKLDMPL_01466	gene	927				
+PEKLDMPL_01466	CDS	927				hypothetical protein
+PEKLDMPL_01467	gene	762				
+PEKLDMPL_01467	CDS	762				hypothetical protein
+PEKLDMPL_01468	gene	726	mhqN			
+PEKLDMPL_01468	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+PEKLDMPL_01469	gene	753				
+PEKLDMPL_01469	CDS	753				hypothetical protein
+PEKLDMPL_01470	gene	747				
+PEKLDMPL_01470	CDS	747				hypothetical protein
+PEKLDMPL_01471	gene	1896				
+PEKLDMPL_01471	CDS	1896				hypothetical protein
+PEKLDMPL_01472	gene	75				
+PEKLDMPL_01472	tRNA	75				tRNA-Asn(gtt)
+PEKLDMPL_01473	gene	1734				
+PEKLDMPL_01473	CDS	1734				hypothetical protein
+PEKLDMPL_01474	gene	129				
+PEKLDMPL_01474	CDS	129				hypothetical protein
+PEKLDMPL_01475	gene	1179				
+PEKLDMPL_01475	CDS	1179				hypothetical protein
+PEKLDMPL_01476	gene	1356				
+PEKLDMPL_01476	CDS	1356				hypothetical protein
+PEKLDMPL_01477	gene	936				
+PEKLDMPL_01477	CDS	936				hypothetical protein
+PEKLDMPL_01478	gene	1566				
+PEKLDMPL_01478	CDS	1566				hypothetical protein
+PEKLDMPL_01479	gene	3327				
+PEKLDMPL_01479	CDS	3327				TonB-dependent receptor P26
+PEKLDMPL_01480	gene	279				
+PEKLDMPL_01480	CDS	279				hypothetical protein
+PEKLDMPL_01481	gene	606	rnhB			
+PEKLDMPL_01481	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+PEKLDMPL_01482	gene	1023				
+PEKLDMPL_01482	CDS	1023				hypothetical protein
+PEKLDMPL_01483	gene	2802				
+PEKLDMPL_01483	CDS	2802				hypothetical protein
+PEKLDMPL_01484	gene	2085				
+PEKLDMPL_01484	CDS	2085				hypothetical protein
+PEKLDMPL_01485	gene	507				
+PEKLDMPL_01485	CDS	507				hypothetical protein
+PEKLDMPL_01486	gene	2112	metG			
+PEKLDMPL_01486	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+PEKLDMPL_01487	gene	73				
+PEKLDMPL_01487	tRNA	73				tRNA-Arg(cct)
+PEKLDMPL_01488	gene	450				
+PEKLDMPL_01488	CDS	450				hypothetical protein
+PEKLDMPL_01489	gene	570				
+PEKLDMPL_01489	CDS	570				hypothetical protein
+PEKLDMPL_01490	gene	465	sigE_2			
+PEKLDMPL_01490	CDS	465	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+PEKLDMPL_01491	gene	471				
+PEKLDMPL_01491	CDS	471				hypothetical protein
+PEKLDMPL_01492	gene	1335	sufS			
+PEKLDMPL_01492	CDS	1335	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+PEKLDMPL_01493	gene	678				
+PEKLDMPL_01493	CDS	678				hypothetical protein
+PEKLDMPL_01494	gene	1809				
+PEKLDMPL_01494	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+PEKLDMPL_01495	gene	1122	prfB			
+PEKLDMPL_01495	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+PEKLDMPL_01496	gene	138				
+PEKLDMPL_01496	CDS	138				hypothetical protein
+PEKLDMPL_01497	gene	516				
+PEKLDMPL_01497	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+PEKLDMPL_01498	gene	438				
+PEKLDMPL_01498	CDS	438				hypothetical protein
+PEKLDMPL_01499	gene	891				
+PEKLDMPL_01499	CDS	891				hypothetical protein
+PEKLDMPL_01500	gene	681				
+PEKLDMPL_01500	CDS	681				hypothetical protein
+PEKLDMPL_01501	gene	1176				
+PEKLDMPL_01501	CDS	1176				hypothetical protein
+PEKLDMPL_01502	gene	993	ddlA			
+PEKLDMPL_01502	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+PEKLDMPL_01503	gene	1113	rluD_2			
+PEKLDMPL_01503	CDS	1113	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PEKLDMPL_01504	gene	825				
+PEKLDMPL_01504	CDS	825				hypothetical protein
+PEKLDMPL_01505	gene	222				
+PEKLDMPL_01505	CDS	222				hypothetical protein
+PEKLDMPL_01506	gene	525	efp			
+PEKLDMPL_01506	CDS	525	efp		COG0231	Elongation factor P
+PEKLDMPL_01507	gene	1104				
+PEKLDMPL_01507	CDS	1104				hypothetical protein
+PEKLDMPL_01508	gene	702				
+PEKLDMPL_01508	CDS	702				hypothetical protein
+PEKLDMPL_01509	gene	321	sufT			
+PEKLDMPL_01509	CDS	321	sufT			Fe-S protein maturation auxiliary factor SufT
+PEKLDMPL_01510	gene	774	lpxH			
+PEKLDMPL_01510	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+PEKLDMPL_01511	gene	1194	ackA			
+PEKLDMPL_01511	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+PEKLDMPL_01512	gene	1008	pta_2			
+PEKLDMPL_01512	CDS	1008	pta_2	2.3.1.8		Phosphate acetyltransferase
+PEKLDMPL_01513	gene	765	cdaA			
+PEKLDMPL_01513	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+PEKLDMPL_01514	gene	885	folP			
+PEKLDMPL_01514	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+PEKLDMPL_01515	gene	1311	murF			
+PEKLDMPL_01515	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PEKLDMPL_01516	gene	825	rhaR_3			
+PEKLDMPL_01516	CDS	825	rhaR_3			HTH-type transcriptional activator RhaR
+PEKLDMPL_01517	gene	846	yvgN			
+PEKLDMPL_01517	CDS	846	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+PEKLDMPL_01518	gene	726				
+PEKLDMPL_01518	CDS	726				hypothetical protein
+PEKLDMPL_01519	gene	756				
+PEKLDMPL_01519	CDS	756				hypothetical protein
+PEKLDMPL_01520	gene	717	ybhL			
+PEKLDMPL_01520	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+PEKLDMPL_01521	gene	477	argR			
+PEKLDMPL_01521	CDS	477	argR		COG1438	Arginine repressor
+PEKLDMPL_01522	gene	1188	kbl			
+PEKLDMPL_01522	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+PEKLDMPL_01523	gene	120				
+PEKLDMPL_01523	CDS	120				hypothetical protein
+PEKLDMPL_01524	gene	960				
+PEKLDMPL_01524	CDS	960				putative epimerase/dehydratase
+PEKLDMPL_01525	gene	75				
+PEKLDMPL_01525	tRNA	75				tRNA-Pro(cgg)
+PEKLDMPL_01526	gene	74				
+PEKLDMPL_01526	tRNA	74				tRNA-Phe(gaa)
+PEKLDMPL_01527	gene	552				
+PEKLDMPL_01527	CDS	552				hypothetical protein
+PEKLDMPL_01528	gene	303				
+PEKLDMPL_01528	CDS	303				hypothetical protein
+PEKLDMPL_01529	gene	636				
+PEKLDMPL_01529	CDS	636				hypothetical protein
+PEKLDMPL_01530	gene	558				
+PEKLDMPL_01530	CDS	558				hypothetical protein
+PEKLDMPL_01531	gene	204				
+PEKLDMPL_01531	CDS	204				hypothetical protein
+PEKLDMPL_01532	gene	189				
+PEKLDMPL_01532	CDS	189				hypothetical protein
+PEKLDMPL_01533	gene	492				
+PEKLDMPL_01533	CDS	492				hypothetical protein
+PEKLDMPL_01534	gene	681				
+PEKLDMPL_01534	CDS	681				hypothetical protein
+PEKLDMPL_01535	gene	2520				
+PEKLDMPL_01535	CDS	2520				hypothetical protein
+PEKLDMPL_01536	gene	309				
+PEKLDMPL_01536	CDS	309				hypothetical protein
+PEKLDMPL_01537	gene	516				
+PEKLDMPL_01537	CDS	516				hypothetical protein
+PEKLDMPL_01538	gene	207				
+PEKLDMPL_01538	CDS	207				hypothetical protein
+PEKLDMPL_01539	gene	441				
+PEKLDMPL_01539	CDS	441				hypothetical protein
+PEKLDMPL_01540	gene	651				
+PEKLDMPL_01540	CDS	651				hypothetical protein
+PEKLDMPL_01541	gene	321				
+PEKLDMPL_01541	CDS	321				hypothetical protein
+PEKLDMPL_01542	gene	126				
+PEKLDMPL_01542	CDS	126				hypothetical protein
+PEKLDMPL_01543	gene	168				
+PEKLDMPL_01543	CDS	168				hypothetical protein
+PEKLDMPL_01544	gene	1479	guaB			
+PEKLDMPL_01544	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+PEKLDMPL_01545	gene	1479	surA_1			
+PEKLDMPL_01545	CDS	1479	surA_1	5.2.1.8		Chaperone SurA
+PEKLDMPL_01546	gene	1464	surA_2			
+PEKLDMPL_01546	CDS	1464	surA_2	5.2.1.8		Chaperone SurA
+PEKLDMPL_01547	gene	1695	lptD_2			
+PEKLDMPL_01547	CDS	1695	lptD_2			LPS-assembly protein LptD
+PEKLDMPL_01548	gene	273				
+PEKLDMPL_01548	CDS	273				hypothetical protein
+PEKLDMPL_01549	gene	1815	mutL			
+PEKLDMPL_01549	CDS	1815	mutL			DNA mismatch repair protein MutL
+PEKLDMPL_01550	gene	1209				
+PEKLDMPL_01550	CDS	1209				Outer membrane protein 40
+PEKLDMPL_01551	gene	76				
+PEKLDMPL_01551	tRNA	76				tRNA-Val(tac)
+PEKLDMPL_01552	gene	76				
+PEKLDMPL_01552	tRNA	76				tRNA-Val(tac)
+PEKLDMPL_01553	gene	1347	purB			
+PEKLDMPL_01553	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+PEKLDMPL_01554	gene	1473				
+PEKLDMPL_01554	CDS	1473				hypothetical protein
+PEKLDMPL_01555	gene	1395	asnS			
+PEKLDMPL_01555	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+PEKLDMPL_01556	gene	285				
+PEKLDMPL_01556	CDS	285				hypothetical protein
+PEKLDMPL_01557	gene	603				
+PEKLDMPL_01557	CDS	603				hypothetical protein
+PEKLDMPL_01558	gene	663	yknY_3			
+PEKLDMPL_01558	CDS	663	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PEKLDMPL_01559	gene	2202	kefB_2			
+PEKLDMPL_01559	CDS	2202	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+PEKLDMPL_01560	gene	1014	asd			
+PEKLDMPL_01560	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+PEKLDMPL_01561	gene	732				
+PEKLDMPL_01561	CDS	732				hypothetical protein
+PEKLDMPL_01562	gene	1446	pal_3			
+PEKLDMPL_01562	CDS	1446	pal_3			Peptidoglycan-associated lipoprotein
+PEKLDMPL_01563	gene	1230	yciC			
+PEKLDMPL_01563	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+PEKLDMPL_01564	gene	1329				
+PEKLDMPL_01564	CDS	1329				hypothetical protein
+PEKLDMPL_01565	gene	1446	patA_2			
+PEKLDMPL_01565	CDS	1446	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+PEKLDMPL_01566	gene	807				
+PEKLDMPL_01566	CDS	807				hypothetical protein
+PEKLDMPL_01567	gene	93				
+PEKLDMPL_01567	CDS	93				hypothetical protein
+PEKLDMPL_01568	gene	918				
+PEKLDMPL_01568	CDS	918				hypothetical protein
+PEKLDMPL_01569	gene	360				
+PEKLDMPL_01569	CDS	360				hypothetical protein
+PEKLDMPL_01570	gene	1074				
+PEKLDMPL_01570	CDS	1074				hypothetical protein
+PEKLDMPL_01571	gene	831				
+PEKLDMPL_01571	CDS	831				hypothetical protein
+PEKLDMPL_01572	gene	720	tarI			
+PEKLDMPL_01572	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+PEKLDMPL_01573	gene	1008	fcl			
+PEKLDMPL_01573	CDS	1008	fcl	1.1.1.271		GDP-L-fucose synthase
+PEKLDMPL_01574	gene	927				
+PEKLDMPL_01574	CDS	927				hypothetical protein
+PEKLDMPL_01575	gene	108				
+PEKLDMPL_01575	CDS	108				hypothetical protein
+PEKLDMPL_01576	gene	2385	btuB_6			
+PEKLDMPL_01576	CDS	2385	btuB_6			Vitamin B12 transporter BtuB
+PEKLDMPL_01577	gene	1233				
+PEKLDMPL_01577	CDS	1233				hypothetical protein
+PEKLDMPL_01578	gene	615				
+PEKLDMPL_01578	CDS	615				hypothetical protein
+PEKLDMPL_01579	gene	969				
+PEKLDMPL_01579	CDS	969				hypothetical protein
+PEKLDMPL_01580	gene	2100	recG			
+PEKLDMPL_01580	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+PEKLDMPL_01581	gene	711	ispD			
+PEKLDMPL_01581	CDS	711	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+PEKLDMPL_01582	gene	1299				
+PEKLDMPL_01582	CDS	1299				hypothetical protein
+PEKLDMPL_01583	gene	1032	cytR			
+PEKLDMPL_01583	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+PEKLDMPL_01584	gene	3081	susC			
+PEKLDMPL_01584	CDS	3081	susC			TonB-dependent receptor SusC
+PEKLDMPL_01585	gene	1617	susD			
+PEKLDMPL_01585	CDS	1617	susD			Starch-binding protein SusD
+PEKLDMPL_01586	gene	1122	susE			
+PEKLDMPL_01586	CDS	1122	susE			Outer membrane protein SusE
+PEKLDMPL_01587	gene	1092	susF			
+PEKLDMPL_01587	CDS	1092	susF			Outer membrane protein SusF
+PEKLDMPL_01588	gene	90				
+PEKLDMPL_01588	CDS	90				hypothetical protein
+PEKLDMPL_01589	gene	168				
+PEKLDMPL_01589	CDS	168				hypothetical protein
+PEKLDMPL_01590	gene	2058				
+PEKLDMPL_01590	CDS	2058				hypothetical protein
+PEKLDMPL_01591	gene	1218				
+PEKLDMPL_01591	CDS	1218				hypothetical protein
+PEKLDMPL_01592	gene	177				
+PEKLDMPL_01592	CDS	177				hypothetical protein
+PEKLDMPL_01593	gene	1731	recJ			
+PEKLDMPL_01593	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+PEKLDMPL_01594	gene	1911	deaD_3			
+PEKLDMPL_01594	CDS	1911	deaD_3	3.6.4.13		ATP-dependent RNA helicase DeaD
+PEKLDMPL_01595	gene	813				
+PEKLDMPL_01595	CDS	813				hypothetical protein
+PEKLDMPL_01596	gene	1182				
+PEKLDMPL_01596	CDS	1182				Outer membrane protein 41
+PEKLDMPL_01597	gene	531	cobP			
+PEKLDMPL_01597	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+PEKLDMPL_01598	gene	1032	cobT			
+PEKLDMPL_01598	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+PEKLDMPL_01599	gene	792	cobS			
+PEKLDMPL_01599	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+PEKLDMPL_01600	gene	522	pspA_2			
+PEKLDMPL_01600	CDS	522	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+PEKLDMPL_01601	gene	543				
+PEKLDMPL_01601	CDS	543				hypothetical protein
+PEKLDMPL_01602	gene	771	korB			
+PEKLDMPL_01602	CDS	771	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+PEKLDMPL_01603	gene	1083	korA			
+PEKLDMPL_01603	CDS	1083	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+PEKLDMPL_01604	gene	234	rsxB			
+PEKLDMPL_01604	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+PEKLDMPL_01605	gene	180				
+PEKLDMPL_01605	CDS	180				hypothetical protein
+PEKLDMPL_01606	gene	924	folD			
+PEKLDMPL_01606	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+PEKLDMPL_01607	gene	1341	ffh			
+PEKLDMPL_01607	CDS	1341	ffh		COG0541	Signal recognition particle protein
+PEKLDMPL_01608	gene	480				
+PEKLDMPL_01608	CDS	480				hypothetical protein
+PEKLDMPL_01609	gene	753				
+PEKLDMPL_01609	CDS	753				hypothetical protein
+PEKLDMPL_01610	gene	2127				
+PEKLDMPL_01610	CDS	2127			COG1629	putative TonB-dependent receptor
+PEKLDMPL_01611	gene	402				
+PEKLDMPL_01611	CDS	402				hypothetical protein
+PEKLDMPL_01612	gene	3417				
+PEKLDMPL_01612	CDS	3417				hypothetical protein
+PEKLDMPL_01613	gene	579				
+PEKLDMPL_01613	CDS	579				hypothetical protein
+	repeat_region	1419				
+PEKLDMPL_01614	gene	165				
+PEKLDMPL_01614	CDS	165				hypothetical protein
+PEKLDMPL_01615	gene	4074	purL			
+PEKLDMPL_01615	CDS	4074	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase
+PEKLDMPL_01616	gene	552	srpC_1			
+PEKLDMPL_01616	CDS	552	srpC_1		COG2059	putative chromate transport protein
+PEKLDMPL_01617	gene	576	srpC_2			
+PEKLDMPL_01617	CDS	576	srpC_2		COG2059	putative chromate transport protein
+PEKLDMPL_01618	gene	2148	dcp			
+PEKLDMPL_01618	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+PEKLDMPL_01619	gene	1995	glgB			
+PEKLDMPL_01619	CDS	1995	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+PEKLDMPL_01620	gene	1959	pulA			
+PEKLDMPL_01620	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+PEKLDMPL_01621	gene	2220	susB			
+PEKLDMPL_01621	CDS	2220	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+PEKLDMPL_01622	gene	2736				
+PEKLDMPL_01622	CDS	2736				hypothetical protein
+PEKLDMPL_01623	gene	240				
+PEKLDMPL_01623	CDS	240				hypothetical protein
+PEKLDMPL_01624	gene	1428				
+PEKLDMPL_01624	CDS	1428				hypothetical protein
+PEKLDMPL_01625	gene	726				
+PEKLDMPL_01625	CDS	726				hypothetical protein
+PEKLDMPL_01626	gene	225	insK			
+PEKLDMPL_01626	CDS	225	insK		COG2801	Putative transposase InsK for insertion sequence element IS150
+PEKLDMPL_01627	gene	2355	pnp			
+PEKLDMPL_01627	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+PEKLDMPL_01628	gene	2187	ccsA_2			
+PEKLDMPL_01628	CDS	2187	ccsA_2			Cytochrome c biogenesis protein CcsA
+PEKLDMPL_01629	gene	1713				
+PEKLDMPL_01629	CDS	1713				hypothetical protein
+PEKLDMPL_01630	gene	1329				
+PEKLDMPL_01630	CDS	1329				hypothetical protein
+PEKLDMPL_01631	gene	1314				
+PEKLDMPL_01631	CDS	1314				hypothetical protein
+PEKLDMPL_01632	gene	76				
+PEKLDMPL_01632	tRNA	76				tRNA-Thr(cgt)
+PEKLDMPL_01633	gene	74				
+PEKLDMPL_01633	tRNA	74				tRNA-Gly(ccc)
+PEKLDMPL_01634	gene	2826	uvrA_2			
+PEKLDMPL_01634	CDS	2826	uvrA_2		COG0178	UvrABC system protein A
+PEKLDMPL_01635	gene	780	nudC_2			
+PEKLDMPL_01635	CDS	780	nudC_2	3.6.1.22		NADH pyrophosphatase
+PEKLDMPL_01636	gene	1887	yfkN_2			
+PEKLDMPL_01636	CDS	1887	yfkN_2		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+PEKLDMPL_01637	gene	162				
+PEKLDMPL_01637	CDS	162				hypothetical protein
+PEKLDMPL_01638	gene	1695				
+PEKLDMPL_01638	CDS	1695				hypothetical protein
+PEKLDMPL_01639	gene	1290				
+PEKLDMPL_01639	CDS	1290				hypothetical protein
+PEKLDMPL_01640	gene	852				
+PEKLDMPL_01640	CDS	852				hypothetical protein
+PEKLDMPL_01641	gene	1188	patB			
+PEKLDMPL_01641	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+PEKLDMPL_01642	gene	132				
+PEKLDMPL_01642	CDS	132				hypothetical protein
+PEKLDMPL_01643	gene	564	pabA			
+PEKLDMPL_01643	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+PEKLDMPL_01644	gene	696	trpF			
+PEKLDMPL_01644	CDS	696	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+PEKLDMPL_01645	gene	126				
+PEKLDMPL_01645	CDS	126				hypothetical protein
+PEKLDMPL_01646	gene	648	rpe			
+PEKLDMPL_01646	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+PEKLDMPL_01647	gene	597	carQ			
+PEKLDMPL_01647	CDS	597	carQ		COG1595	RNA polymerase sigma factor CarQ
+PEKLDMPL_01648	gene	312				
+PEKLDMPL_01648	CDS	312				hypothetical protein
+PEKLDMPL_01649	gene	183				
+PEKLDMPL_01649	CDS	183				hypothetical protein
+PEKLDMPL_01650	gene	1179				
+PEKLDMPL_01650	CDS	1179			COG3385	IS4 family transposase ISDar2
+PEKLDMPL_01651	gene	819	pal_4			
+PEKLDMPL_01651	CDS	819	pal_4			Peptidoglycan-associated lipoprotein
+PEKLDMPL_01652	gene	219				
+PEKLDMPL_01652	CDS	219				hypothetical protein
+PEKLDMPL_01653	gene	930				
+PEKLDMPL_01653	CDS	930				hypothetical protein

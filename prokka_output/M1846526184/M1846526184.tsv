@@ -1,0 +1,4193 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+OFFJBEEN_00001	gene	582				
+OFFJBEEN_00001	CDS	582			COG3385	IS4 family transposase ISPg4
+OFFJBEEN_00002	gene	210				
+OFFJBEEN_00002	CDS	210				hypothetical protein
+OFFJBEEN_00003	gene	600				
+OFFJBEEN_00003	CDS	600				hypothetical protein
+OFFJBEEN_00004	gene	780				
+OFFJBEEN_00004	CDS	780				hypothetical protein
+OFFJBEEN_00005	gene	1809	mutS_1			
+OFFJBEEN_00005	CDS	1809	mutS_1			DNA mismatch repair protein MutS
+OFFJBEEN_00006	gene	1182	purH_1			
+OFFJBEEN_00006	CDS	1182	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+OFFJBEEN_00007	gene	192				
+OFFJBEEN_00007	CDS	192				hypothetical protein
+OFFJBEEN_00008	gene	1200	mgl			
+OFFJBEEN_00008	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+OFFJBEEN_00009	gene	1002	fda			
+OFFJBEEN_00009	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+OFFJBEEN_00010	gene	1077				
+OFFJBEEN_00010	CDS	1077				hypothetical protein
+OFFJBEEN_00011	gene	735				
+OFFJBEEN_00011	CDS	735				hypothetical protein
+OFFJBEEN_00012	gene	1557	nnr			
+OFFJBEEN_00012	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+OFFJBEEN_00013	gene	537	hpt			
+OFFJBEEN_00013	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+OFFJBEEN_00014	gene	567	adk			
+OFFJBEEN_00014	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+OFFJBEEN_00015	gene	1176	obg			
+OFFJBEEN_00015	CDS	1176	obg	3.6.5.-		GTPase Obg
+OFFJBEEN_00016	gene	813				
+OFFJBEEN_00016	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+OFFJBEEN_00017	gene	567				
+OFFJBEEN_00017	CDS	567				hypothetical protein
+OFFJBEEN_00018	gene	549				
+OFFJBEEN_00018	CDS	549				hypothetical protein
+OFFJBEEN_00019	gene	150				
+OFFJBEEN_00019	CDS	150				hypothetical protein
+OFFJBEEN_00020	gene	2406	btuB_1			
+OFFJBEEN_00020	CDS	2406	btuB_1			Vitamin B12 transporter BtuB
+OFFJBEEN_00021	gene	144				
+OFFJBEEN_00021	CDS	144				hypothetical protein
+OFFJBEEN_00022	gene	576				
+OFFJBEEN_00022	CDS	576				hypothetical protein
+OFFJBEEN_00023	gene	363	rplS			
+OFFJBEEN_00023	CDS	363	rplS		COG0335	50S ribosomal protein L19
+OFFJBEEN_00024	gene	765				
+OFFJBEEN_00024	CDS	765				hypothetical protein
+OFFJBEEN_00025	gene	843	yfkN			
+OFFJBEEN_00025	CDS	843	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+OFFJBEEN_00026	gene	744				
+OFFJBEEN_00026	CDS	744				hypothetical protein
+OFFJBEEN_00027	gene	168	fdxA			
+OFFJBEEN_00027	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+OFFJBEEN_00028	gene	567				
+OFFJBEEN_00028	CDS	567				hypothetical protein
+OFFJBEEN_00029	gene	711	pyrH			
+OFFJBEEN_00029	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+OFFJBEEN_00030	gene	558				
+OFFJBEEN_00030	CDS	558				hypothetical protein
+OFFJBEEN_00031	gene	783	birA			
+OFFJBEEN_00031	CDS	783	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+OFFJBEEN_00032	gene	453	tadA_1			
+OFFJBEEN_00032	CDS	453	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+OFFJBEEN_00033	gene	846				
+OFFJBEEN_00033	CDS	846				hypothetical protein
+OFFJBEEN_00034	gene	687	rsmI			
+OFFJBEEN_00034	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+OFFJBEEN_00035	gene	1140				
+OFFJBEEN_00035	CDS	1140				hypothetical protein
+OFFJBEEN_00036	gene	1248				
+OFFJBEEN_00036	CDS	1248				hypothetical protein
+OFFJBEEN_00037	gene	438				
+OFFJBEEN_00037	CDS	438				hypothetical protein
+OFFJBEEN_00038	gene	1470	mrdB_1			
+OFFJBEEN_00038	CDS	1470	mrdB_1	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+OFFJBEEN_00039	gene	1851	mrdA			
+OFFJBEEN_00039	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+OFFJBEEN_00040	gene	498				
+OFFJBEEN_00040	CDS	498				hypothetical protein
+OFFJBEEN_00041	gene	867				
+OFFJBEEN_00041	CDS	867				hypothetical protein
+OFFJBEEN_00042	gene	1026	mbl			
+OFFJBEEN_00042	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+OFFJBEEN_00043	gene	600	purH_2			
+OFFJBEEN_00043	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+OFFJBEEN_00044	gene	426	sulD			
+OFFJBEEN_00044	CDS	426	sulD		COG0801	Bifunctional folate synthesis protein
+OFFJBEEN_00045	gene	1119	queA_1			
+OFFJBEEN_00045	CDS	1119	queA_1	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OFFJBEEN_00046	gene	699	truB			
+OFFJBEEN_00046	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+OFFJBEEN_00047	gene	879	uppP			
+OFFJBEEN_00047	CDS	879	uppP	3.6.1.27	COG1968	Undecaprenyl-diphosphatase
+OFFJBEEN_00048	gene	249				
+OFFJBEEN_00048	CDS	249				hypothetical protein
+OFFJBEEN_00049	gene	879	ftsX			
+OFFJBEEN_00049	CDS	879	ftsX		COG2177	Cell division protein FtsX
+OFFJBEEN_00050	gene	780				
+OFFJBEEN_00050	CDS	780				hypothetical protein
+OFFJBEEN_00051	gene	621				
+OFFJBEEN_00051	CDS	621				hypothetical protein
+OFFJBEEN_00052	gene	534	yhcG_1			
+OFFJBEEN_00052	CDS	534	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+OFFJBEEN_00053	gene	420	yhcG_2			
+OFFJBEEN_00053	CDS	420	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+OFFJBEEN_00054	gene	270	rpsO			
+OFFJBEEN_00054	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+OFFJBEEN_00055	gene	2508				
+OFFJBEEN_00055	CDS	2508				hypothetical protein
+OFFJBEEN_00056	gene	696	mtnN			
+OFFJBEEN_00056	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+OFFJBEEN_00057	gene	480	luxS			
+OFFJBEEN_00057	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+OFFJBEEN_00058	gene	1425	dinF			
+OFFJBEEN_00058	CDS	1425	dinF		COG0534	DNA damage-inducible protein F
+OFFJBEEN_00059	gene	1851	typA			
+OFFJBEEN_00059	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+OFFJBEEN_00060	gene	435	nudC_1			
+OFFJBEEN_00060	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+OFFJBEEN_00061	gene	852				
+OFFJBEEN_00061	CDS	852				hypothetical protein
+OFFJBEEN_00062	gene	2409				
+OFFJBEEN_00062	CDS	2409		5.1.1.1		Alanine racemase
+OFFJBEEN_00063	gene	282				
+OFFJBEEN_00063	CDS	282				hypothetical protein
+OFFJBEEN_00064	gene	726				
+OFFJBEEN_00064	CDS	726				hypothetical protein
+OFFJBEEN_00065	gene	687	psd			
+OFFJBEEN_00065	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+OFFJBEEN_00066	gene	3711	dnaE			
+OFFJBEEN_00066	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+OFFJBEEN_00067	gene	315	trxA			
+OFFJBEEN_00067	CDS	315	trxA			Thioredoxin 1
+OFFJBEEN_00068	gene	384				
+OFFJBEEN_00068	CDS	384				hypothetical protein
+OFFJBEEN_00069	gene	408				
+OFFJBEEN_00069	CDS	408				hypothetical protein
+OFFJBEEN_00070	gene	846	ecoRIR			
+OFFJBEEN_00070	CDS	846	ecoRIR	3.1.21.4		Type-2 restriction enzyme EcoRI
+OFFJBEEN_00071	gene	1029				
+OFFJBEEN_00071	CDS	1029				hypothetical protein
+OFFJBEEN_00072	gene	795	COQ3_1			
+OFFJBEEN_00072	CDS	795	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+OFFJBEEN_00073	gene	411	tsaE			
+OFFJBEEN_00073	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+OFFJBEEN_00074	gene	1569	cheB			
+OFFJBEEN_00074	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+OFFJBEEN_00075	gene	3387	bamD_1			
+OFFJBEEN_00075	CDS	3387	bamD_1			Outer membrane protein assembly factor BamD
+OFFJBEEN_00076	gene	393				
+OFFJBEEN_00076	CDS	393				hypothetical protein
+OFFJBEEN_00077	gene	1251	aroA			
+OFFJBEEN_00077	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+OFFJBEEN_00078	gene	1167				
+OFFJBEEN_00078	CDS	1167				hypothetical protein
+OFFJBEEN_00079	gene	471				
+OFFJBEEN_00079	CDS	471				hypothetical protein
+OFFJBEEN_00080	gene	99				
+OFFJBEEN_00080	CDS	99				hypothetical protein
+OFFJBEEN_00081	gene	840				
+OFFJBEEN_00081	CDS	840				hypothetical protein
+OFFJBEEN_00082	gene	852				
+OFFJBEEN_00082	CDS	852				hypothetical protein
+OFFJBEEN_00083	gene	74				
+OFFJBEEN_00083	tRNA	74				tRNA-Pro(ggg)
+OFFJBEEN_00084	gene	74				
+OFFJBEEN_00084	tRNA	74				tRNA-Lys(ttt)
+OFFJBEEN_00085	gene	1134				
+OFFJBEEN_00085	CDS	1134				hypothetical protein
+OFFJBEEN_00086	gene	600	tdk			
+OFFJBEEN_00086	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+OFFJBEEN_00087	gene	1866				
+OFFJBEEN_00087	CDS	1866				hypothetical protein
+OFFJBEEN_00088	gene	1209	ribBA			
+OFFJBEEN_00088	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+OFFJBEEN_00089	gene	831	tolQ_1			
+OFFJBEEN_00089	CDS	831	tolQ_1			Tol-Pal system protein TolQ
+OFFJBEEN_00090	gene	675				
+OFFJBEEN_00090	CDS	675				hypothetical protein
+OFFJBEEN_00091	gene	648				
+OFFJBEEN_00091	CDS	648				hypothetical protein
+OFFJBEEN_00092	gene	846				
+OFFJBEEN_00092	CDS	846				hypothetical protein
+OFFJBEEN_00093	gene	963				
+OFFJBEEN_00093	CDS	963				hypothetical protein
+OFFJBEEN_00094	gene	1458				
+OFFJBEEN_00094	CDS	1458				hypothetical protein
+OFFJBEEN_00095	gene	1950				
+OFFJBEEN_00095	CDS	1950				hypothetical protein
+OFFJBEEN_00096	gene	423				
+OFFJBEEN_00096	CDS	423				hypothetical protein
+OFFJBEEN_00097	gene	738				
+OFFJBEEN_00097	CDS	738				hypothetical protein
+OFFJBEEN_00098	gene	2559				
+OFFJBEEN_00098	CDS	2559				hypothetical protein
+OFFJBEEN_00099	gene	381	folB			
+OFFJBEEN_00099	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+OFFJBEEN_00100	gene	1185				
+OFFJBEEN_00100	CDS	1185				hypothetical protein
+OFFJBEEN_00101	gene	903				
+OFFJBEEN_00101	CDS	903				hypothetical protein
+OFFJBEEN_00102	gene	1410	dnaA			
+OFFJBEEN_00102	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+OFFJBEEN_00103	gene	471				
+OFFJBEEN_00103	CDS	471				hypothetical protein
+OFFJBEEN_00104	gene	420				
+OFFJBEEN_00104	CDS	420				hypothetical protein
+OFFJBEEN_00105	gene	402				
+OFFJBEEN_00105	CDS	402				hypothetical protein
+OFFJBEEN_00106	gene	75				
+OFFJBEEN_00106	tRNA	75				tRNA-Met(cat)
+OFFJBEEN_00107	gene	3183				
+OFFJBEEN_00107	CDS	3183				TonB-dependent receptor P26
+OFFJBEEN_00108	gene	1494				
+OFFJBEEN_00108	CDS	1494				hypothetical protein
+OFFJBEEN_00109	gene	714				
+OFFJBEEN_00109	CDS	714				hypothetical protein
+OFFJBEEN_00110	gene	519				
+OFFJBEEN_00110	CDS	519				hypothetical protein
+OFFJBEEN_00111	gene	1233				
+OFFJBEEN_00111	CDS	1233				hypothetical protein
+OFFJBEEN_00112	gene	744				
+OFFJBEEN_00112	CDS	744				hypothetical protein
+OFFJBEEN_00113	gene	2394				
+OFFJBEEN_00113	CDS	2394				hypothetical protein
+OFFJBEEN_00114	gene	2037	btuB_2			
+OFFJBEEN_00114	CDS	2037	btuB_2			Vitamin B12 transporter BtuB
+OFFJBEEN_00115	gene	1242				
+OFFJBEEN_00115	CDS	1242				hypothetical protein
+OFFJBEEN_00116	gene	1554				
+OFFJBEEN_00116	CDS	1554				hypothetical protein
+OFFJBEEN_00117	gene	3873				
+OFFJBEEN_00117	CDS	3873				hypothetical protein
+OFFJBEEN_00118	gene	1461	sasA_1			
+OFFJBEEN_00118	CDS	1461	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+OFFJBEEN_00119	gene	177				
+OFFJBEEN_00119	CDS	177				hypothetical protein
+OFFJBEEN_00120	gene	1659				
+OFFJBEEN_00120	CDS	1659				hypothetical protein
+OFFJBEEN_00121	gene	96				
+OFFJBEEN_00121	CDS	96				hypothetical protein
+OFFJBEEN_00122	gene	1524				
+OFFJBEEN_00122	CDS	1524				hypothetical protein
+OFFJBEEN_00123	gene	1647	fumA			
+OFFJBEEN_00123	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+OFFJBEEN_00124	gene	2898				
+OFFJBEEN_00124	CDS	2898				hypothetical protein
+OFFJBEEN_00125	gene	1866				
+OFFJBEEN_00125	CDS	1866				hypothetical protein
+OFFJBEEN_00126	gene	1257	hflX			
+OFFJBEEN_00126	CDS	1257	hflX			GTPase HflX
+OFFJBEEN_00127	gene	792	nagB			
+OFFJBEEN_00127	CDS	792	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+OFFJBEEN_00128	gene	627				
+OFFJBEEN_00128	CDS	627				hypothetical protein
+OFFJBEEN_00129	gene	1389				
+OFFJBEEN_00129	CDS	1389				hypothetical protein
+OFFJBEEN_00130	gene	1452				
+OFFJBEEN_00130	CDS	1452				hypothetical protein
+OFFJBEEN_00131	gene	1290				
+OFFJBEEN_00131	CDS	1290				hypothetical protein
+OFFJBEEN_00132	gene	816	xerC_1			
+OFFJBEEN_00132	CDS	816	xerC_1			Tyrosine recombinase XerC
+OFFJBEEN_00133	gene	321				
+OFFJBEEN_00133	CDS	321				hypothetical protein
+OFFJBEEN_00134	gene	126				
+OFFJBEEN_00134	CDS	126				hypothetical protein
+OFFJBEEN_00135	gene	168				
+OFFJBEEN_00135	CDS	168				hypothetical protein
+OFFJBEEN_00136	gene	1479	guaB			
+OFFJBEEN_00136	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+OFFJBEEN_00137	gene	1479	surA_1			
+OFFJBEEN_00137	CDS	1479	surA_1	5.2.1.8		Chaperone SurA
+OFFJBEEN_00138	gene	1464	surA_2			
+OFFJBEEN_00138	CDS	1464	surA_2	5.2.1.8		Chaperone SurA
+OFFJBEEN_00139	gene	1695	lptD_1			
+OFFJBEEN_00139	CDS	1695	lptD_1			LPS-assembly protein LptD
+OFFJBEEN_00140	gene	273				
+OFFJBEEN_00140	CDS	273				hypothetical protein
+OFFJBEEN_00141	gene	1815	mutL			
+OFFJBEEN_00141	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+OFFJBEEN_00142	gene	1209				
+OFFJBEEN_00142	CDS	1209				Outer membrane protein 40
+OFFJBEEN_00143	gene	76				
+OFFJBEEN_00143	tRNA	76				tRNA-Val(tac)
+OFFJBEEN_00144	gene	76				
+OFFJBEEN_00144	tRNA	76				tRNA-Val(tac)
+OFFJBEEN_00145	gene	1347	purB			
+OFFJBEEN_00145	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+OFFJBEEN_00146	gene	1431				
+OFFJBEEN_00146	CDS	1431				hypothetical protein
+OFFJBEEN_00147	gene	1395	asnS			
+OFFJBEEN_00147	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+OFFJBEEN_00148	gene	279				
+OFFJBEEN_00148	CDS	279				hypothetical protein
+OFFJBEEN_00149	gene	603				
+OFFJBEEN_00149	CDS	603				hypothetical protein
+OFFJBEEN_00150	gene	663	yknY_1			
+OFFJBEEN_00150	CDS	663	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OFFJBEEN_00151	gene	2202	kefB_1			
+OFFJBEEN_00151	CDS	2202	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+OFFJBEEN_00152	gene	1014	asd			
+OFFJBEEN_00152	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+OFFJBEEN_00153	gene	1446	pal_1			
+OFFJBEEN_00153	CDS	1446	pal_1			Peptidoglycan-associated lipoprotein
+OFFJBEEN_00154	gene	1230	yciC			
+OFFJBEEN_00154	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+OFFJBEEN_00155	gene	1329				
+OFFJBEEN_00155	CDS	1329				hypothetical protein
+OFFJBEEN_00156	gene	1446	patA_1			
+OFFJBEEN_00156	CDS	1446	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+OFFJBEEN_00157	gene	807				
+OFFJBEEN_00157	CDS	807				hypothetical protein
+OFFJBEEN_00158	gene	90				
+OFFJBEEN_00158	CDS	90				hypothetical protein
+OFFJBEEN_00159	gene	2334				
+OFFJBEEN_00159	CDS	2334				hypothetical protein
+OFFJBEEN_00160	gene	894				
+OFFJBEEN_00160	CDS	894				hypothetical protein
+OFFJBEEN_00161	gene	264				
+OFFJBEEN_00161	CDS	264				hypothetical protein
+OFFJBEEN_00162	gene	1254				
+OFFJBEEN_00162	CDS	1254				hypothetical protein
+OFFJBEEN_00163	gene	168				
+OFFJBEEN_00163	CDS	168				hypothetical protein
+OFFJBEEN_00164	gene	639				
+OFFJBEEN_00164	CDS	639				hypothetical protein
+OFFJBEEN_00165	gene	90				
+OFFJBEEN_00165	CDS	90				hypothetical protein
+OFFJBEEN_00166	gene	294				
+OFFJBEEN_00166	CDS	294				hypothetical protein
+OFFJBEEN_00167	gene	687				
+OFFJBEEN_00167	CDS	687				hypothetical protein
+OFFJBEEN_00168	gene	1302				
+OFFJBEEN_00168	CDS	1302				hypothetical protein
+OFFJBEEN_00169	gene	387				
+OFFJBEEN_00169	CDS	387				hypothetical protein
+OFFJBEEN_00170	gene	459				
+OFFJBEEN_00170	CDS	459				hypothetical protein
+OFFJBEEN_00171	gene	438				
+OFFJBEEN_00171	CDS	438				hypothetical protein
+OFFJBEEN_00172	gene	1911	dnaK			
+OFFJBEEN_00172	CDS	1911	dnaK			Chaperone protein DnaK
+OFFJBEEN_00173	gene	318				
+OFFJBEEN_00173	CDS	318				hypothetical protein
+OFFJBEEN_00174	gene	810				
+OFFJBEEN_00174	CDS	810				hypothetical protein
+OFFJBEEN_00175	gene	996				
+OFFJBEEN_00175	CDS	996				hypothetical protein
+OFFJBEEN_00176	gene	774	trmB			
+OFFJBEEN_00176	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+OFFJBEEN_00177	gene	2205				
+OFFJBEEN_00177	CDS	2205				hypothetical protein
+OFFJBEEN_00178	gene	1086				
+OFFJBEEN_00178	CDS	1086				hypothetical protein
+OFFJBEEN_00179	gene	1245	ybhR_1			
+OFFJBEEN_00179	CDS	1245	ybhR_1		COG0842	putative multidrug ABC transporter permease YbhR
+OFFJBEEN_00180	gene	1182				
+OFFJBEEN_00180	CDS	1182				hypothetical protein
+OFFJBEEN_00181	gene	987	emrA			
+OFFJBEEN_00181	CDS	987	emrA			Colistin resistance protein EmrA
+OFFJBEEN_00182	gene	1482				
+OFFJBEEN_00182	CDS	1482				hypothetical protein
+OFFJBEEN_00183	gene	873				
+OFFJBEEN_00183	CDS	873				hypothetical protein
+OFFJBEEN_00184	gene	216				
+OFFJBEEN_00184	CDS	216				hypothetical protein
+OFFJBEEN_00185	gene	1566	cydA			
+OFFJBEEN_00185	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+OFFJBEEN_00186	gene	1143	cydB			
+OFFJBEEN_00186	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+OFFJBEEN_00187	gene	963	manA			
+OFFJBEEN_00187	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+OFFJBEEN_00188	gene	1458	trkH			
+OFFJBEEN_00188	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+OFFJBEEN_00189	gene	1353	trkA			
+OFFJBEEN_00189	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+OFFJBEEN_00190	gene	2103	dxs			
+OFFJBEEN_00190	CDS	2103	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+OFFJBEEN_00191	gene	1098	apbC			
+OFFJBEEN_00191	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+OFFJBEEN_00192	gene	768				
+OFFJBEEN_00192	CDS	768				hypothetical protein
+OFFJBEEN_00193	gene	678	walR			
+OFFJBEEN_00193	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+OFFJBEEN_00194	gene	1686				
+OFFJBEEN_00194	CDS	1686				hypothetical protein
+OFFJBEEN_00195	gene	741				
+OFFJBEEN_00195	CDS	741				hypothetical protein
+OFFJBEEN_00196	gene	2016				
+OFFJBEEN_00196	CDS	2016				hypothetical protein
+OFFJBEEN_00197	gene	126				
+OFFJBEEN_00197	CDS	126				hypothetical protein
+OFFJBEEN_00198	gene	1002				
+OFFJBEEN_00198	CDS	1002				hypothetical protein
+OFFJBEEN_00199	gene	180				
+OFFJBEEN_00199	CDS	180				hypothetical protein
+OFFJBEEN_00200	gene	3615				
+OFFJBEEN_00200	CDS	3615				hypothetical protein
+OFFJBEEN_00201	gene	177				
+OFFJBEEN_00201	CDS	177				hypothetical protein
+OFFJBEEN_00202	gene	678				
+OFFJBEEN_00202	CDS	678				hypothetical protein
+OFFJBEEN_00203	gene	498				
+OFFJBEEN_00203	CDS	498				hypothetical protein
+OFFJBEEN_00204	gene	5436				
+OFFJBEEN_00204	CDS	5436				hypothetical protein
+OFFJBEEN_00205	gene	807				
+OFFJBEEN_00205	CDS	807				hypothetical protein
+OFFJBEEN_00206	gene	2667				
+OFFJBEEN_00206	CDS	2667				hypothetical protein
+OFFJBEEN_00207	gene	1344				
+OFFJBEEN_00207	CDS	1344				hypothetical protein
+OFFJBEEN_00208	gene	954				
+OFFJBEEN_00208	CDS	954				hypothetical protein
+OFFJBEEN_00209	gene	3597				
+OFFJBEEN_00209	CDS	3597				hypothetical protein
+OFFJBEEN_00210	gene	1326				
+OFFJBEEN_00210	CDS	1326				hypothetical protein
+OFFJBEEN_00211	gene	1449				
+OFFJBEEN_00211	CDS	1449				hypothetical protein
+OFFJBEEN_00212	gene	663				
+OFFJBEEN_00212	CDS	663				hypothetical protein
+OFFJBEEN_00213	gene	1089				
+OFFJBEEN_00213	CDS	1089				hypothetical protein
+OFFJBEEN_00214	gene	85				
+OFFJBEEN_00214	rRNA	85				5S ribosomal RNA (partial)
+OFFJBEEN_00215	gene	1944	rlhA			
+OFFJBEEN_00215	CDS	1944	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+OFFJBEEN_00216	gene	1017				
+OFFJBEEN_00216	CDS	1017				hypothetical protein
+OFFJBEEN_00217	gene	2421	btuB_3			
+OFFJBEEN_00217	CDS	2421	btuB_3			Vitamin B12 transporter BtuB
+OFFJBEEN_00218	gene	2205				
+OFFJBEEN_00218	CDS	2205				hypothetical protein
+OFFJBEEN_00219	gene	1578	glcA			
+OFFJBEEN_00219	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+OFFJBEEN_00220	gene	1134	hemW			
+OFFJBEEN_00220	CDS	1134	hemW		COG0635	Heme chaperone HemW
+OFFJBEEN_00221	gene	2160	fusA_1			
+OFFJBEEN_00221	CDS	2160	fusA_1		COG0480	Elongation factor G
+OFFJBEEN_00222	gene	690				
+OFFJBEEN_00222	CDS	690				hypothetical protein
+OFFJBEEN_00223	gene	1548	sasA_2			
+OFFJBEEN_00223	CDS	1548	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+OFFJBEEN_00224	gene	699	copR			
+OFFJBEEN_00224	CDS	699	copR			Transcriptional activator protein CopR
+OFFJBEEN_00225	gene	345				
+OFFJBEEN_00225	CDS	345				hypothetical protein
+OFFJBEEN_00226	gene	270				
+OFFJBEEN_00226	CDS	270				hypothetical protein
+OFFJBEEN_00227	gene	561				
+OFFJBEEN_00227	CDS	561				hypothetical protein
+OFFJBEEN_00228	gene	1593	nadB			
+OFFJBEEN_00228	CDS	1593	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+OFFJBEEN_00229	gene	1713				
+OFFJBEEN_00229	CDS	1713				hypothetical protein
+OFFJBEEN_00230	gene	2007	hutU			
+OFFJBEEN_00230	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+OFFJBEEN_00231	gene	1476	hutH			
+OFFJBEEN_00231	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+OFFJBEEN_00232	gene	1251	hutI			
+OFFJBEEN_00232	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+OFFJBEEN_00233	gene	339				
+OFFJBEEN_00233	CDS	339				hypothetical protein
+OFFJBEEN_00234	gene	966	queG			
+OFFJBEEN_00234	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+OFFJBEEN_00235	gene	552				
+OFFJBEEN_00235	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+OFFJBEEN_00236	gene	3336				
+OFFJBEEN_00236	CDS	3336				hypothetical protein
+OFFJBEEN_00237	gene	408	yqaA			
+OFFJBEEN_00237	CDS	408	yqaA		COG1238	Inner membrane protein YqaA
+OFFJBEEN_00238	gene	951				
+OFFJBEEN_00238	CDS	951				hypothetical protein
+OFFJBEEN_00239	gene	1389	purD			
+OFFJBEEN_00239	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+OFFJBEEN_00240	gene	138				
+OFFJBEEN_00240	CDS	138				hypothetical protein
+OFFJBEEN_00241	gene	2901	rexB			
+OFFJBEEN_00241	CDS	2901	rexB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+OFFJBEEN_00242	gene	3246	recB			
+OFFJBEEN_00242	CDS	3246	recB	3.1.11.5		RecBCD enzyme subunit RecB
+OFFJBEEN_00243	gene	1620				
+OFFJBEEN_00243	CDS	1620				hypothetical protein
+OFFJBEEN_00244	gene	2169	dpp5			
+OFFJBEEN_00244	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+OFFJBEEN_00245	gene	1902	yidC			
+OFFJBEEN_00245	CDS	1902	yidC			Membrane protein insertase YidC
+OFFJBEEN_00246	gene	1245				
+OFFJBEEN_00246	CDS	1245				hypothetical protein
+OFFJBEEN_00247	gene	384				
+OFFJBEEN_00247	CDS	384				hypothetical protein
+OFFJBEEN_00248	gene	1761	aspS			
+OFFJBEEN_00248	CDS	1761	aspS	6.1.1.12		Aspartate--tRNA ligase
+OFFJBEEN_00249	gene	303				
+OFFJBEEN_00249	CDS	303				hypothetical protein
+OFFJBEEN_00250	gene	333				
+OFFJBEEN_00250	CDS	333				hypothetical protein
+OFFJBEEN_00251	gene	819	menB			
+OFFJBEEN_00251	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+OFFJBEEN_00252	gene	1047	menC			
+OFFJBEEN_00252	CDS	1047	menC	4.2.1.113	COG1441	o-succinylbenzoate synthase
+OFFJBEEN_00253	gene	375				
+OFFJBEEN_00253	CDS	375				hypothetical protein
+OFFJBEEN_00254	gene	792	rlmB_1			
+OFFJBEEN_00254	CDS	792	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+OFFJBEEN_00255	gene	801	rlmB_2			
+OFFJBEEN_00255	CDS	801	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+OFFJBEEN_00256	gene	630				
+OFFJBEEN_00256	CDS	630				hypothetical protein
+OFFJBEEN_00257	gene	372	flK			
+OFFJBEEN_00257	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+OFFJBEEN_00258	gene	1866	icmF			
+OFFJBEEN_00258	CDS	1866	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+OFFJBEEN_00259	gene	2166	mutB			
+OFFJBEEN_00259	CDS	2166	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+OFFJBEEN_00260	gene	549				
+OFFJBEEN_00260	CDS	549				hypothetical protein
+OFFJBEEN_00261	gene	1680				
+OFFJBEEN_00261	CDS	1680				hypothetical protein
+OFFJBEEN_00262	gene	477	cdd			
+OFFJBEEN_00262	CDS	477	cdd	3.5.4.5	COG0295	Cytidine deaminase
+OFFJBEEN_00263	gene	522				
+OFFJBEEN_00263	CDS	522				hypothetical protein
+OFFJBEEN_00264	gene	1059				
+OFFJBEEN_00264	CDS	1059				hypothetical protein
+OFFJBEEN_00265	gene	546	rfbC			
+OFFJBEEN_00265	CDS	546	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+OFFJBEEN_00266	gene	813				
+OFFJBEEN_00266	CDS	813				hypothetical protein
+OFFJBEEN_00267	gene	798	ispE			
+OFFJBEEN_00267	CDS	798	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+OFFJBEEN_00268	gene	1506	dnaC			
+OFFJBEEN_00268	CDS	1506	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+OFFJBEEN_00269	gene	732	truA			
+OFFJBEEN_00269	CDS	732	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+OFFJBEEN_00270	gene	2229	relA_1			
+OFFJBEEN_00270	CDS	2229	relA_1	2.7.6.5		GTP pyrophosphokinase
+OFFJBEEN_00271	gene	1524				
+OFFJBEEN_00271	CDS	1524				hypothetical protein
+OFFJBEEN_00272	gene	1749	pgcA			
+OFFJBEEN_00272	CDS	1749	pgcA	5.4.2.2		Phosphoglucomutase
+OFFJBEEN_00273	gene	399				
+OFFJBEEN_00273	CDS	399				hypothetical protein
+OFFJBEEN_00274	gene	471	rlmH			
+OFFJBEEN_00274	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+OFFJBEEN_00275	gene	117				
+OFFJBEEN_00275	CDS	117				hypothetical protein
+OFFJBEEN_00276	gene	2205	dap4			
+OFFJBEEN_00276	CDS	2205	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+OFFJBEEN_00277	gene	918				
+OFFJBEEN_00277	CDS	918				hypothetical protein
+OFFJBEEN_00278	gene	816				
+OFFJBEEN_00278	CDS	816				hypothetical protein
+OFFJBEEN_00279	gene	1341				
+OFFJBEEN_00279	CDS	1341				hypothetical protein
+OFFJBEEN_00280	gene	933	rsgA			
+OFFJBEEN_00280	CDS	933	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+OFFJBEEN_00281	gene	561	frr			
+OFFJBEEN_00281	CDS	561	frr		COG0233	Ribosome-recycling factor
+OFFJBEEN_00282	gene	792	rsmA			
+OFFJBEEN_00282	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+OFFJBEEN_00283	gene	624				
+OFFJBEEN_00283	CDS	624				hypothetical protein
+OFFJBEEN_00284	gene	1317				
+OFFJBEEN_00284	CDS	1317				hypothetical protein
+OFFJBEEN_00285	gene	411				
+OFFJBEEN_00285	CDS	411				Single-stranded DNA-binding protein
+OFFJBEEN_00286	gene	549				
+OFFJBEEN_00286	CDS	549				hypothetical protein
+OFFJBEEN_00287	gene	74				
+OFFJBEEN_00287	tRNA	74				tRNA-Gly(gcc)
+OFFJBEEN_00288	gene	84				
+OFFJBEEN_00288	tRNA	84				tRNA-Leu(gag)
+OFFJBEEN_00289	gene	84				
+OFFJBEEN_00289	tRNA	84				tRNA-Leu(cag)
+OFFJBEEN_00290	gene	74				
+OFFJBEEN_00290	tRNA	74				tRNA-Gly(gcc)
+OFFJBEEN_00291	gene	1176	nspC			
+OFFJBEEN_00291	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+OFFJBEEN_00292	gene	321	rbr3B			
+OFFJBEEN_00292	CDS	321	rbr3B	1.11.1.1	COG1592	Reverse rubrerythrin-2
+OFFJBEEN_00293	gene	219	rbr3A			
+OFFJBEEN_00293	CDS	219	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+OFFJBEEN_00294	gene	1362	hisS			
+OFFJBEEN_00294	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+OFFJBEEN_00295	gene	1275	purA			
+OFFJBEEN_00295	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+OFFJBEEN_00296	gene	513				
+OFFJBEEN_00296	CDS	513				hypothetical protein
+OFFJBEEN_00297	gene	612				
+OFFJBEEN_00297	CDS	612				hypothetical protein
+OFFJBEEN_00298	gene	1959				
+OFFJBEEN_00298	CDS	1959				hypothetical protein
+OFFJBEEN_00299	gene	531				
+OFFJBEEN_00299	CDS	531				hypothetical protein
+OFFJBEEN_00300	gene	273				
+OFFJBEEN_00300	CDS	273				hypothetical protein
+OFFJBEEN_00301	gene	495				
+OFFJBEEN_00301	CDS	495				hypothetical protein
+OFFJBEEN_00302	gene	894				
+OFFJBEEN_00302	CDS	894				hypothetical protein
+OFFJBEEN_00303	gene	393				
+OFFJBEEN_00303	CDS	393				hypothetical protein
+OFFJBEEN_00304	gene	864	sigA_1			
+OFFJBEEN_00304	CDS	864	sigA_1			RNA polymerase sigma factor SigA
+OFFJBEEN_00305	gene	88				
+OFFJBEEN_00305	tRNA	88				tRNA-Ser(cga)
+OFFJBEEN_00306	gene	585	yigZ			
+OFFJBEEN_00306	CDS	585	yigZ		COG1739	IMPACT family member YigZ
+OFFJBEEN_00307	gene	1248				
+OFFJBEEN_00307	CDS	1248				hypothetical protein
+OFFJBEEN_00308	gene	918				
+OFFJBEEN_00308	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+OFFJBEEN_00309	gene	1068	serC			
+OFFJBEEN_00309	CDS	1068	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+OFFJBEEN_00310	gene	1320	dbpA			
+OFFJBEEN_00310	CDS	1320	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+OFFJBEEN_00311	gene	399				
+OFFJBEEN_00311	CDS	399				hypothetical protein
+OFFJBEEN_00312	gene	1269				
+OFFJBEEN_00312	CDS	1269				hypothetical protein
+OFFJBEEN_00313	gene	582				
+OFFJBEEN_00313	CDS	582				hypothetical protein
+OFFJBEEN_00314	gene	1602	menD			
+OFFJBEEN_00314	CDS	1602	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+OFFJBEEN_00315	gene	1110	menF_1			
+OFFJBEEN_00315	CDS	1110	menF_1	5.4.4.2		Isochorismate synthase MenF
+OFFJBEEN_00316	gene	426				
+OFFJBEEN_00316	CDS	426		3.1.2.-	COG2050	Putative esterase
+OFFJBEEN_00317	gene	1539				
+OFFJBEEN_00317	CDS	1539				hypothetical protein
+OFFJBEEN_00318	gene	1431	purF			
+OFFJBEEN_00318	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+OFFJBEEN_00319	gene	891	dapA			
+OFFJBEEN_00319	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+OFFJBEEN_00320	gene	723				
+OFFJBEEN_00320	CDS	723				hypothetical protein
+OFFJBEEN_00321	gene	2499	clpC			
+OFFJBEEN_00321	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+OFFJBEEN_00322	gene	1563				
+OFFJBEEN_00322	CDS	1563				hypothetical protein
+OFFJBEEN_00323	gene	1269	nqrF			
+OFFJBEEN_00323	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+OFFJBEEN_00324	gene	627	nqrE			
+OFFJBEEN_00324	CDS	627	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+OFFJBEEN_00325	gene	627	nqrD			
+OFFJBEEN_00325	CDS	627	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+OFFJBEEN_00326	gene	615	nqrC			
+OFFJBEEN_00326	CDS	615	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+OFFJBEEN_00327	gene	1152	nqrB			
+OFFJBEEN_00327	CDS	1152	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+OFFJBEEN_00328	gene	1350	nqrA			
+OFFJBEEN_00328	CDS	1350	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+OFFJBEEN_00329	gene	4482				
+OFFJBEEN_00329	CDS	4482				hypothetical protein
+OFFJBEEN_00330	gene	1194				
+OFFJBEEN_00330	CDS	1194				hypothetical protein
+OFFJBEEN_00331	gene	822	panB			
+OFFJBEEN_00331	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+OFFJBEEN_00332	gene	663	vldH			
+OFFJBEEN_00332	CDS	663	vldH	3.1.3.101		Validoxylamine A 7'-phosphate phosphatase
+OFFJBEEN_00333	gene	834				
+OFFJBEEN_00333	CDS	834				hypothetical protein
+OFFJBEEN_00334	gene	624	rsmG			
+OFFJBEEN_00334	CDS	624	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+OFFJBEEN_00335	gene	645				
+OFFJBEEN_00335	CDS	645		3.-.-.-		putative protein
+OFFJBEEN_00336	gene	558	ruvC			
+OFFJBEEN_00336	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+OFFJBEEN_00337	gene	111				
+OFFJBEEN_00337	CDS	111				hypothetical protein
+OFFJBEEN_00338	gene	468				
+OFFJBEEN_00338	CDS	468				hypothetical protein
+OFFJBEEN_00339	gene	687				
+OFFJBEEN_00339	CDS	687				hypothetical protein
+OFFJBEEN_00340	gene	1152				
+OFFJBEEN_00340	CDS	1152				hypothetical protein
+OFFJBEEN_00341	gene	2037	glgB_1			
+OFFJBEEN_00341	CDS	2037	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+OFFJBEEN_00342	gene	1104				
+OFFJBEEN_00342	CDS	1104				hypothetical protein
+OFFJBEEN_00343	gene	756	kdsB			
+OFFJBEEN_00343	CDS	756	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+OFFJBEEN_00344	gene	2403	feoB			
+OFFJBEEN_00344	CDS	2403	feoB		COG0370	Fe(2+) transporter FeoB
+OFFJBEEN_00345	gene	879				
+OFFJBEEN_00345	CDS	879				hypothetical protein
+OFFJBEEN_00346	gene	663	queC			
+OFFJBEEN_00346	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+OFFJBEEN_00347	gene	1251	pgk			
+OFFJBEEN_00347	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+OFFJBEEN_00348	gene	936				
+OFFJBEEN_00348	CDS	936				hypothetical protein
+OFFJBEEN_00349	gene	2565	glgP			
+OFFJBEEN_00349	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+OFFJBEEN_00350	gene	1641				
+OFFJBEEN_00350	CDS	1641				hypothetical protein
+OFFJBEEN_00351	gene	432				
+OFFJBEEN_00351	CDS	432				hypothetical protein
+OFFJBEEN_00352	gene	2583				
+OFFJBEEN_00352	CDS	2583				hypothetical protein
+OFFJBEEN_00353	gene	705	gph_1			
+OFFJBEEN_00353	CDS	705	gph_1	3.1.3.18		Phosphoglycolate phosphatase
+OFFJBEEN_00354	gene	933				
+OFFJBEEN_00354	CDS	933				hypothetical protein
+OFFJBEEN_00355	gene	813				
+OFFJBEEN_00355	CDS	813				hypothetical protein
+OFFJBEEN_00356	gene	717				
+OFFJBEEN_00356	CDS	717				hypothetical protein
+OFFJBEEN_00357	gene	117				
+OFFJBEEN_00357	CDS	117				hypothetical protein
+OFFJBEEN_00358	gene	1638	rlmL			
+OFFJBEEN_00358	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+OFFJBEEN_00359	gene	2166	ptpA			
+OFFJBEEN_00359	CDS	2166	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+OFFJBEEN_00360	gene	1224				
+OFFJBEEN_00360	CDS	1224			COG2081	putative protein
+OFFJBEEN_00361	gene	1545	comM			
+OFFJBEEN_00361	CDS	1545	comM		COG0606	Competence protein ComM
+OFFJBEEN_00362	gene	786				
+OFFJBEEN_00362	CDS	786				hypothetical protein
+OFFJBEEN_00363	gene	2133				
+OFFJBEEN_00363	CDS	2133				hypothetical protein
+OFFJBEEN_00364	gene	1269				
+OFFJBEEN_00364	CDS	1269				hypothetical protein
+OFFJBEEN_00365	gene	726				
+OFFJBEEN_00365	CDS	726				hypothetical protein
+OFFJBEEN_00366	gene	1296				
+OFFJBEEN_00366	CDS	1296				hypothetical protein
+OFFJBEEN_00367	gene	729	coaX			
+OFFJBEEN_00367	CDS	729	coaX	2.7.1.33		Type III pantothenate kinase
+OFFJBEEN_00368	gene	1197				
+OFFJBEEN_00368	CDS	1197				hypothetical protein
+OFFJBEEN_00369	gene	1419	phoV			
+OFFJBEEN_00369	CDS	1419	phoV	3.1.3.1		Alkaline phosphatase PhoV
+OFFJBEEN_00370	gene	3348	secA			
+OFFJBEEN_00370	CDS	3348	secA			Protein translocase subunit SecA
+OFFJBEEN_00371	gene	762	lptB_1			
+OFFJBEEN_00371	CDS	762	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+OFFJBEEN_00372	gene	1332	tilS			
+OFFJBEEN_00372	CDS	1332	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+OFFJBEEN_00373	gene	1182	rlmI			
+OFFJBEEN_00373	CDS	1182	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+OFFJBEEN_00374	gene	621	rnd			
+OFFJBEEN_00374	CDS	621	rnd	3.1.13.5		Ribonuclease D
+OFFJBEEN_00375	gene	2409				
+OFFJBEEN_00375	CDS	2409				hypothetical protein
+OFFJBEEN_00376	gene	609				
+OFFJBEEN_00376	CDS	609				hypothetical protein
+OFFJBEEN_00377	gene	1494				
+OFFJBEEN_00377	CDS	1494				hypothetical protein
+OFFJBEEN_00378	gene	1098	fcl_1			
+OFFJBEEN_00378	CDS	1098	fcl_1	1.1.1.271	COG0451	GDP-L-fucose synthase
+OFFJBEEN_00379	gene	1086	gmd			
+OFFJBEEN_00379	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+OFFJBEEN_00380	gene	1059	rfbM			
+OFFJBEEN_00380	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+OFFJBEEN_00381	gene	987				
+OFFJBEEN_00381	CDS	987				hypothetical protein
+OFFJBEEN_00382	gene	2304	mrcA_1			
+OFFJBEEN_00382	CDS	2304	mrcA_1		COG5009	Penicillin-binding protein 1A
+OFFJBEEN_00383	gene	948	pyrB			
+OFFJBEEN_00383	CDS	948	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+OFFJBEEN_00384	gene	459	pyrI			
+OFFJBEEN_00384	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+OFFJBEEN_00385	gene	1254	mltF			
+OFFJBEEN_00385	CDS	1254	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+OFFJBEEN_00386	gene	168				
+OFFJBEEN_00386	CDS	168				hypothetical protein
+OFFJBEEN_00387	gene	1632	pepDA			
+OFFJBEEN_00387	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+OFFJBEEN_00388	gene	1623				
+OFFJBEEN_00388	CDS	1623				hypothetical protein
+OFFJBEEN_00389	gene	849	nadC			
+OFFJBEEN_00389	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+OFFJBEEN_00390	gene	495				
+OFFJBEEN_00390	CDS	495				hypothetical protein
+OFFJBEEN_00391	gene	1479	cstA			
+OFFJBEEN_00391	CDS	1479	cstA		COG1966	Peptide transporter CstA
+OFFJBEEN_00392	gene	1722				
+OFFJBEEN_00392	CDS	1722				hypothetical protein
+OFFJBEEN_00393	gene	717				
+OFFJBEEN_00393	CDS	717		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+OFFJBEEN_00394	gene	1731	lysS			
+OFFJBEEN_00394	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+OFFJBEEN_00395	gene	93				
+OFFJBEEN_00395	CDS	93				hypothetical protein
+OFFJBEEN_00396	gene	996	gpsA			
+OFFJBEEN_00396	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+OFFJBEEN_00397	gene	1230	xerC_2			
+OFFJBEEN_00397	CDS	1230	xerC_2			Tyrosine recombinase XerC
+OFFJBEEN_00398	gene	915				
+OFFJBEEN_00398	CDS	915				hypothetical protein
+OFFJBEEN_00399	gene	726				
+OFFJBEEN_00399	CDS	726			COG0217	putative transcriptional regulatory protein
+OFFJBEEN_00400	gene	2463	pheT			
+OFFJBEEN_00400	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+OFFJBEEN_00401	gene	648				
+OFFJBEEN_00401	CDS	648				hypothetical protein
+OFFJBEEN_00402	gene	711				
+OFFJBEEN_00402	CDS	711				hypothetical protein
+OFFJBEEN_00403	gene	636	nth			
+OFFJBEEN_00403	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+OFFJBEEN_00404	gene	606				
+OFFJBEEN_00404	CDS	606				hypothetical protein
+OFFJBEEN_00405	gene	231				
+OFFJBEEN_00405	CDS	231				hypothetical protein
+OFFJBEEN_00406	gene	1455	pepD_1			
+OFFJBEEN_00406	CDS	1455	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+OFFJBEEN_00407	gene	2055	htpG			
+OFFJBEEN_00407	CDS	2055	htpG			Chaperone protein HtpG
+OFFJBEEN_00408	gene	1248	lolE_1			
+OFFJBEEN_00408	CDS	1248	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+OFFJBEEN_00409	gene	1665	fadD3			
+OFFJBEEN_00409	CDS	1665	fadD3	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+OFFJBEEN_00410	gene	1533	pntB			
+OFFJBEEN_00410	CDS	1533	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+OFFJBEEN_00411	gene	315	pntA_1			
+OFFJBEEN_00411	CDS	315	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+OFFJBEEN_00412	gene	1158	pntA_2			
+OFFJBEEN_00412	CDS	1158	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+OFFJBEEN_00413	gene	1833	LIAS			
+OFFJBEEN_00413	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+OFFJBEEN_00414	gene	165				
+OFFJBEEN_00414	CDS	165				hypothetical protein
+OFFJBEEN_00415	gene	96				
+OFFJBEEN_00415	CDS	96				hypothetical protein
+OFFJBEEN_00416	gene	1278				
+OFFJBEEN_00416	CDS	1278				hypothetical protein
+OFFJBEEN_00417	gene	591				
+OFFJBEEN_00417	CDS	591				hypothetical protein
+OFFJBEEN_00418	gene	114				
+OFFJBEEN_00418	CDS	114				hypothetical protein
+OFFJBEEN_00419	gene	825				
+OFFJBEEN_00419	CDS	825				hypothetical protein
+OFFJBEEN_00420	gene	627				
+OFFJBEEN_00420	CDS	627				hypothetical protein
+OFFJBEEN_00421	gene	114				
+OFFJBEEN_00421	CDS	114				hypothetical protein
+OFFJBEEN_00422	gene	1725	caiA			
+OFFJBEEN_00422	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+OFFJBEEN_00423	gene	1026	carE			
+OFFJBEEN_00423	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+OFFJBEEN_00424	gene	873	carD			
+OFFJBEEN_00424	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+OFFJBEEN_00425	gene	642				
+OFFJBEEN_00425	CDS	642				hypothetical protein
+OFFJBEEN_00426	gene	1401	algC_1			
+OFFJBEEN_00426	CDS	1401	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+OFFJBEEN_00427	gene	162				
+OFFJBEEN_00427	CDS	162				hypothetical protein
+OFFJBEEN_00428	gene	1533	pafA			
+OFFJBEEN_00428	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+OFFJBEEN_00429	gene	7554				
+OFFJBEEN_00429	CDS	7554				hypothetical protein
+OFFJBEEN_00430	gene	606	ruvA			
+OFFJBEEN_00430	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+OFFJBEEN_00431	gene	900	ddh			
+OFFJBEEN_00431	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+OFFJBEEN_00432	gene	1431	pepC			
+OFFJBEEN_00432	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+OFFJBEEN_00433	gene	1023	ilvE			
+OFFJBEEN_00433	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+OFFJBEEN_00434	gene	171	xseB			
+OFFJBEEN_00434	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+OFFJBEEN_00435	gene	1323	xseA			
+OFFJBEEN_00435	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+OFFJBEEN_00436	gene	1404	mepA			
+OFFJBEEN_00436	CDS	1404	mepA			Multidrug export protein MepA
+OFFJBEEN_00437	gene	630	cmk_1			
+OFFJBEEN_00437	CDS	630	cmk_1	2.7.4.25		Cytidylate kinase
+OFFJBEEN_00438	gene	1134	rfbB_1			
+OFFJBEEN_00438	CDS	1134	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+OFFJBEEN_00439	gene	411	fdtA			
+OFFJBEEN_00439	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+OFFJBEEN_00440	gene	939				
+OFFJBEEN_00440	CDS	939				hypothetical protein
+OFFJBEEN_00441	gene	1239	fdtB			
+OFFJBEEN_00441	CDS	1239	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+OFFJBEEN_00442	gene	1824				
+OFFJBEEN_00442	CDS	1824				hypothetical protein
+OFFJBEEN_00443	gene	1242				
+OFFJBEEN_00443	CDS	1242				hypothetical protein
+OFFJBEEN_00444	gene	537	sigE_1			
+OFFJBEEN_00444	CDS	537	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+OFFJBEEN_00445	gene	549				
+OFFJBEEN_00445	CDS	549				hypothetical protein
+OFFJBEEN_00446	gene	585				
+OFFJBEEN_00446	CDS	585				hypothetical protein
+OFFJBEEN_00447	gene	1371	lutB			
+OFFJBEEN_00447	CDS	1371	lutB		COG1139	Lactate utilization protein B
+OFFJBEEN_00448	gene	738	lutA			
+OFFJBEEN_00448	CDS	738	lutA		COG0247	Lactate utilization protein A
+OFFJBEEN_00449	gene	2040	topB			
+OFFJBEEN_00449	CDS	2040	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+OFFJBEEN_00450	gene	432				
+OFFJBEEN_00450	CDS	432				hypothetical protein
+OFFJBEEN_00451	gene	1386				
+OFFJBEEN_00451	CDS	1386				hypothetical protein
+OFFJBEEN_00452	gene	1026	mltG			
+OFFJBEEN_00452	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+OFFJBEEN_00453	gene	282				
+OFFJBEEN_00453	CDS	282				hypothetical protein
+OFFJBEEN_00454	gene	1707	glnS			
+OFFJBEEN_00454	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+OFFJBEEN_00455	gene	1365	bepA_1			
+OFFJBEEN_00455	CDS	1365	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+OFFJBEEN_00456	gene	636				
+OFFJBEEN_00456	CDS	636				hypothetical protein
+OFFJBEEN_00457	gene	1272	apgM			
+OFFJBEEN_00457	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OFFJBEEN_00458	gene	606	ribE			
+OFFJBEEN_00458	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+OFFJBEEN_00459	gene	1326				
+OFFJBEEN_00459	CDS	1326				hypothetical protein
+OFFJBEEN_00460	gene	642	gph_2			
+OFFJBEEN_00460	CDS	642	gph_2	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+OFFJBEEN_00461	gene	1314				
+OFFJBEEN_00461	CDS	1314				hypothetical protein
+OFFJBEEN_00462	gene	972	ravA			
+OFFJBEEN_00462	CDS	972	ravA	3.6.3.-		ATPase RavA
+OFFJBEEN_00463	gene	1356				
+OFFJBEEN_00463	CDS	1356				hypothetical protein
+OFFJBEEN_00464	gene	618				
+OFFJBEEN_00464	CDS	618				hypothetical protein
+OFFJBEEN_00465	gene	924				
+OFFJBEEN_00465	CDS	924				hypothetical protein
+OFFJBEEN_00466	gene	1035				
+OFFJBEEN_00466	CDS	1035				hypothetical protein
+OFFJBEEN_00467	gene	732				
+OFFJBEEN_00467	CDS	732				hypothetical protein
+OFFJBEEN_00468	gene	129				
+OFFJBEEN_00468	CDS	129				hypothetical protein
+OFFJBEEN_00469	gene	1611	ybiT			
+OFFJBEEN_00469	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+OFFJBEEN_00470	gene	582	grpE			
+OFFJBEEN_00470	CDS	582	grpE		COG0576	Protein GrpE
+OFFJBEEN_00471	gene	1173	dnaJ			
+OFFJBEEN_00471	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+OFFJBEEN_00472	gene	1224	fpgS			
+OFFJBEEN_00472	CDS	1224	fpgS	6.3.2.17		Folylpolyglutamate synthase
+OFFJBEEN_00473	gene	1191	mro			
+OFFJBEEN_00473	CDS	1191	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+OFFJBEEN_00474	gene	1377	fucP			
+OFFJBEEN_00474	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+OFFJBEEN_00475	gene	1599				
+OFFJBEEN_00475	CDS	1599				hypothetical protein
+OFFJBEEN_00476	gene	102				
+OFFJBEEN_00476	CDS	102				hypothetical protein
+OFFJBEEN_00477	gene	1560				
+OFFJBEEN_00477	CDS	1560				hypothetical protein
+OFFJBEEN_00478	gene	2493				
+OFFJBEEN_00478	CDS	2493				hypothetical protein
+OFFJBEEN_00479	gene	117				
+OFFJBEEN_00479	CDS	117				hypothetical protein
+OFFJBEEN_00480	gene	105				
+OFFJBEEN_00480	CDS	105				hypothetical protein
+OFFJBEEN_00481	gene	1542	glyQS			
+OFFJBEEN_00481	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+OFFJBEEN_00482	gene	582				
+OFFJBEEN_00482	CDS	582				hypothetical protein
+OFFJBEEN_00483	gene	339				
+OFFJBEEN_00483	CDS	339				hypothetical protein
+OFFJBEEN_00484	gene	123				
+OFFJBEEN_00484	CDS	123				hypothetical protein
+OFFJBEEN_00485	gene	1374	yeeO			
+OFFJBEEN_00485	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+OFFJBEEN_00486	gene	822	cmk_2			
+OFFJBEEN_00486	CDS	822	cmk_2	2.7.4.25		Cytidylate kinase
+OFFJBEEN_00487	gene	405				
+OFFJBEEN_00487	CDS	405				hypothetical protein
+OFFJBEEN_00488	gene	1251	tdcG			
+OFFJBEEN_00488	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+OFFJBEEN_00489	gene	2640	rep_1			
+OFFJBEEN_00489	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+OFFJBEEN_00490	gene	1404				
+OFFJBEEN_00490	CDS	1404				hypothetical protein
+OFFJBEEN_00491	gene	1098	ybhR_2			
+OFFJBEEN_00491	CDS	1098	ybhR_2		COG0842	putative multidrug ABC transporter permease YbhR
+OFFJBEEN_00492	gene	1065	ybhS			
+OFFJBEEN_00492	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+OFFJBEEN_00493	gene	1476	rbbA			
+OFFJBEEN_00493	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+OFFJBEEN_00494	gene	888				
+OFFJBEEN_00494	CDS	888				hypothetical protein
+OFFJBEEN_00495	gene	1296				
+OFFJBEEN_00495	CDS	1296				hypothetical protein
+OFFJBEEN_00496	gene	1932				
+OFFJBEEN_00496	CDS	1932				hypothetical protein
+OFFJBEEN_00497	gene	1038				
+OFFJBEEN_00497	CDS	1038				hypothetical protein
+OFFJBEEN_00498	gene	1593	prfC			
+OFFJBEEN_00498	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+OFFJBEEN_00499	gene	858	rmlD			
+OFFJBEEN_00499	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+OFFJBEEN_00500	gene	579				
+OFFJBEEN_00500	CDS	579				hypothetical protein
+OFFJBEEN_00501	gene	690				
+OFFJBEEN_00501	CDS	690				hypothetical protein
+OFFJBEEN_00502	gene	981	glkA			
+OFFJBEEN_00502	CDS	981	glkA	2.7.1.2		Glucokinase
+OFFJBEEN_00503	gene	519				
+OFFJBEEN_00503	CDS	519				hypothetical protein
+OFFJBEEN_00504	gene	114				
+OFFJBEEN_00504	CDS	114				hypothetical protein
+OFFJBEEN_00505	gene	2067	pal_2			
+OFFJBEEN_00505	CDS	2067	pal_2			Peptidoglycan-associated lipoprotein
+OFFJBEEN_00506	gene	360				
+OFFJBEEN_00506	CDS	360				hypothetical protein
+OFFJBEEN_00507	gene	543	algU			
+OFFJBEEN_00507	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+OFFJBEEN_00508	gene	186				
+OFFJBEEN_00508	CDS	186				hypothetical protein
+OFFJBEEN_00509	gene	777				
+OFFJBEEN_00509	CDS	777				hypothetical protein
+OFFJBEEN_00510	gene	1410	rsmF			
+OFFJBEEN_00510	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+OFFJBEEN_00511	gene	795	thyA			
+OFFJBEEN_00511	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+OFFJBEEN_00512	gene	486	dfrA			
+OFFJBEEN_00512	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+OFFJBEEN_00513	gene	135				
+OFFJBEEN_00513	CDS	135				hypothetical protein
+OFFJBEEN_00514	gene	486	asnC_1			
+OFFJBEEN_00514	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+OFFJBEEN_00515	gene	807	tolQ_2			
+OFFJBEEN_00515	CDS	807	tolQ_2			Tol-Pal system protein TolQ
+OFFJBEEN_00516	gene	477				
+OFFJBEEN_00516	CDS	477				hypothetical protein
+OFFJBEEN_00517	gene	498				
+OFFJBEEN_00517	CDS	498				hypothetical protein
+OFFJBEEN_00518	gene	483				
+OFFJBEEN_00518	CDS	483				hypothetical protein
+OFFJBEEN_00519	gene	534	maa			
+OFFJBEEN_00519	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+OFFJBEEN_00520	gene	567	resA_1			
+OFFJBEEN_00520	CDS	567	resA_1			Thiol-disulfide oxidoreductase ResA
+OFFJBEEN_00521	gene	1452				
+OFFJBEEN_00521	CDS	1452				hypothetical protein
+OFFJBEEN_00522	gene	441				
+OFFJBEEN_00522	CDS	441				hypothetical protein
+OFFJBEEN_00523	gene	1323				
+OFFJBEEN_00523	CDS	1323				hypothetical protein
+OFFJBEEN_00524	gene	89				
+OFFJBEEN_00524	tRNA	89				tRNA-Ser(gga)
+OFFJBEEN_00525	gene	882	dtd3			
+OFFJBEEN_00525	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+OFFJBEEN_00526	gene	699				
+OFFJBEEN_00526	CDS	699				hypothetical protein
+OFFJBEEN_00527	gene	975				
+OFFJBEEN_00527	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+OFFJBEEN_00528	gene	720				
+OFFJBEEN_00528	CDS	720				hypothetical protein
+OFFJBEEN_00529	gene	951				
+OFFJBEEN_00529	CDS	951				hypothetical protein
+OFFJBEEN_00530	gene	2682	parC			
+OFFJBEEN_00530	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+OFFJBEEN_00531	gene	861				
+OFFJBEEN_00531	CDS	861				hypothetical protein
+OFFJBEEN_00532	gene	1005				
+OFFJBEEN_00532	CDS	1005				hypothetical protein
+OFFJBEEN_00533	gene	828	btuD_1			
+OFFJBEEN_00533	CDS	828	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OFFJBEEN_00534	gene	83				
+OFFJBEEN_00534	tRNA	83				tRNA-Leu(tag)
+OFFJBEEN_00535	gene	861	ispH			
+OFFJBEEN_00535	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+OFFJBEEN_00536	gene	1107				
+OFFJBEEN_00536	CDS	1107		3.6.-.-	COG1703	putative GTPase
+OFFJBEEN_00537	gene	1065				
+OFFJBEEN_00537	CDS	1065				hypothetical protein
+OFFJBEEN_00538	gene	5553				
+OFFJBEEN_00538	CDS	5553				hypothetical protein
+OFFJBEEN_00539	gene	453	bcp			
+OFFJBEEN_00539	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+OFFJBEEN_00540	gene	2028				
+OFFJBEEN_00540	CDS	2028				hypothetical protein
+OFFJBEEN_00541	gene	2106	f1pep1			
+OFFJBEEN_00541	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+OFFJBEEN_00542	gene	768				
+OFFJBEEN_00542	CDS	768				hypothetical protein
+OFFJBEEN_00543	gene	771				
+OFFJBEEN_00543	CDS	771				hypothetical protein
+OFFJBEEN_00544	gene	744				
+OFFJBEEN_00544	CDS	744				hypothetical protein
+OFFJBEEN_00545	gene	2601	clpB1			
+OFFJBEEN_00545	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+OFFJBEEN_00546	gene	1257				
+OFFJBEEN_00546	CDS	1257				hypothetical protein
+OFFJBEEN_00547	gene	2181	recQ			
+OFFJBEEN_00547	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+OFFJBEEN_00548	gene	1230	clpX_1			
+OFFJBEEN_00548	CDS	1230	clpX_1		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+OFFJBEEN_00549	gene	666	clpP			
+OFFJBEEN_00549	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+OFFJBEEN_00550	gene	1356	tig			
+OFFJBEEN_00550	CDS	1356	tig	5.2.1.8		Trigger factor
+OFFJBEEN_00551	gene	3099				
+OFFJBEEN_00551	CDS	3099				hypothetical protein
+OFFJBEEN_00552	gene	582	resA_2			
+OFFJBEEN_00552	CDS	582	resA_2			Thiol-disulfide oxidoreductase ResA
+OFFJBEEN_00553	gene	939	prs			
+OFFJBEEN_00553	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+OFFJBEEN_00554	gene	609				
+OFFJBEEN_00554	CDS	609				hypothetical protein
+OFFJBEEN_00555	gene	825	lptB_2			
+OFFJBEEN_00555	CDS	825	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+OFFJBEEN_00556	gene	564				
+OFFJBEEN_00556	CDS	564				hypothetical protein
+OFFJBEEN_00557	gene	747	mlaE			
+OFFJBEEN_00557	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+OFFJBEEN_00558	gene	777	mkl			
+OFFJBEEN_00558	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+OFFJBEEN_00559	gene	399				
+OFFJBEEN_00559	CDS	399				hypothetical protein
+OFFJBEEN_00560	gene	1317	der_1			
+OFFJBEEN_00560	CDS	1317	der_1		COG1160	GTPase Der
+OFFJBEEN_00561	gene	1056	era			
+OFFJBEEN_00561	CDS	1056	era		COG1159	GTPase Era
+OFFJBEEN_00562	gene	1011	fabH			
+OFFJBEEN_00562	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+OFFJBEEN_00563	gene	189	rpmF			
+OFFJBEEN_00563	CDS	189	rpmF			50S ribosomal protein L32
+OFFJBEEN_00564	gene	522				
+OFFJBEEN_00564	CDS	522				hypothetical protein
+OFFJBEEN_00565	gene	522				
+OFFJBEEN_00565	CDS	522				hypothetical protein
+OFFJBEEN_00566	gene	627				
+OFFJBEEN_00566	CDS	627				hypothetical protein
+OFFJBEEN_00567	gene	1440				
+OFFJBEEN_00567	CDS	1440				hypothetical protein
+OFFJBEEN_00568	gene	360				
+OFFJBEEN_00568	CDS	360				hypothetical protein
+OFFJBEEN_00569	gene	1164	sasA_3			
+OFFJBEEN_00569	CDS	1164	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+OFFJBEEN_00570	gene	546				
+OFFJBEEN_00570	CDS	546				hypothetical protein
+OFFJBEEN_00571	gene	375				
+OFFJBEEN_00571	CDS	375				hypothetical protein
+OFFJBEEN_00572	gene	222				
+OFFJBEEN_00572	CDS	222				hypothetical protein
+OFFJBEEN_00573	gene	1416				
+OFFJBEEN_00573	CDS	1416				hypothetical protein
+OFFJBEEN_00574	gene	1269	mshA_1			
+OFFJBEEN_00574	CDS	1269	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OFFJBEEN_00575	gene	1917				
+OFFJBEEN_00575	CDS	1917				hypothetical protein
+OFFJBEEN_00576	gene	933	ytlR			
+OFFJBEEN_00576	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+OFFJBEEN_00577	gene	987	miaA_1			
+OFFJBEEN_00577	CDS	987	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+OFFJBEEN_00578	gene	606				
+OFFJBEEN_00578	CDS	606				hypothetical protein
+OFFJBEEN_00579	gene	2064	dsbD			
+OFFJBEEN_00579	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+OFFJBEEN_00580	gene	1113	macA			
+OFFJBEEN_00580	CDS	1113	macA		COG0845	Macrolide export protein MacA
+OFFJBEEN_00581	gene	1248	macB_1			
+OFFJBEEN_00581	CDS	1248	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+OFFJBEEN_00582	gene	1284	macB_2			
+OFFJBEEN_00582	CDS	1284	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+OFFJBEEN_00583	gene	672	yknY_2			
+OFFJBEEN_00583	CDS	672	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OFFJBEEN_00584	gene	186				
+OFFJBEEN_00584	CDS	186				hypothetical protein
+OFFJBEEN_00585	gene	171				
+OFFJBEEN_00585	CDS	171				hypothetical protein
+OFFJBEEN_00586	gene	2559				
+OFFJBEEN_00586	CDS	2559				hypothetical protein
+OFFJBEEN_00587	gene	2469	mrcA_2			
+OFFJBEEN_00587	CDS	2469	mrcA_2		COG5009	Penicillin-binding protein 1A
+OFFJBEEN_00588	gene	909	miaA_2			
+OFFJBEEN_00588	CDS	909	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+OFFJBEEN_00589	gene	774	lpxA_1			
+OFFJBEEN_00589	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+OFFJBEEN_00590	gene	1386	lpxC			
+OFFJBEEN_00590	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+OFFJBEEN_00591	gene	1044	lpxD			
+OFFJBEEN_00591	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+OFFJBEEN_00592	gene	1221				
+OFFJBEEN_00592	CDS	1221				hypothetical protein
+OFFJBEEN_00593	gene	1557	rapZ			
+OFFJBEEN_00593	CDS	1557	rapZ			RNase adapter protein RapZ
+OFFJBEEN_00594	gene	189				
+OFFJBEEN_00594	CDS	189				hypothetical protein
+OFFJBEEN_00595	gene	2682				
+OFFJBEEN_00595	CDS	2682				hypothetical protein
+OFFJBEEN_00596	gene	690				
+OFFJBEEN_00596	CDS	690				hypothetical protein
+OFFJBEEN_00597	gene	246				
+OFFJBEEN_00597	CDS	246				hypothetical protein
+OFFJBEEN_00598	gene	1632	groL			
+OFFJBEEN_00598	CDS	1632	groL		COG0459	60 kDa chaperonin
+OFFJBEEN_00599	gene	273	groS1			
+OFFJBEEN_00599	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+OFFJBEEN_00600	gene	2409	pcrA			
+OFFJBEEN_00600	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+OFFJBEEN_00601	gene	708	mtgA			
+OFFJBEEN_00601	CDS	708	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+OFFJBEEN_00602	gene	696	pal_3			
+OFFJBEEN_00602	CDS	696	pal_3			Peptidoglycan-associated lipoprotein
+OFFJBEEN_00603	gene	1482	proS			
+OFFJBEEN_00603	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+OFFJBEEN_00604	gene	222				
+OFFJBEEN_00604	CDS	222				hypothetical protein
+OFFJBEEN_00605	gene	903				
+OFFJBEEN_00605	CDS	903				hypothetical protein
+OFFJBEEN_00606	gene	633	lspA			
+OFFJBEEN_00606	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+OFFJBEEN_00607	gene	381	dksA			
+OFFJBEEN_00607	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+OFFJBEEN_00608	gene	3585	ileS			
+OFFJBEEN_00608	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+OFFJBEEN_00609	gene	408				
+OFFJBEEN_00609	CDS	408				hypothetical protein
+OFFJBEEN_00610	gene	1623				
+OFFJBEEN_00610	CDS	1623				hypothetical protein
+OFFJBEEN_00611	gene	1023				
+OFFJBEEN_00611	CDS	1023				hypothetical protein
+OFFJBEEN_00612	gene	882	rsmC			
+OFFJBEEN_00612	CDS	882	rsmC	2.1.1.172		Ribosomal RNA small subunit methyltransferase C
+OFFJBEEN_00613	gene	804				
+OFFJBEEN_00613	CDS	804				hypothetical protein
+OFFJBEEN_00614	gene	1641	pfp			
+OFFJBEEN_00614	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+OFFJBEEN_00615	gene	273				
+OFFJBEEN_00615	CDS	273				hypothetical protein
+OFFJBEEN_00616	gene	555				
+OFFJBEEN_00616	CDS	555				hypothetical protein
+OFFJBEEN_00617	gene	2685				
+OFFJBEEN_00617	CDS	2685				hypothetical protein
+OFFJBEEN_00618	gene	306				
+OFFJBEEN_00618	CDS	306				hypothetical protein
+OFFJBEEN_00619	gene	1827				
+OFFJBEEN_00619	CDS	1827				hypothetical protein
+OFFJBEEN_00620	gene	1059				
+OFFJBEEN_00620	CDS	1059				hypothetical protein
+OFFJBEEN_00621	gene	516	COQ3_2			
+OFFJBEEN_00621	CDS	516	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+OFFJBEEN_00622	gene	174				
+OFFJBEEN_00622	CDS	174				hypothetical protein
+OFFJBEEN_00623	gene	657	gpx1			
+OFFJBEEN_00623	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+OFFJBEEN_00624	gene	450				
+OFFJBEEN_00624	CDS	450				hypothetical protein
+OFFJBEEN_00625	gene	1716	aspT_1			
+OFFJBEEN_00625	CDS	1716	aspT_1			Aspartate/alanine antiporter
+OFFJBEEN_00626	gene	957				
+OFFJBEEN_00626	CDS	957				hypothetical protein
+OFFJBEEN_00627	gene	450				
+OFFJBEEN_00627	CDS	450				hypothetical protein
+OFFJBEEN_00628	gene	1158	gcdB			
+OFFJBEEN_00628	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+OFFJBEEN_00629	gene	585	malT			
+OFFJBEEN_00629	CDS	585	malT			HTH-type transcriptional regulator MalT
+OFFJBEEN_00630	gene	957				
+OFFJBEEN_00630	CDS	957				hypothetical protein
+OFFJBEEN_00631	gene	1533	rny_1			
+OFFJBEEN_00631	CDS	1533	rny_1	3.1.-.-	COG1418	Ribonuclease Y
+OFFJBEEN_00632	gene	345				
+OFFJBEEN_00632	CDS	345				hypothetical protein
+OFFJBEEN_00633	gene	300				
+OFFJBEEN_00633	CDS	300				hypothetical protein
+OFFJBEEN_00634	gene	624				
+OFFJBEEN_00634	CDS	624				hypothetical protein
+OFFJBEEN_00635	gene	876	rmlA			
+OFFJBEEN_00635	CDS	876	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+OFFJBEEN_00636	gene	2484				
+OFFJBEEN_00636	CDS	2484				hypothetical protein
+OFFJBEEN_00637	gene	3306	carB			
+OFFJBEEN_00637	CDS	3306	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+OFFJBEEN_00638	gene	744				
+OFFJBEEN_00638	CDS	744				hypothetical protein
+OFFJBEEN_00639	gene	1185				
+OFFJBEEN_00639	CDS	1185				hypothetical protein
+OFFJBEEN_00640	gene	1584				
+OFFJBEEN_00640	CDS	1584				hypothetical protein
+OFFJBEEN_00641	gene	276				
+OFFJBEEN_00641	CDS	276				hypothetical protein
+OFFJBEEN_00642	gene	3390				
+OFFJBEEN_00642	CDS	3390				hypothetical protein
+OFFJBEEN_00643	gene	198				
+OFFJBEEN_00643	CDS	198				hypothetical protein
+OFFJBEEN_00644	gene	150				
+OFFJBEEN_00644	CDS	150				hypothetical protein
+OFFJBEEN_00645	gene	990				
+OFFJBEEN_00645	CDS	990				hypothetical protein
+OFFJBEEN_00646	gene	1437	ndhB			
+OFFJBEEN_00646	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+OFFJBEEN_00647	gene	1500	ndhD1			
+OFFJBEEN_00647	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+OFFJBEEN_00648	gene	1989	nuoL			
+OFFJBEEN_00648	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+OFFJBEEN_00649	gene	312	nuoK			
+OFFJBEEN_00649	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+OFFJBEEN_00650	gene	513				
+OFFJBEEN_00650	CDS	513				hypothetical protein
+OFFJBEEN_00651	gene	534	nuoI			
+OFFJBEEN_00651	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+OFFJBEEN_00652	gene	1089	nuoH			
+OFFJBEEN_00652	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+OFFJBEEN_00653	gene	1563	nuoC			
+OFFJBEEN_00653	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+OFFJBEEN_00654	gene	750	ndhK			
+OFFJBEEN_00654	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+OFFJBEEN_00655	gene	351	ndhC			
+OFFJBEEN_00655	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+OFFJBEEN_00656	gene	678				
+OFFJBEEN_00656	CDS	678				hypothetical protein
+OFFJBEEN_00657	gene	1182	bdhA			
+OFFJBEEN_00657	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+OFFJBEEN_00658	gene	117				
+OFFJBEEN_00658	CDS	117				hypothetical protein
+OFFJBEEN_00659	gene	126				
+OFFJBEEN_00659	CDS	126				hypothetical protein
+OFFJBEEN_00660	gene	540				
+OFFJBEEN_00660	CDS	540				hypothetical protein
+OFFJBEEN_00661	gene	639				
+OFFJBEEN_00661	CDS	639				hypothetical protein
+OFFJBEEN_00662	gene	579				
+OFFJBEEN_00662	CDS	579				hypothetical protein
+OFFJBEEN_00663	gene	951	rgtE			
+OFFJBEEN_00663	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+OFFJBEEN_00664	gene	486				
+OFFJBEEN_00664	CDS	486				hypothetical protein
+OFFJBEEN_00665	gene	681				
+OFFJBEEN_00665	CDS	681				hypothetical protein
+OFFJBEEN_00666	gene	942	apbE			
+OFFJBEEN_00666	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+OFFJBEEN_00667	gene	603				
+OFFJBEEN_00667	CDS	603				hypothetical protein
+OFFJBEEN_00668	gene	2094	prlC			
+OFFJBEEN_00668	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+OFFJBEEN_00669	gene	444	tadA_2			
+OFFJBEEN_00669	CDS	444	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+OFFJBEEN_00670	gene	1725				
+OFFJBEEN_00670	CDS	1725				hypothetical protein
+OFFJBEEN_00671	gene	498	yqgN			
+OFFJBEEN_00671	CDS	498	yqgN		COG0212	putative protein YqgN
+OFFJBEEN_00672	gene	291				
+OFFJBEEN_00672	CDS	291				hypothetical protein
+OFFJBEEN_00673	gene	1095	recF			
+OFFJBEEN_00673	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+OFFJBEEN_00674	gene	741				
+OFFJBEEN_00674	CDS	741				hypothetical protein
+OFFJBEEN_00675	gene	477	ribH			
+OFFJBEEN_00675	CDS	477	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+OFFJBEEN_00676	gene	567				
+OFFJBEEN_00676	CDS	567				hypothetical protein
+OFFJBEEN_00677	gene	459				
+OFFJBEEN_00677	CDS	459				hypothetical protein
+OFFJBEEN_00678	gene	351				
+OFFJBEEN_00678	CDS	351				hypothetical protein
+OFFJBEEN_00679	gene	897	bamD_2			
+OFFJBEEN_00679	CDS	897	bamD_2			Outer membrane protein assembly factor BamD
+OFFJBEEN_00680	gene	2460				
+OFFJBEEN_00680	CDS	2460				hypothetical protein
+OFFJBEEN_00681	gene	2040	uvrB			
+OFFJBEEN_00681	CDS	2040	uvrB		COG0556	UvrABC system protein B
+OFFJBEEN_00682	gene	255				
+OFFJBEEN_00682	CDS	255				hypothetical protein
+OFFJBEEN_00683	gene	2334				
+OFFJBEEN_00683	CDS	2334				hypothetical protein
+OFFJBEEN_00684	gene	903	menA			
+OFFJBEEN_00684	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+OFFJBEEN_00685	gene	633				
+OFFJBEEN_00685	CDS	633				hypothetical protein
+OFFJBEEN_00686	gene	642				
+OFFJBEEN_00686	CDS	642				hypothetical protein
+OFFJBEEN_00687	gene	2100				
+OFFJBEEN_00687	CDS	2100				hypothetical protein
+OFFJBEEN_00688	gene	147				
+OFFJBEEN_00688	CDS	147				hypothetical protein
+OFFJBEEN_00689	gene	3303				
+OFFJBEEN_00689	CDS	3303				hypothetical protein
+OFFJBEEN_00690	gene	1932				
+OFFJBEEN_00690	CDS	1932				hypothetical protein
+OFFJBEEN_00691	gene	1785				
+OFFJBEEN_00691	CDS	1785				hypothetical protein
+OFFJBEEN_00692	gene	156				
+OFFJBEEN_00692	CDS	156				hypothetical protein
+OFFJBEEN_00693	gene	900	rluD_1			
+OFFJBEEN_00693	CDS	900	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OFFJBEEN_00694	gene	1995	tkt			
+OFFJBEEN_00694	CDS	1995	tkt	2.2.1.1		Transketolase
+OFFJBEEN_00695	gene	444	rpiB			
+OFFJBEEN_00695	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+OFFJBEEN_00696	gene	300				
+OFFJBEEN_00696	CDS	300			COG0776	DNA-binding protein HRL53
+OFFJBEEN_00697	gene	90				
+OFFJBEEN_00697	CDS	90				hypothetical protein
+OFFJBEEN_00698	gene	1575	rne			
+OFFJBEEN_00698	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+OFFJBEEN_00699	gene	474	guaD			
+OFFJBEEN_00699	CDS	474	guaD	3.5.4.3	COG0590	Guanine deaminase
+OFFJBEEN_00700	gene	162				
+OFFJBEEN_00700	CDS	162			COG1773	Rubredoxin
+OFFJBEEN_00701	gene	657	ppaX			
+OFFJBEEN_00701	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+OFFJBEEN_00702	gene	705	ttcA			
+OFFJBEEN_00702	CDS	705	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+OFFJBEEN_00703	gene	507				
+OFFJBEEN_00703	CDS	507				hypothetical protein
+OFFJBEEN_00704	gene	762	ydfG			
+OFFJBEEN_00704	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+OFFJBEEN_00705	gene	1698	glgE			
+OFFJBEEN_00705	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+OFFJBEEN_00706	gene	894	fabD			
+OFFJBEEN_00706	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+OFFJBEEN_00707	gene	450				
+OFFJBEEN_00707	CDS	450				hypothetical protein
+OFFJBEEN_00708	gene	462				
+OFFJBEEN_00708	CDS	462				hypothetical protein
+OFFJBEEN_00709	gene	2052	ligA			
+OFFJBEEN_00709	CDS	2052	ligA	6.5.1.2		DNA ligase
+OFFJBEEN_00710	gene	855	pta_1			
+OFFJBEEN_00710	CDS	855	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+OFFJBEEN_00711	gene	1062	buk2			
+OFFJBEEN_00711	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+OFFJBEEN_00712	gene	675	trmD			
+OFFJBEEN_00712	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+OFFJBEEN_00713	gene	888				
+OFFJBEEN_00713	CDS	888				hypothetical protein
+OFFJBEEN_00714	gene	1416	pepP			
+OFFJBEEN_00714	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+OFFJBEEN_00715	gene	1197				
+OFFJBEEN_00715	CDS	1197				hypothetical protein
+OFFJBEEN_00716	gene	480				
+OFFJBEEN_00716	CDS	480				hypothetical protein
+OFFJBEEN_00717	gene	1731	recJ			
+OFFJBEEN_00717	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+OFFJBEEN_00718	gene	1911	deaD_1			
+OFFJBEEN_00718	CDS	1911	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+OFFJBEEN_00719	gene	618				
+OFFJBEEN_00719	CDS	618				hypothetical protein
+OFFJBEEN_00720	gene	1182				
+OFFJBEEN_00720	CDS	1182				Outer membrane protein 41
+OFFJBEEN_00721	gene	531	cobP			
+OFFJBEEN_00721	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+OFFJBEEN_00722	gene	1032	cobT			
+OFFJBEEN_00722	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+OFFJBEEN_00723	gene	792	cobS			
+OFFJBEEN_00723	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+OFFJBEEN_00724	gene	522	pspA_1			
+OFFJBEEN_00724	CDS	522	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+OFFJBEEN_00725	gene	543				
+OFFJBEEN_00725	CDS	543				hypothetical protein
+OFFJBEEN_00726	gene	771	korB_1			
+OFFJBEEN_00726	CDS	771	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+OFFJBEEN_00727	gene	1083	korA_1			
+OFFJBEEN_00727	CDS	1083	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+OFFJBEEN_00728	gene	234	rsxB_1			
+OFFJBEEN_00728	CDS	234	rsxB_1	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+OFFJBEEN_00729	gene	180				
+OFFJBEEN_00729	CDS	180				hypothetical protein
+OFFJBEEN_00730	gene	924	folD			
+OFFJBEEN_00730	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+OFFJBEEN_00731	gene	1341	ffh			
+OFFJBEEN_00731	CDS	1341	ffh		COG0541	Signal recognition particle protein
+OFFJBEEN_00732	gene	480				
+OFFJBEEN_00732	CDS	480				hypothetical protein
+OFFJBEEN_00733	gene	753				
+OFFJBEEN_00733	CDS	753				hypothetical protein
+OFFJBEEN_00734	gene	2127				
+OFFJBEEN_00734	CDS	2127			COG1629	putative TonB-dependent receptor
+OFFJBEEN_00735	gene	402				
+OFFJBEEN_00735	CDS	402				hypothetical protein
+OFFJBEEN_00736	gene	3411				
+OFFJBEEN_00736	CDS	3411				hypothetical protein
+OFFJBEEN_00737	gene	579				
+OFFJBEEN_00737	CDS	579				hypothetical protein
+	repeat_region	431				
+OFFJBEEN_00738	gene	1299				
+OFFJBEEN_00738	CDS	1299				hypothetical protein
+OFFJBEEN_00739	gene	546	pdxT			
+OFFJBEEN_00739	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+OFFJBEEN_00740	gene	876	pdxS			
+OFFJBEEN_00740	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+OFFJBEEN_00741	gene	918	rhaS_1			
+OFFJBEEN_00741	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+OFFJBEEN_00742	gene	474				
+OFFJBEEN_00742	CDS	474				hypothetical protein
+OFFJBEEN_00743	gene	114				
+OFFJBEEN_00743	CDS	114				hypothetical protein
+OFFJBEEN_00744	gene	855	bepA_2			
+OFFJBEEN_00744	CDS	855	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+OFFJBEEN_00745	gene	2325				
+OFFJBEEN_00745	CDS	2325				hypothetical protein
+OFFJBEEN_00746	gene	1065	kdsA_1			
+OFFJBEEN_00746	CDS	1065	kdsA_1	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+OFFJBEEN_00747	gene	1059				
+OFFJBEEN_00747	CDS	1059				hypothetical protein
+OFFJBEEN_00748	gene	1095				
+OFFJBEEN_00748	CDS	1095				hypothetical protein
+OFFJBEEN_00749	gene	1107	pdxA2			
+OFFJBEEN_00749	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+OFFJBEEN_00750	gene	978				
+OFFJBEEN_00750	CDS	978				hypothetical protein
+OFFJBEEN_00751	gene	1014	rlmN			
+OFFJBEEN_00751	CDS	1014	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+OFFJBEEN_00752	gene	1560	ahpF			
+OFFJBEEN_00752	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+OFFJBEEN_00753	gene	567	ahpC			
+OFFJBEEN_00753	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+OFFJBEEN_00754	gene	585	sodB			
+OFFJBEEN_00754	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+OFFJBEEN_00755	gene	927	oxyR			
+OFFJBEEN_00755	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+OFFJBEEN_00756	gene	1086	wbpI			
+OFFJBEEN_00756	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+OFFJBEEN_00757	gene	954	qmcA			
+OFFJBEEN_00757	CDS	954	qmcA		COG0330	Protein QmcA
+OFFJBEEN_00758	gene	456				
+OFFJBEEN_00758	CDS	456				hypothetical protein
+OFFJBEEN_00759	gene	462				
+OFFJBEEN_00759	CDS	462				hypothetical protein
+OFFJBEEN_00760	gene	408				
+OFFJBEEN_00760	CDS	408				hypothetical protein
+OFFJBEEN_00761	gene	285				
+OFFJBEEN_00761	CDS	285				hypothetical protein
+OFFJBEEN_00762	gene	123				
+OFFJBEEN_00762	CDS	123				hypothetical protein
+OFFJBEEN_00763	gene	822	acr1			
+OFFJBEEN_00763	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+OFFJBEEN_00764	gene	1506	yhfT			
+OFFJBEEN_00764	CDS	1506	yhfT	6.2.1.-	COG0318	putative acyl--CoA ligase YhfT
+OFFJBEEN_00765	gene	363				
+OFFJBEEN_00765	CDS	363				hypothetical protein
+OFFJBEEN_00766	gene	498				
+OFFJBEEN_00766	CDS	498			COG0716	Flavodoxin 1
+OFFJBEEN_00767	gene	2214				
+OFFJBEEN_00767	CDS	2214				hypothetical protein
+OFFJBEEN_00768	gene	216				
+OFFJBEEN_00768	CDS	216				hypothetical protein
+OFFJBEEN_00769	gene	600	slyD			
+OFFJBEEN_00769	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+OFFJBEEN_00770	gene	1092	aroC			
+OFFJBEEN_00770	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+OFFJBEEN_00771	gene	912	pyrD			
+OFFJBEEN_00771	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+OFFJBEEN_00772	gene	777	pyrK_1			
+OFFJBEEN_00772	CDS	777	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+OFFJBEEN_00773	gene	477				
+OFFJBEEN_00773	CDS	477				hypothetical protein
+OFFJBEEN_00774	gene	1029				
+OFFJBEEN_00774	CDS	1029				hypothetical protein
+OFFJBEEN_00775	gene	471				
+OFFJBEEN_00775	CDS	471				hypothetical protein
+OFFJBEEN_00776	gene	174				
+OFFJBEEN_00776	CDS	174				hypothetical protein
+OFFJBEEN_00777	gene	951				
+OFFJBEEN_00777	CDS	951				hypothetical protein
+OFFJBEEN_00778	gene	840				
+OFFJBEEN_00778	CDS	840				hypothetical protein
+OFFJBEEN_00779	gene	879				
+OFFJBEEN_00779	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+OFFJBEEN_00780	gene	105				
+OFFJBEEN_00780	CDS	105				hypothetical protein
+OFFJBEEN_00781	gene	135				
+OFFJBEEN_00781	CDS	135				hypothetical protein
+OFFJBEEN_00782	gene	1044	aguA			
+OFFJBEEN_00782	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+OFFJBEEN_00783	gene	909				
+OFFJBEEN_00783	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+OFFJBEEN_00784	gene	1389	ampG			
+OFFJBEEN_00784	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+OFFJBEEN_00785	gene	378				
+OFFJBEEN_00785	CDS	378				hypothetical protein
+OFFJBEEN_00786	gene	3693				
+OFFJBEEN_00786	CDS	3693				hypothetical protein
+OFFJBEEN_00787	gene	462	ndk			
+OFFJBEEN_00787	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+OFFJBEEN_00788	gene	825	cptA_1			
+OFFJBEEN_00788	CDS	825	cptA_1	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+OFFJBEEN_00789	gene	768				
+OFFJBEEN_00789	CDS	768				hypothetical protein
+OFFJBEEN_00790	gene	114				
+OFFJBEEN_00790	CDS	114				hypothetical protein
+OFFJBEEN_00791	gene	1215	norR			
+OFFJBEEN_00791	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+OFFJBEEN_00792	gene	555				
+OFFJBEEN_00792	CDS	555				hypothetical protein
+OFFJBEEN_00793	gene	771				
+OFFJBEEN_00793	CDS	771				hypothetical protein
+OFFJBEEN_00794	gene	390				
+OFFJBEEN_00794	CDS	390				hypothetical protein
+OFFJBEEN_00795	gene	2580				
+OFFJBEEN_00795	CDS	2580				hypothetical protein
+OFFJBEEN_00796	gene	3201				
+OFFJBEEN_00796	CDS	3201				hypothetical protein
+OFFJBEEN_00797	gene	702	trmO			
+OFFJBEEN_00797	CDS	702	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+OFFJBEEN_00798	gene	1299				
+OFFJBEEN_00798	CDS	1299				hypothetical protein
+OFFJBEEN_00799	gene	75				
+OFFJBEEN_00799	tRNA	75				tRNA-His(gtg)
+OFFJBEEN_00800	gene	1074	adh			
+OFFJBEEN_00800	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+OFFJBEEN_00801	gene	261				
+OFFJBEEN_00801	CDS	261				hypothetical protein
+OFFJBEEN_00802	gene	606				
+OFFJBEEN_00802	CDS	606				hypothetical protein
+OFFJBEEN_00803	gene	1353	nrfA			
+OFFJBEEN_00803	CDS	1353	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+OFFJBEEN_00804	gene	1311				
+OFFJBEEN_00804	CDS	1311				hypothetical protein
+OFFJBEEN_00805	gene	798	ccsA			
+OFFJBEEN_00805	CDS	798	ccsA			Cytochrome c biogenesis protein CcsA
+OFFJBEEN_00806	gene	398	ssrA			
+OFFJBEEN_00806	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+OFFJBEEN_00807	gene	636	wecA			
+OFFJBEEN_00807	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+OFFJBEEN_00808	gene	2499				
+OFFJBEEN_00808	CDS	2499				hypothetical protein
+OFFJBEEN_00809	gene	1077				
+OFFJBEEN_00809	CDS	1077				hypothetical protein
+OFFJBEEN_00810	gene	1194				
+OFFJBEEN_00810	CDS	1194				hypothetical protein
+OFFJBEEN_00811	gene	1530				
+OFFJBEEN_00811	CDS	1530				hypothetical protein
+OFFJBEEN_00812	gene	555	dapH_1			
+OFFJBEEN_00812	CDS	555	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OFFJBEEN_00813	gene	1221				
+OFFJBEEN_00813	CDS	1221				hypothetical protein
+OFFJBEEN_00814	gene	1542				
+OFFJBEEN_00814	CDS	1542				hypothetical protein
+OFFJBEEN_00815	gene	1152	mshA_2			
+OFFJBEEN_00815	CDS	1152	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OFFJBEEN_00816	gene	3417	mfd			
+OFFJBEEN_00816	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+OFFJBEEN_00817	gene	3024				
+OFFJBEEN_00817	CDS	3024				hypothetical protein
+OFFJBEEN_00818	gene	876				
+OFFJBEEN_00818	CDS	876				hypothetical protein
+OFFJBEEN_00819	gene	447				
+OFFJBEEN_00819	CDS	447				hypothetical protein
+OFFJBEEN_00820	gene	474				
+OFFJBEEN_00820	CDS	474				hypothetical protein
+OFFJBEEN_00821	gene	1446				
+OFFJBEEN_00821	CDS	1446				hypothetical protein
+OFFJBEEN_00822	gene	405				
+OFFJBEEN_00822	CDS	405				hypothetical protein
+OFFJBEEN_00823	gene	861				
+OFFJBEEN_00823	CDS	861				hypothetical protein
+OFFJBEEN_00824	gene	1746				
+OFFJBEEN_00824	CDS	1746				hypothetical protein
+OFFJBEEN_00825	gene	510	pspA_2			
+OFFJBEEN_00825	CDS	510	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+OFFJBEEN_00826	gene	1008				
+OFFJBEEN_00826	CDS	1008				hypothetical protein
+OFFJBEEN_00827	gene	465				
+OFFJBEEN_00827	CDS	465				hypothetical protein
+OFFJBEEN_00828	gene	225				
+OFFJBEEN_00828	CDS	225				hypothetical protein
+OFFJBEEN_00829	gene	1107				
+OFFJBEEN_00829	CDS	1107				hypothetical protein
+OFFJBEEN_00830	gene	1914	pglF			
+OFFJBEEN_00830	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+OFFJBEEN_00831	gene	594				
+OFFJBEEN_00831	CDS	594				hypothetical protein
+OFFJBEEN_00832	gene	1197	arnB			
+OFFJBEEN_00832	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+OFFJBEEN_00833	gene	798	tuaG			
+OFFJBEEN_00833	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+OFFJBEEN_00834	gene	1143				
+OFFJBEEN_00834	CDS	1143				hypothetical protein
+OFFJBEEN_00835	gene	1155				
+OFFJBEEN_00835	CDS	1155				hypothetical protein
+OFFJBEEN_00836	gene	909	trxB			
+OFFJBEEN_00836	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+OFFJBEEN_00837	gene	549	bsaA			
+OFFJBEEN_00837	CDS	549	bsaA			Glutathione peroxidase BsaA
+OFFJBEEN_00838	gene	600				
+OFFJBEEN_00838	CDS	600				hypothetical protein
+OFFJBEEN_00839	gene	1242	ugd			
+OFFJBEEN_00839	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+OFFJBEEN_00840	gene	456				
+OFFJBEEN_00840	CDS	456				hypothetical protein
+OFFJBEEN_00841	gene	1563				
+OFFJBEEN_00841	CDS	1563				hypothetical protein
+OFFJBEEN_00842	gene	498				
+OFFJBEEN_00842	CDS	498				hypothetical protein
+OFFJBEEN_00843	gene	2223	apxIB			
+OFFJBEEN_00843	CDS	2223	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+OFFJBEEN_00844	gene	2409				
+OFFJBEEN_00844	CDS	2409				hypothetical protein
+OFFJBEEN_00845	gene	1158	pqqE			
+OFFJBEEN_00845	CDS	1158	pqqE	1.21.98.4		PqqA peptide cyclase
+OFFJBEEN_00846	gene	2310				
+OFFJBEEN_00846	CDS	2310				hypothetical protein
+OFFJBEEN_00847	gene	108				
+OFFJBEEN_00847	CDS	108				hypothetical protein
+OFFJBEEN_00848	gene	816				
+OFFJBEEN_00848	CDS	816				IS982 family transposase IS195
+OFFJBEEN_00849	gene	189				
+OFFJBEEN_00849	CDS	189				hypothetical protein
+OFFJBEEN_00850	gene	906				
+OFFJBEEN_00850	CDS	906				hypothetical protein
+OFFJBEEN_00851	gene	255	rpmE2			
+OFFJBEEN_00851	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+OFFJBEEN_00852	gene	1335				
+OFFJBEEN_00852	CDS	1335				hypothetical protein
+OFFJBEEN_00853	gene	930				
+OFFJBEEN_00853	CDS	930				hypothetical protein
+OFFJBEEN_00854	gene	2562				
+OFFJBEEN_00854	CDS	2562				hypothetical protein
+OFFJBEEN_00855	gene	1038				
+OFFJBEEN_00855	CDS	1038				hypothetical protein
+OFFJBEEN_00856	gene	573				
+OFFJBEEN_00856	CDS	573				hypothetical protein
+OFFJBEEN_00857	gene	636	udk_1			
+OFFJBEEN_00857	CDS	636	udk_1	2.7.1.48		Uridine kinase
+OFFJBEEN_00858	gene	192				
+OFFJBEEN_00858	CDS	192				hypothetical protein
+OFFJBEEN_00859	gene	237				
+OFFJBEEN_00859	CDS	237				hypothetical protein
+OFFJBEEN_00860	gene	408				
+OFFJBEEN_00860	CDS	408			COG3039	IS5 family transposase ISCca7
+OFFJBEEN_00861	gene	582				
+OFFJBEEN_00861	CDS	582				hypothetical protein
+OFFJBEEN_00862	gene	687				
+OFFJBEEN_00862	CDS	687				hypothetical protein
+OFFJBEEN_00863	gene	462				
+OFFJBEEN_00863	CDS	462				hypothetical protein
+OFFJBEEN_00864	gene	597				
+OFFJBEEN_00864	CDS	597				hypothetical protein
+OFFJBEEN_00865	gene	1176				
+OFFJBEEN_00865	CDS	1176				hypothetical protein
+OFFJBEEN_00866	gene	1584				
+OFFJBEEN_00866	CDS	1584				hypothetical protein
+OFFJBEEN_00867	gene	1365	sufD			
+OFFJBEEN_00867	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+OFFJBEEN_00868	gene	756	sufC			
+OFFJBEEN_00868	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+OFFJBEEN_00869	gene	366				
+OFFJBEEN_00869	CDS	366				hypothetical protein
+OFFJBEEN_00870	gene	1458	sufB			
+OFFJBEEN_00870	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+OFFJBEEN_00871	gene	2868	infB			
+OFFJBEEN_00871	CDS	2868	infB			Translation initiation factor IF-2
+OFFJBEEN_00872	gene	1257	nusA			
+OFFJBEEN_00872	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+OFFJBEEN_00873	gene	465	rimP			
+OFFJBEEN_00873	CDS	465	rimP			Ribosome maturation factor RimP
+OFFJBEEN_00874	gene	540				
+OFFJBEEN_00874	CDS	540				hypothetical protein
+OFFJBEEN_00875	gene	534				
+OFFJBEEN_00875	CDS	534				hypothetical protein
+OFFJBEEN_00876	gene	2004				
+OFFJBEEN_00876	CDS	2004				hypothetical protein
+OFFJBEEN_00877	gene	705	cobB			
+OFFJBEEN_00877	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+OFFJBEEN_00878	gene	207				
+OFFJBEEN_00878	CDS	207				hypothetical protein
+OFFJBEEN_00879	gene	717				
+OFFJBEEN_00879	CDS	717				hypothetical protein
+OFFJBEEN_00880	gene	618				
+OFFJBEEN_00880	CDS	618				hypothetical protein
+OFFJBEEN_00881	gene	1314	clpX_2			
+OFFJBEEN_00881	CDS	1314	clpX_2			ATP-dependent Clp protease ATP-binding subunit ClpX
+OFFJBEEN_00882	gene	1140				
+OFFJBEEN_00882	CDS	1140				hypothetical protein
+OFFJBEEN_00883	gene	102				
+OFFJBEEN_00883	CDS	102				hypothetical protein
+OFFJBEEN_00884	gene	3633				
+OFFJBEEN_00884	CDS	3633				hypothetical protein
+OFFJBEEN_00885	gene	348	yhcG_3			
+OFFJBEEN_00885	CDS	348	yhcG_3	3.1.-.-	COG4804	Putative nuclease YhcG
+OFFJBEEN_00886	gene	816				
+OFFJBEEN_00886	CDS	816				hypothetical protein
+OFFJBEEN_00887	gene	96				
+OFFJBEEN_00887	CDS	96				hypothetical protein
+OFFJBEEN_00888	gene	1389				
+OFFJBEEN_00888	CDS	1389				hypothetical protein
+OFFJBEEN_00889	gene	255				
+OFFJBEEN_00889	CDS	255				hypothetical protein
+OFFJBEEN_00890	gene	606	fklB			
+OFFJBEEN_00890	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+OFFJBEEN_00891	gene	879				
+OFFJBEEN_00891	CDS	879				hypothetical protein
+OFFJBEEN_00892	gene	912				
+OFFJBEEN_00892	CDS	912				hypothetical protein
+OFFJBEEN_00893	gene	468	asnC_2			
+OFFJBEEN_00893	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+OFFJBEEN_00894	gene	1755				
+OFFJBEEN_00894	CDS	1755				hypothetical protein
+OFFJBEEN_00895	gene	1029				
+OFFJBEEN_00895	CDS	1029				hypothetical protein
+OFFJBEEN_00896	gene	171				
+OFFJBEEN_00896	CDS	171				hypothetical protein
+OFFJBEEN_00897	gene	1233				
+OFFJBEEN_00897	CDS	1233				hypothetical protein
+OFFJBEEN_00898	gene	1473				
+OFFJBEEN_00898	CDS	1473				hypothetical protein
+OFFJBEEN_00899	gene	2127	dpp7			
+OFFJBEEN_00899	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+OFFJBEEN_00900	gene	717				
+OFFJBEEN_00900	CDS	717				hypothetical protein
+OFFJBEEN_00901	gene	726				
+OFFJBEEN_00901	CDS	726				hypothetical protein
+OFFJBEEN_00902	gene	1038	wbbI			
+OFFJBEEN_00902	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+OFFJBEEN_00903	gene	852				
+OFFJBEEN_00903	CDS	852				hypothetical protein
+OFFJBEEN_00904	gene	651				
+OFFJBEEN_00904	CDS	651				hypothetical protein
+OFFJBEEN_00905	gene	291				
+OFFJBEEN_00905	CDS	291				hypothetical protein
+OFFJBEEN_00906	gene	264				
+OFFJBEEN_00906	CDS	264				hypothetical protein
+OFFJBEEN_00907	gene	4773				
+OFFJBEEN_00907	CDS	4773				hypothetical protein
+OFFJBEEN_00908	gene	1230				
+OFFJBEEN_00908	CDS	1230				hypothetical protein
+OFFJBEEN_00909	gene	1599				
+OFFJBEEN_00909	CDS	1599				hypothetical protein
+OFFJBEEN_00910	gene	906				
+OFFJBEEN_00910	CDS	906				IS1595 family transposase ISCco4
+OFFJBEEN_00911	gene	1161				
+OFFJBEEN_00911	CDS	1161				hypothetical protein
+OFFJBEEN_00912	gene	558				
+OFFJBEEN_00912	CDS	558				hypothetical protein
+OFFJBEEN_00913	gene	786	tcdA			
+OFFJBEEN_00913	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+OFFJBEEN_00914	gene	450				
+OFFJBEEN_00914	CDS	450				hypothetical protein
+OFFJBEEN_00915	gene	102				
+OFFJBEEN_00915	CDS	102				hypothetical protein
+OFFJBEEN_00916	gene	2115				
+OFFJBEEN_00916	CDS	2115				hypothetical protein
+OFFJBEEN_00917	gene	468				
+OFFJBEEN_00917	CDS	468				hypothetical protein
+OFFJBEEN_00918	gene	1887				
+OFFJBEEN_00918	CDS	1887				hypothetical protein
+OFFJBEEN_00919	gene	1296	adeP			
+OFFJBEEN_00919	CDS	1296	adeP		COG2252	Adenine permease AdeP
+OFFJBEEN_00920	gene	744				
+OFFJBEEN_00920	CDS	744				hypothetical protein
+OFFJBEEN_00921	gene	1218	pyrP			
+OFFJBEEN_00921	CDS	1218	pyrP			Uracil permease
+OFFJBEEN_00922	gene	606				
+OFFJBEEN_00922	CDS	606				hypothetical protein
+OFFJBEEN_00923	gene	411				
+OFFJBEEN_00923	CDS	411				hypothetical protein
+OFFJBEEN_00924	gene	1440				
+OFFJBEEN_00924	CDS	1440				hypothetical protein
+OFFJBEEN_00925	gene	822	dapB			
+OFFJBEEN_00925	CDS	822	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+OFFJBEEN_00926	gene	426				
+OFFJBEEN_00926	CDS	426				hypothetical protein
+OFFJBEEN_00927	gene	1227				
+OFFJBEEN_00927	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+OFFJBEEN_00928	gene	1377				
+OFFJBEEN_00928	CDS	1377				hypothetical protein
+OFFJBEEN_00929	gene	1866	deaD_2			
+OFFJBEEN_00929	CDS	1866	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+OFFJBEEN_00930	gene	621				
+OFFJBEEN_00930	CDS	621		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+OFFJBEEN_00931	gene	594				
+OFFJBEEN_00931	CDS	594				hypothetical protein
+OFFJBEEN_00932	gene	186				
+OFFJBEEN_00932	CDS	186				hypothetical protein
+OFFJBEEN_00933	gene	513				
+OFFJBEEN_00933	CDS	513				hypothetical protein
+OFFJBEEN_00934	gene	756	frdB			
+OFFJBEEN_00934	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+OFFJBEEN_00935	gene	1983	frdA			
+OFFJBEEN_00935	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+OFFJBEEN_00936	gene	690				
+OFFJBEEN_00936	CDS	690				hypothetical protein
+OFFJBEEN_00937	gene	1953	mnmG			
+OFFJBEEN_00937	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+OFFJBEEN_00938	gene	531	apt			
+OFFJBEEN_00938	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+OFFJBEEN_00939	gene	1836	uvrC			
+OFFJBEEN_00939	CDS	1836	uvrC		COG0322	UvrABC system protein C
+OFFJBEEN_00940	gene	453	dtd			
+OFFJBEEN_00940	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+OFFJBEEN_00941	gene	393	ypjD			
+OFFJBEEN_00941	CDS	393	ypjD		COG1694	putative protein YpjD
+OFFJBEEN_00942	gene	891	deoC			
+OFFJBEEN_00942	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+OFFJBEEN_00943	gene	606				
+OFFJBEEN_00943	CDS	606				hypothetical protein
+OFFJBEEN_00944	gene	978	sdsA			
+OFFJBEEN_00944	CDS	978	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+OFFJBEEN_00945	gene	2766	polA			
+OFFJBEEN_00945	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+OFFJBEEN_00946	gene	1131	capA			
+OFFJBEEN_00946	CDS	1131	capA			Capsule biosynthesis protein CapA
+OFFJBEEN_00947	gene	1575				
+OFFJBEEN_00947	CDS	1575				hypothetical protein
+OFFJBEEN_00948	gene	2628	mutS_2			
+OFFJBEEN_00948	CDS	2628	mutS_2		COG0249	DNA mismatch repair protein MutS
+OFFJBEEN_00949	gene	849	lgt			
+OFFJBEEN_00949	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+OFFJBEEN_00950	gene	1104	ychF			
+OFFJBEEN_00950	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+OFFJBEEN_00951	gene	633	pflA			
+OFFJBEEN_00951	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+OFFJBEEN_00952	gene	642				
+OFFJBEEN_00952	CDS	642				hypothetical protein
+OFFJBEEN_00953	gene	2874	leuS			
+OFFJBEEN_00953	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+OFFJBEEN_00954	gene	969				
+OFFJBEEN_00954	CDS	969				hypothetical protein
+OFFJBEEN_00955	gene	609				
+OFFJBEEN_00955	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+OFFJBEEN_00956	gene	897				
+OFFJBEEN_00956	CDS	897				hypothetical protein
+OFFJBEEN_00957	gene	2139				
+OFFJBEEN_00957	CDS	2139				hypothetical protein
+OFFJBEEN_00958	gene	2379				
+OFFJBEEN_00958	CDS	2379				hypothetical protein
+OFFJBEEN_00959	gene	1395				
+OFFJBEEN_00959	CDS	1395				hypothetical protein
+OFFJBEEN_00960	gene	990	nadA			
+OFFJBEEN_00960	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+OFFJBEEN_00961	gene	1089				
+OFFJBEEN_00961	CDS	1089				hypothetical protein
+OFFJBEEN_00962	gene	645				
+OFFJBEEN_00962	CDS	645				hypothetical protein
+OFFJBEEN_00963	gene	1506	rpoN			
+OFFJBEEN_00963	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+OFFJBEEN_00964	gene	630				
+OFFJBEEN_00964	CDS	630				hypothetical protein
+OFFJBEEN_00965	gene	507	purE			
+OFFJBEEN_00965	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+OFFJBEEN_00966	gene	1413	ispG			
+OFFJBEEN_00966	CDS	1413	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+OFFJBEEN_00967	gene	804				
+OFFJBEEN_00967	CDS	804				hypothetical protein
+OFFJBEEN_00968	gene	120				
+OFFJBEEN_00968	CDS	120				hypothetical protein
+OFFJBEEN_00969	gene	675	rfaH			
+OFFJBEEN_00969	CDS	675	rfaH			Transcription antitermination protein RfaH
+OFFJBEEN_00970	gene	96				
+OFFJBEEN_00970	CDS	96				hypothetical protein
+OFFJBEEN_00971	gene	1026				
+OFFJBEEN_00971	CDS	1026				hypothetical protein
+OFFJBEEN_00972	gene	966	moaA_1			
+OFFJBEEN_00972	CDS	966	moaA_1			GTP 3',8-cyclase
+OFFJBEEN_00973	gene	1236	moaA_2			
+OFFJBEEN_00973	CDS	1236	moaA_2			GTP 3',8-cyclase
+OFFJBEEN_00974	gene	1041	chuR			
+OFFJBEEN_00974	CDS	1041	chuR	1.1.99.-	COG0641	Anaerobic sulfatase-maturating enzyme
+OFFJBEEN_00975	gene	174				
+OFFJBEEN_00975	CDS	174				hypothetical protein
+OFFJBEEN_00976	gene	855				
+OFFJBEEN_00976	CDS	855				hypothetical protein
+OFFJBEEN_00977	gene	405				
+OFFJBEEN_00977	CDS	405				hypothetical protein
+OFFJBEEN_00978	gene	990				
+OFFJBEEN_00978	CDS	990				hypothetical protein
+OFFJBEEN_00979	gene	1965	thrS			
+OFFJBEEN_00979	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+OFFJBEEN_00980	gene	2061	pat			
+OFFJBEEN_00980	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+OFFJBEEN_00981	gene	1812	ettA			
+OFFJBEEN_00981	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+OFFJBEEN_00982	gene	615	engB			
+OFFJBEEN_00982	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+OFFJBEEN_00983	gene	615	recR			
+OFFJBEEN_00983	CDS	615	recR		COG0353	Recombination protein RecR
+OFFJBEEN_00984	gene	423				
+OFFJBEEN_00984	CDS	423				hypothetical protein
+OFFJBEEN_00985	gene	1194				
+OFFJBEEN_00985	CDS	1194				hypothetical protein
+OFFJBEEN_00986	gene	516	speG			
+OFFJBEEN_00986	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+OFFJBEEN_00987	gene	76				
+OFFJBEEN_00987	tRNA	76				tRNA-Asp(gtc)
+OFFJBEEN_00988	gene	76				
+OFFJBEEN_00988	tRNA	76				tRNA-Asp(gtc)
+OFFJBEEN_00989	gene	75				
+OFFJBEEN_00989	tRNA	75				tRNA-Thr(tgt)
+OFFJBEEN_00990	gene	528				
+OFFJBEEN_00990	CDS	528				hypothetical protein
+OFFJBEEN_00991	gene	783				
+OFFJBEEN_00991	CDS	783				hypothetical protein
+OFFJBEEN_00992	gene	519	kdsC			
+OFFJBEEN_00992	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+OFFJBEEN_00993	gene	573	yhdE			
+OFFJBEEN_00993	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+OFFJBEEN_00994	gene	1107				
+OFFJBEEN_00994	CDS	1107				hypothetical protein
+OFFJBEEN_00995	gene	990				
+OFFJBEEN_00995	CDS	990				hypothetical protein
+OFFJBEEN_00996	gene	105				
+OFFJBEEN_00996	CDS	105				hypothetical protein
+OFFJBEEN_00997	gene	1515				
+OFFJBEEN_00997	CDS	1515				hypothetical protein
+OFFJBEEN_00998	gene	981				
+OFFJBEEN_00998	CDS	981				hypothetical protein
+OFFJBEEN_00999	gene	1398				
+OFFJBEEN_00999	CDS	1398				hypothetical protein
+OFFJBEEN_01000	gene	978	pfkA			
+OFFJBEEN_01000	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+OFFJBEEN_01001	gene	1527	atpD			
+OFFJBEEN_01001	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+OFFJBEEN_01002	gene	240	atpC			
+OFFJBEEN_01002	CDS	240	atpC			ATP synthase epsilon chain
+OFFJBEEN_01003	gene	393				
+OFFJBEEN_01003	CDS	393				hypothetical protein
+OFFJBEEN_01004	gene	1032	atpB			
+OFFJBEEN_01004	CDS	1032	atpB			ATP synthase subunit a
+OFFJBEEN_01005	gene	240	atpH_1			
+OFFJBEEN_01005	CDS	240	atpH_1			ATP synthase subunit c
+OFFJBEEN_01006	gene	519	atpF			
+OFFJBEEN_01006	CDS	519	atpF		COG0711	ATP synthase subunit b
+OFFJBEEN_01007	gene	534	atpH_2			
+OFFJBEEN_01007	CDS	534	atpH_2		COG0712	ATP synthase subunit delta
+OFFJBEEN_01008	gene	1584	atpA			
+OFFJBEEN_01008	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+OFFJBEEN_01009	gene	969	atpG			
+OFFJBEEN_01009	CDS	969	atpG		COG0224	ATP synthase gamma chain
+OFFJBEEN_01010	gene	264				
+OFFJBEEN_01010	CDS	264				hypothetical protein
+OFFJBEEN_01011	gene	1488				
+OFFJBEEN_01011	CDS	1488				hypothetical protein
+OFFJBEEN_01012	gene	813	glgA			
+OFFJBEEN_01012	CDS	813	glgA	2.4.1.21		Glycogen synthase
+OFFJBEEN_01013	gene	858	panC			
+OFFJBEEN_01013	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+OFFJBEEN_01014	gene	345	panD			
+OFFJBEEN_01014	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+OFFJBEEN_01015	gene	432	accB			
+OFFJBEEN_01015	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+OFFJBEEN_01016	gene	159				
+OFFJBEEN_01016	CDS	159				hypothetical protein
+OFFJBEEN_01017	gene	1554	pccB			
+OFFJBEEN_01017	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+OFFJBEEN_01018	gene	405	epi			
+OFFJBEEN_01018	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+OFFJBEEN_01019	gene	2364				
+OFFJBEEN_01019	CDS	2364				hypothetical protein
+OFFJBEEN_01020	gene	1977	fbp			
+OFFJBEEN_01020	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+OFFJBEEN_01021	gene	1125				
+OFFJBEEN_01021	CDS	1125				hypothetical protein
+OFFJBEEN_01022	gene	1320	lysC			
+OFFJBEEN_01022	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+OFFJBEEN_01023	gene	708	btuD_2			
+OFFJBEEN_01023	CDS	708	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+OFFJBEEN_01024	gene	1296	deaD_3			
+OFFJBEEN_01024	CDS	1296	deaD_3	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+OFFJBEEN_01025	gene	1164				
+OFFJBEEN_01025	CDS	1164				hypothetical protein
+OFFJBEEN_01026	gene	1128	tgt			
+OFFJBEEN_01026	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+OFFJBEEN_01027	gene	2424	lon1			
+OFFJBEEN_01027	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+OFFJBEEN_01028	gene	645	yfiC			
+OFFJBEEN_01028	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+OFFJBEEN_01029	gene	1464				
+OFFJBEEN_01029	CDS	1464				hypothetical protein
+OFFJBEEN_01030	gene	1077	mnmA			
+OFFJBEEN_01030	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+OFFJBEEN_01031	gene	114				
+OFFJBEEN_01031	CDS	114				hypothetical protein
+OFFJBEEN_01032	gene	705	hxpA			
+OFFJBEEN_01032	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+OFFJBEEN_01033	gene	1356	pgi			
+OFFJBEEN_01033	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+OFFJBEEN_01034	gene	88				
+OFFJBEEN_01034	tRNA	88				tRNA-Ser(gct)
+OFFJBEEN_01035	gene	73				
+OFFJBEEN_01035	tRNA	73				tRNA-Glu(ctc)
+OFFJBEEN_01036	gene	1488				
+OFFJBEEN_01036	CDS	1488				hypothetical protein
+OFFJBEEN_01037	gene	444				
+OFFJBEEN_01037	CDS	444				hypothetical protein
+OFFJBEEN_01038	gene	435				
+OFFJBEEN_01038	CDS	435				hypothetical protein
+OFFJBEEN_01039	gene	903	rnfB			
+OFFJBEEN_01039	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+OFFJBEEN_01040	gene	1353	rnfC			
+OFFJBEEN_01040	CDS	1353	rnfC	7.2.1.2	COG4656	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+OFFJBEEN_01041	gene	1035	rnfD			
+OFFJBEEN_01041	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+OFFJBEEN_01042	gene	672	rsxG			
+OFFJBEEN_01042	CDS	672	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+OFFJBEEN_01043	gene	591	rnfE			
+OFFJBEEN_01043	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+OFFJBEEN_01044	gene	603	rnfA			
+OFFJBEEN_01044	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+OFFJBEEN_01045	gene	1041	galE			
+OFFJBEEN_01045	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+OFFJBEEN_01046	gene	2868	uvrA_1			
+OFFJBEEN_01046	CDS	2868	uvrA_1		COG0178	UvrABC system protein A
+OFFJBEEN_01047	gene	720				
+OFFJBEEN_01047	CDS	720				hypothetical protein
+OFFJBEEN_01048	gene	1356				
+OFFJBEEN_01048	CDS	1356				hypothetical protein
+OFFJBEEN_01049	gene	753				
+OFFJBEEN_01049	CDS	753				hypothetical protein
+OFFJBEEN_01050	gene	1518	dtpA			
+OFFJBEEN_01050	CDS	1518	dtpA		COG3104	Dipeptide and tripeptide permease A
+OFFJBEEN_01051	gene	483				
+OFFJBEEN_01051	CDS	483				hypothetical protein
+OFFJBEEN_01052	gene	1932				
+OFFJBEEN_01052	CDS	1932				hypothetical protein
+OFFJBEEN_01053	gene	1437	radA			
+OFFJBEEN_01053	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+OFFJBEEN_01054	gene	912				
+OFFJBEEN_01054	CDS	912				hypothetical protein
+OFFJBEEN_01055	gene	2196				
+OFFJBEEN_01055	CDS	2196				hypothetical protein
+OFFJBEEN_01056	gene	1227	cls			
+OFFJBEEN_01056	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+OFFJBEEN_01057	gene	975	kdsD			
+OFFJBEEN_01057	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+OFFJBEEN_01058	gene	756	kdsA_2			
+OFFJBEEN_01058	CDS	756	kdsA_2	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+OFFJBEEN_01059	gene	159				
+OFFJBEEN_01059	CDS	159				hypothetical protein
+OFFJBEEN_01060	gene	279				
+OFFJBEEN_01060	CDS	279				hypothetical protein
+OFFJBEEN_01061	gene	74				
+OFFJBEEN_01061	tRNA	74				tRNA-Pro(tgg)
+OFFJBEEN_01062	gene	1188				
+OFFJBEEN_01062	CDS	1188				hypothetical protein
+OFFJBEEN_01063	gene	2739	valS			
+OFFJBEEN_01063	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+OFFJBEEN_01064	gene	828	mazG			
+OFFJBEEN_01064	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+OFFJBEEN_01065	gene	564				
+OFFJBEEN_01065	CDS	564				hypothetical protein
+OFFJBEEN_01066	gene	915	rnz			
+OFFJBEEN_01066	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+OFFJBEEN_01067	gene	366				
+OFFJBEEN_01067	CDS	366				hypothetical protein
+OFFJBEEN_01068	gene	1536				
+OFFJBEEN_01068	CDS	1536				hypothetical protein
+OFFJBEEN_01069	gene	561	sigW			
+OFFJBEEN_01069	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+OFFJBEEN_01070	gene	366				
+OFFJBEEN_01070	CDS	366				hypothetical protein
+OFFJBEEN_01071	gene	441				
+OFFJBEEN_01071	CDS	441				hypothetical protein
+OFFJBEEN_01072	gene	2610	mutS2			
+OFFJBEEN_01072	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+OFFJBEEN_01073	gene	86				
+OFFJBEEN_01073	tRNA	86				tRNA-Ser(tga)
+OFFJBEEN_01074	gene	204				
+OFFJBEEN_01074	CDS	204				hypothetical protein
+OFFJBEEN_01075	gene	2760				
+OFFJBEEN_01075	CDS	2760				hypothetical protein
+OFFJBEEN_01076	gene	240				
+OFFJBEEN_01076	CDS	240				hypothetical protein
+OFFJBEEN_01077	gene	336				
+OFFJBEEN_01077	CDS	336				hypothetical protein
+OFFJBEEN_01078	gene	999				
+OFFJBEEN_01078	CDS	999				hypothetical protein
+OFFJBEEN_01079	gene	1647				
+OFFJBEEN_01079	CDS	1647				hypothetical protein
+OFFJBEEN_01080	gene	1668	recN			
+OFFJBEEN_01080	CDS	1668	recN		COG0497	DNA repair protein RecN
+OFFJBEEN_01081	gene	903				
+OFFJBEEN_01081	CDS	903				hypothetical protein
+OFFJBEEN_01082	gene	1212	undec1A			
+OFFJBEEN_01082	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+OFFJBEEN_01083	gene	855	dinG			
+OFFJBEEN_01083	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+OFFJBEEN_01084	gene	1125	dnaN			
+OFFJBEEN_01084	CDS	1125	dnaN			Beta sliding clamp
+OFFJBEEN_01085	gene	417				
+OFFJBEEN_01085	CDS	417				hypothetical protein
+OFFJBEEN_01086	gene	399	glpE			
+OFFJBEEN_01086	CDS	399	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+OFFJBEEN_01087	gene	1311	eno			
+OFFJBEEN_01087	CDS	1311	eno	4.2.1.11	COG0148	Enolase
+OFFJBEEN_01088	gene	981	ribD			
+OFFJBEEN_01088	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+OFFJBEEN_01089	gene	777				
+OFFJBEEN_01089	CDS	777				hypothetical protein
+OFFJBEEN_01090	gene	1305	tyrS			
+OFFJBEEN_01090	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+OFFJBEEN_01091	gene	240				
+OFFJBEEN_01091	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+OFFJBEEN_01092	gene	432	rnpA			
+OFFJBEEN_01092	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+OFFJBEEN_01093	gene	747				
+OFFJBEEN_01093	CDS	747				hypothetical protein
+OFFJBEEN_01094	gene	1050				
+OFFJBEEN_01094	CDS	1050				hypothetical protein
+OFFJBEEN_01095	gene	1305	metK			
+OFFJBEEN_01095	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+OFFJBEEN_01096	gene	2826				
+OFFJBEEN_01096	CDS	2826				hypothetical protein
+OFFJBEEN_01097	gene	165				
+OFFJBEEN_01097	CDS	165				hypothetical protein
+OFFJBEEN_01098	gene	894				
+OFFJBEEN_01098	CDS	894				hypothetical protein
+OFFJBEEN_01099	gene	318				
+OFFJBEEN_01099	CDS	318				hypothetical protein
+OFFJBEEN_01100	gene	210				
+OFFJBEEN_01100	CDS	210				hypothetical protein
+OFFJBEEN_01101	gene	618				
+OFFJBEEN_01101	CDS	618				hypothetical protein
+OFFJBEEN_01102	gene	153				
+OFFJBEEN_01102	CDS	153				hypothetical protein
+OFFJBEEN_01103	gene	1491	cysS			
+OFFJBEEN_01103	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+OFFJBEEN_01104	gene	936				
+OFFJBEEN_01104	CDS	936				hypothetical protein
+OFFJBEEN_01105	gene	1008				
+OFFJBEEN_01105	CDS	1008				hypothetical protein
+OFFJBEEN_01106	gene	1047				
+OFFJBEEN_01106	CDS	1047				hypothetical protein
+OFFJBEEN_01107	gene	606				
+OFFJBEEN_01107	CDS	606				hypothetical protein
+OFFJBEEN_01108	gene	237	acpP			
+OFFJBEEN_01108	CDS	237	acpP		COG0236	Acyl carrier protein
+OFFJBEEN_01109	gene	1263	fabF			
+OFFJBEEN_01109	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+OFFJBEEN_01110	gene	1050	rnc			
+OFFJBEEN_01110	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+OFFJBEEN_01111	gene	1644	hcp			
+OFFJBEEN_01111	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+OFFJBEEN_01112	gene	96				
+OFFJBEEN_01112	CDS	96				hypothetical protein
+OFFJBEEN_01113	gene	600				
+OFFJBEEN_01113	CDS	600				hypothetical protein
+OFFJBEEN_01114	gene	669				
+OFFJBEEN_01114	CDS	669				hypothetical protein
+OFFJBEEN_01115	gene	177				
+OFFJBEEN_01115	CDS	177				hypothetical protein
+OFFJBEEN_01116	gene	321				
+OFFJBEEN_01116	CDS	321				hypothetical protein
+OFFJBEEN_01117	gene	1527				
+OFFJBEEN_01117	CDS	1527				hypothetical protein
+OFFJBEEN_01118	gene	1314				
+OFFJBEEN_01118	CDS	1314				hypothetical protein
+OFFJBEEN_01119	gene	1494	patA_2			
+OFFJBEEN_01119	CDS	1494	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+OFFJBEEN_01120	gene	417				
+OFFJBEEN_01120	CDS	417				hypothetical protein
+OFFJBEEN_01121	gene	1821	argS			
+OFFJBEEN_01121	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+OFFJBEEN_01122	gene	192				
+OFFJBEEN_01122	CDS	192				hypothetical protein
+OFFJBEEN_01123	gene	918				
+OFFJBEEN_01123	CDS	918				hypothetical protein
+OFFJBEEN_01124	gene	72				
+OFFJBEEN_01124	tRNA	72				tRNA-Gln(ttg)
+OFFJBEEN_01125	gene	258				
+OFFJBEEN_01125	CDS	258				hypothetical protein
+OFFJBEEN_01126	gene	2709	rcsC_1			
+OFFJBEEN_01126	CDS	2709	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+OFFJBEEN_01127	gene	432				
+OFFJBEEN_01127	CDS	432				hypothetical protein
+OFFJBEEN_01128	gene	381				
+OFFJBEEN_01128	CDS	381				hypothetical protein
+OFFJBEEN_01129	gene	339				
+OFFJBEEN_01129	CDS	339				hypothetical protein
+OFFJBEEN_01130	gene	132				
+OFFJBEEN_01130	CDS	132				hypothetical protein
+OFFJBEEN_01131	gene	1668	udk_2			
+OFFJBEEN_01131	CDS	1668	udk_2	2.7.1.48		Uridine kinase
+OFFJBEEN_01132	gene	1722				
+OFFJBEEN_01132	CDS	1722				hypothetical protein
+OFFJBEEN_01133	gene	1050	btuB_4			
+OFFJBEEN_01133	CDS	1050	btuB_4			Vitamin B12 transporter BtuB
+OFFJBEEN_01134	gene	285				
+OFFJBEEN_01134	CDS	285				hypothetical protein
+OFFJBEEN_01135	gene	6564				
+OFFJBEEN_01135	CDS	6564				hypothetical protein
+OFFJBEEN_01136	gene	1173				
+OFFJBEEN_01136	CDS	1173				hypothetical protein
+OFFJBEEN_01137	gene	1005	hmuU_1			
+OFFJBEEN_01137	CDS	1005	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+OFFJBEEN_01138	gene	894	prmC			
+OFFJBEEN_01138	CDS	894	prmC	2.1.1.297		Release factor glutamine methyltransferase
+OFFJBEEN_01139	gene	507	recX			
+OFFJBEEN_01139	CDS	507	recX			Regulatory protein RecX
+OFFJBEEN_01140	gene	1287				
+OFFJBEEN_01140	CDS	1287				hypothetical protein
+OFFJBEEN_01141	gene	471				
+OFFJBEEN_01141	CDS	471				hypothetical protein
+OFFJBEEN_01142	gene	1794				
+OFFJBEEN_01142	CDS	1794				hypothetical protein
+OFFJBEEN_01143	gene	852				
+OFFJBEEN_01143	CDS	852				hypothetical protein
+OFFJBEEN_01144	gene	633	pyrE			
+OFFJBEEN_01144	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+OFFJBEEN_01145	gene	423				
+OFFJBEEN_01145	CDS	423				hypothetical protein
+OFFJBEEN_01146	gene	576				
+OFFJBEEN_01146	CDS	576				hypothetical protein
+OFFJBEEN_01147	gene	87				
+OFFJBEEN_01147	tRNA	87				tRNA-Leu(taa)
+OFFJBEEN_01148	gene	1005				
+OFFJBEEN_01148	CDS	1005				hypothetical protein
+OFFJBEEN_01149	gene	696				
+OFFJBEEN_01149	CDS	696				hypothetical protein
+OFFJBEEN_01150	gene	459	rnhA			
+OFFJBEEN_01150	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+OFFJBEEN_01151	gene	312				
+OFFJBEEN_01151	CDS	312				hypothetical protein
+OFFJBEEN_01152	gene	666				
+OFFJBEEN_01152	CDS	666				hypothetical protein
+OFFJBEEN_01153	gene	831				
+OFFJBEEN_01153	CDS	831				hypothetical protein
+OFFJBEEN_01154	gene	558	trmH			
+OFFJBEEN_01154	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+OFFJBEEN_01155	gene	429	csdE			
+OFFJBEEN_01155	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+OFFJBEEN_01156	gene	1299				
+OFFJBEEN_01156	CDS	1299				hypothetical protein
+OFFJBEEN_01157	gene	912	xerD_1			
+OFFJBEEN_01157	CDS	912	xerD_1			Tyrosine recombinase XerD
+OFFJBEEN_01158	gene	1359	miaB			
+OFFJBEEN_01158	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+OFFJBEEN_01159	gene	2886				
+OFFJBEEN_01159	CDS	2886				hypothetical protein
+OFFJBEEN_01160	gene	219				
+OFFJBEEN_01160	CDS	219				hypothetical protein
+OFFJBEEN_01161	gene	1812	der_2			
+OFFJBEEN_01161	CDS	1812	der_2			GTPase Der
+OFFJBEEN_01162	gene	387				
+OFFJBEEN_01162	CDS	387				hypothetical protein
+OFFJBEEN_01163	gene	1917				
+OFFJBEEN_01163	CDS	1917				hypothetical protein
+OFFJBEEN_01164	gene	2103				
+OFFJBEEN_01164	CDS	2103				hypothetical protein
+OFFJBEEN_01165	gene	276				
+OFFJBEEN_01165	CDS	276				hypothetical protein
+OFFJBEEN_01166	gene	336				
+OFFJBEEN_01166	CDS	336				hypothetical protein
+OFFJBEEN_01167	gene	840				
+OFFJBEEN_01167	CDS	840				hypothetical protein
+OFFJBEEN_01168	gene	102				
+OFFJBEEN_01168	CDS	102				hypothetical protein
+OFFJBEEN_01169	gene	2517				
+OFFJBEEN_01169	CDS	2517				hypothetical protein
+OFFJBEEN_01170	gene	1650				
+OFFJBEEN_01170	CDS	1650				hypothetical protein
+OFFJBEEN_01171	gene	888				
+OFFJBEEN_01171	CDS	888				hypothetical protein
+OFFJBEEN_01172	gene	1779	bepA_3			
+OFFJBEEN_01172	CDS	1779	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+OFFJBEEN_01173	gene	438	dut			
+OFFJBEEN_01173	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+OFFJBEEN_01174	gene	1527	dgt			
+OFFJBEEN_01174	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+OFFJBEEN_01175	gene	174				
+OFFJBEEN_01175	CDS	174				hypothetical protein
+OFFJBEEN_01176	gene	279				
+OFFJBEEN_01176	CDS	279				hypothetical protein
+OFFJBEEN_01177	gene	261				
+OFFJBEEN_01177	CDS	261				hypothetical protein
+OFFJBEEN_01178	gene	420				
+OFFJBEEN_01178	CDS	420				hypothetical protein
+OFFJBEEN_01179	gene	477				
+OFFJBEEN_01179	CDS	477				hypothetical protein
+OFFJBEEN_01180	gene	1023				
+OFFJBEEN_01180	CDS	1023				hypothetical protein
+OFFJBEEN_01181	gene	828				
+OFFJBEEN_01181	CDS	828				hypothetical protein
+OFFJBEEN_01182	gene	465	mraZ			
+OFFJBEEN_01182	CDS	465	mraZ			Transcriptional regulator MraZ
+OFFJBEEN_01183	gene	1032	rsmH			
+OFFJBEEN_01183	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+OFFJBEEN_01184	gene	624				
+OFFJBEEN_01184	CDS	624				hypothetical protein
+OFFJBEEN_01185	gene	2148	pbpB			
+OFFJBEEN_01185	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+OFFJBEEN_01186	gene	1452	murE			
+OFFJBEEN_01186	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+OFFJBEEN_01187	gene	1272	mraY			
+OFFJBEEN_01187	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+OFFJBEEN_01188	gene	1344	murD			
+OFFJBEEN_01188	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+OFFJBEEN_01189	gene	1287	mrdB_2			
+OFFJBEEN_01189	CDS	1287	mrdB_2	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+OFFJBEEN_01190	gene	1116	murG			
+OFFJBEEN_01190	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+OFFJBEEN_01191	gene	1401	murC			
+OFFJBEEN_01191	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+OFFJBEEN_01192	gene	1002				
+OFFJBEEN_01192	CDS	1002				hypothetical protein
+OFFJBEEN_01193	gene	1461	ftsA			
+OFFJBEEN_01193	CDS	1461	ftsA			Cell division protein FtsA
+OFFJBEEN_01194	gene	1320	ftsZ			
+OFFJBEEN_01194	CDS	1320	ftsZ			Cell division protein FtsZ
+OFFJBEEN_01195	gene	447	yqeY			
+OFFJBEEN_01195	CDS	447	yqeY		COG1610	putative protein YqeY
+OFFJBEEN_01196	gene	1122				
+OFFJBEEN_01196	CDS	1122				hypothetical protein
+OFFJBEEN_01197	gene	726	recO			
+OFFJBEEN_01197	CDS	726	recO		COG1381	DNA repair protein RecO
+OFFJBEEN_01198	gene	75				
+OFFJBEEN_01198	tRNA	75				tRNA-Glu(ttc)
+OFFJBEEN_01199	gene	255	rpsT			
+OFFJBEEN_01199	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+OFFJBEEN_01200	gene	135				
+OFFJBEEN_01200	CDS	135				hypothetical protein
+OFFJBEEN_01201	gene	1971	gyrB_1			
+OFFJBEEN_01201	CDS	1971	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+OFFJBEEN_01202	gene	879				
+OFFJBEEN_01202	CDS	879				hypothetical protein
+OFFJBEEN_01203	gene	621				
+OFFJBEEN_01203	CDS	621				hypothetical protein
+OFFJBEEN_01204	gene	666	ung			
+OFFJBEEN_01204	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+OFFJBEEN_01205	gene	1518	gpmI			
+OFFJBEEN_01205	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+OFFJBEEN_01206	gene	2196				
+OFFJBEEN_01206	CDS	2196				hypothetical protein
+OFFJBEEN_01207	gene	1050	dusB			
+OFFJBEEN_01207	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+OFFJBEEN_01208	gene	1128				
+OFFJBEEN_01208	CDS	1128				hypothetical protein
+OFFJBEEN_01209	gene	453				
+OFFJBEEN_01209	CDS	453				hypothetical protein
+OFFJBEEN_01210	gene	1302				
+OFFJBEEN_01210	CDS	1302				hypothetical protein
+OFFJBEEN_01211	gene	1149	yghO			
+OFFJBEEN_01211	CDS	1149	yghO			Protein YghO
+OFFJBEEN_01212	gene	1944	gyrB_2			
+OFFJBEEN_01212	CDS	1944	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+OFFJBEEN_01213	gene	441	coaD			
+OFFJBEEN_01213	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+OFFJBEEN_01214	gene	411	ybeY			
+OFFJBEEN_01214	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+OFFJBEEN_01215	gene	1578				
+OFFJBEEN_01215	CDS	1578				hypothetical protein
+OFFJBEEN_01216	gene	1035	ruvB			
+OFFJBEEN_01216	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+OFFJBEEN_01217	gene	1218	norV			
+OFFJBEEN_01217	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+OFFJBEEN_01218	gene	1317				
+OFFJBEEN_01218	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+OFFJBEEN_01219	gene	1368				
+OFFJBEEN_01219	CDS	1368				hypothetical protein
+OFFJBEEN_01220	gene	75				
+OFFJBEEN_01220	tRNA	75				tRNA-Met(cat)
+OFFJBEEN_01221	gene	693				
+OFFJBEEN_01221	CDS	693				hypothetical protein
+OFFJBEEN_01222	gene	486	resA_3			
+OFFJBEEN_01222	CDS	486	resA_3			Thiol-disulfide oxidoreductase ResA
+OFFJBEEN_01223	gene	1659				
+OFFJBEEN_01223	CDS	1659				hypothetical protein
+OFFJBEEN_01224	gene	786				
+OFFJBEEN_01224	CDS	786				hypothetical protein
+OFFJBEEN_01225	gene	639				
+OFFJBEEN_01225	CDS	639				hypothetical protein
+OFFJBEEN_01226	gene	1419	aspA			
+OFFJBEEN_01226	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+OFFJBEEN_01227	gene	726	mhqN			
+OFFJBEEN_01227	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+OFFJBEEN_01228	gene	363				
+OFFJBEEN_01228	CDS	363				hypothetical protein
+OFFJBEEN_01229	gene	747				
+OFFJBEEN_01229	CDS	747				hypothetical protein
+OFFJBEEN_01230	gene	1896				
+OFFJBEEN_01230	CDS	1896				hypothetical protein
+OFFJBEEN_01231	gene	804	xerC_3			
+OFFJBEEN_01231	CDS	804	xerC_3			Tyrosine recombinase XerC
+OFFJBEEN_01232	gene	168				
+OFFJBEEN_01232	CDS	168				hypothetical protein
+OFFJBEEN_01233	gene	564				
+OFFJBEEN_01233	CDS	564				hypothetical protein
+OFFJBEEN_01234	gene	546				
+OFFJBEEN_01234	CDS	546				hypothetical protein
+OFFJBEEN_01235	gene	456				
+OFFJBEEN_01235	CDS	456				hypothetical protein
+OFFJBEEN_01236	gene	570				
+OFFJBEEN_01236	CDS	570				hypothetical protein
+OFFJBEEN_01237	gene	1965	cpoB			
+OFFJBEEN_01237	CDS	1965	cpoB			Cell division coordinator CpoB
+OFFJBEEN_01238	gene	561	def			
+OFFJBEEN_01238	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+OFFJBEEN_01239	gene	291	yqgF			
+OFFJBEEN_01239	CDS	291	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+OFFJBEEN_01240	gene	516				
+OFFJBEEN_01240	CDS	516				hypothetical protein
+OFFJBEEN_01241	gene	216				
+OFFJBEEN_01241	CDS	216				hypothetical protein
+OFFJBEEN_01242	gene	369				
+OFFJBEEN_01242	CDS	369				hypothetical protein
+OFFJBEEN_01243	gene	294				
+OFFJBEEN_01243	CDS	294				hypothetical protein
+OFFJBEEN_01244	gene	774	rbn			
+OFFJBEEN_01244	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+OFFJBEEN_01245	gene	1026	murB			
+OFFJBEEN_01245	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+OFFJBEEN_01246	gene	852				
+OFFJBEEN_01246	CDS	852				hypothetical protein
+OFFJBEEN_01247	gene	1356				
+OFFJBEEN_01247	CDS	1356				hypothetical protein
+OFFJBEEN_01248	gene	1038	pheS			
+OFFJBEEN_01248	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+OFFJBEEN_01249	gene	390				
+OFFJBEEN_01249	CDS	390				hypothetical protein
+OFFJBEEN_01250	gene	1212				
+OFFJBEEN_01250	CDS	1212				hypothetical protein
+OFFJBEEN_01251	gene	936	arnC_1			
+OFFJBEEN_01251	CDS	936	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OFFJBEEN_01252	gene	486	ftnA			
+OFFJBEEN_01252	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+OFFJBEEN_01253	gene	546				
+OFFJBEEN_01253	CDS	546				hypothetical protein
+OFFJBEEN_01254	gene	1164				
+OFFJBEEN_01254	CDS	1164				hypothetical protein
+OFFJBEEN_01255	gene	969	msrA			
+OFFJBEEN_01255	CDS	969	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+OFFJBEEN_01256	gene	74				
+OFFJBEEN_01256	tRNA	74				tRNA-Lys(ctt)
+OFFJBEEN_01257	gene	654	rbr			
+OFFJBEEN_01257	CDS	654	rbr		COG1592	Rubrerythrin
+OFFJBEEN_01258	gene	90				
+OFFJBEEN_01258	CDS	90				hypothetical protein
+OFFJBEEN_01259	gene	531				
+OFFJBEEN_01259	CDS	531				hypothetical protein
+OFFJBEEN_01260	gene	579				
+OFFJBEEN_01260	CDS	579		2.3.1.-	COG1670	Acetyltransferase
+OFFJBEEN_01261	gene	303				
+OFFJBEEN_01261	CDS	303				hypothetical protein
+OFFJBEEN_01262	gene	1986	rho			
+OFFJBEEN_01262	CDS	1986	rho	3.6.4.-		Transcription termination factor Rho
+OFFJBEEN_01263	gene	540				
+OFFJBEEN_01263	CDS	540				hypothetical protein
+OFFJBEEN_01264	gene	2061	btuB_5			
+OFFJBEEN_01264	CDS	2061	btuB_5			Vitamin B12 transporter BtuB
+OFFJBEEN_01265	gene	1026	ansA			
+OFFJBEEN_01265	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+OFFJBEEN_01266	gene	1482	degQ			
+OFFJBEEN_01266	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+OFFJBEEN_01267	gene	120				
+OFFJBEEN_01267	CDS	120				hypothetical protein
+OFFJBEEN_01268	gene	492	pncC			
+OFFJBEEN_01268	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+OFFJBEEN_01269	gene	1026	tsaD			
+OFFJBEEN_01269	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+OFFJBEEN_01270	gene	855	map_1			
+OFFJBEEN_01270	CDS	855	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+OFFJBEEN_01271	gene	405				
+OFFJBEEN_01271	CDS	405				hypothetical protein
+OFFJBEEN_01272	gene	480	smpB			
+OFFJBEEN_01272	CDS	480	smpB		COG0691	SsrA-binding protein
+OFFJBEEN_01273	gene	504				
+OFFJBEEN_01273	CDS	504				hypothetical protein
+OFFJBEEN_01274	gene	1254				
+OFFJBEEN_01274	CDS	1254				hypothetical protein
+OFFJBEEN_01275	gene	1209				
+OFFJBEEN_01275	CDS	1209				hypothetical protein
+OFFJBEEN_01276	gene	1170				
+OFFJBEEN_01276	CDS	1170				hypothetical protein
+OFFJBEEN_01277	gene	2676	gyrA			
+OFFJBEEN_01277	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+OFFJBEEN_01278	gene	891				
+OFFJBEEN_01278	CDS	891				hypothetical protein
+OFFJBEEN_01279	gene	1941	nadE			
+OFFJBEEN_01279	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+OFFJBEEN_01280	gene	1236	queA_2			
+OFFJBEEN_01280	CDS	1236	queA_2	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+OFFJBEEN_01281	gene	687				
+OFFJBEEN_01281	CDS	687				hypothetical protein
+OFFJBEEN_01282	gene	2562				
+OFFJBEEN_01282	CDS	2562				hypothetical protein
+OFFJBEEN_01283	gene	693				
+OFFJBEEN_01283	CDS	693				hypothetical protein
+OFFJBEEN_01284	gene	1029				
+OFFJBEEN_01284	CDS	1029				hypothetical protein
+OFFJBEEN_01285	gene	999				
+OFFJBEEN_01285	CDS	999				hypothetical protein
+OFFJBEEN_01286	gene	1107				
+OFFJBEEN_01286	CDS	1107				hypothetical protein
+OFFJBEEN_01287	gene	870				
+OFFJBEEN_01287	CDS	870				hypothetical protein
+OFFJBEEN_01288	gene	996				
+OFFJBEEN_01288	CDS	996				hypothetical protein
+OFFJBEEN_01289	gene	1374	ihfA			
+OFFJBEEN_01289	CDS	1374	ihfA			Integration host factor subunit alpha
+OFFJBEEN_01290	gene	294	hup_1			
+OFFJBEEN_01290	CDS	294	hup_1		COG0776	DNA-binding protein HU
+OFFJBEEN_01291	gene	1317	rimO			
+OFFJBEEN_01291	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+OFFJBEEN_01292	gene	957	ftsY			
+OFFJBEEN_01292	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+OFFJBEEN_01293	gene	159				
+OFFJBEEN_01293	CDS	159				hypothetical protein
+OFFJBEEN_01294	gene	189	rpmG2			
+OFFJBEEN_01294	CDS	189	rpmG2			50S ribosomal protein L33 2
+OFFJBEEN_01295	gene	264	rpmB			
+OFFJBEEN_01295	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+OFFJBEEN_01296	gene	2118				
+OFFJBEEN_01296	CDS	2118				hypothetical protein
+OFFJBEEN_01297	gene	2136				
+OFFJBEEN_01297	CDS	2136				hypothetical protein
+OFFJBEEN_01298	gene	807	yycJ			
+OFFJBEEN_01298	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+OFFJBEEN_01299	gene	465				
+OFFJBEEN_01299	CDS	465				hypothetical protein
+OFFJBEEN_01300	gene	2181	bamA_1			
+OFFJBEEN_01300	CDS	2181	bamA_1			Outer membrane protein assembly factor BamA
+OFFJBEEN_01301	gene	603				
+OFFJBEEN_01301	CDS	603				hypothetical protein
+OFFJBEEN_01302	gene	1782	lepA			
+OFFJBEEN_01302	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+OFFJBEEN_01303	gene	387				
+OFFJBEEN_01303	CDS	387				hypothetical protein
+OFFJBEEN_01304	gene	1389				
+OFFJBEEN_01304	CDS	1389				hypothetical protein
+OFFJBEEN_01305	gene	99				
+OFFJBEEN_01305	CDS	99				hypothetical protein
+OFFJBEEN_01306	gene	2943				
+OFFJBEEN_01306	CDS	2943				hypothetical protein
+OFFJBEEN_01307	gene	570	purN			
+OFFJBEEN_01307	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+OFFJBEEN_01308	gene	489				
+OFFJBEEN_01308	CDS	489				hypothetical protein
+OFFJBEEN_01309	gene	618	pth			
+OFFJBEEN_01309	CDS	618	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+OFFJBEEN_01310	gene	612	ctc			
+OFFJBEEN_01310	CDS	612	ctc		COG1825	General stress protein CTC
+OFFJBEEN_01311	gene	1002	nusB			
+OFFJBEEN_01311	CDS	1002	nusB			Transcription antitermination protein NusB
+OFFJBEEN_01312	gene	330				
+OFFJBEEN_01312	CDS	330				hypothetical protein
+OFFJBEEN_01313	gene	987				
+OFFJBEEN_01313	CDS	987				hypothetical protein
+OFFJBEEN_01314	gene	561	coaE			
+OFFJBEEN_01314	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+OFFJBEEN_01315	gene	444				
+OFFJBEEN_01315	CDS	444				hypothetical protein
+OFFJBEEN_01316	gene	249				
+OFFJBEEN_01316	CDS	249				hypothetical protein
+OFFJBEEN_01317	gene	1062				
+OFFJBEEN_01317	CDS	1062				hypothetical protein
+OFFJBEEN_01318	gene	933	yrbG			
+OFFJBEEN_01318	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+OFFJBEEN_01319	gene	831	resA_4			
+OFFJBEEN_01319	CDS	831	resA_4			Thiol-disulfide oxidoreductase ResA
+OFFJBEEN_01320	gene	1071	aroB			
+OFFJBEEN_01320	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+OFFJBEEN_01321	gene	222				
+OFFJBEEN_01321	CDS	222				hypothetical protein
+OFFJBEEN_01322	gene	2313				
+OFFJBEEN_01322	CDS	2313				hypothetical protein
+OFFJBEEN_01323	gene	522				
+OFFJBEEN_01323	CDS	522				hypothetical protein
+OFFJBEEN_01324	gene	852				
+OFFJBEEN_01324	CDS	852				hypothetical protein
+OFFJBEEN_01325	gene	1971	ftsH_1			
+OFFJBEEN_01325	CDS	1971	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OFFJBEEN_01326	gene	360	rsfS			
+OFFJBEEN_01326	CDS	360	rsfS		COG0799	Ribosomal silencing factor RsfS
+OFFJBEEN_01327	gene	72				
+OFFJBEEN_01327	tRNA	72				tRNA-Gln(ctg)
+OFFJBEEN_01328	gene	1854				
+OFFJBEEN_01328	CDS	1854				hypothetical protein
+OFFJBEEN_01329	gene	927				
+OFFJBEEN_01329	CDS	927				hypothetical protein
+OFFJBEEN_01330	gene	141				
+OFFJBEEN_01330	CDS	141				hypothetical protein
+OFFJBEEN_01331	gene	1461	pepD_2			
+OFFJBEEN_01331	CDS	1461	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+OFFJBEEN_01332	gene	963				
+OFFJBEEN_01332	CDS	963				hypothetical protein
+OFFJBEEN_01333	gene	1149	lpxB			
+OFFJBEEN_01333	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+OFFJBEEN_01334	gene	774	surE			
+OFFJBEEN_01334	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+OFFJBEEN_01335	gene	99				
+OFFJBEEN_01335	CDS	99				hypothetical protein
+OFFJBEEN_01336	gene	762	soj			
+OFFJBEEN_01336	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+OFFJBEEN_01337	gene	900	parB			
+OFFJBEEN_01337	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+OFFJBEEN_01338	gene	765				
+OFFJBEEN_01338	CDS	765				hypothetical protein
+OFFJBEEN_01339	gene	1536				
+OFFJBEEN_01339	CDS	1536				hypothetical protein
+OFFJBEEN_01340	gene	2286	relA_2			
+OFFJBEEN_01340	CDS	2286	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+OFFJBEEN_01341	gene	348				
+OFFJBEEN_01341	CDS	348				hypothetical protein
+OFFJBEEN_01342	gene	2826	alaS			
+OFFJBEEN_01342	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+OFFJBEEN_01343	gene	1023	recA			
+OFFJBEEN_01343	CDS	1023	recA			Protein RecA
+OFFJBEEN_01344	gene	1305				
+OFFJBEEN_01344	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+OFFJBEEN_01345	gene	597				
+OFFJBEEN_01345	CDS	597				hypothetical protein
+OFFJBEEN_01346	gene	849				
+OFFJBEEN_01346	CDS	849				hypothetical protein
+OFFJBEEN_01347	gene	1347	nhaD			
+OFFJBEEN_01347	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+OFFJBEEN_01348	gene	912				
+OFFJBEEN_01348	CDS	912				hypothetical protein
+OFFJBEEN_01349	gene	558	rsmD			
+OFFJBEEN_01349	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+OFFJBEEN_01350	gene	861				
+OFFJBEEN_01350	CDS	861				hypothetical protein
+OFFJBEEN_01351	gene	492				
+OFFJBEEN_01351	CDS	492				hypothetical protein
+OFFJBEEN_01352	gene	1440	recD2_1			
+OFFJBEEN_01352	CDS	1440	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+OFFJBEEN_01353	gene	579				
+OFFJBEEN_01353	CDS	579				hypothetical protein
+OFFJBEEN_01354	gene	1038	nrnA			
+OFFJBEEN_01354	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+OFFJBEEN_01355	gene	339	dnaG_1			
+OFFJBEEN_01355	CDS	339	dnaG_1	2.7.7.-	COG0358	DNA primase
+OFFJBEEN_01356	gene	1938	dnaG_2			
+OFFJBEEN_01356	CDS	1938	dnaG_2	2.7.7.-		DNA primase
+OFFJBEEN_01357	gene	330	queD			
+OFFJBEEN_01357	CDS	330	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+OFFJBEEN_01358	gene	660	queE			
+OFFJBEEN_01358	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+OFFJBEEN_01359	gene	1410	clsA			
+OFFJBEEN_01359	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+OFFJBEEN_01360	gene	2373	bamA_2			
+OFFJBEEN_01360	CDS	2373	bamA_2			Outer membrane protein assembly factor BamA
+OFFJBEEN_01361	gene	4644				
+OFFJBEEN_01361	CDS	4644				hypothetical protein
+OFFJBEEN_01362	gene	747				
+OFFJBEEN_01362	CDS	747				hypothetical protein
+OFFJBEEN_01363	gene	672				
+OFFJBEEN_01363	CDS	672		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+OFFJBEEN_01364	gene	747	fabG			
+OFFJBEEN_01364	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OFFJBEEN_01365	gene	612				
+OFFJBEEN_01365	CDS	612				hypothetical protein
+OFFJBEEN_01366	gene	74				
+OFFJBEEN_01366	tRNA	74				tRNA-Met(cat)
+OFFJBEEN_01367	gene	192				
+OFFJBEEN_01367	CDS	192				hypothetical protein
+OFFJBEEN_01368	gene	189				
+OFFJBEEN_01368	CDS	189				hypothetical protein
+OFFJBEEN_01369	gene	3063	secD			
+OFFJBEEN_01369	CDS	3063	secD			Protein translocase subunit SecD
+OFFJBEEN_01370	gene	1086				
+OFFJBEEN_01370	CDS	1086				hypothetical protein
+OFFJBEEN_01371	gene	894				
+OFFJBEEN_01371	CDS	894				hypothetical protein
+OFFJBEEN_01372	gene	273	hup_2			
+OFFJBEEN_01372	CDS	273	hup_2			DNA-binding protein HU
+OFFJBEEN_01373	gene	336	rbfA			
+OFFJBEEN_01373	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+OFFJBEEN_01374	gene	1230	lolE_2			
+OFFJBEEN_01374	CDS	1230	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+OFFJBEEN_01375	gene	354				
+OFFJBEEN_01375	CDS	354				hypothetical protein
+OFFJBEEN_01376	gene	4485				
+OFFJBEEN_01376	CDS	4485				hypothetical protein
+OFFJBEEN_01377	gene	1392				
+OFFJBEEN_01377	CDS	1392				hypothetical protein
+OFFJBEEN_01378	gene	825				
+OFFJBEEN_01378	CDS	825				hypothetical protein
+OFFJBEEN_01379	gene	216				
+OFFJBEEN_01379	CDS	216				hypothetical protein
+OFFJBEEN_01380	gene	1329				
+OFFJBEEN_01380	CDS	1329				hypothetical protein
+OFFJBEEN_01381	gene	2313	cirA			
+OFFJBEEN_01381	CDS	2313	cirA		COG4771	Colicin I receptor
+OFFJBEEN_01382	gene	717				
+OFFJBEEN_01382	CDS	717				hypothetical protein
+OFFJBEEN_01383	gene	1053				
+OFFJBEEN_01383	CDS	1053				hypothetical protein
+OFFJBEEN_01384	gene	774				
+OFFJBEEN_01384	CDS	774				hypothetical protein
+OFFJBEEN_01385	gene	747				
+OFFJBEEN_01385	CDS	747				hypothetical protein
+OFFJBEEN_01386	gene	138				
+OFFJBEEN_01386	CDS	138				hypothetical protein
+OFFJBEEN_01387	gene	546				
+OFFJBEEN_01387	CDS	546				hypothetical protein
+OFFJBEEN_01388	gene	2802				
+OFFJBEEN_01388	CDS	2802				hypothetical protein
+OFFJBEEN_01389	gene	1641				
+OFFJBEEN_01389	CDS	1641				hypothetical protein
+OFFJBEEN_01390	gene	396				
+OFFJBEEN_01390	CDS	396				hypothetical protein
+OFFJBEEN_01391	gene	1455				
+OFFJBEEN_01391	CDS	1455				hypothetical protein
+OFFJBEEN_01392	gene	2895				
+OFFJBEEN_01392	CDS	2895				hypothetical protein
+OFFJBEEN_01393	gene	552				
+OFFJBEEN_01393	CDS	552				hypothetical protein
+OFFJBEEN_01394	gene	1977	mdoB			
+OFFJBEEN_01394	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+OFFJBEEN_01395	gene	1764	arnT			
+OFFJBEEN_01395	CDS	1764	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+OFFJBEEN_01396	gene	516	dps			
+OFFJBEEN_01396	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+OFFJBEEN_01397	gene	660	upp			
+OFFJBEEN_01397	CDS	660	upp	2.4.2.9		Uracil phosphoribosyltransferase
+OFFJBEEN_01398	gene	1614	pckA			
+OFFJBEEN_01398	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+OFFJBEEN_01399	gene	1851	korA_2			
+OFFJBEEN_01399	CDS	1851	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+OFFJBEEN_01400	gene	1002	korB_2			
+OFFJBEEN_01400	CDS	1002	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+OFFJBEEN_01401	gene	2106	recD2_2			
+OFFJBEEN_01401	CDS	2106	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+OFFJBEEN_01402	gene	810				
+OFFJBEEN_01402	CDS	810				hypothetical protein
+OFFJBEEN_01403	gene	1023	hmuU_2			
+OFFJBEEN_01403	CDS	1023	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+OFFJBEEN_01404	gene	1137				
+OFFJBEEN_01404	CDS	1137				hypothetical protein
+OFFJBEEN_01405	gene	2076	cbiD			
+OFFJBEEN_01405	CDS	2076	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+OFFJBEEN_01406	gene	1767	cysG_1			
+OFFJBEEN_01406	CDS	1767	cysG_1	4.99.1.4		Siroheme synthase
+OFFJBEEN_01407	gene	1233	cbiET			
+OFFJBEEN_01407	CDS	1233	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+OFFJBEEN_01408	gene	1428	cysG_2			
+OFFJBEEN_01408	CDS	1428	cysG_2	4.99.1.4		Siroheme synthase
+OFFJBEEN_01409	gene	198				
+OFFJBEEN_01409	CDS	198				hypothetical protein
+OFFJBEEN_01410	gene	741				
+OFFJBEEN_01410	CDS	741				hypothetical protein
+OFFJBEEN_01411	gene	780				
+OFFJBEEN_01411	CDS	780				hypothetical protein
+OFFJBEEN_01412	gene	120				
+OFFJBEEN_01412	CDS	120				hypothetical protein
+OFFJBEEN_01413	gene	1374	mnmE			
+OFFJBEEN_01413	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+OFFJBEEN_01414	gene	1032	ltaE			
+OFFJBEEN_01414	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+OFFJBEEN_01415	gene	876	deoD			
+OFFJBEEN_01415	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+OFFJBEEN_01416	gene	1116				
+OFFJBEEN_01416	CDS	1116				hypothetical protein
+OFFJBEEN_01417	gene	2358	pyrK_2			
+OFFJBEEN_01417	CDS	2358	pyrK_2			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+OFFJBEEN_01418	gene	1317	serS			
+OFFJBEEN_01418	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+OFFJBEEN_01419	gene	264	rpmA			
+OFFJBEEN_01419	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+OFFJBEEN_01420	gene	318	rplU			
+OFFJBEEN_01420	CDS	318	rplU		COG0261	50S ribosomal protein L21
+OFFJBEEN_01421	gene	759	exoA			
+OFFJBEEN_01421	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+OFFJBEEN_01422	gene	384				
+OFFJBEEN_01422	CDS	384				hypothetical protein
+OFFJBEEN_01423	gene	585				
+OFFJBEEN_01423	CDS	585				hypothetical protein
+OFFJBEEN_01424	gene	678				
+OFFJBEEN_01424	CDS	678				hypothetical protein
+OFFJBEEN_01425	gene	606				
+OFFJBEEN_01425	CDS	606				hypothetical protein
+OFFJBEEN_01426	gene	411				
+OFFJBEEN_01426	CDS	411				hypothetical protein
+OFFJBEEN_01427	gene	1491	algC_2			
+OFFJBEEN_01427	CDS	1491	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+OFFJBEEN_01428	gene	2037	pepO			
+OFFJBEEN_01428	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+OFFJBEEN_01429	gene	1953	yheS			
+OFFJBEEN_01429	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+OFFJBEEN_01430	gene	2217	yhgF			
+OFFJBEEN_01430	CDS	2217	yhgF		COG2183	Protein YhgF
+OFFJBEEN_01431	gene	261				
+OFFJBEEN_01431	CDS	261				hypothetical protein
+OFFJBEEN_01432	gene	345	rplT			
+OFFJBEEN_01432	CDS	345	rplT			50S ribosomal protein L20
+OFFJBEEN_01433	gene	198	rpmI			
+OFFJBEEN_01433	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+OFFJBEEN_01434	gene	696	infC			
+OFFJBEEN_01434	CDS	696	infC			Translation initiation factor IF-3
+OFFJBEEN_01435	gene	738	yafV			
+OFFJBEEN_01435	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+OFFJBEEN_01436	gene	1623				
+OFFJBEEN_01436	CDS	1623				hypothetical protein
+OFFJBEEN_01437	gene	573				
+OFFJBEEN_01437	CDS	573				hypothetical protein
+OFFJBEEN_01438	gene	1311	dapL			
+OFFJBEEN_01438	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+OFFJBEEN_01439	gene	624				
+OFFJBEEN_01439	CDS	624				hypothetical protein
+OFFJBEEN_01440	gene	726				
+OFFJBEEN_01440	CDS	726				hypothetical protein
+OFFJBEEN_01441	gene	3516	sasA_4			
+OFFJBEEN_01441	CDS	3516	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+OFFJBEEN_01442	gene	1065	purR			
+OFFJBEEN_01442	CDS	1065	purR			HTH-type transcriptional repressor PurR
+OFFJBEEN_01443	gene	753				
+OFFJBEEN_01443	CDS	753				hypothetical protein
+OFFJBEEN_01444	gene	1212				
+OFFJBEEN_01444	CDS	1212				hypothetical protein
+OFFJBEEN_01445	gene	204				
+OFFJBEEN_01445	CDS	204				hypothetical protein
+OFFJBEEN_01446	gene	74				
+OFFJBEEN_01446	tRNA	74				tRNA-Cys(gca)
+OFFJBEEN_01447	gene	789	rsxB_2			
+OFFJBEEN_01447	CDS	789	rsxB_2	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+OFFJBEEN_01448	gene	2238				
+OFFJBEEN_01448	CDS	2238				hypothetical protein
+OFFJBEEN_01449	gene	729				
+OFFJBEEN_01449	CDS	729				hypothetical protein
+OFFJBEEN_01450	gene	924				
+OFFJBEEN_01450	CDS	924				hypothetical protein
+OFFJBEEN_01451	gene	888				
+OFFJBEEN_01451	CDS	888				hypothetical protein
+OFFJBEEN_01452	gene	76				
+OFFJBEEN_01452	tRNA	76				tRNA-Arg(tct)
+OFFJBEEN_01453	gene	984				
+OFFJBEEN_01453	CDS	984		1.-.-.-		Oxidoreductase P35
+OFFJBEEN_01454	gene	1131				
+OFFJBEEN_01454	CDS	1131				hypothetical protein
+OFFJBEEN_01455	gene	855				
+OFFJBEEN_01455	CDS	855				hypothetical protein
+OFFJBEEN_01456	gene	204				
+OFFJBEEN_01456	CDS	204				hypothetical protein
+OFFJBEEN_01457	gene	651				
+OFFJBEEN_01457	CDS	651				hypothetical protein
+OFFJBEEN_01458	gene	702				
+OFFJBEEN_01458	CDS	702				hypothetical protein
+OFFJBEEN_01459	gene	348				
+OFFJBEEN_01459	CDS	348				hypothetical protein
+OFFJBEEN_01460	gene	1296				
+OFFJBEEN_01460	CDS	1296				hypothetical protein
+OFFJBEEN_01461	gene	1410				
+OFFJBEEN_01461	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+OFFJBEEN_01462	gene	1155	dxr			
+OFFJBEEN_01462	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+OFFJBEEN_01463	gene	522	rimM			
+OFFJBEEN_01463	CDS	522	rimM			Ribosome maturation factor RimM
+OFFJBEEN_01464	gene	1347	murA			
+OFFJBEEN_01464	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+OFFJBEEN_01465	gene	612				
+OFFJBEEN_01465	CDS	612				hypothetical protein
+OFFJBEEN_01466	gene	690	tsaB			
+OFFJBEEN_01466	CDS	690	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+OFFJBEEN_01467	gene	879				
+OFFJBEEN_01467	CDS	879				hypothetical protein
+OFFJBEEN_01468	gene	1149				
+OFFJBEEN_01468	CDS	1149				hypothetical protein
+OFFJBEEN_01469	gene	576	gmk			
+OFFJBEEN_01469	CDS	576	gmk	2.7.4.8	COG0194	Guanylate kinase
+OFFJBEEN_01470	gene	633	nadD			
+OFFJBEEN_01470	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+OFFJBEEN_01471	gene	717				
+OFFJBEEN_01471	CDS	717				hypothetical protein
+OFFJBEEN_01472	gene	117				
+OFFJBEEN_01472	CDS	117				hypothetical protein
+OFFJBEEN_01473	gene	1077				
+OFFJBEEN_01473	CDS	1077				hypothetical protein
+OFFJBEEN_01474	gene	1341				
+OFFJBEEN_01474	CDS	1341				hypothetical protein
+OFFJBEEN_01475	gene	192				
+OFFJBEEN_01475	CDS	192				hypothetical protein
+OFFJBEEN_01476	gene	1419				
+OFFJBEEN_01476	CDS	1419				hypothetical protein
+OFFJBEEN_01477	gene	1788				
+OFFJBEEN_01477	CDS	1788				hypothetical protein
+OFFJBEEN_01478	gene	462	rplM			
+OFFJBEEN_01478	CDS	462	rplM		COG0102	50S ribosomal protein L13
+OFFJBEEN_01479	gene	387	rpsI			
+OFFJBEEN_01479	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+OFFJBEEN_01480	gene	870	rpsB			
+OFFJBEEN_01480	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+OFFJBEEN_01481	gene	999	TSFM			
+OFFJBEEN_01481	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+OFFJBEEN_01482	gene	618	ycgM			
+OFFJBEEN_01482	CDS	618	ycgM		COG0179	putative protein YcgM
+OFFJBEEN_01483	gene	3567				
+OFFJBEEN_01483	CDS	3567				hypothetical protein
+OFFJBEEN_01484	gene	96				
+OFFJBEEN_01484	CDS	96				hypothetical protein
+OFFJBEEN_01485	gene	1152				
+OFFJBEEN_01485	CDS	1152				hypothetical protein
+OFFJBEEN_01486	gene	477	ispF			
+OFFJBEEN_01486	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+OFFJBEEN_01487	gene	765				
+OFFJBEEN_01487	CDS	765				hypothetical protein
+OFFJBEEN_01488	gene	2229	btuB_6			
+OFFJBEEN_01488	CDS	2229	btuB_6			Vitamin B12 transporter BtuB
+OFFJBEEN_01489	gene	4299				
+OFFJBEEN_01489	CDS	4299				hypothetical protein
+OFFJBEEN_01490	gene	705				
+OFFJBEEN_01490	CDS	705				hypothetical protein
+OFFJBEEN_01491	gene	603				
+OFFJBEEN_01491	CDS	603				hypothetical protein
+OFFJBEEN_01492	gene	330				
+OFFJBEEN_01492	CDS	330				hypothetical protein
+OFFJBEEN_01493	gene	1356	mshA_3			
+OFFJBEEN_01493	CDS	1356	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OFFJBEEN_01494	gene	804				
+OFFJBEEN_01494	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+OFFJBEEN_01495	gene	1857	cptA_2			
+OFFJBEEN_01495	CDS	1857	cptA_2	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+OFFJBEEN_01496	gene	1071				
+OFFJBEEN_01496	CDS	1071				hypothetical protein
+OFFJBEEN_01497	gene	1683				
+OFFJBEEN_01497	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+OFFJBEEN_01498	gene	900	nadK			
+OFFJBEEN_01498	CDS	900	nadK	2.7.1.23		NAD kinase
+OFFJBEEN_01499	gene	510				
+OFFJBEEN_01499	CDS	510				hypothetical protein
+OFFJBEEN_01500	gene	2355	pnp			
+OFFJBEEN_01500	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+OFFJBEEN_01501	gene	1812				
+OFFJBEEN_01501	CDS	1812				hypothetical protein
+OFFJBEEN_01502	gene	1116				
+OFFJBEEN_01502	CDS	1116				hypothetical protein
+OFFJBEEN_01503	gene	390				
+OFFJBEEN_01503	CDS	390				hypothetical protein
+OFFJBEEN_01504	gene	1143				
+OFFJBEEN_01504	CDS	1143				hypothetical protein
+OFFJBEEN_01505	gene	1893				
+OFFJBEEN_01505	CDS	1893				hypothetical protein
+OFFJBEEN_01506	gene	1089				
+OFFJBEEN_01506	CDS	1089				hypothetical protein
+OFFJBEEN_01507	gene	1026				
+OFFJBEEN_01507	CDS	1026				hypothetical protein
+OFFJBEEN_01508	gene	990				
+OFFJBEEN_01508	CDS	990				hypothetical protein
+OFFJBEEN_01509	gene	1152	resA_5			
+OFFJBEEN_01509	CDS	1152	resA_5			Thiol-disulfide oxidoreductase ResA
+OFFJBEEN_01510	gene	417				
+OFFJBEEN_01510	CDS	417				hypothetical protein
+OFFJBEEN_01511	gene	555	nudC_2			
+OFFJBEEN_01511	CDS	555	nudC_2	3.6.1.22		NADH pyrophosphatase
+OFFJBEEN_01512	gene	810				
+OFFJBEEN_01512	CDS	810				hypothetical protein
+OFFJBEEN_01513	gene	699				
+OFFJBEEN_01513	CDS	699				hypothetical protein
+OFFJBEEN_01514	gene	2415	topA			
+OFFJBEEN_01514	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+OFFJBEEN_01515	gene	528	aroK			
+OFFJBEEN_01515	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+OFFJBEEN_01516	gene	1893	speA			
+OFFJBEEN_01516	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+OFFJBEEN_01517	gene	513	sigH			
+OFFJBEEN_01517	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+OFFJBEEN_01518	gene	477				
+OFFJBEEN_01518	CDS	477				hypothetical protein
+OFFJBEEN_01519	gene	792				
+OFFJBEEN_01519	CDS	792				hypothetical protein
+OFFJBEEN_01520	gene	945	ribF			
+OFFJBEEN_01520	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+OFFJBEEN_01521	gene	621				
+OFFJBEEN_01521	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+OFFJBEEN_01522	gene	2604	yoaB			
+OFFJBEEN_01522	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+OFFJBEEN_01523	gene	147				
+OFFJBEEN_01523	CDS	147				hypothetical protein
+OFFJBEEN_01524	gene	3018				
+OFFJBEEN_01524	CDS	3018				hypothetical protein
+OFFJBEEN_01525	gene	2520				
+OFFJBEEN_01525	CDS	2520				hypothetical protein
+OFFJBEEN_01526	gene	1050	nrdB			
+OFFJBEEN_01526	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+OFFJBEEN_01527	gene	612	nreC			
+OFFJBEEN_01527	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+OFFJBEEN_01528	gene	1911				
+OFFJBEEN_01528	CDS	1911				hypothetical protein
+OFFJBEEN_01529	gene	1011				
+OFFJBEEN_01529	CDS	1011				hypothetical protein
+OFFJBEEN_01530	gene	435				
+OFFJBEEN_01530	CDS	435				hypothetical protein
+OFFJBEEN_01531	gene	213				
+OFFJBEEN_01531	CDS	213				hypothetical protein
+OFFJBEEN_01532	gene	435				
+OFFJBEEN_01532	CDS	435				hypothetical protein
+OFFJBEEN_01533	gene	85				
+OFFJBEEN_01533	tRNA	85				tRNA-Leu(caa)
+OFFJBEEN_01534	gene	1095	algA			
+OFFJBEEN_01534	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+OFFJBEEN_01535	gene	1164				
+OFFJBEEN_01535	CDS	1164				hypothetical protein
+OFFJBEEN_01536	gene	1134				
+OFFJBEEN_01536	CDS	1134				hypothetical protein
+OFFJBEEN_01537	gene	1443	tuaB_1			
+OFFJBEEN_01537	CDS	1443	tuaB_1		COG2244	Teichuronic acid biosynthesis protein TuaB
+OFFJBEEN_01538	gene	807	rfbF			
+OFFJBEEN_01538	CDS	807	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+OFFJBEEN_01539	gene	1101	rfbG			
+OFFJBEEN_01539	CDS	1101	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+OFFJBEEN_01540	gene	441				
+OFFJBEEN_01540	CDS	441				hypothetical protein
+OFFJBEEN_01541	gene	138				
+OFFJBEEN_01541	CDS	138				hypothetical protein
+OFFJBEEN_01542	gene	1059				
+OFFJBEEN_01542	CDS	1059				hypothetical protein
+OFFJBEEN_01543	gene	105				
+OFFJBEEN_01543	CDS	105				hypothetical protein
+OFFJBEEN_01544	gene	912	rfbJ			
+OFFJBEEN_01544	CDS	912	rfbJ	1.1.1.341	COG0451	CDP-abequose synthase
+OFFJBEEN_01545	gene	1269				
+OFFJBEEN_01545	CDS	1269				hypothetical protein
+OFFJBEEN_01546	gene	1050	tagF			
+OFFJBEEN_01546	CDS	1050	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+OFFJBEEN_01547	gene	969				
+OFFJBEEN_01547	CDS	969				hypothetical protein
+OFFJBEEN_01548	gene	828	arnC_2			
+OFFJBEEN_01548	CDS	828	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+OFFJBEEN_01549	gene	168				
+OFFJBEEN_01549	CDS	168				hypothetical protein
+OFFJBEEN_01550	gene	174	vat			
+OFFJBEEN_01550	CDS	174	vat	2.3.1.-		Virginiamycin A acetyltransferase
+OFFJBEEN_01551	gene	846				
+OFFJBEEN_01551	CDS	846				hypothetical protein
+OFFJBEEN_01552	gene	1092				
+OFFJBEEN_01552	CDS	1092				hypothetical protein
+OFFJBEEN_01553	gene	1020				
+OFFJBEEN_01553	CDS	1020				hypothetical protein
+OFFJBEEN_01554	gene	927				
+OFFJBEEN_01554	CDS	927				hypothetical protein
+OFFJBEEN_01555	gene	1035	gumH			
+OFFJBEEN_01555	CDS	1035	gumH	2.4.1.252	COG0438	GDP-mannose:cellobiosyl-diphosphopolyprenol alpha-mannosyltransferase
+OFFJBEEN_01556	gene	1215				
+OFFJBEEN_01556	CDS	1215				hypothetical protein
+OFFJBEEN_01557	gene	1155	mshA_4			
+OFFJBEEN_01557	CDS	1155	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+OFFJBEEN_01558	gene	543	dapH_2			
+OFFJBEEN_01558	CDS	543	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+OFFJBEEN_01559	gene	792	tagA			
+OFFJBEEN_01559	CDS	792	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+OFFJBEEN_01560	gene	963				
+OFFJBEEN_01560	CDS	963				hypothetical protein
+OFFJBEEN_01561	gene	1110				
+OFFJBEEN_01561	CDS	1110				hypothetical protein
+OFFJBEEN_01562	gene	105				
+OFFJBEEN_01562	CDS	105				hypothetical protein
+OFFJBEEN_01563	gene	615				
+OFFJBEEN_01563	CDS	615				hypothetical protein
+OFFJBEEN_01564	gene	594	folE			
+OFFJBEEN_01564	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+OFFJBEEN_01565	gene	639				
+OFFJBEEN_01565	CDS	639				hypothetical protein
+OFFJBEEN_01566	gene	2130	tpiA			
+OFFJBEEN_01566	CDS	2130	tpiA			Triosephosphate isomerase
+OFFJBEEN_01567	gene	555				
+OFFJBEEN_01567	CDS	555				hypothetical protein
+OFFJBEEN_01568	gene	459				
+OFFJBEEN_01568	CDS	459				hypothetical protein
+OFFJBEEN_01569	gene	1575	cca			
+OFFJBEEN_01569	CDS	1575	cca	2.7.7.72		CCA-adding enzyme
+OFFJBEEN_01570	gene	1194	ttgA			
+OFFJBEEN_01570	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+OFFJBEEN_01571	gene	3258	bepE			
+OFFJBEEN_01571	CDS	3258	bepE			Efflux pump membrane transporter BepE
+OFFJBEEN_01572	gene	1362	oprM			
+OFFJBEEN_01572	CDS	1362	oprM		COG1538	Outer membrane protein OprM
+OFFJBEEN_01573	gene	774	lpxA_2			
+OFFJBEEN_01573	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+OFFJBEEN_01574	gene	120				
+OFFJBEEN_01574	CDS	120				hypothetical protein
+OFFJBEEN_01575	gene	471				
+OFFJBEEN_01575	CDS	471				hypothetical protein
+OFFJBEEN_01576	gene	1026				
+OFFJBEEN_01576	CDS	1026				hypothetical protein
+OFFJBEEN_01577	gene	1518				
+OFFJBEEN_01577	CDS	1518		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+OFFJBEEN_01578	gene	2307				
+OFFJBEEN_01578	CDS	2307				hypothetical protein
+OFFJBEEN_01579	gene	144				
+OFFJBEEN_01579	CDS	144				hypothetical protein
+OFFJBEEN_01580	gene	76				
+OFFJBEEN_01580	tRNA	76				tRNA-Asn(gtt)
+OFFJBEEN_01581	gene	1734				
+OFFJBEEN_01581	CDS	1734				hypothetical protein
+OFFJBEEN_01582	gene	243				
+OFFJBEEN_01582	CDS	243				hypothetical protein
+OFFJBEEN_01583	gene	1179				
+OFFJBEEN_01583	CDS	1179				hypothetical protein
+OFFJBEEN_01584	gene	1356				
+OFFJBEEN_01584	CDS	1356				hypothetical protein
+OFFJBEEN_01585	gene	936				
+OFFJBEEN_01585	CDS	936				hypothetical protein
+OFFJBEEN_01586	gene	1566				
+OFFJBEEN_01586	CDS	1566				hypothetical protein
+OFFJBEEN_01587	gene	3327				
+OFFJBEEN_01587	CDS	3327				TonB-dependent receptor P26
+OFFJBEEN_01588	gene	291				
+OFFJBEEN_01588	CDS	291				hypothetical protein
+OFFJBEEN_01589	gene	606	rnhB			
+OFFJBEEN_01589	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+OFFJBEEN_01590	gene	1023				
+OFFJBEEN_01590	CDS	1023				hypothetical protein
+OFFJBEEN_01591	gene	2871				
+OFFJBEEN_01591	CDS	2871				hypothetical protein
+OFFJBEEN_01592	gene	2085				
+OFFJBEEN_01592	CDS	2085				hypothetical protein
+OFFJBEEN_01593	gene	1071				
+OFFJBEEN_01593	CDS	1071				hypothetical protein
+OFFJBEEN_01594	gene	507				
+OFFJBEEN_01594	CDS	507				hypothetical protein
+OFFJBEEN_01595	gene	2112	metG			
+OFFJBEEN_01595	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+OFFJBEEN_01596	gene	73				
+OFFJBEEN_01596	tRNA	73				tRNA-Arg(cct)
+OFFJBEEN_01597	gene	450				
+OFFJBEEN_01597	CDS	450				hypothetical protein
+OFFJBEEN_01598	gene	570				
+OFFJBEEN_01598	CDS	570				hypothetical protein
+OFFJBEEN_01599	gene	465	sigE_2			
+OFFJBEEN_01599	CDS	465	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+OFFJBEEN_01600	gene	471				
+OFFJBEEN_01600	CDS	471				hypothetical protein
+OFFJBEEN_01601	gene	1353	sufS			
+OFFJBEEN_01601	CDS	1353	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+OFFJBEEN_01602	gene	5739				
+OFFJBEEN_01602	CDS	5739				hypothetical protein
+OFFJBEEN_01603	gene	408				
+OFFJBEEN_01603	CDS	408				hypothetical protein
+OFFJBEEN_01604	gene	219				
+OFFJBEEN_01604	CDS	219				hypothetical protein
+OFFJBEEN_01605	gene	192				
+OFFJBEEN_01605	CDS	192				hypothetical protein
+OFFJBEEN_01606	gene	207				
+OFFJBEEN_01606	CDS	207				hypothetical protein
+OFFJBEEN_01607	gene	1830				
+OFFJBEEN_01607	CDS	1830				hypothetical protein
+OFFJBEEN_01608	gene	111				
+OFFJBEEN_01608	CDS	111				hypothetical protein
+OFFJBEEN_01609	gene	1788				
+OFFJBEEN_01609	CDS	1788				hypothetical protein
+OFFJBEEN_01610	gene	1917				
+OFFJBEEN_01610	CDS	1917				hypothetical protein
+OFFJBEEN_01611	gene	822				
+OFFJBEEN_01611	CDS	822				hypothetical protein
+OFFJBEEN_01612	gene	795	dpnA			
+OFFJBEEN_01612	CDS	795	dpnA	2.1.1.72		Modification methylase DpnIIB
+OFFJBEEN_01613	gene	438				
+OFFJBEEN_01613	CDS	438				hypothetical protein
+OFFJBEEN_01614	gene	1686	dauA			
+OFFJBEEN_01614	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+OFFJBEEN_01615	gene	1305				
+OFFJBEEN_01615	CDS	1305				hypothetical protein
+OFFJBEEN_01616	gene	993	mdh			
+OFFJBEEN_01616	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+OFFJBEEN_01617	gene	510				
+OFFJBEEN_01617	CDS	510				hypothetical protein
+OFFJBEEN_01618	gene	411				
+OFFJBEEN_01618	CDS	411				hypothetical protein
+OFFJBEEN_01619	gene	2538				
+OFFJBEEN_01619	CDS	2538				hypothetical protein
+OFFJBEEN_01620	gene	1002				
+OFFJBEEN_01620	CDS	1002				hypothetical protein
+OFFJBEEN_01621	gene	837				
+OFFJBEEN_01621	CDS	837				hypothetical protein
+OFFJBEEN_01622	gene	1413				
+OFFJBEEN_01622	CDS	1413				hypothetical protein
+OFFJBEEN_01623	gene	399				
+OFFJBEEN_01623	CDS	399			COG0537	putative HIT-like protein
+OFFJBEEN_01624	gene	465	greA			
+OFFJBEEN_01624	CDS	465	greA		COG0782	Transcription elongation factor GreA
+OFFJBEEN_01625	gene	75				
+OFFJBEEN_01625	tRNA	75				tRNA-Ala(ggc)
+OFFJBEEN_01626	gene	726				
+OFFJBEEN_01626	CDS	726				hypothetical protein
+OFFJBEEN_01627	gene	138				
+OFFJBEEN_01627	CDS	138				hypothetical protein
+OFFJBEEN_01628	gene	1032	cobD_1			
+OFFJBEEN_01628	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+OFFJBEEN_01629	gene	942	cobD_2			
+OFFJBEEN_01629	CDS	942	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+OFFJBEEN_01630	gene	573				
+OFFJBEEN_01630	CDS	573				hypothetical protein
+OFFJBEEN_01631	gene	2130				
+OFFJBEEN_01631	CDS	2130				hypothetical protein
+OFFJBEEN_01632	gene	825				
+OFFJBEEN_01632	CDS	825				hypothetical protein
+OFFJBEEN_01633	gene	696	mprA			
+OFFJBEEN_01633	CDS	696	mprA		COG0745	Response regulator MprA
+OFFJBEEN_01634	gene	1569	sasA_5			
+OFFJBEEN_01634	CDS	1569	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+OFFJBEEN_01635	gene	2070				
+OFFJBEEN_01635	CDS	2070				hypothetical protein
+OFFJBEEN_01636	gene	222				
+OFFJBEEN_01636	CDS	222				hypothetical protein
+OFFJBEEN_01637	gene	555	cobO			
+OFFJBEEN_01637	CDS	555	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+OFFJBEEN_01638	gene	606				
+OFFJBEEN_01638	CDS	606				hypothetical protein
+OFFJBEEN_01639	gene	107				
+OFFJBEEN_01639	rRNA	107				5S ribosomal RNA
+OFFJBEEN_01640	gene	525				
+OFFJBEEN_01640	CDS	525				hypothetical protein
+OFFJBEEN_01641	gene	609				
+OFFJBEEN_01641	CDS	609				IS3 family transposase ISBth167
+OFFJBEEN_01642	gene	1896	sacC			
+OFFJBEEN_01642	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+OFFJBEEN_01643	gene	1155				
+OFFJBEEN_01643	CDS	1155				hypothetical protein
+OFFJBEEN_01644	gene	909	pfkB_1			
+OFFJBEEN_01644	CDS	909	pfkB_1	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+OFFJBEEN_01645	gene	3339				
+OFFJBEEN_01645	CDS	3339				hypothetical protein
+OFFJBEEN_01646	gene	1851				
+OFFJBEEN_01646	CDS	1851				hypothetical protein
+OFFJBEEN_01647	gene	1686				
+OFFJBEEN_01647	CDS	1686				hypothetical protein
+OFFJBEEN_01648	gene	1767				
+OFFJBEEN_01648	CDS	1767				hypothetical protein
+OFFJBEEN_01649	gene	165				
+OFFJBEEN_01649	CDS	165				hypothetical protein
+OFFJBEEN_01650	gene	537				
+OFFJBEEN_01650	CDS	537				hypothetical protein
+OFFJBEEN_01651	gene	819	pdxK			
+OFFJBEEN_01651	CDS	819	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+OFFJBEEN_01652	gene	162				
+OFFJBEEN_01652	CDS	162				hypothetical protein
+OFFJBEEN_01653	gene	1416				
+OFFJBEEN_01653	CDS	1416				hypothetical protein
+OFFJBEEN_01654	gene	2685				
+OFFJBEEN_01654	CDS	2685				hypothetical protein
+OFFJBEEN_01655	gene	1116				
+OFFJBEEN_01655	CDS	1116				hypothetical protein
+OFFJBEEN_01656	gene	1563				
+OFFJBEEN_01656	CDS	1563				hypothetical protein
+OFFJBEEN_01657	gene	444				
+OFFJBEEN_01657	CDS	444				hypothetical protein
+OFFJBEEN_01658	gene	1545				
+OFFJBEEN_01658	CDS	1545				hypothetical protein
+OFFJBEEN_01659	gene	3537				
+OFFJBEEN_01659	CDS	3537				hypothetical protein
+OFFJBEEN_01660	gene	672				
+OFFJBEEN_01660	CDS	672				hypothetical protein
+OFFJBEEN_01661	gene	519				
+OFFJBEEN_01661	CDS	519				hypothetical protein
+OFFJBEEN_01662	gene	885				
+OFFJBEEN_01662	CDS	885				hypothetical protein
+OFFJBEEN_01663	gene	1008				
+OFFJBEEN_01663	CDS	1008				hypothetical protein
+OFFJBEEN_01664	gene	627	trmR			
+OFFJBEEN_01664	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+OFFJBEEN_01665	gene	420	aroQ1			
+OFFJBEEN_01665	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+OFFJBEEN_01666	gene	786				
+OFFJBEEN_01666	CDS	786				hypothetical protein
+OFFJBEEN_01667	gene	2049	bepA_4			
+OFFJBEEN_01667	CDS	2049	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+OFFJBEEN_01668	gene	2520				
+OFFJBEEN_01668	CDS	2520				hypothetical protein
+OFFJBEEN_01669	gene	681				
+OFFJBEEN_01669	CDS	681				hypothetical protein
+OFFJBEEN_01670	gene	492				
+OFFJBEEN_01670	CDS	492				hypothetical protein
+OFFJBEEN_01671	gene	189				
+OFFJBEEN_01671	CDS	189				hypothetical protein
+OFFJBEEN_01672	gene	204				
+OFFJBEEN_01672	CDS	204				hypothetical protein
+OFFJBEEN_01673	gene	558				
+OFFJBEEN_01673	CDS	558				hypothetical protein
+OFFJBEEN_01674	gene	636				
+OFFJBEEN_01674	CDS	636				hypothetical protein
+OFFJBEEN_01675	gene	168				
+OFFJBEEN_01675	CDS	168				hypothetical protein
+OFFJBEEN_01676	gene	552				
+OFFJBEEN_01676	CDS	552				hypothetical protein
+OFFJBEEN_01677	gene	74				
+OFFJBEEN_01677	tRNA	74				tRNA-Phe(gaa)
+OFFJBEEN_01678	gene	75				
+OFFJBEEN_01678	tRNA	75				tRNA-Pro(cgg)
+OFFJBEEN_01679	gene	960				
+OFFJBEEN_01679	CDS	960				putative epimerase/dehydratase
+OFFJBEEN_01680	gene	1188	kbl			
+OFFJBEEN_01680	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+OFFJBEEN_01681	gene	477	argR			
+OFFJBEEN_01681	CDS	477	argR		COG1438	Arginine repressor
+OFFJBEEN_01682	gene	717	ybhL			
+OFFJBEEN_01682	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+OFFJBEEN_01683	gene	756				
+OFFJBEEN_01683	CDS	756				hypothetical protein
+OFFJBEEN_01684	gene	726				
+OFFJBEEN_01684	CDS	726				hypothetical protein
+OFFJBEEN_01685	gene	1311	murF			
+OFFJBEEN_01685	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+OFFJBEEN_01686	gene	885	folP			
+OFFJBEEN_01686	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+OFFJBEEN_01687	gene	765	cdaA			
+OFFJBEEN_01687	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+OFFJBEEN_01688	gene	1008	pta_2			
+OFFJBEEN_01688	CDS	1008	pta_2	2.3.1.8		Phosphate acetyltransferase
+OFFJBEEN_01689	gene	1194	ackA			
+OFFJBEEN_01689	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+OFFJBEEN_01690	gene	774	lpxH			
+OFFJBEEN_01690	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+OFFJBEEN_01691	gene	321	sufT			
+OFFJBEEN_01691	CDS	321	sufT			Fe-S protein maturation auxiliary factor SufT
+OFFJBEEN_01692	gene	702				
+OFFJBEEN_01692	CDS	702				hypothetical protein
+OFFJBEEN_01693	gene	1104				
+OFFJBEEN_01693	CDS	1104				hypothetical protein
+OFFJBEEN_01694	gene	525	efp			
+OFFJBEEN_01694	CDS	525	efp		COG0231	Elongation factor P
+OFFJBEEN_01695	gene	222				
+OFFJBEEN_01695	CDS	222				hypothetical protein
+OFFJBEEN_01696	gene	825				
+OFFJBEEN_01696	CDS	825				hypothetical protein
+OFFJBEEN_01697	gene	1113	rluD_2			
+OFFJBEEN_01697	CDS	1113	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+OFFJBEEN_01698	gene	993	ddlA			
+OFFJBEEN_01698	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+OFFJBEEN_01699	gene	1176				
+OFFJBEEN_01699	CDS	1176				hypothetical protein
+OFFJBEEN_01700	gene	681				
+OFFJBEEN_01700	CDS	681				hypothetical protein
+OFFJBEEN_01701	gene	888				
+OFFJBEEN_01701	CDS	888				hypothetical protein
+OFFJBEEN_01702	gene	438				
+OFFJBEEN_01702	CDS	438				hypothetical protein
+OFFJBEEN_01703	gene	516				
+OFFJBEEN_01703	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+OFFJBEEN_01704	gene	138				
+OFFJBEEN_01704	CDS	138				hypothetical protein
+OFFJBEEN_01705	gene	1122	prfB			
+OFFJBEEN_01705	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+OFFJBEEN_01706	gene	1809				
+OFFJBEEN_01706	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+OFFJBEEN_01707	gene	678				
+OFFJBEEN_01707	CDS	678				hypothetical protein
+OFFJBEEN_01708	gene	444				
+OFFJBEEN_01708	CDS	444				hypothetical protein
+OFFJBEEN_01709	gene	126				
+OFFJBEEN_01709	CDS	126				hypothetical protein
+OFFJBEEN_01710	gene	840				
+OFFJBEEN_01710	CDS	840				hypothetical protein
+OFFJBEEN_01711	gene	621				
+OFFJBEEN_01711	CDS	621			COG2826	IS30 family transposase IS4351
+OFFJBEEN_01712	gene	786				
+OFFJBEEN_01712	CDS	786				IS982 family transposase IS195
+OFFJBEEN_01713	gene	372	rlpA			
+OFFJBEEN_01713	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+OFFJBEEN_01714	gene	1344	gdhB			
+OFFJBEEN_01714	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+OFFJBEEN_01715	gene	387	nudG			
+OFFJBEEN_01715	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+OFFJBEEN_01716	gene	4716	rep_2			
+OFFJBEEN_01716	CDS	4716	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+OFFJBEEN_01717	gene	1371				
+OFFJBEEN_01717	CDS	1371				hypothetical protein
+OFFJBEEN_01718	gene	126				
+OFFJBEEN_01718	CDS	126				hypothetical protein
+OFFJBEEN_01719	gene	834				
+OFFJBEEN_01719	CDS	834				hypothetical protein
+OFFJBEEN_01720	gene	471				
+OFFJBEEN_01720	CDS	471				hypothetical protein
+OFFJBEEN_01721	gene	993	rpoA			
+OFFJBEEN_01721	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+OFFJBEEN_01722	gene	609	rpsD			
+OFFJBEEN_01722	CDS	609	rpsD			30S ribosomal protein S4
+OFFJBEEN_01723	gene	387	rpsK			
+OFFJBEEN_01723	CDS	387	rpsK			30S ribosomal protein S11
+OFFJBEEN_01724	gene	381	rpsM			
+OFFJBEEN_01724	CDS	381	rpsM			30S ribosomal protein S13
+OFFJBEEN_01725	gene	117	ykgO			
+OFFJBEEN_01725	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+OFFJBEEN_01726	gene	219	infA			
+OFFJBEEN_01726	CDS	219	infA			Translation initiation factor IF-1
+OFFJBEEN_01727	gene	750	map_2			
+OFFJBEEN_01727	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+OFFJBEEN_01728	gene	1338	secY			
+OFFJBEEN_01728	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+OFFJBEEN_01729	gene	447	rplO			
+OFFJBEEN_01729	CDS	447	rplO		COG0200	50S ribosomal protein L15
+OFFJBEEN_01730	gene	177	rpmD			
+OFFJBEEN_01730	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+OFFJBEEN_01731	gene	516	rpsE			
+OFFJBEEN_01731	CDS	516	rpsE		COG0098	30S ribosomal protein S5
+OFFJBEEN_01732	gene	345	rplR			
+OFFJBEEN_01732	CDS	345	rplR		COG0256	50S ribosomal protein L18
+OFFJBEEN_01733	gene	567	rplF			
+OFFJBEEN_01733	CDS	567	rplF		COG0097	50S ribosomal protein L6
+OFFJBEEN_01734	gene	396	rpsH			
+OFFJBEEN_01734	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+OFFJBEEN_01735	gene	303	rpsN			
+OFFJBEEN_01735	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+OFFJBEEN_01736	gene	555	rplE			
+OFFJBEEN_01736	CDS	555	rplE		COG0094	50S ribosomal protein L5
+OFFJBEEN_01737	gene	321	rplX			
+OFFJBEEN_01737	CDS	321	rplX		COG0198	50S ribosomal protein L24
+OFFJBEEN_01738	gene	366	rplN			
+OFFJBEEN_01738	CDS	366	rplN		COG0093	50S ribosomal protein L14
+OFFJBEEN_01739	gene	258	rpsQ			
+OFFJBEEN_01739	CDS	258	rpsQ			30S ribosomal protein S17
+OFFJBEEN_01740	gene	195	rpmC			
+OFFJBEEN_01740	CDS	195	rpmC			50S ribosomal protein L29
+OFFJBEEN_01741	gene	429	rplP			
+OFFJBEEN_01741	CDS	429	rplP		COG0197	50S ribosomal protein L16
+OFFJBEEN_01742	gene	735	rpsC			
+OFFJBEEN_01742	CDS	735	rpsC		COG0092	30S ribosomal protein S3
+OFFJBEEN_01743	gene	405				
+OFFJBEEN_01743	CDS	405				hypothetical protein
+OFFJBEEN_01744	gene	267	rpsS			
+OFFJBEEN_01744	CDS	267	rpsS			30S ribosomal protein S19
+OFFJBEEN_01745	gene	825	rplB			
+OFFJBEEN_01745	CDS	825	rplB		COG0090	50S ribosomal protein L2
+OFFJBEEN_01746	gene	294	rplW			
+OFFJBEEN_01746	CDS	294	rplW		COG0089	50S ribosomal protein L23
+OFFJBEEN_01747	gene	630	rplD			
+OFFJBEEN_01747	CDS	630	rplD			50S ribosomal protein L4
+OFFJBEEN_01748	gene	615	rplC			
+OFFJBEEN_01748	CDS	615	rplC		COG0087	50S ribosomal protein L3
+OFFJBEEN_01749	gene	306	rpsJ			
+OFFJBEEN_01749	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+OFFJBEEN_01750	gene	2127	fusA_2			
+OFFJBEEN_01750	CDS	2127	fusA_2		COG0480	Elongation factor G
+OFFJBEEN_01751	gene	477	rpsG			
+OFFJBEEN_01751	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+OFFJBEEN_01752	gene	381	rpsL			
+OFFJBEEN_01752	CDS	381	rpsL			30S ribosomal protein S12
+OFFJBEEN_01753	gene	693				
+OFFJBEEN_01753	CDS	693				hypothetical protein
+OFFJBEEN_01754	gene	2160				
+OFFJBEEN_01754	CDS	2160				hypothetical protein
+OFFJBEEN_01755	gene	360				
+OFFJBEEN_01755	CDS	360				hypothetical protein
+OFFJBEEN_01756	gene	1074				
+OFFJBEEN_01756	CDS	1074				hypothetical protein
+OFFJBEEN_01757	gene	831				
+OFFJBEEN_01757	CDS	831				hypothetical protein
+OFFJBEEN_01758	gene	720	tarI			
+OFFJBEEN_01758	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+OFFJBEEN_01759	gene	987	fcl_2			
+OFFJBEEN_01759	CDS	987	fcl_2	1.1.1.271		GDP-L-fucose synthase
+OFFJBEEN_01760	gene	927				
+OFFJBEEN_01760	CDS	927				hypothetical protein
+OFFJBEEN_01761	gene	108				
+OFFJBEEN_01761	CDS	108				hypothetical protein
+OFFJBEEN_01762	gene	2385	btuB_7			
+OFFJBEEN_01762	CDS	2385	btuB_7			Vitamin B12 transporter BtuB
+OFFJBEEN_01763	gene	1233				
+OFFJBEEN_01763	CDS	1233				hypothetical protein
+OFFJBEEN_01764	gene	615				
+OFFJBEEN_01764	CDS	615				hypothetical protein
+OFFJBEEN_01765	gene	969				
+OFFJBEEN_01765	CDS	969				hypothetical protein
+OFFJBEEN_01766	gene	2100	recG			
+OFFJBEEN_01766	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+OFFJBEEN_01767	gene	711	ispD			
+OFFJBEEN_01767	CDS	711	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+OFFJBEEN_01768	gene	1299				
+OFFJBEEN_01768	CDS	1299				hypothetical protein
+OFFJBEEN_01769	gene	1032	cytR			
+OFFJBEEN_01769	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+OFFJBEEN_01770	gene	3081	susC			
+OFFJBEEN_01770	CDS	3081	susC			TonB-dependent receptor SusC
+OFFJBEEN_01771	gene	1617	susD			
+OFFJBEEN_01771	CDS	1617	susD			Starch-binding protein SusD
+OFFJBEEN_01772	gene	1122	susE			
+OFFJBEEN_01772	CDS	1122	susE			Outer membrane protein SusE
+OFFJBEEN_01773	gene	1092	susF			
+OFFJBEEN_01773	CDS	1092	susF			Outer membrane protein SusF
+OFFJBEEN_01774	gene	2058				
+OFFJBEEN_01774	CDS	2058				hypothetical protein
+OFFJBEEN_01775	gene	1218				
+OFFJBEEN_01775	CDS	1218				hypothetical protein
+OFFJBEEN_01776	gene	351				
+OFFJBEEN_01776	CDS	351				hypothetical protein
+OFFJBEEN_01777	gene	1020				
+OFFJBEEN_01777	CDS	1020				hypothetical protein
+OFFJBEEN_01778	gene	1332	mtaB			
+OFFJBEEN_01778	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+OFFJBEEN_01779	gene	195				
+OFFJBEEN_01779	CDS	195				hypothetical protein
+OFFJBEEN_01780	gene	207				
+OFFJBEEN_01780	CDS	207				hypothetical protein
+OFFJBEEN_01781	gene	1779	rpsA			
+OFFJBEEN_01781	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+OFFJBEEN_01782	gene	273				
+OFFJBEEN_01782	CDS	273				hypothetical protein
+OFFJBEEN_01783	gene	873	sigA_2			
+OFFJBEEN_01783	CDS	873	sigA_2		COG0568	RNA polymerase sigma factor SigA
+OFFJBEEN_01784	gene	780	zupT			
+OFFJBEEN_01784	CDS	780	zupT		COG0428	Zinc transporter ZupT
+OFFJBEEN_01785	gene	1011	gapA			
+OFFJBEEN_01785	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+OFFJBEEN_01786	gene	423	mscL			
+OFFJBEEN_01786	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+OFFJBEEN_01787	gene	1038	lplJ			
+OFFJBEEN_01787	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+OFFJBEEN_01788	gene	1095	gcvT			
+OFFJBEEN_01788	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+OFFJBEEN_01789	gene	387	gcvH			
+OFFJBEEN_01789	CDS	387	gcvH			Glycine cleavage system H protein
+OFFJBEEN_01790	gene	1326	gcvPA			
+OFFJBEEN_01790	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+OFFJBEEN_01791	gene	1509	gcvPB			
+OFFJBEEN_01791	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+OFFJBEEN_01792	gene	1314	pdhD			
+OFFJBEEN_01792	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+OFFJBEEN_01793	gene	855				
+OFFJBEEN_01793	CDS	855				hypothetical protein
+OFFJBEEN_01794	gene	339				
+OFFJBEEN_01794	CDS	339				hypothetical protein
+OFFJBEEN_01795	gene	459	ogt			
+OFFJBEEN_01795	CDS	459	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+OFFJBEEN_01796	gene	1566	guaA			
+OFFJBEEN_01796	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+OFFJBEEN_01797	gene	726	murU			
+OFFJBEEN_01797	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+OFFJBEEN_01798	gene	75				
+OFFJBEEN_01798	tRNA	75				tRNA-Arg(acg)
+OFFJBEEN_01799	gene	621				
+OFFJBEEN_01799	CDS	621				hypothetical protein
+OFFJBEEN_01800	gene	1278	rarA			
+OFFJBEEN_01800	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+OFFJBEEN_01801	gene	813				
+OFFJBEEN_01801	CDS	813				hypothetical protein
+OFFJBEEN_01802	gene	801				
+OFFJBEEN_01802	CDS	801				hypothetical protein
+OFFJBEEN_01803	gene	981				
+OFFJBEEN_01803	CDS	981			COG1702	PhoH-like protein
+OFFJBEEN_01804	gene	981	purC			
+OFFJBEEN_01804	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+OFFJBEEN_01805	gene	735	menG			
+OFFJBEEN_01805	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+OFFJBEEN_01806	gene	741	aroE			
+OFFJBEEN_01806	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+OFFJBEEN_01807	gene	1203	purM			
+OFFJBEEN_01807	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+OFFJBEEN_01808	gene	1113	prfA			
+OFFJBEEN_01808	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+OFFJBEEN_01809	gene	825	pyrF			
+OFFJBEEN_01809	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+OFFJBEEN_01810	gene	108				
+OFFJBEEN_01810	CDS	108				hypothetical protein
+OFFJBEEN_01811	gene	498	yrdA			
+OFFJBEEN_01811	CDS	498	yrdA		COG0663	Protein YrdA
+OFFJBEEN_01812	gene	3030				
+OFFJBEEN_01812	CDS	3030				hypothetical protein
+OFFJBEEN_01813	gene	2295				
+OFFJBEEN_01813	CDS	2295				hypothetical protein
+OFFJBEEN_01814	gene	1506				
+OFFJBEEN_01814	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+OFFJBEEN_01815	gene	147				
+OFFJBEEN_01815	CDS	147				hypothetical protein
+OFFJBEEN_01816	gene	1374	tpl			
+OFFJBEEN_01816	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+OFFJBEEN_01817	gene	1674	aspT_2			
+OFFJBEEN_01817	CDS	1674	aspT_2			Aspartate/alanine antiporter
+OFFJBEEN_01818	gene	1008	ykoT			
+OFFJBEEN_01818	CDS	1008	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+OFFJBEEN_01819	gene	1020	lpxL			
+OFFJBEEN_01819	CDS	1020	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+OFFJBEEN_01820	gene	807				
+OFFJBEEN_01820	CDS	807				hypothetical protein
+OFFJBEEN_01821	gene	1968				
+OFFJBEEN_01821	CDS	1968				hypothetical protein
+OFFJBEEN_01822	gene	1560				
+OFFJBEEN_01822	CDS	1560				hypothetical protein
+OFFJBEEN_01823	gene	594				
+OFFJBEEN_01823	CDS	594				hypothetical protein
+OFFJBEEN_01824	gene	2613				
+OFFJBEEN_01824	CDS	2613				hypothetical protein
+OFFJBEEN_01825	gene	843	murI			
+OFFJBEEN_01825	CDS	843	murI	5.1.1.3		Glutamate racemase
+OFFJBEEN_01826	gene	633				
+OFFJBEEN_01826	CDS	633				hypothetical protein
+OFFJBEEN_01827	gene	501	skp			
+OFFJBEEN_01827	CDS	501	skp		COG2825	Chaperone protein Skp
+OFFJBEEN_01828	gene	513				
+OFFJBEEN_01828	CDS	513				hypothetical protein
+OFFJBEEN_01829	gene	2616	bamA_3			
+OFFJBEEN_01829	CDS	2616	bamA_3			Outer membrane protein assembly factor BamA
+OFFJBEEN_01830	gene	750	ispU			
+OFFJBEEN_01830	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+OFFJBEEN_01831	gene	705				
+OFFJBEEN_01831	CDS	705				hypothetical protein
+OFFJBEEN_01832	gene	1419				
+OFFJBEEN_01832	CDS	1419				hypothetical protein
+OFFJBEEN_01833	gene	387				
+OFFJBEEN_01833	CDS	387				hypothetical protein
+OFFJBEEN_01834	gene	1788	ftsH_2			
+OFFJBEEN_01834	CDS	1788	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+OFFJBEEN_01835	gene	936	eamA			
+OFFJBEEN_01835	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+OFFJBEEN_01836	gene	1260	kdtA			
+OFFJBEEN_01836	CDS	1260	kdtA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+OFFJBEEN_01837	gene	1536	gltX			
+OFFJBEEN_01837	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+OFFJBEEN_01838	gene	2055	rny_2			
+OFFJBEEN_01838	CDS	2055	rny_2	3.1.-.-		Ribonuclease Y
+OFFJBEEN_01839	gene	1485				
+OFFJBEEN_01839	CDS	1485				hypothetical protein
+OFFJBEEN_01840	gene	900				
+OFFJBEEN_01840	CDS	900				hypothetical protein
+OFFJBEEN_01841	gene	2271	priA			
+OFFJBEEN_01841	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+OFFJBEEN_01842	gene	90				
+OFFJBEEN_01842	CDS	90				hypothetical protein
+OFFJBEEN_01843	gene	984	menF_2			
+OFFJBEEN_01843	CDS	984	menF_2	5.4.4.2		Isochorismate synthase MenF
+OFFJBEEN_01844	gene	597				
+OFFJBEEN_01844	CDS	597				hypothetical protein
+OFFJBEEN_01845	gene	600				
+OFFJBEEN_01845	CDS	600				hypothetical protein
+OFFJBEEN_01846	gene	1026				
+OFFJBEEN_01846	CDS	1026				hypothetical protein
+OFFJBEEN_01847	gene	1557				
+OFFJBEEN_01847	CDS	1557				hypothetical protein
+OFFJBEEN_01848	gene	816				
+OFFJBEEN_01848	CDS	816				hypothetical protein
+OFFJBEEN_01849	gene	1458	egtB			
+OFFJBEEN_01849	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+OFFJBEEN_01850	gene	1035				
+OFFJBEEN_01850	CDS	1035				hypothetical protein
+	repeat_region	2739				
+OFFJBEEN_01851	gene	306	cas2			
+OFFJBEEN_01851	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+OFFJBEEN_01852	gene	933	cas1			
+OFFJBEEN_01852	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+OFFJBEEN_01853	gene	4182	cas9			
+OFFJBEEN_01853	CDS	4182	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+OFFJBEEN_01854	gene	1032				
+OFFJBEEN_01854	CDS	1032				hypothetical protein
+OFFJBEEN_01855	gene	756				
+OFFJBEEN_01855	CDS	756				hypothetical protein
+OFFJBEEN_01856	gene	693				
+OFFJBEEN_01856	CDS	693				hypothetical protein
+OFFJBEEN_01857	gene	75				
+OFFJBEEN_01857	tRNA	75				tRNA-Arg(ccg)
+OFFJBEEN_01858	gene	1224	pepT			
+OFFJBEEN_01858	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+OFFJBEEN_01859	gene	2256	kefB_2			
+OFFJBEEN_01859	CDS	2256	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+OFFJBEEN_01860	gene	1776				
+OFFJBEEN_01860	CDS	1776				hypothetical protein
+OFFJBEEN_01861	gene	585				
+OFFJBEEN_01861	CDS	585				hypothetical protein
+OFFJBEEN_01862	gene	2772	lptD_2			
+OFFJBEEN_01862	CDS	2772	lptD_2			LPS-assembly protein LptD
+OFFJBEEN_01863	gene	759	ppm1			
+OFFJBEEN_01863	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+OFFJBEEN_01864	gene	762				
+OFFJBEEN_01864	CDS	762				hypothetical protein
+OFFJBEEN_01865	gene	1209	rhaR_1			
+OFFJBEEN_01865	CDS	1209	rhaR_1			HTH-type transcriptional activator RhaR
+OFFJBEEN_01866	gene	675				
+OFFJBEEN_01866	CDS	675				hypothetical protein
+OFFJBEEN_01867	gene	756				
+OFFJBEEN_01867	CDS	756				hypothetical protein
+OFFJBEEN_01868	gene	1224				
+OFFJBEEN_01868	CDS	1224				hypothetical protein
+OFFJBEEN_01869	gene	1221				
+OFFJBEEN_01869	CDS	1221				hypothetical protein
+OFFJBEEN_01870	gene	705	yknY_3			
+OFFJBEEN_01870	CDS	705	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+OFFJBEEN_01871	gene	1152				
+OFFJBEEN_01871	CDS	1152				hypothetical protein
+OFFJBEEN_01872	gene	1278				
+OFFJBEEN_01872	CDS	1278				hypothetical protein
+OFFJBEEN_01873	gene	1179				
+OFFJBEEN_01873	CDS	1179				hypothetical protein
+OFFJBEEN_01874	gene	1329	allB			
+OFFJBEEN_01874	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+OFFJBEEN_01875	gene	849				
+OFFJBEEN_01875	CDS	849				hypothetical protein
+OFFJBEEN_01876	gene	429				
+OFFJBEEN_01876	CDS	429				hypothetical protein
+OFFJBEEN_01877	gene	339				
+OFFJBEEN_01877	CDS	339				hypothetical protein
+OFFJBEEN_01878	gene	465	queF			
+OFFJBEEN_01878	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+OFFJBEEN_01879	gene	1017				
+OFFJBEEN_01879	CDS	1017				hypothetical protein
+OFFJBEEN_01880	gene	123				
+OFFJBEEN_01880	CDS	123				hypothetical protein
+OFFJBEEN_01881	gene	132				
+OFFJBEEN_01881	CDS	132				hypothetical protein
+OFFJBEEN_01882	gene	165				
+OFFJBEEN_01882	CDS	165				hypothetical protein
+OFFJBEEN_01883	gene	360	yjbR			
+OFFJBEEN_01883	CDS	360	yjbR		COG2315	putative protein YjbR
+OFFJBEEN_01884	gene	1344	glyA			
+OFFJBEEN_01884	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+OFFJBEEN_01885	gene	1116	thiL			
+OFFJBEEN_01885	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+OFFJBEEN_01886	gene	660	punA			
+OFFJBEEN_01886	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+OFFJBEEN_01887	gene	1173	lpxK			
+OFFJBEEN_01887	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+OFFJBEEN_01888	gene	1767	sppA			
+OFFJBEEN_01888	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+OFFJBEEN_01889	gene	735				
+OFFJBEEN_01889	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+OFFJBEEN_01890	gene	549				
+OFFJBEEN_01890	CDS	549				hypothetical protein
+OFFJBEEN_01891	gene	249				
+OFFJBEEN_01891	CDS	249				hypothetical protein
+OFFJBEEN_01892	gene	780				
+OFFJBEEN_01892	CDS	780				hypothetical protein
+OFFJBEEN_01893	gene	405				
+OFFJBEEN_01893	CDS	405				hypothetical protein
+OFFJBEEN_01894	gene	978				
+OFFJBEEN_01894	CDS	978				hypothetical protein
+OFFJBEEN_01895	gene	621				
+OFFJBEEN_01895	CDS	621				hypothetical protein
+OFFJBEEN_01896	gene	492				
+OFFJBEEN_01896	CDS	492				hypothetical protein
+OFFJBEEN_01897	gene	675				
+OFFJBEEN_01897	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+OFFJBEEN_01898	gene	954				
+OFFJBEEN_01898	CDS	954				hypothetical protein
+OFFJBEEN_01899	gene	999	dagK			
+OFFJBEEN_01899	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+OFFJBEEN_01900	gene	1329	nupG			
+OFFJBEEN_01900	CDS	1329	nupG			Nucleoside permease NupG
+OFFJBEEN_01901	gene	564				
+OFFJBEEN_01901	CDS	564				hypothetical protein
+OFFJBEEN_01902	gene	732	rsmE			
+OFFJBEEN_01902	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+OFFJBEEN_01903	gene	1341				
+OFFJBEEN_01903	CDS	1341				hypothetical protein
+OFFJBEEN_01904	gene	645	ytrE			
+OFFJBEEN_01904	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+OFFJBEEN_01905	gene	1200				
+OFFJBEEN_01905	CDS	1200				hypothetical protein
+OFFJBEEN_01906	gene	3288				
+OFFJBEEN_01906	CDS	3288				hypothetical protein
+OFFJBEEN_01907	gene	339				
+OFFJBEEN_01907	CDS	339				hypothetical protein
+OFFJBEEN_01908	gene	591				
+OFFJBEEN_01908	CDS	591				hypothetical protein
+OFFJBEEN_01909	gene	237				
+OFFJBEEN_01909	CDS	237				hypothetical protein
+OFFJBEEN_01910	gene	2736				
+OFFJBEEN_01910	CDS	2736				hypothetical protein
+OFFJBEEN_01911	gene	2220	susB			
+OFFJBEEN_01911	CDS	2220	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+OFFJBEEN_01912	gene	1959	pulA			
+OFFJBEEN_01912	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+OFFJBEEN_01913	gene	1995	glgB_2			
+OFFJBEEN_01913	CDS	1995	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+OFFJBEEN_01914	gene	2148	dcp			
+OFFJBEEN_01914	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+OFFJBEEN_01915	gene	576	srpC_1			
+OFFJBEEN_01915	CDS	576	srpC_1		COG2059	putative chromate transport protein
+OFFJBEEN_01916	gene	552	srpC_2			
+OFFJBEEN_01916	CDS	552	srpC_2		COG2059	putative chromate transport protein
+OFFJBEEN_01917	gene	4008	purL			
+OFFJBEEN_01917	CDS	4008	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+OFFJBEEN_01918	gene	819	pal_4			
+OFFJBEEN_01918	CDS	819	pal_4			Peptidoglycan-associated lipoprotein
+OFFJBEEN_01919	gene	1695				
+OFFJBEEN_01919	CDS	1695				hypothetical protein
+OFFJBEEN_01920	gene	1308				
+OFFJBEEN_01920	CDS	1308				hypothetical protein
+OFFJBEEN_01921	gene	1287				
+OFFJBEEN_01921	CDS	1287				hypothetical protein
+OFFJBEEN_01922	gene	612				
+OFFJBEEN_01922	CDS	612				hypothetical protein
+OFFJBEEN_01923	gene	855				
+OFFJBEEN_01923	CDS	855				hypothetical protein
+OFFJBEEN_01924	gene	1188	patB			
+OFFJBEEN_01924	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+OFFJBEEN_01925	gene	246				
+OFFJBEEN_01925	CDS	246				hypothetical protein
+OFFJBEEN_01926	gene	960				
+OFFJBEEN_01926	CDS	960				hypothetical protein
+OFFJBEEN_01927	gene	993	rfbB_2			
+OFFJBEEN_01927	CDS	993	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+OFFJBEEN_01928	gene	2238	rnr			
+OFFJBEEN_01928	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+OFFJBEEN_01929	gene	864				
+OFFJBEEN_01929	CDS	864				hypothetical protein
+OFFJBEEN_01930	gene	654				
+OFFJBEEN_01930	CDS	654				hypothetical protein
+OFFJBEEN_01931	gene	1122				
+OFFJBEEN_01931	CDS	1122				hypothetical protein
+OFFJBEEN_01932	gene	714				
+OFFJBEEN_01932	CDS	714				hypothetical protein
+OFFJBEEN_01933	gene	645				
+OFFJBEEN_01933	CDS	645				hypothetical protein
+OFFJBEEN_01934	gene	1632				
+OFFJBEEN_01934	CDS	1632				hypothetical protein
+OFFJBEEN_01935	gene	666				
+OFFJBEEN_01935	CDS	666				hypothetical protein
+OFFJBEEN_01936	gene	2784	cobQ			
+OFFJBEEN_01936	CDS	2784	cobQ			Cobyric acid synthase
+OFFJBEEN_01937	gene	2178	btuB_8			
+OFFJBEEN_01937	CDS	2178	btuB_8			Vitamin B12 transporter BtuB
+OFFJBEEN_01938	gene	2133	btuB_9			
+OFFJBEEN_01938	CDS	2133	btuB_9			Vitamin B12 transporter BtuB
+OFFJBEEN_01939	gene	1140	cbiKp			
+OFFJBEEN_01939	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+OFFJBEEN_01940	gene	291				
+OFFJBEEN_01940	CDS	291				hypothetical protein
+OFFJBEEN_01941	gene	1491				
+OFFJBEEN_01941	CDS	1491				hypothetical protein
+OFFJBEEN_01942	gene	636				
+OFFJBEEN_01942	CDS	636				hypothetical protein
+OFFJBEEN_01943	gene	630				
+OFFJBEEN_01943	CDS	630				hypothetical protein
+OFFJBEEN_01944	gene	321				
+OFFJBEEN_01944	CDS	321				hypothetical protein
+OFFJBEEN_01945	gene	1089	trpS2			
+OFFJBEEN_01945	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+OFFJBEEN_01946	gene	4329	rpoC			
+OFFJBEEN_01946	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+OFFJBEEN_01947	gene	3813	rpoB			
+OFFJBEEN_01947	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+OFFJBEEN_01948	gene	378	rplL			
+OFFJBEEN_01948	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+OFFJBEEN_01949	gene	516	rplJ			
+OFFJBEEN_01949	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+OFFJBEEN_01950	gene	693	rplA			
+OFFJBEEN_01950	CDS	693	rplA			50S ribosomal protein L1
+OFFJBEEN_01951	gene	438	rplK			
+OFFJBEEN_01951	CDS	438	rplK			50S ribosomal protein L11
+OFFJBEEN_01952	gene	543	nusG			
+OFFJBEEN_01952	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+OFFJBEEN_01953	gene	74				
+OFFJBEEN_01953	tRNA	74				tRNA-Trp(cca)
+OFFJBEEN_01954	gene	1185	tufB			
+OFFJBEEN_01954	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+OFFJBEEN_01955	gene	73				
+OFFJBEEN_01955	tRNA	73				tRNA-Thr(ggt)
+OFFJBEEN_01956	gene	74				
+OFFJBEEN_01956	tRNA	74				tRNA-Gly(tcc)
+OFFJBEEN_01957	gene	84				
+OFFJBEEN_01957	tRNA	84				tRNA-Tyr(gta)
+OFFJBEEN_01958	gene	75				
+OFFJBEEN_01958	tRNA	75				tRNA-Thr(tgt)
+OFFJBEEN_01959	gene	300	hpf			
+OFFJBEEN_01959	CDS	300	hpf			Ribosome hibernation promoting factor
+OFFJBEEN_01960	gene	882	xerD_2			
+OFFJBEEN_01960	CDS	882	xerD_2			Tyrosine recombinase XerD
+OFFJBEEN_01961	gene	588				
+OFFJBEEN_01961	CDS	588				hypothetical protein
+OFFJBEEN_01962	gene	1281				
+OFFJBEEN_01962	CDS	1281				hypothetical protein
+OFFJBEEN_01963	gene	2004				
+OFFJBEEN_01963	CDS	2004				hypothetical protein
+OFFJBEEN_01964	gene	1305				
+OFFJBEEN_01964	CDS	1305				hypothetical protein
+OFFJBEEN_01965	gene	780				
+OFFJBEEN_01965	CDS	780				hypothetical protein
+OFFJBEEN_01966	gene	2361				
+OFFJBEEN_01966	CDS	2361				hypothetical protein
+OFFJBEEN_01967	gene	1728				
+OFFJBEEN_01967	CDS	1728			COG1132	putative ABC transporter ATP-binding protein
+OFFJBEEN_01968	gene	1755	irtA			
+OFFJBEEN_01968	CDS	1755	irtA	3.6.3.-	COG1132	Iron import ATP-binding/permease protein IrtA
+OFFJBEEN_01969	gene	615				
+OFFJBEEN_01969	CDS	615				hypothetical protein
+OFFJBEEN_01970	gene	597				
+OFFJBEEN_01970	CDS	597				hypothetical protein
+OFFJBEEN_01971	gene	390				
+OFFJBEEN_01971	CDS	390				hypothetical protein
+OFFJBEEN_01972	gene	1239				
+OFFJBEEN_01972	CDS	1239				hypothetical protein
+OFFJBEEN_01973	gene	2364	btuB_10			
+OFFJBEEN_01973	CDS	2364	btuB_10			Vitamin B12 transporter BtuB
+OFFJBEEN_01974	gene	774				
+OFFJBEEN_01974	CDS	774				hypothetical protein
+OFFJBEEN_01975	gene	1188	bioF			
+OFFJBEEN_01975	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+OFFJBEEN_01976	gene	903	rhaR_2			
+OFFJBEEN_01976	CDS	903	rhaR_2			HTH-type transcriptional activator RhaR
+OFFJBEEN_01977	gene	486	resA_6			
+OFFJBEEN_01977	CDS	486	resA_6			Thiol-disulfide oxidoreductase ResA
+OFFJBEEN_01978	gene	105				
+OFFJBEEN_01978	CDS	105				hypothetical protein
+OFFJBEEN_01979	gene	819				
+OFFJBEEN_01979	CDS	819				hypothetical protein
+OFFJBEEN_01980	gene	93				
+OFFJBEEN_01980	CDS	93				hypothetical protein
+OFFJBEEN_01981	gene	2310	maeB			
+OFFJBEEN_01981	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+OFFJBEEN_01982	gene	3591				
+OFFJBEEN_01982	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+OFFJBEEN_01983	gene	1188				
+OFFJBEEN_01983	CDS	1188				hypothetical protein
+OFFJBEEN_01984	gene	1083				
+OFFJBEEN_01984	CDS	1083				hypothetical protein
+OFFJBEEN_01985	gene	288				
+OFFJBEEN_01985	CDS	288				hypothetical protein
+OFFJBEEN_01986	gene	2202	hppA1			
+OFFJBEEN_01986	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+OFFJBEEN_01987	gene	1101				
+OFFJBEEN_01987	CDS	1101				hypothetical protein
+OFFJBEEN_01988	gene	1443	rlmCD			
+OFFJBEEN_01988	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+OFFJBEEN_01989	gene	117				
+OFFJBEEN_01989	CDS	117				hypothetical protein
+OFFJBEEN_01990	gene	414	glmS			
+OFFJBEEN_01990	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+OFFJBEEN_01991	gene	1383				
+OFFJBEEN_01991	CDS	1383				hypothetical protein
+OFFJBEEN_01992	gene	1464	glmE			
+OFFJBEEN_01992	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+OFFJBEEN_01993	gene	1239				
+OFFJBEEN_01993	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+OFFJBEEN_01994	gene	1380				
+OFFJBEEN_01994	CDS	1380				hypothetical protein
+OFFJBEEN_01995	gene	321				
+OFFJBEEN_01995	CDS	321				hypothetical protein
+OFFJBEEN_01996	gene	945				
+OFFJBEEN_01996	CDS	945				hypothetical protein
+OFFJBEEN_01997	gene	843	ttdA			
+OFFJBEEN_01997	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+OFFJBEEN_01998	gene	558	fumB			
+OFFJBEEN_01998	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+OFFJBEEN_01999	gene	1509	scpC			
+OFFJBEEN_01999	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+OFFJBEEN_02000	gene	423				
+OFFJBEEN_02000	CDS	423				hypothetical protein
+OFFJBEEN_02001	gene	2940	rcsC_2			
+OFFJBEEN_02001	CDS	2940	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+OFFJBEEN_02002	gene	966				
+OFFJBEEN_02002	CDS	966			COG2826	IS30 family transposase IS4351
+OFFJBEEN_02003	gene	885	pfkB_2			
+OFFJBEEN_02003	CDS	885	pfkB_2	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+OFFJBEEN_02004	gene	1161				
+OFFJBEEN_02004	CDS	1161				hypothetical protein
+OFFJBEEN_02005	gene	1674				
+OFFJBEEN_02005	CDS	1674				hypothetical protein
+OFFJBEEN_02006	gene	624				
+OFFJBEEN_02006	CDS	624				hypothetical protein
+OFFJBEEN_02007	gene	2343				
+OFFJBEEN_02007	CDS	2343				hypothetical protein
+OFFJBEEN_02008	gene	1185				
+OFFJBEEN_02008	CDS	1185				hypothetical protein
+OFFJBEEN_02009	gene	1713				
+OFFJBEEN_02009	CDS	1713				SusD-like protein
+OFFJBEEN_02010	gene	3075				
+OFFJBEEN_02010	CDS	3075				TonB-dependent receptor P3
+OFFJBEEN_02011	gene	1629	rhaS_2			
+OFFJBEEN_02011	CDS	1629	rhaS_2			HTH-type transcriptional activator RhaS
+OFFJBEEN_02012	gene	243				
+OFFJBEEN_02012	CDS	243				hypothetical protein
+OFFJBEEN_02013	gene	321				
+OFFJBEEN_02013	CDS	321				hypothetical protein
+OFFJBEEN_02014	gene	234				
+OFFJBEEN_02014	CDS	234				hypothetical protein
+OFFJBEEN_02015	gene	804				
+OFFJBEEN_02015	CDS	804				hypothetical protein
+OFFJBEEN_02016	gene	2286				
+OFFJBEEN_02016	CDS	2286				hypothetical protein
+OFFJBEEN_02017	gene	1296				
+OFFJBEEN_02017	CDS	1296				hypothetical protein
+OFFJBEEN_02018	gene	981				
+OFFJBEEN_02018	CDS	981				hypothetical protein
+OFFJBEEN_02019	gene	1215				
+OFFJBEEN_02019	CDS	1215				hypothetical protein
+OFFJBEEN_02020	gene	2376	btuB_11			
+OFFJBEEN_02020	CDS	2376	btuB_11			Vitamin B12 transporter BtuB
+OFFJBEEN_02021	gene	1731				
+OFFJBEEN_02021	CDS	1731		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+OFFJBEEN_02022	gene	1698				
+OFFJBEEN_02022	CDS	1698			COG1132	putative ABC transporter ATP-binding protein
+OFFJBEEN_02023	gene	360				
+OFFJBEEN_02023	CDS	360				hypothetical protein
+OFFJBEEN_02024	gene	999	menE			
+OFFJBEEN_02024	CDS	999	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+OFFJBEEN_02025	gene	963	fmt			
+OFFJBEEN_02025	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+OFFJBEEN_02026	gene	1785	clcB			
+OFFJBEEN_02026	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+OFFJBEEN_02027	gene	606	tsaC			
+OFFJBEEN_02027	CDS	606	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+OFFJBEEN_02028	gene	75				
+OFFJBEEN_02028	tRNA	75				tRNA-Phe(gaa)
+OFFJBEEN_02029	gene	984				
+OFFJBEEN_02029	CDS	984				hypothetical protein
+OFFJBEEN_02030	gene	345				
+OFFJBEEN_02030	CDS	345				hypothetical protein
+OFFJBEEN_02031	gene	76				
+OFFJBEEN_02031	tRNA	76				tRNA-Thr(cgt)
+OFFJBEEN_02032	gene	74				
+OFFJBEEN_02032	tRNA	74				tRNA-Gly(ccc)
+OFFJBEEN_02033	gene	2826	uvrA_2			
+OFFJBEEN_02033	CDS	2826	uvrA_2		COG0178	UvrABC system protein A
+OFFJBEEN_02034	gene	780	nudC_3			
+OFFJBEEN_02034	CDS	780	nudC_3	3.6.1.22		NADH pyrophosphatase
+OFFJBEEN_02035	gene	1824	cpdB			
+OFFJBEEN_02035	CDS	1824	cpdB	3.1.3.6	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+OFFJBEEN_02036	gene	717	ypdB			
+OFFJBEEN_02036	CDS	717	ypdB		COG3279	Transcriptional regulatory protein YpdB
+OFFJBEEN_02037	gene	102				
+OFFJBEEN_02037	CDS	102				hypothetical protein
+OFFJBEEN_02038	gene	636	nfrA2			
+OFFJBEEN_02038	CDS	636	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+OFFJBEEN_02039	gene	1095				
+OFFJBEEN_02039	CDS	1095				hypothetical protein
+OFFJBEEN_02040	gene	189				
+OFFJBEEN_02040	CDS	189				hypothetical protein
+OFFJBEEN_02041	gene	1443	tuaB_2			
+OFFJBEEN_02041	CDS	1443	tuaB_2		COG2244	Teichuronic acid biosynthesis protein TuaB
+OFFJBEEN_02042	gene	1440				
+OFFJBEEN_02042	CDS	1440				hypothetical protein
+OFFJBEEN_02043	gene	639				
+OFFJBEEN_02043	CDS	639				hypothetical protein
+OFFJBEEN_02044	gene	879				
+OFFJBEEN_02044	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+OFFJBEEN_02045	gene	609				
+OFFJBEEN_02045	CDS	609				hypothetical protein
+OFFJBEEN_02046	gene	444	inhA			
+OFFJBEEN_02046	CDS	444	inhA	4.2.1.103		Isonitrile hydratase
+OFFJBEEN_02047	gene	228				
+OFFJBEEN_02047	CDS	228				hypothetical protein
+OFFJBEEN_02048	gene	3111				
+OFFJBEEN_02048	CDS	3111				hypothetical protein
+OFFJBEEN_02049	gene	2721	ppdK			
+OFFJBEEN_02049	CDS	2721	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+OFFJBEEN_02050	gene	489				
+OFFJBEEN_02050	CDS	489				hypothetical protein
+OFFJBEEN_02051	gene	693				
+OFFJBEEN_02051	CDS	693				hypothetical protein
+OFFJBEEN_02052	gene	993	htpX			
+OFFJBEEN_02052	CDS	993	htpX	3.4.24.-		Protease HtpX
+OFFJBEEN_02053	gene	564	lemA			
+OFFJBEEN_02053	CDS	564	lemA		COG1704	Protein LemA
+OFFJBEEN_02054	gene	405				
+OFFJBEEN_02054	CDS	405				hypothetical protein
+OFFJBEEN_02055	gene	318				
+OFFJBEEN_02055	CDS	318				hypothetical protein
+OFFJBEEN_02056	gene	378	ridA			
+OFFJBEEN_02056	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+OFFJBEEN_02057	gene	1827	msbA			
+OFFJBEEN_02057	CDS	1827	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+OFFJBEEN_02058	gene	693				
+OFFJBEEN_02058	CDS	693				hypothetical protein
+OFFJBEEN_02059	gene	408				
+OFFJBEEN_02059	CDS	408				hypothetical protein
+OFFJBEEN_02060	gene	90				
+OFFJBEEN_02060	CDS	90				hypothetical protein
+OFFJBEEN_02061	gene	1038				
+OFFJBEEN_02061	CDS	1038				hypothetical protein
+OFFJBEEN_02062	gene	474				
+OFFJBEEN_02062	CDS	474				hypothetical protein
+OFFJBEEN_02063	gene	264				
+OFFJBEEN_02063	CDS	264				hypothetical protein
+OFFJBEEN_02064	gene	495				
+OFFJBEEN_02064	CDS	495				hypothetical protein
+OFFJBEEN_02065	gene	543	csh			
+OFFJBEEN_02065	CDS	543	csh	3.13.1.5		Carbon disulfide hydrolase
+OFFJBEEN_02066	gene	687				
+OFFJBEEN_02066	CDS	687				hypothetical protein
+OFFJBEEN_02067	gene	597	carQ			
+OFFJBEEN_02067	CDS	597	carQ		COG1595	RNA polymerase sigma factor CarQ
+OFFJBEEN_02068	gene	648	rpe			
+OFFJBEEN_02068	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+OFFJBEEN_02069	gene	126				
+OFFJBEEN_02069	CDS	126				hypothetical protein
+OFFJBEEN_02070	gene	696	trpF			
+OFFJBEEN_02070	CDS	696	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+OFFJBEEN_02071	gene	564	pabA			
+OFFJBEEN_02071	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+OFFJBEEN_02072	gene	417				
+OFFJBEEN_02072	CDS	417				hypothetical protein
+OFFJBEEN_02073	gene	276				
+OFFJBEEN_02073	CDS	276				hypothetical protein
+OFFJBEEN_02074	gene	195				
+OFFJBEEN_02074	CDS	195				hypothetical protein
+OFFJBEEN_02075	gene	162				
+OFFJBEEN_02075	CDS	162				hypothetical protein
+OFFJBEEN_02076	gene	1287	xerC_4			
+OFFJBEEN_02076	CDS	1287	xerC_4			Tyrosine recombinase XerC
+OFFJBEEN_02077	gene	468				
+OFFJBEEN_02077	CDS	468				hypothetical protein
+OFFJBEEN_02078	gene	348				
+OFFJBEEN_02078	CDS	348				hypothetical protein
+OFFJBEEN_02079	gene	2004				
+OFFJBEEN_02079	CDS	2004				hypothetical protein
+OFFJBEEN_02080	gene	207				
+OFFJBEEN_02080	CDS	207				hypothetical protein
+OFFJBEEN_02081	gene	246				
+OFFJBEEN_02081	CDS	246				hypothetical protein
+OFFJBEEN_02082	gene	393	xerD_3			
+OFFJBEEN_02082	CDS	393	xerD_3			Tyrosine recombinase XerD
+OFFJBEEN_02083	gene	261				
+OFFJBEEN_02083	CDS	261				hypothetical protein
+OFFJBEEN_02084	gene	111				
+OFFJBEEN_02084	CDS	111				hypothetical protein
+OFFJBEEN_02085	gene	909				
+OFFJBEEN_02085	CDS	909			COG2826	IS30 family transposase IS4351
+OFFJBEEN_02086	gene	1233	xerC_5			
+OFFJBEEN_02086	CDS	1233	xerC_5			Tyrosine recombinase XerC
+OFFJBEEN_02087	gene	468				
+OFFJBEEN_02087	CDS	468				hypothetical protein
+OFFJBEEN_02088	gene	348				
+OFFJBEEN_02088	CDS	348				hypothetical protein
+OFFJBEEN_02089	gene	255				
+OFFJBEEN_02089	CDS	255				hypothetical protein
+OFFJBEEN_02090	gene	849				
+OFFJBEEN_02090	CDS	849				hypothetical protein
+OFFJBEEN_02091	gene	111				
+OFFJBEEN_02091	CDS	111				hypothetical protein
+OFFJBEEN_02092	gene	1671				
+OFFJBEEN_02092	CDS	1671				hypothetical protein
+OFFJBEEN_02093	gene	1332				
+OFFJBEEN_02093	CDS	1332				IS1380 family transposase ISDau1
+OFFJBEEN_02094	gene	1026				
+OFFJBEEN_02094	CDS	1026				hypothetical protein
+OFFJBEEN_02095	gene	291				
+OFFJBEEN_02095	CDS	291				hypothetical protein

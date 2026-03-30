@@ -1,0 +1,3227 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EOCHLGEI_00001	gene	204				
+EOCHLGEI_00001	CDS	204				hypothetical protein
+EOCHLGEI_00002	gene	2760				
+EOCHLGEI_00002	CDS	2760				hypothetical protein
+EOCHLGEI_00003	gene	240				
+EOCHLGEI_00003	CDS	240				hypothetical protein
+EOCHLGEI_00004	gene	336				
+EOCHLGEI_00004	CDS	336				hypothetical protein
+EOCHLGEI_00005	gene	999				
+EOCHLGEI_00005	CDS	999				hypothetical protein
+EOCHLGEI_00006	gene	1647				
+EOCHLGEI_00006	CDS	1647				hypothetical protein
+EOCHLGEI_00007	gene	1668	recN			
+EOCHLGEI_00007	CDS	1668	recN		COG0497	DNA repair protein RecN
+EOCHLGEI_00008	gene	903				
+EOCHLGEI_00008	CDS	903				hypothetical protein
+EOCHLGEI_00009	gene	1212	undec1A			
+EOCHLGEI_00009	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+EOCHLGEI_00010	gene	855	dinG			
+EOCHLGEI_00010	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+EOCHLGEI_00011	gene	1125	dnaN			
+EOCHLGEI_00011	CDS	1125	dnaN			Beta sliding clamp
+EOCHLGEI_00012	gene	417				
+EOCHLGEI_00012	CDS	417				hypothetical protein
+EOCHLGEI_00013	gene	417				
+EOCHLGEI_00013	CDS	417		2.8.1.-	COG0607	Sulfurtransferase
+EOCHLGEI_00014	gene	1311	eno			
+EOCHLGEI_00014	CDS	1311	eno	4.2.1.11		Enolase
+EOCHLGEI_00015	gene	981	ribD			
+EOCHLGEI_00015	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+EOCHLGEI_00016	gene	654				
+EOCHLGEI_00016	CDS	654				hypothetical protein
+EOCHLGEI_00017	gene	1305	tyrS			
+EOCHLGEI_00017	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+EOCHLGEI_00018	gene	240				
+EOCHLGEI_00018	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+EOCHLGEI_00019	gene	432	rnpA			
+EOCHLGEI_00019	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+EOCHLGEI_00020	gene	747				
+EOCHLGEI_00020	CDS	747				hypothetical protein
+EOCHLGEI_00021	gene	288	hutH			
+EOCHLGEI_00021	CDS	288	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+EOCHLGEI_00022	gene	1251	hutI			
+EOCHLGEI_00022	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+EOCHLGEI_00023	gene	339				
+EOCHLGEI_00023	CDS	339				hypothetical protein
+EOCHLGEI_00024	gene	966	queG			
+EOCHLGEI_00024	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+EOCHLGEI_00025	gene	552				
+EOCHLGEI_00025	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+EOCHLGEI_00026	gene	3336				
+EOCHLGEI_00026	CDS	3336				hypothetical protein
+EOCHLGEI_00027	gene	453	yqaA			
+EOCHLGEI_00027	CDS	453	yqaA		COG1238	Inner membrane protein YqaA
+EOCHLGEI_00028	gene	951				
+EOCHLGEI_00028	CDS	951				hypothetical protein
+EOCHLGEI_00029	gene	1389	purD			
+EOCHLGEI_00029	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+EOCHLGEI_00030	gene	2901	rexB			
+EOCHLGEI_00030	CDS	2901	rexB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+EOCHLGEI_00031	gene	3246	recB			
+EOCHLGEI_00031	CDS	3246	recB	3.1.11.5		RecBCD enzyme subunit RecB
+EOCHLGEI_00032	gene	1620				
+EOCHLGEI_00032	CDS	1620				hypothetical protein
+EOCHLGEI_00033	gene	2169	dpp5			
+EOCHLGEI_00033	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+EOCHLGEI_00034	gene	177				
+EOCHLGEI_00034	CDS	177				hypothetical protein
+EOCHLGEI_00035	gene	138				
+EOCHLGEI_00035	CDS	138				hypothetical protein
+EOCHLGEI_00036	gene	123				
+EOCHLGEI_00036	CDS	123				hypothetical protein
+EOCHLGEI_00037	gene	1380	yeeO			
+EOCHLGEI_00037	CDS	1380	yeeO		COG0534	putative FMN/FAD exporter YeeO
+EOCHLGEI_00038	gene	822	cmk_1			
+EOCHLGEI_00038	CDS	822	cmk_1	2.7.4.25		Cytidylate kinase
+EOCHLGEI_00039	gene	405				
+EOCHLGEI_00039	CDS	405				hypothetical protein
+EOCHLGEI_00040	gene	1251	tdcG			
+EOCHLGEI_00040	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+EOCHLGEI_00041	gene	2640	rep_1			
+EOCHLGEI_00041	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+EOCHLGEI_00042	gene	1404				
+EOCHLGEI_00042	CDS	1404				hypothetical protein
+EOCHLGEI_00043	gene	1104	ybhR			
+EOCHLGEI_00043	CDS	1104	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+EOCHLGEI_00044	gene	1065	ybhS			
+EOCHLGEI_00044	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+EOCHLGEI_00045	gene	1476	rbbA			
+EOCHLGEI_00045	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+EOCHLGEI_00046	gene	888				
+EOCHLGEI_00046	CDS	888				hypothetical protein
+EOCHLGEI_00047	gene	1296				
+EOCHLGEI_00047	CDS	1296				hypothetical protein
+EOCHLGEI_00048	gene	1932				
+EOCHLGEI_00048	CDS	1932				hypothetical protein
+EOCHLGEI_00049	gene	762				
+EOCHLGEI_00049	CDS	762				hypothetical protein
+EOCHLGEI_00050	gene	1329				
+EOCHLGEI_00050	CDS	1329				hypothetical protein
+EOCHLGEI_00051	gene	2313	cirA			
+EOCHLGEI_00051	CDS	2313	cirA		COG4771	Colicin I receptor
+EOCHLGEI_00052	gene	138				
+EOCHLGEI_00052	CDS	138				hypothetical protein
+EOCHLGEI_00053	gene	717				
+EOCHLGEI_00053	CDS	717				hypothetical protein
+EOCHLGEI_00054	gene	1053				
+EOCHLGEI_00054	CDS	1053				hypothetical protein
+EOCHLGEI_00055	gene	774				
+EOCHLGEI_00055	CDS	774				hypothetical protein
+EOCHLGEI_00056	gene	759				
+EOCHLGEI_00056	CDS	759				hypothetical protein
+EOCHLGEI_00057	gene	546				
+EOCHLGEI_00057	CDS	546				hypothetical protein
+EOCHLGEI_00058	gene	2802				
+EOCHLGEI_00058	CDS	2802				hypothetical protein
+EOCHLGEI_00059	gene	1641				
+EOCHLGEI_00059	CDS	1641				hypothetical protein
+EOCHLGEI_00060	gene	396				
+EOCHLGEI_00060	CDS	396				hypothetical protein
+EOCHLGEI_00061	gene	516				
+EOCHLGEI_00061	CDS	516				hypothetical protein
+EOCHLGEI_00062	gene	588				
+EOCHLGEI_00062	CDS	588				hypothetical protein
+EOCHLGEI_00063	gene	1260	waaA			
+EOCHLGEI_00063	CDS	1260	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+EOCHLGEI_00064	gene	1536	gltX			
+EOCHLGEI_00064	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+EOCHLGEI_00065	gene	2055	rny_1			
+EOCHLGEI_00065	CDS	2055	rny_1	3.1.-.-		Ribonuclease Y
+EOCHLGEI_00066	gene	1485				
+EOCHLGEI_00066	CDS	1485				hypothetical protein
+EOCHLGEI_00067	gene	900				
+EOCHLGEI_00067	CDS	900				hypothetical protein
+EOCHLGEI_00068	gene	2271	priA			
+EOCHLGEI_00068	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+EOCHLGEI_00069	gene	90				
+EOCHLGEI_00069	CDS	90				hypothetical protein
+EOCHLGEI_00070	gene	984	menF			
+EOCHLGEI_00070	CDS	984	menF	5.4.4.2		Isochorismate synthase MenF
+EOCHLGEI_00071	gene	597				
+EOCHLGEI_00071	CDS	597				hypothetical protein
+EOCHLGEI_00072	gene	600				
+EOCHLGEI_00072	CDS	600				hypothetical protein
+EOCHLGEI_00073	gene	1026				
+EOCHLGEI_00073	CDS	1026				hypothetical protein
+EOCHLGEI_00074	gene	489				
+EOCHLGEI_00074	CDS	489				hypothetical protein
+EOCHLGEI_00075	gene	657	trmO			
+EOCHLGEI_00075	CDS	657	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+EOCHLGEI_00076	gene	1299				
+EOCHLGEI_00076	CDS	1299				hypothetical protein
+EOCHLGEI_00077	gene	75				
+EOCHLGEI_00077	tRNA	75				tRNA-His(gtg)
+EOCHLGEI_00078	gene	1074	adh			
+EOCHLGEI_00078	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+EOCHLGEI_00079	gene	261				
+EOCHLGEI_00079	CDS	261				hypothetical protein
+EOCHLGEI_00080	gene	132				
+EOCHLGEI_00080	CDS	132				hypothetical protein
+EOCHLGEI_00081	gene	261				
+EOCHLGEI_00081	CDS	261				hypothetical protein
+EOCHLGEI_00082	gene	177				
+EOCHLGEI_00082	CDS	177				hypothetical protein
+EOCHLGEI_00083	gene	606				
+EOCHLGEI_00083	CDS	606				hypothetical protein
+EOCHLGEI_00084	gene	1497	nrfA			
+EOCHLGEI_00084	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+EOCHLGEI_00085	gene	1311				
+EOCHLGEI_00085	CDS	1311				hypothetical protein
+EOCHLGEI_00086	gene	798	ccsA_1			
+EOCHLGEI_00086	CDS	798	ccsA_1			Cytochrome c biogenesis protein CcsA
+EOCHLGEI_00087	gene	219				
+EOCHLGEI_00087	CDS	219				hypothetical protein
+EOCHLGEI_00088	gene	237				
+EOCHLGEI_00088	CDS	237				hypothetical protein
+EOCHLGEI_00089	gene	426				
+EOCHLGEI_00089	CDS	426				hypothetical protein
+EOCHLGEI_00090	gene	804				
+EOCHLGEI_00090	CDS	804				hypothetical protein
+EOCHLGEI_00091	gene	279				
+EOCHLGEI_00091	CDS	279				hypothetical protein
+EOCHLGEI_00092	gene	978				
+EOCHLGEI_00092	CDS	978				hypothetical protein
+EOCHLGEI_00093	gene	1050	rlmN			
+EOCHLGEI_00093	CDS	1050	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+EOCHLGEI_00094	gene	1560	ahpF			
+EOCHLGEI_00094	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+EOCHLGEI_00095	gene	567	ahpC			
+EOCHLGEI_00095	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+EOCHLGEI_00096	gene	585	sodB			
+EOCHLGEI_00096	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+EOCHLGEI_00097	gene	927	oxyR			
+EOCHLGEI_00097	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+EOCHLGEI_00098	gene	1086	wbpI			
+EOCHLGEI_00098	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+EOCHLGEI_00099	gene	954	qmcA			
+EOCHLGEI_00099	CDS	954	qmcA		COG0330	Protein QmcA
+EOCHLGEI_00100	gene	456				
+EOCHLGEI_00100	CDS	456				hypothetical protein
+EOCHLGEI_00101	gene	462				
+EOCHLGEI_00101	CDS	462				hypothetical protein
+EOCHLGEI_00102	gene	408				
+EOCHLGEI_00102	CDS	408				hypothetical protein
+EOCHLGEI_00103	gene	285				
+EOCHLGEI_00103	CDS	285				hypothetical protein
+EOCHLGEI_00104	gene	123				
+EOCHLGEI_00104	CDS	123				hypothetical protein
+EOCHLGEI_00105	gene	822	acr1			
+EOCHLGEI_00105	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+EOCHLGEI_00106	gene	1506				
+EOCHLGEI_00106	CDS	1506		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+EOCHLGEI_00107	gene	363				
+EOCHLGEI_00107	CDS	363				hypothetical protein
+EOCHLGEI_00108	gene	498				
+EOCHLGEI_00108	CDS	498			COG0716	Flavodoxin 1
+EOCHLGEI_00109	gene	534				
+EOCHLGEI_00109	CDS	534				hypothetical protein
+EOCHLGEI_00110	gene	1329				
+EOCHLGEI_00110	CDS	1329				hypothetical protein
+EOCHLGEI_00111	gene	1230	yciC			
+EOCHLGEI_00111	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+EOCHLGEI_00112	gene	1446	pal_1			
+EOCHLGEI_00112	CDS	1446	pal_1			Peptidoglycan-associated lipoprotein
+EOCHLGEI_00113	gene	732				
+EOCHLGEI_00113	CDS	732				hypothetical protein
+EOCHLGEI_00114	gene	402				
+EOCHLGEI_00114	CDS	402				hypothetical protein
+EOCHLGEI_00115	gene	1014	asd			
+EOCHLGEI_00115	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+EOCHLGEI_00116	gene	2202	kefB_1			
+EOCHLGEI_00116	CDS	2202	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+EOCHLGEI_00117	gene	663	yknY_1			
+EOCHLGEI_00117	CDS	663	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EOCHLGEI_00118	gene	171				
+EOCHLGEI_00118	CDS	171				hypothetical protein
+EOCHLGEI_00119	gene	123				
+EOCHLGEI_00119	CDS	123				hypothetical protein
+EOCHLGEI_00120	gene	285				
+EOCHLGEI_00120	CDS	285				hypothetical protein
+EOCHLGEI_00121	gene	1395	asnS			
+EOCHLGEI_00121	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+EOCHLGEI_00122	gene	1473				
+EOCHLGEI_00122	CDS	1473				hypothetical protein
+EOCHLGEI_00123	gene	456	purB			
+EOCHLGEI_00123	CDS	456	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+EOCHLGEI_00124	gene	471	carQ_1			
+EOCHLGEI_00124	CDS	471	carQ_1		COG1595	RNA polymerase sigma factor CarQ
+EOCHLGEI_00125	gene	648	rpe			
+EOCHLGEI_00125	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+EOCHLGEI_00126	gene	126				
+EOCHLGEI_00126	CDS	126				hypothetical protein
+EOCHLGEI_00127	gene	696	trpF			
+EOCHLGEI_00127	CDS	696	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+EOCHLGEI_00128	gene	564	pabA			
+EOCHLGEI_00128	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+EOCHLGEI_00129	gene	1122				
+EOCHLGEI_00129	CDS	1122			COG3039	IS5 family transposase ISPta1
+EOCHLGEI_00130	gene	1518				
+EOCHLGEI_00130	CDS	1518				hypothetical protein
+EOCHLGEI_00131	gene	132				
+EOCHLGEI_00131	CDS	132				hypothetical protein
+EOCHLGEI_00132	gene	123				
+EOCHLGEI_00132	CDS	123				hypothetical protein
+EOCHLGEI_00133	gene	1017				
+EOCHLGEI_00133	CDS	1017				hypothetical protein
+EOCHLGEI_00134	gene	465	queF			
+EOCHLGEI_00134	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+EOCHLGEI_00135	gene	339				
+EOCHLGEI_00135	CDS	339				hypothetical protein
+EOCHLGEI_00136	gene	429				
+EOCHLGEI_00136	CDS	429				hypothetical protein
+EOCHLGEI_00137	gene	849				
+EOCHLGEI_00137	CDS	849				hypothetical protein
+EOCHLGEI_00138	gene	1329	allB			
+EOCHLGEI_00138	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+EOCHLGEI_00139	gene	1179				
+EOCHLGEI_00139	CDS	1179				hypothetical protein
+EOCHLGEI_00140	gene	369				
+EOCHLGEI_00140	CDS	369				hypothetical protein
+EOCHLGEI_00141	gene	2553				
+EOCHLGEI_00141	CDS	2553				hypothetical protein
+EOCHLGEI_00142	gene	96				
+EOCHLGEI_00142	CDS	96				hypothetical protein
+EOCHLGEI_00143	gene	1152				
+EOCHLGEI_00143	CDS	1152				hypothetical protein
+EOCHLGEI_00144	gene	477	ispF			
+EOCHLGEI_00144	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+EOCHLGEI_00145	gene	765				
+EOCHLGEI_00145	CDS	765				hypothetical protein
+EOCHLGEI_00146	gene	2229	btuB_1			
+EOCHLGEI_00146	CDS	2229	btuB_1			Vitamin B12 transporter BtuB
+EOCHLGEI_00147	gene	4299				
+EOCHLGEI_00147	CDS	4299				hypothetical protein
+EOCHLGEI_00148	gene	705				
+EOCHLGEI_00148	CDS	705				hypothetical protein
+EOCHLGEI_00149	gene	603				
+EOCHLGEI_00149	CDS	603				hypothetical protein
+EOCHLGEI_00150	gene	2826				
+EOCHLGEI_00150	CDS	2826				hypothetical protein
+EOCHLGEI_00151	gene	165				
+EOCHLGEI_00151	CDS	165				hypothetical protein
+EOCHLGEI_00152	gene	894				
+EOCHLGEI_00152	CDS	894				hypothetical protein
+EOCHLGEI_00153	gene	318				
+EOCHLGEI_00153	CDS	318				hypothetical protein
+EOCHLGEI_00154	gene	210				
+EOCHLGEI_00154	CDS	210				hypothetical protein
+EOCHLGEI_00155	gene	618				
+EOCHLGEI_00155	CDS	618				hypothetical protein
+EOCHLGEI_00156	gene	1491	cysS			
+EOCHLGEI_00156	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+EOCHLGEI_00157	gene	936				
+EOCHLGEI_00157	CDS	936				hypothetical protein
+EOCHLGEI_00158	gene	1008	pepE			
+EOCHLGEI_00158	CDS	1008	pepE	3.4.22.-	COG3579	Aminopeptidase E
+EOCHLGEI_00159	gene	1047				
+EOCHLGEI_00159	CDS	1047				hypothetical protein
+EOCHLGEI_00160	gene	606				
+EOCHLGEI_00160	CDS	606				hypothetical protein
+EOCHLGEI_00161	gene	237	acpP			
+EOCHLGEI_00161	CDS	237	acpP		COG0236	Acyl carrier protein
+EOCHLGEI_00162	gene	1263	fabF			
+EOCHLGEI_00162	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+EOCHLGEI_00163	gene	3693				
+EOCHLGEI_00163	CDS	3693				hypothetical protein
+EOCHLGEI_00164	gene	1389	ampG			
+EOCHLGEI_00164	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+EOCHLGEI_00165	gene	909				
+EOCHLGEI_00165	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+EOCHLGEI_00166	gene	1044	aguA			
+EOCHLGEI_00166	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+EOCHLGEI_00167	gene	135				
+EOCHLGEI_00167	CDS	135				hypothetical protein
+EOCHLGEI_00168	gene	105				
+EOCHLGEI_00168	CDS	105				hypothetical protein
+EOCHLGEI_00169	gene	879				
+EOCHLGEI_00169	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+EOCHLGEI_00170	gene	840				
+EOCHLGEI_00170	CDS	840				hypothetical protein
+EOCHLGEI_00171	gene	951				
+EOCHLGEI_00171	CDS	951				hypothetical protein
+EOCHLGEI_00172	gene	174				
+EOCHLGEI_00172	CDS	174				hypothetical protein
+EOCHLGEI_00173	gene	450				
+EOCHLGEI_00173	CDS	450				hypothetical protein
+EOCHLGEI_00174	gene	636				
+EOCHLGEI_00174	CDS	636				hypothetical protein
+EOCHLGEI_00175	gene	630				
+EOCHLGEI_00175	CDS	630				hypothetical protein
+EOCHLGEI_00176	gene	321				
+EOCHLGEI_00176	CDS	321				hypothetical protein
+EOCHLGEI_00177	gene	1089	trpS2			
+EOCHLGEI_00177	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+EOCHLGEI_00178	gene	4329	rpoC			
+EOCHLGEI_00178	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+EOCHLGEI_00179	gene	3825	rpoB			
+EOCHLGEI_00179	CDS	3825	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+EOCHLGEI_00180	gene	369				
+EOCHLGEI_00180	CDS	369				hypothetical protein
+EOCHLGEI_00181	gene	171				
+EOCHLGEI_00181	CDS	171				hypothetical protein
+EOCHLGEI_00182	gene	1134	hemW_1			
+EOCHLGEI_00182	CDS	1134	hemW_1		COG0635	Heme chaperone HemW
+EOCHLGEI_00183	gene	2160	fusA_1			
+EOCHLGEI_00183	CDS	2160	fusA_1		COG0480	Elongation factor G
+EOCHLGEI_00184	gene	687				
+EOCHLGEI_00184	CDS	687				hypothetical protein
+EOCHLGEI_00185	gene	1548	sasA_1			
+EOCHLGEI_00185	CDS	1548	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+EOCHLGEI_00186	gene	699	copR			
+EOCHLGEI_00186	CDS	699	copR			Transcriptional activator protein CopR
+EOCHLGEI_00187	gene	267				
+EOCHLGEI_00187	CDS	267				hypothetical protein
+EOCHLGEI_00188	gene	345				
+EOCHLGEI_00188	CDS	345				hypothetical protein
+EOCHLGEI_00189	gene	270				
+EOCHLGEI_00189	CDS	270				hypothetical protein
+EOCHLGEI_00190	gene	561				
+EOCHLGEI_00190	CDS	561				hypothetical protein
+EOCHLGEI_00191	gene	165				
+EOCHLGEI_00191	CDS	165				hypothetical protein
+EOCHLGEI_00192	gene	486				
+EOCHLGEI_00192	CDS	486				hypothetical protein
+EOCHLGEI_00193	gene	1197				
+EOCHLGEI_00193	CDS	1197				hypothetical protein
+EOCHLGEI_00194	gene	1731	recJ			
+EOCHLGEI_00194	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+EOCHLGEI_00195	gene	1911	deaD_1			
+EOCHLGEI_00195	CDS	1911	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+EOCHLGEI_00196	gene	813				
+EOCHLGEI_00196	CDS	813				hypothetical protein
+EOCHLGEI_00197	gene	1182				
+EOCHLGEI_00197	CDS	1182				Outer membrane protein 41
+EOCHLGEI_00198	gene	531	cobP			
+EOCHLGEI_00198	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+EOCHLGEI_00199	gene	1032	cobT			
+EOCHLGEI_00199	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+EOCHLGEI_00200	gene	792	cobS			
+EOCHLGEI_00200	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+EOCHLGEI_00201	gene	534	pspA			
+EOCHLGEI_00201	CDS	534	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+EOCHLGEI_00202	gene	666	ung			
+EOCHLGEI_00202	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+EOCHLGEI_00203	gene	621				
+EOCHLGEI_00203	CDS	621				hypothetical protein
+EOCHLGEI_00204	gene	879				
+EOCHLGEI_00204	CDS	879				hypothetical protein
+EOCHLGEI_00205	gene	1971	gyrB_1			
+EOCHLGEI_00205	CDS	1971	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+EOCHLGEI_00206	gene	135				
+EOCHLGEI_00206	CDS	135				hypothetical protein
+EOCHLGEI_00207	gene	255	rpsT			
+EOCHLGEI_00207	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+EOCHLGEI_00208	gene	75				
+EOCHLGEI_00208	tRNA	75				tRNA-Glu(ttc)
+EOCHLGEI_00209	gene	726	recO			
+EOCHLGEI_00209	CDS	726	recO			DNA repair protein RecO
+EOCHLGEI_00210	gene	1122				
+EOCHLGEI_00210	CDS	1122				hypothetical protein
+EOCHLGEI_00211	gene	447	yqeY			
+EOCHLGEI_00211	CDS	447	yqeY		COG1610	putative protein YqeY
+EOCHLGEI_00212	gene	1320	ftsZ			
+EOCHLGEI_00212	CDS	1320	ftsZ			Cell division protein FtsZ
+EOCHLGEI_00213	gene	1461	ftsA			
+EOCHLGEI_00213	CDS	1461	ftsA			Cell division protein FtsA
+EOCHLGEI_00214	gene	186				
+EOCHLGEI_00214	CDS	186				hypothetical protein
+EOCHLGEI_00215	gene	513				
+EOCHLGEI_00215	CDS	513				hypothetical protein
+EOCHLGEI_00216	gene	501	skp			
+EOCHLGEI_00216	CDS	501	skp		COG2825	Chaperone protein Skp
+EOCHLGEI_00217	gene	633				
+EOCHLGEI_00217	CDS	633				hypothetical protein
+EOCHLGEI_00218	gene	843	murI			
+EOCHLGEI_00218	CDS	843	murI	5.1.1.3		Glutamate racemase
+EOCHLGEI_00219	gene	2613				
+EOCHLGEI_00219	CDS	2613				hypothetical protein
+EOCHLGEI_00220	gene	594				
+EOCHLGEI_00220	CDS	594				hypothetical protein
+EOCHLGEI_00221	gene	1560				
+EOCHLGEI_00221	CDS	1560				hypothetical protein
+EOCHLGEI_00222	gene	1968				
+EOCHLGEI_00222	CDS	1968				hypothetical protein
+EOCHLGEI_00223	gene	1356				
+EOCHLGEI_00223	CDS	1356				hypothetical protein
+EOCHLGEI_00224	gene	852				
+EOCHLGEI_00224	CDS	852				hypothetical protein
+EOCHLGEI_00225	gene	1026	murB			
+EOCHLGEI_00225	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+EOCHLGEI_00226	gene	774	rbn			
+EOCHLGEI_00226	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+EOCHLGEI_00227	gene	294				
+EOCHLGEI_00227	CDS	294				hypothetical protein
+EOCHLGEI_00228	gene	369				
+EOCHLGEI_00228	CDS	369				hypothetical protein
+EOCHLGEI_00229	gene	216				
+EOCHLGEI_00229	CDS	216				hypothetical protein
+EOCHLGEI_00230	gene	516				
+EOCHLGEI_00230	CDS	516				hypothetical protein
+EOCHLGEI_00231	gene	423	yrrK			
+EOCHLGEI_00231	CDS	423	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+EOCHLGEI_00232	gene	561	def			
+EOCHLGEI_00232	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+EOCHLGEI_00233	gene	1965	cpoB			
+EOCHLGEI_00233	CDS	1965	cpoB			Cell division coordinator CpoB
+EOCHLGEI_00234	gene	588				
+EOCHLGEI_00234	CDS	588				hypothetical protein
+EOCHLGEI_00235	gene	1722				
+EOCHLGEI_00235	CDS	1722				hypothetical protein
+EOCHLGEI_00236	gene	1479	cstA			
+EOCHLGEI_00236	CDS	1479	cstA		COG1966	Peptide transporter CstA
+EOCHLGEI_00237	gene	495				
+EOCHLGEI_00237	CDS	495				hypothetical protein
+EOCHLGEI_00238	gene	849	nadC			
+EOCHLGEI_00238	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+EOCHLGEI_00239	gene	1623				
+EOCHLGEI_00239	CDS	1623				hypothetical protein
+EOCHLGEI_00240	gene	1632	pepDA			
+EOCHLGEI_00240	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+EOCHLGEI_00241	gene	168				
+EOCHLGEI_00241	CDS	168				hypothetical protein
+EOCHLGEI_00242	gene	1254	mltF			
+EOCHLGEI_00242	CDS	1254	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+EOCHLGEI_00243	gene	459	pyrI			
+EOCHLGEI_00243	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+EOCHLGEI_00244	gene	249	pyrB			
+EOCHLGEI_00244	CDS	249	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+EOCHLGEI_00245	gene	348				
+EOCHLGEI_00245	CDS	348				hypothetical protein
+EOCHLGEI_00246	gene	189				
+EOCHLGEI_00246	CDS	189				hypothetical protein
+EOCHLGEI_00247	gene	3063	secD			
+EOCHLGEI_00247	CDS	3063	secD			Protein translocase subunit SecD
+EOCHLGEI_00248	gene	1089				
+EOCHLGEI_00248	CDS	1089				hypothetical protein
+EOCHLGEI_00249	gene	894				
+EOCHLGEI_00249	CDS	894				hypothetical protein
+EOCHLGEI_00250	gene	273	hup_1			
+EOCHLGEI_00250	CDS	273	hup_1			DNA-binding protein HU
+EOCHLGEI_00251	gene	336	rbfA			
+EOCHLGEI_00251	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+EOCHLGEI_00252	gene	1230	lolE			
+EOCHLGEI_00252	CDS	1230	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+EOCHLGEI_00253	gene	354				
+EOCHLGEI_00253	CDS	354				hypothetical protein
+EOCHLGEI_00254	gene	276				
+EOCHLGEI_00254	CDS	276				hypothetical protein
+EOCHLGEI_00255	gene	336				
+EOCHLGEI_00255	CDS	336				hypothetical protein
+EOCHLGEI_00256	gene	840				
+EOCHLGEI_00256	CDS	840				hypothetical protein
+EOCHLGEI_00257	gene	102				
+EOCHLGEI_00257	CDS	102				hypothetical protein
+EOCHLGEI_00258	gene	2517				
+EOCHLGEI_00258	CDS	2517				hypothetical protein
+EOCHLGEI_00259	gene	1650				
+EOCHLGEI_00259	CDS	1650				hypothetical protein
+EOCHLGEI_00260	gene	888				
+EOCHLGEI_00260	CDS	888				hypothetical protein
+EOCHLGEI_00261	gene	1779	bepA_1			
+EOCHLGEI_00261	CDS	1779	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+EOCHLGEI_00262	gene	438	dut			
+EOCHLGEI_00262	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+EOCHLGEI_00263	gene	1344	murD			
+EOCHLGEI_00263	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EOCHLGEI_00264	gene	1272	mraY			
+EOCHLGEI_00264	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EOCHLGEI_00265	gene	1452	murE			
+EOCHLGEI_00265	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+EOCHLGEI_00266	gene	2148	pbpB			
+EOCHLGEI_00266	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+EOCHLGEI_00267	gene	624				
+EOCHLGEI_00267	CDS	624				hypothetical protein
+EOCHLGEI_00268	gene	1074	rsmH			
+EOCHLGEI_00268	CDS	1074	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+EOCHLGEI_00269	gene	465	mraZ			
+EOCHLGEI_00269	CDS	465	mraZ			Transcriptional regulator MraZ
+EOCHLGEI_00270	gene	828				
+EOCHLGEI_00270	CDS	828				hypothetical protein
+EOCHLGEI_00271	gene	393				
+EOCHLGEI_00271	CDS	393				hypothetical protein
+EOCHLGEI_00272	gene	111				
+EOCHLGEI_00272	CDS	111				hypothetical protein
+EOCHLGEI_00273	gene	117				
+EOCHLGEI_00273	CDS	117				hypothetical protein
+EOCHLGEI_00274	gene	1371				
+EOCHLGEI_00274	CDS	1371				hypothetical protein
+EOCHLGEI_00275	gene	4716	rep_2			
+EOCHLGEI_00275	CDS	4716	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+EOCHLGEI_00276	gene	387	nudG			
+EOCHLGEI_00276	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+EOCHLGEI_00277	gene	1344	gdhB			
+EOCHLGEI_00277	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+EOCHLGEI_00278	gene	372	rlpA			
+EOCHLGEI_00278	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+EOCHLGEI_00279	gene	279				
+EOCHLGEI_00279	CDS	279				hypothetical protein
+EOCHLGEI_00280	gene	606	rnhB			
+EOCHLGEI_00280	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+EOCHLGEI_00281	gene	1023				
+EOCHLGEI_00281	CDS	1023				hypothetical protein
+EOCHLGEI_00282	gene	2871				
+EOCHLGEI_00282	CDS	2871				hypothetical protein
+EOCHLGEI_00283	gene	2085				
+EOCHLGEI_00283	CDS	2085				hypothetical protein
+EOCHLGEI_00284	gene	507				
+EOCHLGEI_00284	CDS	507				hypothetical protein
+EOCHLGEI_00285	gene	2394				
+EOCHLGEI_00285	CDS	2394				hypothetical protein
+EOCHLGEI_00286	gene	744				
+EOCHLGEI_00286	CDS	744				hypothetical protein
+EOCHLGEI_00287	gene	1233				
+EOCHLGEI_00287	CDS	1233				hypothetical protein
+EOCHLGEI_00288	gene	519				
+EOCHLGEI_00288	CDS	519				hypothetical protein
+EOCHLGEI_00289	gene	714				
+EOCHLGEI_00289	CDS	714				hypothetical protein
+EOCHLGEI_00290	gene	1494				
+EOCHLGEI_00290	CDS	1494				hypothetical protein
+EOCHLGEI_00291	gene	1485				
+EOCHLGEI_00291	CDS	1485				TonB-dependent receptor P3
+EOCHLGEI_00292	gene	471				
+EOCHLGEI_00292	CDS	471				hypothetical protein
+EOCHLGEI_00293	gene	366				
+EOCHLGEI_00293	CDS	366				hypothetical protein
+EOCHLGEI_00294	gene	123				
+EOCHLGEI_00294	CDS	123				hypothetical protein
+EOCHLGEI_00295	gene	3018				
+EOCHLGEI_00295	CDS	3018				hypothetical protein
+EOCHLGEI_00296	gene	2520				
+EOCHLGEI_00296	CDS	2520				hypothetical protein
+EOCHLGEI_00297	gene	1050	nrdB			
+EOCHLGEI_00297	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+EOCHLGEI_00298	gene	612	nreC			
+EOCHLGEI_00298	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+EOCHLGEI_00299	gene	921				
+EOCHLGEI_00299	CDS	921				hypothetical protein
+EOCHLGEI_00300	gene	2580				
+EOCHLGEI_00300	CDS	2580				hypothetical protein
+EOCHLGEI_00301	gene	390				
+EOCHLGEI_00301	CDS	390				hypothetical protein
+EOCHLGEI_00302	gene	771				
+EOCHLGEI_00302	CDS	771				hypothetical protein
+EOCHLGEI_00303	gene	543				
+EOCHLGEI_00303	CDS	543				hypothetical protein
+EOCHLGEI_00304	gene	1215	norR			
+EOCHLGEI_00304	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+EOCHLGEI_00305	gene	1698	eptC_1			
+EOCHLGEI_00305	CDS	1698	eptC_1	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+EOCHLGEI_00306	gene	462	ndk			
+EOCHLGEI_00306	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+EOCHLGEI_00307	gene	225				
+EOCHLGEI_00307	CDS	225				hypothetical protein
+EOCHLGEI_00308	gene	624				
+EOCHLGEI_00308	CDS	624				hypothetical protein
+EOCHLGEI_00309	gene	1317				
+EOCHLGEI_00309	CDS	1317				hypothetical protein
+EOCHLGEI_00310	gene	399				
+EOCHLGEI_00310	CDS	399				Single-stranded DNA-binding protein
+EOCHLGEI_00311	gene	549				
+EOCHLGEI_00311	CDS	549				hypothetical protein
+EOCHLGEI_00312	gene	74				
+EOCHLGEI_00312	tRNA	74				tRNA-Gly(gcc)
+EOCHLGEI_00313	gene	84				
+EOCHLGEI_00313	tRNA	84				tRNA-Leu(gag)
+EOCHLGEI_00314	gene	84				
+EOCHLGEI_00314	tRNA	84				tRNA-Leu(cag)
+EOCHLGEI_00315	gene	74				
+EOCHLGEI_00315	tRNA	74				tRNA-Gly(gcc)
+EOCHLGEI_00316	gene	1176	nspC			
+EOCHLGEI_00316	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+EOCHLGEI_00317	gene	555	rbr3A			
+EOCHLGEI_00317	CDS	555	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+EOCHLGEI_00318	gene	1362	hisS			
+EOCHLGEI_00318	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+EOCHLGEI_00319	gene	1275	purA			
+EOCHLGEI_00319	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+EOCHLGEI_00320	gene	513				
+EOCHLGEI_00320	CDS	513				hypothetical protein
+EOCHLGEI_00321	gene	306				
+EOCHLGEI_00321	CDS	306				hypothetical protein
+EOCHLGEI_00322	gene	261	RBKS			
+EOCHLGEI_00322	CDS	261	RBKS	2.7.1.15		Ribokinase
+EOCHLGEI_00323	gene	189				
+EOCHLGEI_00323	CDS	189				hypothetical protein
+EOCHLGEI_00324	gene	3339				
+EOCHLGEI_00324	CDS	3339				hypothetical protein
+EOCHLGEI_00325	gene	1851				
+EOCHLGEI_00325	CDS	1851				hypothetical protein
+EOCHLGEI_00326	gene	1686				
+EOCHLGEI_00326	CDS	1686				hypothetical protein
+EOCHLGEI_00327	gene	1740				
+EOCHLGEI_00327	CDS	1740				hypothetical protein
+EOCHLGEI_00328	gene	165				
+EOCHLGEI_00328	CDS	165				hypothetical protein
+EOCHLGEI_00329	gene	840				
+EOCHLGEI_00329	CDS	840				hypothetical protein
+EOCHLGEI_00330	gene	879				
+EOCHLGEI_00330	CDS	879				hypothetical protein
+EOCHLGEI_00331	gene	690				
+EOCHLGEI_00331	CDS	690				hypothetical protein
+EOCHLGEI_00332	gene	612				
+EOCHLGEI_00332	CDS	612				hypothetical protein
+EOCHLGEI_00333	gene	1347	murA			
+EOCHLGEI_00333	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EOCHLGEI_00334	gene	522	rimM			
+EOCHLGEI_00334	CDS	522	rimM			Ribosome maturation factor RimM
+EOCHLGEI_00335	gene	1155	dxr			
+EOCHLGEI_00335	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+EOCHLGEI_00336	gene	1410				
+EOCHLGEI_00336	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+EOCHLGEI_00337	gene	1296				
+EOCHLGEI_00337	CDS	1296				hypothetical protein
+EOCHLGEI_00338	gene	348				
+EOCHLGEI_00338	CDS	348				hypothetical protein
+EOCHLGEI_00339	gene	726				
+EOCHLGEI_00339	CDS	726				hypothetical protein
+EOCHLGEI_00340	gene	282				
+EOCHLGEI_00340	CDS	282				hypothetical protein
+EOCHLGEI_00341	gene	2409				
+EOCHLGEI_00341	CDS	2409		5.1.1.1		Alanine racemase
+EOCHLGEI_00342	gene	852				
+EOCHLGEI_00342	CDS	852				hypothetical protein
+EOCHLGEI_00343	gene	435	nudC_1			
+EOCHLGEI_00343	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+EOCHLGEI_00344	gene	1851	typA			
+EOCHLGEI_00344	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+EOCHLGEI_00345	gene	1467	dinF			
+EOCHLGEI_00345	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+EOCHLGEI_00346	gene	480	luxS			
+EOCHLGEI_00346	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+EOCHLGEI_00347	gene	363	mtnN			
+EOCHLGEI_00347	CDS	363	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+EOCHLGEI_00348	gene	381	pntAA			
+EOCHLGEI_00348	CDS	381	pntAA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha part 1
+EOCHLGEI_00349	gene	315	pntA			
+EOCHLGEI_00349	CDS	315	pntA	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+EOCHLGEI_00350	gene	1524	pntB			
+EOCHLGEI_00350	CDS	1524	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+EOCHLGEI_00351	gene	1665	lcfB			
+EOCHLGEI_00351	CDS	1665	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EOCHLGEI_00352	gene	1248				
+EOCHLGEI_00352	CDS	1248				hypothetical protein
+EOCHLGEI_00353	gene	2055	htpG			
+EOCHLGEI_00353	CDS	2055	htpG			Chaperone protein HtpG
+EOCHLGEI_00354	gene	1146	pepD_1			
+EOCHLGEI_00354	CDS	1146	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+EOCHLGEI_00355	gene	699				
+EOCHLGEI_00355	CDS	699				hypothetical protein
+EOCHLGEI_00356	gene	822				
+EOCHLGEI_00356	CDS	822				hypothetical protein
+EOCHLGEI_00357	gene	555	nudC_2			
+EOCHLGEI_00357	CDS	555	nudC_2	3.6.1.22		NADH pyrophosphatase
+EOCHLGEI_00358	gene	417				
+EOCHLGEI_00358	CDS	417				hypothetical protein
+EOCHLGEI_00359	gene	1152	resA_1			
+EOCHLGEI_00359	CDS	1152	resA_1			Thiol-disulfide oxidoreductase ResA
+EOCHLGEI_00360	gene	990				
+EOCHLGEI_00360	CDS	990				hypothetical protein
+EOCHLGEI_00361	gene	1026				
+EOCHLGEI_00361	CDS	1026				hypothetical protein
+EOCHLGEI_00362	gene	1089				
+EOCHLGEI_00362	CDS	1089				hypothetical protein
+EOCHLGEI_00363	gene	636	wecA			
+EOCHLGEI_00363	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+EOCHLGEI_00364	gene	398	ssrA			
+EOCHLGEI_00364	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+EOCHLGEI_00365	gene	639	thyA_1			
+EOCHLGEI_00365	CDS	639	thyA_1	2.1.1.45		Thymidylate synthase
+EOCHLGEI_00366	gene	834				
+EOCHLGEI_00366	CDS	834				hypothetical protein
+EOCHLGEI_00367	gene	243				
+EOCHLGEI_00367	CDS	243				hypothetical protein
+EOCHLGEI_00368	gene	285				
+EOCHLGEI_00368	CDS	285				hypothetical protein
+EOCHLGEI_00369	gene	495				
+EOCHLGEI_00369	CDS	495				hypothetical protein
+EOCHLGEI_00370	gene	1302				
+EOCHLGEI_00370	CDS	1302				hypothetical protein
+EOCHLGEI_00371	gene	1446				
+EOCHLGEI_00371	CDS	1446				hypothetical protein
+EOCHLGEI_00372	gene	309	lptB			
+EOCHLGEI_00372	CDS	309	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+EOCHLGEI_00373	gene	609				
+EOCHLGEI_00373	CDS	609				hypothetical protein
+EOCHLGEI_00374	gene	939	prs			
+EOCHLGEI_00374	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+EOCHLGEI_00375	gene	582	resA_2			
+EOCHLGEI_00375	CDS	582	resA_2			Thiol-disulfide oxidoreductase ResA
+EOCHLGEI_00376	gene	3099				
+EOCHLGEI_00376	CDS	3099				hypothetical protein
+EOCHLGEI_00377	gene	1356	tig			
+EOCHLGEI_00377	CDS	1356	tig	5.2.1.8		Trigger factor
+EOCHLGEI_00378	gene	666	clpP			
+EOCHLGEI_00378	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+EOCHLGEI_00379	gene	5739				
+EOCHLGEI_00379	CDS	5739				hypothetical protein
+EOCHLGEI_00380	gene	1335	sufS			
+EOCHLGEI_00380	CDS	1335	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+EOCHLGEI_00381	gene	471				
+EOCHLGEI_00381	CDS	471				hypothetical protein
+EOCHLGEI_00382	gene	465	sigE			
+EOCHLGEI_00382	CDS	465	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+EOCHLGEI_00383	gene	672				
+EOCHLGEI_00383	CDS	672				hypothetical protein
+EOCHLGEI_00384	gene	3537				
+EOCHLGEI_00384	CDS	3537				hypothetical protein
+EOCHLGEI_00385	gene	1545				
+EOCHLGEI_00385	CDS	1545				hypothetical protein
+EOCHLGEI_00386	gene	444				
+EOCHLGEI_00386	CDS	444				hypothetical protein
+EOCHLGEI_00387	gene	1563				
+EOCHLGEI_00387	CDS	1563				hypothetical protein
+EOCHLGEI_00388	gene	303				
+EOCHLGEI_00388	CDS	303				hypothetical protein
+EOCHLGEI_00389	gene	2412				
+EOCHLGEI_00389	CDS	2412				hypothetical protein
+EOCHLGEI_00390	gene	336				
+EOCHLGEI_00390	CDS	336				hypothetical protein
+EOCHLGEI_00391	gene	591				
+EOCHLGEI_00391	CDS	591				hypothetical protein
+EOCHLGEI_00392	gene	123				
+EOCHLGEI_00392	CDS	123				hypothetical protein
+EOCHLGEI_00393	gene	687				
+EOCHLGEI_00393	CDS	687				hypothetical protein
+EOCHLGEI_00394	gene	507	csh			
+EOCHLGEI_00394	CDS	507	csh	3.13.1.5		Carbon disulfide hydrolase
+EOCHLGEI_00395	gene	495				
+EOCHLGEI_00395	CDS	495				hypothetical protein
+EOCHLGEI_00396	gene	723				
+EOCHLGEI_00396	CDS	723				hypothetical protein
+EOCHLGEI_00397	gene	108				
+EOCHLGEI_00397	CDS	108				hypothetical protein
+EOCHLGEI_00398	gene	927				
+EOCHLGEI_00398	CDS	927				hypothetical protein
+EOCHLGEI_00399	gene	663	queC			
+EOCHLGEI_00399	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+EOCHLGEI_00400	gene	1251	pgk			
+EOCHLGEI_00400	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+EOCHLGEI_00401	gene	936				
+EOCHLGEI_00401	CDS	936				hypothetical protein
+EOCHLGEI_00402	gene	2565	glgP			
+EOCHLGEI_00402	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+EOCHLGEI_00403	gene	1641				
+EOCHLGEI_00403	CDS	1641				hypothetical protein
+EOCHLGEI_00404	gene	432				
+EOCHLGEI_00404	CDS	432				hypothetical protein
+EOCHLGEI_00405	gene	489				
+EOCHLGEI_00405	CDS	489				hypothetical protein
+EOCHLGEI_00406	gene	534				
+EOCHLGEI_00406	CDS	534				hypothetical protein
+EOCHLGEI_00407	gene	837				
+EOCHLGEI_00407	CDS	837				hypothetical protein
+EOCHLGEI_00408	gene	1413				
+EOCHLGEI_00408	CDS	1413				hypothetical protein
+EOCHLGEI_00409	gene	399				
+EOCHLGEI_00409	CDS	399			COG0537	putative HIT-like protein
+EOCHLGEI_00410	gene	465	greA			
+EOCHLGEI_00410	CDS	465	greA		COG0782	Transcription elongation factor GreA
+EOCHLGEI_00411	gene	75				
+EOCHLGEI_00411	tRNA	75				tRNA-Ala(ggc)
+EOCHLGEI_00412	gene	726				
+EOCHLGEI_00412	CDS	726				hypothetical protein
+EOCHLGEI_00413	gene	138				
+EOCHLGEI_00413	CDS	138				hypothetical protein
+EOCHLGEI_00414	gene	1032	cobD_1			
+EOCHLGEI_00414	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+EOCHLGEI_00415	gene	939	cobD_2			
+EOCHLGEI_00415	CDS	939	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+EOCHLGEI_00416	gene	789				
+EOCHLGEI_00416	CDS	789				IS982 family transposase IS195
+EOCHLGEI_00417	gene	186				
+EOCHLGEI_00417	CDS	186				hypothetical protein
+EOCHLGEI_00418	gene	1038	wbbI			
+EOCHLGEI_00418	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+EOCHLGEI_00419	gene	948				
+EOCHLGEI_00419	CDS	948				hypothetical protein
+EOCHLGEI_00420	gene	843				
+EOCHLGEI_00420	CDS	843				hypothetical protein
+EOCHLGEI_00421	gene	651				
+EOCHLGEI_00421	CDS	651				hypothetical protein
+EOCHLGEI_00422	gene	291				
+EOCHLGEI_00422	CDS	291				hypothetical protein
+EOCHLGEI_00423	gene	2934				
+EOCHLGEI_00423	CDS	2934				hypothetical protein
+EOCHLGEI_00424	gene	960	purH_1			
+EOCHLGEI_00424	CDS	960	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+EOCHLGEI_00425	gene	192				
+EOCHLGEI_00425	CDS	192				hypothetical protein
+EOCHLGEI_00426	gene	339				
+EOCHLGEI_00426	CDS	339				hypothetical protein
+EOCHLGEI_00427	gene	1200	mgl			
+EOCHLGEI_00427	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+EOCHLGEI_00428	gene	1002	fda			
+EOCHLGEI_00428	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+EOCHLGEI_00429	gene	1077				
+EOCHLGEI_00429	CDS	1077				hypothetical protein
+EOCHLGEI_00430	gene	735				
+EOCHLGEI_00430	CDS	735				hypothetical protein
+EOCHLGEI_00431	gene	1557	nnr			
+EOCHLGEI_00431	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+EOCHLGEI_00432	gene	1329				
+EOCHLGEI_00432	CDS	1329				hypothetical protein
+EOCHLGEI_00433	gene	1314				
+EOCHLGEI_00433	CDS	1314				hypothetical protein
+EOCHLGEI_00434	gene	1812				
+EOCHLGEI_00434	CDS	1812				hypothetical protein
+EOCHLGEI_00435	gene	1149				
+EOCHLGEI_00435	CDS	1149				hypothetical protein
+EOCHLGEI_00436	gene	390				
+EOCHLGEI_00436	CDS	390				hypothetical protein
+EOCHLGEI_00437	gene	633				
+EOCHLGEI_00437	CDS	633				hypothetical protein
+EOCHLGEI_00438	gene	1971	gyrB_2			
+EOCHLGEI_00438	CDS	1971	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+EOCHLGEI_00439	gene	1149	yghO			
+EOCHLGEI_00439	CDS	1149	yghO			Protein YghO
+EOCHLGEI_00440	gene	1317				
+EOCHLGEI_00440	CDS	1317				hypothetical protein
+EOCHLGEI_00441	gene	453				
+EOCHLGEI_00441	CDS	453				hypothetical protein
+EOCHLGEI_00442	gene	1128				
+EOCHLGEI_00442	CDS	1128				hypothetical protein
+EOCHLGEI_00443	gene	1050	dusB			
+EOCHLGEI_00443	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+EOCHLGEI_00444	gene	1314				
+EOCHLGEI_00444	CDS	1314				hypothetical protein
+EOCHLGEI_00445	gene	1494	patA			
+EOCHLGEI_00445	CDS	1494	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+EOCHLGEI_00446	gene	417				
+EOCHLGEI_00446	CDS	417				hypothetical protein
+EOCHLGEI_00447	gene	1821	argS			
+EOCHLGEI_00447	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+EOCHLGEI_00448	gene	126				
+EOCHLGEI_00448	CDS	126				hypothetical protein
+EOCHLGEI_00449	gene	255				
+EOCHLGEI_00449	CDS	255				hypothetical protein
+EOCHLGEI_00450	gene	423				
+EOCHLGEI_00450	CDS	423				hypothetical protein
+EOCHLGEI_00451	gene	828	mazG			
+EOCHLGEI_00451	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+EOCHLGEI_00452	gene	564				
+EOCHLGEI_00452	CDS	564				hypothetical protein
+EOCHLGEI_00453	gene	915	rnz			
+EOCHLGEI_00453	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+EOCHLGEI_00454	gene	366				
+EOCHLGEI_00454	CDS	366				hypothetical protein
+EOCHLGEI_00455	gene	1536				
+EOCHLGEI_00455	CDS	1536				hypothetical protein
+EOCHLGEI_00456	gene	561	sigW			
+EOCHLGEI_00456	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+EOCHLGEI_00457	gene	366				
+EOCHLGEI_00457	CDS	366				hypothetical protein
+EOCHLGEI_00458	gene	441				
+EOCHLGEI_00458	CDS	441				hypothetical protein
+EOCHLGEI_00459	gene	813	glgA			
+EOCHLGEI_00459	CDS	813	glgA	2.4.1.21		Glycogen synthase
+EOCHLGEI_00460	gene	858	panC			
+EOCHLGEI_00460	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+EOCHLGEI_00461	gene	345	panD			
+EOCHLGEI_00461	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+EOCHLGEI_00462	gene	432	accB			
+EOCHLGEI_00462	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+EOCHLGEI_00463	gene	159				
+EOCHLGEI_00463	CDS	159				hypothetical protein
+EOCHLGEI_00464	gene	1554	pccB			
+EOCHLGEI_00464	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+EOCHLGEI_00465	gene	405	epi			
+EOCHLGEI_00465	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+EOCHLGEI_00466	gene	1401				
+EOCHLGEI_00466	CDS	1401				hypothetical protein
+EOCHLGEI_00467	gene	549	bsaA			
+EOCHLGEI_00467	CDS	549	bsaA			Glutathione peroxidase BsaA
+EOCHLGEI_00468	gene	600				
+EOCHLGEI_00468	CDS	600				hypothetical protein
+EOCHLGEI_00469	gene	1242	ugd			
+EOCHLGEI_00469	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+EOCHLGEI_00470	gene	456				
+EOCHLGEI_00470	CDS	456				hypothetical protein
+EOCHLGEI_00471	gene	1563				
+EOCHLGEI_00471	CDS	1563				hypothetical protein
+EOCHLGEI_00472	gene	498				
+EOCHLGEI_00472	CDS	498				hypothetical protein
+EOCHLGEI_00473	gene	2019	apxIB_1			
+EOCHLGEI_00473	CDS	2019	apxIB_1		COG2274	Toxin RTX-I translocation ATP-binding protein
+EOCHLGEI_00474	gene	378				
+EOCHLGEI_00474	CDS	378				hypothetical protein
+EOCHLGEI_00475	gene	795	thyA_2			
+EOCHLGEI_00475	CDS	795	thyA_2	2.1.1.45	COG0207	Thymidylate synthase
+EOCHLGEI_00476	gene	486	dfrA			
+EOCHLGEI_00476	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+EOCHLGEI_00477	gene	135				
+EOCHLGEI_00477	CDS	135				hypothetical protein
+EOCHLGEI_00478	gene	486	asnC			
+EOCHLGEI_00478	CDS	486	asnC		COG1522	Regulatory protein AsnC
+EOCHLGEI_00479	gene	783	tolQ_1			
+EOCHLGEI_00479	CDS	783	tolQ_1			Tol-Pal system protein TolQ
+EOCHLGEI_00480	gene	477				
+EOCHLGEI_00480	CDS	477				hypothetical protein
+EOCHLGEI_00481	gene	525				
+EOCHLGEI_00481	CDS	525				hypothetical protein
+EOCHLGEI_00482	gene	483				
+EOCHLGEI_00482	CDS	483				hypothetical protein
+EOCHLGEI_00483	gene	534	maa			
+EOCHLGEI_00483	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+EOCHLGEI_00484	gene	555	resA_3			
+EOCHLGEI_00484	CDS	555	resA_3			Thiol-disulfide oxidoreductase ResA
+EOCHLGEI_00485	gene	879	yhdJ			
+EOCHLGEI_00485	CDS	879	yhdJ	2.1.1.72	COG0863	DNA adenine methyltransferase YhdJ
+EOCHLGEI_00486	gene	114				
+EOCHLGEI_00486	CDS	114				hypothetical protein
+EOCHLGEI_00487	gene	120				
+EOCHLGEI_00487	CDS	120				hypothetical protein
+EOCHLGEI_00488	gene	774	lpxA_1			
+EOCHLGEI_00488	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EOCHLGEI_00489	gene	1362	oprM			
+EOCHLGEI_00489	CDS	1362	oprM		COG1538	Outer membrane protein OprM
+EOCHLGEI_00490	gene	3279	bepE			
+EOCHLGEI_00490	CDS	3279	bepE			Efflux pump membrane transporter BepE
+EOCHLGEI_00491	gene	1194	ttgA			
+EOCHLGEI_00491	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+EOCHLGEI_00492	gene	363				
+EOCHLGEI_00492	CDS	363				hypothetical protein
+EOCHLGEI_00493	gene	552				
+EOCHLGEI_00493	CDS	552				hypothetical protein
+EOCHLGEI_00494	gene	105				
+EOCHLGEI_00494	CDS	105				hypothetical protein
+EOCHLGEI_00495	gene	636				
+EOCHLGEI_00495	CDS	636				hypothetical protein
+EOCHLGEI_00496	gene	558				
+EOCHLGEI_00496	CDS	558				hypothetical protein
+EOCHLGEI_00497	gene	204				
+EOCHLGEI_00497	CDS	204				hypothetical protein
+EOCHLGEI_00498	gene	189				
+EOCHLGEI_00498	CDS	189				hypothetical protein
+EOCHLGEI_00499	gene	492				
+EOCHLGEI_00499	CDS	492				hypothetical protein
+EOCHLGEI_00500	gene	681				
+EOCHLGEI_00500	CDS	681				hypothetical protein
+EOCHLGEI_00501	gene	2541				
+EOCHLGEI_00501	CDS	2541				hypothetical protein
+EOCHLGEI_00502	gene	189				
+EOCHLGEI_00502	CDS	189				hypothetical protein
+EOCHLGEI_00503	gene	165				
+EOCHLGEI_00503	CDS	165				hypothetical protein
+EOCHLGEI_00504	gene	462				
+EOCHLGEI_00504	CDS	462				hypothetical protein
+EOCHLGEI_00505	gene	381	dksA			
+EOCHLGEI_00505	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+EOCHLGEI_00506	gene	633	lspA			
+EOCHLGEI_00506	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+EOCHLGEI_00507	gene	903				
+EOCHLGEI_00507	CDS	903				hypothetical protein
+EOCHLGEI_00508	gene	222				
+EOCHLGEI_00508	CDS	222				hypothetical protein
+EOCHLGEI_00509	gene	1482	proS			
+EOCHLGEI_00509	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+EOCHLGEI_00510	gene	696	pal_2			
+EOCHLGEI_00510	CDS	696	pal_2			Peptidoglycan-associated lipoprotein
+EOCHLGEI_00511	gene	732	mtgA			
+EOCHLGEI_00511	CDS	732	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+EOCHLGEI_00512	gene	75				
+EOCHLGEI_00512	tRNA	75				tRNA-Met(cat)
+EOCHLGEI_00513	gene	303				
+EOCHLGEI_00513	CDS	303				hypothetical protein
+EOCHLGEI_00514	gene	570				
+EOCHLGEI_00514	CDS	570				hypothetical protein
+EOCHLGEI_00515	gene	471				
+EOCHLGEI_00515	CDS	471				hypothetical protein
+EOCHLGEI_00516	gene	1410	dnaA			
+EOCHLGEI_00516	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+EOCHLGEI_00517	gene	903				
+EOCHLGEI_00517	CDS	903				hypothetical protein
+EOCHLGEI_00518	gene	849				
+EOCHLGEI_00518	CDS	849				hypothetical protein
+EOCHLGEI_00519	gene	426				
+EOCHLGEI_00519	CDS	426				hypothetical protein
+EOCHLGEI_00520	gene	1227				
+EOCHLGEI_00520	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+EOCHLGEI_00521	gene	1251				
+EOCHLGEI_00521	CDS	1251				hypothetical protein
+EOCHLGEI_00522	gene	1866	deaD_2			
+EOCHLGEI_00522	CDS	1866	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+EOCHLGEI_00523	gene	708				
+EOCHLGEI_00523	CDS	708				hypothetical protein
+EOCHLGEI_00524	gene	594				
+EOCHLGEI_00524	CDS	594				hypothetical protein
+EOCHLGEI_00525	gene	168				
+EOCHLGEI_00525	CDS	168				hypothetical protein
+EOCHLGEI_00526	gene	492				
+EOCHLGEI_00526	CDS	492				hypothetical protein
+EOCHLGEI_00527	gene	861				
+EOCHLGEI_00527	CDS	861				hypothetical protein
+EOCHLGEI_00528	gene	558	rsmD			
+EOCHLGEI_00528	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+EOCHLGEI_00529	gene	912				
+EOCHLGEI_00529	CDS	912				hypothetical protein
+EOCHLGEI_00530	gene	1347	nhaD			
+EOCHLGEI_00530	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+EOCHLGEI_00531	gene	849				
+EOCHLGEI_00531	CDS	849				hypothetical protein
+EOCHLGEI_00532	gene	597				
+EOCHLGEI_00532	CDS	597				hypothetical protein
+EOCHLGEI_00533	gene	195				
+EOCHLGEI_00533	CDS	195				hypothetical protein
+EOCHLGEI_00534	gene	2052	ligA			
+EOCHLGEI_00534	CDS	2052	ligA	6.5.1.2		DNA ligase
+EOCHLGEI_00535	gene	855	pta_1			
+EOCHLGEI_00535	CDS	855	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+EOCHLGEI_00536	gene	1062	buk2			
+EOCHLGEI_00536	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+EOCHLGEI_00537	gene	675	trmD			
+EOCHLGEI_00537	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+EOCHLGEI_00538	gene	939				
+EOCHLGEI_00538	CDS	939				hypothetical protein
+EOCHLGEI_00539	gene	930				
+EOCHLGEI_00539	CDS	930				hypothetical protein
+EOCHLGEI_00540	gene	894	ftsH			
+EOCHLGEI_00540	CDS	894	ftsH	3.4.24.-	COG0465	ATP-dependent zinc metalloprotease FtsH
+EOCHLGEI_00541	gene	387				
+EOCHLGEI_00541	CDS	387				hypothetical protein
+EOCHLGEI_00542	gene	630	caiE			
+EOCHLGEI_00542	CDS	630	caiE			Carnitine operon protein CaiE
+EOCHLGEI_00543	gene	105				
+EOCHLGEI_00543	CDS	105				hypothetical protein
+EOCHLGEI_00544	gene	3030				
+EOCHLGEI_00544	CDS	3030				hypothetical protein
+EOCHLGEI_00545	gene	546				
+EOCHLGEI_00545	CDS	546				hypothetical protein
+EOCHLGEI_00546	gene	384	xerD_1			
+EOCHLGEI_00546	CDS	384	xerD_1			Tyrosine recombinase XerD
+EOCHLGEI_00547	gene	300	hpf			
+EOCHLGEI_00547	CDS	300	hpf			Ribosome hibernation promoting factor
+EOCHLGEI_00548	gene	75				
+EOCHLGEI_00548	tRNA	75				tRNA-Thr(tgt)
+EOCHLGEI_00549	gene	84				
+EOCHLGEI_00549	tRNA	84				tRNA-Tyr(gta)
+EOCHLGEI_00550	gene	74				
+EOCHLGEI_00550	tRNA	74				tRNA-Gly(tcc)
+EOCHLGEI_00551	gene	73				
+EOCHLGEI_00551	tRNA	73				tRNA-Thr(ggt)
+EOCHLGEI_00552	gene	1185	tufB			
+EOCHLGEI_00552	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+EOCHLGEI_00553	gene	74				
+EOCHLGEI_00553	tRNA	74				tRNA-Trp(cca)
+EOCHLGEI_00554	gene	543	nusG_1			
+EOCHLGEI_00554	CDS	543	nusG_1		COG0250	Transcription termination/antitermination protein NusG
+EOCHLGEI_00555	gene	438	rplK			
+EOCHLGEI_00555	CDS	438	rplK			50S ribosomal protein L11
+EOCHLGEI_00556	gene	693	rplA			
+EOCHLGEI_00556	CDS	693	rplA			50S ribosomal protein L1
+EOCHLGEI_00557	gene	516	rplJ			
+EOCHLGEI_00557	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+EOCHLGEI_00558	gene	378	rplL			
+EOCHLGEI_00558	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+EOCHLGEI_00559	gene	225				
+EOCHLGEI_00559	CDS	225				hypothetical protein
+EOCHLGEI_00560	gene	456				
+EOCHLGEI_00560	CDS	456				hypothetical protein
+EOCHLGEI_00561	gene	885	folP			
+EOCHLGEI_00561	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+EOCHLGEI_00562	gene	1311	murF			
+EOCHLGEI_00562	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+EOCHLGEI_00563	gene	489				
+EOCHLGEI_00563	CDS	489				hypothetical protein
+EOCHLGEI_00564	gene	726				
+EOCHLGEI_00564	CDS	726				hypothetical protein
+EOCHLGEI_00565	gene	756				
+EOCHLGEI_00565	CDS	756				hypothetical protein
+EOCHLGEI_00566	gene	717	ybhL			
+EOCHLGEI_00566	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+EOCHLGEI_00567	gene	477	argR			
+EOCHLGEI_00567	CDS	477	argR		COG1438	Arginine repressor
+EOCHLGEI_00568	gene	1176				
+EOCHLGEI_00568	CDS	1176				hypothetical protein
+EOCHLGEI_00569	gene	993	ddlA			
+EOCHLGEI_00569	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+EOCHLGEI_00570	gene	1113	rluD_1			
+EOCHLGEI_00570	CDS	1113	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EOCHLGEI_00571	gene	825				
+EOCHLGEI_00571	CDS	825				hypothetical protein
+EOCHLGEI_00572	gene	222				
+EOCHLGEI_00572	CDS	222				hypothetical protein
+EOCHLGEI_00573	gene	525	efp			
+EOCHLGEI_00573	CDS	525	efp		COG0231	Elongation factor P
+EOCHLGEI_00574	gene	1104				
+EOCHLGEI_00574	CDS	1104				hypothetical protein
+EOCHLGEI_00575	gene	660	punA			
+EOCHLGEI_00575	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+EOCHLGEI_00576	gene	1173	lpxK			
+EOCHLGEI_00576	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+EOCHLGEI_00577	gene	1767	sppA			
+EOCHLGEI_00577	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+EOCHLGEI_00578	gene	735				
+EOCHLGEI_00578	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+EOCHLGEI_00579	gene	549				
+EOCHLGEI_00579	CDS	549				hypothetical protein
+EOCHLGEI_00580	gene	249				
+EOCHLGEI_00580	CDS	249				hypothetical protein
+EOCHLGEI_00581	gene	177				
+EOCHLGEI_00581	CDS	177				hypothetical protein
+EOCHLGEI_00582	gene	816	fabH			
+EOCHLGEI_00582	CDS	816	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+EOCHLGEI_00583	gene	1056	era			
+EOCHLGEI_00583	CDS	1056	era		COG1159	GTPase Era
+EOCHLGEI_00584	gene	1317	der			
+EOCHLGEI_00584	CDS	1317	der		COG1160	GTPase Der
+EOCHLGEI_00585	gene	399				
+EOCHLGEI_00585	CDS	399				hypothetical protein
+EOCHLGEI_00586	gene	777	mkl			
+EOCHLGEI_00586	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+EOCHLGEI_00587	gene	747	mlaE			
+EOCHLGEI_00587	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+EOCHLGEI_00588	gene	564				
+EOCHLGEI_00588	CDS	564				hypothetical protein
+EOCHLGEI_00589	gene	465	rimP			
+EOCHLGEI_00589	CDS	465	rimP			Ribosome maturation factor RimP
+EOCHLGEI_00590	gene	1257	nusA			
+EOCHLGEI_00590	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+EOCHLGEI_00591	gene	2868	infB			
+EOCHLGEI_00591	CDS	2868	infB			Translation initiation factor IF-2
+EOCHLGEI_00592	gene	147				
+EOCHLGEI_00592	CDS	147				hypothetical protein
+EOCHLGEI_00593	gene	1458	sufB			
+EOCHLGEI_00593	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+EOCHLGEI_00594	gene	726				
+EOCHLGEI_00594	CDS	726			COG0217	putative transcriptional regulatory protein
+EOCHLGEI_00595	gene	2463	pheT			
+EOCHLGEI_00595	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+EOCHLGEI_00596	gene	648				
+EOCHLGEI_00596	CDS	648				hypothetical protein
+EOCHLGEI_00597	gene	711				
+EOCHLGEI_00597	CDS	711				hypothetical protein
+EOCHLGEI_00598	gene	636	nth			
+EOCHLGEI_00598	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+EOCHLGEI_00599	gene	606				
+EOCHLGEI_00599	CDS	606				hypothetical protein
+EOCHLGEI_00600	gene	258				
+EOCHLGEI_00600	CDS	258				hypothetical protein
+EOCHLGEI_00601	gene	1107				
+EOCHLGEI_00601	CDS	1107		3.6.-.-	COG1703	putative GTPase
+EOCHLGEI_00602	gene	1065				
+EOCHLGEI_00602	CDS	1065				hypothetical protein
+EOCHLGEI_00603	gene	3945				
+EOCHLGEI_00603	CDS	3945				hypothetical protein
+EOCHLGEI_00604	gene	1128	wcaJ			
+EOCHLGEI_00604	CDS	1128	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+EOCHLGEI_00605	gene	432				
+EOCHLGEI_00605	CDS	432				hypothetical protein
+EOCHLGEI_00606	gene	2040	topB			
+EOCHLGEI_00606	CDS	2040	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+EOCHLGEI_00607	gene	738	lutA			
+EOCHLGEI_00607	CDS	738	lutA		COG0247	Lactate utilization protein A
+EOCHLGEI_00608	gene	1371	lutB			
+EOCHLGEI_00608	CDS	1371	lutB		COG1139	Lactate utilization protein B
+EOCHLGEI_00609	gene	585				
+EOCHLGEI_00609	CDS	585				hypothetical protein
+EOCHLGEI_00610	gene	633				
+EOCHLGEI_00610	CDS	633				Iron-sulfur cluster carrier protein
+EOCHLGEI_00611	gene	2082	dxs			
+EOCHLGEI_00611	CDS	2082	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+EOCHLGEI_00612	gene	1353	trkA			
+EOCHLGEI_00612	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+EOCHLGEI_00613	gene	1458	trkH			
+EOCHLGEI_00613	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+EOCHLGEI_00614	gene	963	manA			
+EOCHLGEI_00614	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+EOCHLGEI_00615	gene	1278	rarA			
+EOCHLGEI_00615	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+EOCHLGEI_00616	gene	813				
+EOCHLGEI_00616	CDS	813				hypothetical protein
+EOCHLGEI_00617	gene	801				
+EOCHLGEI_00617	CDS	801				hypothetical protein
+EOCHLGEI_00618	gene	981				
+EOCHLGEI_00618	CDS	981			COG1702	PhoH-like protein
+EOCHLGEI_00619	gene	981	purC			
+EOCHLGEI_00619	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EOCHLGEI_00620	gene	735	menG			
+EOCHLGEI_00620	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+EOCHLGEI_00621	gene	576				
+EOCHLGEI_00621	CDS	576				hypothetical protein
+EOCHLGEI_00622	gene	423				
+EOCHLGEI_00622	CDS	423				hypothetical protein
+EOCHLGEI_00623	gene	633	pyrE			
+EOCHLGEI_00623	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+EOCHLGEI_00624	gene	852				
+EOCHLGEI_00624	CDS	852				hypothetical protein
+EOCHLGEI_00625	gene	1794				
+EOCHLGEI_00625	CDS	1794				hypothetical protein
+EOCHLGEI_00626	gene	492				
+EOCHLGEI_00626	CDS	492				hypothetical protein
+EOCHLGEI_00627	gene	1086	mutA			
+EOCHLGEI_00627	CDS	1086	mutA	5.4.99.2	COG1884	putative methylmalonyl-CoA mutase small subunit
+EOCHLGEI_00628	gene	2166	mutB			
+EOCHLGEI_00628	CDS	2166	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+EOCHLGEI_00629	gene	549				
+EOCHLGEI_00629	CDS	549				hypothetical protein
+EOCHLGEI_00630	gene	1680				
+EOCHLGEI_00630	CDS	1680				hypothetical protein
+EOCHLGEI_00631	gene	477	cdd			
+EOCHLGEI_00631	CDS	477	cdd	3.5.4.5	COG0295	Cytidine deaminase
+EOCHLGEI_00632	gene	1509	gcvPB			
+EOCHLGEI_00632	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+EOCHLGEI_00633	gene	1326	gcvPA			
+EOCHLGEI_00633	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+EOCHLGEI_00634	gene	387	gcvH			
+EOCHLGEI_00634	CDS	387	gcvH			Glycine cleavage system H protein
+EOCHLGEI_00635	gene	1095	gcvT			
+EOCHLGEI_00635	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+EOCHLGEI_00636	gene	1038	lplJ			
+EOCHLGEI_00636	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+EOCHLGEI_00637	gene	423	mscL			
+EOCHLGEI_00637	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+EOCHLGEI_00638	gene	2286	relA			
+EOCHLGEI_00638	CDS	2286	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+EOCHLGEI_00639	gene	1536				
+EOCHLGEI_00639	CDS	1536				hypothetical protein
+EOCHLGEI_00640	gene	765				
+EOCHLGEI_00640	CDS	765				hypothetical protein
+EOCHLGEI_00641	gene	900	parB			
+EOCHLGEI_00641	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+EOCHLGEI_00642	gene	762	soj			
+EOCHLGEI_00642	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+EOCHLGEI_00643	gene	99				
+EOCHLGEI_00643	CDS	99				hypothetical protein
+EOCHLGEI_00644	gene	1335				
+EOCHLGEI_00644	CDS	1335				hypothetical protein
+EOCHLGEI_00645	gene	1698				
+EOCHLGEI_00645	CDS	1698				hypothetical protein
+EOCHLGEI_00646	gene	285				
+EOCHLGEI_00646	CDS	285				hypothetical protein
+EOCHLGEI_00647	gene	1833	LIAS			
+EOCHLGEI_00647	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+EOCHLGEI_00648	gene	1218	pyrP			
+EOCHLGEI_00648	CDS	1218	pyrP			Uracil permease
+EOCHLGEI_00649	gene	744				
+EOCHLGEI_00649	CDS	744				hypothetical protein
+EOCHLGEI_00650	gene	1296	adeP			
+EOCHLGEI_00650	CDS	1296	adeP		COG2252	Adenine permease AdeP
+EOCHLGEI_00651	gene	1887				
+EOCHLGEI_00651	CDS	1887				hypothetical protein
+EOCHLGEI_00652	gene	468				
+EOCHLGEI_00652	CDS	468				hypothetical protein
+EOCHLGEI_00653	gene	621				
+EOCHLGEI_00653	CDS	621				hypothetical protein
+EOCHLGEI_00654	gene	1113	macA			
+EOCHLGEI_00654	CDS	1113	macA		COG0845	Macrolide export protein MacA
+EOCHLGEI_00655	gene	1248	macB_1			
+EOCHLGEI_00655	CDS	1248	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+EOCHLGEI_00656	gene	1260	macB_2			
+EOCHLGEI_00656	CDS	1260	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+EOCHLGEI_00657	gene	672	yknY_2			
+EOCHLGEI_00657	CDS	672	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EOCHLGEI_00658	gene	171				
+EOCHLGEI_00658	CDS	171				hypothetical protein
+EOCHLGEI_00659	gene	327				
+EOCHLGEI_00659	CDS	327				hypothetical protein
+EOCHLGEI_00660	gene	2469	mrcA			
+EOCHLGEI_00660	CDS	2469	mrcA		COG5009	Penicillin-binding protein 1A
+EOCHLGEI_00661	gene	909	miaA_1			
+EOCHLGEI_00661	CDS	909	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EOCHLGEI_00662	gene	774	lpxA_2			
+EOCHLGEI_00662	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EOCHLGEI_00663	gene	225				
+EOCHLGEI_00663	CDS	225				hypothetical protein
+EOCHLGEI_00664	gene	606	ribE			
+EOCHLGEI_00664	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+EOCHLGEI_00665	gene	1272	apgM			
+EOCHLGEI_00665	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EOCHLGEI_00666	gene	636				
+EOCHLGEI_00666	CDS	636				hypothetical protein
+EOCHLGEI_00667	gene	1365	bepA_2			
+EOCHLGEI_00667	CDS	1365	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+EOCHLGEI_00668	gene	1209	glnS			
+EOCHLGEI_00668	CDS	1209	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+EOCHLGEI_00669	gene	1197	lepA			
+EOCHLGEI_00669	CDS	1197	lepA	3.6.5.-	COG0481	Elongation factor 4
+EOCHLGEI_00670	gene	603				
+EOCHLGEI_00670	CDS	603				hypothetical protein
+EOCHLGEI_00671	gene	2187	bamA_1			
+EOCHLGEI_00671	CDS	2187	bamA_1			Outer membrane protein assembly factor BamA
+EOCHLGEI_00672	gene	465				
+EOCHLGEI_00672	CDS	465				hypothetical protein
+EOCHLGEI_00673	gene	807	yycJ			
+EOCHLGEI_00673	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+EOCHLGEI_00674	gene	189				
+EOCHLGEI_00674	CDS	189				hypothetical protein
+EOCHLGEI_00675	gene	168				
+EOCHLGEI_00675	CDS	168				hypothetical protein
+EOCHLGEI_00676	gene	294				
+EOCHLGEI_00676	CDS	294				hypothetical protein
+EOCHLGEI_00677	gene	270				
+EOCHLGEI_00677	CDS	270				hypothetical protein
+EOCHLGEI_00678	gene	264				
+EOCHLGEI_00678	CDS	264				hypothetical protein
+EOCHLGEI_00679	gene	399				
+EOCHLGEI_00679	CDS	399				hypothetical protein
+EOCHLGEI_00680	gene	654				
+EOCHLGEI_00680	CDS	654				hypothetical protein
+EOCHLGEI_00681	gene	276				
+EOCHLGEI_00681	CDS	276				hypothetical protein
+EOCHLGEI_00682	gene	444				
+EOCHLGEI_00682	CDS	444				hypothetical protein
+EOCHLGEI_00683	gene	615				
+EOCHLGEI_00683	CDS	615				hypothetical protein
+EOCHLGEI_00684	gene	1206				
+EOCHLGEI_00684	CDS	1206				hypothetical protein
+EOCHLGEI_00685	gene	1359				
+EOCHLGEI_00685	CDS	1359				hypothetical protein
+EOCHLGEI_00686	gene	306				
+EOCHLGEI_00686	CDS	306				hypothetical protein
+EOCHLGEI_00687	gene	720				
+EOCHLGEI_00687	CDS	720				hypothetical protein
+EOCHLGEI_00688	gene	975				
+EOCHLGEI_00688	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+EOCHLGEI_00689	gene	699				
+EOCHLGEI_00689	CDS	699				hypothetical protein
+EOCHLGEI_00690	gene	882	ycfH			
+EOCHLGEI_00690	CDS	882	ycfH	3.1.-.-	COG0084	putative metal-dependent hydrolase YcfH
+EOCHLGEI_00691	gene	89				
+EOCHLGEI_00691	tRNA	89				tRNA-Ser(gga)
+EOCHLGEI_00692	gene	1323				
+EOCHLGEI_00692	CDS	1323				hypothetical protein
+EOCHLGEI_00693	gene	1500				
+EOCHLGEI_00693	CDS	1500				hypothetical protein
+EOCHLGEI_00694	gene	315				
+EOCHLGEI_00694	CDS	315				hypothetical protein
+EOCHLGEI_00695	gene	83				
+EOCHLGEI_00695	tRNA	83				tRNA-Leu(caa)
+EOCHLGEI_00696	gene	1095	algA_1			
+EOCHLGEI_00696	CDS	1095	algA_1		COG0662	Alginate biosynthesis protein AlgA
+EOCHLGEI_00697	gene	1164				
+EOCHLGEI_00697	CDS	1164				hypothetical protein
+EOCHLGEI_00698	gene	1134				
+EOCHLGEI_00698	CDS	1134				hypothetical protein
+EOCHLGEI_00699	gene	1809	mutS_1			
+EOCHLGEI_00699	CDS	1809	mutS_1			DNA mismatch repair protein MutS
+EOCHLGEI_00700	gene	840				
+EOCHLGEI_00700	CDS	840				hypothetical protein
+EOCHLGEI_00701	gene	600				
+EOCHLGEI_00701	CDS	600				hypothetical protein
+EOCHLGEI_00702	gene	231				
+EOCHLGEI_00702	CDS	231				hypothetical protein
+EOCHLGEI_00703	gene	744				
+EOCHLGEI_00703	CDS	744			COG3385	IS4 family transposase ISPg4
+EOCHLGEI_00704	gene	327				
+EOCHLGEI_00704	CDS	327			COG3385	IS4 family transposase ISPg4
+EOCHLGEI_00705	gene	1563				
+EOCHLGEI_00705	CDS	1563				hypothetical protein
+EOCHLGEI_00706	gene	2499	clpC			
+EOCHLGEI_00706	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+EOCHLGEI_00707	gene	723				
+EOCHLGEI_00707	CDS	723				hypothetical protein
+EOCHLGEI_00708	gene	891	dapA			
+EOCHLGEI_00708	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+EOCHLGEI_00709	gene	1950	kefB_2			
+EOCHLGEI_00709	CDS	1950	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+EOCHLGEI_00710	gene	1776				
+EOCHLGEI_00710	CDS	1776				hypothetical protein
+EOCHLGEI_00711	gene	585				
+EOCHLGEI_00711	CDS	585				hypothetical protein
+EOCHLGEI_00712	gene	297				
+EOCHLGEI_00712	CDS	297				hypothetical protein
+EOCHLGEI_00713	gene	273				
+EOCHLGEI_00713	CDS	273				hypothetical protein
+EOCHLGEI_00714	gene	555				
+EOCHLGEI_00714	CDS	555				hypothetical protein
+EOCHLGEI_00715	gene	2685				
+EOCHLGEI_00715	CDS	2685				hypothetical protein
+EOCHLGEI_00716	gene	306				
+EOCHLGEI_00716	CDS	306				hypothetical protein
+EOCHLGEI_00717	gene	1443	tuaB			
+EOCHLGEI_00717	CDS	1443	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+EOCHLGEI_00718	gene	1440				
+EOCHLGEI_00718	CDS	1440				hypothetical protein
+EOCHLGEI_00719	gene	594				
+EOCHLGEI_00719	CDS	594				hypothetical protein
+EOCHLGEI_00720	gene	879				
+EOCHLGEI_00720	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+EOCHLGEI_00721	gene	609				
+EOCHLGEI_00721	CDS	609				hypothetical protein
+EOCHLGEI_00722	gene	444	inhA			
+EOCHLGEI_00722	CDS	444	inhA	4.2.1.103		Isonitrile hydratase
+EOCHLGEI_00723	gene	2685				
+EOCHLGEI_00723	CDS	2685				hypothetical protein
+EOCHLGEI_00724	gene	1416				
+EOCHLGEI_00724	CDS	1416				hypothetical protein
+EOCHLGEI_00725	gene	144				
+EOCHLGEI_00725	CDS	144				hypothetical protein
+EOCHLGEI_00726	gene	819	pdxK			
+EOCHLGEI_00726	CDS	819	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+EOCHLGEI_00727	gene	633	lpxL			
+EOCHLGEI_00727	CDS	633	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+EOCHLGEI_00728	gene	1008	ykoT			
+EOCHLGEI_00728	CDS	1008	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+EOCHLGEI_00729	gene	309				
+EOCHLGEI_00729	CDS	309				hypothetical protein
+EOCHLGEI_00730	gene	1674	aspT			
+EOCHLGEI_00730	CDS	1674	aspT			Aspartate/alanine antiporter
+EOCHLGEI_00731	gene	1374	tpl			
+EOCHLGEI_00731	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+EOCHLGEI_00732	gene	150				
+EOCHLGEI_00732	CDS	150				hypothetical protein
+EOCHLGEI_00733	gene	1218	rcsC			
+EOCHLGEI_00733	CDS	1218	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+EOCHLGEI_00734	gene	423				
+EOCHLGEI_00734	CDS	423				hypothetical protein
+EOCHLGEI_00735	gene	1509	scpC			
+EOCHLGEI_00735	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+EOCHLGEI_00736	gene	558	fumB			
+EOCHLGEI_00736	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+EOCHLGEI_00737	gene	843	ttdA			
+EOCHLGEI_00737	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+EOCHLGEI_00738	gene	945				
+EOCHLGEI_00738	CDS	945				hypothetical protein
+EOCHLGEI_00739	gene	2286				
+EOCHLGEI_00739	CDS	2286				hypothetical protein
+EOCHLGEI_00740	gene	1296				
+EOCHLGEI_00740	CDS	1296				hypothetical protein
+EOCHLGEI_00741	gene	981				
+EOCHLGEI_00741	CDS	981				hypothetical protein
+EOCHLGEI_00742	gene	735				
+EOCHLGEI_00742	CDS	735				hypothetical protein
+EOCHLGEI_00743	gene	2178	btuB_2			
+EOCHLGEI_00743	CDS	2178	btuB_2			Vitamin B12 transporter BtuB
+EOCHLGEI_00744	gene	2133	btuB_3			
+EOCHLGEI_00744	CDS	2133	btuB_3			Vitamin B12 transporter BtuB
+EOCHLGEI_00745	gene	1464	surA_1			
+EOCHLGEI_00745	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+EOCHLGEI_00746	gene	1479	surA_2			
+EOCHLGEI_00746	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+EOCHLGEI_00747	gene	1479	guaB			
+EOCHLGEI_00747	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+EOCHLGEI_00748	gene	2886				
+EOCHLGEI_00748	CDS	2886				hypothetical protein
+EOCHLGEI_00749	gene	1359	miaB			
+EOCHLGEI_00749	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EOCHLGEI_00750	gene	345	rplR			
+EOCHLGEI_00750	CDS	345	rplR		COG0256	50S ribosomal protein L18
+EOCHLGEI_00751	gene	567	rplF			
+EOCHLGEI_00751	CDS	567	rplF		COG0097	50S ribosomal protein L6
+EOCHLGEI_00752	gene	396	rpsH			
+EOCHLGEI_00752	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+EOCHLGEI_00753	gene	303	rpsN			
+EOCHLGEI_00753	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+EOCHLGEI_00754	gene	555	rplE			
+EOCHLGEI_00754	CDS	555	rplE		COG0094	50S ribosomal protein L5
+EOCHLGEI_00755	gene	321	rplX			
+EOCHLGEI_00755	CDS	321	rplX		COG0198	50S ribosomal protein L24
+EOCHLGEI_00756	gene	366	rplN			
+EOCHLGEI_00756	CDS	366	rplN		COG0093	50S ribosomal protein L14
+EOCHLGEI_00757	gene	267	rpsQ			
+EOCHLGEI_00757	CDS	267	rpsQ			30S ribosomal protein S17
+EOCHLGEI_00758	gene	195	rpmC			
+EOCHLGEI_00758	CDS	195	rpmC			50S ribosomal protein L29
+EOCHLGEI_00759	gene	429	rplP			
+EOCHLGEI_00759	CDS	429	rplP		COG0197	50S ribosomal protein L16
+EOCHLGEI_00760	gene	735	rpsC			
+EOCHLGEI_00760	CDS	735	rpsC		COG0092	30S ribosomal protein S3
+EOCHLGEI_00761	gene	405				
+EOCHLGEI_00761	CDS	405				hypothetical protein
+EOCHLGEI_00762	gene	267	rpsS			
+EOCHLGEI_00762	CDS	267	rpsS			30S ribosomal protein S19
+EOCHLGEI_00763	gene	549	rplB			
+EOCHLGEI_00763	CDS	549	rplB		COG0090	50S ribosomal protein L2
+EOCHLGEI_00764	gene	4644				
+EOCHLGEI_00764	CDS	4644				hypothetical protein
+EOCHLGEI_00765	gene	486	resA_4			
+EOCHLGEI_00765	CDS	486	resA_4			Thiol-disulfide oxidoreductase ResA
+EOCHLGEI_00766	gene	693				
+EOCHLGEI_00766	CDS	693				hypothetical protein
+EOCHLGEI_00767	gene	75				
+EOCHLGEI_00767	tRNA	75				tRNA-Met(cat)
+EOCHLGEI_00768	gene	1368				
+EOCHLGEI_00768	CDS	1368				hypothetical protein
+EOCHLGEI_00769	gene	951				
+EOCHLGEI_00769	CDS	951		3.4.24.-	COG0612	putative zinc protease
+EOCHLGEI_00770	gene	459	rnhA			
+EOCHLGEI_00770	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+EOCHLGEI_00771	gene	477				
+EOCHLGEI_00771	CDS	477				hypothetical protein
+EOCHLGEI_00772	gene	681				
+EOCHLGEI_00772	CDS	681				hypothetical protein
+EOCHLGEI_00773	gene	831				
+EOCHLGEI_00773	CDS	831				hypothetical protein
+EOCHLGEI_00774	gene	558	trmH			
+EOCHLGEI_00774	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+EOCHLGEI_00775	gene	429	csdE			
+EOCHLGEI_00775	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+EOCHLGEI_00776	gene	1296				
+EOCHLGEI_00776	CDS	1296				hypothetical protein
+EOCHLGEI_00777	gene	336	xerD_2			
+EOCHLGEI_00777	CDS	336	xerD_2			Tyrosine recombinase XerD
+EOCHLGEI_00778	gene	633	pflA			
+EOCHLGEI_00778	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+EOCHLGEI_00779	gene	642				
+EOCHLGEI_00779	CDS	642				hypothetical protein
+EOCHLGEI_00780	gene	2874	leuS			
+EOCHLGEI_00780	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+EOCHLGEI_00781	gene	969				
+EOCHLGEI_00781	CDS	969				hypothetical protein
+EOCHLGEI_00782	gene	1026	mbl			
+EOCHLGEI_00782	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+EOCHLGEI_00783	gene	600	purH_2			
+EOCHLGEI_00783	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+EOCHLGEI_00784	gene	435	folK			
+EOCHLGEI_00784	CDS	435	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+EOCHLGEI_00785	gene	1119	queA			
+EOCHLGEI_00785	CDS	1119	queA	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EOCHLGEI_00786	gene	699	truB			
+EOCHLGEI_00786	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+EOCHLGEI_00787	gene	879	uppP			
+EOCHLGEI_00787	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+EOCHLGEI_00788	gene	1638	rlmL			
+EOCHLGEI_00788	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+EOCHLGEI_00789	gene	717				
+EOCHLGEI_00789	CDS	717				hypothetical protein
+EOCHLGEI_00790	gene	813				
+EOCHLGEI_00790	CDS	813				hypothetical protein
+EOCHLGEI_00791	gene	933				
+EOCHLGEI_00791	CDS	933				hypothetical protein
+EOCHLGEI_00792	gene	321				
+EOCHLGEI_00792	CDS	321				hypothetical protein
+EOCHLGEI_00793	gene	513	sigH			
+EOCHLGEI_00793	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+EOCHLGEI_00794	gene	1893	speA			
+EOCHLGEI_00794	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+EOCHLGEI_00795	gene	528	aroK			
+EOCHLGEI_00795	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+EOCHLGEI_00796	gene	2415	topA			
+EOCHLGEI_00796	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+EOCHLGEI_00797	gene	1029				
+EOCHLGEI_00797	CDS	1029				hypothetical protein
+EOCHLGEI_00798	gene	693				
+EOCHLGEI_00798	CDS	693				hypothetical protein
+EOCHLGEI_00799	gene	2562				
+EOCHLGEI_00799	CDS	2562				hypothetical protein
+EOCHLGEI_00800	gene	687				
+EOCHLGEI_00800	CDS	687				hypothetical protein
+EOCHLGEI_00801	gene	2106	recD2_1			
+EOCHLGEI_00801	CDS	2106	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+EOCHLGEI_00802	gene	696				
+EOCHLGEI_00802	CDS	696				hypothetical protein
+EOCHLGEI_00803	gene	1023	hmuU_1			
+EOCHLGEI_00803	CDS	1023	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+EOCHLGEI_00804	gene	1023				
+EOCHLGEI_00804	CDS	1023				hypothetical protein
+EOCHLGEI_00805	gene	1422				
+EOCHLGEI_00805	CDS	1422				hypothetical protein
+EOCHLGEI_00806	gene	705				
+EOCHLGEI_00806	CDS	705				hypothetical protein
+EOCHLGEI_00807	gene	750	ispU			
+EOCHLGEI_00807	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+EOCHLGEI_00808	gene	1299				
+EOCHLGEI_00808	CDS	1299				hypothetical protein
+EOCHLGEI_00809	gene	780				
+EOCHLGEI_00809	CDS	780				hypothetical protein
+EOCHLGEI_00810	gene	2379				
+EOCHLGEI_00810	CDS	2379				hypothetical protein
+EOCHLGEI_00811	gene	168				
+EOCHLGEI_00811	CDS	168				hypothetical protein
+EOCHLGEI_00812	gene	471	msbA_1			
+EOCHLGEI_00812	CDS	471	msbA_1	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+EOCHLGEI_00813	gene	705				
+EOCHLGEI_00813	CDS	705				hypothetical protein
+EOCHLGEI_00814	gene	423				
+EOCHLGEI_00814	CDS	423				hypothetical protein
+EOCHLGEI_00815	gene	738				
+EOCHLGEI_00815	CDS	738				hypothetical protein
+EOCHLGEI_00816	gene	2559				
+EOCHLGEI_00816	CDS	2559				hypothetical protein
+EOCHLGEI_00817	gene	381	folB			
+EOCHLGEI_00817	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+EOCHLGEI_00818	gene	1020				
+EOCHLGEI_00818	CDS	1020				hypothetical protein
+EOCHLGEI_00819	gene	1245				
+EOCHLGEI_00819	CDS	1245				hypothetical protein
+EOCHLGEI_00820	gene	1086				
+EOCHLGEI_00820	CDS	1086				hypothetical protein
+EOCHLGEI_00821	gene	2118				
+EOCHLGEI_00821	CDS	2118				hypothetical protein
+EOCHLGEI_00822	gene	621	pdxA			
+EOCHLGEI_00822	CDS	621	pdxA	1.1.1.262	COG1995	4-hydroxythreonine-4-phosphate dehydrogenase
+EOCHLGEI_00823	gene	1095				
+EOCHLGEI_00823	CDS	1095				hypothetical protein
+EOCHLGEI_00824	gene	234				
+EOCHLGEI_00824	CDS	234				hypothetical protein
+EOCHLGEI_00825	gene	1059				
+EOCHLGEI_00825	CDS	1059				hypothetical protein
+EOCHLGEI_00826	gene	1065	kdsA			
+EOCHLGEI_00826	CDS	1065	kdsA	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+EOCHLGEI_00827	gene	1539				
+EOCHLGEI_00827	CDS	1539				hypothetical protein
+EOCHLGEI_00828	gene	1383				
+EOCHLGEI_00828	CDS	1383				hypothetical protein
+EOCHLGEI_00829	gene	414	glmS			
+EOCHLGEI_00829	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+EOCHLGEI_00830	gene	600				
+EOCHLGEI_00830	CDS	600				hypothetical protein
+EOCHLGEI_00831	gene	744				
+EOCHLGEI_00831	CDS	744				hypothetical protein
+EOCHLGEI_00832	gene	402				
+EOCHLGEI_00832	CDS	402				hypothetical protein
+EOCHLGEI_00833	gene	1005	hmuU_2			
+EOCHLGEI_00833	CDS	1005	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+EOCHLGEI_00834	gene	1173				
+EOCHLGEI_00834	CDS	1173				hypothetical protein
+EOCHLGEI_00835	gene	2718				
+EOCHLGEI_00835	CDS	2718				hypothetical protein
+EOCHLGEI_00836	gene	507				
+EOCHLGEI_00836	CDS	507				hypothetical protein
+EOCHLGEI_00837	gene	2187	ccsA_2			
+EOCHLGEI_00837	CDS	2187	ccsA_2			Cytochrome c biogenesis protein CcsA
+EOCHLGEI_00838	gene	2355	pnp			
+EOCHLGEI_00838	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+EOCHLGEI_00839	gene	1953	mnmG			
+EOCHLGEI_00839	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+EOCHLGEI_00840	gene	690				
+EOCHLGEI_00840	CDS	690				hypothetical protein
+EOCHLGEI_00841	gene	1983	frdA			
+EOCHLGEI_00841	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+EOCHLGEI_00842	gene	1245				
+EOCHLGEI_00842	CDS	1245				hypothetical protein
+EOCHLGEI_00843	gene	1059	fokIM			
+EOCHLGEI_00843	CDS	1059	fokIM	2.1.1.72		Modification methylase FokI
+EOCHLGEI_00844	gene	2067				
+EOCHLGEI_00844	CDS	2067				hypothetical protein
+EOCHLGEI_00845	gene	906				
+EOCHLGEI_00845	CDS	906				hypothetical protein
+EOCHLGEI_00846	gene	255	rpmE2			
+EOCHLGEI_00846	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+EOCHLGEI_00847	gene	1335				
+EOCHLGEI_00847	CDS	1335				hypothetical protein
+EOCHLGEI_00848	gene	930				
+EOCHLGEI_00848	CDS	930				hypothetical protein
+EOCHLGEI_00849	gene	1425				
+EOCHLGEI_00849	CDS	1425				hypothetical protein
+EOCHLGEI_00850	gene	300				
+EOCHLGEI_00850	CDS	300				hypothetical protein
+EOCHLGEI_00851	gene	2676	gyrA			
+EOCHLGEI_00851	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+EOCHLGEI_00852	gene	1170				
+EOCHLGEI_00852	CDS	1170				hypothetical protein
+EOCHLGEI_00853	gene	642				
+EOCHLGEI_00853	CDS	642				hypothetical protein
+EOCHLGEI_00854	gene	642				
+EOCHLGEI_00854	CDS	642				hypothetical protein
+EOCHLGEI_00855	gene	2100				
+EOCHLGEI_00855	CDS	2100				hypothetical protein
+EOCHLGEI_00856	gene	144				
+EOCHLGEI_00856	CDS	144				hypothetical protein
+EOCHLGEI_00857	gene	1299				
+EOCHLGEI_00857	CDS	1299				hypothetical protein
+EOCHLGEI_00858	gene	1032	cytR			
+EOCHLGEI_00858	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+EOCHLGEI_00859	gene	498				
+EOCHLGEI_00859	CDS	498				hypothetical protein
+EOCHLGEI_00860	gene	846				
+EOCHLGEI_00860	CDS	846				hypothetical protein
+EOCHLGEI_00861	gene	840	pal_3			
+EOCHLGEI_00861	CDS	840	pal_3			Peptidoglycan-associated lipoprotein
+EOCHLGEI_00862	gene	555				
+EOCHLGEI_00862	CDS	555				hypothetical protein
+EOCHLGEI_00863	gene	438				
+EOCHLGEI_00863	CDS	438				hypothetical protein
+EOCHLGEI_00864	gene	444	rgtE			
+EOCHLGEI_00864	CDS	444	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+EOCHLGEI_00865	gene	486				
+EOCHLGEI_00865	CDS	486				hypothetical protein
+EOCHLGEI_00866	gene	684				
+EOCHLGEI_00866	CDS	684				hypothetical protein
+EOCHLGEI_00867	gene	942	apbE_1			
+EOCHLGEI_00867	CDS	942	apbE_1	2.7.1.180	COG1477	FAD:protein FMN transferase
+EOCHLGEI_00868	gene	618				
+EOCHLGEI_00868	CDS	618				hypothetical protein
+EOCHLGEI_00869	gene	489				
+EOCHLGEI_00869	CDS	489				hypothetical protein
+EOCHLGEI_00870	gene	75				
+EOCHLGEI_00870	tRNA	75				tRNA-Arg(ccg)
+EOCHLGEI_00871	gene	693				
+EOCHLGEI_00871	CDS	693				hypothetical protein
+EOCHLGEI_00872	gene	831				
+EOCHLGEI_00872	CDS	831				hypothetical protein
+EOCHLGEI_00873	gene	1032				
+EOCHLGEI_00873	CDS	1032				hypothetical protein
+EOCHLGEI_00874	gene	174				
+EOCHLGEI_00874	CDS	174				hypothetical protein
+EOCHLGEI_00875	gene	576				
+EOCHLGEI_00875	CDS	576				hypothetical protein
+EOCHLGEI_00876	gene	1089				
+EOCHLGEI_00876	CDS	1089				hypothetical protein
+EOCHLGEI_00877	gene	819				
+EOCHLGEI_00877	CDS	819				hypothetical protein
+EOCHLGEI_00878	gene	882				
+EOCHLGEI_00878	CDS	882				hypothetical protein
+EOCHLGEI_00879	gene	426				
+EOCHLGEI_00879	CDS	426				hypothetical protein
+EOCHLGEI_00880	gene	96				
+EOCHLGEI_00880	CDS	96				hypothetical protein
+EOCHLGEI_00881	gene	330				
+EOCHLGEI_00881	CDS	330				hypothetical protein
+EOCHLGEI_00882	gene	381	rpsL			
+EOCHLGEI_00882	CDS	381	rpsL			30S ribosomal protein S12
+EOCHLGEI_00883	gene	477	rpsG			
+EOCHLGEI_00883	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+EOCHLGEI_00884	gene	1038				
+EOCHLGEI_00884	CDS	1038				hypothetical protein
+EOCHLGEI_00885	gene	1632				
+EOCHLGEI_00885	CDS	1632				hypothetical protein
+EOCHLGEI_00886	gene	666				
+EOCHLGEI_00886	CDS	666				hypothetical protein
+EOCHLGEI_00887	gene	1518	cobQ			
+EOCHLGEI_00887	CDS	1518	cobQ			Cobyric acid synthase
+EOCHLGEI_00888	gene	1125				
+EOCHLGEI_00888	CDS	1125				hypothetical protein
+EOCHLGEI_00889	gene	1320	lysC			
+EOCHLGEI_00889	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+EOCHLGEI_00890	gene	708	btuD_1			
+EOCHLGEI_00890	CDS	708	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EOCHLGEI_00891	gene	1857	eptC_2			
+EOCHLGEI_00891	CDS	1857	eptC_2	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+EOCHLGEI_00892	gene	1071				
+EOCHLGEI_00892	CDS	1071				hypothetical protein
+EOCHLGEI_00893	gene	1683				
+EOCHLGEI_00893	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+EOCHLGEI_00894	gene	171				
+EOCHLGEI_00894	CDS	171				hypothetical protein
+EOCHLGEI_00895	gene	837				
+EOCHLGEI_00895	CDS	837				hypothetical protein
+EOCHLGEI_00896	gene	1221				
+EOCHLGEI_00896	CDS	1221				hypothetical protein
+EOCHLGEI_00897	gene	756				
+EOCHLGEI_00897	CDS	756				hypothetical protein
+EOCHLGEI_00898	gene	330				
+EOCHLGEI_00898	CDS	330				hypothetical protein
+EOCHLGEI_00899	gene	903				
+EOCHLGEI_00899	CDS	903				ISL3 family transposase ISCARN113
+EOCHLGEI_00900	gene	1029				
+EOCHLGEI_00900	CDS	1029				hypothetical protein
+EOCHLGEI_00901	gene	771				
+EOCHLGEI_00901	CDS	771				hypothetical protein
+EOCHLGEI_00902	gene	192				
+EOCHLGEI_00902	CDS	192				hypothetical protein
+EOCHLGEI_00903	gene	1014				
+EOCHLGEI_00903	CDS	1014				hypothetical protein
+EOCHLGEI_00904	gene	372				
+EOCHLGEI_00904	CDS	372				hypothetical protein
+EOCHLGEI_00905	gene	921				
+EOCHLGEI_00905	CDS	921				hypothetical protein
+EOCHLGEI_00906	gene	744				
+EOCHLGEI_00906	CDS	744				hypothetical protein
+EOCHLGEI_00907	gene	1227	f1pep1			
+EOCHLGEI_00907	CDS	1227	f1pep1	3.4.21.26		Prolyl endopeptidase
+EOCHLGEI_00908	gene	1557	rapZ			
+EOCHLGEI_00908	CDS	1557	rapZ			RNase adapter protein RapZ
+EOCHLGEI_00909	gene	189				
+EOCHLGEI_00909	CDS	189				hypothetical protein
+EOCHLGEI_00910	gene	2682				
+EOCHLGEI_00910	CDS	2682				hypothetical protein
+EOCHLGEI_00911	gene	936	apxIB_2			
+EOCHLGEI_00911	CDS	936	apxIB_2		COG2274	Toxin RTX-I translocation ATP-binding protein
+EOCHLGEI_00912	gene	489				
+EOCHLGEI_00912	CDS	489				hypothetical protein
+EOCHLGEI_00913	gene	1506				
+EOCHLGEI_00913	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+EOCHLGEI_00914	gene	1887	yfkN_1			
+EOCHLGEI_00914	CDS	1887	yfkN_1		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+EOCHLGEI_00915	gene	780	nudC_3			
+EOCHLGEI_00915	CDS	780	nudC_3	3.6.1.22		NADH pyrophosphatase
+EOCHLGEI_00916	gene	720	tarI			
+EOCHLGEI_00916	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+EOCHLGEI_00917	gene	831				
+EOCHLGEI_00917	CDS	831				hypothetical protein
+EOCHLGEI_00918	gene	1095				
+EOCHLGEI_00918	CDS	1095				hypothetical protein
+EOCHLGEI_00919	gene	264				
+EOCHLGEI_00919	CDS	264				hypothetical protein
+EOCHLGEI_00920	gene	114				
+EOCHLGEI_00920	CDS	114				hypothetical protein
+EOCHLGEI_00921	gene	627				
+EOCHLGEI_00921	CDS	627				hypothetical protein
+EOCHLGEI_00922	gene	201				
+EOCHLGEI_00922	CDS	201				hypothetical protein
+EOCHLGEI_00923	gene	1239	xerC_1			
+EOCHLGEI_00923	CDS	1239	xerC_1			Tyrosine recombinase XerC
+EOCHLGEI_00924	gene	1008	xerC_2			
+EOCHLGEI_00924	CDS	1008	xerC_2		COG4974	Tyrosine recombinase XerC
+EOCHLGEI_00925	gene	1029	xerD_3			
+EOCHLGEI_00925	CDS	1029	xerD_3		COG4974	Tyrosine recombinase XerD
+EOCHLGEI_00926	gene	318				
+EOCHLGEI_00926	CDS	318				hypothetical protein
+EOCHLGEI_00927	gene	2826	alaS			
+EOCHLGEI_00927	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+EOCHLGEI_00928	gene	1023	recA			
+EOCHLGEI_00928	CDS	1023	recA			Protein RecA
+EOCHLGEI_00929	gene	552				
+EOCHLGEI_00929	CDS	552		1.5.1.43		Carboxynorspermidine synthase
+EOCHLGEI_00930	gene	1965	btuB_4			
+EOCHLGEI_00930	CDS	1965	btuB_4			Vitamin B12 transporter BtuB
+EOCHLGEI_00931	gene	1242				
+EOCHLGEI_00931	CDS	1242				hypothetical protein
+EOCHLGEI_00932	gene	1554				
+EOCHLGEI_00932	CDS	1554				hypothetical protein
+EOCHLGEI_00933	gene	1110	dnaG			
+EOCHLGEI_00933	CDS	1110	dnaG	2.7.7.-		DNA primase
+EOCHLGEI_00934	gene	330	queD			
+EOCHLGEI_00934	CDS	330	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+EOCHLGEI_00935	gene	660	queE			
+EOCHLGEI_00935	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+EOCHLGEI_00936	gene	1410	clsA			
+EOCHLGEI_00936	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+EOCHLGEI_00937	gene	1218	bamA_2			
+EOCHLGEI_00937	CDS	1218	bamA_2			Outer membrane protein assembly factor BamA
+EOCHLGEI_00938	gene	3852				
+EOCHLGEI_00938	CDS	3852				hypothetical protein
+EOCHLGEI_00939	gene	732	resE			
+EOCHLGEI_00939	CDS	732	resE	2.7.13.3		Sensor histidine kinase ResE
+EOCHLGEI_00940	gene	708				
+EOCHLGEI_00940	CDS	708				IS21 family transposase ISGur9
+EOCHLGEI_00941	gene	1581				
+EOCHLGEI_00941	CDS	1581				IS21 family transposase ISPpu7
+EOCHLGEI_00942	gene	198				
+EOCHLGEI_00942	CDS	198				hypothetical protein
+EOCHLGEI_00943	gene	243				
+EOCHLGEI_00943	CDS	243				hypothetical protein
+EOCHLGEI_00944	gene	282				
+EOCHLGEI_00944	CDS	282				hypothetical protein
+EOCHLGEI_00945	gene	933	ytlR			
+EOCHLGEI_00945	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+EOCHLGEI_00946	gene	1029	miaA_2			
+EOCHLGEI_00946	CDS	1029	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EOCHLGEI_00947	gene	606				
+EOCHLGEI_00947	CDS	606				hypothetical protein
+EOCHLGEI_00948	gene	627	dsbD			
+EOCHLGEI_00948	CDS	627	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+EOCHLGEI_00949	gene	1026	carE			
+EOCHLGEI_00949	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+EOCHLGEI_00950	gene	873	carD			
+EOCHLGEI_00950	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+EOCHLGEI_00951	gene	642				
+EOCHLGEI_00951	CDS	642				hypothetical protein
+EOCHLGEI_00952	gene	1401	algC			
+EOCHLGEI_00952	CDS	1401	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+EOCHLGEI_00953	gene	3108	carB			
+EOCHLGEI_00953	CDS	3108	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+EOCHLGEI_00954	gene	744	kgp			
+EOCHLGEI_00954	CDS	744	kgp	3.4.22.47		Lys-gingipain
+EOCHLGEI_00955	gene	2007	hutU			
+EOCHLGEI_00955	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+EOCHLGEI_00956	gene	1713				
+EOCHLGEI_00956	CDS	1713				hypothetical protein
+EOCHLGEI_00957	gene	90				
+EOCHLGEI_00957	CDS	90				hypothetical protein
+EOCHLGEI_00958	gene	183	nadB			
+EOCHLGEI_00958	CDS	183	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+EOCHLGEI_00959	gene	540				
+EOCHLGEI_00959	CDS	540				hypothetical protein
+EOCHLGEI_00960	gene	534				
+EOCHLGEI_00960	CDS	534				hypothetical protein
+EOCHLGEI_00961	gene	2004				
+EOCHLGEI_00961	CDS	2004				hypothetical protein
+EOCHLGEI_00962	gene	705	cobB			
+EOCHLGEI_00962	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+EOCHLGEI_00963	gene	126				
+EOCHLGEI_00963	CDS	126				hypothetical protein
+EOCHLGEI_00964	gene	339				
+EOCHLGEI_00964	CDS	339				hypothetical protein
+EOCHLGEI_00965	gene	381				
+EOCHLGEI_00965	CDS	381				hypothetical protein
+EOCHLGEI_00966	gene	432				
+EOCHLGEI_00966	CDS	432				hypothetical protein
+EOCHLGEI_00967	gene	636				
+EOCHLGEI_00967	CDS	636				hypothetical protein
+EOCHLGEI_00968	gene	2868	uvrA			
+EOCHLGEI_00968	CDS	2868	uvrA		COG0178	UvrABC system protein A
+EOCHLGEI_00969	gene	720				
+EOCHLGEI_00969	CDS	720				hypothetical protein
+EOCHLGEI_00970	gene	651				
+EOCHLGEI_00970	CDS	651				hypothetical protein
+EOCHLGEI_00971	gene	1449				
+EOCHLGEI_00971	CDS	1449				hypothetical protein
+EOCHLGEI_00972	gene	963				
+EOCHLGEI_00972	CDS	963				hypothetical protein
+EOCHLGEI_00973	gene	807				
+EOCHLGEI_00973	CDS	807				hypothetical protein
+EOCHLGEI_00974	gene	615	surE			
+EOCHLGEI_00974	CDS	615	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+EOCHLGEI_00975	gene	1149	lpxB			
+EOCHLGEI_00975	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+EOCHLGEI_00976	gene	1008				
+EOCHLGEI_00976	CDS	1008				hypothetical protein
+EOCHLGEI_00977	gene	1461	pepD_2			
+EOCHLGEI_00977	CDS	1461	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+EOCHLGEI_00978	gene	378				
+EOCHLGEI_00978	CDS	378				hypothetical protein
+EOCHLGEI_00979	gene	2508				
+EOCHLGEI_00979	CDS	2508				hypothetical protein
+EOCHLGEI_00980	gene	270	rpsO			
+EOCHLGEI_00980	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+EOCHLGEI_00981	gene	90				
+EOCHLGEI_00981	CDS	90				hypothetical protein
+EOCHLGEI_00982	gene	645				
+EOCHLGEI_00982	CDS	645				hypothetical protein
+EOCHLGEI_00983	gene	303				
+EOCHLGEI_00983	CDS	303				hypothetical protein
+EOCHLGEI_00984	gene	1896	sacC			
+EOCHLGEI_00984	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+EOCHLGEI_00985	gene	1155				
+EOCHLGEI_00985	CDS	1155				hypothetical protein
+EOCHLGEI_00986	gene	594				
+EOCHLGEI_00986	CDS	594				hypothetical protein
+EOCHLGEI_00987	gene	1197	arnB			
+EOCHLGEI_00987	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+EOCHLGEI_00988	gene	798	tuaG			
+EOCHLGEI_00988	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+EOCHLGEI_00989	gene	780				
+EOCHLGEI_00989	CDS	780				hypothetical protein
+EOCHLGEI_00990	gene	273	tadA_1			
+EOCHLGEI_00990	CDS	273	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+EOCHLGEI_00991	gene	846				
+EOCHLGEI_00991	CDS	846				hypothetical protein
+EOCHLGEI_00992	gene	687	rsmI			
+EOCHLGEI_00992	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+EOCHLGEI_00993	gene	1140				
+EOCHLGEI_00993	CDS	1140				hypothetical protein
+EOCHLGEI_00994	gene	396				
+EOCHLGEI_00994	CDS	396				hypothetical protein
+EOCHLGEI_00995	gene	1209	ribBA_1			
+EOCHLGEI_00995	CDS	1209	ribBA_1		COG0108	Riboflavin biosynthesis protein RibBA
+EOCHLGEI_00996	gene	831	tolQ_2			
+EOCHLGEI_00996	CDS	831	tolQ_2			Tol-Pal system protein TolQ
+EOCHLGEI_00997	gene	675				
+EOCHLGEI_00997	CDS	675				hypothetical protein
+EOCHLGEI_00998	gene	648				
+EOCHLGEI_00998	CDS	648				hypothetical protein
+EOCHLGEI_00999	gene	606				
+EOCHLGEI_00999	CDS	606				hypothetical protein
+EOCHLGEI_01000	gene	816				
+EOCHLGEI_01000	CDS	816				hypothetical protein
+EOCHLGEI_01001	gene	1458	egtB			
+EOCHLGEI_01001	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+EOCHLGEI_01002	gene	738				
+EOCHLGEI_01002	CDS	738				hypothetical protein
+EOCHLGEI_01003	gene	669				
+EOCHLGEI_01003	CDS	669				hypothetical protein
+EOCHLGEI_01004	gene	579				
+EOCHLGEI_01004	CDS	579				hypothetical protein
+EOCHLGEI_01005	gene	858	rmlD			
+EOCHLGEI_01005	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+EOCHLGEI_01006	gene	813	menA			
+EOCHLGEI_01006	CDS	813	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+EOCHLGEI_01007	gene	2307				
+EOCHLGEI_01007	CDS	2307				hypothetical protein
+EOCHLGEI_01008	gene	255				
+EOCHLGEI_01008	CDS	255				hypothetical protein
+EOCHLGEI_01009	gene	822	uvrB			
+EOCHLGEI_01009	CDS	822	uvrB			UvrABC system protein B
+EOCHLGEI_01010	gene	378	coaD			
+EOCHLGEI_01010	CDS	378	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+EOCHLGEI_01011	gene	411	ybeY			
+EOCHLGEI_01011	CDS	411	ybeY	3.1.-.-		Endoribonuclease YbeY
+EOCHLGEI_01012	gene	1578				
+EOCHLGEI_01012	CDS	1578				hypothetical protein
+EOCHLGEI_01013	gene	1035	ruvB			
+EOCHLGEI_01013	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+EOCHLGEI_01014	gene	630	norV			
+EOCHLGEI_01014	CDS	630	norV			Anaerobic nitric oxide reductase flavorubredoxin
+EOCHLGEI_01015	gene	705	rfbF			
+EOCHLGEI_01015	CDS	705	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+EOCHLGEI_01016	gene	1068	rfbG			
+EOCHLGEI_01016	CDS	1068	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+EOCHLGEI_01017	gene	909	fcl			
+EOCHLGEI_01017	CDS	909	fcl	1.1.1.271		GDP-L-fucose synthase
+EOCHLGEI_01018	gene	381	rfbC			
+EOCHLGEI_01018	CDS	381	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+EOCHLGEI_01019	gene	204				
+EOCHLGEI_01019	CDS	204				hypothetical protein
+EOCHLGEI_01020	gene	1035				
+EOCHLGEI_01020	CDS	1035				hypothetical protein
+EOCHLGEI_01021	gene	924				
+EOCHLGEI_01021	CDS	924				hypothetical protein
+EOCHLGEI_01022	gene	618				
+EOCHLGEI_01022	CDS	618				hypothetical protein
+EOCHLGEI_01023	gene	939				
+EOCHLGEI_01023	CDS	939				hypothetical protein
+EOCHLGEI_01024	gene	411	fdtA			
+EOCHLGEI_01024	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+EOCHLGEI_01025	gene	1134	rfbB			
+EOCHLGEI_01025	CDS	1134	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+EOCHLGEI_01026	gene	426	cmk_2			
+EOCHLGEI_01026	CDS	426	cmk_2	2.7.4.25		Cytidylate kinase
+EOCHLGEI_01027	gene	606				
+EOCHLGEI_01027	CDS	606				hypothetical protein
+EOCHLGEI_01028	gene	978	sdsA			
+EOCHLGEI_01028	CDS	978	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+EOCHLGEI_01029	gene	2895				
+EOCHLGEI_01029	CDS	2895				hypothetical protein
+EOCHLGEI_01030	gene	462				
+EOCHLGEI_01030	CDS	462				hypothetical protein
+EOCHLGEI_01031	gene	894	fabD			
+EOCHLGEI_01031	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+EOCHLGEI_01032	gene	1698	glgE			
+EOCHLGEI_01032	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+EOCHLGEI_01033	gene	408	ydfG_1			
+EOCHLGEI_01033	CDS	408	ydfG_1	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+EOCHLGEI_01034	gene	456				
+EOCHLGEI_01034	CDS	456				hypothetical protein
+EOCHLGEI_01035	gene	186				
+EOCHLGEI_01035	CDS	186				hypothetical protein
+EOCHLGEI_01036	gene	543	algU			
+EOCHLGEI_01036	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+EOCHLGEI_01037	gene	360				
+EOCHLGEI_01037	CDS	360				hypothetical protein
+EOCHLGEI_01038	gene	2067	pal_4			
+EOCHLGEI_01038	CDS	2067	pal_4			Peptidoglycan-associated lipoprotein
+EOCHLGEI_01039	gene	114				
+EOCHLGEI_01039	CDS	114				hypothetical protein
+EOCHLGEI_01040	gene	702	clpX			
+EOCHLGEI_01040	CDS	702	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+EOCHLGEI_01041	gene	2181	recQ			
+EOCHLGEI_01041	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+EOCHLGEI_01042	gene	669				
+EOCHLGEI_01042	CDS	669				hypothetical protein
+EOCHLGEI_01043	gene	153				
+EOCHLGEI_01043	CDS	153				hypothetical protein
+EOCHLGEI_01044	gene	1731	lysS			
+EOCHLGEI_01044	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+EOCHLGEI_01045	gene	996	gpsA			
+EOCHLGEI_01045	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EOCHLGEI_01046	gene	360				
+EOCHLGEI_01046	CDS	360				hypothetical protein
+EOCHLGEI_01047	gene	498	menE			
+EOCHLGEI_01047	CDS	498	menE	6.2.1.26		2-succinylbenzoate--CoA ligase
+EOCHLGEI_01048	gene	324				
+EOCHLGEI_01048	CDS	324				hypothetical protein
+EOCHLGEI_01049	gene	558				
+EOCHLGEI_01049	CDS	558				hypothetical protein
+EOCHLGEI_01050	gene	1230				
+EOCHLGEI_01050	CDS	1230				hypothetical protein
+EOCHLGEI_01051	gene	963				
+EOCHLGEI_01051	CDS	963				hypothetical protein
+EOCHLGEI_01052	gene	525				
+EOCHLGEI_01052	CDS	525				hypothetical protein
+EOCHLGEI_01053	gene	864	purU			
+EOCHLGEI_01053	CDS	864	purU	3.5.1.10	COG0788	Formyltetrahydrofolate deformylase
+EOCHLGEI_01054	gene	606	hisH			
+EOCHLGEI_01054	CDS	606	hisH	4.3.2.10	COG0118	Imidazole glycerol phosphate synthase subunit HisH
+EOCHLGEI_01055	gene	717	hisA			
+EOCHLGEI_01055	CDS	717	hisA	5.3.1.16	COG0106	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+EOCHLGEI_01056	gene	990	recD2_2			
+EOCHLGEI_01056	CDS	990	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+EOCHLGEI_01057	gene	579				
+EOCHLGEI_01057	CDS	579				hypothetical protein
+EOCHLGEI_01058	gene	1038	nrnA			
+EOCHLGEI_01058	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+EOCHLGEI_01059	gene	1563	nuoC			
+EOCHLGEI_01059	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+EOCHLGEI_01060	gene	750	ndhK			
+EOCHLGEI_01060	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+EOCHLGEI_01061	gene	351	ndhC			
+EOCHLGEI_01061	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+EOCHLGEI_01062	gene	414				
+EOCHLGEI_01062	CDS	414				hypothetical protein
+EOCHLGEI_01063	gene	414				
+EOCHLGEI_01063	CDS	414				hypothetical protein
+EOCHLGEI_01064	gene	645				
+EOCHLGEI_01064	CDS	645				hypothetical protein
+EOCHLGEI_01065	gene	1506	rpoN			
+EOCHLGEI_01065	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+EOCHLGEI_01066	gene	630				
+EOCHLGEI_01066	CDS	630				hypothetical protein
+EOCHLGEI_01067	gene	507	purE			
+EOCHLGEI_01067	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+EOCHLGEI_01068	gene	180				
+EOCHLGEI_01068	CDS	180				hypothetical protein
+EOCHLGEI_01069	gene	213				
+EOCHLGEI_01069	CDS	213				hypothetical protein
+EOCHLGEI_01070	gene	453				
+EOCHLGEI_01070	CDS	453				hypothetical protein
+EOCHLGEI_01071	gene	561				
+EOCHLGEI_01071	CDS	561				hypothetical protein
+EOCHLGEI_01072	gene	519	kdsC			
+EOCHLGEI_01072	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+EOCHLGEI_01073	gene	573	yhdE			
+EOCHLGEI_01073	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+EOCHLGEI_01074	gene	1107				
+EOCHLGEI_01074	CDS	1107				hypothetical protein
+EOCHLGEI_01075	gene	990				
+EOCHLGEI_01075	CDS	990				hypothetical protein
+EOCHLGEI_01076	gene	1056	yhcG_1			
+EOCHLGEI_01076	CDS	1056	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+EOCHLGEI_01077	gene	348	pgi			
+EOCHLGEI_01077	CDS	348	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+EOCHLGEI_01078	gene	705	hxpA			
+EOCHLGEI_01078	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+EOCHLGEI_01079	gene	114				
+EOCHLGEI_01079	CDS	114				hypothetical protein
+EOCHLGEI_01080	gene	1077	mnmA			
+EOCHLGEI_01080	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+EOCHLGEI_01081	gene	1464				
+EOCHLGEI_01081	CDS	1464				hypothetical protein
+EOCHLGEI_01082	gene	432				
+EOCHLGEI_01082	CDS	432			COG3039	IS5 family transposase ISPta1
+EOCHLGEI_01083	gene	378				
+EOCHLGEI_01083	CDS	378			COG3039	IS5 family transposase ISPta1
+EOCHLGEI_01084	gene	555	polC			
+EOCHLGEI_01084	CDS	555	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+EOCHLGEI_01085	gene	99				
+EOCHLGEI_01085	CDS	99				hypothetical protein
+EOCHLGEI_01086	gene	261				
+EOCHLGEI_01086	CDS	261				hypothetical protein
+EOCHLGEI_01087	gene	315				
+EOCHLGEI_01087	CDS	315				hypothetical protein
+EOCHLGEI_01088	gene	936				
+EOCHLGEI_01088	CDS	936				hypothetical protein
+EOCHLGEI_01089	gene	105				
+EOCHLGEI_01089	CDS	105				hypothetical protein
+EOCHLGEI_01090	gene	1107				
+EOCHLGEI_01090	CDS	1107				hypothetical protein
+EOCHLGEI_01091	gene	1194	pglF			
+EOCHLGEI_01091	CDS	1194	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+EOCHLGEI_01092	gene	624				
+EOCHLGEI_01092	CDS	624				hypothetical protein
+EOCHLGEI_01093	gene	1251	aroA			
+EOCHLGEI_01093	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+EOCHLGEI_01094	gene	393				
+EOCHLGEI_01094	CDS	393				hypothetical protein
+EOCHLGEI_01095	gene	1011				
+EOCHLGEI_01095	CDS	1011		3.4.21.-		Thermophilic serine proteinase
+EOCHLGEI_01096	gene	1290				
+EOCHLGEI_01096	CDS	1290				hypothetical protein
+EOCHLGEI_01097	gene	912	xerC_3			
+EOCHLGEI_01097	CDS	912	xerC_3			Tyrosine recombinase XerC
+EOCHLGEI_01098	gene	162				
+EOCHLGEI_01098	CDS	162				hypothetical protein
+EOCHLGEI_01099	gene	213				
+EOCHLGEI_01099	CDS	213				hypothetical protein
+EOCHLGEI_01100	gene	651				
+EOCHLGEI_01100	CDS	651				hypothetical protein
+EOCHLGEI_01101	gene	849	lgt			
+EOCHLGEI_01101	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+EOCHLGEI_01102	gene	1104	ychF			
+EOCHLGEI_01102	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+EOCHLGEI_01103	gene	615				
+EOCHLGEI_01103	CDS	615				hypothetical protein
+EOCHLGEI_01104	gene	249				
+EOCHLGEI_01104	CDS	249				hypothetical protein
+EOCHLGEI_01105	gene	825	pcrA			
+EOCHLGEI_01105	CDS	825	pcrA	3.6.4.12	COG0210	ATP-dependent DNA helicase PcrA
+EOCHLGEI_01106	gene	273	groS1			
+EOCHLGEI_01106	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+EOCHLGEI_01107	gene	1632	groL			
+EOCHLGEI_01107	CDS	1632	groL		COG0459	60 kDa chaperonin
+EOCHLGEI_01108	gene	1287				
+EOCHLGEI_01108	CDS	1287				hypothetical protein
+EOCHLGEI_01109	gene	213				
+EOCHLGEI_01109	CDS	213				hypothetical protein
+EOCHLGEI_01110	gene	993	mdh			
+EOCHLGEI_01110	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+EOCHLGEI_01111	gene	1959	pulA			
+EOCHLGEI_01111	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+EOCHLGEI_01112	gene	1815	susB			
+EOCHLGEI_01112	CDS	1815	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+EOCHLGEI_01113	gene	318	purM			
+EOCHLGEI_01113	CDS	318	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+EOCHLGEI_01114	gene	1113	prfA			
+EOCHLGEI_01114	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+EOCHLGEI_01115	gene	825	pyrF			
+EOCHLGEI_01115	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+EOCHLGEI_01116	gene	1245				
+EOCHLGEI_01116	CDS	1245				hypothetical protein
+EOCHLGEI_01117	gene	216				
+EOCHLGEI_01117	CDS	216				hypothetical protein
+EOCHLGEI_01118	gene	873				
+EOCHLGEI_01118	CDS	873				hypothetical protein
+EOCHLGEI_01119	gene	1482				
+EOCHLGEI_01119	CDS	1482				hypothetical protein
+EOCHLGEI_01120	gene	1065	purR			
+EOCHLGEI_01120	CDS	1065	purR			HTH-type transcriptional repressor PurR
+EOCHLGEI_01121	gene	753				
+EOCHLGEI_01121	CDS	753				hypothetical protein
+EOCHLGEI_01122	gene	534	aroB			
+EOCHLGEI_01122	CDS	534	aroB	4.2.3.4		3-dehydroquinate synthase
+EOCHLGEI_01123	gene	222				
+EOCHLGEI_01123	CDS	222				hypothetical protein
+EOCHLGEI_01124	gene	2313				
+EOCHLGEI_01124	CDS	2313				hypothetical protein
+EOCHLGEI_01125	gene	636	udk			
+EOCHLGEI_01125	CDS	636	udk	2.7.1.48		Uridine kinase
+EOCHLGEI_01126	gene	573				
+EOCHLGEI_01126	CDS	573				hypothetical protein
+EOCHLGEI_01127	gene	1038				
+EOCHLGEI_01127	CDS	1038				hypothetical protein
+EOCHLGEI_01128	gene	975				
+EOCHLGEI_01128	CDS	975				hypothetical protein
+EOCHLGEI_01129	gene	645	ytrE			
+EOCHLGEI_01129	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+EOCHLGEI_01130	gene	1200				
+EOCHLGEI_01130	CDS	1200				hypothetical protein
+EOCHLGEI_01131	gene	309				
+EOCHLGEI_01131	CDS	309				hypothetical protein
+EOCHLGEI_01132	gene	726				
+EOCHLGEI_01132	CDS	726				hypothetical protein
+EOCHLGEI_01133	gene	624				
+EOCHLGEI_01133	CDS	624				hypothetical protein
+EOCHLGEI_01134	gene	1311	dapL			
+EOCHLGEI_01134	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+EOCHLGEI_01135	gene	495				
+EOCHLGEI_01135	CDS	495				hypothetical protein
+EOCHLGEI_01136	gene	756	ydfG_2			
+EOCHLGEI_01136	CDS	756	ydfG_2	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+EOCHLGEI_01137	gene	198				
+EOCHLGEI_01137	CDS	198				hypothetical protein
+EOCHLGEI_01138	gene	86				
+EOCHLGEI_01138	tRNA	86				tRNA-Ser(gct)
+EOCHLGEI_01139	gene	76				
+EOCHLGEI_01139	tRNA	76				tRNA-Arg(acg)
+EOCHLGEI_01140	gene	1224	xerC_4			
+EOCHLGEI_01140	CDS	1224	xerC_4			Tyrosine recombinase XerC
+EOCHLGEI_01141	gene	570	tsaC			
+EOCHLGEI_01141	CDS	570	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+EOCHLGEI_01142	gene	1785	clcB			
+EOCHLGEI_01142	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+EOCHLGEI_01143	gene	963	fmt			
+EOCHLGEI_01143	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+EOCHLGEI_01144	gene	555				
+EOCHLGEI_01144	CDS	555				hypothetical protein
+EOCHLGEI_01145	gene	459				
+EOCHLGEI_01145	CDS	459				hypothetical protein
+EOCHLGEI_01146	gene	444	rpiB			
+EOCHLGEI_01146	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+EOCHLGEI_01147	gene	1995	tkt			
+EOCHLGEI_01147	CDS	1995	tkt	2.2.1.1		Transketolase
+EOCHLGEI_01148	gene	1716				
+EOCHLGEI_01148	CDS	1716		1.18.1.2		Ferredoxin--NADP reductase
+EOCHLGEI_01149	gene	1116				
+EOCHLGEI_01149	CDS	1116				hypothetical protein
+EOCHLGEI_01150	gene	471	kpsF			
+EOCHLGEI_01150	CDS	471	kpsF	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KpsF
+EOCHLGEI_01151	gene	1227	cls			
+EOCHLGEI_01151	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+EOCHLGEI_01152	gene	1827				
+EOCHLGEI_01152	CDS	1827				hypothetical protein
+EOCHLGEI_01153	gene	1245	spoIIIE			
+EOCHLGEI_01153	CDS	1245	spoIIIE		COG1674	DNA translocase SpoIIIE
+EOCHLGEI_01154	gene	609				
+EOCHLGEI_01154	CDS	609				hypothetical protein
+EOCHLGEI_01155	gene	1494				
+EOCHLGEI_01155	CDS	1494				hypothetical protein
+EOCHLGEI_01156	gene	471	slyD			
+EOCHLGEI_01156	CDS	471	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+EOCHLGEI_01157	gene	1092	aroC			
+EOCHLGEI_01157	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+EOCHLGEI_01158	gene	912	pyrD			
+EOCHLGEI_01158	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+EOCHLGEI_01159	gene	777	pyrK			
+EOCHLGEI_01159	CDS	777	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+EOCHLGEI_01160	gene	444				
+EOCHLGEI_01160	CDS	444				hypothetical protein
+EOCHLGEI_01161	gene	573				
+EOCHLGEI_01161	CDS	573				hypothetical protein
+EOCHLGEI_01162	gene	999	TSFM			
+EOCHLGEI_01162	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+EOCHLGEI_01163	gene	618	ycgM			
+EOCHLGEI_01163	CDS	618	ycgM		COG0179	putative protein YcgM
+EOCHLGEI_01164	gene	2460				
+EOCHLGEI_01164	CDS	2460				hypothetical protein
+EOCHLGEI_01165	gene	1239				
+EOCHLGEI_01165	CDS	1239				hypothetical protein
+EOCHLGEI_01166	gene	453	bcp			
+EOCHLGEI_01166	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+EOCHLGEI_01167	gene	1029	tgt			
+EOCHLGEI_01167	CDS	1029	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+EOCHLGEI_01168	gene	1164				
+EOCHLGEI_01168	CDS	1164				hypothetical protein
+EOCHLGEI_01169	gene	111				
+EOCHLGEI_01169	CDS	111				hypothetical protein
+EOCHLGEI_01170	gene	1788				
+EOCHLGEI_01170	CDS	1788				hypothetical protein
+EOCHLGEI_01171	gene	324				
+EOCHLGEI_01171	CDS	324				hypothetical protein
+EOCHLGEI_01172	gene	261				
+EOCHLGEI_01172	CDS	261				hypothetical protein
+EOCHLGEI_01173	gene	156				
+EOCHLGEI_01173	CDS	156				hypothetical protein
+EOCHLGEI_01174	gene	138				
+EOCHLGEI_01174	CDS	138				hypothetical protein
+EOCHLGEI_01175	gene	621				
+EOCHLGEI_01175	CDS	621				hypothetical protein
+EOCHLGEI_01176	gene	915				
+EOCHLGEI_01176	CDS	915				hypothetical protein
+EOCHLGEI_01177	gene	684				
+EOCHLGEI_01177	CDS	684				hypothetical protein
+EOCHLGEI_01178	gene	492	pncC			
+EOCHLGEI_01178	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+EOCHLGEI_01179	gene	1026	tsaD			
+EOCHLGEI_01179	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+EOCHLGEI_01180	gene	855	map			
+EOCHLGEI_01180	CDS	855	map	3.4.11.18	COG0024	Methionine aminopeptidase
+EOCHLGEI_01181	gene	405				
+EOCHLGEI_01181	CDS	405				hypothetical protein
+EOCHLGEI_01182	gene	480	smpB			
+EOCHLGEI_01182	CDS	480	smpB		COG0691	SsrA-binding protein
+EOCHLGEI_01183	gene	438				
+EOCHLGEI_01183	CDS	438				hypothetical protein
+EOCHLGEI_01184	gene	2628	mutS_2			
+EOCHLGEI_01184	CDS	2628	mutS_2		COG0249	DNA mismatch repair protein MutS
+EOCHLGEI_01185	gene	1086	gmd			
+EOCHLGEI_01185	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+EOCHLGEI_01186	gene	1059	algA_2			
+EOCHLGEI_01186	CDS	1059	algA_2		COG0662	Alginate biosynthesis protein AlgA
+EOCHLGEI_01187	gene	987				
+EOCHLGEI_01187	CDS	987				hypothetical protein
+EOCHLGEI_01188	gene	252				
+EOCHLGEI_01188	CDS	252				hypothetical protein
+EOCHLGEI_01189	gene	1308				
+EOCHLGEI_01189	CDS	1308				hypothetical protein
+EOCHLGEI_01190	gene	246				
+EOCHLGEI_01190	CDS	246				hypothetical protein
+EOCHLGEI_01191	gene	1188	patB			
+EOCHLGEI_01191	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+EOCHLGEI_01192	gene	855				
+EOCHLGEI_01192	CDS	855				hypothetical protein
+EOCHLGEI_01193	gene	612				
+EOCHLGEI_01193	CDS	612				hypothetical protein
+EOCHLGEI_01194	gene	528				
+EOCHLGEI_01194	CDS	528				hypothetical protein
+EOCHLGEI_01195	gene	75				
+EOCHLGEI_01195	tRNA	75				tRNA-Thr(tgt)
+EOCHLGEI_01196	gene	76				
+EOCHLGEI_01196	tRNA	76				tRNA-Asp(gtc)
+EOCHLGEI_01197	gene	516	speG			
+EOCHLGEI_01197	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+EOCHLGEI_01198	gene	1194				
+EOCHLGEI_01198	CDS	1194				hypothetical protein
+EOCHLGEI_01199	gene	354				
+EOCHLGEI_01199	CDS	354				hypothetical protein
+EOCHLGEI_01200	gene	126				
+EOCHLGEI_01200	CDS	126				hypothetical protein
+EOCHLGEI_01201	gene	600	tdk			
+EOCHLGEI_01201	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+EOCHLGEI_01202	gene	1134				
+EOCHLGEI_01202	CDS	1134				hypothetical protein
+EOCHLGEI_01203	gene	1866				
+EOCHLGEI_01203	CDS	1866				hypothetical protein
+EOCHLGEI_01204	gene	1116	hflX			
+EOCHLGEI_01204	CDS	1116	hflX			GTPase HflX
+EOCHLGEI_01205	gene	1218				
+EOCHLGEI_01205	CDS	1218				hypothetical protein
+EOCHLGEI_01206	gene	981				
+EOCHLGEI_01206	CDS	981				hypothetical protein
+EOCHLGEI_01207	gene	768	yfkN_2			
+EOCHLGEI_01207	CDS	768	yfkN_2		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+EOCHLGEI_01208	gene	744				
+EOCHLGEI_01208	CDS	744				hypothetical protein
+EOCHLGEI_01209	gene	168	fdxA			
+EOCHLGEI_01209	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+EOCHLGEI_01210	gene	567				
+EOCHLGEI_01210	CDS	567				hypothetical protein
+EOCHLGEI_01211	gene	399	pyrH			
+EOCHLGEI_01211	CDS	399	pyrH	2.7.4.22	COG0528	Uridylate kinase
+EOCHLGEI_01212	gene	1683				
+EOCHLGEI_01212	CDS	1683				hypothetical protein
+EOCHLGEI_01213	gene	1356				
+EOCHLGEI_01213	CDS	1356				hypothetical protein
+EOCHLGEI_01214	gene	540				
+EOCHLGEI_01214	CDS	540				hypothetical protein
+EOCHLGEI_01215	gene	1218				
+EOCHLGEI_01215	CDS	1218				hypothetical protein
+EOCHLGEI_01216	gene	603				
+EOCHLGEI_01216	CDS	603				hypothetical protein
+EOCHLGEI_01217	gene	594				
+EOCHLGEI_01217	CDS	594				hypothetical protein
+EOCHLGEI_01218	gene	672	rluD_2			
+EOCHLGEI_01218	CDS	672	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EOCHLGEI_01219	gene	747	fabG			
+EOCHLGEI_01219	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EOCHLGEI_01220	gene	612				
+EOCHLGEI_01220	CDS	612				hypothetical protein
+EOCHLGEI_01221	gene	318				
+EOCHLGEI_01221	CDS	318				hypothetical protein
+EOCHLGEI_01222	gene	2037	pepO			
+EOCHLGEI_01222	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+EOCHLGEI_01223	gene	660	uup			
+EOCHLGEI_01223	CDS	660	uup		COG0488	ABC transporter ATP-binding protein uup
+EOCHLGEI_01224	gene	384				
+EOCHLGEI_01224	CDS	384				hypothetical protein
+EOCHLGEI_01225	gene	1761	aspS			
+EOCHLGEI_01225	CDS	1761	aspS	6.1.1.12		Aspartate--tRNA ligase
+EOCHLGEI_01226	gene	303				
+EOCHLGEI_01226	CDS	303				hypothetical protein
+EOCHLGEI_01227	gene	1722				
+EOCHLGEI_01227	CDS	1722				hypothetical protein
+EOCHLGEI_01228	gene	1050	btuB_5			
+EOCHLGEI_01228	CDS	1050	btuB_5			Vitamin B12 transporter BtuB
+EOCHLGEI_01229	gene	285				
+EOCHLGEI_01229	CDS	285				hypothetical protein
+EOCHLGEI_01230	gene	123				
+EOCHLGEI_01230	CDS	123				hypothetical protein
+EOCHLGEI_01231	gene	279				
+EOCHLGEI_01231	CDS	279				hypothetical protein
+EOCHLGEI_01232	gene	74				
+EOCHLGEI_01232	tRNA	74				tRNA-Pro(tgg)
+EOCHLGEI_01233	gene	1185				
+EOCHLGEI_01233	CDS	1185				hypothetical protein
+EOCHLGEI_01234	gene	1104	valS			
+EOCHLGEI_01234	CDS	1104	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+EOCHLGEI_01235	gene	1482	degQ			
+EOCHLGEI_01235	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+EOCHLGEI_01236	gene	1026	ansA			
+EOCHLGEI_01236	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+EOCHLGEI_01237	gene	324				
+EOCHLGEI_01237	CDS	324				hypothetical protein
+EOCHLGEI_01238	gene	88				
+EOCHLGEI_01238	tRNA	88				tRNA-Ser(gct)
+EOCHLGEI_01239	gene	73				
+EOCHLGEI_01239	tRNA	73				tRNA-Glu(ctc)
+EOCHLGEI_01240	gene	1488				
+EOCHLGEI_01240	CDS	1488				hypothetical protein
+EOCHLGEI_01241	gene	1404	mepA			
+EOCHLGEI_01241	CDS	1404	mepA			Multidrug export protein MepA
+EOCHLGEI_01242	gene	1323	xseA_1			
+EOCHLGEI_01242	CDS	1323	xseA_1	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+EOCHLGEI_01243	gene	171	xseB_1			
+EOCHLGEI_01243	CDS	171	xseB_1	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+EOCHLGEI_01244	gene	792	rlmB			
+EOCHLGEI_01244	CDS	792	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+EOCHLGEI_01245	gene	375				
+EOCHLGEI_01245	CDS	375				hypothetical protein
+EOCHLGEI_01246	gene	1047	menC			
+EOCHLGEI_01246	CDS	1047	menC	4.2.1.113	COG4948	o-succinylbenzoate synthase
+EOCHLGEI_01247	gene	819	menB_1			
+EOCHLGEI_01247	CDS	819	menB_1	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+EOCHLGEI_01248	gene	435				
+EOCHLGEI_01248	CDS	435				hypothetical protein
+EOCHLGEI_01249	gene	1227				
+EOCHLGEI_01249	CDS	1227				hypothetical protein
+EOCHLGEI_01250	gene	2196				
+EOCHLGEI_01250	CDS	2196				hypothetical protein
+EOCHLGEI_01251	gene	252				
+EOCHLGEI_01251	CDS	252				hypothetical protein
+EOCHLGEI_01252	gene	189				
+EOCHLGEI_01252	CDS	189				hypothetical protein
+EOCHLGEI_01253	gene	156				
+EOCHLGEI_01253	CDS	156				hypothetical protein
+EOCHLGEI_01254	gene	597	carQ_2			
+EOCHLGEI_01254	CDS	597	carQ_2		COG1595	RNA polymerase sigma factor CarQ
+EOCHLGEI_01255	gene	339				
+EOCHLGEI_01255	CDS	339				hypothetical protein
+EOCHLGEI_01256	gene	405				
+EOCHLGEI_01256	CDS	405				hypothetical protein
+EOCHLGEI_01257	gene	861				
+EOCHLGEI_01257	CDS	861				hypothetical protein
+EOCHLGEI_01258	gene	1317	rimO			
+EOCHLGEI_01258	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+EOCHLGEI_01259	gene	294	hup_2			
+EOCHLGEI_01259	CDS	294	hup_2			DNA-binding protein HU
+EOCHLGEI_01260	gene	1374	ihfA			
+EOCHLGEI_01260	CDS	1374	ihfA			Integration host factor subunit alpha
+EOCHLGEI_01261	gene	2406	btuB_6			
+EOCHLGEI_01261	CDS	2406	btuB_6			Vitamin B12 transporter BtuB
+EOCHLGEI_01262	gene	150				
+EOCHLGEI_01262	CDS	150				hypothetical protein
+EOCHLGEI_01263	gene	519				
+EOCHLGEI_01263	CDS	519				hypothetical protein
+EOCHLGEI_01264	gene	717				
+EOCHLGEI_01264	CDS	717				hypothetical protein
+EOCHLGEI_01265	gene	1824	dpp7			
+EOCHLGEI_01265	CDS	1824	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+EOCHLGEI_01266	gene	1542				
+EOCHLGEI_01266	CDS	1542				hypothetical protein
+EOCHLGEI_01267	gene	1152	mshA_1			
+EOCHLGEI_01267	CDS	1152	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EOCHLGEI_01268	gene	243				
+EOCHLGEI_01268	CDS	243				hypothetical protein
+EOCHLGEI_01269	gene	201	guaA			
+EOCHLGEI_01269	CDS	201	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+EOCHLGEI_01270	gene	462	ogt			
+EOCHLGEI_01270	CDS	462	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+EOCHLGEI_01271	gene	339				
+EOCHLGEI_01271	CDS	339				hypothetical protein
+EOCHLGEI_01272	gene	855				
+EOCHLGEI_01272	CDS	855				hypothetical protein
+EOCHLGEI_01273	gene	1122	pdhD			
+EOCHLGEI_01273	CDS	1122	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+EOCHLGEI_01274	gene	306				
+EOCHLGEI_01274	CDS	306				hypothetical protein
+EOCHLGEI_01275	gene	1188	bioF			
+EOCHLGEI_01275	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+EOCHLGEI_01276	gene	297	rhaS_1			
+EOCHLGEI_01276	CDS	297	rhaS_1			HTH-type transcriptional activator RhaS
+EOCHLGEI_01277	gene	561				
+EOCHLGEI_01277	CDS	561				hypothetical protein
+EOCHLGEI_01278	gene	849				
+EOCHLGEI_01278	CDS	849				hypothetical protein
+EOCHLGEI_01279	gene	1443	rlmCD			
+EOCHLGEI_01279	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+EOCHLGEI_01280	gene	1506				
+EOCHLGEI_01280	CDS	1506				hypothetical protein
+EOCHLGEI_01281	gene	1287				
+EOCHLGEI_01281	CDS	1287				hypothetical protein
+EOCHLGEI_01282	gene	813				
+EOCHLGEI_01282	CDS	813				hypothetical protein
+EOCHLGEI_01283	gene	945				
+EOCHLGEI_01283	CDS	945				hypothetical protein
+EOCHLGEI_01284	gene	1044	lpxD			
+EOCHLGEI_01284	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+EOCHLGEI_01285	gene	339				
+EOCHLGEI_01285	CDS	339				hypothetical protein
+EOCHLGEI_01286	gene	378	ridA			
+EOCHLGEI_01286	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+EOCHLGEI_01287	gene	1827	msbA_2			
+EOCHLGEI_01287	CDS	1827	msbA_2	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+EOCHLGEI_01288	gene	654				
+EOCHLGEI_01288	CDS	654				hypothetical protein
+EOCHLGEI_01289	gene	864				
+EOCHLGEI_01289	CDS	864				hypothetical protein
+EOCHLGEI_01290	gene	1524	rnr			
+EOCHLGEI_01290	CDS	1524	rnr	3.1.13.1	COG0557	Ribonuclease R
+EOCHLGEI_01291	gene	83				
+EOCHLGEI_01291	tRNA	83				tRNA-Leu(tag)
+EOCHLGEI_01292	gene	828	btuD_2			
+EOCHLGEI_01292	CDS	828	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EOCHLGEI_01293	gene	1005				
+EOCHLGEI_01293	CDS	1005				hypothetical protein
+EOCHLGEI_01294	gene	288				
+EOCHLGEI_01294	CDS	288				hypothetical protein
+EOCHLGEI_01295	gene	399				
+EOCHLGEI_01295	CDS	399				hypothetical protein
+EOCHLGEI_01296	gene	1269				
+EOCHLGEI_01296	CDS	1269				hypothetical protein
+EOCHLGEI_01297	gene	582				
+EOCHLGEI_01297	CDS	582				hypothetical protein
+EOCHLGEI_01298	gene	618	menD_1			
+EOCHLGEI_01298	CDS	618	menD_1	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+EOCHLGEI_01299	gene	294	rplW			
+EOCHLGEI_01299	CDS	294	rplW		COG0089	50S ribosomal protein L23
+EOCHLGEI_01300	gene	630	rplD			
+EOCHLGEI_01300	CDS	630	rplD			50S ribosomal protein L4
+EOCHLGEI_01301	gene	615	rplC_1			
+EOCHLGEI_01301	CDS	615	rplC_1		COG0087	50S ribosomal protein L3
+EOCHLGEI_01302	gene	306	rpsJ_1			
+EOCHLGEI_01302	CDS	306	rpsJ_1		COG0051	30S ribosomal protein S10
+EOCHLGEI_01303	gene	759	fusA_2			
+EOCHLGEI_01303	CDS	759	fusA_2		COG0480	Elongation factor G
+EOCHLGEI_01304	gene	969	atpG			
+EOCHLGEI_01304	CDS	969	atpG		COG0224	ATP synthase gamma chain
+EOCHLGEI_01305	gene	1584	atpA			
+EOCHLGEI_01305	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+EOCHLGEI_01306	gene	264	atpD			
+EOCHLGEI_01306	CDS	264	atpD			ATP synthase subunit delta
+EOCHLGEI_01307	gene	282	sufT			
+EOCHLGEI_01307	CDS	282	sufT			Fe-S protein maturation auxiliary factor SufT
+EOCHLGEI_01308	gene	774	lpxH			
+EOCHLGEI_01308	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+EOCHLGEI_01309	gene	1194	ackA			
+EOCHLGEI_01309	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+EOCHLGEI_01310	gene	549	pta_2			
+EOCHLGEI_01310	CDS	549	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+EOCHLGEI_01311	gene	147				
+EOCHLGEI_01311	CDS	147				hypothetical protein
+EOCHLGEI_01312	gene	2340				
+EOCHLGEI_01312	CDS	2340				hypothetical protein
+EOCHLGEI_01313	gene	1110				
+EOCHLGEI_01313	CDS	1110				hypothetical protein
+EOCHLGEI_01314	gene	687				
+EOCHLGEI_01314	CDS	687				hypothetical protein
+EOCHLGEI_01315	gene	468				
+EOCHLGEI_01315	CDS	468				hypothetical protein
+EOCHLGEI_01316	gene	111				
+EOCHLGEI_01316	CDS	111				hypothetical protein
+EOCHLGEI_01317	gene	558	ruvC			
+EOCHLGEI_01317	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+EOCHLGEI_01318	gene	735				
+EOCHLGEI_01318	CDS	735				hypothetical protein
+EOCHLGEI_01319	gene	2424	lon1			
+EOCHLGEI_01319	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+EOCHLGEI_01320	gene	117				
+EOCHLGEI_01320	CDS	117				hypothetical protein
+EOCHLGEI_01321	gene	86				
+EOCHLGEI_01321	tRNA	86				tRNA-Ser(tga)
+EOCHLGEI_01322	gene	648	polA			
+EOCHLGEI_01322	CDS	648	polA	2.7.7.7		DNA polymerase I
+EOCHLGEI_01323	gene	1131	capA			
+EOCHLGEI_01323	CDS	1131	capA			Capsule biosynthesis protein CapA
+EOCHLGEI_01324	gene	381				
+EOCHLGEI_01324	CDS	381				hypothetical protein
+EOCHLGEI_01325	gene	2061	pat			
+EOCHLGEI_01325	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+EOCHLGEI_01326	gene	162				
+EOCHLGEI_01326	CDS	162				hypothetical protein
+EOCHLGEI_01327	gene	93				
+EOCHLGEI_01327	CDS	93				hypothetical protein
+EOCHLGEI_01328	gene	480				
+EOCHLGEI_01328	CDS	480				hypothetical protein
+EOCHLGEI_01329	gene	117				
+EOCHLGEI_01329	CDS	117				hypothetical protein
+EOCHLGEI_01330	gene	954	bdhA			
+EOCHLGEI_01330	CDS	954	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+EOCHLGEI_01331	gene	390				
+EOCHLGEI_01331	CDS	390				hypothetical protein
+EOCHLGEI_01332	gene	1212				
+EOCHLGEI_01332	CDS	1212				hypothetical protein
+EOCHLGEI_01333	gene	936	arnC			
+EOCHLGEI_01333	CDS	936	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EOCHLGEI_01334	gene	90				
+EOCHLGEI_01334	CDS	90				hypothetical protein
+EOCHLGEI_01335	gene	729				
+EOCHLGEI_01335	CDS	729				hypothetical protein
+EOCHLGEI_01336	gene	1356				
+EOCHLGEI_01336	CDS	1356				hypothetical protein
+EOCHLGEI_01337	gene	1638				
+EOCHLGEI_01337	CDS	1638				hypothetical protein
+EOCHLGEI_01338	gene	570	purN			
+EOCHLGEI_01338	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+EOCHLGEI_01339	gene	489				
+EOCHLGEI_01339	CDS	489				hypothetical protein
+EOCHLGEI_01340	gene	1029	xerD_4			
+EOCHLGEI_01340	CDS	1029	xerD_4			Tyrosine recombinase XerD
+EOCHLGEI_01341	gene	1008	xerC_5			
+EOCHLGEI_01341	CDS	1008	xerC_5			Tyrosine recombinase XerC
+EOCHLGEI_01342	gene	834	xerD_5			
+EOCHLGEI_01342	CDS	834	xerD_5			Tyrosine recombinase XerD
+EOCHLGEI_01343	gene	234				
+EOCHLGEI_01343	CDS	234				hypothetical protein
+EOCHLGEI_01344	gene	420	aroQ1			
+EOCHLGEI_01344	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+EOCHLGEI_01345	gene	627	trmR			
+EOCHLGEI_01345	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+EOCHLGEI_01346	gene	1008				
+EOCHLGEI_01346	CDS	1008				hypothetical protein
+EOCHLGEI_01347	gene	402				
+EOCHLGEI_01347	CDS	402				hypothetical protein
+EOCHLGEI_01348	gene	774	trmB			
+EOCHLGEI_01348	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+EOCHLGEI_01349	gene	996				
+EOCHLGEI_01349	CDS	996				hypothetical protein
+EOCHLGEI_01350	gene	528				
+EOCHLGEI_01350	CDS	528				hypothetical protein
+EOCHLGEI_01351	gene	855				
+EOCHLGEI_01351	CDS	855		1.-.-.-		Oxidoreductase P35
+EOCHLGEI_01352	gene	1125				
+EOCHLGEI_01352	CDS	1125				hypothetical protein
+EOCHLGEI_01353	gene	117				
+EOCHLGEI_01353	CDS	117				hypothetical protein
+EOCHLGEI_01354	gene	717				
+EOCHLGEI_01354	CDS	717				hypothetical protein
+EOCHLGEI_01355	gene	633	nadD			
+EOCHLGEI_01355	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+EOCHLGEI_01356	gene	576	gmk			
+EOCHLGEI_01356	CDS	576	gmk	2.7.4.8	COG0194	Guanylate kinase
+EOCHLGEI_01357	gene	1977	mdoB			
+EOCHLGEI_01357	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+EOCHLGEI_01358	gene	216				
+EOCHLGEI_01358	CDS	216				hypothetical protein
+EOCHLGEI_01359	gene	726	mhqN			
+EOCHLGEI_01359	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+EOCHLGEI_01360	gene	1419	aspA			
+EOCHLGEI_01360	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+EOCHLGEI_01361	gene	1365	sufD			
+EOCHLGEI_01361	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+EOCHLGEI_01362	gene	756	sufC			
+EOCHLGEI_01362	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+EOCHLGEI_01363	gene	870				
+EOCHLGEI_01363	CDS	870				hypothetical protein
+EOCHLGEI_01364	gene	783				
+EOCHLGEI_01364	CDS	783				hypothetical protein
+EOCHLGEI_01365	gene	255				
+EOCHLGEI_01365	CDS	255				hypothetical protein
+EOCHLGEI_01366	gene	411				
+EOCHLGEI_01366	CDS	411				hypothetical protein
+EOCHLGEI_01367	gene	1224				
+EOCHLGEI_01367	CDS	1224				hypothetical protein
+EOCHLGEI_01368	gene	1221				
+EOCHLGEI_01368	CDS	1221				hypothetical protein
+EOCHLGEI_01369	gene	1527				
+EOCHLGEI_01369	CDS	1527				hypothetical protein
+EOCHLGEI_01370	gene	876				
+EOCHLGEI_01370	CDS	876				hypothetical protein
+EOCHLGEI_01371	gene	405	ftnA			
+EOCHLGEI_01371	CDS	405	ftnA	1.16.3.2		Bacterial non-heme ferritin
+EOCHLGEI_01372	gene	546				
+EOCHLGEI_01372	CDS	546				hypothetical protein
+EOCHLGEI_01373	gene	1164				
+EOCHLGEI_01373	CDS	1164				hypothetical protein
+EOCHLGEI_01374	gene	1941	nadE			
+EOCHLGEI_01374	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+EOCHLGEI_01375	gene	315				
+EOCHLGEI_01375	CDS	315				hypothetical protein
+EOCHLGEI_01376	gene	1002	nusB			
+EOCHLGEI_01376	CDS	1002	nusB			Transcription antitermination protein NusB
+EOCHLGEI_01377	gene	330				
+EOCHLGEI_01377	CDS	330				hypothetical protein
+EOCHLGEI_01378	gene	987				
+EOCHLGEI_01378	CDS	987				hypothetical protein
+EOCHLGEI_01379	gene	876	pdxS			
+EOCHLGEI_01379	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+EOCHLGEI_01380	gene	258				
+EOCHLGEI_01380	CDS	258				hypothetical protein
+EOCHLGEI_01381	gene	918	rhaS_2			
+EOCHLGEI_01381	CDS	918	rhaS_2			HTH-type transcriptional activator RhaS
+EOCHLGEI_01382	gene	159				
+EOCHLGEI_01382	CDS	159				hypothetical protein
+EOCHLGEI_01383	gene	90				
+EOCHLGEI_01383	CDS	90				hypothetical protein
+EOCHLGEI_01384	gene	414				
+EOCHLGEI_01384	CDS	414				hypothetical protein
+EOCHLGEI_01385	gene	1233				
+EOCHLGEI_01385	CDS	1233				hypothetical protein
+EOCHLGEI_01386	gene	405				
+EOCHLGEI_01386	CDS	405				hypothetical protein
+EOCHLGEI_01387	gene	306	guaD			
+EOCHLGEI_01387	CDS	306	guaD	3.5.4.3	COG0590	Guanine deaminase
+EOCHLGEI_01388	gene	1575	rne			
+EOCHLGEI_01388	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+EOCHLGEI_01389	gene	90				
+EOCHLGEI_01389	CDS	90				hypothetical protein
+EOCHLGEI_01390	gene	300				
+EOCHLGEI_01390	CDS	300			COG0776	DNA-binding protein HRL53
+EOCHLGEI_01391	gene	978				
+EOCHLGEI_01391	CDS	978				hypothetical protein
+EOCHLGEI_01392	gene	999	dagK			
+EOCHLGEI_01392	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+EOCHLGEI_01393	gene	1647	fumA			
+EOCHLGEI_01393	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+EOCHLGEI_01394	gene	1212				
+EOCHLGEI_01394	CDS	1212				hypothetical protein
+EOCHLGEI_01395	gene	1392				
+EOCHLGEI_01395	CDS	1392				hypothetical protein
+EOCHLGEI_01396	gene	1104	pfp			
+EOCHLGEI_01396	CDS	1104	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+EOCHLGEI_01397	gene	804				
+EOCHLGEI_01397	CDS	804				hypothetical protein
+EOCHLGEI_01398	gene	516	prmA			
+EOCHLGEI_01398	CDS	516	prmA	2.1.1.-	COG2264	Ribosomal protein L11 methyltransferase
+EOCHLGEI_01399	gene	639				
+EOCHLGEI_01399	CDS	639				hypothetical protein
+EOCHLGEI_01400	gene	615				
+EOCHLGEI_01400	CDS	615				hypothetical protein
+EOCHLGEI_01401	gene	969				
+EOCHLGEI_01401	CDS	969				hypothetical protein
+EOCHLGEI_01402	gene	636				
+EOCHLGEI_01402	CDS	636				hypothetical protein
+EOCHLGEI_01403	gene	126				
+EOCHLGEI_01403	CDS	126				hypothetical protein
+EOCHLGEI_01404	gene	807				
+EOCHLGEI_01404	CDS	807				hypothetical protein
+EOCHLGEI_01405	gene	1935				
+EOCHLGEI_01405	CDS	1935				hypothetical protein
+EOCHLGEI_01406	gene	204				
+EOCHLGEI_01406	CDS	204				hypothetical protein
+EOCHLGEI_01407	gene	318				
+EOCHLGEI_01407	CDS	318				hypothetical protein
+EOCHLGEI_01408	gene	141				
+EOCHLGEI_01408	CDS	141				hypothetical protein
+EOCHLGEI_01409	gene	1074	mltG			
+EOCHLGEI_01409	CDS	1074	mltG	4.2.2.-		Endolytic murein transglycosylase
+EOCHLGEI_01410	gene	408				
+EOCHLGEI_01410	CDS	408				hypothetical protein
+EOCHLGEI_01411	gene	1128				
+EOCHLGEI_01411	CDS	1128				hypothetical protein
+EOCHLGEI_01412	gene	114				
+EOCHLGEI_01412	CDS	114				hypothetical protein
+EOCHLGEI_01413	gene	219				
+EOCHLGEI_01413	CDS	219				hypothetical protein
+EOCHLGEI_01414	gene	1134				
+EOCHLGEI_01414	CDS	1134				hypothetical protein
+EOCHLGEI_01415	gene	660	upp			
+EOCHLGEI_01415	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+EOCHLGEI_01416	gene	516	dps			
+EOCHLGEI_01416	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+EOCHLGEI_01417	gene	468				
+EOCHLGEI_01417	CDS	468				hypothetical protein
+EOCHLGEI_01418	gene	75				
+EOCHLGEI_01418	tRNA	75				tRNA-Arg(acg)
+EOCHLGEI_01419	gene	726	murU			
+EOCHLGEI_01419	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+EOCHLGEI_01420	gene	453				
+EOCHLGEI_01420	CDS	453				hypothetical protein
+EOCHLGEI_01421	gene	246				
+EOCHLGEI_01421	CDS	246				hypothetical protein
+EOCHLGEI_01422	gene	288	yafQ			
+EOCHLGEI_01422	CDS	288	yafQ	3.1.-.-	COG3041	mRNA interferase toxin YafQ
+EOCHLGEI_01423	gene	258				
+EOCHLGEI_01423	CDS	258				hypothetical protein
+EOCHLGEI_01424	gene	183				
+EOCHLGEI_01424	CDS	183				hypothetical protein
+EOCHLGEI_01425	gene	300				
+EOCHLGEI_01425	CDS	300				hypothetical protein
+EOCHLGEI_01426	gene	195	xseB_2			
+EOCHLGEI_01426	CDS	195	xseB_2	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+EOCHLGEI_01427	gene	1302	xseA_2			
+EOCHLGEI_01427	CDS	1302	xseA_2	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+EOCHLGEI_01428	gene	816				
+EOCHLGEI_01428	CDS	816				hypothetical protein
+EOCHLGEI_01429	gene	1734				
+EOCHLGEI_01429	CDS	1734				hypothetical protein
+EOCHLGEI_01430	gene	246				
+EOCHLGEI_01430	CDS	246				hypothetical protein
+EOCHLGEI_01431	gene	246				
+EOCHLGEI_01431	CDS	246				hypothetical protein
+EOCHLGEI_01432	gene	237				
+EOCHLGEI_01432	CDS	237				hypothetical protein
+EOCHLGEI_01433	gene	429				
+EOCHLGEI_01433	CDS	429				hypothetical protein
+EOCHLGEI_01434	gene	579				
+EOCHLGEI_01434	CDS	579				hypothetical protein
+EOCHLGEI_01435	gene	534	bamD			
+EOCHLGEI_01435	CDS	534	bamD			Outer membrane protein assembly factor BamD
+EOCHLGEI_01436	gene	351				
+EOCHLGEI_01436	CDS	351				hypothetical protein
+EOCHLGEI_01437	gene	459				
+EOCHLGEI_01437	CDS	459				hypothetical protein
+EOCHLGEI_01438	gene	567				
+EOCHLGEI_01438	CDS	567				hypothetical protein
+EOCHLGEI_01439	gene	237				
+EOCHLGEI_01439	CDS	237				hypothetical protein
+EOCHLGEI_01440	gene	255	ribH			
+EOCHLGEI_01440	CDS	255	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+EOCHLGEI_01441	gene	615	engB			
+EOCHLGEI_01441	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+EOCHLGEI_01442	gene	381				
+EOCHLGEI_01442	CDS	381				hypothetical protein
+EOCHLGEI_01443	gene	573				
+EOCHLGEI_01443	CDS	573				hypothetical protein
+EOCHLGEI_01444	gene	606				
+EOCHLGEI_01444	CDS	606				hypothetical protein
+EOCHLGEI_01445	gene	252				
+EOCHLGEI_01445	CDS	252				hypothetical protein
+EOCHLGEI_01446	gene	273				
+EOCHLGEI_01446	CDS	273				hypothetical protein
+EOCHLGEI_01447	gene	282				
+EOCHLGEI_01447	CDS	282				hypothetical protein
+EOCHLGEI_01448	gene	1122	prfB			
+EOCHLGEI_01448	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+EOCHLGEI_01449	gene	138				
+EOCHLGEI_01449	CDS	138				hypothetical protein
+EOCHLGEI_01450	gene	492				
+EOCHLGEI_01450	CDS	492		3.6.1.25	COG2954	Inorganic triphosphatase
+EOCHLGEI_01451	gene	267				
+EOCHLGEI_01451	CDS	267				hypothetical protein
+EOCHLGEI_01452	gene	507				
+EOCHLGEI_01452	CDS	507				hypothetical protein
+EOCHLGEI_01453	gene	705	ttcA			
+EOCHLGEI_01453	CDS	705	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+EOCHLGEI_01454	gene	657	ppaX			
+EOCHLGEI_01454	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+EOCHLGEI_01455	gene	471				
+EOCHLGEI_01455	CDS	471				hypothetical protein
+EOCHLGEI_01456	gene	993	rpoA			
+EOCHLGEI_01456	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+EOCHLGEI_01457	gene	999				
+EOCHLGEI_01457	CDS	999				hypothetical protein
+EOCHLGEI_01458	gene	288				
+EOCHLGEI_01458	CDS	288				hypothetical protein
+EOCHLGEI_01459	gene	93				
+EOCHLGEI_01459	CDS	93				hypothetical protein
+EOCHLGEI_01460	gene	1092	susF			
+EOCHLGEI_01460	CDS	1092	susF			Outer membrane protein SusF
+EOCHLGEI_01461	gene	900				
+EOCHLGEI_01461	CDS	900				hypothetical protein
+EOCHLGEI_01462	gene	162				
+EOCHLGEI_01462	CDS	162				hypothetical protein
+EOCHLGEI_01463	gene	498	yqgN			
+EOCHLGEI_01463	CDS	498	yqgN		COG0212	putative protein YqgN
+EOCHLGEI_01464	gene	291				
+EOCHLGEI_01464	CDS	291				hypothetical protein
+EOCHLGEI_01465	gene	1095	recF			
+EOCHLGEI_01465	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+EOCHLGEI_01466	gene	1158	tpiA			
+EOCHLGEI_01466	CDS	1158	tpiA			Triosephosphate isomerase
+EOCHLGEI_01467	gene	639				
+EOCHLGEI_01467	CDS	639				hypothetical protein
+EOCHLGEI_01468	gene	594	folE_1			
+EOCHLGEI_01468	CDS	594	folE_1	3.5.4.16	COG0302	GTP cyclohydrolase 1
+EOCHLGEI_01469	gene	195				
+EOCHLGEI_01469	CDS	195				hypothetical protein
+EOCHLGEI_01470	gene	741				
+EOCHLGEI_01470	CDS	741				hypothetical protein
+EOCHLGEI_01471	gene	1455	yidE			
+EOCHLGEI_01471	CDS	1455	yidE			Putative transport protein YidE
+EOCHLGEI_01472	gene	957				
+EOCHLGEI_01472	CDS	957				hypothetical protein
+EOCHLGEI_01473	gene	828	menB_2			
+EOCHLGEI_01473	CDS	828	menB_2	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+EOCHLGEI_01474	gene	1266	menD_2			
+EOCHLGEI_01474	CDS	1266	menD_2	2.2.1.9		2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+EOCHLGEI_01475	gene	1071				
+EOCHLGEI_01475	CDS	1071				hypothetical protein
+EOCHLGEI_01476	gene	1212	ribBA_2			
+EOCHLGEI_01476	CDS	1212	ribBA_2		COG0108	Riboflavin biosynthesis protein RibBA
+EOCHLGEI_01477	gene	900	ddh			
+EOCHLGEI_01477	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+EOCHLGEI_01478	gene	606	ruvA			
+EOCHLGEI_01478	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+EOCHLGEI_01479	gene	1197				
+EOCHLGEI_01479	CDS	1197				hypothetical protein
+EOCHLGEI_01480	gene	270				
+EOCHLGEI_01480	CDS	270				hypothetical protein
+EOCHLGEI_01481	gene	1062				
+EOCHLGEI_01481	CDS	1062				hypothetical protein
+EOCHLGEI_01482	gene	444				
+EOCHLGEI_01482	CDS	444				hypothetical protein
+EOCHLGEI_01483	gene	366	coaE			
+EOCHLGEI_01483	CDS	366	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+EOCHLGEI_01484	gene	1164	sasA_2			
+EOCHLGEI_01484	CDS	1164	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+EOCHLGEI_01485	gene	126				
+EOCHLGEI_01485	CDS	126				hypothetical protein
+EOCHLGEI_01486	gene	360				
+EOCHLGEI_01486	CDS	360				hypothetical protein
+EOCHLGEI_01487	gene	492				
+EOCHLGEI_01487	CDS	492		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+EOCHLGEI_01488	gene	630				
+EOCHLGEI_01488	CDS	630				hypothetical protein
+EOCHLGEI_01489	gene	372	flK			
+EOCHLGEI_01489	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+EOCHLGEI_01490	gene	405				
+EOCHLGEI_01490	CDS	405				hypothetical protein
+EOCHLGEI_01491	gene	339				
+EOCHLGEI_01491	CDS	339				hypothetical protein
+EOCHLGEI_01492	gene	1158	gcdB			
+EOCHLGEI_01492	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+EOCHLGEI_01493	gene	585	malT			
+EOCHLGEI_01493	CDS	585	malT			HTH-type transcriptional regulator MalT
+EOCHLGEI_01494	gene	162				
+EOCHLGEI_01494	CDS	162				hypothetical protein
+EOCHLGEI_01495	gene	894				
+EOCHLGEI_01495	CDS	894				hypothetical protein
+EOCHLGEI_01496	gene	2175	ppdK			
+EOCHLGEI_01496	CDS	2175	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+EOCHLGEI_01497	gene	546	nusG_2			
+EOCHLGEI_01497	CDS	546	nusG_2		COG0250	Transcription termination/antitermination protein NusG
+EOCHLGEI_01498	gene	234				
+EOCHLGEI_01498	CDS	234				hypothetical protein
+EOCHLGEI_01499	gene	74				
+EOCHLGEI_01499	tRNA	74				tRNA-Trp(cca)
+EOCHLGEI_01500	gene	1191	tuf			
+EOCHLGEI_01500	CDS	1191	tuf		COG0050	Elongation factor Tu
+EOCHLGEI_01501	gene	73				
+EOCHLGEI_01501	tRNA	73				tRNA-Thr(ggt)
+EOCHLGEI_01502	gene	102				
+EOCHLGEI_01502	CDS	102				hypothetical protein
+EOCHLGEI_01503	gene	1074	rnc			
+EOCHLGEI_01503	CDS	1074	rnc	3.1.26.3		Ribonuclease 3
+EOCHLGEI_01504	gene	2106				
+EOCHLGEI_01504	CDS	2106				hypothetical protein
+EOCHLGEI_01505	gene	402				
+EOCHLGEI_01505	CDS	402				hypothetical protein
+EOCHLGEI_01506	gene	777	dapB			
+EOCHLGEI_01506	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+EOCHLGEI_01507	gene	1530				
+EOCHLGEI_01507	CDS	1530				hypothetical protein
+EOCHLGEI_01508	gene	555	dapH			
+EOCHLGEI_01508	CDS	555	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EOCHLGEI_01509	gene	1239				
+EOCHLGEI_01509	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+EOCHLGEI_01510	gene	993	oleD			
+EOCHLGEI_01510	CDS	993	oleD	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+EOCHLGEI_01511	gene	615				
+EOCHLGEI_01511	CDS	615				hypothetical protein
+EOCHLGEI_01512	gene	96				
+EOCHLGEI_01512	CDS	96				hypothetical protein
+EOCHLGEI_01513	gene	123				
+EOCHLGEI_01513	CDS	123				hypothetical protein
+EOCHLGEI_01514	gene	753				
+EOCHLGEI_01514	CDS	753				hypothetical protein
+EOCHLGEI_01515	gene	480				
+EOCHLGEI_01515	CDS	480				hypothetical protein
+EOCHLGEI_01516	gene	333				
+EOCHLGEI_01516	CDS	333				hypothetical protein
+EOCHLGEI_01517	gene	1617	susD			
+EOCHLGEI_01517	CDS	1617	susD			Starch-binding protein SusD
+EOCHLGEI_01518	gene	711	ispD			
+EOCHLGEI_01518	CDS	711	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+EOCHLGEI_01519	gene	714				
+EOCHLGEI_01519	CDS	714				hypothetical protein
+EOCHLGEI_01520	gene	1317	serS			
+EOCHLGEI_01520	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+EOCHLGEI_01521	gene	348				
+EOCHLGEI_01521	CDS	348				hypothetical protein
+EOCHLGEI_01522	gene	1824				
+EOCHLGEI_01522	CDS	1824				hypothetical protein
+EOCHLGEI_01523	gene	201				
+EOCHLGEI_01523	CDS	201				hypothetical protein
+EOCHLGEI_01524	gene	264				
+EOCHLGEI_01524	CDS	264				hypothetical protein
+EOCHLGEI_01525	gene	576				
+EOCHLGEI_01525	CDS	576				hypothetical protein
+EOCHLGEI_01526	gene	495				
+EOCHLGEI_01526	CDS	495				hypothetical protein
+EOCHLGEI_01527	gene	765				
+EOCHLGEI_01527	CDS	765				hypothetical protein
+EOCHLGEI_01528	gene	252				
+EOCHLGEI_01528	CDS	252				hypothetical protein
+EOCHLGEI_01529	gene	921				
+EOCHLGEI_01529	CDS	921				hypothetical protein
+EOCHLGEI_01530	gene	108				
+EOCHLGEI_01530	CDS	108				hypothetical protein
+EOCHLGEI_01531	gene	444	tadA_2			
+EOCHLGEI_01531	CDS	444	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+EOCHLGEI_01532	gene	408				
+EOCHLGEI_01532	CDS	408				hypothetical protein
+EOCHLGEI_01533	gene	1188				
+EOCHLGEI_01533	CDS	1188				hypothetical protein
+EOCHLGEI_01534	gene	156				
+EOCHLGEI_01534	CDS	156				hypothetical protein
+EOCHLGEI_01535	gene	915				
+EOCHLGEI_01535	CDS	915				hypothetical protein
+EOCHLGEI_01536	gene	291				
+EOCHLGEI_01536	CDS	291				hypothetical protein
+EOCHLGEI_01537	gene	1143				
+EOCHLGEI_01537	CDS	1143				hypothetical protein
+EOCHLGEI_01538	gene	447				
+EOCHLGEI_01538	CDS	447				hypothetical protein
+EOCHLGEI_01539	gene	1533				
+EOCHLGEI_01539	CDS	1533				hypothetical protein
+EOCHLGEI_01540	gene	1815	mutL			
+EOCHLGEI_01540	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+EOCHLGEI_01541	gene	204				
+EOCHLGEI_01541	CDS	204				hypothetical protein
+EOCHLGEI_01542	gene	531				
+EOCHLGEI_01542	CDS	531				hypothetical protein
+EOCHLGEI_01543	gene	780				
+EOCHLGEI_01543	CDS	780				hypothetical protein
+EOCHLGEI_01544	gene	879	ftsX			
+EOCHLGEI_01544	CDS	879	ftsX		COG2177	Cell division protein FtsX
+EOCHLGEI_01545	gene	243				
+EOCHLGEI_01545	CDS	243				hypothetical protein
+EOCHLGEI_01546	gene	1155	hemW_2			
+EOCHLGEI_01546	CDS	1155	hemW_2		COG0635	Heme chaperone HemW
+EOCHLGEI_01547	gene	561				
+EOCHLGEI_01547	CDS	561				hypothetical protein
+EOCHLGEI_01548	gene	213				
+EOCHLGEI_01548	CDS	213				hypothetical protein
+EOCHLGEI_01549	gene	891				
+EOCHLGEI_01549	CDS	891				hypothetical protein
+EOCHLGEI_01550	gene	1212				
+EOCHLGEI_01550	CDS	1212				hypothetical protein
+EOCHLGEI_01551	gene	414				
+EOCHLGEI_01551	CDS	414				hypothetical protein
+EOCHLGEI_01552	gene	162				
+EOCHLGEI_01552	CDS	162				hypothetical protein
+EOCHLGEI_01553	gene	105				
+EOCHLGEI_01553	CDS	105				hypothetical protein
+EOCHLGEI_01554	gene	450				
+EOCHLGEI_01554	CDS	450				hypothetical protein
+EOCHLGEI_01555	gene	73				
+EOCHLGEI_01555	tRNA	73				tRNA-Arg(cct)
+EOCHLGEI_01556	gene	687	metG			
+EOCHLGEI_01556	CDS	687	metG	6.1.1.10		Methionine--tRNA ligase
+EOCHLGEI_01557	gene	342				
+EOCHLGEI_01557	CDS	342				hypothetical protein
+EOCHLGEI_01558	gene	438				
+EOCHLGEI_01558	CDS	438				hypothetical protein
+EOCHLGEI_01559	gene	336				
+EOCHLGEI_01559	CDS	336				hypothetical protein
+EOCHLGEI_01560	gene	372				
+EOCHLGEI_01560	CDS	372				hypothetical protein
+EOCHLGEI_01561	gene	996				
+EOCHLGEI_01561	CDS	996				hypothetical protein
+EOCHLGEI_01562	gene	1614	mrdA			
+EOCHLGEI_01562	CDS	1614	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+EOCHLGEI_01563	gene	117				
+EOCHLGEI_01563	CDS	117				hypothetical protein
+EOCHLGEI_01564	gene	291				
+EOCHLGEI_01564	CDS	291				hypothetical protein
+EOCHLGEI_01565	gene	123				
+EOCHLGEI_01565	CDS	123				hypothetical protein
+EOCHLGEI_01566	gene	336				
+EOCHLGEI_01566	CDS	336				hypothetical protein
+EOCHLGEI_01567	gene	171				
+EOCHLGEI_01567	CDS	171				hypothetical protein
+EOCHLGEI_01568	gene	927	metK			
+EOCHLGEI_01568	CDS	927	metK	2.5.1.6		S-adenosylmethionine synthase
+EOCHLGEI_01569	gene	1080				
+EOCHLGEI_01569	CDS	1080				hypothetical protein
+EOCHLGEI_01570	gene	915				
+EOCHLGEI_01570	CDS	915				hypothetical protein
+EOCHLGEI_01571	gene	462				
+EOCHLGEI_01571	CDS	462				hypothetical protein
+EOCHLGEI_01572	gene	414				
+EOCHLGEI_01572	CDS	414				hypothetical protein
+EOCHLGEI_01573	gene	468				
+EOCHLGEI_01573	CDS	468				hypothetical protein
+EOCHLGEI_01574	gene	1314				
+EOCHLGEI_01574	CDS	1314				hypothetical protein
+EOCHLGEI_01575	gene	444				
+EOCHLGEI_01575	CDS	444				hypothetical protein
+EOCHLGEI_01576	gene	1215	mshA_2			
+EOCHLGEI_01576	CDS	1215	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EOCHLGEI_01577	gene	414	hslR			
+EOCHLGEI_01577	CDS	414	hslR		COG1188	Heat shock protein 15
+EOCHLGEI_01578	gene	564	pth			
+EOCHLGEI_01578	CDS	564	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+EOCHLGEI_01579	gene	285				
+EOCHLGEI_01579	CDS	285				hypothetical protein
+EOCHLGEI_01580	gene	861				
+EOCHLGEI_01580	CDS	861				hypothetical protein
+EOCHLGEI_01581	gene	267				
+EOCHLGEI_01581	CDS	267				hypothetical protein
+EOCHLGEI_01582	gene	240				
+EOCHLGEI_01582	CDS	240				hypothetical protein
+EOCHLGEI_01583	gene	762				
+EOCHLGEI_01583	CDS	762				hypothetical protein
+EOCHLGEI_01584	gene	537	rhaR			
+EOCHLGEI_01584	CDS	537	rhaR			HTH-type transcriptional activator RhaR
+EOCHLGEI_01585	gene	657				
+EOCHLGEI_01585	CDS	657				hypothetical protein
+EOCHLGEI_01586	gene	828	radA			
+EOCHLGEI_01586	CDS	828	radA	3.6.4.-	COG1066	DNA repair protein RadA
+EOCHLGEI_01587	gene	423	fusA_3			
+EOCHLGEI_01587	CDS	423	fusA_3		COG0480	Elongation factor G
+EOCHLGEI_01588	gene	306	rpsJ_2			
+EOCHLGEI_01588	CDS	306	rpsJ_2		COG0051	30S ribosomal protein S10
+EOCHLGEI_01589	gene	615	rplC_2			
+EOCHLGEI_01589	CDS	615	rplC_2		COG0087	50S ribosomal protein L3
+EOCHLGEI_01590	gene	441				
+EOCHLGEI_01590	CDS	441				hypothetical protein
+EOCHLGEI_01591	gene	132				
+EOCHLGEI_01591	CDS	132				hypothetical protein
+EOCHLGEI_01592	gene	762				
+EOCHLGEI_01592	CDS	762				hypothetical protein
+EOCHLGEI_01593	gene	201				
+EOCHLGEI_01593	CDS	201				hypothetical protein
+EOCHLGEI_01594	gene	921				
+EOCHLGEI_01594	CDS	921				hypothetical protein
+EOCHLGEI_01595	gene	831	resA_5			
+EOCHLGEI_01595	CDS	831	resA_5			Thiol-disulfide oxidoreductase ResA
+EOCHLGEI_01596	gene	315	yrbG			
+EOCHLGEI_01596	CDS	315	yrbG		COG0530	Inner membrane protein YrbG
+EOCHLGEI_01597	gene	1452				
+EOCHLGEI_01597	CDS	1452				hypothetical protein
+EOCHLGEI_01598	gene	582	folE_2			
+EOCHLGEI_01598	CDS	582	folE_2	3.5.4.16	COG0302	GTP cyclohydrolase 1
+EOCHLGEI_01599	gene	477				
+EOCHLGEI_01599	CDS	477				hypothetical protein
+EOCHLGEI_01600	gene	942	apbE_2			
+EOCHLGEI_01600	CDS	942	apbE_2	2.7.1.180	COG1477	FAD:protein FMN transferase
+EOCHLGEI_01601	gene	804	ilvE			
+EOCHLGEI_01601	CDS	804	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+EOCHLGEI_01602	gene	702	rny_2			
+EOCHLGEI_01602	CDS	702	rny_2	3.1.-.-	COG1418	Ribonuclease Y
+EOCHLGEI_01603	gene	495				
+EOCHLGEI_01603	CDS	495				hypothetical protein
+EOCHLGEI_01604	gene	276				
+EOCHLGEI_01604	CDS	276				hypothetical protein
+EOCHLGEI_01605	gene	549	yhcG_2			
+EOCHLGEI_01605	CDS	549	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+EOCHLGEI_01606	gene	768	uvrC			
+EOCHLGEI_01606	CDS	768	uvrC		COG0322	UvrABC system protein C
+EOCHLGEI_01607	gene	453	dtd			
+EOCHLGEI_01607	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+EOCHLGEI_01608	gene	471				
+EOCHLGEI_01608	CDS	471				hypothetical protein
+EOCHLGEI_01609	gene	855	murC			
+EOCHLGEI_01609	CDS	855	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+EOCHLGEI_01610	gene	1230	nqrA			
+EOCHLGEI_01610	CDS	1230	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+EOCHLGEI_01611	gene	1104	dnaE			
+EOCHLGEI_01611	CDS	1104	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+EOCHLGEI_01612	gene	768				
+EOCHLGEI_01612	CDS	768				hypothetical protein
+EOCHLGEI_01613	gene	1413	sasA_3			
+EOCHLGEI_01613	CDS	1413	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA

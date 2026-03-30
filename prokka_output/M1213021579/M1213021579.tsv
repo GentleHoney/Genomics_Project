@@ -1,0 +1,3272 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EFENACEL_00001	gene	2235	fecA			
+EFENACEL_00001	CDS	2235	fecA		COG4772	Fe(3+) dicitrate transport protein FecA
+EFENACEL_00002	gene	3390	susC_1			
+EFENACEL_00002	CDS	3390	susC_1			TonB-dependent receptor SusC
+EFENACEL_00003	gene	1530				
+EFENACEL_00003	CDS	1530				hypothetical protein
+EFENACEL_00004	gene	954				
+EFENACEL_00004	CDS	954				hypothetical protein
+EFENACEL_00005	gene	1026				
+EFENACEL_00005	CDS	1026				hypothetical protein
+EFENACEL_00006	gene	633				
+EFENACEL_00006	CDS	633				hypothetical protein
+EFENACEL_00007	gene	1176				
+EFENACEL_00007	CDS	1176				hypothetical protein
+EFENACEL_00008	gene	1104				
+EFENACEL_00008	CDS	1104				hypothetical protein
+EFENACEL_00009	gene	912				
+EFENACEL_00009	CDS	912				hypothetical protein
+EFENACEL_00010	gene	1440				
+EFENACEL_00010	CDS	1440				hypothetical protein
+EFENACEL_00011	gene	456				
+EFENACEL_00011	CDS	456				hypothetical protein
+EFENACEL_00012	gene	189				
+EFENACEL_00012	CDS	189				hypothetical protein
+EFENACEL_00013	gene	495	mnmG			
+EFENACEL_00013	CDS	495	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+EFENACEL_00014	gene	531	apt			
+EFENACEL_00014	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+EFENACEL_00015	gene	1836	uvrC			
+EFENACEL_00015	CDS	1836	uvrC		COG0322	UvrABC system protein C
+EFENACEL_00016	gene	453	dtd			
+EFENACEL_00016	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+EFENACEL_00017	gene	393				
+EFENACEL_00017	CDS	393				hypothetical protein
+EFENACEL_00018	gene	891	deoC			
+EFENACEL_00018	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+EFENACEL_00019	gene	606				
+EFENACEL_00019	CDS	606				hypothetical protein
+EFENACEL_00020	gene	978	ispB			
+EFENACEL_00020	CDS	978	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+EFENACEL_00021	gene	2766	polA			
+EFENACEL_00021	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+EFENACEL_00022	gene	1131	capA			
+EFENACEL_00022	CDS	1131	capA			Capsule biosynthesis protein CapA
+EFENACEL_00023	gene	1575				
+EFENACEL_00023	CDS	1575				hypothetical protein
+EFENACEL_00024	gene	165				
+EFENACEL_00024	CDS	165				hypothetical protein
+EFENACEL_00025	gene	600	tdk			
+EFENACEL_00025	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+EFENACEL_00026	gene	1866				
+EFENACEL_00026	CDS	1866				hypothetical protein
+EFENACEL_00027	gene	1209	ribBA			
+EFENACEL_00027	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+EFENACEL_00028	gene	831	tolQ_1			
+EFENACEL_00028	CDS	831	tolQ_1			Tol-Pal system protein TolQ
+EFENACEL_00029	gene	675				
+EFENACEL_00029	CDS	675				hypothetical protein
+EFENACEL_00030	gene	648				
+EFENACEL_00030	CDS	648				hypothetical protein
+EFENACEL_00031	gene	846				
+EFENACEL_00031	CDS	846				hypothetical protein
+EFENACEL_00032	gene	963				
+EFENACEL_00032	CDS	963				hypothetical protein
+EFENACEL_00033	gene	1458				
+EFENACEL_00033	CDS	1458				hypothetical protein
+EFENACEL_00034	gene	651				
+EFENACEL_00034	CDS	651				hypothetical protein
+EFENACEL_00035	gene	1311	murF			
+EFENACEL_00035	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+EFENACEL_00036	gene	726				
+EFENACEL_00036	CDS	726				hypothetical protein
+EFENACEL_00037	gene	108				
+EFENACEL_00037	CDS	108				hypothetical protein
+EFENACEL_00038	gene	495				
+EFENACEL_00038	CDS	495				hypothetical protein
+EFENACEL_00039	gene	933				
+EFENACEL_00039	CDS	933				hypothetical protein
+EFENACEL_00040	gene	1332	nhaA			
+EFENACEL_00040	CDS	1332	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+EFENACEL_00041	gene	756				
+EFENACEL_00041	CDS	756				hypothetical protein
+EFENACEL_00042	gene	717	ybhL			
+EFENACEL_00042	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+EFENACEL_00043	gene	477	argR			
+EFENACEL_00043	CDS	477	argR		COG1438	Arginine repressor
+EFENACEL_00044	gene	1188	kbl			
+EFENACEL_00044	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+EFENACEL_00045	gene	120				
+EFENACEL_00045	CDS	120				hypothetical protein
+EFENACEL_00046	gene	879	ftsX			
+EFENACEL_00046	CDS	879	ftsX		COG2177	Cell division protein FtsX
+EFENACEL_00047	gene	249				
+EFENACEL_00047	CDS	249				hypothetical protein
+EFENACEL_00048	gene	879	uppP			
+EFENACEL_00048	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+EFENACEL_00049	gene	699	truB			
+EFENACEL_00049	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+EFENACEL_00050	gene	1119	queA_1			
+EFENACEL_00050	CDS	1119	queA_1	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EFENACEL_00051	gene	435	sulD			
+EFENACEL_00051	CDS	435	sulD		COG0801	Bifunctional folate synthesis protein
+EFENACEL_00052	gene	600	purH_1			
+EFENACEL_00052	CDS	600	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+EFENACEL_00053	gene	1026	mbl			
+EFENACEL_00053	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+EFENACEL_00054	gene	867				
+EFENACEL_00054	CDS	867				hypothetical protein
+EFENACEL_00055	gene	498				
+EFENACEL_00055	CDS	498				hypothetical protein
+EFENACEL_00056	gene	1851	mrdA			
+EFENACEL_00056	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+EFENACEL_00057	gene	1377				
+EFENACEL_00057	CDS	1377				hypothetical protein
+EFENACEL_00058	gene	222				
+EFENACEL_00058	CDS	222				hypothetical protein
+EFENACEL_00059	gene	1866	deaD_1			
+EFENACEL_00059	CDS	1866	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+EFENACEL_00060	gene	549				
+EFENACEL_00060	CDS	549		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+EFENACEL_00061	gene	594				
+EFENACEL_00061	CDS	594				hypothetical protein
+EFENACEL_00062	gene	168				
+EFENACEL_00062	CDS	168				hypothetical protein
+EFENACEL_00063	gene	513				
+EFENACEL_00063	CDS	513				hypothetical protein
+EFENACEL_00064	gene	756	frdB			
+EFENACEL_00064	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+EFENACEL_00065	gene	1983	frdA			
+EFENACEL_00065	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+EFENACEL_00066	gene	690				
+EFENACEL_00066	CDS	690				hypothetical protein
+EFENACEL_00067	gene	171				
+EFENACEL_00067	CDS	171				hypothetical protein
+EFENACEL_00068	gene	474				
+EFENACEL_00068	CDS	474				hypothetical protein
+EFENACEL_00069	gene	447				
+EFENACEL_00069	CDS	447				hypothetical protein
+EFENACEL_00070	gene	876				
+EFENACEL_00070	CDS	876				hypothetical protein
+EFENACEL_00071	gene	3024				
+EFENACEL_00071	CDS	3024				hypothetical protein
+EFENACEL_00072	gene	3417	mfd			
+EFENACEL_00072	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+EFENACEL_00073	gene	210				
+EFENACEL_00073	CDS	210				hypothetical protein
+EFENACEL_00074	gene	243	pepC			
+EFENACEL_00074	CDS	243	pepC	3.4.22.40	COG3579	Aminopeptidase C
+EFENACEL_00075	gene	900	ddh			
+EFENACEL_00075	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+EFENACEL_00076	gene	336				
+EFENACEL_00076	CDS	336				hypothetical protein
+EFENACEL_00077	gene	1470				
+EFENACEL_00077	CDS	1470				hypothetical protein
+EFENACEL_00078	gene	2184				
+EFENACEL_00078	CDS	2184				hypothetical protein
+EFENACEL_00079	gene	108				
+EFENACEL_00079	CDS	108				hypothetical protein
+EFENACEL_00080	gene	606	ruvA			
+EFENACEL_00080	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+EFENACEL_00081	gene	1329				
+EFENACEL_00081	CDS	1329				hypothetical protein
+EFENACEL_00082	gene	3615				
+EFENACEL_00082	CDS	3615				hypothetical protein
+EFENACEL_00083	gene	1188				
+EFENACEL_00083	CDS	1188				hypothetical protein
+EFENACEL_00084	gene	156				
+EFENACEL_00084	CDS	156				hypothetical protein
+EFENACEL_00085	gene	705	cobB			
+EFENACEL_00085	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+EFENACEL_00086	gene	2007				
+EFENACEL_00086	CDS	2007				hypothetical protein
+EFENACEL_00087	gene	939	nhaD			
+EFENACEL_00087	CDS	939	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+EFENACEL_00088	gene	912				
+EFENACEL_00088	CDS	912				hypothetical protein
+EFENACEL_00089	gene	558	rsmD			
+EFENACEL_00089	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+EFENACEL_00090	gene	861				
+EFENACEL_00090	CDS	861				hypothetical protein
+EFENACEL_00091	gene	492				
+EFENACEL_00091	CDS	492				hypothetical protein
+EFENACEL_00092	gene	1056	recD2_1			
+EFENACEL_00092	CDS	1056	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+EFENACEL_00093	gene	384				
+EFENACEL_00093	CDS	384				hypothetical protein
+EFENACEL_00094	gene	579				
+EFENACEL_00094	CDS	579				hypothetical protein
+EFENACEL_00095	gene	1038	nrnA			
+EFENACEL_00095	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+EFENACEL_00096	gene	1938	dnaG			
+EFENACEL_00096	CDS	1938	dnaG	2.7.7.-		DNA primase
+EFENACEL_00097	gene	330				
+EFENACEL_00097	CDS	330				hypothetical protein
+EFENACEL_00098	gene	4155	cas9			
+EFENACEL_00098	CDS	4155	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+EFENACEL_00099	gene	933	cas1			
+EFENACEL_00099	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+EFENACEL_00100	gene	306	cas2_1			
+EFENACEL_00100	CDS	306	cas2_1	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+EFENACEL_00101	gene	975				
+EFENACEL_00101	CDS	975				hypothetical protein
+EFENACEL_00102	gene	1458	egtB			
+EFENACEL_00102	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+EFENACEL_00103	gene	816				
+EFENACEL_00103	CDS	816				hypothetical protein
+EFENACEL_00104	gene	1116	pgpH			
+EFENACEL_00104	CDS	1116	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+EFENACEL_00105	gene	1485				
+EFENACEL_00105	CDS	1485				hypothetical protein
+EFENACEL_00106	gene	900				
+EFENACEL_00106	CDS	900				hypothetical protein
+EFENACEL_00107	gene	2271	priA			
+EFENACEL_00107	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+EFENACEL_00108	gene	90				
+EFENACEL_00108	CDS	90				hypothetical protein
+EFENACEL_00109	gene	984	menF			
+EFENACEL_00109	CDS	984	menF	5.4.4.2		Isochorismate synthase MenF
+EFENACEL_00110	gene	597				
+EFENACEL_00110	CDS	597				hypothetical protein
+EFENACEL_00111	gene	600				
+EFENACEL_00111	CDS	600				hypothetical protein
+EFENACEL_00112	gene	1026				
+EFENACEL_00112	CDS	1026				hypothetical protein
+EFENACEL_00113	gene	255				
+EFENACEL_00113	CDS	255				hypothetical protein
+EFENACEL_00114	gene	2040	uvrB			
+EFENACEL_00114	CDS	2040	uvrB		COG0556	UvrABC system protein B
+EFENACEL_00115	gene	2460				
+EFENACEL_00115	CDS	2460				hypothetical protein
+EFENACEL_00116	gene	897	bamD_1			
+EFENACEL_00116	CDS	897	bamD_1			Outer membrane protein assembly factor BamD
+EFENACEL_00117	gene	351				
+EFENACEL_00117	CDS	351				hypothetical protein
+EFENACEL_00118	gene	459				
+EFENACEL_00118	CDS	459				hypothetical protein
+EFENACEL_00119	gene	567				
+EFENACEL_00119	CDS	567				hypothetical protein
+EFENACEL_00120	gene	477	ribH			
+EFENACEL_00120	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+EFENACEL_00121	gene	741				
+EFENACEL_00121	CDS	741				hypothetical protein
+EFENACEL_00122	gene	303				
+EFENACEL_00122	CDS	303				hypothetical protein
+EFENACEL_00123	gene	732	rsmE			
+EFENACEL_00123	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+EFENACEL_00124	gene	564				
+EFENACEL_00124	CDS	564				hypothetical protein
+EFENACEL_00125	gene	1329	nupG			
+EFENACEL_00125	CDS	1329	nupG			Nucleoside permease NupG
+EFENACEL_00126	gene	102				
+EFENACEL_00126	CDS	102				hypothetical protein
+EFENACEL_00127	gene	999	dagK			
+EFENACEL_00127	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+EFENACEL_00128	gene	978				
+EFENACEL_00128	CDS	978				hypothetical protein
+EFENACEL_00129	gene	675				
+EFENACEL_00129	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+EFENACEL_00130	gene	492				
+EFENACEL_00130	CDS	492				hypothetical protein
+EFENACEL_00131	gene	621				
+EFENACEL_00131	CDS	621				hypothetical protein
+EFENACEL_00132	gene	978				
+EFENACEL_00132	CDS	978				hypothetical protein
+EFENACEL_00133	gene	852				
+EFENACEL_00133	CDS	852				hypothetical protein
+EFENACEL_00134	gene	2409				
+EFENACEL_00134	CDS	2409		5.1.1.1		Alanine racemase
+EFENACEL_00135	gene	282				
+EFENACEL_00135	CDS	282				hypothetical protein
+EFENACEL_00136	gene	726				
+EFENACEL_00136	CDS	726				hypothetical protein
+EFENACEL_00137	gene	687	psd			
+EFENACEL_00137	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+EFENACEL_00138	gene	3711	dnaE			
+EFENACEL_00138	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+EFENACEL_00139	gene	315	trxA			
+EFENACEL_00139	CDS	315	trxA			Thioredoxin 1
+EFENACEL_00140	gene	861				
+EFENACEL_00140	CDS	861				hypothetical protein
+EFENACEL_00141	gene	5739				
+EFENACEL_00141	CDS	5739				hypothetical protein
+EFENACEL_00142	gene	201				
+EFENACEL_00142	CDS	201				hypothetical protein
+EFENACEL_00143	gene	375				
+EFENACEL_00143	CDS	375				hypothetical protein
+EFENACEL_00144	gene	453	yvbK			
+EFENACEL_00144	CDS	453	yvbK	2.3.1.-		putative N-acetyltransferase YvbK
+EFENACEL_00145	gene	504				
+EFENACEL_00145	CDS	504				hypothetical protein
+EFENACEL_00146	gene	360				
+EFENACEL_00146	CDS	360				hypothetical protein
+EFENACEL_00147	gene	459				
+EFENACEL_00147	CDS	459				hypothetical protein
+EFENACEL_00148	gene	555				
+EFENACEL_00148	CDS	555				hypothetical protein
+EFENACEL_00149	gene	2130	tpiA			
+EFENACEL_00149	CDS	2130	tpiA			Triosephosphate isomerase
+EFENACEL_00150	gene	639				
+EFENACEL_00150	CDS	639				hypothetical protein
+EFENACEL_00151	gene	594	folE			
+EFENACEL_00151	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+EFENACEL_00152	gene	615				
+EFENACEL_00152	CDS	615				hypothetical protein
+EFENACEL_00153	gene	105				
+EFENACEL_00153	CDS	105				hypothetical protein
+EFENACEL_00154	gene	1110				
+EFENACEL_00154	CDS	1110				hypothetical protein
+EFENACEL_00155	gene	963				
+EFENACEL_00155	CDS	963				hypothetical protein
+EFENACEL_00156	gene	792	tagA			
+EFENACEL_00156	CDS	792	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+EFENACEL_00157	gene	492	dapH_1			
+EFENACEL_00157	CDS	492	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EFENACEL_00158	gene	639				
+EFENACEL_00158	CDS	639				hypothetical protein
+EFENACEL_00159	gene	1419	aspA			
+EFENACEL_00159	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+EFENACEL_00160	gene	354				
+EFENACEL_00160	CDS	354				hypothetical protein
+EFENACEL_00161	gene	354				
+EFENACEL_00161	CDS	354				hypothetical protein
+EFENACEL_00162	gene	378				
+EFENACEL_00162	CDS	378				hypothetical protein
+EFENACEL_00163	gene	753				
+EFENACEL_00163	CDS	753				hypothetical protein
+EFENACEL_00164	gene	747				
+EFENACEL_00164	CDS	747				hypothetical protein
+EFENACEL_00165	gene	105				
+EFENACEL_00165	CDS	105				hypothetical protein
+EFENACEL_00166	gene	1896				
+EFENACEL_00166	CDS	1896				hypothetical protein
+EFENACEL_00167	gene	558	xerC_1			
+EFENACEL_00167	CDS	558	xerC_1			Tyrosine recombinase XerC
+EFENACEL_00168	gene	765				
+EFENACEL_00168	CDS	765				hypothetical protein
+EFENACEL_00169	gene	1482				
+EFENACEL_00169	CDS	1482				hypothetical protein
+EFENACEL_00170	gene	987	emrA			
+EFENACEL_00170	CDS	987	emrA			Colistin resistance protein EmrA
+EFENACEL_00171	gene	1182				
+EFENACEL_00171	CDS	1182				hypothetical protein
+EFENACEL_00172	gene	1245	ybhR			
+EFENACEL_00172	CDS	1245	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+EFENACEL_00173	gene	1086				
+EFENACEL_00173	CDS	1086				hypothetical protein
+EFENACEL_00174	gene	2172				
+EFENACEL_00174	CDS	2172				hypothetical protein
+EFENACEL_00175	gene	495				
+EFENACEL_00175	CDS	495				hypothetical protein
+EFENACEL_00176	gene	432	rnpA			
+EFENACEL_00176	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+EFENACEL_00177	gene	240				
+EFENACEL_00177	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+EFENACEL_00178	gene	1305	tyrS			
+EFENACEL_00178	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+EFENACEL_00179	gene	654				
+EFENACEL_00179	CDS	654				hypothetical protein
+EFENACEL_00180	gene	981	ribD			
+EFENACEL_00180	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+EFENACEL_00181	gene	1311	eno			
+EFENACEL_00181	CDS	1311	eno	4.2.1.11	COG0148	Enolase
+EFENACEL_00182	gene	417	glpE_1			
+EFENACEL_00182	CDS	417	glpE_1	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+EFENACEL_00183	gene	417				
+EFENACEL_00183	CDS	417				hypothetical protein
+EFENACEL_00184	gene	978	dnaN			
+EFENACEL_00184	CDS	978	dnaN		COG0592	Beta sliding clamp
+EFENACEL_00185	gene	615				
+EFENACEL_00185	CDS	615				hypothetical protein
+EFENACEL_00186	gene	579				
+EFENACEL_00186	CDS	579				hypothetical protein
+EFENACEL_00187	gene	858	rmlD			
+EFENACEL_00187	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+EFENACEL_00188	gene	1593	prfC			
+EFENACEL_00188	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+EFENACEL_00189	gene	360	crcB			
+EFENACEL_00189	CDS	360	crcB			Putative fluoride ion transporter CrcB
+EFENACEL_00190	gene	1038				
+EFENACEL_00190	CDS	1038				hypothetical protein
+EFENACEL_00191	gene	1932				
+EFENACEL_00191	CDS	1932				hypothetical protein
+EFENACEL_00192	gene	1257				
+EFENACEL_00192	CDS	1257				hypothetical protein
+EFENACEL_00193	gene	1524	pckA			
+EFENACEL_00193	CDS	1524	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+EFENACEL_00194	gene	1851	korA			
+EFENACEL_00194	CDS	1851	korA	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+EFENACEL_00195	gene	1002	korB			
+EFENACEL_00195	CDS	1002	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+EFENACEL_00196	gene	2106	recD2_2			
+EFENACEL_00196	CDS	2106	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+EFENACEL_00197	gene	810				
+EFENACEL_00197	CDS	810				hypothetical protein
+EFENACEL_00198	gene	396	hmuU_1			
+EFENACEL_00198	CDS	396	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+EFENACEL_00199	gene	933	ytlR			
+EFENACEL_00199	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+EFENACEL_00200	gene	1029	miaA_1			
+EFENACEL_00200	CDS	1029	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EFENACEL_00201	gene	606				
+EFENACEL_00201	CDS	606				hypothetical protein
+EFENACEL_00202	gene	2064	dsbD			
+EFENACEL_00202	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+EFENACEL_00203	gene	1113	macA			
+EFENACEL_00203	CDS	1113	macA		COG0845	Macrolide export protein MacA
+EFENACEL_00204	gene	1248	macB			
+EFENACEL_00204	CDS	1248	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+EFENACEL_00205	gene	603				
+EFENACEL_00205	CDS	603				hypothetical protein
+EFENACEL_00206	gene	279				
+EFENACEL_00206	CDS	279				hypothetical protein
+EFENACEL_00207	gene	1395	asnS			
+EFENACEL_00207	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+EFENACEL_00208	gene	1473				
+EFENACEL_00208	CDS	1473				hypothetical protein
+EFENACEL_00209	gene	1347	purB			
+EFENACEL_00209	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+EFENACEL_00210	gene	76				
+EFENACEL_00210	tRNA	76				tRNA-Val(tac)
+EFENACEL_00211	gene	1209				
+EFENACEL_00211	CDS	1209				Outer membrane protein 40
+EFENACEL_00212	gene	1041	mutL			
+EFENACEL_00212	CDS	1041	mutL		COG0323	DNA mismatch repair protein MutL
+EFENACEL_00213	gene	549				
+EFENACEL_00213	CDS	549				hypothetical protein
+EFENACEL_00214	gene	291				
+EFENACEL_00214	CDS	291				hypothetical protein
+EFENACEL_00215	gene	4803				
+EFENACEL_00215	CDS	4803				hypothetical protein
+EFENACEL_00216	gene	1230				
+EFENACEL_00216	CDS	1230				hypothetical protein
+EFENACEL_00217	gene	558				
+EFENACEL_00217	CDS	558				hypothetical protein
+EFENACEL_00218	gene	375				
+EFENACEL_00218	CDS	375				hypothetical protein
+EFENACEL_00219	gene	720				
+EFENACEL_00219	CDS	720				hypothetical protein
+EFENACEL_00220	gene	654				
+EFENACEL_00220	CDS	654				hypothetical protein
+EFENACEL_00221	gene	951				
+EFENACEL_00221	CDS	951				hypothetical protein
+EFENACEL_00222	gene	567				
+EFENACEL_00222	CDS	567				hypothetical protein
+EFENACEL_00223	gene	330				
+EFENACEL_00223	CDS	330				hypothetical protein
+EFENACEL_00224	gene	279				
+EFENACEL_00224	CDS	279				hypothetical protein
+EFENACEL_00225	gene	825				
+EFENACEL_00225	CDS	825				hypothetical protein
+EFENACEL_00226	gene	477				
+EFENACEL_00226	CDS	477				hypothetical protein
+EFENACEL_00227	gene	891				
+EFENACEL_00227	CDS	891				hypothetical protein
+EFENACEL_00228	gene	2640				
+EFENACEL_00228	CDS	2640				hypothetical protein
+EFENACEL_00229	gene	147				
+EFENACEL_00229	CDS	147				hypothetical protein
+EFENACEL_00230	gene	573				
+EFENACEL_00230	CDS	573				hypothetical protein
+EFENACEL_00231	gene	615				
+EFENACEL_00231	CDS	615				hypothetical protein
+EFENACEL_00232	gene	1233				
+EFENACEL_00232	CDS	1233				hypothetical protein
+EFENACEL_00233	gene	2385	btuB_1			
+EFENACEL_00233	CDS	2385	btuB_1			Vitamin B12 transporter BtuB
+EFENACEL_00234	gene	108				
+EFENACEL_00234	CDS	108				hypothetical protein
+EFENACEL_00235	gene	927				
+EFENACEL_00235	CDS	927				hypothetical protein
+EFENACEL_00236	gene	1008	fcl_1			
+EFENACEL_00236	CDS	1008	fcl_1	1.1.1.271		GDP-L-fucose synthase
+EFENACEL_00237	gene	720	tarI			
+EFENACEL_00237	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+EFENACEL_00238	gene	540				
+EFENACEL_00238	CDS	540				hypothetical protein
+EFENACEL_00239	gene	504				
+EFENACEL_00239	CDS	504				hypothetical protein
+EFENACEL_00240	gene	708				
+EFENACEL_00240	CDS	708				hypothetical protein
+EFENACEL_00241	gene	1455				
+EFENACEL_00241	CDS	1455				hypothetical protein
+EFENACEL_00242	gene	417				
+EFENACEL_00242	CDS	417				hypothetical protein
+EFENACEL_00243	gene	657	csm3			
+EFENACEL_00243	CDS	657	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+EFENACEL_00244	gene	1017				
+EFENACEL_00244	CDS	1017				hypothetical protein
+EFENACEL_00245	gene	1638				
+EFENACEL_00245	CDS	1638				hypothetical protein
+EFENACEL_00246	gene	147				
+EFENACEL_00246	CDS	147				hypothetical protein
+	repeat_region	1027				
+EFENACEL_00247	gene	438				
+EFENACEL_00247	CDS	438				hypothetical protein
+EFENACEL_00248	gene	1248				
+EFENACEL_00248	CDS	1248				hypothetical protein
+EFENACEL_00249	gene	1140				
+EFENACEL_00249	CDS	1140				hypothetical protein
+EFENACEL_00250	gene	687	rsmI			
+EFENACEL_00250	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+EFENACEL_00251	gene	846				
+EFENACEL_00251	CDS	846				hypothetical protein
+EFENACEL_00252	gene	453	tadA_1			
+EFENACEL_00252	CDS	453	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+EFENACEL_00253	gene	741	birA			
+EFENACEL_00253	CDS	741	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+EFENACEL_00254	gene	537				
+EFENACEL_00254	CDS	537				hypothetical protein
+EFENACEL_00255	gene	711	pyrH			
+EFENACEL_00255	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+EFENACEL_00256	gene	414	glmS			
+EFENACEL_00256	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+EFENACEL_00257	gene	1383				
+EFENACEL_00257	CDS	1383				hypothetical protein
+EFENACEL_00258	gene	1464	glmE			
+EFENACEL_00258	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+EFENACEL_00259	gene	1239				
+EFENACEL_00259	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+EFENACEL_00260	gene	1380				
+EFENACEL_00260	CDS	1380				hypothetical protein
+EFENACEL_00261	gene	321				
+EFENACEL_00261	CDS	321				hypothetical protein
+EFENACEL_00262	gene	945				
+EFENACEL_00262	CDS	945				hypothetical protein
+EFENACEL_00263	gene	2886				
+EFENACEL_00263	CDS	2886				hypothetical protein
+EFENACEL_00264	gene	1359	miaB			
+EFENACEL_00264	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EFENACEL_00265	gene	912	xerD			
+EFENACEL_00265	CDS	912	xerD			Tyrosine recombinase XerD
+EFENACEL_00266	gene	1290				
+EFENACEL_00266	CDS	1290				hypothetical protein
+EFENACEL_00267	gene	429	csdE			
+EFENACEL_00267	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+EFENACEL_00268	gene	258	rbfA			
+EFENACEL_00268	CDS	258	rbfA			Ribosome-binding factor A
+EFENACEL_00269	gene	1230	lolE			
+EFENACEL_00269	CDS	1230	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+EFENACEL_00270	gene	354				
+EFENACEL_00270	CDS	354				hypothetical protein
+EFENACEL_00271	gene	4485				
+EFENACEL_00271	CDS	4485				hypothetical protein
+EFENACEL_00272	gene	1500				
+EFENACEL_00272	CDS	1500				hypothetical protein
+EFENACEL_00273	gene	1155				
+EFENACEL_00273	CDS	1155				hypothetical protein
+EFENACEL_00274	gene	909	pfkB			
+EFENACEL_00274	CDS	909	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+EFENACEL_00275	gene	3339				
+EFENACEL_00275	CDS	3339				hypothetical protein
+EFENACEL_00276	gene	1851				
+EFENACEL_00276	CDS	1851				hypothetical protein
+EFENACEL_00277	gene	435	nudC_1			
+EFENACEL_00277	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+EFENACEL_00278	gene	1851	typA			
+EFENACEL_00278	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+EFENACEL_00279	gene	1467	dinF			
+EFENACEL_00279	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+EFENACEL_00280	gene	480	luxS			
+EFENACEL_00280	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+EFENACEL_00281	gene	696	mtnN			
+EFENACEL_00281	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+EFENACEL_00282	gene	2508				
+EFENACEL_00282	CDS	2508				hypothetical protein
+EFENACEL_00283	gene	723				
+EFENACEL_00283	CDS	723				hypothetical protein
+EFENACEL_00284	gene	753				
+EFENACEL_00284	CDS	753				hypothetical protein
+EFENACEL_00285	gene	1518	dtpA			
+EFENACEL_00285	CDS	1518	dtpA		COG3104	Dipeptide and tripeptide permease A
+EFENACEL_00286	gene	444				
+EFENACEL_00286	CDS	444				hypothetical protein
+EFENACEL_00287	gene	1932				
+EFENACEL_00287	CDS	1932				hypothetical protein
+EFENACEL_00288	gene	1437	radA			
+EFENACEL_00288	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+EFENACEL_00289	gene	561				
+EFENACEL_00289	CDS	561				hypothetical protein
+EFENACEL_00290	gene	693				
+EFENACEL_00290	CDS	693				hypothetical protein
+EFENACEL_00291	gene	1029				
+EFENACEL_00291	CDS	1029				hypothetical protein
+EFENACEL_00292	gene	999				
+EFENACEL_00292	CDS	999				hypothetical protein
+EFENACEL_00293	gene	1107				
+EFENACEL_00293	CDS	1107				hypothetical protein
+EFENACEL_00294	gene	870				
+EFENACEL_00294	CDS	870				hypothetical protein
+EFENACEL_00295	gene	921				
+EFENACEL_00295	CDS	921				hypothetical protein
+EFENACEL_00296	gene	74				
+EFENACEL_00296	tRNA	74				tRNA-Lys(ctt)
+EFENACEL_00297	gene	987	msrA			
+EFENACEL_00297	CDS	987	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+EFENACEL_00298	gene	1164				
+EFENACEL_00298	CDS	1164				hypothetical protein
+EFENACEL_00299	gene	546				
+EFENACEL_00299	CDS	546				hypothetical protein
+EFENACEL_00300	gene	486	ftnA			
+EFENACEL_00300	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+EFENACEL_00301	gene	936	arnC			
+EFENACEL_00301	CDS	936	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EFENACEL_00302	gene	1212				
+EFENACEL_00302	CDS	1212				hypothetical protein
+EFENACEL_00303	gene	390				
+EFENACEL_00303	CDS	390				hypothetical protein
+EFENACEL_00304	gene	1038	pheS			
+EFENACEL_00304	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+EFENACEL_00305	gene	1050	rnc			
+EFENACEL_00305	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+EFENACEL_00306	gene	1263	fabF			
+EFENACEL_00306	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+EFENACEL_00307	gene	237	acpP			
+EFENACEL_00307	CDS	237	acpP		COG0236	Acyl carrier protein
+EFENACEL_00308	gene	606				
+EFENACEL_00308	CDS	606				hypothetical protein
+EFENACEL_00309	gene	1047				
+EFENACEL_00309	CDS	1047				hypothetical protein
+EFENACEL_00310	gene	1008	pepE			
+EFENACEL_00310	CDS	1008	pepE	3.4.22.-	COG3579	Aminopeptidase E
+EFENACEL_00311	gene	936				
+EFENACEL_00311	CDS	936				hypothetical protein
+EFENACEL_00312	gene	624				
+EFENACEL_00312	CDS	624				hypothetical protein
+EFENACEL_00313	gene	2148	pbpB			
+EFENACEL_00313	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+EFENACEL_00314	gene	1452	murE			
+EFENACEL_00314	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+EFENACEL_00315	gene	1272	mraY			
+EFENACEL_00315	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EFENACEL_00316	gene	1344	murD			
+EFENACEL_00316	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EFENACEL_00317	gene	1536	gltX			
+EFENACEL_00317	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+EFENACEL_00318	gene	1260	kdtA			
+EFENACEL_00318	CDS	1260	kdtA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+EFENACEL_00319	gene	936	eamA			
+EFENACEL_00319	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+EFENACEL_00320	gene	1788	ftsH_1			
+EFENACEL_00320	CDS	1788	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+EFENACEL_00321	gene	387				
+EFENACEL_00321	CDS	387				hypothetical protein
+EFENACEL_00322	gene	1287				
+EFENACEL_00322	CDS	1287				hypothetical protein
+EFENACEL_00323	gene	1518				
+EFENACEL_00323	CDS	1518		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+EFENACEL_00324	gene	1026				
+EFENACEL_00324	CDS	1026				hypothetical protein
+EFENACEL_00325	gene	471				
+EFENACEL_00325	CDS	471				hypothetical protein
+EFENACEL_00326	gene	1563				
+EFENACEL_00326	CDS	1563				hypothetical protein
+EFENACEL_00327	gene	1290				
+EFENACEL_00327	CDS	1290				hypothetical protein
+EFENACEL_00328	gene	255	rpmE2			
+EFENACEL_00328	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+EFENACEL_00329	gene	1335				
+EFENACEL_00329	CDS	1335				hypothetical protein
+EFENACEL_00330	gene	930				
+EFENACEL_00330	CDS	930				hypothetical protein
+EFENACEL_00331	gene	2562				
+EFENACEL_00331	CDS	2562				hypothetical protein
+EFENACEL_00332	gene	1041				
+EFENACEL_00332	CDS	1041				hypothetical protein
+EFENACEL_00333	gene	1143				
+EFENACEL_00333	CDS	1143				hypothetical protein
+EFENACEL_00334	gene	1155				
+EFENACEL_00334	CDS	1155				hypothetical protein
+EFENACEL_00335	gene	909	trxB			
+EFENACEL_00335	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+EFENACEL_00336	gene	549	bsaA			
+EFENACEL_00336	CDS	549	bsaA			Glutathione peroxidase BsaA
+EFENACEL_00337	gene	600				
+EFENACEL_00337	CDS	600				hypothetical protein
+EFENACEL_00338	gene	1242	ugd			
+EFENACEL_00338	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+EFENACEL_00339	gene	456				
+EFENACEL_00339	CDS	456				hypothetical protein
+EFENACEL_00340	gene	2196				
+EFENACEL_00340	CDS	2196				hypothetical protein
+EFENACEL_00341	gene	1050	dusB			
+EFENACEL_00341	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+EFENACEL_00342	gene	1128				
+EFENACEL_00342	CDS	1128				hypothetical protein
+EFENACEL_00343	gene	453				
+EFENACEL_00343	CDS	453				hypothetical protein
+EFENACEL_00344	gene	1302				
+EFENACEL_00344	CDS	1302				hypothetical protein
+EFENACEL_00345	gene	975				
+EFENACEL_00345	CDS	975				hypothetical protein
+EFENACEL_00346	gene	1443	tuaB			
+EFENACEL_00346	CDS	1443	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+EFENACEL_00347	gene	1440				
+EFENACEL_00347	CDS	1440				hypothetical protein
+EFENACEL_00348	gene	639				
+EFENACEL_00348	CDS	639				hypothetical protein
+EFENACEL_00349	gene	879				
+EFENACEL_00349	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+EFENACEL_00350	gene	423				
+EFENACEL_00350	CDS	423				hypothetical protein
+EFENACEL_00351	gene	1620				
+EFENACEL_00351	CDS	1620				hypothetical protein
+EFENACEL_00352	gene	2169	dpp5			
+EFENACEL_00352	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+EFENACEL_00353	gene	348	yidC			
+EFENACEL_00353	CDS	348	yidC			Membrane protein insertase YidC
+EFENACEL_00354	gene	1884	clpB1			
+EFENACEL_00354	CDS	1884	clpB1		COG0542	Chaperone protein ClpB 1
+EFENACEL_00355	gene	1257				
+EFENACEL_00355	CDS	1257				hypothetical protein
+EFENACEL_00356	gene	2181	recQ			
+EFENACEL_00356	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+EFENACEL_00357	gene	1230	clpX			
+EFENACEL_00357	CDS	1230	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+EFENACEL_00358	gene	345	clpP			
+EFENACEL_00358	CDS	345	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+EFENACEL_00359	gene	2286	relA			
+EFENACEL_00359	CDS	2286	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+EFENACEL_00360	gene	1536				
+EFENACEL_00360	CDS	1536				hypothetical protein
+EFENACEL_00361	gene	765				
+EFENACEL_00361	CDS	765				hypothetical protein
+EFENACEL_00362	gene	900	parB			
+EFENACEL_00362	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+EFENACEL_00363	gene	762	soj			
+EFENACEL_00363	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+EFENACEL_00364	gene	1113	rluD_1			
+EFENACEL_00364	CDS	1113	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EFENACEL_00365	gene	744				
+EFENACEL_00365	CDS	744				hypothetical protein
+EFENACEL_00366	gene	222				
+EFENACEL_00366	CDS	222				hypothetical protein
+EFENACEL_00367	gene	525	efp			
+EFENACEL_00367	CDS	525	efp		COG0231	Elongation factor P
+EFENACEL_00368	gene	1104				
+EFENACEL_00368	CDS	1104				hypothetical protein
+EFENACEL_00369	gene	702				
+EFENACEL_00369	CDS	702				hypothetical protein
+EFENACEL_00370	gene	321	sufT			
+EFENACEL_00370	CDS	321	sufT			Fe-S protein maturation auxiliary factor SufT
+EFENACEL_00371	gene	774	lpxH			
+EFENACEL_00371	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+EFENACEL_00372	gene	285	ackA			
+EFENACEL_00372	CDS	285	ackA	2.7.2.1	COG0282	Acetate kinase
+EFENACEL_00373	gene	564				
+EFENACEL_00373	CDS	564				hypothetical protein
+EFENACEL_00374	gene	2313	cirA			
+EFENACEL_00374	CDS	2313	cirA		COG4771	Colicin I receptor
+EFENACEL_00375	gene	717				
+EFENACEL_00375	CDS	717				hypothetical protein
+EFENACEL_00376	gene	1053				
+EFENACEL_00376	CDS	1053				hypothetical protein
+EFENACEL_00377	gene	774				
+EFENACEL_00377	CDS	774				hypothetical protein
+EFENACEL_00378	gene	504				
+EFENACEL_00378	CDS	504				hypothetical protein
+EFENACEL_00379	gene	2721	ppdK			
+EFENACEL_00379	CDS	2721	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+EFENACEL_00380	gene	3111				
+EFENACEL_00380	CDS	3111				hypothetical protein
+EFENACEL_00381	gene	816				
+EFENACEL_00381	CDS	816				hypothetical protein
+EFENACEL_00382	gene	1584				
+EFENACEL_00382	CDS	1584				hypothetical protein
+EFENACEL_00383	gene	1185				
+EFENACEL_00383	CDS	1185				hypothetical protein
+EFENACEL_00384	gene	1089				
+EFENACEL_00384	CDS	1089				hypothetical protein
+EFENACEL_00385	gene	1026				
+EFENACEL_00385	CDS	1026				hypothetical protein
+EFENACEL_00386	gene	990				
+EFENACEL_00386	CDS	990				hypothetical protein
+EFENACEL_00387	gene	1152	resA_1			
+EFENACEL_00387	CDS	1152	resA_1			Thiol-disulfide oxidoreductase ResA
+EFENACEL_00388	gene	417				
+EFENACEL_00388	CDS	417				hypothetical protein
+EFENACEL_00389	gene	216				
+EFENACEL_00389	CDS	216				hypothetical protein
+EFENACEL_00390	gene	1566	cydA			
+EFENACEL_00390	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+EFENACEL_00391	gene	1143	cydB			
+EFENACEL_00391	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+EFENACEL_00392	gene	963	manA			
+EFENACEL_00392	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+EFENACEL_00393	gene	1458	trkH			
+EFENACEL_00393	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+EFENACEL_00394	gene	396				
+EFENACEL_00394	CDS	396				hypothetical protein
+EFENACEL_00395	gene	834				
+EFENACEL_00395	CDS	834				hypothetical protein
+EFENACEL_00396	gene	249				
+EFENACEL_00396	CDS	249				hypothetical protein
+EFENACEL_00397	gene	1026	mltG			
+EFENACEL_00397	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+EFENACEL_00398	gene	1386				
+EFENACEL_00398	CDS	1386				hypothetical protein
+EFENACEL_00399	gene	432				
+EFENACEL_00399	CDS	432				hypothetical protein
+EFENACEL_00400	gene	1212	topB			
+EFENACEL_00400	CDS	1212	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+EFENACEL_00401	gene	1509	scpC			
+EFENACEL_00401	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+EFENACEL_00402	gene	423				
+EFENACEL_00402	CDS	423				hypothetical protein
+EFENACEL_00403	gene	2940	rcsC_1			
+EFENACEL_00403	CDS	2940	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+EFENACEL_00404	gene	717				
+EFENACEL_00404	CDS	717			COG2826	IS30 family transposase IS4351
+EFENACEL_00405	gene	1170	fbp			
+EFENACEL_00405	CDS	1170	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+EFENACEL_00406	gene	2364				
+EFENACEL_00406	CDS	2364				hypothetical protein
+EFENACEL_00407	gene	405	epi			
+EFENACEL_00407	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+EFENACEL_00408	gene	1554	pccB			
+EFENACEL_00408	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+EFENACEL_00409	gene	159				
+EFENACEL_00409	CDS	159				hypothetical protein
+EFENACEL_00410	gene	564	acm			
+EFENACEL_00410	CDS	564	acm	3.2.1.17		Lysozyme M1
+EFENACEL_00411	gene	840	pal			
+EFENACEL_00411	CDS	840	pal			Peptidoglycan-associated lipoprotein
+EFENACEL_00412	gene	4053	purL			
+EFENACEL_00412	CDS	4053	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+EFENACEL_00413	gene	1269	oprM			
+EFENACEL_00413	CDS	1269	oprM		COG1538	Outer membrane protein OprM
+EFENACEL_00414	gene	774	lpxA_1			
+EFENACEL_00414	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EFENACEL_00415	gene	1647				
+EFENACEL_00415	CDS	1647				hypothetical protein
+EFENACEL_00416	gene	969	recN_1			
+EFENACEL_00416	CDS	969	recN_1		COG0497	DNA repair protein RecN
+EFENACEL_00417	gene	696	recN_2			
+EFENACEL_00417	CDS	696	recN_2		COG0497	DNA repair protein RecN
+EFENACEL_00418	gene	495				
+EFENACEL_00418	CDS	495				hypothetical protein
+EFENACEL_00419	gene	387	nudG			
+EFENACEL_00419	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+EFENACEL_00420	gene	4716	rep			
+EFENACEL_00420	CDS	4716	rep	3.6.4.12		ATP-dependent DNA helicase Rep
+EFENACEL_00421	gene	312				
+EFENACEL_00421	CDS	312				hypothetical protein
+EFENACEL_00422	gene	2094	prlC			
+EFENACEL_00422	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+EFENACEL_00423	gene	444	tadA_2			
+EFENACEL_00423	CDS	444	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+EFENACEL_00424	gene	1725				
+EFENACEL_00424	CDS	1725				hypothetical protein
+EFENACEL_00425	gene	498	yqgN			
+EFENACEL_00425	CDS	498	yqgN		COG0212	putative protein YqgN
+EFENACEL_00426	gene	291				
+EFENACEL_00426	CDS	291				hypothetical protein
+EFENACEL_00427	gene	618	recF			
+EFENACEL_00427	CDS	618	recF		COG1195	DNA replication and repair protein RecF
+EFENACEL_00428	gene	222				
+EFENACEL_00428	CDS	222				hypothetical protein
+EFENACEL_00429	gene	1134				
+EFENACEL_00429	CDS	1134				hypothetical protein
+EFENACEL_00430	gene	1164				
+EFENACEL_00430	CDS	1164				hypothetical protein
+EFENACEL_00431	gene	1095	algA			
+EFENACEL_00431	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+EFENACEL_00432	gene	83				
+EFENACEL_00432	tRNA	83				tRNA-Leu(caa)
+EFENACEL_00433	gene	813				
+EFENACEL_00433	CDS	813				hypothetical protein
+EFENACEL_00434	gene	801				
+EFENACEL_00434	CDS	801				hypothetical protein
+EFENACEL_00435	gene	981				
+EFENACEL_00435	CDS	981			COG1702	PhoH-like protein
+EFENACEL_00436	gene	981	purC_1			
+EFENACEL_00436	CDS	981	purC_1	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EFENACEL_00437	gene	735	menG			
+EFENACEL_00437	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+EFENACEL_00438	gene	741	aroE_1			
+EFENACEL_00438	CDS	741	aroE_1	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+EFENACEL_00439	gene	846				
+EFENACEL_00439	CDS	846				hypothetical protein
+EFENACEL_00440	gene	219				
+EFENACEL_00440	CDS	219				hypothetical protein
+EFENACEL_00441	gene	219				
+EFENACEL_00441	CDS	219				hypothetical protein
+EFENACEL_00442	gene	1584				
+EFENACEL_00442	CDS	1584				hypothetical protein
+EFENACEL_00443	gene	1365	sufD			
+EFENACEL_00443	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+EFENACEL_00444	gene	756	sufC			
+EFENACEL_00444	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+EFENACEL_00445	gene	366				
+EFENACEL_00445	CDS	366				hypothetical protein
+EFENACEL_00446	gene	1131	sufB			
+EFENACEL_00446	CDS	1131	sufB		COG0719	FeS cluster assembly protein SufB
+EFENACEL_00447	gene	1032	cytR			
+EFENACEL_00447	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+EFENACEL_00448	gene	1299				
+EFENACEL_00448	CDS	1299				hypothetical protein
+EFENACEL_00449	gene	711	ispD			
+EFENACEL_00449	CDS	711	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+EFENACEL_00450	gene	2100	recG			
+EFENACEL_00450	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+EFENACEL_00451	gene	438				
+EFENACEL_00451	CDS	438				hypothetical protein
+EFENACEL_00452	gene	156				
+EFENACEL_00452	CDS	156				hypothetical protein
+EFENACEL_00453	gene	90				
+EFENACEL_00453	CDS	90				hypothetical protein
+EFENACEL_00454	gene	807				
+EFENACEL_00454	CDS	807				hypothetical protein
+EFENACEL_00455	gene	1446	patA			
+EFENACEL_00455	CDS	1446	patA	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+EFENACEL_00456	gene	1329				
+EFENACEL_00456	CDS	1329				hypothetical protein
+EFENACEL_00457	gene	1230	yciC			
+EFENACEL_00457	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+EFENACEL_00458	gene	999	TSFM			
+EFENACEL_00458	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+EFENACEL_00459	gene	618	ycgM			
+EFENACEL_00459	CDS	618	ycgM		COG0179	putative protein YcgM
+EFENACEL_00460	gene	3567				
+EFENACEL_00460	CDS	3567				hypothetical protein
+EFENACEL_00461	gene	96				
+EFENACEL_00461	CDS	96				hypothetical protein
+EFENACEL_00462	gene	828	mazG			
+EFENACEL_00462	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+EFENACEL_00463	gene	564				
+EFENACEL_00463	CDS	564				hypothetical protein
+EFENACEL_00464	gene	915	rnz_1			
+EFENACEL_00464	CDS	915	rnz_1	3.1.26.11	COG1234	Ribonuclease Z
+EFENACEL_00465	gene	366				
+EFENACEL_00465	CDS	366				hypothetical protein
+EFENACEL_00466	gene	1536				
+EFENACEL_00466	CDS	1536				hypothetical protein
+EFENACEL_00467	gene	561	sigW			
+EFENACEL_00467	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+EFENACEL_00468	gene	366				
+EFENACEL_00468	CDS	366				hypothetical protein
+EFENACEL_00469	gene	441				
+EFENACEL_00469	CDS	441				hypothetical protein
+EFENACEL_00470	gene	306				
+EFENACEL_00470	CDS	306				hypothetical protein
+EFENACEL_00471	gene	1809				
+EFENACEL_00471	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+EFENACEL_00472	gene	1122	prfB			
+EFENACEL_00472	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+EFENACEL_00473	gene	138				
+EFENACEL_00473	CDS	138				hypothetical protein
+EFENACEL_00474	gene	516				
+EFENACEL_00474	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+EFENACEL_00475	gene	438				
+EFENACEL_00475	CDS	438				hypothetical protein
+EFENACEL_00476	gene	888				
+EFENACEL_00476	CDS	888				hypothetical protein
+EFENACEL_00477	gene	1977	mdoB			
+EFENACEL_00477	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+EFENACEL_00478	gene	1791	arnT			
+EFENACEL_00478	CDS	1791	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+EFENACEL_00479	gene	516	dps			
+EFENACEL_00479	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+EFENACEL_00480	gene	660	upp			
+EFENACEL_00480	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+EFENACEL_00481	gene	397	ssrA			
+EFENACEL_00481	tmRNA	397	ssrA			transfer-messenger RNA, SsrA
+EFENACEL_00482	gene	885				
+EFENACEL_00482	CDS	885				hypothetical protein
+EFENACEL_00483	gene	765				
+EFENACEL_00483	CDS	765				hypothetical protein
+EFENACEL_00484	gene	309				
+EFENACEL_00484	CDS	309				hypothetical protein
+EFENACEL_00485	gene	2067				
+EFENACEL_00485	CDS	2067				hypothetical protein
+EFENACEL_00486	gene	396				
+EFENACEL_00486	CDS	396				hypothetical protein
+EFENACEL_00487	gene	480				
+EFENACEL_00487	CDS	480				hypothetical protein
+EFENACEL_00488	gene	1311	dapL			
+EFENACEL_00488	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+EFENACEL_00489	gene	573				
+EFENACEL_00489	CDS	573				hypothetical protein
+EFENACEL_00490	gene	1623				
+EFENACEL_00490	CDS	1623				hypothetical protein
+EFENACEL_00491	gene	738	yafV			
+EFENACEL_00491	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+EFENACEL_00492	gene	696	infC			
+EFENACEL_00492	CDS	696	infC			Translation initiation factor IF-3
+EFENACEL_00493	gene	198	rpmI			
+EFENACEL_00493	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+EFENACEL_00494	gene	576	gmk			
+EFENACEL_00494	CDS	576	gmk	2.7.4.8	COG0194	Guanylate kinase
+EFENACEL_00495	gene	1149				
+EFENACEL_00495	CDS	1149				hypothetical protein
+EFENACEL_00496	gene	879				
+EFENACEL_00496	CDS	879				hypothetical protein
+EFENACEL_00497	gene	690				
+EFENACEL_00497	CDS	690				hypothetical protein
+EFENACEL_00498	gene	612				
+EFENACEL_00498	CDS	612				hypothetical protein
+EFENACEL_00499	gene	1347	murA			
+EFENACEL_00499	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EFENACEL_00500	gene	2826				
+EFENACEL_00500	CDS	2826				hypothetical protein
+EFENACEL_00501	gene	1305	metK			
+EFENACEL_00501	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+EFENACEL_00502	gene	1038				
+EFENACEL_00502	CDS	1038				hypothetical protein
+EFENACEL_00503	gene	2166	ptpA			
+EFENACEL_00503	CDS	2166	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+EFENACEL_00504	gene	1638	rlmL			
+EFENACEL_00504	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+EFENACEL_00505	gene	483				
+EFENACEL_00505	CDS	483				hypothetical protein
+EFENACEL_00506	gene	2394				
+EFENACEL_00506	CDS	2394				hypothetical protein
+EFENACEL_00507	gene	744				
+EFENACEL_00507	CDS	744				hypothetical protein
+EFENACEL_00508	gene	165				
+EFENACEL_00508	CDS	165				hypothetical protein
+EFENACEL_00509	gene	582	murC			
+EFENACEL_00509	CDS	582	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+EFENACEL_00510	gene	1002				
+EFENACEL_00510	CDS	1002				hypothetical protein
+EFENACEL_00511	gene	1461	ftsA			
+EFENACEL_00511	CDS	1461	ftsA			Cell division protein FtsA
+EFENACEL_00512	gene	1320	ftsZ			
+EFENACEL_00512	CDS	1320	ftsZ			Cell division protein FtsZ
+EFENACEL_00513	gene	447	yqeY			
+EFENACEL_00513	CDS	447	yqeY		COG1610	putative protein YqeY
+EFENACEL_00514	gene	192				
+EFENACEL_00514	CDS	192				hypothetical protein
+EFENACEL_00515	gene	76				
+EFENACEL_00515	tRNA	76				tRNA-Asn(gtt)
+EFENACEL_00516	gene	1734				
+EFENACEL_00516	CDS	1734				hypothetical protein
+EFENACEL_00517	gene	243				
+EFENACEL_00517	CDS	243				hypothetical protein
+EFENACEL_00518	gene	1179				
+EFENACEL_00518	CDS	1179				hypothetical protein
+EFENACEL_00519	gene	462				
+EFENACEL_00519	CDS	462				hypothetical protein
+EFENACEL_00520	gene	780				
+EFENACEL_00520	CDS	780		2.7.7.-	COG0617	A-adding tRNA nucleotidyltransferase
+EFENACEL_00521	gene	1194	ttgA			
+EFENACEL_00521	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+EFENACEL_00522	gene	3258	bepE			
+EFENACEL_00522	CDS	3258	bepE			Efflux pump membrane transporter BepE
+EFENACEL_00523	gene	2007	hutU			
+EFENACEL_00523	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+EFENACEL_00524	gene	1713				
+EFENACEL_00524	CDS	1713				hypothetical protein
+EFENACEL_00525	gene	249	nadB			
+EFENACEL_00525	CDS	249	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+EFENACEL_00526	gene	933	rsgA			
+EFENACEL_00526	CDS	933	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+EFENACEL_00527	gene	561	frr			
+EFENACEL_00527	CDS	561	frr		COG0233	Ribosome-recycling factor
+EFENACEL_00528	gene	792	rsmA			
+EFENACEL_00528	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+EFENACEL_00529	gene	588				
+EFENACEL_00529	CDS	588				hypothetical protein
+EFENACEL_00530	gene	1317				
+EFENACEL_00530	CDS	1317				hypothetical protein
+EFENACEL_00531	gene	441				
+EFENACEL_00531	CDS	441				hypothetical protein
+EFENACEL_00532	gene	966				
+EFENACEL_00532	CDS	966		5.1.3.2	COG1088	UDP-glucose 4-epimerase
+EFENACEL_00533	gene	672				
+EFENACEL_00533	CDS	672				hypothetical protein
+EFENACEL_00534	gene	1443				
+EFENACEL_00534	CDS	1443				hypothetical protein
+EFENACEL_00535	gene	660				
+EFENACEL_00535	CDS	660				hypothetical protein
+EFENACEL_00536	gene	936	epmA			
+EFENACEL_00536	CDS	936	epmA	6.3.1.-		Elongation factor P--(R)-beta-lysine ligase
+EFENACEL_00537	gene	807	gpsA			
+EFENACEL_00537	CDS	807	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EFENACEL_00538	gene	156				
+EFENACEL_00538	CDS	156				hypothetical protein
+EFENACEL_00539	gene	360				
+EFENACEL_00539	CDS	360				hypothetical protein
+EFENACEL_00540	gene	999	menE			
+EFENACEL_00540	CDS	999	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+EFENACEL_00541	gene	963	fmt			
+EFENACEL_00541	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+EFENACEL_00542	gene	621				
+EFENACEL_00542	CDS	621				hypothetical protein
+EFENACEL_00543	gene	834				
+EFENACEL_00543	CDS	834				hypothetical protein
+EFENACEL_00544	gene	471				
+EFENACEL_00544	CDS	471				hypothetical protein
+EFENACEL_00545	gene	993	rpoA			
+EFENACEL_00545	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+EFENACEL_00546	gene	609	rpsD_1			
+EFENACEL_00546	CDS	609	rpsD_1			30S ribosomal protein S4
+EFENACEL_00547	gene	387	rpsK_1			
+EFENACEL_00547	CDS	387	rpsK_1			30S ribosomal protein S11
+EFENACEL_00548	gene	279	rpsM_1			
+EFENACEL_00548	CDS	279	rpsM_1			30S ribosomal protein S13
+EFENACEL_00549	gene	651	mdh			
+EFENACEL_00549	CDS	651	mdh	1.1.1.37		Malate dehydrogenase
+EFENACEL_00550	gene	510				
+EFENACEL_00550	CDS	510				hypothetical protein
+EFENACEL_00551	gene	411				
+EFENACEL_00551	CDS	411				hypothetical protein
+EFENACEL_00552	gene	2538				
+EFENACEL_00552	CDS	2538				hypothetical protein
+EFENACEL_00553	gene	3444				
+EFENACEL_00553	CDS	3444				hypothetical protein
+EFENACEL_00554	gene	1194				
+EFENACEL_00554	CDS	1194				hypothetical protein
+EFENACEL_00555	gene	393	panB			
+EFENACEL_00555	CDS	393	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+EFENACEL_00556	gene	489	cbiKp			
+EFENACEL_00556	CDS	489	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+EFENACEL_00557	gene	1488				
+EFENACEL_00557	CDS	1488				hypothetical protein
+EFENACEL_00558	gene	198				
+EFENACEL_00558	CDS	198				hypothetical protein
+EFENACEL_00559	gene	1428				
+EFENACEL_00559	CDS	1428				hypothetical protein
+EFENACEL_00560	gene	1017				
+EFENACEL_00560	CDS	1017				hypothetical protein
+EFENACEL_00561	gene	2409	btuB_2			
+EFENACEL_00561	CDS	2409	btuB_2			Vitamin B12 transporter BtuB
+EFENACEL_00562	gene	2061	pat			
+EFENACEL_00562	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+EFENACEL_00563	gene	1812	ettA			
+EFENACEL_00563	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+EFENACEL_00564	gene	615	engB			
+EFENACEL_00564	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+EFENACEL_00565	gene	1116				
+EFENACEL_00565	CDS	1116				hypothetical protein
+EFENACEL_00566	gene	396				
+EFENACEL_00566	CDS	396				hypothetical protein
+EFENACEL_00567	gene	1641				
+EFENACEL_00567	CDS	1641				hypothetical protein
+EFENACEL_00568	gene	552	pyrD			
+EFENACEL_00568	CDS	552	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+EFENACEL_00569	gene	903	pyrK			
+EFENACEL_00569	CDS	903	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+EFENACEL_00570	gene	477				
+EFENACEL_00570	CDS	477				hypothetical protein
+EFENACEL_00571	gene	1029				
+EFENACEL_00571	CDS	1029				hypothetical protein
+EFENACEL_00572	gene	471				
+EFENACEL_00572	CDS	471				hypothetical protein
+EFENACEL_00573	gene	189				
+EFENACEL_00573	CDS	189				hypothetical protein
+EFENACEL_00574	gene	666				
+EFENACEL_00574	CDS	666				hypothetical protein
+EFENACEL_00575	gene	2784	cobQ			
+EFENACEL_00575	CDS	2784	cobQ			Cobyric acid synthase
+EFENACEL_00576	gene	1431	purF			
+EFENACEL_00576	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+EFENACEL_00577	gene	891	dapA			
+EFENACEL_00577	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+EFENACEL_00578	gene	723				
+EFENACEL_00578	CDS	723				hypothetical protein
+EFENACEL_00579	gene	687				
+EFENACEL_00579	CDS	687				hypothetical protein
+EFENACEL_00580	gene	171				
+EFENACEL_00580	CDS	171				hypothetical protein
+EFENACEL_00581	gene	2559				
+EFENACEL_00581	CDS	2559				hypothetical protein
+EFENACEL_00582	gene	1908	mrcA_1			
+EFENACEL_00582	CDS	1908	mrcA_1		COG5009	Penicillin-binding protein 1A
+EFENACEL_00583	gene	213				
+EFENACEL_00583	CDS	213				hypothetical protein
+EFENACEL_00584	gene	2295				
+EFENACEL_00584	CDS	2295				hypothetical protein
+EFENACEL_00585	gene	2253				
+EFENACEL_00585	CDS	2253				hypothetical protein
+EFENACEL_00586	gene	2346				
+EFENACEL_00586	CDS	2346				hypothetical protein
+EFENACEL_00587	gene	594				
+EFENACEL_00587	CDS	594				hypothetical protein
+EFENACEL_00588	gene	1560				
+EFENACEL_00588	CDS	1560				hypothetical protein
+EFENACEL_00589	gene	717				
+EFENACEL_00589	CDS	717				hypothetical protein
+EFENACEL_00590	gene	516	speG			
+EFENACEL_00590	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+EFENACEL_00591	gene	76				
+EFENACEL_00591	tRNA	76				tRNA-Asp(gtc)
+EFENACEL_00592	gene	75				
+EFENACEL_00592	tRNA	75				tRNA-Thr(tgt)
+EFENACEL_00593	gene	423				
+EFENACEL_00593	CDS	423				hypothetical protein
+EFENACEL_00594	gene	783				
+EFENACEL_00594	CDS	783				hypothetical protein
+EFENACEL_00595	gene	519	kdsC			
+EFENACEL_00595	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+EFENACEL_00596	gene	573	yhdE			
+EFENACEL_00596	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+EFENACEL_00597	gene	744				
+EFENACEL_00597	CDS	744				hypothetical protein
+EFENACEL_00598	gene	99				
+EFENACEL_00598	CDS	99				hypothetical protein
+EFENACEL_00599	gene	1482				
+EFENACEL_00599	CDS	1482				hypothetical protein
+EFENACEL_00600	gene	1467				
+EFENACEL_00600	CDS	1467				hypothetical protein
+EFENACEL_00601	gene	570	purN			
+EFENACEL_00601	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+EFENACEL_00602	gene	1545	comM			
+EFENACEL_00602	CDS	1545	comM		COG0606	Competence protein ComM
+EFENACEL_00603	gene	786				
+EFENACEL_00603	CDS	786				hypothetical protein
+EFENACEL_00604	gene	2133				
+EFENACEL_00604	CDS	2133				hypothetical protein
+EFENACEL_00605	gene	630				
+EFENACEL_00605	CDS	630				hypothetical protein
+EFENACEL_00606	gene	273	hup			
+EFENACEL_00606	CDS	273	hup			DNA-binding protein HU
+EFENACEL_00607	gene	894				
+EFENACEL_00607	CDS	894				hypothetical protein
+EFENACEL_00608	gene	1089				
+EFENACEL_00608	CDS	1089				hypothetical protein
+EFENACEL_00609	gene	324				
+EFENACEL_00609	CDS	324				hypothetical protein
+EFENACEL_00610	gene	348	ispF			
+EFENACEL_00610	CDS	348	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+EFENACEL_00611	gene	765				
+EFENACEL_00611	CDS	765				hypothetical protein
+EFENACEL_00612	gene	2229	btuB_3			
+EFENACEL_00612	CDS	2229	btuB_3			Vitamin B12 transporter BtuB
+EFENACEL_00613	gene	1770	dpp7			
+EFENACEL_00613	CDS	1770	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+EFENACEL_00614	gene	717				
+EFENACEL_00614	CDS	717				hypothetical protein
+EFENACEL_00615	gene	726				
+EFENACEL_00615	CDS	726				hypothetical protein
+EFENACEL_00616	gene	1038	wbbI			
+EFENACEL_00616	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+EFENACEL_00617	gene	159				
+EFENACEL_00617	CDS	159				hypothetical protein
+EFENACEL_00618	gene	705	ttcA			
+EFENACEL_00618	CDS	705	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+EFENACEL_00619	gene	657	ppaX			
+EFENACEL_00619	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+EFENACEL_00620	gene	162				
+EFENACEL_00620	CDS	162			COG1773	Rubredoxin
+EFENACEL_00621	gene	450	guaD			
+EFENACEL_00621	CDS	450	guaD	3.5.4.3	COG0590	Guanine deaminase
+EFENACEL_00622	gene	1575	rne			
+EFENACEL_00622	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+EFENACEL_00623	gene	90				
+EFENACEL_00623	CDS	90				hypothetical protein
+EFENACEL_00624	gene	300				
+EFENACEL_00624	CDS	300			COG0776	DNA-binding protein HRL53
+EFENACEL_00625	gene	1473				
+EFENACEL_00625	CDS	1473				hypothetical protein
+EFENACEL_00626	gene	1233				
+EFENACEL_00626	CDS	1233				hypothetical protein
+EFENACEL_00627	gene	171				
+EFENACEL_00627	CDS	171				hypothetical protein
+EFENACEL_00628	gene	1038				
+EFENACEL_00628	CDS	1038				hypothetical protein
+EFENACEL_00629	gene	390				
+EFENACEL_00629	CDS	390				hypothetical protein
+EFENACEL_00630	gene	2238	rnr			
+EFENACEL_00630	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+EFENACEL_00631	gene	864				
+EFENACEL_00631	CDS	864				hypothetical protein
+EFENACEL_00632	gene	654				
+EFENACEL_00632	CDS	654				hypothetical protein
+EFENACEL_00633	gene	465				
+EFENACEL_00633	CDS	465				hypothetical protein
+EFENACEL_00634	gene	672				
+EFENACEL_00634	CDS	672				hypothetical protein
+EFENACEL_00635	gene	3537				
+EFENACEL_00635	CDS	3537				hypothetical protein
+EFENACEL_00636	gene	258				
+EFENACEL_00636	CDS	258				hypothetical protein
+EFENACEL_00637	gene	486				
+EFENACEL_00637	CDS	486				hypothetical protein
+EFENACEL_00638	gene	1329	allB			
+EFENACEL_00638	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+EFENACEL_00639	gene	1179				
+EFENACEL_00639	CDS	1179				hypothetical protein
+EFENACEL_00640	gene	1230				
+EFENACEL_00640	CDS	1230				hypothetical protein
+EFENACEL_00641	gene	489				
+EFENACEL_00641	CDS	489				hypothetical protein
+EFENACEL_00642	gene	345	rsxG			
+EFENACEL_00642	CDS	345	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+EFENACEL_00643	gene	591	rnfE			
+EFENACEL_00643	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+EFENACEL_00644	gene	603	rnfA			
+EFENACEL_00644	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+EFENACEL_00645	gene	1041	galE			
+EFENACEL_00645	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+EFENACEL_00646	gene	1938	uvrA_1			
+EFENACEL_00646	CDS	1938	uvrA_1			UvrABC system protein A
+EFENACEL_00647	gene	321				
+EFENACEL_00647	CDS	321				hypothetical protein
+EFENACEL_00648	gene	1089	trpS2			
+EFENACEL_00648	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+EFENACEL_00649	gene	2871	rpoC			
+EFENACEL_00649	CDS	2871	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+EFENACEL_00650	gene	3855				
+EFENACEL_00650	CDS	3855				hypothetical protein
+EFENACEL_00651	gene	1188				
+EFENACEL_00651	CDS	1188				hypothetical protein
+EFENACEL_00652	gene	1083				
+EFENACEL_00652	CDS	1083				hypothetical protein
+EFENACEL_00653	gene	291				
+EFENACEL_00653	CDS	291				hypothetical protein
+EFENACEL_00654	gene	1689	hppA1			
+EFENACEL_00654	CDS	1689	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+EFENACEL_00655	gene	555				
+EFENACEL_00655	CDS	555				hypothetical protein
+EFENACEL_00656	gene	273				
+EFENACEL_00656	CDS	273				hypothetical protein
+EFENACEL_00657	gene	1641	pfp			
+EFENACEL_00657	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+EFENACEL_00658	gene	804				
+EFENACEL_00658	CDS	804				hypothetical protein
+EFENACEL_00659	gene	276				
+EFENACEL_00659	CDS	276				hypothetical protein
+EFENACEL_00660	gene	972	ravA			
+EFENACEL_00660	CDS	972	ravA	3.6.3.-		ATPase RavA
+EFENACEL_00661	gene	1356				
+EFENACEL_00661	CDS	1356				hypothetical protein
+EFENACEL_00662	gene	618				
+EFENACEL_00662	CDS	618				hypothetical protein
+EFENACEL_00663	gene	924				
+EFENACEL_00663	CDS	924				hypothetical protein
+EFENACEL_00664	gene	663				
+EFENACEL_00664	CDS	663				hypothetical protein
+EFENACEL_00665	gene	1461	sasA_1			
+EFENACEL_00665	CDS	1461	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+EFENACEL_00666	gene	1647	fumA			
+EFENACEL_00666	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+EFENACEL_00667	gene	1452				
+EFENACEL_00667	CDS	1452				hypothetical protein
+EFENACEL_00668	gene	555	resA_2			
+EFENACEL_00668	CDS	555	resA_2			Thiol-disulfide oxidoreductase ResA
+EFENACEL_00669	gene	534	maa			
+EFENACEL_00669	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+EFENACEL_00670	gene	483				
+EFENACEL_00670	CDS	483				hypothetical protein
+EFENACEL_00671	gene	498				
+EFENACEL_00671	CDS	498				hypothetical protein
+EFENACEL_00672	gene	477				
+EFENACEL_00672	CDS	477				hypothetical protein
+EFENACEL_00673	gene	330	tolQ_2			
+EFENACEL_00673	CDS	330	tolQ_2			Tol-Pal system protein TolQ
+EFENACEL_00674	gene	1113	prfA			
+EFENACEL_00674	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+EFENACEL_00675	gene	825	pyrF			
+EFENACEL_00675	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+EFENACEL_00676	gene	240				
+EFENACEL_00676	CDS	240				hypothetical protein
+EFENACEL_00677	gene	1416				
+EFENACEL_00677	CDS	1416				hypothetical protein
+EFENACEL_00678	gene	603	mshA_1			
+EFENACEL_00678	CDS	603	mshA_1	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+EFENACEL_00679	gene	1686	dauA			
+EFENACEL_00679	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+EFENACEL_00680	gene	1620				
+EFENACEL_00680	CDS	1620				hypothetical protein
+EFENACEL_00681	gene	777				
+EFENACEL_00681	CDS	777				hypothetical protein
+EFENACEL_00682	gene	1410	rsmF			
+EFENACEL_00682	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+EFENACEL_00683	gene	795	thyA			
+EFENACEL_00683	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+EFENACEL_00684	gene	486	dfrA			
+EFENACEL_00684	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+EFENACEL_00685	gene	486	asnC_1			
+EFENACEL_00685	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+EFENACEL_00686	gene	249	pyrB_1			
+EFENACEL_00686	CDS	249	pyrB_1	2.1.3.2	COG0540	Aspartate carbamoyltransferase
+EFENACEL_00687	gene	459	pyrI_1			
+EFENACEL_00687	CDS	459	pyrI_1		COG1781	Aspartate carbamoyltransferase regulatory chain
+EFENACEL_00688	gene	1254	mltF			
+EFENACEL_00688	CDS	1254	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+EFENACEL_00689	gene	168				
+EFENACEL_00689	CDS	168				hypothetical protein
+EFENACEL_00690	gene	1632	pepDA			
+EFENACEL_00690	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+EFENACEL_00691	gene	654				
+EFENACEL_00691	CDS	654				hypothetical protein
+EFENACEL_00692	gene	663				
+EFENACEL_00692	CDS	663				hypothetical protein
+EFENACEL_00693	gene	507	recX			
+EFENACEL_00693	CDS	507	recX			Regulatory protein RecX
+EFENACEL_00694	gene	894	prmB			
+EFENACEL_00694	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+EFENACEL_00695	gene	1005	hmuU_2			
+EFENACEL_00695	CDS	1005	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+EFENACEL_00696	gene	1173				
+EFENACEL_00696	CDS	1173				hypothetical protein
+EFENACEL_00697	gene	729				
+EFENACEL_00697	CDS	729				hypothetical protein
+EFENACEL_00698	gene	1173	lpxK			
+EFENACEL_00698	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+EFENACEL_00699	gene	660	punA			
+EFENACEL_00699	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+EFENACEL_00700	gene	1116	thiL			
+EFENACEL_00700	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+EFENACEL_00701	gene	1317				
+EFENACEL_00701	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+EFENACEL_00702	gene	1368				
+EFENACEL_00702	CDS	1368				hypothetical protein
+EFENACEL_00703	gene	609				
+EFENACEL_00703	CDS	609				hypothetical protein
+EFENACEL_00704	gene	825	lptB			
+EFENACEL_00704	CDS	825	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+EFENACEL_00705	gene	564				
+EFENACEL_00705	CDS	564				hypothetical protein
+EFENACEL_00706	gene	747	mlaE			
+EFENACEL_00706	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+EFENACEL_00707	gene	891				
+EFENACEL_00707	CDS	891				hypothetical protein
+EFENACEL_00708	gene	1941	nadE			
+EFENACEL_00708	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+EFENACEL_00709	gene	843	queA_2			
+EFENACEL_00709	CDS	843	queA_2	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EFENACEL_00710	gene	645				
+EFENACEL_00710	CDS	645				hypothetical protein
+EFENACEL_00711	gene	1065	kdsA			
+EFENACEL_00711	CDS	1065	kdsA	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+EFENACEL_00712	gene	1059				
+EFENACEL_00712	CDS	1059				hypothetical protein
+EFENACEL_00713	gene	1095				
+EFENACEL_00713	CDS	1095				hypothetical protein
+EFENACEL_00714	gene	237				
+EFENACEL_00714	CDS	237				hypothetical protein
+EFENACEL_00715	gene	798	lpd3			
+EFENACEL_00715	CDS	798	lpd3	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase 3
+EFENACEL_00716	gene	855				
+EFENACEL_00716	CDS	855				hypothetical protein
+EFENACEL_00717	gene	339				
+EFENACEL_00717	CDS	339				hypothetical protein
+EFENACEL_00718	gene	462	ogt			
+EFENACEL_00718	CDS	462	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+EFENACEL_00719	gene	1566	guaA			
+EFENACEL_00719	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+EFENACEL_00720	gene	1953	yheS			
+EFENACEL_00720	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+EFENACEL_00721	gene	558				
+EFENACEL_00721	CDS	558				hypothetical protein
+EFENACEL_00722	gene	306				
+EFENACEL_00722	CDS	306				hypothetical protein
+EFENACEL_00723	gene	1827				
+EFENACEL_00723	CDS	1827				hypothetical protein
+EFENACEL_00724	gene	1059				
+EFENACEL_00724	CDS	1059				hypothetical protein
+EFENACEL_00725	gene	402				
+EFENACEL_00725	CDS	402				hypothetical protein
+EFENACEL_00726	gene	576	srpC			
+EFENACEL_00726	CDS	576	srpC		COG2059	putative chromate transport protein
+EFENACEL_00727	gene	2148	dcp			
+EFENACEL_00727	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+EFENACEL_00728	gene	705				
+EFENACEL_00728	CDS	705		2.4.1.19		Cyclomaltodextrin glucanotransferase
+EFENACEL_00729	gene	609	grpE			
+EFENACEL_00729	CDS	609	grpE			Protein GrpE
+EFENACEL_00730	gene	1173	dnaJ			
+EFENACEL_00730	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+EFENACEL_00731	gene	1236	fpgS			
+EFENACEL_00731	CDS	1236	fpgS	6.3.2.17		Folylpolyglutamate synthase
+EFENACEL_00732	gene	744				
+EFENACEL_00732	CDS	744				hypothetical protein
+EFENACEL_00733	gene	1479	cstA			
+EFENACEL_00733	CDS	1479	cstA		COG1966	Peptide transporter CstA
+EFENACEL_00734	gene	495				
+EFENACEL_00734	CDS	495				hypothetical protein
+EFENACEL_00735	gene	849	nadC			
+EFENACEL_00735	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+EFENACEL_00736	gene	2295				
+EFENACEL_00736	CDS	2295				hypothetical protein
+EFENACEL_00737	gene	1356	tig			
+EFENACEL_00737	CDS	1356	tig	5.2.1.8		Trigger factor
+EFENACEL_00738	gene	1023	ilvE_1			
+EFENACEL_00738	CDS	1023	ilvE_1	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+EFENACEL_00739	gene	171	xseB			
+EFENACEL_00739	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+EFENACEL_00740	gene	1323	xseA			
+EFENACEL_00740	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+EFENACEL_00741	gene	294				
+EFENACEL_00741	CDS	294				hypothetical protein
+EFENACEL_00742	gene	507				
+EFENACEL_00742	CDS	507				hypothetical protein
+EFENACEL_00743	gene	135				
+EFENACEL_00743	CDS	135				hypothetical protein
+EFENACEL_00744	gene	255	rpsT			
+EFENACEL_00744	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+EFENACEL_00745	gene	75				
+EFENACEL_00745	tRNA	75				tRNA-Glu(ttc)
+EFENACEL_00746	gene	726	recO			
+EFENACEL_00746	CDS	726	recO		COG1381	DNA repair protein RecO
+EFENACEL_00747	gene	159				
+EFENACEL_00747	CDS	159				hypothetical protein
+EFENACEL_00748	gene	987				
+EFENACEL_00748	CDS	987				hypothetical protein
+EFENACEL_00749	gene	369	megL			
+EFENACEL_00749	CDS	369	megL	4.4.1.11	COG0626	L-methionine gamma-lyase
+EFENACEL_00750	gene	339				
+EFENACEL_00750	CDS	339				hypothetical protein
+EFENACEL_00751	gene	192				
+EFENACEL_00751	CDS	192				hypothetical protein
+EFENACEL_00752	gene	1182	purH_2			
+EFENACEL_00752	CDS	1182	purH_2	3.5.4.10		Bifunctional purine biosynthesis protein PurH
+EFENACEL_00753	gene	1596	mutS_1			
+EFENACEL_00753	CDS	1596	mutS_1			DNA mismatch repair protein MutS
+EFENACEL_00754	gene	969	rho			
+EFENACEL_00754	CDS	969	rho	3.6.4.-	COG1158	Transcription termination factor Rho
+EFENACEL_00755	gene	540				
+EFENACEL_00755	CDS	540				hypothetical protein
+EFENACEL_00756	gene	462				
+EFENACEL_00756	CDS	462				hypothetical protein
+EFENACEL_00757	gene	408				
+EFENACEL_00757	CDS	408				hypothetical protein
+EFENACEL_00758	gene	1128	valS			
+EFENACEL_00758	CDS	1128	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+EFENACEL_00759	gene	1185				
+EFENACEL_00759	CDS	1185				hypothetical protein
+EFENACEL_00760	gene	74				
+EFENACEL_00760	tRNA	74				tRNA-Pro(tgg)
+EFENACEL_00761	gene	267				
+EFENACEL_00761	CDS	267				hypothetical protein
+EFENACEL_00762	gene	585				
+EFENACEL_00762	CDS	585				hypothetical protein
+EFENACEL_00763	gene	1776				
+EFENACEL_00763	CDS	1776				hypothetical protein
+EFENACEL_00764	gene	1359				
+EFENACEL_00764	CDS	1359				hypothetical protein
+EFENACEL_00765	gene	432	gyrB_1			
+EFENACEL_00765	CDS	432	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+EFENACEL_00766	gene	879				
+EFENACEL_00766	CDS	879				hypothetical protein
+EFENACEL_00767	gene	621				
+EFENACEL_00767	CDS	621				hypothetical protein
+EFENACEL_00768	gene	666	ung			
+EFENACEL_00768	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+EFENACEL_00769	gene	1248	gpmI			
+EFENACEL_00769	CDS	1248	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EFENACEL_00770	gene	384	lpxD			
+EFENACEL_00770	CDS	384	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+EFENACEL_00771	gene	1386	lpxC			
+EFENACEL_00771	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+EFENACEL_00772	gene	774	lpxA_2			
+EFENACEL_00772	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EFENACEL_00773	gene	909	miaA_2			
+EFENACEL_00773	CDS	909	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EFENACEL_00774	gene	894	nqrF			
+EFENACEL_00774	CDS	894	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+EFENACEL_00775	gene	1563				
+EFENACEL_00775	CDS	1563				hypothetical protein
+EFENACEL_00776	gene	1224	clpC			
+EFENACEL_00776	CDS	1224	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+EFENACEL_00777	gene	252				
+EFENACEL_00777	CDS	252				hypothetical protein
+EFENACEL_00778	gene	1356	mshA_2			
+EFENACEL_00778	CDS	1356	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EFENACEL_00779	gene	804				
+EFENACEL_00779	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+EFENACEL_00780	gene	1260				
+EFENACEL_00780	CDS	1260				hypothetical protein
+EFENACEL_00781	gene	555	dapH_2			
+EFENACEL_00781	CDS	555	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EFENACEL_00782	gene	1221				
+EFENACEL_00782	CDS	1221				hypothetical protein
+EFENACEL_00783	gene	879				
+EFENACEL_00783	CDS	879				hypothetical protein
+EFENACEL_00784	gene	912				
+EFENACEL_00784	CDS	912				hypothetical protein
+EFENACEL_00785	gene	483	asnC_2			
+EFENACEL_00785	CDS	483	asnC_2		COG1522	Regulatory protein AsnC
+EFENACEL_00786	gene	984				
+EFENACEL_00786	CDS	984				hypothetical protein
+EFENACEL_00787	gene	1356	pgi			
+EFENACEL_00787	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+EFENACEL_00788	gene	705	hxpA			
+EFENACEL_00788	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+EFENACEL_00789	gene	114				
+EFENACEL_00789	CDS	114				hypothetical protein
+EFENACEL_00790	gene	1077	mnmA			
+EFENACEL_00790	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+EFENACEL_00791	gene	612				
+EFENACEL_00791	CDS	612				hypothetical protein
+EFENACEL_00792	gene	981				
+EFENACEL_00792	CDS	981				hypothetical protein
+EFENACEL_00793	gene	1515				
+EFENACEL_00793	CDS	1515				hypothetical protein
+EFENACEL_00794	gene	1197				
+EFENACEL_00794	CDS	1197				hypothetical protein
+EFENACEL_00795	gene	1383	phoV			
+EFENACEL_00795	CDS	1383	phoV	3.1.3.1		Alkaline phosphatase PhoV
+EFENACEL_00796	gene	777	yhfT			
+EFENACEL_00796	CDS	777	yhfT	6.2.1.-	COG0318	putative acyl--CoA ligase YhfT
+EFENACEL_00797	gene	363				
+EFENACEL_00797	CDS	363				hypothetical protein
+EFENACEL_00798	gene	498				
+EFENACEL_00798	CDS	498			COG0716	Flavodoxin 1
+EFENACEL_00799	gene	1896				
+EFENACEL_00799	CDS	1896				hypothetical protein
+EFENACEL_00800	gene	75				
+EFENACEL_00800	tRNA	75				tRNA-Ala(ggc)
+EFENACEL_00801	gene	726				
+EFENACEL_00801	CDS	726				hypothetical protein
+EFENACEL_00802	gene	138				
+EFENACEL_00802	CDS	138				hypothetical protein
+EFENACEL_00803	gene	1032	cobD_1			
+EFENACEL_00803	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+EFENACEL_00804	gene	939	cobD_2			
+EFENACEL_00804	CDS	939	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+EFENACEL_00805	gene	2049	bepA_1			
+EFENACEL_00805	CDS	2049	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+EFENACEL_00806	gene	453	yqaA			
+EFENACEL_00806	CDS	453	yqaA		COG1238	Inner membrane protein YqaA
+EFENACEL_00807	gene	951				
+EFENACEL_00807	CDS	951				hypothetical protein
+EFENACEL_00808	gene	1263	purD			
+EFENACEL_00808	CDS	1263	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+EFENACEL_00809	gene	276				
+EFENACEL_00809	CDS	276				hypothetical protein
+EFENACEL_00810	gene	714				
+EFENACEL_00810	CDS	714				hypothetical protein
+EFENACEL_00811	gene	1494				
+EFENACEL_00811	CDS	1494				hypothetical protein
+EFENACEL_00812	gene	1407				
+EFENACEL_00812	CDS	1407				TonB-dependent receptor P3
+EFENACEL_00813	gene	3627				
+EFENACEL_00813	CDS	3627				hypothetical protein
+EFENACEL_00814	gene	1224				
+EFENACEL_00814	CDS	1224				hypothetical protein
+EFENACEL_00815	gene	756				
+EFENACEL_00815	CDS	756				hypothetical protein
+EFENACEL_00816	gene	675				
+EFENACEL_00816	CDS	675				hypothetical protein
+EFENACEL_00817	gene	270				
+EFENACEL_00817	CDS	270				hypothetical protein
+EFENACEL_00818	gene	183				
+EFENACEL_00818	CDS	183				hypothetical protein
+EFENACEL_00819	gene	963				
+EFENACEL_00819	CDS	963				hypothetical protein
+EFENACEL_00820	gene	609				
+EFENACEL_00820	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+EFENACEL_00821	gene	159				
+EFENACEL_00821	CDS	159				hypothetical protein
+EFENACEL_00822	gene	117				
+EFENACEL_00822	CDS	117				hypothetical protein
+EFENACEL_00823	gene	894				
+EFENACEL_00823	CDS	894				hypothetical protein
+EFENACEL_00824	gene	1197	arnB			
+EFENACEL_00824	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+EFENACEL_00825	gene	588				
+EFENACEL_00825	CDS	588				hypothetical protein
+EFENACEL_00826	gene	786				
+EFENACEL_00826	CDS	786				hypothetical protein
+EFENACEL_00827	gene	387	gcvH			
+EFENACEL_00827	CDS	387	gcvH			Glycine cleavage system H protein
+EFENACEL_00828	gene	1095	gcvT			
+EFENACEL_00828	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+EFENACEL_00829	gene	948	lplJ			
+EFENACEL_00829	CDS	948	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+EFENACEL_00830	gene	441	coaD			
+EFENACEL_00830	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+EFENACEL_00831	gene	1959	gyrB_2			
+EFENACEL_00831	CDS	1959	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+EFENACEL_00832	gene	1149	yghO			
+EFENACEL_00832	CDS	1149	yghO			Protein YghO
+EFENACEL_00833	gene	819				
+EFENACEL_00833	CDS	819				hypothetical protein
+EFENACEL_00834	gene	486	resA_3			
+EFENACEL_00834	CDS	486	resA_3			Thiol-disulfide oxidoreductase ResA
+EFENACEL_00835	gene	810	susD			
+EFENACEL_00835	CDS	810	susD			Starch-binding protein SusD
+EFENACEL_00836	gene	1122	susE			
+EFENACEL_00836	CDS	1122	susE			Outer membrane protein SusE
+EFENACEL_00837	gene	1092	susF			
+EFENACEL_00837	CDS	1092	susF			Outer membrane protein SusF
+EFENACEL_00838	gene	648				
+EFENACEL_00838	CDS	648				hypothetical protein
+EFENACEL_00839	gene	711				
+EFENACEL_00839	CDS	711				hypothetical protein
+EFENACEL_00840	gene	636	nth			
+EFENACEL_00840	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+EFENACEL_00841	gene	606				
+EFENACEL_00841	CDS	606				hypothetical protein
+EFENACEL_00842	gene	231				
+EFENACEL_00842	CDS	231				hypothetical protein
+EFENACEL_00843	gene	627	atpG			
+EFENACEL_00843	CDS	627	atpG			ATP synthase gamma chain
+EFENACEL_00844	gene	1488				
+EFENACEL_00844	CDS	1488				hypothetical protein
+EFENACEL_00845	gene	813	glgA			
+EFENACEL_00845	CDS	813	glgA	2.4.1.21		Glycogen synthase
+EFENACEL_00846	gene	2160	fusA			
+EFENACEL_00846	CDS	2160	fusA		COG0480	Elongation factor G
+EFENACEL_00847	gene	687				
+EFENACEL_00847	CDS	687				hypothetical protein
+EFENACEL_00848	gene	2580				
+EFENACEL_00848	CDS	2580				hypothetical protein
+EFENACEL_00849	gene	495	RBKS			
+EFENACEL_00849	CDS	495	RBKS	2.7.1.15		Ribokinase
+EFENACEL_00850	gene	1191				
+EFENACEL_00850	CDS	1191				hypothetical protein
+EFENACEL_00851	gene	177				
+EFENACEL_00851	CDS	177				hypothetical protein
+EFENACEL_00852	gene	1335				
+EFENACEL_00852	CDS	1335				hypothetical protein
+EFENACEL_00853	gene	696				
+EFENACEL_00853	CDS	696				hypothetical protein
+EFENACEL_00854	gene	510	pspA			
+EFENACEL_00854	CDS	510	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+EFENACEL_00855	gene	171				
+EFENACEL_00855	CDS	171				hypothetical protein
+EFENACEL_00856	gene	1044				
+EFENACEL_00856	CDS	1044				hypothetical protein
+EFENACEL_00857	gene	105				
+EFENACEL_00857	CDS	105				hypothetical protein
+EFENACEL_00858	gene	99				
+EFENACEL_00858	CDS	99				hypothetical protein
+EFENACEL_00859	gene	471				
+EFENACEL_00859	CDS	471				hypothetical protein
+EFENACEL_00860	gene	1098	apbC_1			
+EFENACEL_00860	CDS	1098	apbC_1		COG0489	Iron-sulfur cluster carrier protein
+EFENACEL_00861	gene	771				
+EFENACEL_00861	CDS	771				hypothetical protein
+EFENACEL_00862	gene	678	walR			
+EFENACEL_00862	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+EFENACEL_00863	gene	588				
+EFENACEL_00863	CDS	588				hypothetical protein
+EFENACEL_00864	gene	2895				
+EFENACEL_00864	CDS	2895				hypothetical protein
+EFENACEL_00865	gene	552				
+EFENACEL_00865	CDS	552				hypothetical protein
+EFENACEL_00866	gene	525				
+EFENACEL_00866	CDS	525				hypothetical protein
+EFENACEL_00867	gene	1824				
+EFENACEL_00867	CDS	1824				hypothetical protein
+EFENACEL_00868	gene	1119	fdtB			
+EFENACEL_00868	CDS	1119	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+EFENACEL_00869	gene	1722				
+EFENACEL_00869	CDS	1722				hypothetical protein
+EFENACEL_00870	gene	1668	udk			
+EFENACEL_00870	CDS	1668	udk	2.7.1.48		Uridine kinase
+EFENACEL_00871	gene	369				
+EFENACEL_00871	CDS	369				hypothetical protein
+EFENACEL_00872	gene	126				
+EFENACEL_00872	CDS	126				hypothetical protein
+EFENACEL_00873	gene	168				
+EFENACEL_00873	CDS	168				hypothetical protein
+EFENACEL_00874	gene	1479	guaB			
+EFENACEL_00874	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+EFENACEL_00875	gene	1749	pheT			
+EFENACEL_00875	CDS	1749	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+EFENACEL_00876	gene	726				
+EFENACEL_00876	CDS	726			COG0217	putative transcriptional regulatory protein
+EFENACEL_00877	gene	387				
+EFENACEL_00877	CDS	387				hypothetical protein
+EFENACEL_00878	gene	789	cptA			
+EFENACEL_00878	CDS	789	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+EFENACEL_00879	gene	1071				
+EFENACEL_00879	CDS	1071				hypothetical protein
+EFENACEL_00880	gene	1683				
+EFENACEL_00880	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+EFENACEL_00881	gene	432				
+EFENACEL_00881	CDS	432				hypothetical protein
+EFENACEL_00882	gene	2709	rcsC_2			
+EFENACEL_00882	CDS	2709	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+EFENACEL_00883	gene	462				
+EFENACEL_00883	CDS	462				hypothetical protein
+EFENACEL_00884	gene	456				
+EFENACEL_00884	CDS	456				hypothetical protein
+EFENACEL_00885	gene	954	qmcA			
+EFENACEL_00885	CDS	954	qmcA		COG0330	Protein QmcA
+EFENACEL_00886	gene	1086	wbpI			
+EFENACEL_00886	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+EFENACEL_00887	gene	1257	nusA			
+EFENACEL_00887	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+EFENACEL_00888	gene	465	rimP			
+EFENACEL_00888	CDS	465	rimP			Ribosome maturation factor RimP
+EFENACEL_00889	gene	540				
+EFENACEL_00889	CDS	540				hypothetical protein
+EFENACEL_00890	gene	885				
+EFENACEL_00890	CDS	885				hypothetical protein
+EFENACEL_00891	gene	1008				
+EFENACEL_00891	CDS	1008				hypothetical protein
+EFENACEL_00892	gene	627	trmR			
+EFENACEL_00892	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+EFENACEL_00893	gene	420	aroQ			
+EFENACEL_00893	CDS	420	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+EFENACEL_00894	gene	234				
+EFENACEL_00894	CDS	234				hypothetical protein
+EFENACEL_00895	gene	123				
+EFENACEL_00895	CDS	123				hypothetical protein
+EFENACEL_00896	gene	2037	glgB			
+EFENACEL_00896	CDS	2037	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+EFENACEL_00897	gene	564				
+EFENACEL_00897	CDS	564				hypothetical protein
+EFENACEL_00898	gene	363	rplS			
+EFENACEL_00898	CDS	363	rplS		COG0335	50S ribosomal protein L19
+EFENACEL_00899	gene	624				
+EFENACEL_00899	CDS	624				hypothetical protein
+EFENACEL_00900	gene	144				
+EFENACEL_00900	CDS	144				hypothetical protein
+EFENACEL_00901	gene	393				
+EFENACEL_00901	CDS	393				hypothetical protein
+EFENACEL_00902	gene	219				
+EFENACEL_00902	CDS	219				hypothetical protein
+EFENACEL_00903	gene	246				
+EFENACEL_00903	CDS	246				hypothetical protein
+EFENACEL_00904	gene	1785				
+EFENACEL_00904	CDS	1785				hypothetical protein
+EFENACEL_00905	gene	507				
+EFENACEL_00905	CDS	507				hypothetical protein
+EFENACEL_00906	gene	765	cdaA			
+EFENACEL_00906	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+EFENACEL_00907	gene	1008	pta			
+EFENACEL_00907	CDS	1008	pta	2.3.1.8		Phosphate acetyltransferase
+EFENACEL_00908	gene	951	purC_2			
+EFENACEL_00908	CDS	951	purC_2	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EFENACEL_00909	gene	1047				
+EFENACEL_00909	CDS	1047			COG1702	PhoH-like protein
+EFENACEL_00910	gene	810				
+EFENACEL_00910	CDS	810				hypothetical protein
+EFENACEL_00911	gene	462	ahpF			
+EFENACEL_00911	CDS	462	ahpF	1.8.1.-	COG3634	Alkyl hydroperoxide reductase subunit F
+EFENACEL_00912	gene	1047	rlmN			
+EFENACEL_00912	CDS	1047	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+EFENACEL_00913	gene	978				
+EFENACEL_00913	CDS	978				hypothetical protein
+EFENACEL_00914	gene	1344	gdhB			
+EFENACEL_00914	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+EFENACEL_00915	gene	372	rlpA			
+EFENACEL_00915	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+EFENACEL_00916	gene	786				
+EFENACEL_00916	CDS	786				IS982 family transposase IS195
+EFENACEL_00917	gene	477	cdd			
+EFENACEL_00917	CDS	477	cdd	3.5.4.5	COG0295	Cytidine deaminase
+EFENACEL_00918	gene	522				
+EFENACEL_00918	CDS	522				hypothetical protein
+EFENACEL_00919	gene	1059				
+EFENACEL_00919	CDS	1059				hypothetical protein
+EFENACEL_00920	gene	546	rfbC			
+EFENACEL_00920	CDS	546	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+EFENACEL_00921	gene	399				
+EFENACEL_00921	CDS	399				hypothetical protein
+EFENACEL_00922	gene	1269				
+EFENACEL_00922	CDS	1269				hypothetical protein
+EFENACEL_00923	gene	582				
+EFENACEL_00923	CDS	582				hypothetical protein
+EFENACEL_00924	gene	723	gmd			
+EFENACEL_00924	CDS	723	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+EFENACEL_00925	gene	1098	fcl_2			
+EFENACEL_00925	CDS	1098	fcl_2	1.1.1.271	COG0451	GDP-L-fucose synthase
+EFENACEL_00926	gene	1494				
+EFENACEL_00926	CDS	1494				hypothetical protein
+EFENACEL_00927	gene	396				
+EFENACEL_00927	CDS	396				hypothetical protein
+EFENACEL_00928	gene	249				
+EFENACEL_00928	CDS	249				hypothetical protein
+EFENACEL_00929	gene	549				
+EFENACEL_00929	CDS	549				hypothetical protein
+EFENACEL_00930	gene	735				
+EFENACEL_00930	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+EFENACEL_00931	gene	927				
+EFENACEL_00931	CDS	927				hypothetical protein
+EFENACEL_00932	gene	141				
+EFENACEL_00932	CDS	141				hypothetical protein
+EFENACEL_00933	gene	1461	pepD_1			
+EFENACEL_00933	CDS	1461	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+EFENACEL_00934	gene	714				
+EFENACEL_00934	CDS	714				hypothetical protein
+EFENACEL_00935	gene	387				
+EFENACEL_00935	CDS	387				hypothetical protein
+EFENACEL_00936	gene	633				
+EFENACEL_00936	CDS	633				hypothetical protein
+EFENACEL_00937	gene	144				
+EFENACEL_00937	CDS	144				hypothetical protein
+EFENACEL_00938	gene	921				
+EFENACEL_00938	CDS	921				hypothetical protein
+EFENACEL_00939	gene	369				
+EFENACEL_00939	CDS	369				hypothetical protein
+EFENACEL_00940	gene	624	rsmG			
+EFENACEL_00940	CDS	624	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+EFENACEL_00941	gene	645				
+EFENACEL_00941	CDS	645		3.-.-.-		putative protein
+EFENACEL_00942	gene	558	ruvC			
+EFENACEL_00942	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+EFENACEL_00943	gene	468				
+EFENACEL_00943	CDS	468				hypothetical protein
+EFENACEL_00944	gene	423				
+EFENACEL_00944	CDS	423				hypothetical protein
+EFENACEL_00945	gene	189				
+EFENACEL_00945	CDS	189				hypothetical protein
+EFENACEL_00946	gene	366				
+EFENACEL_00946	CDS	366				hypothetical protein
+EFENACEL_00947	gene	783	ispU_1			
+EFENACEL_00947	CDS	783	ispU_1	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+EFENACEL_00948	gene	315				
+EFENACEL_00948	CDS	315				hypothetical protein
+EFENACEL_00949	gene	1545				
+EFENACEL_00949	CDS	1545				hypothetical protein
+EFENACEL_00950	gene	234				
+EFENACEL_00950	CDS	234				hypothetical protein
+EFENACEL_00951	gene	333				
+EFENACEL_00951	CDS	333				hypothetical protein
+EFENACEL_00952	gene	900	kdsD			
+EFENACEL_00952	CDS	900	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+EFENACEL_00953	gene	1227	cls			
+EFENACEL_00953	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+EFENACEL_00954	gene	1224				
+EFENACEL_00954	CDS	1224				hypothetical protein
+EFENACEL_00955	gene	987	lutB			
+EFENACEL_00955	CDS	987	lutB		COG1139	Lactate utilization protein B
+EFENACEL_00956	gene	585				
+EFENACEL_00956	CDS	585				hypothetical protein
+EFENACEL_00957	gene	570				
+EFENACEL_00957	CDS	570				hypothetical protein
+EFENACEL_00958	gene	537	sigE_1			
+EFENACEL_00958	CDS	537	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+EFENACEL_00959	gene	72				
+EFENACEL_00959	tRNA	72				tRNA-Gln(ctg)
+EFENACEL_00960	gene	360	rsfS_1			
+EFENACEL_00960	CDS	360	rsfS_1			Ribosomal silencing factor RsfS
+EFENACEL_00961	gene	1971	ftsH_2			
+EFENACEL_00961	CDS	1971	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+EFENACEL_00962	gene	378				
+EFENACEL_00962	CDS	378				hypothetical protein
+EFENACEL_00963	gene	213				
+EFENACEL_00963	CDS	213				hypothetical protein
+EFENACEL_00964	gene	387	queE			
+EFENACEL_00964	CDS	387	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+EFENACEL_00965	gene	1410	clsA			
+EFENACEL_00965	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+EFENACEL_00966	gene	1467	bamA_1			
+EFENACEL_00966	CDS	1467	bamA_1			Outer membrane protein assembly factor BamA
+EFENACEL_00967	gene	438				
+EFENACEL_00967	CDS	438				Outer membrane protein 41
+EFENACEL_00968	gene	813				
+EFENACEL_00968	CDS	813				hypothetical protein
+EFENACEL_00969	gene	1794	srmB_1			
+EFENACEL_00969	CDS	1794	srmB_1	3.6.4.13		ATP-dependent RNA helicase SrmB
+EFENACEL_00970	gene	612				
+EFENACEL_00970	CDS	612				hypothetical protein
+EFENACEL_00971	gene	501	skp			
+EFENACEL_00971	CDS	501	skp		COG2825	Chaperone protein Skp
+EFENACEL_00972	gene	513				
+EFENACEL_00972	CDS	513				hypothetical protein
+EFENACEL_00973	gene	978	bamA_2			
+EFENACEL_00973	CDS	978	bamA_2			Outer membrane protein assembly factor BamA
+EFENACEL_00974	gene	369				
+EFENACEL_00974	CDS	369				hypothetical protein
+EFENACEL_00975	gene	294				
+EFENACEL_00975	CDS	294				hypothetical protein
+EFENACEL_00976	gene	774	rbn			
+EFENACEL_00976	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+EFENACEL_00977	gene	1026	murB			
+EFENACEL_00977	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+EFENACEL_00978	gene	738				
+EFENACEL_00978	CDS	738				hypothetical protein
+EFENACEL_00979	gene	1320	algC_1			
+EFENACEL_00979	CDS	1320	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+EFENACEL_00980	gene	1533	pafA			
+EFENACEL_00980	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+EFENACEL_00981	gene	324				
+EFENACEL_00981	CDS	324				hypothetical protein
+EFENACEL_00982	gene	1275				
+EFENACEL_00982	CDS	1275				hypothetical protein
+EFENACEL_00983	gene	654				
+EFENACEL_00983	CDS	654				hypothetical protein
+EFENACEL_00984	gene	228				
+EFENACEL_00984	CDS	228				hypothetical protein
+EFENACEL_00985	gene	531				
+EFENACEL_00985	CDS	531				hypothetical protein
+EFENACEL_00986	gene	744				
+EFENACEL_00986	CDS	744				hypothetical protein
+EFENACEL_00987	gene	2607	susC_2			
+EFENACEL_00987	CDS	2607	susC_2			TonB-dependent receptor SusC
+EFENACEL_00988	gene	189				
+EFENACEL_00988	CDS	189				hypothetical protein
+EFENACEL_00989	gene	204				
+EFENACEL_00989	CDS	204				hypothetical protein
+EFENACEL_00990	gene	558				
+EFENACEL_00990	CDS	558				hypothetical protein
+EFENACEL_00991	gene	636				
+EFENACEL_00991	CDS	636				hypothetical protein
+EFENACEL_00992	gene	168				
+EFENACEL_00992	CDS	168				hypothetical protein
+EFENACEL_00993	gene	105				
+EFENACEL_00993	CDS	105				hypothetical protein
+EFENACEL_00994	gene	552				
+EFENACEL_00994	CDS	552				hypothetical protein
+EFENACEL_00995	gene	708	btuD_1			
+EFENACEL_00995	CDS	708	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EFENACEL_00996	gene	1350	deaD_2			
+EFENACEL_00996	CDS	1350	deaD_2	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+EFENACEL_00997	gene	525				
+EFENACEL_00997	CDS	525				hypothetical protein
+EFENACEL_00998	gene	837				
+EFENACEL_00998	CDS	837				hypothetical protein
+EFENACEL_00999	gene	1413				
+EFENACEL_00999	CDS	1413				hypothetical protein
+EFENACEL_01000	gene	399				
+EFENACEL_01000	CDS	399			COG0537	putative HIT-like protein
+EFENACEL_01001	gene	567	ahpC			
+EFENACEL_01001	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+EFENACEL_01002	gene	585	sodB			
+EFENACEL_01002	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+EFENACEL_01003	gene	927	oxyR			
+EFENACEL_01003	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+EFENACEL_01004	gene	180				
+EFENACEL_01004	CDS	180				hypothetical protein
+EFENACEL_01005	gene	1002				
+EFENACEL_01005	CDS	1002				hypothetical protein
+EFENACEL_01006	gene	204				
+EFENACEL_01006	CDS	204				hypothetical protein
+EFENACEL_01007	gene	903				
+EFENACEL_01007	CDS	903				hypothetical protein
+EFENACEL_01008	gene	1101				
+EFENACEL_01008	CDS	1101				hypothetical protein
+EFENACEL_01009	gene	1443	rlmCD			
+EFENACEL_01009	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+EFENACEL_01010	gene	957				
+EFENACEL_01010	CDS	957				hypothetical protein
+EFENACEL_01011	gene	1599				
+EFENACEL_01011	CDS	1599				hypothetical protein
+EFENACEL_01012	gene	1995	htpG			
+EFENACEL_01012	CDS	1995	htpG			Chaperone protein HtpG
+EFENACEL_01013	gene	1245				
+EFENACEL_01013	CDS	1245				hypothetical protein
+EFENACEL_01014	gene	150				
+EFENACEL_01014	CDS	150				hypothetical protein
+EFENACEL_01015	gene	162				
+EFENACEL_01015	CDS	162				hypothetical protein
+EFENACEL_01016	gene	105				
+EFENACEL_01016	CDS	105				hypothetical protein
+EFENACEL_01017	gene	1482	degQ			
+EFENACEL_01017	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+EFENACEL_01018	gene	267				
+EFENACEL_01018	CDS	267				hypothetical protein
+EFENACEL_01019	gene	537				
+EFENACEL_01019	CDS	537				hypothetical protein
+EFENACEL_01020	gene	1665	lcfB			
+EFENACEL_01020	CDS	1665	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EFENACEL_01021	gene	627	pntB			
+EFENACEL_01021	CDS	627	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+EFENACEL_01022	gene	393				
+EFENACEL_01022	CDS	393				hypothetical protein
+EFENACEL_01023	gene	1251	aroA			
+EFENACEL_01023	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+EFENACEL_01024	gene	627				
+EFENACEL_01024	CDS	627				hypothetical protein
+EFENACEL_01025	gene	516	mtgA			
+EFENACEL_01025	CDS	516	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+EFENACEL_01026	gene	2409	pcrA			
+EFENACEL_01026	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+EFENACEL_01027	gene	876	rmlA			
+EFENACEL_01027	CDS	876	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+EFENACEL_01028	gene	669				
+EFENACEL_01028	CDS	669			COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit 
+EFENACEL_01029	gene	1317	serS			
+EFENACEL_01029	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+EFENACEL_01030	gene	264	rpmA			
+EFENACEL_01030	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+EFENACEL_01031	gene	318	rplU			
+EFENACEL_01031	CDS	318	rplU		COG0261	50S ribosomal protein L21
+EFENACEL_01032	gene	435				
+EFENACEL_01032	CDS	435				hypothetical protein
+EFENACEL_01033	gene	543				
+EFENACEL_01033	CDS	543				hypothetical protein
+EFENACEL_01034	gene	465				
+EFENACEL_01034	CDS	465				hypothetical protein
+EFENACEL_01035	gene	807	yycJ			
+EFENACEL_01035	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+EFENACEL_01036	gene	168				
+EFENACEL_01036	CDS	168				hypothetical protein
+EFENACEL_01037	gene	1314				
+EFENACEL_01037	CDS	1314				hypothetical protein
+EFENACEL_01038	gene	687				
+EFENACEL_01038	CDS	687			COG4942	putative protein
+EFENACEL_01039	gene	2385				
+EFENACEL_01039	CDS	2385				hypothetical protein
+EFENACEL_01040	gene	366				
+EFENACEL_01040	CDS	366				hypothetical protein
+EFENACEL_01041	gene	237				
+EFENACEL_01041	CDS	237				hypothetical protein
+EFENACEL_01042	gene	864	sigA_1			
+EFENACEL_01042	CDS	864	sigA_1			RNA polymerase sigma factor SigA
+EFENACEL_01043	gene	441				
+EFENACEL_01043	CDS	441				hypothetical protein
+EFENACEL_01044	gene	510				
+EFENACEL_01044	CDS	510				hypothetical protein
+EFENACEL_01045	gene	819				
+EFENACEL_01045	CDS	819				hypothetical protein
+EFENACEL_01046	gene	222				
+EFENACEL_01046	CDS	222				hypothetical protein
+EFENACEL_01047	gene	255				
+EFENACEL_01047	CDS	255				hypothetical protein
+EFENACEL_01048	gene	354				
+EFENACEL_01048	CDS	354				hypothetical protein
+EFENACEL_01049	gene	777	dapB			
+EFENACEL_01049	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+EFENACEL_01050	gene	426				
+EFENACEL_01050	CDS	426				hypothetical protein
+EFENACEL_01051	gene	1068				
+EFENACEL_01051	CDS	1068		3.1.3.3	COG0560	Phosphoserine phosphatase
+EFENACEL_01052	gene	723	mcm			
+EFENACEL_01052	CDS	723	mcm	5.4.99.2	COG1884	Methylmalonyl-CoA mutase
+EFENACEL_01053	gene	549				
+EFENACEL_01053	CDS	549				hypothetical protein
+EFENACEL_01054	gene	204				
+EFENACEL_01054	CDS	204				hypothetical protein
+EFENACEL_01055	gene	297				
+EFENACEL_01055	CDS	297				hypothetical protein
+EFENACEL_01056	gene	318				
+EFENACEL_01056	CDS	318				hypothetical protein
+EFENACEL_01057	gene	83				
+EFENACEL_01057	tRNA	83				tRNA-Leu(caa)
+EFENACEL_01058	gene	933				
+EFENACEL_01058	CDS	933				hypothetical protein
+EFENACEL_01059	gene	399				
+EFENACEL_01059	CDS	399				hypothetical protein
+EFENACEL_01060	gene	483	yigB			
+EFENACEL_01060	CDS	483	yigB	3.1.3.104	COG1011	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB
+EFENACEL_01061	gene	2721	lptD			
+EFENACEL_01061	CDS	2721	lptD			LPS-assembly protein LptD
+EFENACEL_01062	gene	1320				
+EFENACEL_01062	CDS	1320				hypothetical protein
+EFENACEL_01063	gene	444				
+EFENACEL_01063	CDS	444				hypothetical protein
+EFENACEL_01064	gene	714				
+EFENACEL_01064	CDS	714				hypothetical protein
+EFENACEL_01065	gene	642	gph			
+EFENACEL_01065	CDS	642	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+EFENACEL_01066	gene	1326				
+EFENACEL_01066	CDS	1326				hypothetical protein
+EFENACEL_01067	gene	105				
+EFENACEL_01067	CDS	105				hypothetical protein
+EFENACEL_01068	gene	243				
+EFENACEL_01068	CDS	243				hypothetical protein
+EFENACEL_01069	gene	315	pntA_1			
+EFENACEL_01069	CDS	315	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+EFENACEL_01070	gene	1158	pntA_2			
+EFENACEL_01070	CDS	1158	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+EFENACEL_01071	gene	483				
+EFENACEL_01071	CDS	483				hypothetical protein
+EFENACEL_01072	gene	192				
+EFENACEL_01072	CDS	192				hypothetical protein
+EFENACEL_01073	gene	717				
+EFENACEL_01073	CDS	717				hypothetical protein
+EFENACEL_01074	gene	1383				
+EFENACEL_01074	CDS	1383				hypothetical protein
+EFENACEL_01075	gene	621				
+EFENACEL_01075	CDS	621				hypothetical protein
+EFENACEL_01076	gene	1578	glcA			
+EFENACEL_01076	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+EFENACEL_01077	gene	174				
+EFENACEL_01077	CDS	174				hypothetical protein
+EFENACEL_01078	gene	495	hemW			
+EFENACEL_01078	CDS	495	hemW		COG0635	Heme chaperone HemW
+EFENACEL_01079	gene	297				
+EFENACEL_01079	CDS	297				hypothetical protein
+EFENACEL_01080	gene	204				
+EFENACEL_01080	CDS	204				hypothetical protein
+EFENACEL_01081	gene	1479				
+EFENACEL_01081	CDS	1479				hypothetical protein
+EFENACEL_01082	gene	165				
+EFENACEL_01082	CDS	165				hypothetical protein
+EFENACEL_01083	gene	468				
+EFENACEL_01083	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+EFENACEL_01084	gene	546	cmk			
+EFENACEL_01084	CDS	546	cmk	2.7.4.25		Cytidylate kinase
+EFENACEL_01085	gene	1134	rfbB			
+EFENACEL_01085	CDS	1134	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+EFENACEL_01086	gene	411	fdtA			
+EFENACEL_01086	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+EFENACEL_01087	gene	939				
+EFENACEL_01087	CDS	939				hypothetical protein
+EFENACEL_01088	gene	144				
+EFENACEL_01088	CDS	144				hypothetical protein
+EFENACEL_01089	gene	696				
+EFENACEL_01089	CDS	696				hypothetical protein
+EFENACEL_01090	gene	459	rnhA			
+EFENACEL_01090	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+EFENACEL_01091	gene	537				
+EFENACEL_01091	CDS	537				hypothetical protein
+EFENACEL_01092	gene	681				
+EFENACEL_01092	CDS	681				hypothetical protein
+EFENACEL_01093	gene	591				
+EFENACEL_01093	CDS	591				hypothetical protein
+EFENACEL_01094	gene	339				
+EFENACEL_01094	CDS	339				hypothetical protein
+EFENACEL_01095	gene	1464				
+EFENACEL_01095	CDS	1464				hypothetical protein
+EFENACEL_01096	gene	339	ndhH			
+EFENACEL_01096	CDS	339	ndhH	7.1.1.-	COG0649	NAD(P)H-quinone oxidoreductase subunit H
+EFENACEL_01097	gene	756	nuoH_1			
+EFENACEL_01097	CDS	756	nuoH_1	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+EFENACEL_01098	gene	306	nuoH_2			
+EFENACEL_01098	CDS	306	nuoH_2	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+EFENACEL_01099	gene	534	nuoI			
+EFENACEL_01099	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+EFENACEL_01100	gene	513				
+EFENACEL_01100	CDS	513				hypothetical protein
+EFENACEL_01101	gene	312	nuoK			
+EFENACEL_01101	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+EFENACEL_01102	gene	681				
+EFENACEL_01102	CDS	681				hypothetical protein
+EFENACEL_01103	gene	840				
+EFENACEL_01103	CDS	840				hypothetical protein
+EFENACEL_01104	gene	99				
+EFENACEL_01104	CDS	99				hypothetical protein
+EFENACEL_01105	gene	471				
+EFENACEL_01105	CDS	471				hypothetical protein
+EFENACEL_01106	gene	243				
+EFENACEL_01106	CDS	243				hypothetical protein
+EFENACEL_01107	gene	261				
+EFENACEL_01107	CDS	261				hypothetical protein
+EFENACEL_01108	gene	480				
+EFENACEL_01108	CDS	480				hypothetical protein
+EFENACEL_01109	gene	492				
+EFENACEL_01109	CDS	492				hypothetical protein
+EFENACEL_01110	gene	1017				
+EFENACEL_01110	CDS	1017				hypothetical protein
+EFENACEL_01111	gene	1245	lon1			
+EFENACEL_01111	CDS	1245	lon1	3.4.21.53	COG0466	Lon protease 1
+EFENACEL_01112	gene	1128	tgt			
+EFENACEL_01112	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+EFENACEL_01113	gene	174				
+EFENACEL_01113	CDS	174				hypothetical protein
+EFENACEL_01114	gene	1182	bdhA			
+EFENACEL_01114	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+EFENACEL_01115	gene	117				
+EFENACEL_01115	CDS	117				hypothetical protein
+EFENACEL_01116	gene	126				
+EFENACEL_01116	CDS	126				hypothetical protein
+EFENACEL_01117	gene	540				
+EFENACEL_01117	CDS	540				hypothetical protein
+EFENACEL_01118	gene	1290				
+EFENACEL_01118	CDS	1290				hypothetical protein
+EFENACEL_01119	gene	1311	msbA			
+EFENACEL_01119	CDS	1311	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+EFENACEL_01120	gene	1068				
+EFENACEL_01120	CDS	1068				hypothetical protein
+EFENACEL_01121	gene	90				
+EFENACEL_01121	CDS	90				hypothetical protein
+EFENACEL_01122	gene	471				
+EFENACEL_01122	CDS	471				hypothetical protein
+EFENACEL_01123	gene	1710				
+EFENACEL_01123	CDS	1710				hypothetical protein
+EFENACEL_01124	gene	870				
+EFENACEL_01124	CDS	870				hypothetical protein
+EFENACEL_01125	gene	624				
+EFENACEL_01125	CDS	624				hypothetical protein
+EFENACEL_01126	gene	138				
+EFENACEL_01126	CDS	138				hypothetical protein
+EFENACEL_01127	gene	471				
+EFENACEL_01127	CDS	471				hypothetical protein
+EFENACEL_01128	gene	672				
+EFENACEL_01128	CDS	672				hypothetical protein
+EFENACEL_01129	gene	2514	infB			
+EFENACEL_01129	CDS	2514	infB			Translation initiation factor IF-2
+EFENACEL_01130	gene	177				
+EFENACEL_01130	CDS	177				hypothetical protein
+EFENACEL_01131	gene	669				
+EFENACEL_01131	CDS	669				hypothetical protein
+EFENACEL_01132	gene	600				
+EFENACEL_01132	CDS	600				hypothetical protein
+EFENACEL_01133	gene	96				
+EFENACEL_01133	CDS	96				hypothetical protein
+EFENACEL_01134	gene	1080	hcp			
+EFENACEL_01134	CDS	1080	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+EFENACEL_01135	gene	234	rsxB			
+EFENACEL_01135	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EFENACEL_01136	gene	180				
+EFENACEL_01136	CDS	180				hypothetical protein
+EFENACEL_01137	gene	924	folD			
+EFENACEL_01137	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+EFENACEL_01138	gene	903	ffh			
+EFENACEL_01138	CDS	903	ffh		COG0541	Signal recognition particle protein
+EFENACEL_01139	gene	681	apbC_2			
+EFENACEL_01139	CDS	681	apbC_2		COG0489	Iron-sulfur cluster carrier protein
+EFENACEL_01140	gene	888				
+EFENACEL_01140	CDS	888				hypothetical protein
+EFENACEL_01141	gene	699				
+EFENACEL_01141	CDS	699				hypothetical protein
+EFENACEL_01142	gene	123				
+EFENACEL_01142	CDS	123				hypothetical protein
+EFENACEL_01143	gene	249				
+EFENACEL_01143	CDS	249				hypothetical protein
+EFENACEL_01144	gene	408				
+EFENACEL_01144	CDS	408				hypothetical protein
+EFENACEL_01145	gene	144				
+EFENACEL_01145	CDS	144				hypothetical protein
+EFENACEL_01146	gene	525				
+EFENACEL_01146	CDS	525				hypothetical protein
+EFENACEL_01147	gene	480				
+EFENACEL_01147	CDS	480				hypothetical protein
+EFENACEL_01148	gene	1731	recJ			
+EFENACEL_01148	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+EFENACEL_01149	gene	1176	glf			
+EFENACEL_01149	CDS	1176	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+EFENACEL_01150	gene	432				
+EFENACEL_01150	CDS	432				hypothetical protein
+EFENACEL_01151	gene	210				
+EFENACEL_01151	CDS	210				hypothetical protein
+EFENACEL_01152	gene	366				
+EFENACEL_01152	CDS	366				hypothetical protein
+EFENACEL_01153	gene	243				
+EFENACEL_01153	CDS	243				hypothetical protein
+EFENACEL_01154	gene	606	rpsD_2			
+EFENACEL_01154	CDS	606	rpsD_2			30S ribosomal protein S4
+EFENACEL_01155	gene	228	rpsK_2			
+EFENACEL_01155	CDS	228	rpsK_2		COG0100	30S ribosomal protein S11
+EFENACEL_01156	gene	381	rpsM_2			
+EFENACEL_01156	CDS	381	rpsM_2			30S ribosomal protein S13
+EFENACEL_01157	gene	219	infA_1			
+EFENACEL_01157	CDS	219	infA_1			Translation initiation factor IF-1
+EFENACEL_01158	gene	246	map_1			
+EFENACEL_01158	CDS	246	map_1	3.4.11.18	COG0024	Methionine aminopeptidase 1
+EFENACEL_01159	gene	2118				
+EFENACEL_01159	CDS	2118				hypothetical protein
+EFENACEL_01160	gene	264	rpmB			
+EFENACEL_01160	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+EFENACEL_01161	gene	189	rpmG2			
+EFENACEL_01161	CDS	189	rpmG2			50S ribosomal protein L33 2
+EFENACEL_01162	gene	438				
+EFENACEL_01162	CDS	438				hypothetical protein
+EFENACEL_01163	gene	72				
+EFENACEL_01163	tRNA	72				tRNA-Gln(ttg)
+EFENACEL_01164	gene	453				
+EFENACEL_01164	CDS	453				hypothetical protein
+EFENACEL_01165	gene	456				
+EFENACEL_01165	CDS	456				hypothetical protein
+EFENACEL_01166	gene	246				
+EFENACEL_01166	CDS	246				hypothetical protein
+EFENACEL_01167	gene	792	srlR			
+EFENACEL_01167	CDS	792	srlR		COG1349	Glucitol operon repressor
+EFENACEL_01168	gene	375				
+EFENACEL_01168	CDS	375				hypothetical protein
+EFENACEL_01169	gene	603				
+EFENACEL_01169	CDS	603				hypothetical protein
+EFENACEL_01170	gene	1350	lepA			
+EFENACEL_01170	CDS	1350	lepA	3.6.5.-	COG0481	Elongation factor 4
+EFENACEL_01171	gene	777				
+EFENACEL_01171	CDS	777				hypothetical protein
+EFENACEL_01172	gene	873	carD			
+EFENACEL_01172	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+EFENACEL_01173	gene	390				
+EFENACEL_01173	CDS	390				hypothetical protein
+EFENACEL_01174	gene	771				
+EFENACEL_01174	CDS	771				hypothetical protein
+EFENACEL_01175	gene	552				
+EFENACEL_01175	CDS	552				hypothetical protein
+EFENACEL_01176	gene	669	norR			
+EFENACEL_01176	CDS	669	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+EFENACEL_01177	gene	159				
+EFENACEL_01177	CDS	159				hypothetical protein
+EFENACEL_01178	gene	1077				
+EFENACEL_01178	CDS	1077				hypothetical protein
+EFENACEL_01179	gene	243				
+EFENACEL_01179	CDS	243				hypothetical protein
+EFENACEL_01180	gene	903	fda			
+EFENACEL_01180	CDS	903	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+EFENACEL_01181	gene	1866				
+EFENACEL_01181	CDS	1866				hypothetical protein
+EFENACEL_01182	gene	264				
+EFENACEL_01182	CDS	264				hypothetical protein
+EFENACEL_01183	gene	1173	pyrP			
+EFENACEL_01183	CDS	1173	pyrP			Uracil permease
+EFENACEL_01184	gene	744				
+EFENACEL_01184	CDS	744				hypothetical protein
+EFENACEL_01185	gene	264				
+EFENACEL_01185	CDS	264				hypothetical protein
+EFENACEL_01186	gene	1065	ybhS			
+EFENACEL_01186	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+EFENACEL_01187	gene	597	ybhF			
+EFENACEL_01187	CDS	597	ybhF		COG1131	putative multidrug ABC transporter ATP-binding protein YbhF
+EFENACEL_01188	gene	408				
+EFENACEL_01188	CDS	408				hypothetical protein
+EFENACEL_01189	gene	1035	rnfD			
+EFENACEL_01189	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+EFENACEL_01190	gene	1353	rnfC			
+EFENACEL_01190	CDS	1353	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+EFENACEL_01191	gene	1404				
+EFENACEL_01191	CDS	1404				hypothetical protein
+EFENACEL_01192	gene	1023	yfkN			
+EFENACEL_01192	CDS	1023	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+EFENACEL_01193	gene	798	nudC_2			
+EFENACEL_01193	CDS	798	nudC_2	3.6.1.22		NADH pyrophosphatase
+EFENACEL_01194	gene	1059	rfbM			
+EFENACEL_01194	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+EFENACEL_01195	gene	987				
+EFENACEL_01195	CDS	987				hypothetical protein
+EFENACEL_01196	gene	378	mrcA_2			
+EFENACEL_01196	CDS	378	mrcA_2		COG5009	Penicillin-binding protein 1A
+EFENACEL_01197	gene	1254				
+EFENACEL_01197	CDS	1254				hypothetical protein
+EFENACEL_01198	gene	729				
+EFENACEL_01198	CDS	729				hypothetical protein
+EFENACEL_01199	gene	90				
+EFENACEL_01199	CDS	90				hypothetical protein
+EFENACEL_01200	gene	1644				
+EFENACEL_01200	CDS	1644				hypothetical protein
+EFENACEL_01201	gene	441	cutD			
+EFENACEL_01201	CDS	441	cutD	1.97.1.-		Choline trimethylamine-lyase activating enzyme
+EFENACEL_01202	gene	438				
+EFENACEL_01202	CDS	438				hypothetical protein
+EFENACEL_01203	gene	1104	ychF			
+EFENACEL_01203	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+EFENACEL_01204	gene	678				
+EFENACEL_01204	CDS	678				hypothetical protein
+EFENACEL_01205	gene	585				
+EFENACEL_01205	CDS	585				hypothetical protein
+EFENACEL_01206	gene	384				
+EFENACEL_01206	CDS	384				hypothetical protein
+EFENACEL_01207	gene	645	exoA			
+EFENACEL_01207	CDS	645	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+EFENACEL_01208	gene	159				
+EFENACEL_01208	CDS	159				hypothetical protein
+EFENACEL_01209	gene	1578				
+EFENACEL_01209	CDS	1578				hypothetical protein
+EFENACEL_01210	gene	1035	ruvB			
+EFENACEL_01210	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+EFENACEL_01211	gene	1500	rpoB			
+EFENACEL_01211	CDS	1500	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+EFENACEL_01212	gene	1017	inlJ			
+EFENACEL_01212	CDS	1017	inlJ			Internalin J
+EFENACEL_01213	gene	468				
+EFENACEL_01213	CDS	468				hypothetical protein
+EFENACEL_01214	gene	1020				
+EFENACEL_01214	CDS	1020				hypothetical protein
+EFENACEL_01215	gene	2595	mutS_2			
+EFENACEL_01215	CDS	2595	mutS_2		COG0249	DNA mismatch repair protein MutS
+EFENACEL_01216	gene	756	cbiD			
+EFENACEL_01216	CDS	756	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+EFENACEL_01217	gene	1137				
+EFENACEL_01217	CDS	1137				hypothetical protein
+EFENACEL_01218	gene	1632	groL			
+EFENACEL_01218	CDS	1632	groL		COG0459	60 kDa chaperonin
+EFENACEL_01219	gene	189				
+EFENACEL_01219	CDS	189				hypothetical protein
+EFENACEL_01220	gene	585	malT			
+EFENACEL_01220	CDS	585	malT			HTH-type transcriptional regulator MalT
+EFENACEL_01221	gene	957				
+EFENACEL_01221	CDS	957				hypothetical protein
+EFENACEL_01222	gene	903	rny			
+EFENACEL_01222	CDS	903	rny	3.1.-.-	COG1418	Ribonuclease Y
+EFENACEL_01223	gene	1692	dxs			
+EFENACEL_01223	CDS	1692	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+EFENACEL_01224	gene	279	def			
+EFENACEL_01224	CDS	279	def	3.5.1.88		Peptide deformylase
+EFENACEL_01225	gene	1965	cpoB			
+EFENACEL_01225	CDS	1965	cpoB			Cell division coordinator CpoB
+EFENACEL_01226	gene	327				
+EFENACEL_01226	CDS	327				hypothetical protein
+EFENACEL_01227	gene	1035				
+EFENACEL_01227	CDS	1035				hypothetical protein
+EFENACEL_01228	gene	606				
+EFENACEL_01228	CDS	606				hypothetical protein
+EFENACEL_01229	gene	162				
+EFENACEL_01229	CDS	162				hypothetical protein
+EFENACEL_01230	gene	753	mrdB			
+EFENACEL_01230	CDS	753	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+EFENACEL_01231	gene	1116	murG			
+EFENACEL_01231	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+EFENACEL_01232	gene	594				
+EFENACEL_01232	CDS	594				hypothetical protein
+EFENACEL_01233	gene	393				
+EFENACEL_01233	CDS	393				hypothetical protein
+EFENACEL_01234	gene	624	pyrE			
+EFENACEL_01234	CDS	624	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+EFENACEL_01235	gene	861				
+EFENACEL_01235	CDS	861				hypothetical protein
+EFENACEL_01236	gene	402				
+EFENACEL_01236	CDS	402				hypothetical protein
+EFENACEL_01237	gene	345	rplT			
+EFENACEL_01237	CDS	345	rplT			50S ribosomal protein L20
+EFENACEL_01238	gene	1206				
+EFENACEL_01238	CDS	1206				hypothetical protein
+EFENACEL_01239	gene	468	yhgF			
+EFENACEL_01239	CDS	468	yhgF		COG2183	Protein YhgF
+EFENACEL_01240	gene	270				
+EFENACEL_01240	CDS	270				hypothetical protein
+EFENACEL_01241	gene	1311	srmB_2			
+EFENACEL_01241	CDS	1311	srmB_2	3.6.4.13		ATP-dependent RNA helicase SrmB
+EFENACEL_01242	gene	993	strE			
+EFENACEL_01242	CDS	993	strE	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+EFENACEL_01243	gene	960				
+EFENACEL_01243	CDS	960				hypothetical protein
+EFENACEL_01244	gene	840				
+EFENACEL_01244	CDS	840				hypothetical protein
+EFENACEL_01245	gene	879				
+EFENACEL_01245	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+EFENACEL_01246	gene	96				
+EFENACEL_01246	CDS	96				hypothetical protein
+EFENACEL_01247	gene	450				
+EFENACEL_01247	CDS	450				hypothetical protein
+EFENACEL_01248	gene	549				
+EFENACEL_01248	CDS	549				hypothetical protein
+EFENACEL_01249	gene	465	sigE_2			
+EFENACEL_01249	CDS	465	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+EFENACEL_01250	gene	441				
+EFENACEL_01250	CDS	441				hypothetical protein
+EFENACEL_01251	gene	207				
+EFENACEL_01251	CDS	207				hypothetical protein
+EFENACEL_01252	gene	855	bepA_2			
+EFENACEL_01252	CDS	855	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+EFENACEL_01253	gene	270	rimM			
+EFENACEL_01253	CDS	270	rimM			Ribosome maturation factor RimM
+EFENACEL_01254	gene	1155	dxr			
+EFENACEL_01254	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+EFENACEL_01255	gene	516				
+EFENACEL_01255	CDS	516				hypothetical protein
+EFENACEL_01256	gene	1332	mtaB			
+EFENACEL_01256	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+EFENACEL_01257	gene	195				
+EFENACEL_01257	CDS	195				hypothetical protein
+EFENACEL_01258	gene	213				
+EFENACEL_01258	CDS	213				hypothetical protein
+EFENACEL_01259	gene	717				
+EFENACEL_01259	CDS	717				hypothetical protein
+EFENACEL_01260	gene	234				
+EFENACEL_01260	CDS	234				hypothetical protein
+EFENACEL_01261	gene	969				
+EFENACEL_01261	CDS	969				hypothetical protein
+EFENACEL_01262	gene	987				
+EFENACEL_01262	CDS	987				hypothetical protein
+EFENACEL_01263	gene	330				
+EFENACEL_01263	CDS	330				hypothetical protein
+EFENACEL_01264	gene	927	nusB			
+EFENACEL_01264	CDS	927	nusB			Transcription antitermination protein NusB
+EFENACEL_01265	gene	771	trmB			
+EFENACEL_01265	CDS	771	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+EFENACEL_01266	gene	630				
+EFENACEL_01266	CDS	630				hypothetical protein
+EFENACEL_01267	gene	267	ilvE_2			
+EFENACEL_01267	CDS	267	ilvE_2	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+EFENACEL_01268	gene	528				
+EFENACEL_01268	CDS	528				hypothetical protein
+EFENACEL_01269	gene	645				
+EFENACEL_01269	CDS	645				hypothetical protein
+EFENACEL_01270	gene	1251	pgk			
+EFENACEL_01270	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+EFENACEL_01271	gene	390				
+EFENACEL_01271	CDS	390				hypothetical protein
+EFENACEL_01272	gene	894	fabD			
+EFENACEL_01272	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+EFENACEL_01273	gene	1623				
+EFENACEL_01273	CDS	1623				hypothetical protein
+EFENACEL_01274	gene	408				
+EFENACEL_01274	CDS	408				hypothetical protein
+EFENACEL_01275	gene	159				
+EFENACEL_01275	CDS	159				hypothetical protein
+EFENACEL_01276	gene	195				
+EFENACEL_01276	CDS	195				hypothetical protein
+EFENACEL_01277	gene	324				
+EFENACEL_01277	CDS	324				hypothetical protein
+EFENACEL_01278	gene	2052	ligA			
+EFENACEL_01278	CDS	2052	ligA	6.5.1.2		DNA ligase
+EFENACEL_01279	gene	285				
+EFENACEL_01279	CDS	285				hypothetical protein
+EFENACEL_01280	gene	876	bamD_2			
+EFENACEL_01280	CDS	876	bamD_2			Outer membrane protein assembly factor BamD
+EFENACEL_01281	gene	339				
+EFENACEL_01281	CDS	339				hypothetical protein
+EFENACEL_01282	gene	1455				
+EFENACEL_01282	CDS	1455			COG3385	IS4 family transposase ISBf8
+EFENACEL_01283	gene	210				
+EFENACEL_01283	CDS	210				hypothetical protein
+EFENACEL_01284	gene	783				
+EFENACEL_01284	CDS	783				hypothetical protein
+EFENACEL_01285	gene	2061				
+EFENACEL_01285	CDS	2061				hypothetical protein
+EFENACEL_01286	gene	813				
+EFENACEL_01286	CDS	813				hypothetical protein
+EFENACEL_01287	gene	1554				
+EFENACEL_01287	CDS	1554				hypothetical protein
+EFENACEL_01288	gene	507	purE			
+EFENACEL_01288	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+EFENACEL_01289	gene	630				
+EFENACEL_01289	CDS	630				hypothetical protein
+EFENACEL_01290	gene	162				
+EFENACEL_01290	CDS	162				hypothetical protein
+EFENACEL_01291	gene	525				
+EFENACEL_01291	CDS	525				hypothetical protein
+EFENACEL_01292	gene	1374	mnmE			
+EFENACEL_01292	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+EFENACEL_01293	gene	120				
+EFENACEL_01293	CDS	120				hypothetical protein
+EFENACEL_01294	gene	129				
+EFENACEL_01294	CDS	129				hypothetical protein
+EFENACEL_01295	gene	123				
+EFENACEL_01295	CDS	123				hypothetical protein
+EFENACEL_01296	gene	651				
+EFENACEL_01296	CDS	651				hypothetical protein
+EFENACEL_01297	gene	651				
+EFENACEL_01297	CDS	651				hypothetical protein
+EFENACEL_01298	gene	615	betI			
+EFENACEL_01298	CDS	615	betI			HTH-type transcriptional regulator BetI
+EFENACEL_01299	gene	606				
+EFENACEL_01299	CDS	606				hypothetical protein
+EFENACEL_01300	gene	1188	patB			
+EFENACEL_01300	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+EFENACEL_01301	gene	1272	apgM			
+EFENACEL_01301	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EFENACEL_01302	gene	234				
+EFENACEL_01302	CDS	234				hypothetical protein
+EFENACEL_01303	gene	600				
+EFENACEL_01303	CDS	600				hypothetical protein
+EFENACEL_01304	gene	231				
+EFENACEL_01304	CDS	231				hypothetical protein
+EFENACEL_01305	gene	459				
+EFENACEL_01305	CDS	459				hypothetical protein
+EFENACEL_01306	gene	234				
+EFENACEL_01306	CDS	234				hypothetical protein
+EFENACEL_01307	gene	1707	sasA_2			
+EFENACEL_01307	CDS	1707	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+EFENACEL_01308	gene	744	nrdE			
+EFENACEL_01308	CDS	744	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+EFENACEL_01309	gene	1050	nrdB			
+EFENACEL_01309	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+EFENACEL_01310	gene	465	nreC			
+EFENACEL_01310	CDS	465	nreC		COG2197	Oxygen regulatory protein NreC
+EFENACEL_01311	gene	123				
+EFENACEL_01311	CDS	123				hypothetical protein
+EFENACEL_01312	gene	1287	xerC_2			
+EFENACEL_01312	CDS	1287	xerC_2			Tyrosine recombinase XerC
+EFENACEL_01313	gene	468				
+EFENACEL_01313	CDS	468				hypothetical protein
+EFENACEL_01314	gene	1557	nnr			
+EFENACEL_01314	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+EFENACEL_01315	gene	204				
+EFENACEL_01315	CDS	204				hypothetical protein
+EFENACEL_01316	gene	882	aguA			
+EFENACEL_01316	CDS	882	aguA	3.5.3.12	COG2957	Agmatine deiminase
+EFENACEL_01317	gene	909				
+EFENACEL_01317	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+EFENACEL_01318	gene	360				
+EFENACEL_01318	CDS	360				hypothetical protein
+EFENACEL_01319	gene	213				
+EFENACEL_01319	CDS	213				hypothetical protein
+EFENACEL_01320	gene	270				
+EFENACEL_01320	CDS	270				hypothetical protein
+EFENACEL_01321	gene	561				
+EFENACEL_01321	CDS	561				hypothetical protein
+EFENACEL_01322	gene	267				
+EFENACEL_01322	CDS	267				hypothetical protein
+EFENACEL_01323	gene	192				
+EFENACEL_01323	CDS	192				hypothetical protein
+EFENACEL_01324	gene	207				
+EFENACEL_01324	CDS	207				hypothetical protein
+EFENACEL_01325	gene	513				
+EFENACEL_01325	CDS	513				hypothetical protein
+EFENACEL_01326	gene	150				
+EFENACEL_01326	CDS	150				hypothetical protein
+EFENACEL_01327	gene	882	lacX			
+EFENACEL_01327	CDS	882	lacX			Protein LacX, plasmid
+EFENACEL_01328	gene	72				
+EFENACEL_01328	tRNA	72				tRNA-Gln(ctg)
+EFENACEL_01329	gene	360	rsfS_2			
+EFENACEL_01329	CDS	360	rsfS_2			Ribosomal silencing factor RsfS
+EFENACEL_01330	gene	951				
+EFENACEL_01330	CDS	951				hypothetical protein
+EFENACEL_01331	gene	819	pdxK			
+EFENACEL_01331	CDS	819	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+EFENACEL_01332	gene	144				
+EFENACEL_01332	CDS	144				hypothetical protein
+EFENACEL_01333	gene	564	lemA			
+EFENACEL_01333	CDS	564	lemA		COG1704	Protein LemA
+EFENACEL_01334	gene	405				
+EFENACEL_01334	CDS	405				hypothetical protein
+EFENACEL_01335	gene	107				
+EFENACEL_01335	rRNA	107				5S ribosomal RNA
+EFENACEL_01336	gene	1023				
+EFENACEL_01336	CDS	1023				hypothetical protein
+EFENACEL_01337	gene	828				
+EFENACEL_01337	CDS	828				hypothetical protein
+EFENACEL_01338	gene	330				
+EFENACEL_01338	CDS	330				hypothetical protein
+EFENACEL_01339	gene	387				
+EFENACEL_01339	CDS	387				hypothetical protein
+EFENACEL_01340	gene	324				
+EFENACEL_01340	CDS	324				hypothetical protein
+EFENACEL_01341	gene	849				
+EFENACEL_01341	CDS	849				hypothetical protein
+EFENACEL_01342	gene	951	rgtE			
+EFENACEL_01342	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+EFENACEL_01343	gene	579				
+EFENACEL_01343	CDS	579				hypothetical protein
+EFENACEL_01344	gene	249				
+EFENACEL_01344	CDS	249				hypothetical protein
+EFENACEL_01345	gene	2280				
+EFENACEL_01345	CDS	2280				hypothetical protein
+EFENACEL_01346	gene	504				
+EFENACEL_01346	CDS	504				hypothetical protein
+EFENACEL_01347	gene	1254				
+EFENACEL_01347	CDS	1254				hypothetical protein
+EFENACEL_01348	gene	201				
+EFENACEL_01348	CDS	201				hypothetical protein
+EFENACEL_01349	gene	1668	uvrA_2			
+EFENACEL_01349	CDS	1668	uvrA_2			UvrABC system protein A
+EFENACEL_01350	gene	74				
+EFENACEL_01350	tRNA	74				tRNA-Gly(ccc)
+EFENACEL_01351	gene	76				
+EFENACEL_01351	tRNA	76				tRNA-Thr(cgt)
+EFENACEL_01352	gene	741				
+EFENACEL_01352	CDS	741				hypothetical protein
+EFENACEL_01353	gene	759				
+EFENACEL_01353	CDS	759				IS256 family transposase ISSne1
+EFENACEL_01354	gene	282				
+EFENACEL_01354	CDS	282				hypothetical protein
+EFENACEL_01355	gene	399				
+EFENACEL_01355	CDS	399				hypothetical protein
+EFENACEL_01356	gene	309				
+EFENACEL_01356	CDS	309				hypothetical protein
+EFENACEL_01357	gene	102				
+EFENACEL_01357	CDS	102				hypothetical protein
+EFENACEL_01358	gene	450				
+EFENACEL_01358	CDS	450				hypothetical protein
+EFENACEL_01359	gene	291	trmO			
+EFENACEL_01359	CDS	291	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+EFENACEL_01360	gene	183				
+EFENACEL_01360	CDS	183				hypothetical protein
+EFENACEL_01361	gene	1836				
+EFENACEL_01361	CDS	1836				hypothetical protein
+EFENACEL_01362	gene	825	rplB			
+EFENACEL_01362	CDS	825	rplB		COG0090	50S ribosomal protein L2
+EFENACEL_01363	gene	333	rpsS			
+EFENACEL_01363	CDS	333	rpsS			30S ribosomal protein S19
+EFENACEL_01364	gene	405				
+EFENACEL_01364	CDS	405				hypothetical protein
+EFENACEL_01365	gene	630				
+EFENACEL_01365	CDS	630				hypothetical protein
+EFENACEL_01366	gene	801	rlmB			
+EFENACEL_01366	CDS	801	rlmB	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+EFENACEL_01367	gene	510				
+EFENACEL_01367	CDS	510				hypothetical protein
+EFENACEL_01368	gene	522				
+EFENACEL_01368	CDS	522				hypothetical protein
+EFENACEL_01369	gene	189	rpmF			
+EFENACEL_01369	CDS	189	rpmF			50S ribosomal protein L32
+EFENACEL_01370	gene	1011	fabH			
+EFENACEL_01370	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+EFENACEL_01371	gene	768				
+EFENACEL_01371	CDS	768				hypothetical protein
+EFENACEL_01372	gene	705				
+EFENACEL_01372	CDS	705				hypothetical protein
+EFENACEL_01373	gene	603				
+EFENACEL_01373	CDS	603				hypothetical protein
+EFENACEL_01374	gene	960	pulA			
+EFENACEL_01374	CDS	960	pulA	3.2.1.41	COG1523	Pullulanase
+EFENACEL_01375	gene	366				
+EFENACEL_01375	CDS	366				hypothetical protein
+EFENACEL_01376	gene	1425				
+EFENACEL_01376	CDS	1425				hypothetical protein
+EFENACEL_01377	gene	132				
+EFENACEL_01377	CDS	132				hypothetical protein
+EFENACEL_01378	gene	1140	pepO			
+EFENACEL_01378	CDS	1140	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+EFENACEL_01379	gene	771	algC_2			
+EFENACEL_01379	CDS	771	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+EFENACEL_01380	gene	1398				
+EFENACEL_01380	CDS	1398				hypothetical protein
+EFENACEL_01381	gene	270				
+EFENACEL_01381	CDS	270		2.1.3.1	COG4799	Methylmalonyl-CoA carboxyltransferase 12S subunit
+EFENACEL_01382	gene	150				
+EFENACEL_01382	CDS	150				hypothetical protein
+EFENACEL_01383	gene	426				
+EFENACEL_01383	CDS	426				hypothetical protein
+EFENACEL_01384	gene	444				
+EFENACEL_01384	CDS	444				hypothetical protein
+EFENACEL_01385	gene	336				
+EFENACEL_01385	CDS	336				hypothetical protein
+EFENACEL_01386	gene	360				
+EFENACEL_01386	CDS	360				hypothetical protein
+EFENACEL_01387	gene	312	arnE			
+EFENACEL_01387	CDS	312	arnE			4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE
+EFENACEL_01388	gene	618	lolA			
+EFENACEL_01388	CDS	618	lolA			Outer-membrane lipoprotein carrier protein
+EFENACEL_01389	gene	480				
+EFENACEL_01389	CDS	480				hypothetical protein
+EFENACEL_01390	gene	402				
+EFENACEL_01390	CDS	402				hypothetical protein
+EFENACEL_01391	gene	261				
+EFENACEL_01391	CDS	261				hypothetical protein
+EFENACEL_01392	gene	1374	yeeO			
+EFENACEL_01392	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+EFENACEL_01393	gene	123				
+EFENACEL_01393	CDS	123				hypothetical protein
+EFENACEL_01394	gene	489				
+EFENACEL_01394	CDS	489				hypothetical protein
+EFENACEL_01395	gene	618				
+EFENACEL_01395	CDS	618				hypothetical protein
+EFENACEL_01396	gene	240				
+EFENACEL_01396	CDS	240				hypothetical protein
+EFENACEL_01397	gene	318				
+EFENACEL_01397	CDS	318				hypothetical protein
+EFENACEL_01398	gene	840	secY			
+EFENACEL_01398	CDS	840	secY		COG0201	Protein translocase subunit SecY
+EFENACEL_01399	gene	750	map_2			
+EFENACEL_01399	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+EFENACEL_01400	gene	219	infA_2			
+EFENACEL_01400	CDS	219	infA_2			Translation initiation factor IF-1
+EFENACEL_01401	gene	117	ykgO			
+EFENACEL_01401	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+EFENACEL_01402	gene	765				
+EFENACEL_01402	CDS	765				hypothetical protein
+EFENACEL_01403	gene	546				
+EFENACEL_01403	CDS	546				hypothetical protein
+EFENACEL_01404	gene	1170				
+EFENACEL_01404	CDS	1170				hypothetical protein
+EFENACEL_01405	gene	201				
+EFENACEL_01405	CDS	201				hypothetical protein
+EFENACEL_01406	gene	480				
+EFENACEL_01406	CDS	480				hypothetical protein
+EFENACEL_01407	gene	333				
+EFENACEL_01407	CDS	333				hypothetical protein
+EFENACEL_01408	gene	306				
+EFENACEL_01408	CDS	306				hypothetical protein
+EFENACEL_01409	gene	1416	pepP			
+EFENACEL_01409	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+EFENACEL_01410	gene	468				
+EFENACEL_01410	CDS	468				hypothetical protein
+EFENACEL_01411	gene	267				
+EFENACEL_01411	CDS	267				hypothetical protein
+EFENACEL_01412	gene	1086				
+EFENACEL_01412	CDS	1086				hypothetical protein
+EFENACEL_01413	gene	117				
+EFENACEL_01413	CDS	117				hypothetical protein
+EFENACEL_01414	gene	105				
+EFENACEL_01414	CDS	105				hypothetical protein
+EFENACEL_01415	gene	720				
+EFENACEL_01415	CDS	720				hypothetical protein
+EFENACEL_01416	gene	924	rnz_2			
+EFENACEL_01416	CDS	924	rnz_2	3.1.26.11	COG1234	Ribonuclease Z
+EFENACEL_01417	gene	570				
+EFENACEL_01417	CDS	570				hypothetical protein
+EFENACEL_01418	gene	258				
+EFENACEL_01418	CDS	258				hypothetical protein
+EFENACEL_01419	gene	339				
+EFENACEL_01419	CDS	339				hypothetical protein
+EFENACEL_01420	gene	1251	hutI			
+EFENACEL_01420	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+EFENACEL_01421	gene	231	hutH			
+EFENACEL_01421	CDS	231	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+EFENACEL_01422	gene	954	rhaS			
+EFENACEL_01422	CDS	954	rhaS			HTH-type transcriptional activator RhaS
+EFENACEL_01423	gene	357				
+EFENACEL_01423	CDS	357				hypothetical protein
+EFENACEL_01424	gene	756	aroE_2			
+EFENACEL_01424	CDS	756	aroE_2	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+EFENACEL_01425	gene	1032				
+EFENACEL_01425	CDS	1032				hypothetical protein
+EFENACEL_01426	gene	756				
+EFENACEL_01426	CDS	756				hypothetical protein
+EFENACEL_01427	gene	1278	ilvB			
+EFENACEL_01427	CDS	1278	ilvB	2.2.1.6	COG0028	Acetolactate synthase isozyme 1 large subunit
+EFENACEL_01428	gene	750	ispU_2			
+EFENACEL_01428	CDS	750	ispU_2	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+EFENACEL_01429	gene	705				
+EFENACEL_01429	CDS	705				hypothetical protein
+EFENACEL_01430	gene	516				
+EFENACEL_01430	CDS	516				hypothetical protein
+EFENACEL_01431	gene	570	tsaC			
+EFENACEL_01431	CDS	570	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+EFENACEL_01432	gene	75				
+EFENACEL_01432	tRNA	75				tRNA-Phe(gaa)
+EFENACEL_01433	gene	945	nagB			
+EFENACEL_01433	CDS	945	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+EFENACEL_01434	gene	1509	gcvPB			
+EFENACEL_01434	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+EFENACEL_01435	gene	225				
+EFENACEL_01435	CDS	225				hypothetical protein
+EFENACEL_01436	gene	246				
+EFENACEL_01436	CDS	246				hypothetical protein
+EFENACEL_01437	gene	918				
+EFENACEL_01437	CDS	918				hypothetical protein
+EFENACEL_01438	gene	318				
+EFENACEL_01438	CDS	318				hypothetical protein
+EFENACEL_01439	gene	327				
+EFENACEL_01439	CDS	327				hypothetical protein
+EFENACEL_01440	gene	1011	gapA			
+EFENACEL_01440	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+EFENACEL_01441	gene	300				
+EFENACEL_01441	CDS	300				hypothetical protein
+EFENACEL_01442	gene	456	pyrI_2			
+EFENACEL_01442	CDS	456	pyrI_2		COG1781	Aspartate carbamoyltransferase regulatory chain
+EFENACEL_01443	gene	1002	pyrB_2			
+EFENACEL_01443	CDS	1002	pyrB_2	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+EFENACEL_01444	gene	204				
+EFENACEL_01444	CDS	204				hypothetical protein
+EFENACEL_01445	gene	396				
+EFENACEL_01445	CDS	396				hypothetical protein
+EFENACEL_01446	gene	240	atpC			
+EFENACEL_01446	CDS	240	atpC			ATP synthase epsilon chain
+EFENACEL_01447	gene	618	atpD			
+EFENACEL_01447	CDS	618	atpD	7.2.2.1	COG0055	ATP synthase subunit beta, sodium ion specific
+EFENACEL_01448	gene	1797	carB			
+EFENACEL_01448	CDS	1797	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+EFENACEL_01449	gene	444				
+EFENACEL_01449	CDS	444				hypothetical protein
+EFENACEL_01450	gene	612	ctc			
+EFENACEL_01450	CDS	612	ctc		COG1825	General stress protein CTC
+EFENACEL_01451	gene	618	pth			
+EFENACEL_01451	CDS	618	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+EFENACEL_01452	gene	417				
+EFENACEL_01452	CDS	417				hypothetical protein
+EFENACEL_01453	gene	699				
+EFENACEL_01453	CDS	699				hypothetical protein
+EFENACEL_01454	gene	822				
+EFENACEL_01454	CDS	822				hypothetical protein
+EFENACEL_01455	gene	1377	fucP			
+EFENACEL_01455	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+EFENACEL_01456	gene	945	btuB_4			
+EFENACEL_01456	CDS	945	btuB_4			Vitamin B12 transporter BtuB
+EFENACEL_01457	gene	831	btuB_5			
+EFENACEL_01457	CDS	831	btuB_5			Vitamin B12 transporter BtuB
+EFENACEL_01458	gene	207				
+EFENACEL_01458	CDS	207				hypothetical protein
+EFENACEL_01459	gene	330				
+EFENACEL_01459	CDS	330				hypothetical protein
+EFENACEL_01460	gene	372				
+EFENACEL_01460	CDS	372				hypothetical protein
+EFENACEL_01461	gene	168				
+EFENACEL_01461	CDS	168				hypothetical protein
+EFENACEL_01462	gene	453	bcp			
+EFENACEL_01462	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+EFENACEL_01463	gene	1014				
+EFENACEL_01463	CDS	1014				hypothetical protein
+EFENACEL_01464	gene	897	tdcG			
+EFENACEL_01464	CDS	897	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+EFENACEL_01465	gene	405				
+EFENACEL_01465	CDS	405				hypothetical protein
+EFENACEL_01466	gene	840	ispE_1			
+EFENACEL_01466	CDS	840	ispE_1	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EFENACEL_01467	gene	489	idi			
+EFENACEL_01467	CDS	489	idi	5.3.3.2	COG1443	Isopentenyl-diphosphate Delta-isomerase
+EFENACEL_01468	gene	813				
+EFENACEL_01468	CDS	813				hypothetical protein
+EFENACEL_01469	gene	933				
+EFENACEL_01469	CDS	933				hypothetical protein
+EFENACEL_01470	gene	372				
+EFENACEL_01470	CDS	372				hypothetical protein
+EFENACEL_01471	gene	915				
+EFENACEL_01471	CDS	915				hypothetical protein
+EFENACEL_01472	gene	834				
+EFENACEL_01472	CDS	834				hypothetical protein
+EFENACEL_01473	gene	1752	yloB			
+EFENACEL_01473	CDS	1752	yloB	7.2.2.10	COG0474	Calcium-transporting ATPase
+EFENACEL_01474	gene	687				
+EFENACEL_01474	CDS	687				hypothetical protein
+EFENACEL_01475	gene	798	ispE_2			
+EFENACEL_01475	CDS	798	ispE_2	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EFENACEL_01476	gene	246				
+EFENACEL_01476	CDS	246				hypothetical protein
+EFENACEL_01477	gene	246				
+EFENACEL_01477	CDS	246				hypothetical protein
+EFENACEL_01478	gene	1230	mepA			
+EFENACEL_01478	CDS	1230	mepA			Multidrug export protein MepA
+EFENACEL_01479	gene	624				
+EFENACEL_01479	CDS	624				hypothetical protein
+EFENACEL_01480	gene	300				
+EFENACEL_01480	CDS	300				hypothetical protein
+EFENACEL_01481	gene	345				
+EFENACEL_01481	CDS	345				hypothetical protein
+EFENACEL_01482	gene	507				
+EFENACEL_01482	CDS	507				hypothetical protein
+EFENACEL_01483	gene	399				
+EFENACEL_01483	CDS	399				hypothetical protein
+EFENACEL_01484	gene	903				
+EFENACEL_01484	CDS	903				hypothetical protein
+EFENACEL_01485	gene	1149	lpxB			
+EFENACEL_01485	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+EFENACEL_01486	gene	408	surE			
+EFENACEL_01486	CDS	408	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+EFENACEL_01487	gene	564	asd			
+EFENACEL_01487	CDS	564	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+EFENACEL_01488	gene	732				
+EFENACEL_01488	CDS	732				hypothetical protein
+EFENACEL_01489	gene	984	nqrB			
+EFENACEL_01489	CDS	984	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+EFENACEL_01490	gene	615	nqrC			
+EFENACEL_01490	CDS	615	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+EFENACEL_01491	gene	1278	rarA			
+EFENACEL_01491	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+EFENACEL_01492	gene	621				
+EFENACEL_01492	CDS	621				hypothetical protein
+EFENACEL_01493	gene	1173				
+EFENACEL_01493	CDS	1173			COG3385	IS4 family transposase ISPg4
+EFENACEL_01494	gene	384				
+EFENACEL_01494	CDS	384				hypothetical protein
+EFENACEL_01495	gene	645	ytrE			
+EFENACEL_01495	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+EFENACEL_01496	gene	495				
+EFENACEL_01496	CDS	495				hypothetical protein
+EFENACEL_01497	gene	204				
+EFENACEL_01497	CDS	204				hypothetical protein
+EFENACEL_01498	gene	561				
+EFENACEL_01498	CDS	561				hypothetical protein
+EFENACEL_01499	gene	309				
+EFENACEL_01499	CDS	309				hypothetical protein
+EFENACEL_01500	gene	1275	purA			
+EFENACEL_01500	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+EFENACEL_01501	gene	1467				
+EFENACEL_01501	CDS	1467				hypothetical protein
+EFENACEL_01502	gene	357				
+EFENACEL_01502	CDS	357				hypothetical protein
+EFENACEL_01503	gene	297				
+EFENACEL_01503	CDS	297				hypothetical protein
+EFENACEL_01504	gene	204				
+EFENACEL_01504	CDS	204				hypothetical protein
+EFENACEL_01505	gene	210				
+EFENACEL_01505	CDS	210				hypothetical protein
+EFENACEL_01506	gene	369	yhcG			
+EFENACEL_01506	CDS	369	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+EFENACEL_01507	gene	210				
+EFENACEL_01507	CDS	210				hypothetical protein
+EFENACEL_01508	gene	132				
+EFENACEL_01508	CDS	132				hypothetical protein
+EFENACEL_01509	gene	966				
+EFENACEL_01509	CDS	966				hypothetical protein
+EFENACEL_01510	gene	456				
+EFENACEL_01510	CDS	456				hypothetical protein
+EFENACEL_01511	gene	1152	mshA_3			
+EFENACEL_01511	CDS	1152	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EFENACEL_01512	gene	687				
+EFENACEL_01512	CDS	687				hypothetical protein
+EFENACEL_01513	gene	1194				
+EFENACEL_01513	CDS	1194				hypothetical protein
+EFENACEL_01514	gene	981	glkA			
+EFENACEL_01514	CDS	981	glkA	2.7.1.2		Glucokinase
+EFENACEL_01515	gene	1809				
+EFENACEL_01515	CDS	1809				hypothetical protein
+EFENACEL_01516	gene	120				
+EFENACEL_01516	CDS	120				hypothetical protein
+EFENACEL_01517	gene	513	sigH			
+EFENACEL_01517	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+EFENACEL_01518	gene	627	speA			
+EFENACEL_01518	CDS	627	speA	4.1.1.19		Biosynthetic arginine decarboxylase
+EFENACEL_01519	gene	150				
+EFENACEL_01519	CDS	150				hypothetical protein
+EFENACEL_01520	gene	1116				
+EFENACEL_01520	CDS	1116				hypothetical protein
+EFENACEL_01521	gene	375	glpE_2			
+EFENACEL_01521	CDS	375	glpE_2	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+EFENACEL_01522	gene	333				
+EFENACEL_01522	CDS	333				hypothetical protein
+EFENACEL_01523	gene	561	rbsK			
+EFENACEL_01523	CDS	561	rbsK	2.7.1.15	COG0524	Ribokinase
+EFENACEL_01524	gene	1014				
+EFENACEL_01524	CDS	1014				hypothetical protein
+EFENACEL_01525	gene	816				
+EFENACEL_01525	CDS	816			COG2385	putative protein
+EFENACEL_01526	gene	1806				
+EFENACEL_01526	CDS	1806				hypothetical protein
+EFENACEL_01527	gene	330				
+EFENACEL_01527	CDS	330		2.4.1.54		Undecaprenyl-phosphate mannosyltransferase
+EFENACEL_01528	gene	762				
+EFENACEL_01528	CDS	762				hypothetical protein
+EFENACEL_01529	gene	192				
+EFENACEL_01529	CDS	192				hypothetical protein
+EFENACEL_01530	gene	492	rhaR			
+EFENACEL_01530	CDS	492	rhaR			HTH-type transcriptional activator RhaR
+EFENACEL_01531	gene	357				
+EFENACEL_01531	CDS	357				hypothetical protein
+EFENACEL_01532	gene	591				
+EFENACEL_01532	CDS	591			COG3385	IS4 family transposase ISCARN70
+EFENACEL_01533	gene	441				
+EFENACEL_01533	CDS	441			COG3385	IS4 family transposase ISBthe1
+EFENACEL_01534	gene	609				
+EFENACEL_01534	CDS	609				hypothetical protein
+EFENACEL_01535	gene	627				
+EFENACEL_01535	CDS	627				hypothetical protein
+EFENACEL_01536	gene	831	secF			
+EFENACEL_01536	CDS	831	secF			Protein-export membrane protein SecF
+EFENACEL_01537	gene	189				
+EFENACEL_01537	CDS	189				hypothetical protein
+EFENACEL_01538	gene	1365	bepA_3			
+EFENACEL_01538	CDS	1365	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+EFENACEL_01539	gene	1290	xerC_3			
+EFENACEL_01539	CDS	1290	xerC_3			Tyrosine recombinase XerC
+EFENACEL_01540	gene	258	pdxS			
+EFENACEL_01540	CDS	258	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+EFENACEL_01541	gene	546	pdxT			
+EFENACEL_01541	CDS	546	pdxT	4.3.3.6	COG0311	Pyridoxal 5'-phosphate synthase subunit PdxT
+EFENACEL_01542	gene	135				
+EFENACEL_01542	CDS	135				hypothetical protein
+EFENACEL_01543	gene	141				
+EFENACEL_01543	CDS	141				hypothetical protein
+EFENACEL_01544	gene	789				
+EFENACEL_01544	CDS	789				hypothetical protein
+EFENACEL_01545	gene	900	rluD_2			
+EFENACEL_01545	CDS	900	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EFENACEL_01546	gene	150				
+EFENACEL_01546	CDS	150				hypothetical protein
+EFENACEL_01547	gene	243				
+EFENACEL_01547	CDS	243				hypothetical protein
+EFENACEL_01548	gene	1074				
+EFENACEL_01548	CDS	1074				hypothetical protein
+EFENACEL_01549	gene	441				
+EFENACEL_01549	CDS	441				hypothetical protein
+EFENACEL_01550	gene	354				
+EFENACEL_01550	CDS	354				hypothetical protein
+EFENACEL_01551	gene	1455	pepD_2			
+EFENACEL_01551	CDS	1455	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+EFENACEL_01552	gene	210				
+EFENACEL_01552	CDS	210				hypothetical protein
+EFENACEL_01553	gene	1350	nqrA			
+EFENACEL_01553	CDS	1350	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+EFENACEL_01554	gene	333	argS			
+EFENACEL_01554	CDS	333	argS	6.1.1.19		Arginine--tRNA ligase
+EFENACEL_01555	gene	192				
+EFENACEL_01555	CDS	192				hypothetical protein
+EFENACEL_01556	gene	1119				
+EFENACEL_01556	CDS	1119				hypothetical protein
+EFENACEL_01557	gene	1596				
+EFENACEL_01557	CDS	1596				hypothetical protein
+EFENACEL_01558	gene	699	yfiC			
+EFENACEL_01558	CDS	699	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+EFENACEL_01559	gene	900	pepT			
+EFENACEL_01559	CDS	900	pepT	3.4.11.4	COG2195	Peptidase T
+EFENACEL_01560	gene	213				
+EFENACEL_01560	CDS	213				hypothetical protein
+EFENACEL_01561	gene	837				
+EFENACEL_01561	CDS	837				hypothetical protein
+EFENACEL_01562	gene	255	rpe			
+EFENACEL_01562	CDS	255	rpe	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+EFENACEL_01563	gene	597	carQ			
+EFENACEL_01563	CDS	597	carQ		COG1595	RNA polymerase sigma factor CarQ
+EFENACEL_01564	gene	189				
+EFENACEL_01564	CDS	189				hypothetical protein
+EFENACEL_01565	gene	138				
+EFENACEL_01565	CDS	138				hypothetical protein
+EFENACEL_01566	gene	180				
+EFENACEL_01566	CDS	180				hypothetical protein
+EFENACEL_01567	gene	348				
+EFENACEL_01567	CDS	348				hypothetical protein
+EFENACEL_01568	gene	513				
+EFENACEL_01568	CDS	513				hypothetical protein
+EFENACEL_01569	gene	1212	undec1A			
+EFENACEL_01569	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+EFENACEL_01570	gene	204				
+EFENACEL_01570	CDS	204				hypothetical protein
+EFENACEL_01571	gene	672	yknY			
+EFENACEL_01571	CDS	672	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EFENACEL_01572	gene	1107				
+EFENACEL_01572	CDS	1107		3.6.-.-	COG1703	putative GTPase
+EFENACEL_01573	gene	807				
+EFENACEL_01573	CDS	807				hypothetical protein
+EFENACEL_01574	gene	270				
+EFENACEL_01574	CDS	270				hypothetical protein
+EFENACEL_01575	gene	279				
+EFENACEL_01575	CDS	279				hypothetical protein
+EFENACEL_01576	gene	762	ydfG			
+EFENACEL_01576	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+EFENACEL_01577	gene	603				
+EFENACEL_01577	CDS	603				hypothetical protein
+EFENACEL_01578	gene	228				
+EFENACEL_01578	CDS	228				hypothetical protein
+EFENACEL_01579	gene	351	ndhC			
+EFENACEL_01579	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+EFENACEL_01580	gene	750	ndhK			
+EFENACEL_01580	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+EFENACEL_01581	gene	294				
+EFENACEL_01581	CDS	294				hypothetical protein
+EFENACEL_01582	gene	942	apbE			
+EFENACEL_01582	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+EFENACEL_01583	gene	546				
+EFENACEL_01583	CDS	546				hypothetical protein
+EFENACEL_01584	gene	1074				
+EFENACEL_01584	CDS	1074				hypothetical protein
+EFENACEL_01585	gene	195				
+EFENACEL_01585	CDS	195				hypothetical protein
+EFENACEL_01586	gene	384				
+EFENACEL_01586	CDS	384				hypothetical protein
+EFENACEL_01587	gene	444	rpiB			
+EFENACEL_01587	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+EFENACEL_01588	gene	675	tkt			
+EFENACEL_01588	CDS	675	tkt	2.2.1.1		Transketolase
+EFENACEL_01589	gene	426				
+EFENACEL_01589	CDS	426				hypothetical protein
+EFENACEL_01590	gene	492	sigA_2			
+EFENACEL_01590	CDS	492	sigA_2		COG0568	RNA polymerase sigma factor SigA
+EFENACEL_01591	gene	171				
+EFENACEL_01591	CDS	171				hypothetical protein
+EFENACEL_01592	gene	882	dtd3			
+EFENACEL_01592	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+EFENACEL_01593	gene	89				
+EFENACEL_01593	tRNA	89				tRNA-Ser(gga)
+EFENACEL_01594	gene	288				
+EFENACEL_01594	CDS	288				hypothetical protein
+EFENACEL_01595	gene	1071	aroB			
+EFENACEL_01595	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+EFENACEL_01596	gene	828	btuD_2			
+EFENACEL_01596	CDS	828	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EFENACEL_01597	gene	83				
+EFENACEL_01597	tRNA	83				tRNA-Leu(tag)
+EFENACEL_01598	gene	381	ispH			
+EFENACEL_01598	CDS	381	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+EFENACEL_01599	gene	1299				
+EFENACEL_01599	CDS	1299				hypothetical protein
+EFENACEL_01600	gene	597				
+EFENACEL_01600	CDS	597				hypothetical protein
+EFENACEL_01601	gene	1557				
+EFENACEL_01601	CDS	1557				hypothetical protein
+EFENACEL_01602	gene	1221				
+EFENACEL_01602	CDS	1221				hypothetical protein
+EFENACEL_01603	gene	474				
+EFENACEL_01603	CDS	474				hypothetical protein
+EFENACEL_01604	gene	561				
+EFENACEL_01604	CDS	561				hypothetical protein
+EFENACEL_01605	gene	444				
+EFENACEL_01605	CDS	444				hypothetical protein
+EFENACEL_01606	gene	321	coaE			
+EFENACEL_01606	CDS	321	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+EFENACEL_01607	gene	615				
+EFENACEL_01607	CDS	615				hypothetical protein
+EFENACEL_01608	gene	594	ydeA			
+EFENACEL_01608	CDS	594	ydeA	3.2.-.-	COG0693	putative protease YdeA
+EFENACEL_01609	gene	135				
+EFENACEL_01609	CDS	135				hypothetical protein
+EFENACEL_01610	gene	237				
+EFENACEL_01610	CDS	237				hypothetical protein
+EFENACEL_01611	gene	1233				
+EFENACEL_01611	CDS	1233				hypothetical protein
+EFENACEL_01612	gene	450				
+EFENACEL_01612	CDS	450				hypothetical protein
+EFENACEL_01613	gene	351				
+EFENACEL_01613	CDS	351				hypothetical protein
+EFENACEL_01614	gene	675				
+EFENACEL_01614	CDS	675				hypothetical protein
+EFENACEL_01615	gene	540	pfkA			
+EFENACEL_01615	CDS	540	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+EFENACEL_01616	gene	375				
+EFENACEL_01616	CDS	375				hypothetical protein
+EFENACEL_01617	gene	1194	dgt			
+EFENACEL_01617	CDS	1194	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+EFENACEL_01618	gene	174				
+EFENACEL_01618	CDS	174				hypothetical protein
+EFENACEL_01619	gene	660				
+EFENACEL_01619	CDS	660				hypothetical protein
+EFENACEL_01620	gene	450				
+EFENACEL_01620	CDS	450				hypothetical protein
+EFENACEL_01621	gene	1035	cas1-1			
+EFENACEL_01621	CDS	1035	cas1-1	3.1.-.-		CRISPR-associated endonuclease Cas1 1
+EFENACEL_01622	gene	291	cas2_2			
+EFENACEL_01622	CDS	291	cas2_2	3.1.-.-	COG1343	CRISPR-associated endonuclease Cas2
+EFENACEL_01623	gene	663	vldH			
+EFENACEL_01623	CDS	663	vldH	3.1.3.101		Validoxylamine A 7'-phosphate phosphatase
+EFENACEL_01624	gene	534				
+EFENACEL_01624	CDS	534				hypothetical protein
+EFENACEL_01625	gene	1149	f1pep1			
+EFENACEL_01625	CDS	1149	f1pep1	3.4.21.26		Prolyl endopeptidase
+EFENACEL_01626	gene	375				
+EFENACEL_01626	CDS	375				hypothetical protein
+EFENACEL_01627	gene	252				
+EFENACEL_01627	CDS	252				hypothetical protein
+EFENACEL_01628	gene	471				
+EFENACEL_01628	CDS	471				hypothetical protein
+EFENACEL_01629	gene	1005				
+EFENACEL_01629	CDS	1005				hypothetical protein
+EFENACEL_01630	gene	417				
+EFENACEL_01630	CDS	417				hypothetical protein
+EFENACEL_01631	gene	141				
+EFENACEL_01631	CDS	141				hypothetical protein
+EFENACEL_01632	gene	732	truA			
+EFENACEL_01632	CDS	732	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+EFENACEL_01633	gene	528				
+EFENACEL_01633	CDS	528				hypothetical protein
+EFENACEL_01634	gene	74				
+EFENACEL_01634	tRNA	74				tRNA-Phe(gaa)
+EFENACEL_01635	gene	74				
+EFENACEL_01635	tRNA	74				tRNA-Pro(cgg)

@@ -1,0 +1,3761 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+PAMNMELI_00001	gene	1299				
+PAMNMELI_00001	CDS	1299				hypothetical protein
+PAMNMELI_00002	gene	144				
+PAMNMELI_00002	CDS	144				hypothetical protein
+PAMNMELI_00003	gene	546	pdxT			
+PAMNMELI_00003	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+PAMNMELI_00004	gene	876	pdxS			
+PAMNMELI_00004	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+PAMNMELI_00005	gene	258				
+PAMNMELI_00005	CDS	258				hypothetical protein
+PAMNMELI_00006	gene	918	rhaS_1			
+PAMNMELI_00006	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+PAMNMELI_00007	gene	474				
+PAMNMELI_00007	CDS	474				hypothetical protein
+PAMNMELI_00008	gene	114				
+PAMNMELI_00008	CDS	114				hypothetical protein
+PAMNMELI_00009	gene	855	bepA_1			
+PAMNMELI_00009	CDS	855	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+PAMNMELI_00010	gene	2325				
+PAMNMELI_00010	CDS	2325				hypothetical protein
+PAMNMELI_00011	gene	1065	kdsA_1			
+PAMNMELI_00011	CDS	1065	kdsA_1	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+PAMNMELI_00012	gene	1059				
+PAMNMELI_00012	CDS	1059				hypothetical protein
+PAMNMELI_00013	gene	1095				
+PAMNMELI_00013	CDS	1095				hypothetical protein
+PAMNMELI_00014	gene	1107	pdxA2			
+PAMNMELI_00014	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+PAMNMELI_00015	gene	978				
+PAMNMELI_00015	CDS	978				hypothetical protein
+PAMNMELI_00016	gene	1014	rlmN			
+PAMNMELI_00016	CDS	1014	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+PAMNMELI_00017	gene	1560	ahpF			
+PAMNMELI_00017	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+PAMNMELI_00018	gene	567	ahpC			
+PAMNMELI_00018	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+PAMNMELI_00019	gene	585	sodB			
+PAMNMELI_00019	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+PAMNMELI_00020	gene	927	oxyR			
+PAMNMELI_00020	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+PAMNMELI_00021	gene	1086	wbpI			
+PAMNMELI_00021	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+PAMNMELI_00022	gene	954	qmcA			
+PAMNMELI_00022	CDS	954	qmcA		COG0330	Protein QmcA
+PAMNMELI_00023	gene	456				
+PAMNMELI_00023	CDS	456				hypothetical protein
+PAMNMELI_00024	gene	483				
+PAMNMELI_00024	CDS	483				hypothetical protein
+PAMNMELI_00025	gene	408				
+PAMNMELI_00025	CDS	408				hypothetical protein
+PAMNMELI_00026	gene	285				
+PAMNMELI_00026	CDS	285				hypothetical protein
+PAMNMELI_00027	gene	123				
+PAMNMELI_00027	CDS	123				hypothetical protein
+PAMNMELI_00028	gene	822	acr1			
+PAMNMELI_00028	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+PAMNMELI_00029	gene	1506				
+PAMNMELI_00029	CDS	1506		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+PAMNMELI_00030	gene	363				
+PAMNMELI_00030	CDS	363				hypothetical protein
+PAMNMELI_00031	gene	498				
+PAMNMELI_00031	CDS	498			COG0716	Flavodoxin 1
+PAMNMELI_00032	gene	2214				
+PAMNMELI_00032	CDS	2214				hypothetical protein
+PAMNMELI_00033	gene	216				
+PAMNMELI_00033	CDS	216				hypothetical protein
+PAMNMELI_00034	gene	597	slyD			
+PAMNMELI_00034	CDS	597	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+PAMNMELI_00035	gene	1092	aroC			
+PAMNMELI_00035	CDS	1092	aroC	4.2.3.5	COG0082	Chorismate synthase
+PAMNMELI_00036	gene	912	pyrD			
+PAMNMELI_00036	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+PAMNMELI_00037	gene	777	pyrK_1			
+PAMNMELI_00037	CDS	777	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+PAMNMELI_00038	gene	477				
+PAMNMELI_00038	CDS	477				hypothetical protein
+PAMNMELI_00039	gene	1029				
+PAMNMELI_00039	CDS	1029				hypothetical protein
+PAMNMELI_00040	gene	471				
+PAMNMELI_00040	CDS	471				hypothetical protein
+PAMNMELI_00041	gene	189				
+PAMNMELI_00041	CDS	189				hypothetical protein
+PAMNMELI_00042	gene	951				
+PAMNMELI_00042	CDS	951				hypothetical protein
+PAMNMELI_00043	gene	840				
+PAMNMELI_00043	CDS	840				hypothetical protein
+PAMNMELI_00044	gene	879				
+PAMNMELI_00044	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+PAMNMELI_00045	gene	105				
+PAMNMELI_00045	CDS	105				hypothetical protein
+PAMNMELI_00046	gene	585				
+PAMNMELI_00046	CDS	585				hypothetical protein
+PAMNMELI_00047	gene	1044	aguA			
+PAMNMELI_00047	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+PAMNMELI_00048	gene	909				
+PAMNMELI_00048	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+PAMNMELI_00049	gene	1389	ampG			
+PAMNMELI_00049	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+PAMNMELI_00050	gene	3693				
+PAMNMELI_00050	CDS	3693				hypothetical protein
+PAMNMELI_00051	gene	462	ndk			
+PAMNMELI_00051	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+PAMNMELI_00052	gene	1698	eptC			
+PAMNMELI_00052	CDS	1698	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+PAMNMELI_00053	gene	114				
+PAMNMELI_00053	CDS	114				hypothetical protein
+PAMNMELI_00054	gene	1215	norR			
+PAMNMELI_00054	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+PAMNMELI_00055	gene	543				
+PAMNMELI_00055	CDS	543				hypothetical protein
+PAMNMELI_00056	gene	771				
+PAMNMELI_00056	CDS	771				hypothetical protein
+PAMNMELI_00057	gene	390				
+PAMNMELI_00057	CDS	390				hypothetical protein
+PAMNMELI_00058	gene	3117				
+PAMNMELI_00058	CDS	3117				hypothetical protein
+PAMNMELI_00059	gene	2580				
+PAMNMELI_00059	CDS	2580				hypothetical protein
+PAMNMELI_00060	gene	3201				
+PAMNMELI_00060	CDS	3201				hypothetical protein
+PAMNMELI_00061	gene	657	trmO			
+PAMNMELI_00061	CDS	657	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+PAMNMELI_00062	gene	1299				
+PAMNMELI_00062	CDS	1299				hypothetical protein
+PAMNMELI_00063	gene	75				
+PAMNMELI_00063	tRNA	75				tRNA-His(gtg)
+PAMNMELI_00064	gene	1074	adh			
+PAMNMELI_00064	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+PAMNMELI_00065	gene	261				
+PAMNMELI_00065	CDS	261				hypothetical protein
+PAMNMELI_00066	gene	606				
+PAMNMELI_00066	CDS	606				hypothetical protein
+PAMNMELI_00067	gene	1497	nrfA			
+PAMNMELI_00067	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+PAMNMELI_00068	gene	1311				
+PAMNMELI_00068	CDS	1311				hypothetical protein
+PAMNMELI_00069	gene	798	ccsA			
+PAMNMELI_00069	CDS	798	ccsA			Cytochrome c biogenesis protein CcsA
+PAMNMELI_00070	gene	398	ssrA			
+PAMNMELI_00070	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+PAMNMELI_00071	gene	636	wecA			
+PAMNMELI_00071	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+PAMNMELI_00072	gene	2526				
+PAMNMELI_00072	CDS	2526				hypothetical protein
+PAMNMELI_00073	gene	1077				
+PAMNMELI_00073	CDS	1077				hypothetical protein
+PAMNMELI_00074	gene	1194				
+PAMNMELI_00074	CDS	1194				hypothetical protein
+PAMNMELI_00075	gene	1530				
+PAMNMELI_00075	CDS	1530				hypothetical protein
+PAMNMELI_00076	gene	555	dapH_1			
+PAMNMELI_00076	CDS	555	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PAMNMELI_00077	gene	1221				
+PAMNMELI_00077	CDS	1221				hypothetical protein
+PAMNMELI_00078	gene	1542				
+PAMNMELI_00078	CDS	1542				hypothetical protein
+PAMNMELI_00079	gene	1152	mshA_1			
+PAMNMELI_00079	CDS	1152	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PAMNMELI_00080	gene	3417	mfd			
+PAMNMELI_00080	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+PAMNMELI_00081	gene	3024				
+PAMNMELI_00081	CDS	3024				hypothetical protein
+PAMNMELI_00082	gene	876				
+PAMNMELI_00082	CDS	876				hypothetical protein
+PAMNMELI_00083	gene	447				
+PAMNMELI_00083	CDS	447				hypothetical protein
+PAMNMELI_00084	gene	474				
+PAMNMELI_00084	CDS	474				hypothetical protein
+PAMNMELI_00085	gene	1446				
+PAMNMELI_00085	CDS	1446				hypothetical protein
+PAMNMELI_00086	gene	405				
+PAMNMELI_00086	CDS	405				hypothetical protein
+PAMNMELI_00087	gene	861				
+PAMNMELI_00087	CDS	861				hypothetical protein
+PAMNMELI_00088	gene	1746				
+PAMNMELI_00088	CDS	1746				hypothetical protein
+PAMNMELI_00089	gene	510	pspA_1			
+PAMNMELI_00089	CDS	510	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+PAMNMELI_00090	gene	1047				
+PAMNMELI_00090	CDS	1047				hypothetical protein
+PAMNMELI_00091	gene	225				
+PAMNMELI_00091	CDS	225				hypothetical protein
+PAMNMELI_00092	gene	1107				
+PAMNMELI_00092	CDS	1107				hypothetical protein
+PAMNMELI_00093	gene	1914	pglF			
+PAMNMELI_00093	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+PAMNMELI_00094	gene	594				
+PAMNMELI_00094	CDS	594				hypothetical protein
+PAMNMELI_00095	gene	1197	arnB			
+PAMNMELI_00095	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+PAMNMELI_00096	gene	798	tuaG			
+PAMNMELI_00096	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+PAMNMELI_00097	gene	1143				
+PAMNMELI_00097	CDS	1143				hypothetical protein
+PAMNMELI_00098	gene	1155				
+PAMNMELI_00098	CDS	1155				hypothetical protein
+PAMNMELI_00099	gene	909	trxB			
+PAMNMELI_00099	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+PAMNMELI_00100	gene	549	gpx1_1			
+PAMNMELI_00100	CDS	549	gpx1_1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+PAMNMELI_00101	gene	600				
+PAMNMELI_00101	CDS	600				hypothetical protein
+PAMNMELI_00102	gene	1242	ugd			
+PAMNMELI_00102	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+PAMNMELI_00103	gene	456				
+PAMNMELI_00103	CDS	456				hypothetical protein
+PAMNMELI_00104	gene	1563				
+PAMNMELI_00104	CDS	1563				hypothetical protein
+PAMNMELI_00105	gene	534				
+PAMNMELI_00105	CDS	534				hypothetical protein
+PAMNMELI_00106	gene	294				
+PAMNMELI_00106	CDS	294				hypothetical protein
+PAMNMELI_00107	gene	102				
+PAMNMELI_00107	CDS	102				hypothetical protein
+PAMNMELI_00108	gene	636	nfrA2			
+PAMNMELI_00108	CDS	636	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+PAMNMELI_00109	gene	1095				
+PAMNMELI_00109	CDS	1095				hypothetical protein
+PAMNMELI_00110	gene	879	moaA_1			
+PAMNMELI_00110	CDS	879	moaA_1			GTP 3',8-cyclase
+PAMNMELI_00111	gene	1131	moaA_2			
+PAMNMELI_00111	CDS	1131	moaA_2			GTP 3',8-cyclase
+PAMNMELI_00112	gene	966	moaA_3			
+PAMNMELI_00112	CDS	966	moaA_3			GTP 3',8-cyclase
+PAMNMELI_00113	gene	759				
+PAMNMELI_00113	CDS	759				hypothetical protein
+PAMNMELI_00114	gene	249	moaA_4			
+PAMNMELI_00114	CDS	249	moaA_4			GTP 3',8-cyclase
+PAMNMELI_00115	gene	177				
+PAMNMELI_00115	CDS	177				hypothetical protein
+PAMNMELI_00116	gene	1443	tuaB			
+PAMNMELI_00116	CDS	1443	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+PAMNMELI_00117	gene	1440				
+PAMNMELI_00117	CDS	1440				hypothetical protein
+PAMNMELI_00118	gene	594				
+PAMNMELI_00118	CDS	594				hypothetical protein
+PAMNMELI_00119	gene	879				
+PAMNMELI_00119	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+PAMNMELI_00120	gene	609				
+PAMNMELI_00120	CDS	609				hypothetical protein
+PAMNMELI_00121	gene	567	yajL			
+PAMNMELI_00121	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+PAMNMELI_00122	gene	900	nadK			
+PAMNMELI_00122	CDS	900	nadK	2.7.1.23		NAD kinase
+PAMNMELI_00123	gene	1683				
+PAMNMELI_00123	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+PAMNMELI_00124	gene	1071				
+PAMNMELI_00124	CDS	1071				hypothetical protein
+PAMNMELI_00125	gene	1857	cptA			
+PAMNMELI_00125	CDS	1857	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+PAMNMELI_00126	gene	804				
+PAMNMELI_00126	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+PAMNMELI_00127	gene	1356	mshA_2			
+PAMNMELI_00127	CDS	1356	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PAMNMELI_00128	gene	330				
+PAMNMELI_00128	CDS	330				hypothetical protein
+PAMNMELI_00129	gene	603				
+PAMNMELI_00129	CDS	603				hypothetical protein
+PAMNMELI_00130	gene	705				
+PAMNMELI_00130	CDS	705				hypothetical protein
+PAMNMELI_00131	gene	4299				
+PAMNMELI_00131	CDS	4299				hypothetical protein
+PAMNMELI_00132	gene	2229	btuB_1			
+PAMNMELI_00132	CDS	2229	btuB_1			Vitamin B12 transporter BtuB
+PAMNMELI_00133	gene	765				
+PAMNMELI_00133	CDS	765				hypothetical protein
+PAMNMELI_00134	gene	477	ispF			
+PAMNMELI_00134	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+PAMNMELI_00135	gene	1152				
+PAMNMELI_00135	CDS	1152				hypothetical protein
+PAMNMELI_00136	gene	96				
+PAMNMELI_00136	CDS	96				hypothetical protein
+PAMNMELI_00137	gene	3567				
+PAMNMELI_00137	CDS	3567				hypothetical protein
+PAMNMELI_00138	gene	618	ycgM			
+PAMNMELI_00138	CDS	618	ycgM		COG0179	putative protein YcgM
+PAMNMELI_00139	gene	999	TSFM			
+PAMNMELI_00139	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+PAMNMELI_00140	gene	870	rpsB			
+PAMNMELI_00140	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+PAMNMELI_00141	gene	387	rpsI			
+PAMNMELI_00141	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+PAMNMELI_00142	gene	462	rplM			
+PAMNMELI_00142	CDS	462	rplM		COG0102	50S ribosomal protein L13
+PAMNMELI_00143	gene	1788				
+PAMNMELI_00143	CDS	1788				hypothetical protein
+PAMNMELI_00144	gene	1734				
+PAMNMELI_00144	CDS	1734				hypothetical protein
+PAMNMELI_00145	gene	1341				
+PAMNMELI_00145	CDS	1341				hypothetical protein
+PAMNMELI_00146	gene	1113				
+PAMNMELI_00146	CDS	1113				hypothetical protein
+PAMNMELI_00147	gene	717				
+PAMNMELI_00147	CDS	717				hypothetical protein
+PAMNMELI_00148	gene	633	nadD			
+PAMNMELI_00148	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+PAMNMELI_00149	gene	696	gmk			
+PAMNMELI_00149	CDS	696	gmk	2.7.4.8	COG0194	Guanylate kinase
+PAMNMELI_00150	gene	1149				
+PAMNMELI_00150	CDS	1149				hypothetical protein
+PAMNMELI_00151	gene	879				
+PAMNMELI_00151	CDS	879				hypothetical protein
+PAMNMELI_00152	gene	690	tsaB			
+PAMNMELI_00152	CDS	690	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PAMNMELI_00153	gene	612				
+PAMNMELI_00153	CDS	612				hypothetical protein
+PAMNMELI_00154	gene	1347	murA			
+PAMNMELI_00154	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PAMNMELI_00155	gene	522	rimM			
+PAMNMELI_00155	CDS	522	rimM			Ribosome maturation factor RimM
+PAMNMELI_00156	gene	1155	dxr			
+PAMNMELI_00156	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+PAMNMELI_00157	gene	1410				
+PAMNMELI_00157	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+PAMNMELI_00158	gene	1896	sacC			
+PAMNMELI_00158	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+PAMNMELI_00159	gene	1155				
+PAMNMELI_00159	CDS	1155				hypothetical protein
+PAMNMELI_00160	gene	909	pfkB			
+PAMNMELI_00160	CDS	909	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+PAMNMELI_00161	gene	3339				
+PAMNMELI_00161	CDS	3339				hypothetical protein
+PAMNMELI_00162	gene	1851				
+PAMNMELI_00162	CDS	1851				hypothetical protein
+PAMNMELI_00163	gene	1686				
+PAMNMELI_00163	CDS	1686				hypothetical protein
+PAMNMELI_00164	gene	1767				
+PAMNMELI_00164	CDS	1767				hypothetical protein
+PAMNMELI_00165	gene	165				
+PAMNMELI_00165	CDS	165				hypothetical protein
+PAMNMELI_00166	gene	468				
+PAMNMELI_00166	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+PAMNMELI_00167	gene	2343				
+PAMNMELI_00167	CDS	2343				hypothetical protein
+PAMNMELI_00168	gene	141				
+PAMNMELI_00168	CDS	141				hypothetical protein
+PAMNMELI_00169	gene	2289				
+PAMNMELI_00169	CDS	2289				hypothetical protein
+PAMNMELI_00170	gene	300				
+PAMNMELI_00170	CDS	300				hypothetical protein
+PAMNMELI_00171	gene	819	pdxK			
+PAMNMELI_00171	CDS	819	pdxK	2.7.1.35	COG2240	Pyridoxine/pyridoxal/pyridoxamine kinase
+PAMNMELI_00172	gene	144				
+PAMNMELI_00172	CDS	144				hypothetical protein
+PAMNMELI_00173	gene	1416				
+PAMNMELI_00173	CDS	1416				hypothetical protein
+PAMNMELI_00174	gene	2685				
+PAMNMELI_00174	CDS	2685				hypothetical protein
+PAMNMELI_00175	gene	156				
+PAMNMELI_00175	CDS	156				hypothetical protein
+PAMNMELI_00176	gene	1428	cysG_1			
+PAMNMELI_00176	CDS	1428	cysG_1	4.99.1.4		Siroheme synthase
+PAMNMELI_00177	gene	1233	cbiET			
+PAMNMELI_00177	CDS	1233	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+PAMNMELI_00178	gene	1767	cysG_2			
+PAMNMELI_00178	CDS	1767	cysG_2	4.99.1.4		Siroheme synthase
+PAMNMELI_00179	gene	2121	cbiD			
+PAMNMELI_00179	CDS	2121	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+PAMNMELI_00180	gene	1137				
+PAMNMELI_00180	CDS	1137				hypothetical protein
+PAMNMELI_00181	gene	1023	hmuU_1			
+PAMNMELI_00181	CDS	1023	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+PAMNMELI_00182	gene	810				
+PAMNMELI_00182	CDS	810				hypothetical protein
+PAMNMELI_00183	gene	2106	recD2_1			
+PAMNMELI_00183	CDS	2106	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+PAMNMELI_00184	gene	1002	korB_1			
+PAMNMELI_00184	CDS	1002	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+PAMNMELI_00185	gene	1851	korA_1			
+PAMNMELI_00185	CDS	1851	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+PAMNMELI_00186	gene	1614	pckA			
+PAMNMELI_00186	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+PAMNMELI_00187	gene	660	upp			
+PAMNMELI_00187	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+PAMNMELI_00188	gene	516	dps			
+PAMNMELI_00188	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+PAMNMELI_00189	gene	1764	arnT			
+PAMNMELI_00189	CDS	1764	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+PAMNMELI_00190	gene	1977	mdoB			
+PAMNMELI_00190	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+PAMNMELI_00191	gene	1851				
+PAMNMELI_00191	CDS	1851				hypothetical protein
+PAMNMELI_00192	gene	552				
+PAMNMELI_00192	CDS	552				hypothetical protein
+PAMNMELI_00193	gene	2895				
+PAMNMELI_00193	CDS	2895				hypothetical protein
+PAMNMELI_00194	gene	1455				
+PAMNMELI_00194	CDS	1455				hypothetical protein
+PAMNMELI_00195	gene	396				
+PAMNMELI_00195	CDS	396				hypothetical protein
+PAMNMELI_00196	gene	1641				
+PAMNMELI_00196	CDS	1641				hypothetical protein
+PAMNMELI_00197	gene	2802				
+PAMNMELI_00197	CDS	2802				hypothetical protein
+PAMNMELI_00198	gene	546				
+PAMNMELI_00198	CDS	546				hypothetical protein
+PAMNMELI_00199	gene	759				
+PAMNMELI_00199	CDS	759				hypothetical protein
+PAMNMELI_00200	gene	774				
+PAMNMELI_00200	CDS	774				hypothetical protein
+PAMNMELI_00201	gene	1053				
+PAMNMELI_00201	CDS	1053				hypothetical protein
+PAMNMELI_00202	gene	717				
+PAMNMELI_00202	CDS	717				hypothetical protein
+PAMNMELI_00203	gene	138				
+PAMNMELI_00203	CDS	138				hypothetical protein
+PAMNMELI_00204	gene	2313	cirA			
+PAMNMELI_00204	CDS	2313	cirA		COG4771	Colicin I receptor
+PAMNMELI_00205	gene	1329				
+PAMNMELI_00205	CDS	1329				hypothetical protein
+PAMNMELI_00206	gene	135				
+PAMNMELI_00206	CDS	135				hypothetical protein
+PAMNMELI_00207	gene	2175				
+PAMNMELI_00207	CDS	2175				hypothetical protein
+PAMNMELI_00208	gene	4485				
+PAMNMELI_00208	CDS	4485				hypothetical protein
+PAMNMELI_00209	gene	354				
+PAMNMELI_00209	CDS	354				hypothetical protein
+PAMNMELI_00210	gene	1230	lolE			
+PAMNMELI_00210	CDS	1230	lolE		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+PAMNMELI_00211	gene	336	rbfA			
+PAMNMELI_00211	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+PAMNMELI_00212	gene	273	hup_1			
+PAMNMELI_00212	CDS	273	hup_1			DNA-binding protein HU
+PAMNMELI_00213	gene	894				
+PAMNMELI_00213	CDS	894				hypothetical protein
+PAMNMELI_00214	gene	1089				
+PAMNMELI_00214	CDS	1089				hypothetical protein
+PAMNMELI_00215	gene	3063	secD			
+PAMNMELI_00215	CDS	3063	secD			Protein translocase subunit SecD
+PAMNMELI_00216	gene	189				
+PAMNMELI_00216	CDS	189				hypothetical protein
+PAMNMELI_00217	gene	2940	rcsC_1			
+PAMNMELI_00217	CDS	2940	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+PAMNMELI_00218	gene	423				
+PAMNMELI_00218	CDS	423				hypothetical protein
+PAMNMELI_00219	gene	1509	scpC			
+PAMNMELI_00219	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+PAMNMELI_00220	gene	558	fumB			
+PAMNMELI_00220	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+PAMNMELI_00221	gene	843	ttdA			
+PAMNMELI_00221	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+PAMNMELI_00222	gene	945				
+PAMNMELI_00222	CDS	945				hypothetical protein
+PAMNMELI_00223	gene	321				
+PAMNMELI_00223	CDS	321				hypothetical protein
+PAMNMELI_00224	gene	1380				
+PAMNMELI_00224	CDS	1380				hypothetical protein
+PAMNMELI_00225	gene	1239				
+PAMNMELI_00225	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+PAMNMELI_00226	gene	1464	glmE			
+PAMNMELI_00226	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+PAMNMELI_00227	gene	1383				
+PAMNMELI_00227	CDS	1383				hypothetical protein
+PAMNMELI_00228	gene	414	glmS			
+PAMNMELI_00228	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+PAMNMELI_00229	gene	1854				
+PAMNMELI_00229	CDS	1854				hypothetical protein
+PAMNMELI_00230	gene	72				
+PAMNMELI_00230	tRNA	72				tRNA-Gln(ctg)
+PAMNMELI_00231	gene	360	rsfS			
+PAMNMELI_00231	CDS	360	rsfS			Ribosomal silencing factor RsfS
+PAMNMELI_00232	gene	1971	ftsH_1			
+PAMNMELI_00232	CDS	1971	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+PAMNMELI_00233	gene	852				
+PAMNMELI_00233	CDS	852				hypothetical protein
+PAMNMELI_00234	gene	522				
+PAMNMELI_00234	CDS	522				hypothetical protein
+PAMNMELI_00235	gene	2313				
+PAMNMELI_00235	CDS	2313				hypothetical protein
+PAMNMELI_00236	gene	222				
+PAMNMELI_00236	CDS	222				hypothetical protein
+PAMNMELI_00237	gene	1071	aroB			
+PAMNMELI_00237	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+PAMNMELI_00238	gene	831	resA_1			
+PAMNMELI_00238	CDS	831	resA_1			Thiol-disulfide oxidoreductase ResA
+PAMNMELI_00239	gene	933	yrbG			
+PAMNMELI_00239	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+PAMNMELI_00240	gene	1062				
+PAMNMELI_00240	CDS	1062				hypothetical protein
+PAMNMELI_00241	gene	444				
+PAMNMELI_00241	CDS	444				hypothetical protein
+PAMNMELI_00242	gene	561	coaE			
+PAMNMELI_00242	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+PAMNMELI_00243	gene	987				
+PAMNMELI_00243	CDS	987				hypothetical protein
+PAMNMELI_00244	gene	330				
+PAMNMELI_00244	CDS	330				hypothetical protein
+PAMNMELI_00245	gene	1002	nusB			
+PAMNMELI_00245	CDS	1002	nusB			Transcription antitermination protein NusB
+PAMNMELI_00246	gene	612	ctc			
+PAMNMELI_00246	CDS	612	ctc		COG1825	General stress protein CTC
+PAMNMELI_00247	gene	618	pth			
+PAMNMELI_00247	CDS	618	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+PAMNMELI_00248	gene	489				
+PAMNMELI_00248	CDS	489				hypothetical protein
+PAMNMELI_00249	gene	570	purN			
+PAMNMELI_00249	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+PAMNMELI_00250	gene	2943				
+PAMNMELI_00250	CDS	2943				hypothetical protein
+PAMNMELI_00251	gene	99				
+PAMNMELI_00251	CDS	99				hypothetical protein
+PAMNMELI_00252	gene	1197				
+PAMNMELI_00252	CDS	1197				hypothetical protein
+PAMNMELI_00253	gene	555	polC			
+PAMNMELI_00253	CDS	555	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+PAMNMELI_00254	gene	1017				
+PAMNMELI_00254	CDS	1017				hypothetical protein
+PAMNMELI_00255	gene	465	queF			
+PAMNMELI_00255	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+PAMNMELI_00256	gene	339				
+PAMNMELI_00256	CDS	339				hypothetical protein
+PAMNMELI_00257	gene	429				
+PAMNMELI_00257	CDS	429				hypothetical protein
+PAMNMELI_00258	gene	849				
+PAMNMELI_00258	CDS	849				hypothetical protein
+PAMNMELI_00259	gene	1329	allB			
+PAMNMELI_00259	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+PAMNMELI_00260	gene	1179				
+PAMNMELI_00260	CDS	1179				hypothetical protein
+PAMNMELI_00261	gene	1278				
+PAMNMELI_00261	CDS	1278				hypothetical protein
+PAMNMELI_00262	gene	1152				
+PAMNMELI_00262	CDS	1152				hypothetical protein
+PAMNMELI_00263	gene	705	yknY_1			
+PAMNMELI_00263	CDS	705	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PAMNMELI_00264	gene	1221				
+PAMNMELI_00264	CDS	1221				hypothetical protein
+PAMNMELI_00265	gene	1224				
+PAMNMELI_00265	CDS	1224				hypothetical protein
+PAMNMELI_00266	gene	756				
+PAMNMELI_00266	CDS	756				hypothetical protein
+PAMNMELI_00267	gene	675				
+PAMNMELI_00267	CDS	675				hypothetical protein
+PAMNMELI_00268	gene	138				
+PAMNMELI_00268	CDS	138				hypothetical protein
+PAMNMELI_00269	gene	1209	rhaR			
+PAMNMELI_00269	CDS	1209	rhaR			HTH-type transcriptional activator RhaR
+PAMNMELI_00270	gene	762				
+PAMNMELI_00270	CDS	762				hypothetical protein
+PAMNMELI_00271	gene	759	ppm1			
+PAMNMELI_00271	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+PAMNMELI_00272	gene	2772	lptD_1			
+PAMNMELI_00272	CDS	2772	lptD_1			LPS-assembly protein LptD
+PAMNMELI_00273	gene	585				
+PAMNMELI_00273	CDS	585				hypothetical protein
+PAMNMELI_00274	gene	1776				
+PAMNMELI_00274	CDS	1776				hypothetical protein
+PAMNMELI_00275	gene	2256	kefB_1			
+PAMNMELI_00275	CDS	2256	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+PAMNMELI_00276	gene	1224	pepT			
+PAMNMELI_00276	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+PAMNMELI_00277	gene	75				
+PAMNMELI_00277	tRNA	75				tRNA-Arg(ccg)
+PAMNMELI_00278	gene	693				
+PAMNMELI_00278	CDS	693				hypothetical protein
+PAMNMELI_00279	gene	756				
+PAMNMELI_00279	CDS	756				hypothetical protein
+PAMNMELI_00280	gene	1023				
+PAMNMELI_00280	CDS	1023				hypothetical protein
+PAMNMELI_00281	gene	2172				
+PAMNMELI_00281	CDS	2172				hypothetical protein
+PAMNMELI_00282	gene	1092	accIR			
+PAMNMELI_00282	CDS	1092	accIR	3.1.21.4		Type-2 restriction enzyme AccI
+PAMNMELI_00283	gene	174				
+PAMNMELI_00283	CDS	174				hypothetical protein
+PAMNMELI_00284	gene	636	udk_1			
+PAMNMELI_00284	CDS	636	udk_1	2.7.1.48		Uridine kinase
+PAMNMELI_00285	gene	573				
+PAMNMELI_00285	CDS	573				hypothetical protein
+PAMNMELI_00286	gene	1038				
+PAMNMELI_00286	CDS	1038				hypothetical protein
+PAMNMELI_00287	gene	2562				
+PAMNMELI_00287	CDS	2562				hypothetical protein
+PAMNMELI_00288	gene	930				
+PAMNMELI_00288	CDS	930				hypothetical protein
+PAMNMELI_00289	gene	1335				
+PAMNMELI_00289	CDS	1335				hypothetical protein
+PAMNMELI_00290	gene	255	rpmE2			
+PAMNMELI_00290	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+PAMNMELI_00291	gene	906				
+PAMNMELI_00291	CDS	906				hypothetical protein
+PAMNMELI_00292	gene	2859				
+PAMNMELI_00292	CDS	2859				hypothetical protein
+PAMNMELI_00293	gene	261				
+PAMNMELI_00293	CDS	261				hypothetical protein
+PAMNMELI_00294	gene	2061				
+PAMNMELI_00294	CDS	2061				hypothetical protein
+PAMNMELI_00295	gene	840				
+PAMNMELI_00295	CDS	840				hypothetical protein
+PAMNMELI_00296	gene	126				
+PAMNMELI_00296	CDS	126				hypothetical protein
+PAMNMELI_00297	gene	162				
+PAMNMELI_00297	CDS	162				hypothetical protein
+PAMNMELI_00298	gene	678				
+PAMNMELI_00298	CDS	678			COG3385	IS4 family transposase ISPg4
+PAMNMELI_00299	gene	210				
+PAMNMELI_00299	CDS	210				hypothetical protein
+PAMNMELI_00300	gene	600				
+PAMNMELI_00300	CDS	600				hypothetical protein
+PAMNMELI_00301	gene	1044				
+PAMNMELI_00301	CDS	1044				hypothetical protein
+PAMNMELI_00302	gene	222				
+PAMNMELI_00302	CDS	222				hypothetical protein
+PAMNMELI_00303	gene	240				
+PAMNMELI_00303	CDS	240				hypothetical protein
+PAMNMELI_00304	gene	459				
+PAMNMELI_00304	CDS	459				hypothetical protein
+PAMNMELI_00305	gene	1809	mutS_1			
+PAMNMELI_00305	CDS	1809	mutS_1			DNA mismatch repair protein MutS
+PAMNMELI_00306	gene	1182	purH_1			
+PAMNMELI_00306	CDS	1182	purH_1	3.5.4.10		Bifunctional purine biosynthesis protein PurH
+PAMNMELI_00307	gene	192				
+PAMNMELI_00307	CDS	192				hypothetical protein
+PAMNMELI_00308	gene	339				
+PAMNMELI_00308	CDS	339				hypothetical protein
+PAMNMELI_00309	gene	1200	mgl			
+PAMNMELI_00309	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+PAMNMELI_00310	gene	1002	fda			
+PAMNMELI_00310	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+PAMNMELI_00311	gene	1077				
+PAMNMELI_00311	CDS	1077				hypothetical protein
+PAMNMELI_00312	gene	735				
+PAMNMELI_00312	CDS	735				hypothetical protein
+PAMNMELI_00313	gene	1557	nnr			
+PAMNMELI_00313	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+PAMNMELI_00314	gene	537	hpt			
+PAMNMELI_00314	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+PAMNMELI_00315	gene	567	adk			
+PAMNMELI_00315	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+PAMNMELI_00316	gene	1176	obg			
+PAMNMELI_00316	CDS	1176	obg	3.6.5.-		GTPase Obg
+PAMNMELI_00317	gene	813				
+PAMNMELI_00317	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+PAMNMELI_00318	gene	549				
+PAMNMELI_00318	CDS	549				hypothetical protein
+PAMNMELI_00319	gene	150				
+PAMNMELI_00319	CDS	150				hypothetical protein
+PAMNMELI_00320	gene	2388	btuB_2			
+PAMNMELI_00320	CDS	2388	btuB_2			Vitamin B12 transporter BtuB
+PAMNMELI_00321	gene	144				
+PAMNMELI_00321	CDS	144				hypothetical protein
+PAMNMELI_00322	gene	576				
+PAMNMELI_00322	CDS	576				hypothetical protein
+PAMNMELI_00323	gene	363	rplS			
+PAMNMELI_00323	CDS	363	rplS		COG0335	50S ribosomal protein L19
+PAMNMELI_00324	gene	765				
+PAMNMELI_00324	CDS	765				hypothetical protein
+PAMNMELI_00325	gene	843	yfkN_1			
+PAMNMELI_00325	CDS	843	yfkN_1		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+PAMNMELI_00326	gene	744				
+PAMNMELI_00326	CDS	744				hypothetical protein
+PAMNMELI_00327	gene	168	fdxA			
+PAMNMELI_00327	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+PAMNMELI_00328	gene	567				
+PAMNMELI_00328	CDS	567				hypothetical protein
+PAMNMELI_00329	gene	711	pyrH			
+PAMNMELI_00329	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+PAMNMELI_00330	gene	558				
+PAMNMELI_00330	CDS	558				hypothetical protein
+PAMNMELI_00331	gene	732	birA			
+PAMNMELI_00331	CDS	732	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+PAMNMELI_00332	gene	555	tadA_1			
+PAMNMELI_00332	CDS	555	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+PAMNMELI_00333	gene	846				
+PAMNMELI_00333	CDS	846				hypothetical protein
+PAMNMELI_00334	gene	687	rsmI			
+PAMNMELI_00334	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+PAMNMELI_00335	gene	1140				
+PAMNMELI_00335	CDS	1140				hypothetical protein
+PAMNMELI_00336	gene	1248				
+PAMNMELI_00336	CDS	1248				hypothetical protein
+PAMNMELI_00337	gene	438				
+PAMNMELI_00337	CDS	438				hypothetical protein
+PAMNMELI_00338	gene	1470	mrdB_1			
+PAMNMELI_00338	CDS	1470	mrdB_1	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+PAMNMELI_00339	gene	1851	mrdA			
+PAMNMELI_00339	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+PAMNMELI_00340	gene	498				
+PAMNMELI_00340	CDS	498				hypothetical protein
+PAMNMELI_00341	gene	867				
+PAMNMELI_00341	CDS	867				hypothetical protein
+PAMNMELI_00342	gene	1026	mbl			
+PAMNMELI_00342	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+PAMNMELI_00343	gene	600	purH_2			
+PAMNMELI_00343	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+PAMNMELI_00344	gene	435	sulD			
+PAMNMELI_00344	CDS	435	sulD		COG0801	Bifunctional folate synthesis protein
+PAMNMELI_00345	gene	1119	queA_1			
+PAMNMELI_00345	CDS	1119	queA_1	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PAMNMELI_00346	gene	699	truB			
+PAMNMELI_00346	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+PAMNMELI_00347	gene	879	uppP			
+PAMNMELI_00347	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+PAMNMELI_00348	gene	249				
+PAMNMELI_00348	CDS	249				hypothetical protein
+PAMNMELI_00349	gene	879	ftsX			
+PAMNMELI_00349	CDS	879	ftsX		COG2177	Cell division protein FtsX
+PAMNMELI_00350	gene	780				
+PAMNMELI_00350	CDS	780				hypothetical protein
+PAMNMELI_00351	gene	618				
+PAMNMELI_00351	CDS	618				hypothetical protein
+PAMNMELI_00352	gene	1062	yhcG_1			
+PAMNMELI_00352	CDS	1062	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+PAMNMELI_00353	gene	270	rpsO			
+PAMNMELI_00353	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+PAMNMELI_00354	gene	2508				
+PAMNMELI_00354	CDS	2508				hypothetical protein
+PAMNMELI_00355	gene	696	mtnN			
+PAMNMELI_00355	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+PAMNMELI_00356	gene	480	luxS			
+PAMNMELI_00356	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+PAMNMELI_00357	gene	1467	dinF			
+PAMNMELI_00357	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+PAMNMELI_00358	gene	1851	typA			
+PAMNMELI_00358	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+PAMNMELI_00359	gene	435	nudC_1			
+PAMNMELI_00359	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+PAMNMELI_00360	gene	852				
+PAMNMELI_00360	CDS	852				hypothetical protein
+PAMNMELI_00361	gene	2409				
+PAMNMELI_00361	CDS	2409		5.1.1.1		Alanine racemase
+PAMNMELI_00362	gene	282				
+PAMNMELI_00362	CDS	282				hypothetical protein
+PAMNMELI_00363	gene	726				
+PAMNMELI_00363	CDS	726				hypothetical protein
+PAMNMELI_00364	gene	687	psd			
+PAMNMELI_00364	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+PAMNMELI_00365	gene	3711	dnaE			
+PAMNMELI_00365	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+PAMNMELI_00366	gene	315	trxA			
+PAMNMELI_00366	CDS	315	trxA			Thioredoxin 1
+PAMNMELI_00367	gene	363				
+PAMNMELI_00367	CDS	363				hypothetical protein
+PAMNMELI_00368	gene	594				
+PAMNMELI_00368	CDS	594				hypothetical protein
+PAMNMELI_00369	gene	219				
+PAMNMELI_00369	CDS	219				hypothetical protein
+PAMNMELI_00370	gene	174				
+PAMNMELI_00370	CDS	174				hypothetical protein
+PAMNMELI_00371	gene	1632				
+PAMNMELI_00371	CDS	1632				hypothetical protein
+PAMNMELI_00372	gene	2064				
+PAMNMELI_00372	CDS	2064				hypothetical protein
+PAMNMELI_00373	gene	2214				
+PAMNMELI_00373	CDS	2214				hypothetical protein
+PAMNMELI_00374	gene	660				
+PAMNMELI_00374	CDS	660				hypothetical protein
+PAMNMELI_00375	gene	408				
+PAMNMELI_00375	CDS	408				hypothetical protein
+PAMNMELI_00376	gene	840				
+PAMNMELI_00376	CDS	840				hypothetical protein
+PAMNMELI_00377	gene	102				
+PAMNMELI_00377	CDS	102				hypothetical protein
+PAMNMELI_00378	gene	2517				
+PAMNMELI_00378	CDS	2517				hypothetical protein
+PAMNMELI_00379	gene	1650				
+PAMNMELI_00379	CDS	1650				hypothetical protein
+PAMNMELI_00380	gene	888				
+PAMNMELI_00380	CDS	888				hypothetical protein
+PAMNMELI_00381	gene	1779	bepA_2			
+PAMNMELI_00381	CDS	1779	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+PAMNMELI_00382	gene	438	dut			
+PAMNMELI_00382	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PAMNMELI_00383	gene	1527	dgt			
+PAMNMELI_00383	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+PAMNMELI_00384	gene	279				
+PAMNMELI_00384	CDS	279				hypothetical protein
+PAMNMELI_00385	gene	261				
+PAMNMELI_00385	CDS	261				hypothetical protein
+PAMNMELI_00386	gene	420				
+PAMNMELI_00386	CDS	420				hypothetical protein
+PAMNMELI_00387	gene	477				
+PAMNMELI_00387	CDS	477				hypothetical protein
+PAMNMELI_00388	gene	102				
+PAMNMELI_00388	CDS	102				hypothetical protein
+PAMNMELI_00389	gene	1023				
+PAMNMELI_00389	CDS	1023				hypothetical protein
+PAMNMELI_00390	gene	828				
+PAMNMELI_00390	CDS	828				hypothetical protein
+PAMNMELI_00391	gene	666	mraZ			
+PAMNMELI_00391	CDS	666	mraZ			Transcriptional regulator MraZ
+PAMNMELI_00392	gene	1032	rsmH			
+PAMNMELI_00392	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+PAMNMELI_00393	gene	624				
+PAMNMELI_00393	CDS	624				hypothetical protein
+PAMNMELI_00394	gene	2148	pbpB			
+PAMNMELI_00394	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+PAMNMELI_00395	gene	1452	murE			
+PAMNMELI_00395	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+PAMNMELI_00396	gene	1272	mraY			
+PAMNMELI_00396	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PAMNMELI_00397	gene	1344	murD			
+PAMNMELI_00397	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PAMNMELI_00398	gene	1287	mrdB_2			
+PAMNMELI_00398	CDS	1287	mrdB_2	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+PAMNMELI_00399	gene	1116	murG			
+PAMNMELI_00399	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PAMNMELI_00400	gene	1401	murC			
+PAMNMELI_00400	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+PAMNMELI_00401	gene	1002				
+PAMNMELI_00401	CDS	1002				hypothetical protein
+PAMNMELI_00402	gene	1461	ftsA			
+PAMNMELI_00402	CDS	1461	ftsA			Cell division protein FtsA
+PAMNMELI_00403	gene	1320	ftsZ			
+PAMNMELI_00403	CDS	1320	ftsZ			Cell division protein FtsZ
+PAMNMELI_00404	gene	447	yqeY			
+PAMNMELI_00404	CDS	447	yqeY		COG1610	putative protein YqeY
+PAMNMELI_00405	gene	1122				
+PAMNMELI_00405	CDS	1122				hypothetical protein
+PAMNMELI_00406	gene	726	recO			
+PAMNMELI_00406	CDS	726	recO		COG1381	DNA repair protein RecO
+PAMNMELI_00407	gene	75				
+PAMNMELI_00407	tRNA	75				tRNA-Glu(ttc)
+PAMNMELI_00408	gene	255	rpsT			
+PAMNMELI_00408	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+PAMNMELI_00409	gene	135				
+PAMNMELI_00409	CDS	135				hypothetical protein
+PAMNMELI_00410	gene	1971	gyrB_1			
+PAMNMELI_00410	CDS	1971	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+PAMNMELI_00411	gene	879				
+PAMNMELI_00411	CDS	879				hypothetical protein
+PAMNMELI_00412	gene	621				
+PAMNMELI_00412	CDS	621				hypothetical protein
+PAMNMELI_00413	gene	666	ung			
+PAMNMELI_00413	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+PAMNMELI_00414	gene	1518	gpmI			
+PAMNMELI_00414	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+PAMNMELI_00415	gene	2196				
+PAMNMELI_00415	CDS	2196				hypothetical protein
+PAMNMELI_00416	gene	1050	dusB			
+PAMNMELI_00416	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+PAMNMELI_00417	gene	1128				
+PAMNMELI_00417	CDS	1128				hypothetical protein
+PAMNMELI_00418	gene	453				
+PAMNMELI_00418	CDS	453				hypothetical protein
+PAMNMELI_00419	gene	1302				
+PAMNMELI_00419	CDS	1302				hypothetical protein
+PAMNMELI_00420	gene	1149	yghO			
+PAMNMELI_00420	CDS	1149	yghO			Protein YghO
+PAMNMELI_00421	gene	1944	gyrB_2			
+PAMNMELI_00421	CDS	1944	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+PAMNMELI_00422	gene	441	coaD			
+PAMNMELI_00422	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+PAMNMELI_00423	gene	411	ybeY			
+PAMNMELI_00423	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+PAMNMELI_00424	gene	1578				
+PAMNMELI_00424	CDS	1578				hypothetical protein
+PAMNMELI_00425	gene	1035	ruvB			
+PAMNMELI_00425	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+PAMNMELI_00426	gene	1218	norV			
+PAMNMELI_00426	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+PAMNMELI_00427	gene	1308				
+PAMNMELI_00427	CDS	1308		3.4.24.-	COG0612	putative zinc protease
+PAMNMELI_00428	gene	1368				
+PAMNMELI_00428	CDS	1368				hypothetical protein
+PAMNMELI_00429	gene	204				
+PAMNMELI_00429	CDS	204				hypothetical protein
+PAMNMELI_00430	gene	339				
+PAMNMELI_00430	CDS	339				hypothetical protein
+PAMNMELI_00431	gene	963				
+PAMNMELI_00431	CDS	963				hypothetical protein
+PAMNMELI_00432	gene	237				
+PAMNMELI_00432	CDS	237				hypothetical protein
+PAMNMELI_00433	gene	333				
+PAMNMELI_00433	CDS	333				hypothetical protein
+PAMNMELI_00434	gene	1164	sasA_1			
+PAMNMELI_00434	CDS	1164	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+PAMNMELI_00435	gene	360				
+PAMNMELI_00435	CDS	360				hypothetical protein
+PAMNMELI_00436	gene	1440				
+PAMNMELI_00436	CDS	1440				hypothetical protein
+PAMNMELI_00437	gene	522				
+PAMNMELI_00437	CDS	522				hypothetical protein
+PAMNMELI_00438	gene	189	rpmF			
+PAMNMELI_00438	CDS	189	rpmF			50S ribosomal protein L32
+PAMNMELI_00439	gene	1011	fabH			
+PAMNMELI_00439	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+PAMNMELI_00440	gene	1056	era			
+PAMNMELI_00440	CDS	1056	era		COG1159	GTPase Era
+PAMNMELI_00441	gene	1317	der			
+PAMNMELI_00441	CDS	1317	der		COG1160	GTPase Der
+PAMNMELI_00442	gene	399				
+PAMNMELI_00442	CDS	399				hypothetical protein
+PAMNMELI_00443	gene	777	mkl			
+PAMNMELI_00443	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+PAMNMELI_00444	gene	747	mlaE			
+PAMNMELI_00444	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+PAMNMELI_00445	gene	318				
+PAMNMELI_00445	CDS	318				hypothetical protein
+PAMNMELI_00446	gene	420				
+PAMNMELI_00446	CDS	420				hypothetical protein
+PAMNMELI_00447	gene	888	lptB_1			
+PAMNMELI_00447	CDS	888	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+PAMNMELI_00448	gene	609				
+PAMNMELI_00448	CDS	609				hypothetical protein
+PAMNMELI_00449	gene	939	prs			
+PAMNMELI_00449	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+PAMNMELI_00450	gene	576	resA_2			
+PAMNMELI_00450	CDS	576	resA_2			Thiol-disulfide oxidoreductase ResA
+PAMNMELI_00451	gene	3099				
+PAMNMELI_00451	CDS	3099				hypothetical protein
+PAMNMELI_00452	gene	1356	tig			
+PAMNMELI_00452	CDS	1356	tig	5.2.1.8		Trigger factor
+PAMNMELI_00453	gene	666	clpP			
+PAMNMELI_00453	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+PAMNMELI_00454	gene	1230	clpX			
+PAMNMELI_00454	CDS	1230	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+PAMNMELI_00455	gene	2181	recQ			
+PAMNMELI_00455	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+PAMNMELI_00456	gene	1257				
+PAMNMELI_00456	CDS	1257				hypothetical protein
+PAMNMELI_00457	gene	2601	clpB1			
+PAMNMELI_00457	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+PAMNMELI_00458	gene	744				
+PAMNMELI_00458	CDS	744				hypothetical protein
+PAMNMELI_00459	gene	762				
+PAMNMELI_00459	CDS	762				hypothetical protein
+PAMNMELI_00460	gene	768				
+PAMNMELI_00460	CDS	768				hypothetical protein
+PAMNMELI_00461	gene	2106	f1pep1			
+PAMNMELI_00461	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+PAMNMELI_00462	gene	2028				
+PAMNMELI_00462	CDS	2028				hypothetical protein
+PAMNMELI_00463	gene	453	bcp			
+PAMNMELI_00463	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+PAMNMELI_00464	gene	5553				
+PAMNMELI_00464	CDS	5553				hypothetical protein
+PAMNMELI_00465	gene	1065				
+PAMNMELI_00465	CDS	1065				hypothetical protein
+PAMNMELI_00466	gene	1107				
+PAMNMELI_00466	CDS	1107		3.6.-.-	COG1703	putative GTPase
+PAMNMELI_00467	gene	861	ispH			
+PAMNMELI_00467	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+PAMNMELI_00468	gene	83				
+PAMNMELI_00468	tRNA	83				tRNA-Leu(tag)
+PAMNMELI_00469	gene	828	btuD_1			
+PAMNMELI_00469	CDS	828	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PAMNMELI_00470	gene	1005				
+PAMNMELI_00470	CDS	1005				hypothetical protein
+PAMNMELI_00471	gene	861				
+PAMNMELI_00471	CDS	861				hypothetical protein
+PAMNMELI_00472	gene	2682	parC			
+PAMNMELI_00472	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+PAMNMELI_00473	gene	951				
+PAMNMELI_00473	CDS	951				hypothetical protein
+PAMNMELI_00474	gene	720				
+PAMNMELI_00474	CDS	720				hypothetical protein
+PAMNMELI_00475	gene	975				
+PAMNMELI_00475	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+PAMNMELI_00476	gene	699				
+PAMNMELI_00476	CDS	699				hypothetical protein
+PAMNMELI_00477	gene	882	dtd3			
+PAMNMELI_00477	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+PAMNMELI_00478	gene	89				
+PAMNMELI_00478	tRNA	89				tRNA-Ser(gga)
+PAMNMELI_00479	gene	330				
+PAMNMELI_00479	CDS	330				hypothetical protein
+PAMNMELI_00480	gene	450				
+PAMNMELI_00480	CDS	450				hypothetical protein
+PAMNMELI_00481	gene	1452				
+PAMNMELI_00481	CDS	1452				hypothetical protein
+PAMNMELI_00482	gene	555	resA_3			
+PAMNMELI_00482	CDS	555	resA_3			Thiol-disulfide oxidoreductase ResA
+PAMNMELI_00483	gene	534	maa			
+PAMNMELI_00483	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+PAMNMELI_00484	gene	483				
+PAMNMELI_00484	CDS	483				hypothetical protein
+PAMNMELI_00485	gene	498				
+PAMNMELI_00485	CDS	498				hypothetical protein
+PAMNMELI_00486	gene	477				
+PAMNMELI_00486	CDS	477				hypothetical protein
+PAMNMELI_00487	gene	807	tolQ_1			
+PAMNMELI_00487	CDS	807	tolQ_1			Tol-Pal system protein TolQ
+PAMNMELI_00488	gene	486	asnC_1			
+PAMNMELI_00488	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+PAMNMELI_00489	gene	486	dfrA			
+PAMNMELI_00489	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+PAMNMELI_00490	gene	1185	mshA_3			
+PAMNMELI_00490	CDS	1185	mshA_3	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+PAMNMELI_00491	gene	1422				
+PAMNMELI_00491	CDS	1422				hypothetical protein
+PAMNMELI_00492	gene	825	pyrF			
+PAMNMELI_00492	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+PAMNMELI_00493	gene	1113	prfA			
+PAMNMELI_00493	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+PAMNMELI_00494	gene	1203	purM			
+PAMNMELI_00494	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+PAMNMELI_00495	gene	741	aroE			
+PAMNMELI_00495	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+PAMNMELI_00496	gene	735	menG			
+PAMNMELI_00496	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+PAMNMELI_00497	gene	981	purC			
+PAMNMELI_00497	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+PAMNMELI_00498	gene	981				
+PAMNMELI_00498	CDS	981			COG1702	PhoH-like protein
+PAMNMELI_00499	gene	801				
+PAMNMELI_00499	CDS	801				hypothetical protein
+PAMNMELI_00500	gene	813				
+PAMNMELI_00500	CDS	813				hypothetical protein
+PAMNMELI_00501	gene	1278	rarA			
+PAMNMELI_00501	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+PAMNMELI_00502	gene	621				
+PAMNMELI_00502	CDS	621				hypothetical protein
+PAMNMELI_00503	gene	75				
+PAMNMELI_00503	tRNA	75				tRNA-Arg(acg)
+PAMNMELI_00504	gene	726	murU			
+PAMNMELI_00504	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+PAMNMELI_00505	gene	1566	guaA			
+PAMNMELI_00505	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+PAMNMELI_00506	gene	459	ogt			
+PAMNMELI_00506	CDS	459	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+PAMNMELI_00507	gene	339				
+PAMNMELI_00507	CDS	339				hypothetical protein
+PAMNMELI_00508	gene	855				
+PAMNMELI_00508	CDS	855				hypothetical protein
+PAMNMELI_00509	gene	1314	pdhD			
+PAMNMELI_00509	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+PAMNMELI_00510	gene	1509	gcvPB			
+PAMNMELI_00510	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+PAMNMELI_00511	gene	1326	gcvPA			
+PAMNMELI_00511	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+PAMNMELI_00512	gene	387	gcvH			
+PAMNMELI_00512	CDS	387	gcvH			Glycine cleavage system H protein
+PAMNMELI_00513	gene	1095	gcvT			
+PAMNMELI_00513	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+PAMNMELI_00514	gene	1038	lplJ			
+PAMNMELI_00514	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+PAMNMELI_00515	gene	423	mscL			
+PAMNMELI_00515	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+PAMNMELI_00516	gene	156				
+PAMNMELI_00516	CDS	156				hypothetical protein
+PAMNMELI_00517	gene	1011	gapA			
+PAMNMELI_00517	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+PAMNMELI_00518	gene	780	zupT			
+PAMNMELI_00518	CDS	780	zupT		COG0428	Zinc transporter ZupT
+PAMNMELI_00519	gene	873	sigA			
+PAMNMELI_00519	CDS	873	sigA		COG0568	RNA polymerase sigma factor SigA
+PAMNMELI_00520	gene	405				
+PAMNMELI_00520	CDS	405				hypothetical protein
+PAMNMELI_00521	gene	1779	rpsA			
+PAMNMELI_00521	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+PAMNMELI_00522	gene	207				
+PAMNMELI_00522	CDS	207				hypothetical protein
+PAMNMELI_00523	gene	195				
+PAMNMELI_00523	CDS	195				hypothetical protein
+PAMNMELI_00524	gene	1332	mtaB			
+PAMNMELI_00524	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+PAMNMELI_00525	gene	1020				
+PAMNMELI_00525	CDS	1020				hypothetical protein
+PAMNMELI_00526	gene	579				
+PAMNMELI_00526	CDS	579				hypothetical protein
+PAMNMELI_00527	gene	360	yjbR			
+PAMNMELI_00527	CDS	360	yjbR		COG2315	putative protein YjbR
+PAMNMELI_00528	gene	1344	glyA			
+PAMNMELI_00528	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+PAMNMELI_00529	gene	1116	thiL			
+PAMNMELI_00529	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+PAMNMELI_00530	gene	660	punA			
+PAMNMELI_00530	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+PAMNMELI_00531	gene	1173	lpxK			
+PAMNMELI_00531	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+PAMNMELI_00532	gene	1767	sppA			
+PAMNMELI_00532	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+PAMNMELI_00533	gene	735				
+PAMNMELI_00533	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+PAMNMELI_00534	gene	549				
+PAMNMELI_00534	CDS	549				hypothetical protein
+PAMNMELI_00535	gene	249				
+PAMNMELI_00535	CDS	249				hypothetical protein
+PAMNMELI_00536	gene	780				
+PAMNMELI_00536	CDS	780				hypothetical protein
+PAMNMELI_00537	gene	405				
+PAMNMELI_00537	CDS	405				hypothetical protein
+PAMNMELI_00538	gene	978				
+PAMNMELI_00538	CDS	978				hypothetical protein
+PAMNMELI_00539	gene	621				
+PAMNMELI_00539	CDS	621				hypothetical protein
+PAMNMELI_00540	gene	492				
+PAMNMELI_00540	CDS	492				hypothetical protein
+PAMNMELI_00541	gene	675				
+PAMNMELI_00541	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+PAMNMELI_00542	gene	954				
+PAMNMELI_00542	CDS	954				hypothetical protein
+PAMNMELI_00543	gene	999	dagK			
+PAMNMELI_00543	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+PAMNMELI_00544	gene	1320	nupG			
+PAMNMELI_00544	CDS	1320	nupG			Nucleoside permease NupG
+PAMNMELI_00545	gene	564				
+PAMNMELI_00545	CDS	564				hypothetical protein
+PAMNMELI_00546	gene	732	rsmE			
+PAMNMELI_00546	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+PAMNMELI_00547	gene	1341				
+PAMNMELI_00547	CDS	1341				hypothetical protein
+PAMNMELI_00548	gene	645	ytrE			
+PAMNMELI_00548	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+PAMNMELI_00549	gene	1200				
+PAMNMELI_00549	CDS	1200				hypothetical protein
+PAMNMELI_00550	gene	3288				
+PAMNMELI_00550	CDS	3288				hypothetical protein
+PAMNMELI_00551	gene	339				
+PAMNMELI_00551	CDS	339				hypothetical protein
+PAMNMELI_00552	gene	591				
+PAMNMELI_00552	CDS	591				hypothetical protein
+PAMNMELI_00553	gene	159				
+PAMNMELI_00553	CDS	159				hypothetical protein
+PAMNMELI_00554	gene	1491				
+PAMNMELI_00554	CDS	1491				hypothetical protein
+PAMNMELI_00555	gene	636				
+PAMNMELI_00555	CDS	636				hypothetical protein
+PAMNMELI_00556	gene	630				
+PAMNMELI_00556	CDS	630				hypothetical protein
+PAMNMELI_00557	gene	321				
+PAMNMELI_00557	CDS	321				hypothetical protein
+PAMNMELI_00558	gene	1089	trpS2			
+PAMNMELI_00558	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+PAMNMELI_00559	gene	4329	rpoC			
+PAMNMELI_00559	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+PAMNMELI_00560	gene	3813	rpoB			
+PAMNMELI_00560	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+PAMNMELI_00561	gene	378	rplL			
+PAMNMELI_00561	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+PAMNMELI_00562	gene	516	rplJ			
+PAMNMELI_00562	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+PAMNMELI_00563	gene	693	rplA			
+PAMNMELI_00563	CDS	693	rplA			50S ribosomal protein L1
+PAMNMELI_00564	gene	438	rplK			
+PAMNMELI_00564	CDS	438	rplK			50S ribosomal protein L11
+PAMNMELI_00565	gene	543	nusG			
+PAMNMELI_00565	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+PAMNMELI_00566	gene	74				
+PAMNMELI_00566	tRNA	74				tRNA-Trp(cca)
+PAMNMELI_00567	gene	1185	tufB			
+PAMNMELI_00567	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+PAMNMELI_00568	gene	73				
+PAMNMELI_00568	tRNA	73				tRNA-Thr(ggt)
+PAMNMELI_00569	gene	74				
+PAMNMELI_00569	tRNA	74				tRNA-Gly(tcc)
+PAMNMELI_00570	gene	84				
+PAMNMELI_00570	tRNA	84				tRNA-Tyr(gta)
+PAMNMELI_00571	gene	300	hpf			
+PAMNMELI_00571	CDS	300	hpf			Ribosome hibernation promoting factor
+PAMNMELI_00572	gene	882	xerD_1			
+PAMNMELI_00572	CDS	882	xerD_1			Tyrosine recombinase XerD
+PAMNMELI_00573	gene	192				
+PAMNMELI_00573	CDS	192				hypothetical protein
+PAMNMELI_00574	gene	207				
+PAMNMELI_00574	CDS	207				hypothetical protein
+PAMNMELI_00575	gene	1830				
+PAMNMELI_00575	CDS	1830				hypothetical protein
+PAMNMELI_00576	gene	1788				
+PAMNMELI_00576	CDS	1788				hypothetical protein
+PAMNMELI_00577	gene	1917				
+PAMNMELI_00577	CDS	1917				hypothetical protein
+PAMNMELI_00578	gene	1686	dauA			
+PAMNMELI_00578	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+PAMNMELI_00579	gene	1305				
+PAMNMELI_00579	CDS	1305				hypothetical protein
+PAMNMELI_00580	gene	159				
+PAMNMELI_00580	CDS	159				hypothetical protein
+PAMNMELI_00581	gene	993	mdh			
+PAMNMELI_00581	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+PAMNMELI_00582	gene	510				
+PAMNMELI_00582	CDS	510				hypothetical protein
+PAMNMELI_00583	gene	411				
+PAMNMELI_00583	CDS	411				hypothetical protein
+PAMNMELI_00584	gene	2505				
+PAMNMELI_00584	CDS	2505				hypothetical protein
+PAMNMELI_00585	gene	1002				
+PAMNMELI_00585	CDS	1002				hypothetical protein
+PAMNMELI_00586	gene	837				
+PAMNMELI_00586	CDS	837				hypothetical protein
+PAMNMELI_00587	gene	1413				
+PAMNMELI_00587	CDS	1413				hypothetical protein
+PAMNMELI_00588	gene	399				
+PAMNMELI_00588	CDS	399			COG0537	putative HIT-like protein
+PAMNMELI_00589	gene	465	greA			
+PAMNMELI_00589	CDS	465	greA		COG0782	Transcription elongation factor GreA
+PAMNMELI_00590	gene	75				
+PAMNMELI_00590	tRNA	75				tRNA-Ala(ggc)
+PAMNMELI_00591	gene	726				
+PAMNMELI_00591	CDS	726				hypothetical protein
+PAMNMELI_00592	gene	138				
+PAMNMELI_00592	CDS	138				hypothetical protein
+PAMNMELI_00593	gene	1032	cobD_1			
+PAMNMELI_00593	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+PAMNMELI_00594	gene	942	cobD_2			
+PAMNMELI_00594	CDS	942	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+PAMNMELI_00595	gene	573				
+PAMNMELI_00595	CDS	573				hypothetical protein
+PAMNMELI_00596	gene	2130				
+PAMNMELI_00596	CDS	2130				hypothetical protein
+PAMNMELI_00597	gene	825				
+PAMNMELI_00597	CDS	825				hypothetical protein
+PAMNMELI_00598	gene	696	mprA			
+PAMNMELI_00598	CDS	696	mprA		COG0745	Response regulator MprA
+PAMNMELI_00599	gene	1569	sasA_2			
+PAMNMELI_00599	CDS	1569	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+PAMNMELI_00600	gene	2070				
+PAMNMELI_00600	CDS	2070				hypothetical protein
+PAMNMELI_00601	gene	222				
+PAMNMELI_00601	CDS	222				hypothetical protein
+PAMNMELI_00602	gene	555	cobO			
+PAMNMELI_00602	CDS	555	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+PAMNMELI_00603	gene	606				
+PAMNMELI_00603	CDS	606				hypothetical protein
+PAMNMELI_00604	gene	75				
+PAMNMELI_00604	tRNA	75				tRNA-Thr(tgt)
+PAMNMELI_00605	gene	528				
+PAMNMELI_00605	CDS	528				hypothetical protein
+PAMNMELI_00606	gene	783				
+PAMNMELI_00606	CDS	783				hypothetical protein
+PAMNMELI_00607	gene	519	kdsC			
+PAMNMELI_00607	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+PAMNMELI_00608	gene	573	yhdE			
+PAMNMELI_00608	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+PAMNMELI_00609	gene	1107				
+PAMNMELI_00609	CDS	1107				hypothetical protein
+PAMNMELI_00610	gene	990				
+PAMNMELI_00610	CDS	990				hypothetical protein
+PAMNMELI_00611	gene	1515				
+PAMNMELI_00611	CDS	1515				hypothetical protein
+PAMNMELI_00612	gene	981				
+PAMNMELI_00612	CDS	981				hypothetical protein
+PAMNMELI_00613	gene	1398				
+PAMNMELI_00613	CDS	1398				hypothetical protein
+PAMNMELI_00614	gene	978	pfkA			
+PAMNMELI_00614	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+PAMNMELI_00615	gene	1527	atpD			
+PAMNMELI_00615	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+PAMNMELI_00616	gene	240	atpC			
+PAMNMELI_00616	CDS	240	atpC			ATP synthase epsilon chain
+PAMNMELI_00617	gene	396				
+PAMNMELI_00617	CDS	396				hypothetical protein
+PAMNMELI_00618	gene	1032	atpB			
+PAMNMELI_00618	CDS	1032	atpB			ATP synthase subunit a
+PAMNMELI_00619	gene	240	atpH_1			
+PAMNMELI_00619	CDS	240	atpH_1			ATP synthase subunit c
+PAMNMELI_00620	gene	519	atpF			
+PAMNMELI_00620	CDS	519	atpF		COG0711	ATP synthase subunit b
+PAMNMELI_00621	gene	534	atpH_2			
+PAMNMELI_00621	CDS	534	atpH_2		COG0712	ATP synthase subunit delta
+PAMNMELI_00622	gene	1584	atpA			
+PAMNMELI_00622	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+PAMNMELI_00623	gene	969	atpG			
+PAMNMELI_00623	CDS	969	atpG		COG0224	ATP synthase gamma chain
+PAMNMELI_00624	gene	264				
+PAMNMELI_00624	CDS	264				hypothetical protein
+PAMNMELI_00625	gene	1488				
+PAMNMELI_00625	CDS	1488				hypothetical protein
+PAMNMELI_00626	gene	813	glgA			
+PAMNMELI_00626	CDS	813	glgA	2.4.1.21	COG0297	Glycogen synthase
+PAMNMELI_00627	gene	858	panC			
+PAMNMELI_00627	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+PAMNMELI_00628	gene	345	panD			
+PAMNMELI_00628	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+PAMNMELI_00629	gene	432	accB			
+PAMNMELI_00629	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PAMNMELI_00630	gene	159				
+PAMNMELI_00630	CDS	159				hypothetical protein
+PAMNMELI_00631	gene	1554	pccB			
+PAMNMELI_00631	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+PAMNMELI_00632	gene	405	epi			
+PAMNMELI_00632	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+PAMNMELI_00633	gene	2364				
+PAMNMELI_00633	CDS	2364				hypothetical protein
+PAMNMELI_00634	gene	1977	fbp			
+PAMNMELI_00634	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+PAMNMELI_00635	gene	1125				
+PAMNMELI_00635	CDS	1125				hypothetical protein
+PAMNMELI_00636	gene	1320	lysC			
+PAMNMELI_00636	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+PAMNMELI_00637	gene	708	btuD_2			
+PAMNMELI_00637	CDS	708	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+PAMNMELI_00638	gene	1296	deaD_1			
+PAMNMELI_00638	CDS	1296	deaD_1	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+PAMNMELI_00639	gene	1164				
+PAMNMELI_00639	CDS	1164				hypothetical protein
+PAMNMELI_00640	gene	1128	tgt			
+PAMNMELI_00640	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+PAMNMELI_00641	gene	2424	lon1			
+PAMNMELI_00641	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+PAMNMELI_00642	gene	645	yfiC			
+PAMNMELI_00642	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+PAMNMELI_00643	gene	1464				
+PAMNMELI_00643	CDS	1464				hypothetical protein
+PAMNMELI_00644	gene	1077	mnmA			
+PAMNMELI_00644	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+PAMNMELI_00645	gene	114				
+PAMNMELI_00645	CDS	114				hypothetical protein
+PAMNMELI_00646	gene	705	hxpA			
+PAMNMELI_00646	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+PAMNMELI_00647	gene	1356	pgi			
+PAMNMELI_00647	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+PAMNMELI_00648	gene	88				
+PAMNMELI_00648	tRNA	88				tRNA-Ser(gct)
+PAMNMELI_00649	gene	73				
+PAMNMELI_00649	tRNA	73				tRNA-Glu(ctc)
+PAMNMELI_00650	gene	1488				
+PAMNMELI_00650	CDS	1488				hypothetical protein
+PAMNMELI_00651	gene	444				
+PAMNMELI_00651	CDS	444				hypothetical protein
+PAMNMELI_00652	gene	456				
+PAMNMELI_00652	CDS	456				hypothetical protein
+PAMNMELI_00653	gene	903	rnfB			
+PAMNMELI_00653	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+PAMNMELI_00654	gene	1353	rnfC			
+PAMNMELI_00654	CDS	1353	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+PAMNMELI_00655	gene	1035	rnfD			
+PAMNMELI_00655	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+PAMNMELI_00656	gene	642	rsxG			
+PAMNMELI_00656	CDS	642	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+PAMNMELI_00657	gene	591	rnfE			
+PAMNMELI_00657	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+PAMNMELI_00658	gene	603	rnfA			
+PAMNMELI_00658	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+PAMNMELI_00659	gene	1041	galE			
+PAMNMELI_00659	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+PAMNMELI_00660	gene	99				
+PAMNMELI_00660	CDS	99				hypothetical protein
+PAMNMELI_00661	gene	1191				
+PAMNMELI_00661	CDS	1191				hypothetical protein
+PAMNMELI_00662	gene	1836				
+PAMNMELI_00662	CDS	1836				hypothetical protein
+PAMNMELI_00663	gene	2724	ppdK			
+PAMNMELI_00663	CDS	2724	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+PAMNMELI_00664	gene	117				
+PAMNMELI_00664	CDS	117				hypothetical protein
+PAMNMELI_00665	gene	564	flr			
+PAMNMELI_00665	CDS	564	flr			Flavoredoxin
+PAMNMELI_00666	gene	96				
+PAMNMELI_00666	CDS	96				hypothetical protein
+PAMNMELI_00667	gene	1050				
+PAMNMELI_00667	CDS	1050				hypothetical protein
+PAMNMELI_00668	gene	711				
+PAMNMELI_00668	CDS	711				hypothetical protein
+PAMNMELI_00669	gene	495				
+PAMNMELI_00669	CDS	495				hypothetical protein
+PAMNMELI_00670	gene	456	csh			
+PAMNMELI_00670	CDS	456	csh	3.13.1.5		Carbon disulfide hydrolase
+PAMNMELI_00671	gene	687				
+PAMNMELI_00671	CDS	687				hypothetical protein
+PAMNMELI_00672	gene	984				
+PAMNMELI_00672	CDS	984				hypothetical protein
+PAMNMELI_00673	gene	1188	bioF			
+PAMNMELI_00673	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+PAMNMELI_00674	gene	903	rhaS_2			
+PAMNMELI_00674	CDS	903	rhaS_2			HTH-type transcriptional activator RhaS
+PAMNMELI_00675	gene	486	resA_4			
+PAMNMELI_00675	CDS	486	resA_4			Thiol-disulfide oxidoreductase ResA
+PAMNMELI_00676	gene	819				
+PAMNMELI_00676	CDS	819				hypothetical protein
+PAMNMELI_00677	gene	2310	maeB			
+PAMNMELI_00677	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+PAMNMELI_00678	gene	3591				
+PAMNMELI_00678	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+PAMNMELI_00679	gene	1188				
+PAMNMELI_00679	CDS	1188				hypothetical protein
+PAMNMELI_00680	gene	1083				
+PAMNMELI_00680	CDS	1083				hypothetical protein
+PAMNMELI_00681	gene	291				
+PAMNMELI_00681	CDS	291				hypothetical protein
+PAMNMELI_00682	gene	2202	hppA1			
+PAMNMELI_00682	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+PAMNMELI_00683	gene	1101				
+PAMNMELI_00683	CDS	1101				hypothetical protein
+PAMNMELI_00684	gene	1443	rlmCD			
+PAMNMELI_00684	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PAMNMELI_00685	gene	1524				
+PAMNMELI_00685	CDS	1524				hypothetical protein
+PAMNMELI_00686	gene	123				
+PAMNMELI_00686	CDS	123				hypothetical protein
+PAMNMELI_00687	gene	1374	mnmE			
+PAMNMELI_00687	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+PAMNMELI_00688	gene	1032	ltaE			
+PAMNMELI_00688	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+PAMNMELI_00689	gene	876	deoD			
+PAMNMELI_00689	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+PAMNMELI_00690	gene	1116				
+PAMNMELI_00690	CDS	1116				hypothetical protein
+PAMNMELI_00691	gene	2358	pyrK_2			
+PAMNMELI_00691	CDS	2358	pyrK_2			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+PAMNMELI_00692	gene	1317	serS			
+PAMNMELI_00692	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+PAMNMELI_00693	gene	264	rpmA			
+PAMNMELI_00693	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+PAMNMELI_00694	gene	318	rplU			
+PAMNMELI_00694	CDS	318	rplU		COG0261	50S ribosomal protein L21
+PAMNMELI_00695	gene	759	exoA			
+PAMNMELI_00695	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+PAMNMELI_00696	gene	384				
+PAMNMELI_00696	CDS	384				hypothetical protein
+PAMNMELI_00697	gene	585				
+PAMNMELI_00697	CDS	585				hypothetical protein
+PAMNMELI_00698	gene	678				
+PAMNMELI_00698	CDS	678				hypothetical protein
+PAMNMELI_00699	gene	606				
+PAMNMELI_00699	CDS	606				hypothetical protein
+PAMNMELI_00700	gene	411				
+PAMNMELI_00700	CDS	411				hypothetical protein
+PAMNMELI_00701	gene	1491	algC			
+PAMNMELI_00701	CDS	1491	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+PAMNMELI_00702	gene	2037	pepO			
+PAMNMELI_00702	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+PAMNMELI_00703	gene	1953	yheS			
+PAMNMELI_00703	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+PAMNMELI_00704	gene	111				
+PAMNMELI_00704	CDS	111				hypothetical protein
+PAMNMELI_00705	gene	678				
+PAMNMELI_00705	CDS	678				hypothetical protein
+PAMNMELI_00706	gene	1809				
+PAMNMELI_00706	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+PAMNMELI_00707	gene	1122	prfB			
+PAMNMELI_00707	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+PAMNMELI_00708	gene	138				
+PAMNMELI_00708	CDS	138				hypothetical protein
+PAMNMELI_00709	gene	516				
+PAMNMELI_00709	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+PAMNMELI_00710	gene	438				
+PAMNMELI_00710	CDS	438				hypothetical protein
+PAMNMELI_00711	gene	1038				
+PAMNMELI_00711	CDS	1038				hypothetical protein
+PAMNMELI_00712	gene	759				
+PAMNMELI_00712	CDS	759				hypothetical protein
+PAMNMELI_00713	gene	504				
+PAMNMELI_00713	CDS	504				hypothetical protein
+PAMNMELI_00714	gene	888				
+PAMNMELI_00714	CDS	888				hypothetical protein
+PAMNMELI_00715	gene	195				
+PAMNMELI_00715	CDS	195				hypothetical protein
+PAMNMELI_00716	gene	681				
+PAMNMELI_00716	CDS	681				hypothetical protein
+PAMNMELI_00717	gene	1176				
+PAMNMELI_00717	CDS	1176				hypothetical protein
+PAMNMELI_00718	gene	993	ddlA			
+PAMNMELI_00718	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+PAMNMELI_00719	gene	1113	rluD_1			
+PAMNMELI_00719	CDS	1113	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PAMNMELI_00720	gene	744				
+PAMNMELI_00720	CDS	744				hypothetical protein
+PAMNMELI_00721	gene	222				
+PAMNMELI_00721	CDS	222				hypothetical protein
+PAMNMELI_00722	gene	525	efp			
+PAMNMELI_00722	CDS	525	efp		COG0231	Elongation factor P
+PAMNMELI_00723	gene	1104				
+PAMNMELI_00723	CDS	1104				hypothetical protein
+PAMNMELI_00724	gene	702				
+PAMNMELI_00724	CDS	702				hypothetical protein
+PAMNMELI_00725	gene	321	sufT			
+PAMNMELI_00725	CDS	321	sufT			Fe-S protein maturation auxiliary factor SufT
+PAMNMELI_00726	gene	774	lpxH			
+PAMNMELI_00726	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+PAMNMELI_00727	gene	1194	ackA			
+PAMNMELI_00727	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+PAMNMELI_00728	gene	1008	pta_1			
+PAMNMELI_00728	CDS	1008	pta_1	2.3.1.8		Phosphate acetyltransferase
+PAMNMELI_00729	gene	765	cdaA			
+PAMNMELI_00729	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+PAMNMELI_00730	gene	885	folP			
+PAMNMELI_00730	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+PAMNMELI_00731	gene	1311	murF			
+PAMNMELI_00731	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PAMNMELI_00732	gene	726				
+PAMNMELI_00732	CDS	726				hypothetical protein
+PAMNMELI_00733	gene	1452				
+PAMNMELI_00733	CDS	1452				hypothetical protein
+PAMNMELI_00734	gene	1332	nhaA			
+PAMNMELI_00734	CDS	1332	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+PAMNMELI_00735	gene	756				
+PAMNMELI_00735	CDS	756				hypothetical protein
+PAMNMELI_00736	gene	717	ybhL			
+PAMNMELI_00736	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+PAMNMELI_00737	gene	477	argR			
+PAMNMELI_00737	CDS	477	argR		COG1438	Arginine repressor
+PAMNMELI_00738	gene	1188	kbl			
+PAMNMELI_00738	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+PAMNMELI_00739	gene	960				
+PAMNMELI_00739	CDS	960				putative epimerase/dehydratase
+PAMNMELI_00740	gene	90				
+PAMNMELI_00740	CDS	90				hypothetical protein
+PAMNMELI_00741	gene	93				
+PAMNMELI_00741	CDS	93				hypothetical protein
+PAMNMELI_00742	gene	933				
+PAMNMELI_00742	CDS	933				hypothetical protein
+PAMNMELI_00743	gene	234				
+PAMNMELI_00743	CDS	234				hypothetical protein
+PAMNMELI_00744	gene	246				
+PAMNMELI_00744	CDS	246				hypothetical protein
+PAMNMELI_00745	gene	480				
+PAMNMELI_00745	CDS	480				hypothetical protein
+PAMNMELI_00746	gene	357				
+PAMNMELI_00746	CDS	357				hypothetical protein
+PAMNMELI_00747	gene	633				
+PAMNMELI_00747	CDS	633				hypothetical protein
+PAMNMELI_00748	gene	76				
+PAMNMELI_00748	tRNA	76				tRNA-Pro(cgg)
+PAMNMELI_00749	gene	74				
+PAMNMELI_00749	tRNA	74				tRNA-Phe(gaa)
+PAMNMELI_00750	gene	552				
+PAMNMELI_00750	CDS	552				hypothetical protein
+PAMNMELI_00751	gene	636				
+PAMNMELI_00751	CDS	636				hypothetical protein
+PAMNMELI_00752	gene	558				
+PAMNMELI_00752	CDS	558				hypothetical protein
+PAMNMELI_00753	gene	204				
+PAMNMELI_00753	CDS	204				hypothetical protein
+PAMNMELI_00754	gene	189				
+PAMNMELI_00754	CDS	189				hypothetical protein
+PAMNMELI_00755	gene	492				
+PAMNMELI_00755	CDS	492				hypothetical protein
+PAMNMELI_00756	gene	681				
+PAMNMELI_00756	CDS	681				hypothetical protein
+PAMNMELI_00757	gene	2520				
+PAMNMELI_00757	CDS	2520				hypothetical protein
+PAMNMELI_00758	gene	186				
+PAMNMELI_00758	CDS	186				hypothetical protein
+PAMNMELI_00759	gene	786				
+PAMNMELI_00759	CDS	786				hypothetical protein
+PAMNMELI_00760	gene	1536				
+PAMNMELI_00760	CDS	1536			COG1292	putative glycine betaine transporter
+PAMNMELI_00761	gene	1587	thiK			
+PAMNMELI_00761	CDS	1587	thiK	2.7.1.89		Thiamine kinase
+PAMNMELI_00762	gene	864				
+PAMNMELI_00762	CDS	864				hypothetical protein
+PAMNMELI_00763	gene	744				
+PAMNMELI_00763	CDS	744				hypothetical protein
+PAMNMELI_00764	gene	1035	gtfA			
+PAMNMELI_00764	CDS	1035	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+PAMNMELI_00765	gene	879				
+PAMNMELI_00765	CDS	879				hypothetical protein
+PAMNMELI_00766	gene	1101				
+PAMNMELI_00766	CDS	1101				hypothetical protein
+PAMNMELI_00767	gene	945	murB_1			
+PAMNMELI_00767	CDS	945	murB_1	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+PAMNMELI_00768	gene	933				
+PAMNMELI_00768	CDS	933				hypothetical protein
+PAMNMELI_00769	gene	603	dapH_2			
+PAMNMELI_00769	CDS	603	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PAMNMELI_00770	gene	678	dapH_3			
+PAMNMELI_00770	CDS	678	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PAMNMELI_00771	gene	108				
+PAMNMELI_00771	CDS	108				hypothetical protein
+PAMNMELI_00772	gene	1200				
+PAMNMELI_00772	CDS	1200				hypothetical protein
+PAMNMELI_00773	gene	1134				
+PAMNMELI_00773	CDS	1134				hypothetical protein
+PAMNMELI_00774	gene	1164				
+PAMNMELI_00774	CDS	1164				hypothetical protein
+PAMNMELI_00775	gene	1095	algA			
+PAMNMELI_00775	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+PAMNMELI_00776	gene	83				
+PAMNMELI_00776	tRNA	83				tRNA-Leu(caa)
+PAMNMELI_00777	gene	624				
+PAMNMELI_00777	CDS	624				hypothetical protein
+PAMNMELI_00778	gene	4182	cas9			
+PAMNMELI_00778	CDS	4182	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+PAMNMELI_00779	gene	933	cas1			
+PAMNMELI_00779	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+PAMNMELI_00780	gene	306	cas2			
+PAMNMELI_00780	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+	repeat_region	1354				
+PAMNMELI_00781	gene	975				
+PAMNMELI_00781	CDS	975				hypothetical protein
+PAMNMELI_00782	gene	1458	egtB			
+PAMNMELI_00782	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+PAMNMELI_00783	gene	816				
+PAMNMELI_00783	CDS	816				hypothetical protein
+PAMNMELI_00784	gene	1557				
+PAMNMELI_00784	CDS	1557				hypothetical protein
+PAMNMELI_00785	gene	1026				
+PAMNMELI_00785	CDS	1026				hypothetical protein
+PAMNMELI_00786	gene	600				
+PAMNMELI_00786	CDS	600				hypothetical protein
+PAMNMELI_00787	gene	597				
+PAMNMELI_00787	CDS	597				hypothetical protein
+PAMNMELI_00788	gene	984	menF_1			
+PAMNMELI_00788	CDS	984	menF_1	5.4.4.2		Isochorismate synthase MenF
+PAMNMELI_00789	gene	90				
+PAMNMELI_00789	CDS	90				hypothetical protein
+PAMNMELI_00790	gene	2271	priA			
+PAMNMELI_00790	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+PAMNMELI_00791	gene	900				
+PAMNMELI_00791	CDS	900				hypothetical protein
+PAMNMELI_00792	gene	1485				
+PAMNMELI_00792	CDS	1485				hypothetical protein
+PAMNMELI_00793	gene	2055	rny_1			
+PAMNMELI_00793	CDS	2055	rny_1	3.1.-.-		Ribonuclease Y
+PAMNMELI_00794	gene	1536	gltX			
+PAMNMELI_00794	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+PAMNMELI_00795	gene	1260	waaA			
+PAMNMELI_00795	CDS	1260	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+PAMNMELI_00796	gene	936	eamA			
+PAMNMELI_00796	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+PAMNMELI_00797	gene	1788	ftsH_2			
+PAMNMELI_00797	CDS	1788	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+PAMNMELI_00798	gene	387				
+PAMNMELI_00798	CDS	387				hypothetical protein
+PAMNMELI_00799	gene	1377	argS			
+PAMNMELI_00799	CDS	1377	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+PAMNMELI_00800	gene	102				
+PAMNMELI_00800	CDS	102				hypothetical protein
+PAMNMELI_00801	gene	279				
+PAMNMELI_00801	CDS	279				hypothetical protein
+PAMNMELI_00802	gene	921				
+PAMNMELI_00802	CDS	921				hypothetical protein
+PAMNMELI_00803	gene	72				
+PAMNMELI_00803	tRNA	72				tRNA-Gln(ttg)
+PAMNMELI_00804	gene	243				
+PAMNMELI_00804	CDS	243				hypothetical protein
+PAMNMELI_00805	gene	2703	rcsC_2			
+PAMNMELI_00805	CDS	2703	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+PAMNMELI_00806	gene	432				
+PAMNMELI_00806	CDS	432				hypothetical protein
+PAMNMELI_00807	gene	381				
+PAMNMELI_00807	CDS	381				hypothetical protein
+PAMNMELI_00808	gene	339				
+PAMNMELI_00808	CDS	339				hypothetical protein
+PAMNMELI_00809	gene	126				
+PAMNMELI_00809	CDS	126				hypothetical protein
+PAMNMELI_00810	gene	1668	udk_2			
+PAMNMELI_00810	CDS	1668	udk_2	2.7.1.48		Uridine kinase
+PAMNMELI_00811	gene	1722				
+PAMNMELI_00811	CDS	1722				hypothetical protein
+PAMNMELI_00812	gene	1050	btuB_3			
+PAMNMELI_00812	CDS	1050	btuB_3			Vitamin B12 transporter BtuB
+PAMNMELI_00813	gene	237				
+PAMNMELI_00813	CDS	237				hypothetical protein
+PAMNMELI_00814	gene	6564				
+PAMNMELI_00814	CDS	6564				hypothetical protein
+PAMNMELI_00815	gene	345				
+PAMNMELI_00815	CDS	345				hypothetical protein
+PAMNMELI_00816	gene	1173				
+PAMNMELI_00816	CDS	1173				hypothetical protein
+PAMNMELI_00817	gene	1005	hmuU_2			
+PAMNMELI_00817	CDS	1005	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+PAMNMELI_00818	gene	894	prmB			
+PAMNMELI_00818	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+PAMNMELI_00819	gene	507	recX			
+PAMNMELI_00819	CDS	507	recX			Regulatory protein RecX
+PAMNMELI_00820	gene	1287				
+PAMNMELI_00820	CDS	1287				hypothetical protein
+PAMNMELI_00821	gene	471				
+PAMNMELI_00821	CDS	471				hypothetical protein
+PAMNMELI_00822	gene	1794				
+PAMNMELI_00822	CDS	1794				hypothetical protein
+PAMNMELI_00823	gene	852				
+PAMNMELI_00823	CDS	852				hypothetical protein
+PAMNMELI_00824	gene	624	pyrE			
+PAMNMELI_00824	CDS	624	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+PAMNMELI_00825	gene	423				
+PAMNMELI_00825	CDS	423				hypothetical protein
+PAMNMELI_00826	gene	576				
+PAMNMELI_00826	CDS	576				hypothetical protein
+PAMNMELI_00827	gene	87				
+PAMNMELI_00827	tRNA	87				tRNA-Leu(taa)
+PAMNMELI_00828	gene	1005				
+PAMNMELI_00828	CDS	1005				hypothetical protein
+PAMNMELI_00829	gene	696				
+PAMNMELI_00829	CDS	696				hypothetical protein
+PAMNMELI_00830	gene	459	rnhA			
+PAMNMELI_00830	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+PAMNMELI_00831	gene	477				
+PAMNMELI_00831	CDS	477				hypothetical protein
+PAMNMELI_00832	gene	681				
+PAMNMELI_00832	CDS	681				hypothetical protein
+PAMNMELI_00833	gene	831				
+PAMNMELI_00833	CDS	831				hypothetical protein
+PAMNMELI_00834	gene	558	trmH			
+PAMNMELI_00834	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+PAMNMELI_00835	gene	429	csdE			
+PAMNMELI_00835	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+PAMNMELI_00836	gene	1299				
+PAMNMELI_00836	CDS	1299				hypothetical protein
+PAMNMELI_00837	gene	912	xerD_2			
+PAMNMELI_00837	CDS	912	xerD_2			Tyrosine recombinase XerD
+PAMNMELI_00838	gene	1359	miaB			
+PAMNMELI_00838	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PAMNMELI_00839	gene	2886				
+PAMNMELI_00839	CDS	2886				hypothetical protein
+PAMNMELI_00840	gene	669				
+PAMNMELI_00840	CDS	669				hypothetical protein
+PAMNMELI_00841	gene	231				
+PAMNMELI_00841	CDS	231				hypothetical protein
+PAMNMELI_00842	gene	5739				
+PAMNMELI_00842	CDS	5739				hypothetical protein
+PAMNMELI_00843	gene	1335	sufS			
+PAMNMELI_00843	CDS	1335	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+PAMNMELI_00844	gene	471				
+PAMNMELI_00844	CDS	471				hypothetical protein
+PAMNMELI_00845	gene	465	sigE			
+PAMNMELI_00845	CDS	465	sigE		COG1595	ECF RNA polymerase sigma factor SigE
+PAMNMELI_00846	gene	549				
+PAMNMELI_00846	CDS	549				hypothetical protein
+PAMNMELI_00847	gene	450				
+PAMNMELI_00847	CDS	450				hypothetical protein
+PAMNMELI_00848	gene	73				
+PAMNMELI_00848	tRNA	73				tRNA-Arg(cct)
+PAMNMELI_00849	gene	2112	metG			
+PAMNMELI_00849	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+PAMNMELI_00850	gene	471				
+PAMNMELI_00850	CDS	471				hypothetical protein
+PAMNMELI_00851	gene	1071				
+PAMNMELI_00851	CDS	1071				hypothetical protein
+PAMNMELI_00852	gene	2085				
+PAMNMELI_00852	CDS	2085				hypothetical protein
+PAMNMELI_00853	gene	2871				
+PAMNMELI_00853	CDS	2871				hypothetical protein
+PAMNMELI_00854	gene	1023				
+PAMNMELI_00854	CDS	1023				hypothetical protein
+PAMNMELI_00855	gene	606	rnhB			
+PAMNMELI_00855	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+PAMNMELI_00856	gene	291				
+PAMNMELI_00856	CDS	291				hypothetical protein
+PAMNMELI_00857	gene	3327				
+PAMNMELI_00857	CDS	3327				TonB-dependent receptor P26
+PAMNMELI_00858	gene	1566				
+PAMNMELI_00858	CDS	1566				hypothetical protein
+PAMNMELI_00859	gene	936				
+PAMNMELI_00859	CDS	936				hypothetical protein
+PAMNMELI_00860	gene	1356				
+PAMNMELI_00860	CDS	1356				hypothetical protein
+PAMNMELI_00861	gene	1179				
+PAMNMELI_00861	CDS	1179				hypothetical protein
+PAMNMELI_00862	gene	129				
+PAMNMELI_00862	CDS	129				hypothetical protein
+PAMNMELI_00863	gene	1734				
+PAMNMELI_00863	CDS	1734				hypothetical protein
+PAMNMELI_00864	gene	75				
+PAMNMELI_00864	tRNA	75				tRNA-Asn(gtt)
+PAMNMELI_00865	gene	1896				
+PAMNMELI_00865	CDS	1896				hypothetical protein
+PAMNMELI_00866	gene	747				
+PAMNMELI_00866	CDS	747				hypothetical protein
+PAMNMELI_00867	gene	753				
+PAMNMELI_00867	CDS	753				hypothetical protein
+PAMNMELI_00868	gene	726	mhqN			
+PAMNMELI_00868	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+PAMNMELI_00869	gene	1419	aspA			
+PAMNMELI_00869	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+PAMNMELI_00870	gene	639				
+PAMNMELI_00870	CDS	639				hypothetical protein
+PAMNMELI_00871	gene	786				
+PAMNMELI_00871	CDS	786				hypothetical protein
+PAMNMELI_00872	gene	1659				
+PAMNMELI_00872	CDS	1659				hypothetical protein
+PAMNMELI_00873	gene	486	resA_5			
+PAMNMELI_00873	CDS	486	resA_5			Thiol-disulfide oxidoreductase ResA
+PAMNMELI_00874	gene	693				
+PAMNMELI_00874	CDS	693				hypothetical protein
+PAMNMELI_00875	gene	75				
+PAMNMELI_00875	tRNA	75				tRNA-Met(cat)
+PAMNMELI_00876	gene	441				
+PAMNMELI_00876	CDS	441				hypothetical protein
+PAMNMELI_00877	gene	546				
+PAMNMELI_00877	CDS	546				hypothetical protein
+PAMNMELI_00878	gene	1164				
+PAMNMELI_00878	CDS	1164				hypothetical protein
+PAMNMELI_00879	gene	969	msrA			
+PAMNMELI_00879	CDS	969	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+PAMNMELI_00880	gene	74				
+PAMNMELI_00880	tRNA	74				tRNA-Lys(ctt)
+PAMNMELI_00881	gene	654	rbr			
+PAMNMELI_00881	CDS	654	rbr		COG1592	Rubrerythrin
+PAMNMELI_00882	gene	90				
+PAMNMELI_00882	CDS	90				hypothetical protein
+PAMNMELI_00883	gene	531				
+PAMNMELI_00883	CDS	531				hypothetical protein
+PAMNMELI_00884	gene	579				
+PAMNMELI_00884	CDS	579		2.3.1.-	COG1670	Acetyltransferase
+PAMNMELI_00885	gene	303				
+PAMNMELI_00885	CDS	303				hypothetical protein
+PAMNMELI_00886	gene	1986	rho			
+PAMNMELI_00886	CDS	1986	rho	3.6.4.-		Transcription termination factor Rho
+PAMNMELI_00887	gene	540				
+PAMNMELI_00887	CDS	540				hypothetical protein
+PAMNMELI_00888	gene	2061	btuB_4			
+PAMNMELI_00888	CDS	2061	btuB_4			Vitamin B12 transporter BtuB
+PAMNMELI_00889	gene	1026	ansA			
+PAMNMELI_00889	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+PAMNMELI_00890	gene	1470	degQ			
+PAMNMELI_00890	CDS	1470	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+PAMNMELI_00891	gene	525	pncC			
+PAMNMELI_00891	CDS	525	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+PAMNMELI_00892	gene	1026	tsaD			
+PAMNMELI_00892	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+PAMNMELI_00893	gene	855	map_1			
+PAMNMELI_00893	CDS	855	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+PAMNMELI_00894	gene	405				
+PAMNMELI_00894	CDS	405				hypothetical protein
+PAMNMELI_00895	gene	480	smpB			
+PAMNMELI_00895	CDS	480	smpB		COG0691	SsrA-binding protein
+PAMNMELI_00896	gene	504				
+PAMNMELI_00896	CDS	504				hypothetical protein
+PAMNMELI_00897	gene	1254				
+PAMNMELI_00897	CDS	1254				hypothetical protein
+PAMNMELI_00898	gene	1209				
+PAMNMELI_00898	CDS	1209				hypothetical protein
+PAMNMELI_00899	gene	1170				
+PAMNMELI_00899	CDS	1170				hypothetical protein
+PAMNMELI_00900	gene	2676	gyrA			
+PAMNMELI_00900	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+PAMNMELI_00901	gene	891				
+PAMNMELI_00901	CDS	891				hypothetical protein
+PAMNMELI_00902	gene	1941	nadE			
+PAMNMELI_00902	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+PAMNMELI_00903	gene	1236	queA_2			
+PAMNMELI_00903	CDS	1236	queA_2	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PAMNMELI_00904	gene	687				
+PAMNMELI_00904	CDS	687				hypothetical protein
+PAMNMELI_00905	gene	2562				
+PAMNMELI_00905	CDS	2562				hypothetical protein
+PAMNMELI_00906	gene	693				
+PAMNMELI_00906	CDS	693				hypothetical protein
+PAMNMELI_00907	gene	1029				
+PAMNMELI_00907	CDS	1029				hypothetical protein
+PAMNMELI_00908	gene	999				
+PAMNMELI_00908	CDS	999				hypothetical protein
+PAMNMELI_00909	gene	1107				
+PAMNMELI_00909	CDS	1107				hypothetical protein
+PAMNMELI_00910	gene	870				
+PAMNMELI_00910	CDS	870				hypothetical protein
+PAMNMELI_00911	gene	996				
+PAMNMELI_00911	CDS	996				hypothetical protein
+PAMNMELI_00912	gene	1374	ihfA			
+PAMNMELI_00912	CDS	1374	ihfA			Integration host factor subunit alpha
+PAMNMELI_00913	gene	294	hup_2			
+PAMNMELI_00913	CDS	294	hup_2			DNA-binding protein HU
+PAMNMELI_00914	gene	1317	rimO			
+PAMNMELI_00914	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+PAMNMELI_00915	gene	957	ftsY			
+PAMNMELI_00915	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+PAMNMELI_00916	gene	159				
+PAMNMELI_00916	CDS	159				hypothetical protein
+PAMNMELI_00917	gene	189	rpmG2			
+PAMNMELI_00917	CDS	189	rpmG2			50S ribosomal protein L33 2
+PAMNMELI_00918	gene	264	rpmB			
+PAMNMELI_00918	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+PAMNMELI_00919	gene	1416				
+PAMNMELI_00919	CDS	1416				hypothetical protein
+PAMNMELI_00920	gene	144				
+PAMNMELI_00920	CDS	144				hypothetical protein
+PAMNMELI_00921	gene	1593	nadB			
+PAMNMELI_00921	CDS	1593	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+PAMNMELI_00922	gene	1713				
+PAMNMELI_00922	CDS	1713				hypothetical protein
+PAMNMELI_00923	gene	2007	hutU			
+PAMNMELI_00923	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+PAMNMELI_00924	gene	1476	hutH			
+PAMNMELI_00924	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+PAMNMELI_00925	gene	1251	hutI			
+PAMNMELI_00925	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+PAMNMELI_00926	gene	339				
+PAMNMELI_00926	CDS	339				hypothetical protein
+PAMNMELI_00927	gene	966	queG			
+PAMNMELI_00927	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+PAMNMELI_00928	gene	612				
+PAMNMELI_00928	CDS	612		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+PAMNMELI_00929	gene	3336				
+PAMNMELI_00929	CDS	3336				hypothetical protein
+PAMNMELI_00930	gene	408	yqaA			
+PAMNMELI_00930	CDS	408	yqaA		COG1238	Inner membrane protein YqaA
+PAMNMELI_00931	gene	951				
+PAMNMELI_00931	CDS	951				hypothetical protein
+PAMNMELI_00932	gene	1389	purD			
+PAMNMELI_00932	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+PAMNMELI_00933	gene	2901	addB			
+PAMNMELI_00933	CDS	2901	addB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+PAMNMELI_00934	gene	3246	recB			
+PAMNMELI_00934	CDS	3246	recB	3.1.11.5		RecBCD enzyme subunit RecB
+PAMNMELI_00935	gene	1620				
+PAMNMELI_00935	CDS	1620				hypothetical protein
+PAMNMELI_00936	gene	2169	dpp5			
+PAMNMELI_00936	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+PAMNMELI_00937	gene	1902	yidC			
+PAMNMELI_00937	CDS	1902	yidC			Membrane protein insertase YidC
+PAMNMELI_00938	gene	1245				
+PAMNMELI_00938	CDS	1245				hypothetical protein
+PAMNMELI_00939	gene	384				
+PAMNMELI_00939	CDS	384				hypothetical protein
+PAMNMELI_00940	gene	1818	aspS			
+PAMNMELI_00940	CDS	1818	aspS	6.1.1.12		Aspartate--tRNA ligase
+PAMNMELI_00941	gene	303				
+PAMNMELI_00941	CDS	303				hypothetical protein
+PAMNMELI_00942	gene	420				
+PAMNMELI_00942	CDS	420				hypothetical protein
+PAMNMELI_00943	gene	819	menB			
+PAMNMELI_00943	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+PAMNMELI_00944	gene	1047	menC			
+PAMNMELI_00944	CDS	1047	menC	4.2.1.113		o-succinylbenzoate synthase
+PAMNMELI_00945	gene	375				
+PAMNMELI_00945	CDS	375				hypothetical protein
+PAMNMELI_00946	gene	792	rlmB_1			
+PAMNMELI_00946	CDS	792	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+PAMNMELI_00947	gene	801	rlmB_2			
+PAMNMELI_00947	CDS	801	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+PAMNMELI_00948	gene	630				
+PAMNMELI_00948	CDS	630				hypothetical protein
+PAMNMELI_00949	gene	372	flK			
+PAMNMELI_00949	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+PAMNMELI_00950	gene	1866	icmF			
+PAMNMELI_00950	CDS	1866	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+PAMNMELI_00951	gene	2166	mutB			
+PAMNMELI_00951	CDS	2166	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+PAMNMELI_00952	gene	549				
+PAMNMELI_00952	CDS	549				hypothetical protein
+PAMNMELI_00953	gene	642				
+PAMNMELI_00953	CDS	642				hypothetical protein
+PAMNMELI_00954	gene	903	menA			
+PAMNMELI_00954	CDS	903	menA	2.5.1.74		1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PAMNMELI_00955	gene	2280				
+PAMNMELI_00955	CDS	2280				hypothetical protein
+PAMNMELI_00956	gene	255				
+PAMNMELI_00956	CDS	255				hypothetical protein
+PAMNMELI_00957	gene	2040	uvrB			
+PAMNMELI_00957	CDS	2040	uvrB		COG0556	UvrABC system protein B
+PAMNMELI_00958	gene	2460				
+PAMNMELI_00958	CDS	2460				hypothetical protein
+PAMNMELI_00959	gene	897	bamD			
+PAMNMELI_00959	CDS	897	bamD			Outer membrane protein assembly factor BamD
+PAMNMELI_00960	gene	351				
+PAMNMELI_00960	CDS	351				hypothetical protein
+PAMNMELI_00961	gene	471				
+PAMNMELI_00961	CDS	471				hypothetical protein
+PAMNMELI_00962	gene	567				
+PAMNMELI_00962	CDS	567				hypothetical protein
+PAMNMELI_00963	gene	237				
+PAMNMELI_00963	CDS	237				hypothetical protein
+PAMNMELI_00964	gene	477	ribH			
+PAMNMELI_00964	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+PAMNMELI_00965	gene	741				
+PAMNMELI_00965	CDS	741				hypothetical protein
+PAMNMELI_00966	gene	1095	recF			
+PAMNMELI_00966	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+PAMNMELI_00967	gene	291				
+PAMNMELI_00967	CDS	291				hypothetical protein
+PAMNMELI_00968	gene	498				
+PAMNMELI_00968	CDS	498		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+PAMNMELI_00969	gene	1725				
+PAMNMELI_00969	CDS	1725				hypothetical protein
+PAMNMELI_00970	gene	444	tadA_2			
+PAMNMELI_00970	CDS	444	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+PAMNMELI_00971	gene	2094	prlC			
+PAMNMELI_00971	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+PAMNMELI_00972	gene	603				
+PAMNMELI_00972	CDS	603				hypothetical protein
+PAMNMELI_00973	gene	942	apbE			
+PAMNMELI_00973	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+PAMNMELI_00974	gene	681				
+PAMNMELI_00974	CDS	681				hypothetical protein
+PAMNMELI_00975	gene	486				
+PAMNMELI_00975	CDS	486				hypothetical protein
+PAMNMELI_00976	gene	951	rgtE			
+PAMNMELI_00976	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+PAMNMELI_00977	gene	579				
+PAMNMELI_00977	CDS	579				hypothetical protein
+PAMNMELI_00978	gene	633				
+PAMNMELI_00978	CDS	633				hypothetical protein
+PAMNMELI_00979	gene	519				
+PAMNMELI_00979	CDS	519				hypothetical protein
+PAMNMELI_00980	gene	126				
+PAMNMELI_00980	CDS	126				hypothetical protein
+PAMNMELI_00981	gene	117				
+PAMNMELI_00981	CDS	117				hypothetical protein
+PAMNMELI_00982	gene	1182	bdhA			
+PAMNMELI_00982	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+PAMNMELI_00983	gene	678				
+PAMNMELI_00983	CDS	678				hypothetical protein
+PAMNMELI_00984	gene	351	ndhC			
+PAMNMELI_00984	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+PAMNMELI_00985	gene	750	ndhK			
+PAMNMELI_00985	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+PAMNMELI_00986	gene	1563	nuoC			
+PAMNMELI_00986	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+PAMNMELI_00987	gene	1089	nuoH			
+PAMNMELI_00987	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+PAMNMELI_00988	gene	534	nuoI			
+PAMNMELI_00988	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+PAMNMELI_00989	gene	513				
+PAMNMELI_00989	CDS	513				hypothetical protein
+PAMNMELI_00990	gene	312	nuoK			
+PAMNMELI_00990	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+PAMNMELI_00991	gene	1989	nuoL			
+PAMNMELI_00991	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+PAMNMELI_00992	gene	1500	ndhD1			
+PAMNMELI_00992	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+PAMNMELI_00993	gene	1437	ndhB			
+PAMNMELI_00993	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+PAMNMELI_00994	gene	774				
+PAMNMELI_00994	CDS	774				hypothetical protein
+PAMNMELI_00995	gene	846				
+PAMNMELI_00995	CDS	846				hypothetical protein
+PAMNMELI_00996	gene	1974				
+PAMNMELI_00996	CDS	1974				hypothetical protein
+PAMNMELI_00997	gene	792				
+PAMNMELI_00997	CDS	792				hypothetical protein
+PAMNMELI_00998	gene	939				
+PAMNMELI_00998	CDS	939				hypothetical protein
+PAMNMELI_00999	gene	1563				
+PAMNMELI_00999	CDS	1563				hypothetical protein
+PAMNMELI_01000	gene	444				
+PAMNMELI_01000	CDS	444				hypothetical protein
+PAMNMELI_01001	gene	1545				
+PAMNMELI_01001	CDS	1545				hypothetical protein
+PAMNMELI_01002	gene	3537				
+PAMNMELI_01002	CDS	3537				hypothetical protein
+PAMNMELI_01003	gene	672				
+PAMNMELI_01003	CDS	672				hypothetical protein
+PAMNMELI_01004	gene	519				
+PAMNMELI_01004	CDS	519				hypothetical protein
+PAMNMELI_01005	gene	885				
+PAMNMELI_01005	CDS	885				hypothetical protein
+PAMNMELI_01006	gene	1008				
+PAMNMELI_01006	CDS	1008				hypothetical protein
+PAMNMELI_01007	gene	627	trmR			
+PAMNMELI_01007	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+PAMNMELI_01008	gene	420	aroQ1			
+PAMNMELI_01008	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+PAMNMELI_01009	gene	786				
+PAMNMELI_01009	CDS	786				hypothetical protein
+PAMNMELI_01010	gene	2049	bepA_3			
+PAMNMELI_01010	CDS	2049	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+PAMNMELI_01011	gene	1419				
+PAMNMELI_01011	CDS	1419				hypothetical protein
+PAMNMELI_01012	gene	705				
+PAMNMELI_01012	CDS	705				hypothetical protein
+PAMNMELI_01013	gene	750	ispU			
+PAMNMELI_01013	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+PAMNMELI_01014	gene	2616	bamA_1			
+PAMNMELI_01014	CDS	2616	bamA_1			Outer membrane protein assembly factor BamA
+PAMNMELI_01015	gene	513				
+PAMNMELI_01015	CDS	513				hypothetical protein
+PAMNMELI_01016	gene	501	skp			
+PAMNMELI_01016	CDS	501	skp		COG2825	Chaperone protein Skp
+PAMNMELI_01017	gene	513				
+PAMNMELI_01017	CDS	513				hypothetical protein
+PAMNMELI_01018	gene	843	murI			
+PAMNMELI_01018	CDS	843	murI	5.1.1.3		Glutamate racemase
+PAMNMELI_01019	gene	2613				
+PAMNMELI_01019	CDS	2613				hypothetical protein
+PAMNMELI_01020	gene	594				
+PAMNMELI_01020	CDS	594				hypothetical protein
+PAMNMELI_01021	gene	1560				
+PAMNMELI_01021	CDS	1560				hypothetical protein
+PAMNMELI_01022	gene	1968				
+PAMNMELI_01022	CDS	1968				hypothetical protein
+PAMNMELI_01023	gene	807				
+PAMNMELI_01023	CDS	807				hypothetical protein
+PAMNMELI_01024	gene	1020	lpxL			
+PAMNMELI_01024	CDS	1020	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+PAMNMELI_01025	gene	987	ykoT			
+PAMNMELI_01025	CDS	987	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+PAMNMELI_01026	gene	1674	aspT_1			
+PAMNMELI_01026	CDS	1674	aspT_1			Aspartate/alanine antiporter
+PAMNMELI_01027	gene	1374	tpl			
+PAMNMELI_01027	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+PAMNMELI_01028	gene	276				
+PAMNMELI_01028	CDS	276				hypothetical protein
+PAMNMELI_01029	gene	2361				
+PAMNMELI_01029	CDS	2361				hypothetical protein
+PAMNMELI_01030	gene	471				
+PAMNMELI_01030	CDS	471				hypothetical protein
+PAMNMELI_01031	gene	1431	apxIB			
+PAMNMELI_01031	CDS	1431	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+PAMNMELI_01032	gene	231				
+PAMNMELI_01032	CDS	231				hypothetical protein
+PAMNMELI_01033	gene	468				
+PAMNMELI_01033	CDS	468				hypothetical protein
+PAMNMELI_01034	gene	2115				
+PAMNMELI_01034	CDS	2115				hypothetical protein
+PAMNMELI_01035	gene	102				
+PAMNMELI_01035	CDS	102				hypothetical protein
+PAMNMELI_01036	gene	450				
+PAMNMELI_01036	CDS	450				hypothetical protein
+PAMNMELI_01037	gene	786	tcdA			
+PAMNMELI_01037	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+PAMNMELI_01038	gene	558				
+PAMNMELI_01038	CDS	558				hypothetical protein
+PAMNMELI_01039	gene	1230				
+PAMNMELI_01039	CDS	1230				hypothetical protein
+PAMNMELI_01040	gene	4773				
+PAMNMELI_01040	CDS	4773				hypothetical protein
+PAMNMELI_01041	gene	1911				
+PAMNMELI_01041	CDS	1911				hypothetical protein
+PAMNMELI_01042	gene	3534				
+PAMNMELI_01042	CDS	3534				hypothetical protein
+PAMNMELI_01043	gene	1395				
+PAMNMELI_01043	CDS	1395				hypothetical protein
+PAMNMELI_01044	gene	3273	rapA			
+PAMNMELI_01044	CDS	3273	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+PAMNMELI_01045	gene	291				
+PAMNMELI_01045	CDS	291				hypothetical protein
+PAMNMELI_01046	gene	651				
+PAMNMELI_01046	CDS	651				hypothetical protein
+PAMNMELI_01047	gene	843				
+PAMNMELI_01047	CDS	843				hypothetical protein
+PAMNMELI_01048	gene	948				
+PAMNMELI_01048	CDS	948				hypothetical protein
+PAMNMELI_01049	gene	1038	wbbI			
+PAMNMELI_01049	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+PAMNMELI_01050	gene	726				
+PAMNMELI_01050	CDS	726				hypothetical protein
+PAMNMELI_01051	gene	717				
+PAMNMELI_01051	CDS	717				hypothetical protein
+PAMNMELI_01052	gene	2127	dpp7			
+PAMNMELI_01052	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+PAMNMELI_01053	gene	1473				
+PAMNMELI_01053	CDS	1473				hypothetical protein
+PAMNMELI_01054	gene	1233				
+PAMNMELI_01054	CDS	1233				hypothetical protein
+PAMNMELI_01055	gene	1029				
+PAMNMELI_01055	CDS	1029				hypothetical protein
+PAMNMELI_01056	gene	1755				
+PAMNMELI_01056	CDS	1755				hypothetical protein
+PAMNMELI_01057	gene	468	asnC_2			
+PAMNMELI_01057	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+PAMNMELI_01058	gene	912				
+PAMNMELI_01058	CDS	912				hypothetical protein
+PAMNMELI_01059	gene	879				
+PAMNMELI_01059	CDS	879				hypothetical protein
+PAMNMELI_01060	gene	606	fklB			
+PAMNMELI_01060	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+PAMNMELI_01061	gene	192				
+PAMNMELI_01061	CDS	192				hypothetical protein
+PAMNMELI_01062	gene	1446				
+PAMNMELI_01062	CDS	1446				hypothetical protein
+PAMNMELI_01063	gene	696	pal_1			
+PAMNMELI_01063	CDS	696	pal_1			Peptidoglycan-associated lipoprotein
+PAMNMELI_01064	gene	1482	proS			
+PAMNMELI_01064	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+PAMNMELI_01065	gene	222				
+PAMNMELI_01065	CDS	222				hypothetical protein
+PAMNMELI_01066	gene	903				
+PAMNMELI_01066	CDS	903				hypothetical protein
+PAMNMELI_01067	gene	633	lspA			
+PAMNMELI_01067	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+PAMNMELI_01068	gene	381	dksA			
+PAMNMELI_01068	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+PAMNMELI_01069	gene	3585	ileS			
+PAMNMELI_01069	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+PAMNMELI_01070	gene	408				
+PAMNMELI_01070	CDS	408				hypothetical protein
+PAMNMELI_01071	gene	1623				
+PAMNMELI_01071	CDS	1623				hypothetical protein
+PAMNMELI_01072	gene	1023				
+PAMNMELI_01072	CDS	1023				hypothetical protein
+PAMNMELI_01073	gene	882	prmC			
+PAMNMELI_01073	CDS	882	prmC	2.1.1.297		Release factor glutamine methyltransferase
+PAMNMELI_01074	gene	804				
+PAMNMELI_01074	CDS	804				hypothetical protein
+PAMNMELI_01075	gene	1641	pfp			
+PAMNMELI_01075	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+PAMNMELI_01076	gene	273				
+PAMNMELI_01076	CDS	273				hypothetical protein
+PAMNMELI_01077	gene	555				
+PAMNMELI_01077	CDS	555				hypothetical protein
+PAMNMELI_01078	gene	2589				
+PAMNMELI_01078	CDS	2589				hypothetical protein
+PAMNMELI_01079	gene	306				
+PAMNMELI_01079	CDS	306				hypothetical protein
+PAMNMELI_01080	gene	1827				
+PAMNMELI_01080	CDS	1827				hypothetical protein
+PAMNMELI_01081	gene	1068				
+PAMNMELI_01081	CDS	1068				hypothetical protein
+PAMNMELI_01082	gene	402	COQ3_1			
+PAMNMELI_01082	CDS	402	COQ3_1	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+PAMNMELI_01083	gene	384				
+PAMNMELI_01083	CDS	384				hypothetical protein
+PAMNMELI_01084	gene	228				
+PAMNMELI_01084	CDS	228				hypothetical protein
+PAMNMELI_01085	gene	174				
+PAMNMELI_01085	CDS	174				hypothetical protein
+PAMNMELI_01086	gene	657	gpx1_2			
+PAMNMELI_01086	CDS	657	gpx1_2	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+PAMNMELI_01087	gene	450				
+PAMNMELI_01087	CDS	450				hypothetical protein
+PAMNMELI_01088	gene	1716	aspT_2			
+PAMNMELI_01088	CDS	1716	aspT_2			Aspartate/alanine antiporter
+PAMNMELI_01089	gene	957				
+PAMNMELI_01089	CDS	957				hypothetical protein
+PAMNMELI_01090	gene	450				
+PAMNMELI_01090	CDS	450				hypothetical protein
+PAMNMELI_01091	gene	1158	gcdB			
+PAMNMELI_01091	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+PAMNMELI_01092	gene	585	malT			
+PAMNMELI_01092	CDS	585	malT			HTH-type transcriptional regulator MalT
+PAMNMELI_01093	gene	957				
+PAMNMELI_01093	CDS	957				hypothetical protein
+PAMNMELI_01094	gene	1533	rny_2			
+PAMNMELI_01094	CDS	1533	rny_2	3.1.-.-	COG1418	Ribonuclease Y
+PAMNMELI_01095	gene	345				
+PAMNMELI_01095	CDS	345				hypothetical protein
+PAMNMELI_01096	gene	300				
+PAMNMELI_01096	CDS	300				hypothetical protein
+PAMNMELI_01097	gene	624				
+PAMNMELI_01097	CDS	624				hypothetical protein
+PAMNMELI_01098	gene	876	rmlA			
+PAMNMELI_01098	CDS	876	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+PAMNMELI_01099	gene	2484				
+PAMNMELI_01099	CDS	2484				hypothetical protein
+PAMNMELI_01100	gene	3306	carB			
+PAMNMELI_01100	CDS	3306	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+PAMNMELI_01101	gene	744				
+PAMNMELI_01101	CDS	744				hypothetical protein
+PAMNMELI_01102	gene	1377				
+PAMNMELI_01102	CDS	1377				hypothetical protein
+PAMNMELI_01103	gene	2016				
+PAMNMELI_01103	CDS	2016				hypothetical protein
+PAMNMELI_01104	gene	741				
+PAMNMELI_01104	CDS	741				hypothetical protein
+PAMNMELI_01105	gene	1686				
+PAMNMELI_01105	CDS	1686				hypothetical protein
+PAMNMELI_01106	gene	678	walR			
+PAMNMELI_01106	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+PAMNMELI_01107	gene	768				
+PAMNMELI_01107	CDS	768				hypothetical protein
+PAMNMELI_01108	gene	1098	apbC			
+PAMNMELI_01108	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+PAMNMELI_01109	gene	2103	dxs			
+PAMNMELI_01109	CDS	2103	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+PAMNMELI_01110	gene	1353	trkA			
+PAMNMELI_01110	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+PAMNMELI_01111	gene	1458	trkH			
+PAMNMELI_01111	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+PAMNMELI_01112	gene	963	manA			
+PAMNMELI_01112	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+PAMNMELI_01113	gene	1143	cydB			
+PAMNMELI_01113	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+PAMNMELI_01114	gene	1566	cydA			
+PAMNMELI_01114	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+PAMNMELI_01115	gene	216				
+PAMNMELI_01115	CDS	216				hypothetical protein
+PAMNMELI_01116	gene	873				
+PAMNMELI_01116	CDS	873				hypothetical protein
+PAMNMELI_01117	gene	1482				
+PAMNMELI_01117	CDS	1482				hypothetical protein
+PAMNMELI_01118	gene	987	emrA			
+PAMNMELI_01118	CDS	987	emrA			Colistin resistance protein EmrA
+PAMNMELI_01119	gene	1182				
+PAMNMELI_01119	CDS	1182				hypothetical protein
+PAMNMELI_01120	gene	1245				
+PAMNMELI_01120	CDS	1245				hypothetical protein
+PAMNMELI_01121	gene	1086				
+PAMNMELI_01121	CDS	1086				hypothetical protein
+PAMNMELI_01122	gene	2214				
+PAMNMELI_01122	CDS	2214				hypothetical protein
+PAMNMELI_01123	gene	774	trmB			
+PAMNMELI_01123	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+PAMNMELI_01124	gene	996				
+PAMNMELI_01124	CDS	996				hypothetical protein
+PAMNMELI_01125	gene	1167				
+PAMNMELI_01125	CDS	1167				hypothetical protein
+PAMNMELI_01126	gene	1911	dnaK			
+PAMNMELI_01126	CDS	1911	dnaK			Chaperone protein DnaK
+PAMNMELI_01127	gene	957				
+PAMNMELI_01127	CDS	957				hypothetical protein
+PAMNMELI_01128	gene	2013				
+PAMNMELI_01128	CDS	2013				hypothetical protein
+PAMNMELI_01129	gene	1290				
+PAMNMELI_01129	CDS	1290				hypothetical protein
+PAMNMELI_01130	gene	1836				
+PAMNMELI_01130	CDS	1836				hypothetical protein
+PAMNMELI_01131	gene	213				
+PAMNMELI_01131	CDS	213				hypothetical protein
+PAMNMELI_01132	gene	651				
+PAMNMELI_01132	CDS	651				hypothetical protein
+PAMNMELI_01133	gene	486				
+PAMNMELI_01133	CDS	486				hypothetical protein
+PAMNMELI_01134	gene	75				
+PAMNMELI_01134	tRNA	75				tRNA-Phe(gaa)
+PAMNMELI_01135	gene	570	tsaC			
+PAMNMELI_01135	CDS	570	tsaC	2.7.7.87	COG0009	Threonylcarbamoyl-AMP synthase
+PAMNMELI_01136	gene	1785	clcB			
+PAMNMELI_01136	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+PAMNMELI_01137	gene	963	fmt			
+PAMNMELI_01137	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+PAMNMELI_01138	gene	1038	menE			
+PAMNMELI_01138	CDS	1038	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+PAMNMELI_01139	gene	360				
+PAMNMELI_01139	CDS	360				hypothetical protein
+PAMNMELI_01140	gene	996	gpsA			
+PAMNMELI_01140	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PAMNMELI_01141	gene	1731	lysS			
+PAMNMELI_01141	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+PAMNMELI_01142	gene	717				
+PAMNMELI_01142	CDS	717		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+PAMNMELI_01143	gene	1722				
+PAMNMELI_01143	CDS	1722				hypothetical protein
+PAMNMELI_01144	gene	1479	cstA			
+PAMNMELI_01144	CDS	1479	cstA		COG1966	Peptide transporter CstA
+PAMNMELI_01145	gene	495				
+PAMNMELI_01145	CDS	495				hypothetical protein
+PAMNMELI_01146	gene	849	nadC			
+PAMNMELI_01146	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+PAMNMELI_01147	gene	1623				
+PAMNMELI_01147	CDS	1623				hypothetical protein
+PAMNMELI_01148	gene	1632	pepDA			
+PAMNMELI_01148	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+PAMNMELI_01149	gene	168				
+PAMNMELI_01149	CDS	168				hypothetical protein
+PAMNMELI_01150	gene	1254	mltF			
+PAMNMELI_01150	CDS	1254	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+PAMNMELI_01151	gene	459	pyrI			
+PAMNMELI_01151	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+PAMNMELI_01152	gene	948	pyrB			
+PAMNMELI_01152	CDS	948	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+PAMNMELI_01153	gene	2304	mrcA_1			
+PAMNMELI_01153	CDS	2304	mrcA_1		COG5009	Penicillin-binding protein 1A
+PAMNMELI_01154	gene	987				
+PAMNMELI_01154	CDS	987				hypothetical protein
+PAMNMELI_01155	gene	1059	rfbM			
+PAMNMELI_01155	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+PAMNMELI_01156	gene	1086	gmd			
+PAMNMELI_01156	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+PAMNMELI_01157	gene	1098	fcl_1			
+PAMNMELI_01157	CDS	1098	fcl_1	1.1.1.271	COG0451	GDP-L-fucose synthase
+PAMNMELI_01158	gene	1494				
+PAMNMELI_01158	CDS	1494				hypothetical protein
+PAMNMELI_01159	gene	609				
+PAMNMELI_01159	CDS	609				hypothetical protein
+PAMNMELI_01160	gene	2409				
+PAMNMELI_01160	CDS	2409				hypothetical protein
+PAMNMELI_01161	gene	621	rnd			
+PAMNMELI_01161	CDS	621	rnd	3.1.13.5		Ribonuclease D
+PAMNMELI_01162	gene	1182	rlmI			
+PAMNMELI_01162	CDS	1182	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+PAMNMELI_01163	gene	1332	tilS			
+PAMNMELI_01163	CDS	1332	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+PAMNMELI_01164	gene	762	lptB_2			
+PAMNMELI_01164	CDS	762	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+PAMNMELI_01165	gene	3348	secA			
+PAMNMELI_01165	CDS	3348	secA			Protein translocase subunit SecA
+PAMNMELI_01166	gene	1419	phoV			
+PAMNMELI_01166	CDS	1419	phoV	3.1.3.1		Alkaline phosphatase PhoV
+PAMNMELI_01167	gene	1197				
+PAMNMELI_01167	CDS	1197				hypothetical protein
+PAMNMELI_01168	gene	1410	rsmF			
+PAMNMELI_01168	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+PAMNMELI_01169	gene	777				
+PAMNMELI_01169	CDS	777				hypothetical protein
+PAMNMELI_01170	gene	186				
+PAMNMELI_01170	CDS	186				hypothetical protein
+PAMNMELI_01171	gene	543	algU			
+PAMNMELI_01171	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+PAMNMELI_01172	gene	360				
+PAMNMELI_01172	CDS	360				hypothetical protein
+PAMNMELI_01173	gene	2067	pal_2			
+PAMNMELI_01173	CDS	2067	pal_2			Peptidoglycan-associated lipoprotein
+PAMNMELI_01174	gene	114				
+PAMNMELI_01174	CDS	114				hypothetical protein
+PAMNMELI_01175	gene	519				
+PAMNMELI_01175	CDS	519				hypothetical protein
+PAMNMELI_01176	gene	981	glkA			
+PAMNMELI_01176	CDS	981	glkA	2.7.1.2		Glucokinase
+PAMNMELI_01177	gene	138				
+PAMNMELI_01177	CDS	138				hypothetical protein
+PAMNMELI_01178	gene	690				
+PAMNMELI_01178	CDS	690				hypothetical protein
+PAMNMELI_01179	gene	579				
+PAMNMELI_01179	CDS	579				hypothetical protein
+PAMNMELI_01180	gene	858	rmlD			
+PAMNMELI_01180	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+PAMNMELI_01181	gene	1593	prfC			
+PAMNMELI_01181	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+PAMNMELI_01182	gene	1038				
+PAMNMELI_01182	CDS	1038				hypothetical protein
+PAMNMELI_01183	gene	1932				
+PAMNMELI_01183	CDS	1932				hypothetical protein
+PAMNMELI_01184	gene	1296				
+PAMNMELI_01184	CDS	1296				hypothetical protein
+PAMNMELI_01185	gene	888				
+PAMNMELI_01185	CDS	888				hypothetical protein
+PAMNMELI_01186	gene	1476	rbbA			
+PAMNMELI_01186	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+PAMNMELI_01187	gene	1065	ybhS			
+PAMNMELI_01187	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+PAMNMELI_01188	gene	1104	ybhR			
+PAMNMELI_01188	CDS	1104	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+PAMNMELI_01189	gene	1404				
+PAMNMELI_01189	CDS	1404				hypothetical protein
+PAMNMELI_01190	gene	2640	rep_1			
+PAMNMELI_01190	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+PAMNMELI_01191	gene	1251	tdcG			
+PAMNMELI_01191	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+PAMNMELI_01192	gene	405				
+PAMNMELI_01192	CDS	405				hypothetical protein
+PAMNMELI_01193	gene	693	cmk			
+PAMNMELI_01193	CDS	693	cmk	2.7.4.25	COG0283	Cytidylate kinase
+PAMNMELI_01194	gene	1374	yeeO			
+PAMNMELI_01194	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+PAMNMELI_01195	gene	123				
+PAMNMELI_01195	CDS	123				hypothetical protein
+PAMNMELI_01196	gene	219				
+PAMNMELI_01196	CDS	219				hypothetical protein
+PAMNMELI_01197	gene	582				
+PAMNMELI_01197	CDS	582				hypothetical protein
+PAMNMELI_01198	gene	1542	glyQS			
+PAMNMELI_01198	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+PAMNMELI_01199	gene	105				
+PAMNMELI_01199	CDS	105				hypothetical protein
+PAMNMELI_01200	gene	117				
+PAMNMELI_01200	CDS	117				hypothetical protein
+PAMNMELI_01201	gene	2493				
+PAMNMELI_01201	CDS	2493				hypothetical protein
+PAMNMELI_01202	gene	1560				
+PAMNMELI_01202	CDS	1560				hypothetical protein
+PAMNMELI_01203	gene	102				
+PAMNMELI_01203	CDS	102				hypothetical protein
+PAMNMELI_01204	gene	612				
+PAMNMELI_01204	CDS	612				hypothetical protein
+PAMNMELI_01205	gene	1044				
+PAMNMELI_01205	CDS	1044				hypothetical protein
+PAMNMELI_01206	gene	1377	fucP			
+PAMNMELI_01206	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+PAMNMELI_01207	gene	198	mro			
+PAMNMELI_01207	CDS	198	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+PAMNMELI_01208	gene	1230	relA			
+PAMNMELI_01208	CDS	1230	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+PAMNMELI_01209	gene	348				
+PAMNMELI_01209	CDS	348				hypothetical protein
+PAMNMELI_01210	gene	2826	alaS			
+PAMNMELI_01210	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+PAMNMELI_01211	gene	1023	recA			
+PAMNMELI_01211	CDS	1023	recA			Protein RecA
+PAMNMELI_01212	gene	1305				
+PAMNMELI_01212	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+PAMNMELI_01213	gene	597				
+PAMNMELI_01213	CDS	597				hypothetical protein
+PAMNMELI_01214	gene	849				
+PAMNMELI_01214	CDS	849				hypothetical protein
+PAMNMELI_01215	gene	1347	nhaD			
+PAMNMELI_01215	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+PAMNMELI_01216	gene	912				
+PAMNMELI_01216	CDS	912				hypothetical protein
+PAMNMELI_01217	gene	558	rsmD			
+PAMNMELI_01217	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+PAMNMELI_01218	gene	861				
+PAMNMELI_01218	CDS	861				hypothetical protein
+PAMNMELI_01219	gene	492				
+PAMNMELI_01219	CDS	492				hypothetical protein
+PAMNMELI_01220	gene	1440	recD2_2			
+PAMNMELI_01220	CDS	1440	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+PAMNMELI_01221	gene	585				
+PAMNMELI_01221	CDS	585				hypothetical protein
+PAMNMELI_01222	gene	1038	nrnA			
+PAMNMELI_01222	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+PAMNMELI_01223	gene	1938	dnaG			
+PAMNMELI_01223	CDS	1938	dnaG	2.7.7.-		DNA primase
+PAMNMELI_01224	gene	330	queD			
+PAMNMELI_01224	CDS	330	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+PAMNMELI_01225	gene	660	queE			
+PAMNMELI_01225	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+PAMNMELI_01226	gene	1410	clsA			
+PAMNMELI_01226	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+PAMNMELI_01227	gene	2373	bamA_2			
+PAMNMELI_01227	CDS	2373	bamA_2			Outer membrane protein assembly factor BamA
+PAMNMELI_01228	gene	4644				
+PAMNMELI_01228	CDS	4644				hypothetical protein
+PAMNMELI_01229	gene	747				
+PAMNMELI_01229	CDS	747				hypothetical protein
+PAMNMELI_01230	gene	672				
+PAMNMELI_01230	CDS	672		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+PAMNMELI_01231	gene	747	fabG			
+PAMNMELI_01231	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PAMNMELI_01232	gene	612				
+PAMNMELI_01232	CDS	612				hypothetical protein
+PAMNMELI_01233	gene	74				
+PAMNMELI_01233	tRNA	74				tRNA-Met(cat)
+PAMNMELI_01234	gene	174				
+PAMNMELI_01234	CDS	174				hypothetical protein
+PAMNMELI_01235	gene	2943				
+PAMNMELI_01235	CDS	2943				hypothetical protein
+PAMNMELI_01236	gene	417				
+PAMNMELI_01236	CDS	417				hypothetical protein
+PAMNMELI_01237	gene	693				
+PAMNMELI_01237	CDS	693				hypothetical protein
+PAMNMELI_01238	gene	993	htpX			
+PAMNMELI_01238	CDS	993	htpX	3.4.24.-		Protease HtpX
+PAMNMELI_01239	gene	564	lemA			
+PAMNMELI_01239	CDS	564	lemA		COG1704	Protein LemA
+PAMNMELI_01240	gene	405				
+PAMNMELI_01240	CDS	405				hypothetical protein
+PAMNMELI_01241	gene	95				
+PAMNMELI_01241	rRNA	95				5S ribosomal RNA
+PAMNMELI_01242	gene	1074				
+PAMNMELI_01242	CDS	1074				hypothetical protein
+PAMNMELI_01243	gene	321				
+PAMNMELI_01243	CDS	321				hypothetical protein
+PAMNMELI_01244	gene	177				
+PAMNMELI_01244	CDS	177				hypothetical protein
+PAMNMELI_01245	gene	669				
+PAMNMELI_01245	CDS	669				hypothetical protein
+PAMNMELI_01246	gene	600				
+PAMNMELI_01246	CDS	600				hypothetical protein
+PAMNMELI_01247	gene	96				
+PAMNMELI_01247	CDS	96				hypothetical protein
+PAMNMELI_01248	gene	1644	hcp			
+PAMNMELI_01248	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+PAMNMELI_01249	gene	1050	rnc			
+PAMNMELI_01249	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+PAMNMELI_01250	gene	1263	fabF			
+PAMNMELI_01250	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+PAMNMELI_01251	gene	237	acpP			
+PAMNMELI_01251	CDS	237	acpP		COG0236	Acyl carrier protein
+PAMNMELI_01252	gene	606				
+PAMNMELI_01252	CDS	606				hypothetical protein
+PAMNMELI_01253	gene	1047				
+PAMNMELI_01253	CDS	1047				hypothetical protein
+PAMNMELI_01254	gene	141				
+PAMNMELI_01254	CDS	141				hypothetical protein
+PAMNMELI_01255	gene	936				
+PAMNMELI_01255	CDS	936				hypothetical protein
+PAMNMELI_01256	gene	1491	cysS			
+PAMNMELI_01256	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+PAMNMELI_01257	gene	618				
+PAMNMELI_01257	CDS	618				hypothetical protein
+PAMNMELI_01258	gene	210				
+PAMNMELI_01258	CDS	210				hypothetical protein
+PAMNMELI_01259	gene	318				
+PAMNMELI_01259	CDS	318				hypothetical protein
+PAMNMELI_01260	gene	894				
+PAMNMELI_01260	CDS	894				hypothetical protein
+PAMNMELI_01261	gene	165				
+PAMNMELI_01261	CDS	165				hypothetical protein
+PAMNMELI_01262	gene	2826				
+PAMNMELI_01262	CDS	2826				hypothetical protein
+PAMNMELI_01263	gene	1305	metK			
+PAMNMELI_01263	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+PAMNMELI_01264	gene	1050				
+PAMNMELI_01264	CDS	1050				hypothetical protein
+PAMNMELI_01265	gene	747				
+PAMNMELI_01265	CDS	747				hypothetical protein
+PAMNMELI_01266	gene	432	rnpA			
+PAMNMELI_01266	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+PAMNMELI_01267	gene	492				
+PAMNMELI_01267	CDS	492				hypothetical protein
+PAMNMELI_01268	gene	1305	tyrS			
+PAMNMELI_01268	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+PAMNMELI_01269	gene	654				
+PAMNMELI_01269	CDS	654				hypothetical protein
+PAMNMELI_01270	gene	981	ribD			
+PAMNMELI_01270	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+PAMNMELI_01271	gene	1311	eno			
+PAMNMELI_01271	CDS	1311	eno	4.2.1.11		Enolase
+PAMNMELI_01272	gene	399	glpE			
+PAMNMELI_01272	CDS	399	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+PAMNMELI_01273	gene	417				
+PAMNMELI_01273	CDS	417				hypothetical protein
+PAMNMELI_01274	gene	1125	dnaN			
+PAMNMELI_01274	CDS	1125	dnaN			Beta sliding clamp
+PAMNMELI_01275	gene	855	dinG			
+PAMNMELI_01275	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+PAMNMELI_01276	gene	1212	undec1A			
+PAMNMELI_01276	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+PAMNMELI_01277	gene	903				
+PAMNMELI_01277	CDS	903				hypothetical protein
+PAMNMELI_01278	gene	1668	recN			
+PAMNMELI_01278	CDS	1668	recN		COG0497	DNA repair protein RecN
+PAMNMELI_01279	gene	1647				
+PAMNMELI_01279	CDS	1647				hypothetical protein
+PAMNMELI_01280	gene	999				
+PAMNMELI_01280	CDS	999				hypothetical protein
+PAMNMELI_01281	gene	336				
+PAMNMELI_01281	CDS	336				hypothetical protein
+PAMNMELI_01282	gene	240				
+PAMNMELI_01282	CDS	240				hypothetical protein
+PAMNMELI_01283	gene	1470				
+PAMNMELI_01283	CDS	1470				hypothetical protein
+PAMNMELI_01284	gene	240				
+PAMNMELI_01284	CDS	240				hypothetical protein
+PAMNMELI_01285	gene	2874	leuS			
+PAMNMELI_01285	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+PAMNMELI_01286	gene	642				
+PAMNMELI_01286	CDS	642				hypothetical protein
+PAMNMELI_01287	gene	633	pflA			
+PAMNMELI_01287	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+PAMNMELI_01288	gene	438				
+PAMNMELI_01288	CDS	438				hypothetical protein
+PAMNMELI_01289	gene	1104	ychF			
+PAMNMELI_01289	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+PAMNMELI_01290	gene	849	lgt			
+PAMNMELI_01290	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+PAMNMELI_01291	gene	2628	mutS_2			
+PAMNMELI_01291	CDS	2628	mutS_2		COG0249	DNA mismatch repair protein MutS
+PAMNMELI_01292	gene	1575				
+PAMNMELI_01292	CDS	1575				hypothetical protein
+PAMNMELI_01293	gene	1131	capA			
+PAMNMELI_01293	CDS	1131	capA			Capsule biosynthesis protein CapA
+PAMNMELI_01294	gene	2766	polA			
+PAMNMELI_01294	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+PAMNMELI_01295	gene	978	sdsA			
+PAMNMELI_01295	CDS	978	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+PAMNMELI_01296	gene	606				
+PAMNMELI_01296	CDS	606				hypothetical protein
+PAMNMELI_01297	gene	891	deoC			
+PAMNMELI_01297	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+PAMNMELI_01298	gene	393				
+PAMNMELI_01298	CDS	393				hypothetical protein
+PAMNMELI_01299	gene	453	dtd			
+PAMNMELI_01299	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+PAMNMELI_01300	gene	1836	uvrC			
+PAMNMELI_01300	CDS	1836	uvrC		COG0322	UvrABC system protein C
+PAMNMELI_01301	gene	531	apt			
+PAMNMELI_01301	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+PAMNMELI_01302	gene	1953	mnmG			
+PAMNMELI_01302	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+PAMNMELI_01303	gene	690				
+PAMNMELI_01303	CDS	690				hypothetical protein
+PAMNMELI_01304	gene	1983	frdA			
+PAMNMELI_01304	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+PAMNMELI_01305	gene	756	frdB			
+PAMNMELI_01305	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+PAMNMELI_01306	gene	513				
+PAMNMELI_01306	CDS	513				hypothetical protein
+PAMNMELI_01307	gene	186				
+PAMNMELI_01307	CDS	186				hypothetical protein
+PAMNMELI_01308	gene	594				
+PAMNMELI_01308	CDS	594				hypothetical protein
+PAMNMELI_01309	gene	621				
+PAMNMELI_01309	CDS	621		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+PAMNMELI_01310	gene	1866	deaD_2			
+PAMNMELI_01310	CDS	1866	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+PAMNMELI_01311	gene	1377				
+PAMNMELI_01311	CDS	1377				hypothetical protein
+PAMNMELI_01312	gene	1227				
+PAMNMELI_01312	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+PAMNMELI_01313	gene	426				
+PAMNMELI_01313	CDS	426				hypothetical protein
+PAMNMELI_01314	gene	939				
+PAMNMELI_01314	CDS	939			COG2826	IS30 family transposase ISSba17
+PAMNMELI_01315	gene	903				
+PAMNMELI_01315	CDS	903				hypothetical protein
+PAMNMELI_01316	gene	486				
+PAMNMELI_01316	CDS	486				hypothetical protein
+PAMNMELI_01317	gene	333				
+PAMNMELI_01317	CDS	333				hypothetical protein
+PAMNMELI_01318	gene	135				
+PAMNMELI_01318	CDS	135				hypothetical protein
+PAMNMELI_01319	gene	90				
+PAMNMELI_01319	CDS	90				hypothetical protein
+PAMNMELI_01320	gene	807				
+PAMNMELI_01320	CDS	807				hypothetical protein
+PAMNMELI_01321	gene	1446	patA_1			
+PAMNMELI_01321	CDS	1446	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+PAMNMELI_01322	gene	1329				
+PAMNMELI_01322	CDS	1329				hypothetical protein
+PAMNMELI_01323	gene	1230	yciC			
+PAMNMELI_01323	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+PAMNMELI_01324	gene	1446	pal_3			
+PAMNMELI_01324	CDS	1446	pal_3			Peptidoglycan-associated lipoprotein
+PAMNMELI_01325	gene	732				
+PAMNMELI_01325	CDS	732				hypothetical protein
+PAMNMELI_01326	gene	1014	asd			
+PAMNMELI_01326	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+PAMNMELI_01327	gene	2202	kefB_2			
+PAMNMELI_01327	CDS	2202	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+PAMNMELI_01328	gene	663	yknY_2			
+PAMNMELI_01328	CDS	663	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PAMNMELI_01329	gene	603				
+PAMNMELI_01329	CDS	603				hypothetical protein
+PAMNMELI_01330	gene	279				
+PAMNMELI_01330	CDS	279				hypothetical protein
+PAMNMELI_01331	gene	1395	asnS			
+PAMNMELI_01331	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+PAMNMELI_01332	gene	1473				
+PAMNMELI_01332	CDS	1473				hypothetical protein
+PAMNMELI_01333	gene	1347	purB			
+PAMNMELI_01333	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+PAMNMELI_01334	gene	76				
+PAMNMELI_01334	tRNA	76				tRNA-Val(tac)
+PAMNMELI_01335	gene	76				
+PAMNMELI_01335	tRNA	76				tRNA-Val(tac)
+PAMNMELI_01336	gene	1209				
+PAMNMELI_01336	CDS	1209				Outer membrane protein 40
+PAMNMELI_01337	gene	1815	mutL			
+PAMNMELI_01337	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+PAMNMELI_01338	gene	273				
+PAMNMELI_01338	CDS	273				hypothetical protein
+PAMNMELI_01339	gene	1695	lptD_2			
+PAMNMELI_01339	CDS	1695	lptD_2			LPS-assembly protein LptD
+PAMNMELI_01340	gene	1464	surA_1			
+PAMNMELI_01340	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+PAMNMELI_01341	gene	1479	surA_2			
+PAMNMELI_01341	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+PAMNMELI_01342	gene	1479	guaB			
+PAMNMELI_01342	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+PAMNMELI_01343	gene	168				
+PAMNMELI_01343	CDS	168				hypothetical protein
+PAMNMELI_01344	gene	126				
+PAMNMELI_01344	CDS	126				hypothetical protein
+PAMNMELI_01345	gene	321				
+PAMNMELI_01345	CDS	321				hypothetical protein
+PAMNMELI_01346	gene	912	xerC			
+PAMNMELI_01346	CDS	912	xerC			Tyrosine recombinase XerC
+PAMNMELI_01347	gene	1290				
+PAMNMELI_01347	CDS	1290				hypothetical protein
+PAMNMELI_01348	gene	1215				
+PAMNMELI_01348	CDS	1215				hypothetical protein
+PAMNMELI_01349	gene	213				
+PAMNMELI_01349	CDS	213				hypothetical protein
+PAMNMELI_01350	gene	1098				
+PAMNMELI_01350	CDS	1098				hypothetical protein
+PAMNMELI_01351	gene	627				
+PAMNMELI_01351	CDS	627				hypothetical protein
+	repeat_region	1156				
+PAMNMELI_01352	gene	579				
+PAMNMELI_01352	CDS	579				hypothetical protein
+PAMNMELI_01353	gene	3417				
+PAMNMELI_01353	CDS	3417				hypothetical protein
+PAMNMELI_01354	gene	402				
+PAMNMELI_01354	CDS	402				hypothetical protein
+PAMNMELI_01355	gene	2127				
+PAMNMELI_01355	CDS	2127			COG1629	putative TonB-dependent receptor
+PAMNMELI_01356	gene	753				
+PAMNMELI_01356	CDS	753				hypothetical protein
+PAMNMELI_01357	gene	480				
+PAMNMELI_01357	CDS	480				hypothetical protein
+PAMNMELI_01358	gene	1341	ffh			
+PAMNMELI_01358	CDS	1341	ffh		COG0541	Signal recognition particle protein
+PAMNMELI_01359	gene	924	folD			
+PAMNMELI_01359	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+PAMNMELI_01360	gene	180				
+PAMNMELI_01360	CDS	180				hypothetical protein
+PAMNMELI_01361	gene	234	rsxB			
+PAMNMELI_01361	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+PAMNMELI_01362	gene	1083	korA_2			
+PAMNMELI_01362	CDS	1083	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+PAMNMELI_01363	gene	771	korB_2			
+PAMNMELI_01363	CDS	771	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+PAMNMELI_01364	gene	543				
+PAMNMELI_01364	CDS	543				hypothetical protein
+PAMNMELI_01365	gene	534	pspA_2			
+PAMNMELI_01365	CDS	534	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+PAMNMELI_01366	gene	792	cobS			
+PAMNMELI_01366	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+PAMNMELI_01367	gene	1032	cobT			
+PAMNMELI_01367	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+PAMNMELI_01368	gene	531	cobP			
+PAMNMELI_01368	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+PAMNMELI_01369	gene	1182				
+PAMNMELI_01369	CDS	1182				Outer membrane protein 41
+PAMNMELI_01370	gene	813				
+PAMNMELI_01370	CDS	813				hypothetical protein
+PAMNMELI_01371	gene	1911	deaD_3			
+PAMNMELI_01371	CDS	1911	deaD_3	3.6.4.13		ATP-dependent RNA helicase DeaD
+PAMNMELI_01372	gene	1731	recJ			
+PAMNMELI_01372	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+PAMNMELI_01373	gene	1197				
+PAMNMELI_01373	CDS	1197				hypothetical protein
+PAMNMELI_01374	gene	1416	pepP			
+PAMNMELI_01374	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+PAMNMELI_01375	gene	939				
+PAMNMELI_01375	CDS	939				hypothetical protein
+PAMNMELI_01376	gene	675	trmD			
+PAMNMELI_01376	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+PAMNMELI_01377	gene	1062	buk2			
+PAMNMELI_01377	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+PAMNMELI_01378	gene	855	pta_2			
+PAMNMELI_01378	CDS	855	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+PAMNMELI_01379	gene	2052	ligA			
+PAMNMELI_01379	CDS	2052	ligA	6.5.1.2		DNA ligase
+PAMNMELI_01380	gene	285				
+PAMNMELI_01380	CDS	285				hypothetical protein
+PAMNMELI_01381	gene	2868	uvrA_1			
+PAMNMELI_01381	CDS	2868	uvrA_1		COG0178	UvrABC system protein A
+PAMNMELI_01382	gene	720				
+PAMNMELI_01382	CDS	720				hypothetical protein
+PAMNMELI_01383	gene	1356				
+PAMNMELI_01383	CDS	1356				hypothetical protein
+PAMNMELI_01384	gene	753				
+PAMNMELI_01384	CDS	753				hypothetical protein
+PAMNMELI_01385	gene	1518	dtpA			
+PAMNMELI_01385	CDS	1518	dtpA		COG3104	Dipeptide and tripeptide permease A
+PAMNMELI_01386	gene	483				
+PAMNMELI_01386	CDS	483				hypothetical protein
+PAMNMELI_01387	gene	1932				
+PAMNMELI_01387	CDS	1932				hypothetical protein
+PAMNMELI_01388	gene	1437	radA			
+PAMNMELI_01388	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+PAMNMELI_01389	gene	921				
+PAMNMELI_01389	CDS	921				hypothetical protein
+PAMNMELI_01390	gene	2196				
+PAMNMELI_01390	CDS	2196				hypothetical protein
+PAMNMELI_01391	gene	1227	cls			
+PAMNMELI_01391	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+PAMNMELI_01392	gene	975	kdsD			
+PAMNMELI_01392	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+PAMNMELI_01393	gene	756	kdsA_2			
+PAMNMELI_01393	CDS	756	kdsA_2	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+PAMNMELI_01394	gene	159				
+PAMNMELI_01394	CDS	159				hypothetical protein
+PAMNMELI_01395	gene	279				
+PAMNMELI_01395	CDS	279				hypothetical protein
+PAMNMELI_01396	gene	74				
+PAMNMELI_01396	tRNA	74				tRNA-Pro(tgg)
+PAMNMELI_01397	gene	1188				
+PAMNMELI_01397	CDS	1188				hypothetical protein
+PAMNMELI_01398	gene	2739	valS			
+PAMNMELI_01398	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+PAMNMELI_01399	gene	828	mazG			
+PAMNMELI_01399	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+PAMNMELI_01400	gene	564				
+PAMNMELI_01400	CDS	564				hypothetical protein
+PAMNMELI_01401	gene	915	rnz			
+PAMNMELI_01401	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+PAMNMELI_01402	gene	366				
+PAMNMELI_01402	CDS	366				hypothetical protein
+PAMNMELI_01403	gene	1536				
+PAMNMELI_01403	CDS	1536				hypothetical protein
+PAMNMELI_01404	gene	561	sigW			
+PAMNMELI_01404	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+PAMNMELI_01405	gene	366				
+PAMNMELI_01405	CDS	366				hypothetical protein
+PAMNMELI_01406	gene	441				
+PAMNMELI_01406	CDS	441				hypothetical protein
+PAMNMELI_01407	gene	2610	mutS2			
+PAMNMELI_01407	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+PAMNMELI_01408	gene	86				
+PAMNMELI_01408	tRNA	86				tRNA-Ser(tga)
+PAMNMELI_01409	gene	273	groS1			
+PAMNMELI_01409	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+PAMNMELI_01410	gene	1632	groL			
+PAMNMELI_01410	CDS	1632	groL		COG0459	60 kDa chaperonin
+PAMNMELI_01411	gene	246				
+PAMNMELI_01411	CDS	246				hypothetical protein
+PAMNMELI_01412	gene	690				
+PAMNMELI_01412	CDS	690				hypothetical protein
+PAMNMELI_01413	gene	2682				
+PAMNMELI_01413	CDS	2682				hypothetical protein
+PAMNMELI_01414	gene	189				
+PAMNMELI_01414	CDS	189				hypothetical protein
+PAMNMELI_01415	gene	1557	rapZ			
+PAMNMELI_01415	CDS	1557	rapZ			RNase adapter protein RapZ
+PAMNMELI_01416	gene	1221				
+PAMNMELI_01416	CDS	1221				hypothetical protein
+PAMNMELI_01417	gene	1044	lpxD			
+PAMNMELI_01417	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+PAMNMELI_01418	gene	1386	lpxC			
+PAMNMELI_01418	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+PAMNMELI_01419	gene	774	lpxA_1			
+PAMNMELI_01419	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+PAMNMELI_01420	gene	909	miaA_1			
+PAMNMELI_01420	CDS	909	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+PAMNMELI_01421	gene	2469	mrcA_2			
+PAMNMELI_01421	CDS	2469	mrcA_2		COG5009	Penicillin-binding protein 1A
+PAMNMELI_01422	gene	2559				
+PAMNMELI_01422	CDS	2559				hypothetical protein
+PAMNMELI_01423	gene	171				
+PAMNMELI_01423	CDS	171				hypothetical protein
+PAMNMELI_01424	gene	672	yknY_3			
+PAMNMELI_01424	CDS	672	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+PAMNMELI_01425	gene	1260	macB_1			
+PAMNMELI_01425	CDS	1260	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+PAMNMELI_01426	gene	1248	macB_2			
+PAMNMELI_01426	CDS	1248	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+PAMNMELI_01427	gene	1113	macA			
+PAMNMELI_01427	CDS	1113	macA		COG0845	Macrolide export protein MacA
+PAMNMELI_01428	gene	2064	dsbD			
+PAMNMELI_01428	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+PAMNMELI_01429	gene	162				
+PAMNMELI_01429	CDS	162				hypothetical protein
+PAMNMELI_01430	gene	606				
+PAMNMELI_01430	CDS	606				hypothetical protein
+PAMNMELI_01431	gene	1029	miaA_2			
+PAMNMELI_01431	CDS	1029	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+PAMNMELI_01432	gene	933	ytlR			
+PAMNMELI_01432	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+PAMNMELI_01433	gene	1917				
+PAMNMELI_01433	CDS	1917				hypothetical protein
+PAMNMELI_01434	gene	1596				
+PAMNMELI_01434	CDS	1596				hypothetical protein
+PAMNMELI_01435	gene	423				
+PAMNMELI_01435	CDS	423				hypothetical protein
+PAMNMELI_01436	gene	243				
+PAMNMELI_01436	CDS	243				hypothetical protein
+PAMNMELI_01437	gene	399				
+PAMNMELI_01437	CDS	399				hypothetical protein
+PAMNMELI_01438	gene	738				
+PAMNMELI_01438	CDS	738				hypothetical protein
+PAMNMELI_01439	gene	2559				
+PAMNMELI_01439	CDS	2559				hypothetical protein
+PAMNMELI_01440	gene	381	folB			
+PAMNMELI_01440	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+PAMNMELI_01441	gene	1185				
+PAMNMELI_01441	CDS	1185				hypothetical protein
+PAMNMELI_01442	gene	903				
+PAMNMELI_01442	CDS	903				hypothetical protein
+PAMNMELI_01443	gene	1410	dnaA			
+PAMNMELI_01443	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+PAMNMELI_01444	gene	471				
+PAMNMELI_01444	CDS	471				hypothetical protein
+PAMNMELI_01445	gene	420				
+PAMNMELI_01445	CDS	420				hypothetical protein
+PAMNMELI_01446	gene	108				
+PAMNMELI_01446	CDS	108				hypothetical protein
+PAMNMELI_01447	gene	402				
+PAMNMELI_01447	CDS	402				hypothetical protein
+PAMNMELI_01448	gene	75				
+PAMNMELI_01448	tRNA	75				tRNA-Met(cat)
+PAMNMELI_01449	gene	3183				
+PAMNMELI_01449	CDS	3183				TonB-dependent receptor P26
+PAMNMELI_01450	gene	1494				
+PAMNMELI_01450	CDS	1494				hypothetical protein
+PAMNMELI_01451	gene	714				
+PAMNMELI_01451	CDS	714				hypothetical protein
+PAMNMELI_01452	gene	519				
+PAMNMELI_01452	CDS	519				hypothetical protein
+PAMNMELI_01453	gene	1233				
+PAMNMELI_01453	CDS	1233				hypothetical protein
+PAMNMELI_01454	gene	744				
+PAMNMELI_01454	CDS	744				hypothetical protein
+PAMNMELI_01455	gene	2394				
+PAMNMELI_01455	CDS	2394				hypothetical protein
+PAMNMELI_01456	gene	1965	btuB_5			
+PAMNMELI_01456	CDS	1965	btuB_5			Vitamin B12 transporter BtuB
+PAMNMELI_01457	gene	1242				
+PAMNMELI_01457	CDS	1242				hypothetical protein
+PAMNMELI_01458	gene	591				
+PAMNMELI_01458	CDS	591				hypothetical protein
+PAMNMELI_01459	gene	360				
+PAMNMELI_01459	CDS	360				hypothetical protein
+PAMNMELI_01460	gene	1074				
+PAMNMELI_01460	CDS	1074				hypothetical protein
+PAMNMELI_01461	gene	831				
+PAMNMELI_01461	CDS	831				hypothetical protein
+PAMNMELI_01462	gene	720	tarI			
+PAMNMELI_01462	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+PAMNMELI_01463	gene	1008	fcl_2			
+PAMNMELI_01463	CDS	1008	fcl_2	1.1.1.271		GDP-L-fucose synthase
+PAMNMELI_01464	gene	927				
+PAMNMELI_01464	CDS	927				hypothetical protein
+PAMNMELI_01465	gene	108				
+PAMNMELI_01465	CDS	108				hypothetical protein
+PAMNMELI_01466	gene	2385	btuB_6			
+PAMNMELI_01466	CDS	2385	btuB_6			Vitamin B12 transporter BtuB
+PAMNMELI_01467	gene	1233				
+PAMNMELI_01467	CDS	1233				hypothetical protein
+PAMNMELI_01468	gene	615				
+PAMNMELI_01468	CDS	615				hypothetical protein
+PAMNMELI_01469	gene	969				
+PAMNMELI_01469	CDS	969				hypothetical protein
+PAMNMELI_01470	gene	2100	recG			
+PAMNMELI_01470	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+PAMNMELI_01471	gene	717	ispD			
+PAMNMELI_01471	CDS	717	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+PAMNMELI_01472	gene	1299				
+PAMNMELI_01472	CDS	1299				hypothetical protein
+PAMNMELI_01473	gene	1032	cytR			
+PAMNMELI_01473	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+PAMNMELI_01474	gene	3081	susC			
+PAMNMELI_01474	CDS	3081	susC			TonB-dependent receptor SusC
+PAMNMELI_01475	gene	1617	susD			
+PAMNMELI_01475	CDS	1617	susD			Starch-binding protein SusD
+PAMNMELI_01476	gene	1122	susE			
+PAMNMELI_01476	CDS	1122	susE			Outer membrane protein SusE
+PAMNMELI_01477	gene	1092	susF			
+PAMNMELI_01477	CDS	1092	susF			Outer membrane protein SusF
+PAMNMELI_01478	gene	2058				
+PAMNMELI_01478	CDS	2058				hypothetical protein
+PAMNMELI_01479	gene	1218				
+PAMNMELI_01479	CDS	1218				hypothetical protein
+PAMNMELI_01480	gene	747				
+PAMNMELI_01480	CDS	747				hypothetical protein
+PAMNMELI_01481	gene	2070				
+PAMNMELI_01481	CDS	2070				hypothetical protein
+PAMNMELI_01482	gene	447				
+PAMNMELI_01482	CDS	447				hypothetical protein
+PAMNMELI_01483	gene	1221				
+PAMNMELI_01483	CDS	1221				hypothetical protein
+PAMNMELI_01484	gene	759				
+PAMNMELI_01484	CDS	759				hypothetical protein
+PAMNMELI_01485	gene	822				
+PAMNMELI_01485	CDS	822				hypothetical protein
+PAMNMELI_01486	gene	960				
+PAMNMELI_01486	CDS	960				hypothetical protein
+PAMNMELI_01487	gene	819				
+PAMNMELI_01487	CDS	819				hypothetical protein
+PAMNMELI_01488	gene	1458				
+PAMNMELI_01488	CDS	1458				hypothetical protein
+PAMNMELI_01489	gene	249				
+PAMNMELI_01489	CDS	249				hypothetical protein
+PAMNMELI_01490	gene	2517				
+PAMNMELI_01490	CDS	2517				hypothetical protein
+PAMNMELI_01491	gene	429				
+PAMNMELI_01491	CDS	429				hypothetical protein
+PAMNMELI_01492	gene	714				
+PAMNMELI_01492	CDS	714				hypothetical protein
+PAMNMELI_01493	gene	8988				
+PAMNMELI_01493	CDS	8988				hypothetical protein
+PAMNMELI_01494	gene	1812				
+PAMNMELI_01494	CDS	1812				hypothetical protein
+PAMNMELI_01495	gene	1068				
+PAMNMELI_01495	CDS	1068				hypothetical protein
+PAMNMELI_01496	gene	729				
+PAMNMELI_01496	CDS	729				hypothetical protein
+PAMNMELI_01497	gene	453				
+PAMNMELI_01497	CDS	453				hypothetical protein
+PAMNMELI_01498	gene	2355	pnp			
+PAMNMELI_01498	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+PAMNMELI_01499	gene	1161				
+PAMNMELI_01499	CDS	1161			COG3177	putative protein
+PAMNMELI_01500	gene	1812				
+PAMNMELI_01500	CDS	1812				hypothetical protein
+PAMNMELI_01501	gene	1104				
+PAMNMELI_01501	CDS	1104				hypothetical protein
+PAMNMELI_01502	gene	390				
+PAMNMELI_01502	CDS	390				hypothetical protein
+PAMNMELI_01503	gene	1143				
+PAMNMELI_01503	CDS	1143				hypothetical protein
+PAMNMELI_01504	gene	1893				
+PAMNMELI_01504	CDS	1893				hypothetical protein
+PAMNMELI_01505	gene	1089				
+PAMNMELI_01505	CDS	1089				hypothetical protein
+PAMNMELI_01506	gene	1026				
+PAMNMELI_01506	CDS	1026				hypothetical protein
+PAMNMELI_01507	gene	990				
+PAMNMELI_01507	CDS	990				hypothetical protein
+PAMNMELI_01508	gene	1152	resA_6			
+PAMNMELI_01508	CDS	1152	resA_6			Thiol-disulfide oxidoreductase ResA
+PAMNMELI_01509	gene	360				
+PAMNMELI_01509	CDS	360				hypothetical protein
+PAMNMELI_01510	gene	555	nudC_2			
+PAMNMELI_01510	CDS	555	nudC_2	3.6.1.22		NADH pyrophosphatase
+PAMNMELI_01511	gene	822				
+PAMNMELI_01511	CDS	822				hypothetical protein
+PAMNMELI_01512	gene	699				
+PAMNMELI_01512	CDS	699				hypothetical protein
+PAMNMELI_01513	gene	2415	topA			
+PAMNMELI_01513	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+PAMNMELI_01514	gene	528	aroK			
+PAMNMELI_01514	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+PAMNMELI_01515	gene	1893	speA			
+PAMNMELI_01515	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+PAMNMELI_01516	gene	513	sigH			
+PAMNMELI_01516	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+PAMNMELI_01517	gene	477				
+PAMNMELI_01517	CDS	477				hypothetical protein
+PAMNMELI_01518	gene	573				
+PAMNMELI_01518	CDS	573				hypothetical protein
+PAMNMELI_01519	gene	726				
+PAMNMELI_01519	CDS	726				hypothetical protein
+PAMNMELI_01520	gene	2736				
+PAMNMELI_01520	CDS	2736				hypothetical protein
+PAMNMELI_01521	gene	2220	susB			
+PAMNMELI_01521	CDS	2220	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+PAMNMELI_01522	gene	1959	pulA			
+PAMNMELI_01522	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+PAMNMELI_01523	gene	1995	glgB_1			
+PAMNMELI_01523	CDS	1995	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+PAMNMELI_01524	gene	2148	dcp			
+PAMNMELI_01524	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+PAMNMELI_01525	gene	576	srpC_1			
+PAMNMELI_01525	CDS	576	srpC_1		COG2059	putative chromate transport protein
+PAMNMELI_01526	gene	552	srpC_2			
+PAMNMELI_01526	CDS	552	srpC_2		COG2059	putative chromate transport protein
+PAMNMELI_01527	gene	3933	purL			
+PAMNMELI_01527	CDS	3933	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase
+PAMNMELI_01528	gene	165				
+PAMNMELI_01528	CDS	165				hypothetical protein
+PAMNMELI_01529	gene	840	pal_4			
+PAMNMELI_01529	CDS	840	pal_4			Peptidoglycan-associated lipoprotein
+PAMNMELI_01530	gene	1695				
+PAMNMELI_01530	CDS	1695				hypothetical protein
+PAMNMELI_01531	gene	1308				
+PAMNMELI_01531	CDS	1308				hypothetical protein
+PAMNMELI_01532	gene	855				
+PAMNMELI_01532	CDS	855				hypothetical protein
+PAMNMELI_01533	gene	1188	patB			
+PAMNMELI_01533	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+PAMNMELI_01534	gene	992				
+PAMNMELI_01534	rRNA	992				16S ribosomal RNA (partial)
+PAMNMELI_01535	gene	756	kdsB			
+PAMNMELI_01535	CDS	756	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+PAMNMELI_01536	gene	2403	feoB			
+PAMNMELI_01536	CDS	2403	feoB		COG0370	Fe(2+) transporter FeoB
+PAMNMELI_01537	gene	879				
+PAMNMELI_01537	CDS	879				hypothetical protein
+PAMNMELI_01538	gene	663	queC			
+PAMNMELI_01538	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+PAMNMELI_01539	gene	1251	pgk			
+PAMNMELI_01539	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+PAMNMELI_01540	gene	936				
+PAMNMELI_01540	CDS	936				hypothetical protein
+PAMNMELI_01541	gene	2565	glgP			
+PAMNMELI_01541	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+PAMNMELI_01542	gene	1641				
+PAMNMELI_01542	CDS	1641				hypothetical protein
+PAMNMELI_01543	gene	432				
+PAMNMELI_01543	CDS	432				hypothetical protein
+PAMNMELI_01544	gene	2583				
+PAMNMELI_01544	CDS	2583				hypothetical protein
+PAMNMELI_01545	gene	705	gph			
+PAMNMELI_01545	CDS	705	gph	3.1.3.18		Phosphoglycolate phosphatase
+PAMNMELI_01546	gene	933				
+PAMNMELI_01546	CDS	933				hypothetical protein
+PAMNMELI_01547	gene	813				
+PAMNMELI_01547	CDS	813				hypothetical protein
+PAMNMELI_01548	gene	717				
+PAMNMELI_01548	CDS	717				hypothetical protein
+PAMNMELI_01549	gene	117				
+PAMNMELI_01549	CDS	117				hypothetical protein
+PAMNMELI_01550	gene	1638	rlmL			
+PAMNMELI_01550	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+PAMNMELI_01551	gene	2166	ptpA			
+PAMNMELI_01551	CDS	2166	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+PAMNMELI_01552	gene	1224				
+PAMNMELI_01552	CDS	1224			COG2081	putative protein
+PAMNMELI_01553	gene	1545	comM			
+PAMNMELI_01553	CDS	1545	comM		COG0606	Competence protein ComM
+PAMNMELI_01554	gene	1458				
+PAMNMELI_01554	CDS	1458				hypothetical protein
+PAMNMELI_01555	gene	963				
+PAMNMELI_01555	CDS	963				hypothetical protein
+PAMNMELI_01556	gene	846				
+PAMNMELI_01556	CDS	846				hypothetical protein
+PAMNMELI_01557	gene	648				
+PAMNMELI_01557	CDS	648				hypothetical protein
+PAMNMELI_01558	gene	675				
+PAMNMELI_01558	CDS	675				hypothetical protein
+PAMNMELI_01559	gene	831	tolQ_2			
+PAMNMELI_01559	CDS	831	tolQ_2			Tol-Pal system protein TolQ
+PAMNMELI_01560	gene	1209	ribBA			
+PAMNMELI_01560	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+PAMNMELI_01561	gene	1866				
+PAMNMELI_01561	CDS	1866				hypothetical protein
+PAMNMELI_01562	gene	600	tdk			
+PAMNMELI_01562	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+PAMNMELI_01563	gene	1134				
+PAMNMELI_01563	CDS	1134				hypothetical protein
+PAMNMELI_01564	gene	74				
+PAMNMELI_01564	tRNA	74				tRNA-Lys(ttt)
+PAMNMELI_01565	gene	74				
+PAMNMELI_01565	tRNA	74				tRNA-Pro(ggg)
+PAMNMELI_01566	gene	852				
+PAMNMELI_01566	CDS	852				hypothetical protein
+PAMNMELI_01567	gene	840				
+PAMNMELI_01567	CDS	840				hypothetical protein
+PAMNMELI_01568	gene	99				
+PAMNMELI_01568	CDS	99				hypothetical protein
+PAMNMELI_01569	gene	471				
+PAMNMELI_01569	CDS	471				hypothetical protein
+PAMNMELI_01570	gene	1167				
+PAMNMELI_01570	CDS	1167				hypothetical protein
+PAMNMELI_01571	gene	1251	aroA			
+PAMNMELI_01571	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+PAMNMELI_01572	gene	393				
+PAMNMELI_01572	CDS	393				hypothetical protein
+PAMNMELI_01573	gene	3387				
+PAMNMELI_01573	CDS	3387				hypothetical protein
+PAMNMELI_01574	gene	1569	cheB			
+PAMNMELI_01574	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+PAMNMELI_01575	gene	411	tsaE			
+PAMNMELI_01575	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PAMNMELI_01576	gene	813	COQ3_2			
+PAMNMELI_01576	CDS	813	COQ3_2	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+PAMNMELI_01577	gene	507				
+PAMNMELI_01577	CDS	507				hypothetical protein
+PAMNMELI_01578	gene	417				
+PAMNMELI_01578	CDS	417				hypothetical protein
+PAMNMELI_01579	gene	3873				
+PAMNMELI_01579	CDS	3873				hypothetical protein
+PAMNMELI_01580	gene	1461	sasA_3			
+PAMNMELI_01580	CDS	1461	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+PAMNMELI_01581	gene	177				
+PAMNMELI_01581	CDS	177				hypothetical protein
+PAMNMELI_01582	gene	1659				
+PAMNMELI_01582	CDS	1659				hypothetical protein
+PAMNMELI_01583	gene	96				
+PAMNMELI_01583	CDS	96				hypothetical protein
+PAMNMELI_01584	gene	1524				
+PAMNMELI_01584	CDS	1524				hypothetical protein
+PAMNMELI_01585	gene	1647	fumA			
+PAMNMELI_01585	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+PAMNMELI_01586	gene	2898				
+PAMNMELI_01586	CDS	2898				hypothetical protein
+PAMNMELI_01587	gene	1866				
+PAMNMELI_01587	CDS	1866				hypothetical protein
+PAMNMELI_01588	gene	1257	hflX			
+PAMNMELI_01588	CDS	1257	hflX			GTPase HflX
+PAMNMELI_01589	gene	792	nagB			
+PAMNMELI_01589	CDS	792	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+PAMNMELI_01590	gene	147				
+PAMNMELI_01590	CDS	147				hypothetical protein
+PAMNMELI_01591	gene	1035				
+PAMNMELI_01591	CDS	1035				hypothetical protein
+PAMNMELI_01592	gene	2349				
+PAMNMELI_01592	CDS	2349				hypothetical protein
+PAMNMELI_01593	gene	516				
+PAMNMELI_01593	CDS	516				hypothetical protein
+PAMNMELI_01594	gene	423	yrrK			
+PAMNMELI_01594	CDS	423	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+PAMNMELI_01595	gene	561	def			
+PAMNMELI_01595	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+PAMNMELI_01596	gene	1965	bepA_4			
+PAMNMELI_01596	CDS	1965	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+PAMNMELI_01597	gene	588				
+PAMNMELI_01597	CDS	588				hypothetical protein
+PAMNMELI_01598	gene	456				
+PAMNMELI_01598	CDS	456				hypothetical protein
+PAMNMELI_01599	gene	564				
+PAMNMELI_01599	CDS	564				hypothetical protein
+PAMNMELI_01600	gene	564				
+PAMNMELI_01600	CDS	564				hypothetical protein
+PAMNMELI_01601	gene	405				
+PAMNMELI_01601	CDS	405				hypothetical protein
+PAMNMELI_01602	gene	1068				
+PAMNMELI_01602	CDS	1068				hypothetical protein
+PAMNMELI_01603	gene	954				
+PAMNMELI_01603	CDS	954				hypothetical protein
+PAMNMELI_01604	gene	231				
+PAMNMELI_01604	CDS	231				hypothetical protein
+PAMNMELI_01605	gene	1065				
+PAMNMELI_01605	CDS	1065				hypothetical protein
+PAMNMELI_01606	gene	1965	thrS			
+PAMNMELI_01606	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+PAMNMELI_01607	gene	2061	pat			
+PAMNMELI_01607	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+PAMNMELI_01608	gene	1812	ettA			
+PAMNMELI_01608	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+PAMNMELI_01609	gene	615	engB			
+PAMNMELI_01609	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+PAMNMELI_01610	gene	615	recR			
+PAMNMELI_01610	CDS	615	recR		COG0353	Recombination protein RecR
+PAMNMELI_01611	gene	423				
+PAMNMELI_01611	CDS	423				hypothetical protein
+PAMNMELI_01612	gene	1194				
+PAMNMELI_01612	CDS	1194				hypothetical protein
+PAMNMELI_01613	gene	516	speG			
+PAMNMELI_01613	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+PAMNMELI_01614	gene	76				
+PAMNMELI_01614	tRNA	76				tRNA-Asp(gtc)
+PAMNMELI_01615	gene	76				
+PAMNMELI_01615	tRNA	76				tRNA-Asp(gtc)
+PAMNMELI_01616	gene	552	dapH_4			
+PAMNMELI_01616	CDS	552	dapH_4	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PAMNMELI_01617	gene	1029	bshA			
+PAMNMELI_01617	CDS	1029	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+PAMNMELI_01618	gene	1254	mshA_4			
+PAMNMELI_01618	CDS	1254	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+PAMNMELI_01619	gene	789	tagA			
+PAMNMELI_01619	CDS	789	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+PAMNMELI_01620	gene	963				
+PAMNMELI_01620	CDS	963				hypothetical protein
+PAMNMELI_01621	gene	1110				
+PAMNMELI_01621	CDS	1110				hypothetical protein
+PAMNMELI_01622	gene	132				
+PAMNMELI_01622	CDS	132				hypothetical protein
+PAMNMELI_01623	gene	615				
+PAMNMELI_01623	CDS	615				hypothetical protein
+PAMNMELI_01624	gene	594	folE			
+PAMNMELI_01624	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+PAMNMELI_01625	gene	639				
+PAMNMELI_01625	CDS	639				hypothetical protein
+PAMNMELI_01626	gene	2130	tpiA			
+PAMNMELI_01626	CDS	2130	tpiA			Triosephosphate isomerase
+PAMNMELI_01627	gene	555				
+PAMNMELI_01627	CDS	555				hypothetical protein
+PAMNMELI_01628	gene	459				
+PAMNMELI_01628	CDS	459				hypothetical protein
+PAMNMELI_01629	gene	1701	cca			
+PAMNMELI_01629	CDS	1701	cca	2.7.7.72		CCA-adding enzyme
+PAMNMELI_01630	gene	1194	ttgA			
+PAMNMELI_01630	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+PAMNMELI_01631	gene	3258	bepE			
+PAMNMELI_01631	CDS	3258	bepE			Efflux pump membrane transporter BepE
+PAMNMELI_01632	gene	1386	oprM			
+PAMNMELI_01632	CDS	1386	oprM		COG1538	Outer membrane protein OprM
+PAMNMELI_01633	gene	774	lpxA_2			
+PAMNMELI_01633	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+PAMNMELI_01634	gene	168				
+PAMNMELI_01634	CDS	168				hypothetical protein
+PAMNMELI_01635	gene	615	nqrC			
+PAMNMELI_01635	CDS	615	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+PAMNMELI_01636	gene	1152	nqrB			
+PAMNMELI_01636	CDS	1152	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+PAMNMELI_01637	gene	1350	nqrA			
+PAMNMELI_01637	CDS	1350	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+PAMNMELI_01638	gene	4482				
+PAMNMELI_01638	CDS	4482				hypothetical protein
+PAMNMELI_01639	gene	1194				
+PAMNMELI_01639	CDS	1194				hypothetical protein
+PAMNMELI_01640	gene	822	panB			
+PAMNMELI_01640	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+PAMNMELI_01641	gene	663	vldH			
+PAMNMELI_01641	CDS	663	vldH	3.1.3.101		Validoxylamine A 7'-phosphate phosphatase
+PAMNMELI_01642	gene	834				
+PAMNMELI_01642	CDS	834				hypothetical protein
+PAMNMELI_01643	gene	624	rsmG			
+PAMNMELI_01643	CDS	624	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+PAMNMELI_01644	gene	645				
+PAMNMELI_01644	CDS	645		3.-.-.-		putative protein
+PAMNMELI_01645	gene	558	ruvC			
+PAMNMELI_01645	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+PAMNMELI_01646	gene	111				
+PAMNMELI_01646	CDS	111				hypothetical protein
+PAMNMELI_01647	gene	468				
+PAMNMELI_01647	CDS	468				hypothetical protein
+PAMNMELI_01648	gene	687				
+PAMNMELI_01648	CDS	687				hypothetical protein
+PAMNMELI_01649	gene	1152				
+PAMNMELI_01649	CDS	1152				hypothetical protein
+PAMNMELI_01650	gene	2037	glgB_2			
+PAMNMELI_01650	CDS	2037	glgB_2	2.4.1.18	COG0296	1,4-alpha-glucan branching enzyme GlgB
+PAMNMELI_01651	gene	756				
+PAMNMELI_01651	CDS	756				hypothetical protein
+PAMNMELI_01652	gene	417				
+PAMNMELI_01652	CDS	417				hypothetical protein
+PAMNMELI_01653	gene	372	rlpA			
+PAMNMELI_01653	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+PAMNMELI_01654	gene	1344	gdhB			
+PAMNMELI_01654	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+PAMNMELI_01655	gene	387	nudG			
+PAMNMELI_01655	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+PAMNMELI_01656	gene	4716	rep_2			
+PAMNMELI_01656	CDS	4716	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+PAMNMELI_01657	gene	1371				
+PAMNMELI_01657	CDS	1371				hypothetical protein
+PAMNMELI_01658	gene	126				
+PAMNMELI_01658	CDS	126				hypothetical protein
+PAMNMELI_01659	gene	834				
+PAMNMELI_01659	CDS	834				hypothetical protein
+PAMNMELI_01660	gene	471				
+PAMNMELI_01660	CDS	471				hypothetical protein
+PAMNMELI_01661	gene	993	rpoA			
+PAMNMELI_01661	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+PAMNMELI_01662	gene	609	rpsD			
+PAMNMELI_01662	CDS	609	rpsD			30S ribosomal protein S4
+PAMNMELI_01663	gene	387	rpsK			
+PAMNMELI_01663	CDS	387	rpsK			30S ribosomal protein S11
+PAMNMELI_01664	gene	381	rpsM			
+PAMNMELI_01664	CDS	381	rpsM			30S ribosomal protein S13
+PAMNMELI_01665	gene	117	ykgO			
+PAMNMELI_01665	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+PAMNMELI_01666	gene	219	infA			
+PAMNMELI_01666	CDS	219	infA			Translation initiation factor IF-1
+PAMNMELI_01667	gene	750	map_2			
+PAMNMELI_01667	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+PAMNMELI_01668	gene	1338	secY			
+PAMNMELI_01668	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+PAMNMELI_01669	gene	447	rplO			
+PAMNMELI_01669	CDS	447	rplO		COG0200	50S ribosomal protein L15
+PAMNMELI_01670	gene	177	rpmD			
+PAMNMELI_01670	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+PAMNMELI_01671	gene	516	rpsE			
+PAMNMELI_01671	CDS	516	rpsE		COG0098	30S ribosomal protein S5
+PAMNMELI_01672	gene	345	rplR			
+PAMNMELI_01672	CDS	345	rplR		COG0256	50S ribosomal protein L18
+PAMNMELI_01673	gene	435	rplF			
+PAMNMELI_01673	CDS	435	rplF		COG0097	50S ribosomal protein L6
+PAMNMELI_01674	gene	300				
+PAMNMELI_01674	CDS	300			COG0776	DNA-binding protein HRL53
+PAMNMELI_01675	gene	90				
+PAMNMELI_01675	CDS	90				hypothetical protein
+PAMNMELI_01676	gene	1575	rne			
+PAMNMELI_01676	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+PAMNMELI_01677	gene	444	guaD			
+PAMNMELI_01677	CDS	444	guaD	3.5.4.3	COG0590	Guanine deaminase
+PAMNMELI_01678	gene	162				
+PAMNMELI_01678	CDS	162			COG1773	Rubredoxin
+PAMNMELI_01679	gene	657	ppaX			
+PAMNMELI_01679	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+PAMNMELI_01680	gene	705	ttcA			
+PAMNMELI_01680	CDS	705	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+PAMNMELI_01681	gene	507				
+PAMNMELI_01681	CDS	507				hypothetical protein
+PAMNMELI_01682	gene	762	ydfG			
+PAMNMELI_01682	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+PAMNMELI_01683	gene	1698	glgE			
+PAMNMELI_01683	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+PAMNMELI_01684	gene	894	fabD			
+PAMNMELI_01684	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+PAMNMELI_01685	gene	5424				
+PAMNMELI_01685	CDS	5424				hypothetical protein
+PAMNMELI_01686	gene	459				
+PAMNMELI_01686	CDS	459				hypothetical protein
+PAMNMELI_01687	gene	2379				
+PAMNMELI_01687	CDS	2379				hypothetical protein
+PAMNMELI_01688	gene	1065	purR			
+PAMNMELI_01688	CDS	1065	purR			HTH-type transcriptional repressor PurR
+PAMNMELI_01689	gene	753				
+PAMNMELI_01689	CDS	753				hypothetical protein
+PAMNMELI_01690	gene	1212				
+PAMNMELI_01690	CDS	1212				hypothetical protein
+PAMNMELI_01691	gene	204				
+PAMNMELI_01691	CDS	204				hypothetical protein
+PAMNMELI_01692	gene	74				
+PAMNMELI_01692	tRNA	74				tRNA-Cys(gca)
+PAMNMELI_01693	gene	789				
+PAMNMELI_01693	CDS	789				hypothetical protein
+PAMNMELI_01694	gene	2238				
+PAMNMELI_01694	CDS	2238				hypothetical protein
+PAMNMELI_01695	gene	729				
+PAMNMELI_01695	CDS	729				hypothetical protein
+PAMNMELI_01696	gene	924				
+PAMNMELI_01696	CDS	924				hypothetical protein
+PAMNMELI_01697	gene	888				
+PAMNMELI_01697	CDS	888				hypothetical protein
+PAMNMELI_01698	gene	76				
+PAMNMELI_01698	tRNA	76				tRNA-Arg(tct)
+PAMNMELI_01699	gene	984				
+PAMNMELI_01699	CDS	984		1.-.-.-		Oxidoreductase P35
+PAMNMELI_01700	gene	1131				
+PAMNMELI_01700	CDS	1131				hypothetical protein
+PAMNMELI_01701	gene	855				
+PAMNMELI_01701	CDS	855				hypothetical protein
+PAMNMELI_01702	gene	231				
+PAMNMELI_01702	CDS	231				hypothetical protein
+PAMNMELI_01703	gene	651				
+PAMNMELI_01703	CDS	651				hypothetical protein
+PAMNMELI_01704	gene	3108	hsdR			
+PAMNMELI_01704	CDS	3108	hsdR	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+PAMNMELI_01705	gene	555				
+PAMNMELI_01705	CDS	555				hypothetical protein
+PAMNMELI_01706	gene	1248				
+PAMNMELI_01706	CDS	1248				hypothetical protein
+PAMNMELI_01707	gene	846				
+PAMNMELI_01707	CDS	846				hypothetical protein
+PAMNMELI_01708	gene	1548				
+PAMNMELI_01708	CDS	1548				hypothetical protein
+PAMNMELI_01709	gene	1827	msbA			
+PAMNMELI_01709	CDS	1827	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+PAMNMELI_01710	gene	378	ridA			
+PAMNMELI_01710	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+PAMNMELI_01711	gene	960				
+PAMNMELI_01711	CDS	960				hypothetical protein
+PAMNMELI_01712	gene	993	oleD			
+PAMNMELI_01712	CDS	993	oleD	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+PAMNMELI_01713	gene	2238	rnr			
+PAMNMELI_01713	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+PAMNMELI_01714	gene	864				
+PAMNMELI_01714	CDS	864				hypothetical protein
+PAMNMELI_01715	gene	654				
+PAMNMELI_01715	CDS	654				hypothetical protein
+PAMNMELI_01716	gene	465				
+PAMNMELI_01716	CDS	465				hypothetical protein
+PAMNMELI_01717	gene	957				
+PAMNMELI_01717	CDS	957				hypothetical protein
+PAMNMELI_01718	gene	1656	menD			
+PAMNMELI_01718	CDS	1656	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+PAMNMELI_01719	gene	1110	menF_2			
+PAMNMELI_01719	CDS	1110	menF_2	5.4.4.2		Isochorismate synthase MenF
+PAMNMELI_01720	gene	426				
+PAMNMELI_01720	CDS	426		3.1.2.-	COG2050	Putative esterase
+PAMNMELI_01721	gene	1539				
+PAMNMELI_01721	CDS	1539				hypothetical protein
+PAMNMELI_01722	gene	1431	purF			
+PAMNMELI_01722	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+PAMNMELI_01723	gene	891	dapA			
+PAMNMELI_01723	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+PAMNMELI_01724	gene	723				
+PAMNMELI_01724	CDS	723				hypothetical protein
+PAMNMELI_01725	gene	2499	clpC			
+PAMNMELI_01725	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+PAMNMELI_01726	gene	1563				
+PAMNMELI_01726	CDS	1563				hypothetical protein
+PAMNMELI_01727	gene	1269	nqrF			
+PAMNMELI_01727	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+PAMNMELI_01728	gene	627	nqrE			
+PAMNMELI_01728	CDS	627	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+PAMNMELI_01729	gene	279	nqrD			
+PAMNMELI_01729	CDS	279	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+PAMNMELI_01730	gene	216				
+PAMNMELI_01730	CDS	216				hypothetical protein
+PAMNMELI_01731	gene	1911				
+PAMNMELI_01731	CDS	1911				hypothetical protein
+PAMNMELI_01732	gene	612	nreC			
+PAMNMELI_01732	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+PAMNMELI_01733	gene	1050	nrdB			
+PAMNMELI_01733	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+PAMNMELI_01734	gene	2520				
+PAMNMELI_01734	CDS	2520				hypothetical protein
+PAMNMELI_01735	gene	3018				
+PAMNMELI_01735	CDS	3018				hypothetical protein
+PAMNMELI_01736	gene	147				
+PAMNMELI_01736	CDS	147				hypothetical protein
+PAMNMELI_01737	gene	2604	yoaB			
+PAMNMELI_01737	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+PAMNMELI_01738	gene	621				
+PAMNMELI_01738	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+PAMNMELI_01739	gene	945	ribF			
+PAMNMELI_01739	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+PAMNMELI_01740	gene	444	rpiB			
+PAMNMELI_01740	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+PAMNMELI_01741	gene	1995	tkt			
+PAMNMELI_01741	CDS	1995	tkt	2.2.1.1		Transketolase
+PAMNMELI_01742	gene	900	rluD_2			
+PAMNMELI_01742	CDS	900	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+PAMNMELI_01743	gene	156				
+PAMNMELI_01743	CDS	156				hypothetical protein
+PAMNMELI_01744	gene	1785				
+PAMNMELI_01744	CDS	1785				hypothetical protein
+PAMNMELI_01745	gene	1932				
+PAMNMELI_01745	CDS	1932				hypothetical protein
+PAMNMELI_01746	gene	3303				
+PAMNMELI_01746	CDS	3303				hypothetical protein
+PAMNMELI_01747	gene	153				
+PAMNMELI_01747	CDS	153				hypothetical protein
+PAMNMELI_01748	gene	2100				
+PAMNMELI_01748	CDS	2100				hypothetical protein
+PAMNMELI_01749	gene	393				
+PAMNMELI_01749	CDS	393				hypothetical protein
+PAMNMELI_01750	gene	714				
+PAMNMELI_01750	CDS	714				hypothetical protein
+PAMNMELI_01751	gene	645				
+PAMNMELI_01751	CDS	645				hypothetical protein
+PAMNMELI_01752	gene	1632				
+PAMNMELI_01752	CDS	1632				hypothetical protein
+PAMNMELI_01753	gene	666				
+PAMNMELI_01753	CDS	666				hypothetical protein
+PAMNMELI_01754	gene	2784	cobQ			
+PAMNMELI_01754	CDS	2784	cobQ			Cobyric acid synthase
+PAMNMELI_01755	gene	2178	btuB_7			
+PAMNMELI_01755	CDS	2178	btuB_7			Vitamin B12 transporter BtuB
+PAMNMELI_01756	gene	2133	btuB_8			
+PAMNMELI_01756	CDS	2133	btuB_8			Vitamin B12 transporter BtuB
+PAMNMELI_01757	gene	1140	cbiKp			
+PAMNMELI_01757	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+PAMNMELI_01758	gene	219				
+PAMNMELI_01758	CDS	219				hypothetical protein
+PAMNMELI_01759	gene	219				
+PAMNMELI_01759	CDS	219				hypothetical protein
+PAMNMELI_01760	gene	1584				
+PAMNMELI_01760	CDS	1584				hypothetical protein
+PAMNMELI_01761	gene	1365	sufD			
+PAMNMELI_01761	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+PAMNMELI_01762	gene	756	sufC			
+PAMNMELI_01762	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+PAMNMELI_01763	gene	366				
+PAMNMELI_01763	CDS	366				hypothetical protein
+PAMNMELI_01764	gene	1458	sufB			
+PAMNMELI_01764	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+PAMNMELI_01765	gene	2868	infB			
+PAMNMELI_01765	CDS	2868	infB			Translation initiation factor IF-2
+PAMNMELI_01766	gene	1257	nusA			
+PAMNMELI_01766	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+PAMNMELI_01767	gene	465	rimP			
+PAMNMELI_01767	CDS	465	rimP			Ribosome maturation factor RimP
+PAMNMELI_01768	gene	540				
+PAMNMELI_01768	CDS	540				hypothetical protein
+PAMNMELI_01769	gene	561	frr			
+PAMNMELI_01769	CDS	561	frr		COG0233	Ribosome-recycling factor
+PAMNMELI_01770	gene	792	rsmA			
+PAMNMELI_01770	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+PAMNMELI_01771	gene	624				
+PAMNMELI_01771	CDS	624				hypothetical protein
+PAMNMELI_01772	gene	1317				
+PAMNMELI_01772	CDS	1317				hypothetical protein
+PAMNMELI_01773	gene	411				
+PAMNMELI_01773	CDS	411				Single-stranded DNA-binding protein
+PAMNMELI_01774	gene	549				
+PAMNMELI_01774	CDS	549				hypothetical protein
+PAMNMELI_01775	gene	74				
+PAMNMELI_01775	tRNA	74				tRNA-Gly(gcc)
+PAMNMELI_01776	gene	84				
+PAMNMELI_01776	tRNA	84				tRNA-Leu(gag)
+PAMNMELI_01777	gene	84				
+PAMNMELI_01777	tRNA	84				tRNA-Leu(cag)
+PAMNMELI_01778	gene	74				
+PAMNMELI_01778	tRNA	74				tRNA-Gly(gcc)
+PAMNMELI_01779	gene	1176	nspC			
+PAMNMELI_01779	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+PAMNMELI_01780	gene	555	rbr3A			
+PAMNMELI_01780	CDS	555	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+PAMNMELI_01781	gene	1362	hisS			
+PAMNMELI_01781	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+PAMNMELI_01782	gene	1275	purA			
+PAMNMELI_01782	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+PAMNMELI_01783	gene	513				
+PAMNMELI_01783	CDS	513				hypothetical protein
+PAMNMELI_01784	gene	612				
+PAMNMELI_01784	CDS	612				hypothetical protein
+PAMNMELI_01785	gene	897				
+PAMNMELI_01785	CDS	897				hypothetical protein
+PAMNMELI_01786	gene	1944	rlhA			
+PAMNMELI_01786	CDS	1944	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+PAMNMELI_01787	gene	1017				
+PAMNMELI_01787	CDS	1017				hypothetical protein
+PAMNMELI_01788	gene	2421	btuB_9			
+PAMNMELI_01788	CDS	2421	btuB_9			Vitamin B12 transporter BtuB
+PAMNMELI_01789	gene	2205				
+PAMNMELI_01789	CDS	2205				hypothetical protein
+PAMNMELI_01790	gene	1578	glcA			
+PAMNMELI_01790	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+PAMNMELI_01791	gene	1134	hemW			
+PAMNMELI_01791	CDS	1134	hemW		COG0635	Heme chaperone HemW
+PAMNMELI_01792	gene	534				
+PAMNMELI_01792	CDS	534				hypothetical protein
+PAMNMELI_01793	gene	2004				
+PAMNMELI_01793	CDS	2004				hypothetical protein
+PAMNMELI_01794	gene	705	cobB			
+PAMNMELI_01794	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+PAMNMELI_01795	gene	156				
+PAMNMELI_01795	CDS	156				hypothetical protein
+PAMNMELI_01796	gene	1188				
+PAMNMELI_01796	CDS	1188				hypothetical protein
+PAMNMELI_01797	gene	3633				
+PAMNMELI_01797	CDS	3633				hypothetical protein
+PAMNMELI_01798	gene	1056	yhcG_2			
+PAMNMELI_01798	CDS	1056	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+PAMNMELI_01799	gene	123				
+PAMNMELI_01799	CDS	123				hypothetical protein
+PAMNMELI_01800	gene	1887	yfkN_2			
+PAMNMELI_01800	CDS	1887	yfkN_2		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+PAMNMELI_01801	gene	780	nudC_3			
+PAMNMELI_01801	CDS	780	nudC_3	3.6.1.22		NADH pyrophosphatase
+PAMNMELI_01802	gene	2826	uvrA_2			
+PAMNMELI_01802	CDS	2826	uvrA_2		COG0178	UvrABC system protein A
+PAMNMELI_01803	gene	74				
+PAMNMELI_01803	tRNA	74				tRNA-Gly(ccc)
+PAMNMELI_01804	gene	76				
+PAMNMELI_01804	tRNA	76				tRNA-Thr(cgt)
+PAMNMELI_01805	gene	597	carQ			
+PAMNMELI_01805	CDS	597	carQ		COG1595	RNA polymerase sigma factor CarQ
+PAMNMELI_01806	gene	648	rpe			
+PAMNMELI_01806	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+PAMNMELI_01807	gene	126				
+PAMNMELI_01807	CDS	126				hypothetical protein
+PAMNMELI_01808	gene	696	trpF			
+PAMNMELI_01808	CDS	696	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+PAMNMELI_01809	gene	564	pabA			
+PAMNMELI_01809	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+PAMNMELI_01810	gene	771	yhgF			
+PAMNMELI_01810	CDS	771	yhgF		COG2183	Protein YhgF
+PAMNMELI_01811	gene	261				
+PAMNMELI_01811	CDS	261				hypothetical protein
+PAMNMELI_01812	gene	345	rplT			
+PAMNMELI_01812	CDS	345	rplT			50S ribosomal protein L20
+PAMNMELI_01813	gene	198	rpmI			
+PAMNMELI_01813	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+PAMNMELI_01814	gene	696	infC			
+PAMNMELI_01814	CDS	696	infC			Translation initiation factor IF-3
+PAMNMELI_01815	gene	738	yafV			
+PAMNMELI_01815	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+PAMNMELI_01816	gene	1623				
+PAMNMELI_01816	CDS	1623				hypothetical protein
+PAMNMELI_01817	gene	573				
+PAMNMELI_01817	CDS	573				hypothetical protein
+PAMNMELI_01818	gene	1311	dapL			
+PAMNMELI_01818	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+PAMNMELI_01819	gene	624				
+PAMNMELI_01819	CDS	624				hypothetical protein
+PAMNMELI_01820	gene	726				
+PAMNMELI_01820	CDS	726				hypothetical protein
+PAMNMELI_01821	gene	552				
+PAMNMELI_01821	CDS	552				hypothetical protein
+PAMNMELI_01822	gene	552				
+PAMNMELI_01822	CDS	552				IS982 family transposase ISCca4
+PAMNMELI_01823	gene	1506				
+PAMNMELI_01823	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+PAMNMELI_01824	gene	2295				
+PAMNMELI_01824	CDS	2295				hypothetical protein
+PAMNMELI_01825	gene	3030				
+PAMNMELI_01825	CDS	3030				hypothetical protein
+PAMNMELI_01826	gene	498	yrdA			
+PAMNMELI_01826	CDS	498	yrdA		COG0663	Protein YrdA
+PAMNMELI_01827	gene	822	dapB			
+PAMNMELI_01827	CDS	822	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+PAMNMELI_01828	gene	1440				
+PAMNMELI_01828	CDS	1440				hypothetical protein
+PAMNMELI_01829	gene	411				
+PAMNMELI_01829	CDS	411				hypothetical protein
+PAMNMELI_01830	gene	606				
+PAMNMELI_01830	CDS	606				hypothetical protein
+PAMNMELI_01831	gene	1218	pyrP			
+PAMNMELI_01831	CDS	1218	pyrP			Uracil permease
+PAMNMELI_01832	gene	744				
+PAMNMELI_01832	CDS	744				hypothetical protein
+PAMNMELI_01833	gene	1296	adeP			
+PAMNMELI_01833	CDS	1296	adeP		COG2252	Adenine permease AdeP
+PAMNMELI_01834	gene	561				
+PAMNMELI_01834	CDS	561				hypothetical protein
+PAMNMELI_01835	gene	270				
+PAMNMELI_01835	CDS	270				hypothetical protein
+PAMNMELI_01836	gene	345				
+PAMNMELI_01836	CDS	345				hypothetical protein
+PAMNMELI_01837	gene	699	copR			
+PAMNMELI_01837	CDS	699	copR			Transcriptional activator protein CopR
+PAMNMELI_01838	gene	1548	sasA_4			
+PAMNMELI_01838	CDS	1548	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+PAMNMELI_01839	gene	687				
+PAMNMELI_01839	CDS	687				hypothetical protein
+PAMNMELI_01840	gene	2076	fusA			
+PAMNMELI_01840	CDS	2076	fusA		COG0480	Elongation factor G
+PAMNMELI_01841	gene	756				
+PAMNMELI_01841	CDS	756				hypothetical protein
+PAMNMELI_01842	gene	609				
+PAMNMELI_01842	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+PAMNMELI_01843	gene	159				
+PAMNMELI_01843	CDS	159				hypothetical protein
+PAMNMELI_01844	gene	117				
+PAMNMELI_01844	CDS	117				hypothetical protein
+PAMNMELI_01845	gene	894				
+PAMNMELI_01845	CDS	894				hypothetical protein
+PAMNMELI_01846	gene	2139				
+PAMNMELI_01846	CDS	2139				hypothetical protein
+PAMNMELI_01847	gene	1002				
+PAMNMELI_01847	CDS	1002				hypothetical protein
+PAMNMELI_01848	gene	180				
+PAMNMELI_01848	CDS	180				hypothetical protein
+PAMNMELI_01849	gene	3588				
+PAMNMELI_01849	CDS	3588				hypothetical protein
+PAMNMELI_01850	gene	177				
+PAMNMELI_01850	CDS	177				hypothetical protein
+PAMNMELI_01851	gene	927				
+PAMNMELI_01851	CDS	927				hypothetical protein
+PAMNMELI_01852	gene	141				
+PAMNMELI_01852	CDS	141				hypothetical protein
+PAMNMELI_01853	gene	1461	pepD			
+PAMNMELI_01853	CDS	1461	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+PAMNMELI_01854	gene	963				
+PAMNMELI_01854	CDS	963				hypothetical protein
+PAMNMELI_01855	gene	1149	lpxB			
+PAMNMELI_01855	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+PAMNMELI_01856	gene	531	surE			
+PAMNMELI_01856	CDS	531	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+PAMNMELI_01857	gene	1356				
+PAMNMELI_01857	CDS	1356				hypothetical protein
+PAMNMELI_01858	gene	1038	pheS			
+PAMNMELI_01858	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+PAMNMELI_01859	gene	390				
+PAMNMELI_01859	CDS	390				hypothetical protein
+PAMNMELI_01860	gene	1212				
+PAMNMELI_01860	CDS	1212				hypothetical protein
+PAMNMELI_01861	gene	936	arnC			
+PAMNMELI_01861	CDS	936	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+PAMNMELI_01862	gene	99				
+PAMNMELI_01862	CDS	99				hypothetical protein
+PAMNMELI_01863	gene	762	soj			
+PAMNMELI_01863	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+PAMNMELI_01864	gene	900	parB			
+PAMNMELI_01864	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+PAMNMELI_01865	gene	765				
+PAMNMELI_01865	CDS	765				hypothetical protein
+PAMNMELI_01866	gene	1536				
+PAMNMELI_01866	CDS	1536				hypothetical protein
+PAMNMELI_01867	gene	1311				
+PAMNMELI_01867	CDS	1311				hypothetical protein
+PAMNMELI_01868	gene	1494	patA_2			
+PAMNMELI_01868	CDS	1494	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+PAMNMELI_01869	gene	201				
+PAMNMELI_01869	CDS	201				hypothetical protein
+PAMNMELI_01870	gene	417				
+PAMNMELI_01870	CDS	417				hypothetical protein
+PAMNMELI_01871	gene	852				
+PAMNMELI_01871	CDS	852				hypothetical protein
+PAMNMELI_01872	gene	1026	murB_2			
+PAMNMELI_01872	CDS	1026	murB_2	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+PAMNMELI_01873	gene	774	rbn			
+PAMNMELI_01873	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+PAMNMELI_01874	gene	294				
+PAMNMELI_01874	CDS	294				hypothetical protein
+PAMNMELI_01875	gene	369				
+PAMNMELI_01875	CDS	369				hypothetical protein
+PAMNMELI_01876	gene	216				
+PAMNMELI_01876	CDS	216				hypothetical protein
+PAMNMELI_01877	gene	1503				
+PAMNMELI_01877	CDS	1503				hypothetical protein
+PAMNMELI_01878	gene	732	mtgA			
+PAMNMELI_01878	CDS	732	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+PAMNMELI_01879	gene	291				
+PAMNMELI_01879	CDS	291				hypothetical protein

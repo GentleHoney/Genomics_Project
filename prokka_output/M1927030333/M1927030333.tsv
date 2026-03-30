@@ -1,0 +1,4163 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+EHJNDFMC_00001	gene	1785				
+EHJNDFMC_00001	CDS	1785				hypothetical protein
+EHJNDFMC_00002	gene	1932				
+EHJNDFMC_00002	CDS	1932				hypothetical protein
+EHJNDFMC_00003	gene	3303				
+EHJNDFMC_00003	CDS	3303				hypothetical protein
+EHJNDFMC_00004	gene	147				
+EHJNDFMC_00004	CDS	147				hypothetical protein
+EHJNDFMC_00005	gene	2100				
+EHJNDFMC_00005	CDS	2100				hypothetical protein
+EHJNDFMC_00006	gene	642				
+EHJNDFMC_00006	CDS	642				hypothetical protein
+EHJNDFMC_00007	gene	642				
+EHJNDFMC_00007	CDS	642				hypothetical protein
+EHJNDFMC_00008	gene	903	menA			
+EHJNDFMC_00008	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+EHJNDFMC_00009	gene	2280				
+EHJNDFMC_00009	CDS	2280				hypothetical protein
+EHJNDFMC_00010	gene	255				
+EHJNDFMC_00010	CDS	255				hypothetical protein
+EHJNDFMC_00011	gene	2040	uvrB			
+EHJNDFMC_00011	CDS	2040	uvrB		COG0556	UvrABC system protein B
+EHJNDFMC_00012	gene	2460				
+EHJNDFMC_00012	CDS	2460				hypothetical protein
+EHJNDFMC_00013	gene	897	bamD			
+EHJNDFMC_00013	CDS	897	bamD			Outer membrane protein assembly factor BamD
+EHJNDFMC_00014	gene	351				
+EHJNDFMC_00014	CDS	351				hypothetical protein
+EHJNDFMC_00015	gene	459				
+EHJNDFMC_00015	CDS	459				hypothetical protein
+EHJNDFMC_00016	gene	567				
+EHJNDFMC_00016	CDS	567				hypothetical protein
+EHJNDFMC_00017	gene	237				
+EHJNDFMC_00017	CDS	237				hypothetical protein
+EHJNDFMC_00018	gene	477	ribH			
+EHJNDFMC_00018	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+EHJNDFMC_00019	gene	741				
+EHJNDFMC_00019	CDS	741				hypothetical protein
+EHJNDFMC_00020	gene	1095	recF			
+EHJNDFMC_00020	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+EHJNDFMC_00021	gene	291				
+EHJNDFMC_00021	CDS	291				hypothetical protein
+EHJNDFMC_00022	gene	498	yqgN			
+EHJNDFMC_00022	CDS	498	yqgN		COG0212	putative protein YqgN
+EHJNDFMC_00023	gene	1698				
+EHJNDFMC_00023	CDS	1698				hypothetical protein
+EHJNDFMC_00024	gene	444	tadA_1			
+EHJNDFMC_00024	CDS	444	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+EHJNDFMC_00025	gene	2094	prlC			
+EHJNDFMC_00025	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+EHJNDFMC_00026	gene	618				
+EHJNDFMC_00026	CDS	618				hypothetical protein
+EHJNDFMC_00027	gene	942	apbE			
+EHJNDFMC_00027	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+EHJNDFMC_00028	gene	681				
+EHJNDFMC_00028	CDS	681				hypothetical protein
+EHJNDFMC_00029	gene	486				
+EHJNDFMC_00029	CDS	486				hypothetical protein
+EHJNDFMC_00030	gene	951	rgtE			
+EHJNDFMC_00030	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+EHJNDFMC_00031	gene	579				
+EHJNDFMC_00031	CDS	579				hypothetical protein
+EHJNDFMC_00032	gene	633				
+EHJNDFMC_00032	CDS	633				hypothetical protein
+EHJNDFMC_00033	gene	639				
+EHJNDFMC_00033	CDS	639				hypothetical protein
+EHJNDFMC_00034	gene	480				
+EHJNDFMC_00034	CDS	480				hypothetical protein
+EHJNDFMC_00035	gene	117				
+EHJNDFMC_00035	CDS	117				hypothetical protein
+EHJNDFMC_00036	gene	1182	bdhA			
+EHJNDFMC_00036	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+EHJNDFMC_00037	gene	678				
+EHJNDFMC_00037	CDS	678				hypothetical protein
+EHJNDFMC_00038	gene	351	ndhC			
+EHJNDFMC_00038	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+EHJNDFMC_00039	gene	750	ndhK			
+EHJNDFMC_00039	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+EHJNDFMC_00040	gene	1563	nuoC			
+EHJNDFMC_00040	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+EHJNDFMC_00041	gene	1089	nuoH			
+EHJNDFMC_00041	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+EHJNDFMC_00042	gene	534	nuoI			
+EHJNDFMC_00042	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+EHJNDFMC_00043	gene	513				
+EHJNDFMC_00043	CDS	513				hypothetical protein
+EHJNDFMC_00044	gene	312	nuoK			
+EHJNDFMC_00044	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+EHJNDFMC_00045	gene	1989	nuoL			
+EHJNDFMC_00045	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+EHJNDFMC_00046	gene	1500	ndhD1			
+EHJNDFMC_00046	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+EHJNDFMC_00047	gene	1437	ndhB			
+EHJNDFMC_00047	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+EHJNDFMC_00048	gene	990				
+EHJNDFMC_00048	CDS	990				hypothetical protein
+EHJNDFMC_00049	gene	150				
+EHJNDFMC_00049	CDS	150				hypothetical protein
+EHJNDFMC_00050	gene	198				
+EHJNDFMC_00050	CDS	198				hypothetical protein
+EHJNDFMC_00051	gene	3342				
+EHJNDFMC_00051	CDS	3342				hypothetical protein
+EHJNDFMC_00052	gene	1584				
+EHJNDFMC_00052	CDS	1584				hypothetical protein
+EHJNDFMC_00053	gene	1185				
+EHJNDFMC_00053	CDS	1185				hypothetical protein
+EHJNDFMC_00054	gene	744				
+EHJNDFMC_00054	CDS	744				hypothetical protein
+EHJNDFMC_00055	gene	3306	carB			
+EHJNDFMC_00055	CDS	3306	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+EHJNDFMC_00056	gene	2484				
+EHJNDFMC_00056	CDS	2484				hypothetical protein
+EHJNDFMC_00057	gene	876	rfbA			
+EHJNDFMC_00057	CDS	876	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+EHJNDFMC_00058	gene	624				
+EHJNDFMC_00058	CDS	624				hypothetical protein
+EHJNDFMC_00059	gene	300				
+EHJNDFMC_00059	CDS	300				hypothetical protein
+EHJNDFMC_00060	gene	345				
+EHJNDFMC_00060	CDS	345				hypothetical protein
+EHJNDFMC_00061	gene	1533	rny_1			
+EHJNDFMC_00061	CDS	1533	rny_1	3.1.-.-	COG1418	Ribonuclease Y
+EHJNDFMC_00062	gene	957				
+EHJNDFMC_00062	CDS	957				hypothetical protein
+EHJNDFMC_00063	gene	585	malT			
+EHJNDFMC_00063	CDS	585	malT			HTH-type transcriptional regulator MalT
+EHJNDFMC_00064	gene	1158	gcdB			
+EHJNDFMC_00064	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+EHJNDFMC_00065	gene	450	gcdC			
+EHJNDFMC_00065	CDS	450	gcdC	7.2.4.5	COG0511	Glutaconyl-CoA decarboxylase subunit gamma
+EHJNDFMC_00066	gene	957				
+EHJNDFMC_00066	CDS	957				hypothetical protein
+EHJNDFMC_00067	gene	1716	aspT_1			
+EHJNDFMC_00067	CDS	1716	aspT_1			Aspartate/alanine antiporter
+EHJNDFMC_00068	gene	450				
+EHJNDFMC_00068	CDS	450				hypothetical protein
+EHJNDFMC_00069	gene	657	gpx1			
+EHJNDFMC_00069	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+EHJNDFMC_00070	gene	174				
+EHJNDFMC_00070	CDS	174				hypothetical protein
+EHJNDFMC_00071	gene	516	COQ3			
+EHJNDFMC_00071	CDS	516	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+EHJNDFMC_00072	gene	1059				
+EHJNDFMC_00072	CDS	1059				hypothetical protein
+EHJNDFMC_00073	gene	1827				
+EHJNDFMC_00073	CDS	1827				hypothetical protein
+EHJNDFMC_00074	gene	306				
+EHJNDFMC_00074	CDS	306				hypothetical protein
+EHJNDFMC_00075	gene	2685				
+EHJNDFMC_00075	CDS	2685				hypothetical protein
+EHJNDFMC_00076	gene	555				
+EHJNDFMC_00076	CDS	555				hypothetical protein
+EHJNDFMC_00077	gene	273				
+EHJNDFMC_00077	CDS	273				hypothetical protein
+EHJNDFMC_00078	gene	1641	pfp			
+EHJNDFMC_00078	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+EHJNDFMC_00079	gene	804				
+EHJNDFMC_00079	CDS	804				hypothetical protein
+EHJNDFMC_00080	gene	882	prmC			
+EHJNDFMC_00080	CDS	882	prmC	2.1.1.297		Release factor glutamine methyltransferase
+EHJNDFMC_00081	gene	1023				
+EHJNDFMC_00081	CDS	1023				hypothetical protein
+EHJNDFMC_00082	gene	1623				
+EHJNDFMC_00082	CDS	1623				hypothetical protein
+EHJNDFMC_00083	gene	408				
+EHJNDFMC_00083	CDS	408				hypothetical protein
+EHJNDFMC_00084	gene	3585	ileS			
+EHJNDFMC_00084	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+EHJNDFMC_00085	gene	381	dksA			
+EHJNDFMC_00085	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+EHJNDFMC_00086	gene	633	lspA			
+EHJNDFMC_00086	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+EHJNDFMC_00087	gene	903				
+EHJNDFMC_00087	CDS	903				hypothetical protein
+EHJNDFMC_00088	gene	222				
+EHJNDFMC_00088	CDS	222				hypothetical protein
+EHJNDFMC_00089	gene	1482	proS			
+EHJNDFMC_00089	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+EHJNDFMC_00090	gene	696	pal_1			
+EHJNDFMC_00090	CDS	696	pal_1			Peptidoglycan-associated lipoprotein
+EHJNDFMC_00091	gene	708	mtgA			
+EHJNDFMC_00091	CDS	708	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+EHJNDFMC_00092	gene	2409	pcrA			
+EHJNDFMC_00092	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+EHJNDFMC_00093	gene	273	groS1			
+EHJNDFMC_00093	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+EHJNDFMC_00094	gene	1632	groL			
+EHJNDFMC_00094	CDS	1632	groL		COG0459	60 kDa chaperonin
+EHJNDFMC_00095	gene	252				
+EHJNDFMC_00095	CDS	252				hypothetical protein
+EHJNDFMC_00096	gene	690				
+EHJNDFMC_00096	CDS	690				hypothetical protein
+EHJNDFMC_00097	gene	2682				
+EHJNDFMC_00097	CDS	2682				hypothetical protein
+EHJNDFMC_00098	gene	189				
+EHJNDFMC_00098	CDS	189				hypothetical protein
+EHJNDFMC_00099	gene	1557	rapZ			
+EHJNDFMC_00099	CDS	1557	rapZ			RNase adapter protein RapZ
+EHJNDFMC_00100	gene	1221				
+EHJNDFMC_00100	CDS	1221				hypothetical protein
+EHJNDFMC_00101	gene	1044	lpxD			
+EHJNDFMC_00101	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+EHJNDFMC_00102	gene	1386	lpxC			
+EHJNDFMC_00102	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+EHJNDFMC_00103	gene	774	lpxA_1			
+EHJNDFMC_00103	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EHJNDFMC_00104	gene	909	miaA_1			
+EHJNDFMC_00104	CDS	909	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EHJNDFMC_00105	gene	2469	mrcA_1			
+EHJNDFMC_00105	CDS	2469	mrcA_1		COG5009	Penicillin-binding protein 1A
+EHJNDFMC_00106	gene	2559				
+EHJNDFMC_00106	CDS	2559				hypothetical protein
+EHJNDFMC_00107	gene	171				
+EHJNDFMC_00107	CDS	171				hypothetical protein
+EHJNDFMC_00108	gene	672	yknY_1			
+EHJNDFMC_00108	CDS	672	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EHJNDFMC_00109	gene	1260	macB_1			
+EHJNDFMC_00109	CDS	1260	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+EHJNDFMC_00110	gene	1248	macB_2			
+EHJNDFMC_00110	CDS	1248	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+EHJNDFMC_00111	gene	1113	macA			
+EHJNDFMC_00111	CDS	1113	macA		COG0845	Macrolide export protein MacA
+EHJNDFMC_00112	gene	2064	dsbD			
+EHJNDFMC_00112	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+EHJNDFMC_00113	gene	606				
+EHJNDFMC_00113	CDS	606				hypothetical protein
+EHJNDFMC_00114	gene	987	miaA_2			
+EHJNDFMC_00114	CDS	987	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+EHJNDFMC_00115	gene	933	ytlR			
+EHJNDFMC_00115	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+EHJNDFMC_00116	gene	1917				
+EHJNDFMC_00116	CDS	1917				hypothetical protein
+EHJNDFMC_00117	gene	1269	mshA_1			
+EHJNDFMC_00117	CDS	1269	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHJNDFMC_00118	gene	1416				
+EHJNDFMC_00118	CDS	1416				hypothetical protein
+EHJNDFMC_00119	gene	825	pyrF			
+EHJNDFMC_00119	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+EHJNDFMC_00120	gene	1113	prfA			
+EHJNDFMC_00120	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+EHJNDFMC_00121	gene	1203	purM			
+EHJNDFMC_00121	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+EHJNDFMC_00122	gene	741	aroE			
+EHJNDFMC_00122	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+EHJNDFMC_00123	gene	735	menG			
+EHJNDFMC_00123	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+EHJNDFMC_00124	gene	981	purC			
+EHJNDFMC_00124	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+EHJNDFMC_00125	gene	981				
+EHJNDFMC_00125	CDS	981			COG1702	PhoH-like protein
+EHJNDFMC_00126	gene	801				
+EHJNDFMC_00126	CDS	801				hypothetical protein
+EHJNDFMC_00127	gene	813				
+EHJNDFMC_00127	CDS	813				hypothetical protein
+EHJNDFMC_00128	gene	1278	rarA			
+EHJNDFMC_00128	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+EHJNDFMC_00129	gene	621				
+EHJNDFMC_00129	CDS	621				hypothetical protein
+EHJNDFMC_00130	gene	75				
+EHJNDFMC_00130	tRNA	75				tRNA-Arg(acg)
+EHJNDFMC_00131	gene	726	murU			
+EHJNDFMC_00131	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+EHJNDFMC_00132	gene	1566	guaA			
+EHJNDFMC_00132	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+EHJNDFMC_00133	gene	459	ogt			
+EHJNDFMC_00133	CDS	459	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+EHJNDFMC_00134	gene	339				
+EHJNDFMC_00134	CDS	339				hypothetical protein
+EHJNDFMC_00135	gene	855				
+EHJNDFMC_00135	CDS	855				hypothetical protein
+EHJNDFMC_00136	gene	1314	pdhD			
+EHJNDFMC_00136	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+EHJNDFMC_00137	gene	1509	gcvPB			
+EHJNDFMC_00137	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+EHJNDFMC_00138	gene	1326	gcvPA			
+EHJNDFMC_00138	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+EHJNDFMC_00139	gene	387	gcvH			
+EHJNDFMC_00139	CDS	387	gcvH			Glycine cleavage system H protein
+EHJNDFMC_00140	gene	1095	gcvT			
+EHJNDFMC_00140	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+EHJNDFMC_00141	gene	1038	lplJ			
+EHJNDFMC_00141	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+EHJNDFMC_00142	gene	423	mscL			
+EHJNDFMC_00142	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+EHJNDFMC_00143	gene	156				
+EHJNDFMC_00143	CDS	156				hypothetical protein
+EHJNDFMC_00144	gene	1011	gapA			
+EHJNDFMC_00144	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+EHJNDFMC_00145	gene	780	zupT			
+EHJNDFMC_00145	CDS	780	zupT		COG0428	Zinc transporter ZupT
+EHJNDFMC_00146	gene	873	sigA_1			
+EHJNDFMC_00146	CDS	873	sigA_1		COG0568	RNA polymerase sigma factor SigA
+EHJNDFMC_00147	gene	450				
+EHJNDFMC_00147	CDS	450				hypothetical protein
+EHJNDFMC_00148	gene	1779	rpsA			
+EHJNDFMC_00148	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+EHJNDFMC_00149	gene	207				
+EHJNDFMC_00149	CDS	207				hypothetical protein
+EHJNDFMC_00150	gene	195				
+EHJNDFMC_00150	CDS	195				hypothetical protein
+EHJNDFMC_00151	gene	1332	mtaB			
+EHJNDFMC_00151	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+EHJNDFMC_00152	gene	1020				
+EHJNDFMC_00152	CDS	1020				hypothetical protein
+EHJNDFMC_00153	gene	579				
+EHJNDFMC_00153	CDS	579				hypothetical protein
+EHJNDFMC_00154	gene	360	yjbR			
+EHJNDFMC_00154	CDS	360	yjbR		COG2315	putative protein YjbR
+EHJNDFMC_00155	gene	1344	glyA			
+EHJNDFMC_00155	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+EHJNDFMC_00156	gene	1116	thiL			
+EHJNDFMC_00156	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+EHJNDFMC_00157	gene	660	punA			
+EHJNDFMC_00157	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+EHJNDFMC_00158	gene	1173	lpxK			
+EHJNDFMC_00158	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+EHJNDFMC_00159	gene	1767	sppA			
+EHJNDFMC_00159	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+EHJNDFMC_00160	gene	735				
+EHJNDFMC_00160	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+EHJNDFMC_00161	gene	549				
+EHJNDFMC_00161	CDS	549				hypothetical protein
+EHJNDFMC_00162	gene	249				
+EHJNDFMC_00162	CDS	249				hypothetical protein
+EHJNDFMC_00163	gene	780				
+EHJNDFMC_00163	CDS	780				hypothetical protein
+EHJNDFMC_00164	gene	405				
+EHJNDFMC_00164	CDS	405				hypothetical protein
+EHJNDFMC_00165	gene	978				
+EHJNDFMC_00165	CDS	978				hypothetical protein
+EHJNDFMC_00166	gene	621				
+EHJNDFMC_00166	CDS	621				hypothetical protein
+EHJNDFMC_00167	gene	492				
+EHJNDFMC_00167	CDS	492				hypothetical protein
+EHJNDFMC_00168	gene	675				
+EHJNDFMC_00168	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+EHJNDFMC_00169	gene	978				
+EHJNDFMC_00169	CDS	978				hypothetical protein
+EHJNDFMC_00170	gene	999	dagK			
+EHJNDFMC_00170	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+EHJNDFMC_00171	gene	102				
+EHJNDFMC_00171	CDS	102				hypothetical protein
+EHJNDFMC_00172	gene	1329	nupG			
+EHJNDFMC_00172	CDS	1329	nupG			Nucleoside permease NupG
+EHJNDFMC_00173	gene	564				
+EHJNDFMC_00173	CDS	564				hypothetical protein
+EHJNDFMC_00174	gene	732	rsmE			
+EHJNDFMC_00174	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+EHJNDFMC_00175	gene	1341				
+EHJNDFMC_00175	CDS	1341				hypothetical protein
+EHJNDFMC_00176	gene	645	ytrE			
+EHJNDFMC_00176	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+EHJNDFMC_00177	gene	1200				
+EHJNDFMC_00177	CDS	1200				hypothetical protein
+EHJNDFMC_00178	gene	3288				
+EHJNDFMC_00178	CDS	3288				hypothetical protein
+EHJNDFMC_00179	gene	339				
+EHJNDFMC_00179	CDS	339				hypothetical protein
+EHJNDFMC_00180	gene	591				
+EHJNDFMC_00180	CDS	591				hypothetical protein
+EHJNDFMC_00181	gene	564				
+EHJNDFMC_00181	CDS	564				hypothetical protein
+EHJNDFMC_00182	gene	687				
+EHJNDFMC_00182	CDS	687				hypothetical protein
+EHJNDFMC_00183	gene	543	mtcA1			
+EHJNDFMC_00183	CDS	543	mtcA1	4.2.1.1	COG0288	Beta-carbonic anhydrase 1
+EHJNDFMC_00184	gene	495				
+EHJNDFMC_00184	CDS	495				hypothetical protein
+EHJNDFMC_00185	gene	699				
+EHJNDFMC_00185	CDS	699				hypothetical protein
+EHJNDFMC_00186	gene	1059				
+EHJNDFMC_00186	CDS	1059				hypothetical protein
+EHJNDFMC_00187	gene	939				
+EHJNDFMC_00187	CDS	939			COG2826	IS30 family transposase IS4351
+EHJNDFMC_00188	gene	726				
+EHJNDFMC_00188	CDS	726			COG0217	putative transcriptional regulatory protein
+EHJNDFMC_00189	gene	2463	pheT			
+EHJNDFMC_00189	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+EHJNDFMC_00190	gene	648				
+EHJNDFMC_00190	CDS	648				hypothetical protein
+EHJNDFMC_00191	gene	711				
+EHJNDFMC_00191	CDS	711				hypothetical protein
+EHJNDFMC_00192	gene	636	nth			
+EHJNDFMC_00192	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+EHJNDFMC_00193	gene	606				
+EHJNDFMC_00193	CDS	606				hypothetical protein
+EHJNDFMC_00194	gene	231				
+EHJNDFMC_00194	CDS	231				hypothetical protein
+EHJNDFMC_00195	gene	1455	pepD_1			
+EHJNDFMC_00195	CDS	1455	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+EHJNDFMC_00196	gene	2055	htpG			
+EHJNDFMC_00196	CDS	2055	htpG			Chaperone protein HtpG
+EHJNDFMC_00197	gene	1248	lolE_1			
+EHJNDFMC_00197	CDS	1248	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+EHJNDFMC_00198	gene	1665	lcfB			
+EHJNDFMC_00198	CDS	1665	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+EHJNDFMC_00199	gene	1533	pntB			
+EHJNDFMC_00199	CDS	1533	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+EHJNDFMC_00200	gene	315	pntA_1			
+EHJNDFMC_00200	CDS	315	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+EHJNDFMC_00201	gene	1158	pntA_2			
+EHJNDFMC_00201	CDS	1158	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+EHJNDFMC_00202	gene	1833	LIAS			
+EHJNDFMC_00202	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+EHJNDFMC_00203	gene	165				
+EHJNDFMC_00203	CDS	165				hypothetical protein
+EHJNDFMC_00204	gene	90				
+EHJNDFMC_00204	CDS	90				hypothetical protein
+EHJNDFMC_00205	gene	825				
+EHJNDFMC_00205	CDS	825				hypothetical protein
+EHJNDFMC_00206	gene	627				
+EHJNDFMC_00206	CDS	627				hypothetical protein
+EHJNDFMC_00207	gene	114				
+EHJNDFMC_00207	CDS	114				hypothetical protein
+EHJNDFMC_00208	gene	1725	caiA			
+EHJNDFMC_00208	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+EHJNDFMC_00209	gene	1026	carE			
+EHJNDFMC_00209	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+EHJNDFMC_00210	gene	873	carD			
+EHJNDFMC_00210	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+EHJNDFMC_00211	gene	642				
+EHJNDFMC_00211	CDS	642				hypothetical protein
+EHJNDFMC_00212	gene	1401	algC_1			
+EHJNDFMC_00212	CDS	1401	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+EHJNDFMC_00213	gene	1533	pafA			
+EHJNDFMC_00213	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+EHJNDFMC_00214	gene	7554				
+EHJNDFMC_00214	CDS	7554				hypothetical protein
+EHJNDFMC_00215	gene	606	ruvA			
+EHJNDFMC_00215	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+EHJNDFMC_00216	gene	900	ddh			
+EHJNDFMC_00216	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+EHJNDFMC_00217	gene	1431	pepC			
+EHJNDFMC_00217	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+EHJNDFMC_00218	gene	1023	ilvE			
+EHJNDFMC_00218	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+EHJNDFMC_00219	gene	171	xseB			
+EHJNDFMC_00219	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+EHJNDFMC_00220	gene	1323	xseA			
+EHJNDFMC_00220	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+EHJNDFMC_00221	gene	1404	mepA			
+EHJNDFMC_00221	CDS	1404	mepA			Multidrug export protein MepA
+EHJNDFMC_00222	gene	630	cmk_1			
+EHJNDFMC_00222	CDS	630	cmk_1	2.7.4.25		Cytidylate kinase
+EHJNDFMC_00223	gene	1134	rfbB_1			
+EHJNDFMC_00223	CDS	1134	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+EHJNDFMC_00224	gene	411	fdtA			
+EHJNDFMC_00224	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+EHJNDFMC_00225	gene	939				
+EHJNDFMC_00225	CDS	939				hypothetical protein
+EHJNDFMC_00226	gene	1239	fdtB			
+EHJNDFMC_00226	CDS	1239	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+EHJNDFMC_00227	gene	1884				
+EHJNDFMC_00227	CDS	1884				hypothetical protein
+EHJNDFMC_00228	gene	1242				
+EHJNDFMC_00228	CDS	1242				hypothetical protein
+EHJNDFMC_00229	gene	537	sigE_1			
+EHJNDFMC_00229	CDS	537	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+EHJNDFMC_00230	gene	549				
+EHJNDFMC_00230	CDS	549				hypothetical protein
+EHJNDFMC_00231	gene	585				
+EHJNDFMC_00231	CDS	585				hypothetical protein
+EHJNDFMC_00232	gene	1371	lutB			
+EHJNDFMC_00232	CDS	1371	lutB		COG1139	Lactate utilization protein B
+EHJNDFMC_00233	gene	738	lutA			
+EHJNDFMC_00233	CDS	738	lutA		COG0247	Lactate utilization protein A
+EHJNDFMC_00234	gene	2040	topB			
+EHJNDFMC_00234	CDS	2040	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+EHJNDFMC_00235	gene	432				
+EHJNDFMC_00235	CDS	432				hypothetical protein
+EHJNDFMC_00236	gene	1386				
+EHJNDFMC_00236	CDS	1386				hypothetical protein
+EHJNDFMC_00237	gene	1026	mltG			
+EHJNDFMC_00237	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+EHJNDFMC_00238	gene	309				
+EHJNDFMC_00238	CDS	309				hypothetical protein
+EHJNDFMC_00239	gene	1707	glnS			
+EHJNDFMC_00239	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+EHJNDFMC_00240	gene	1365	bepA_1			
+EHJNDFMC_00240	CDS	1365	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+EHJNDFMC_00241	gene	636				
+EHJNDFMC_00241	CDS	636				hypothetical protein
+EHJNDFMC_00242	gene	1272	apgM			
+EHJNDFMC_00242	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EHJNDFMC_00243	gene	606	ribE			
+EHJNDFMC_00243	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+EHJNDFMC_00244	gene	1326				
+EHJNDFMC_00244	CDS	1326				hypothetical protein
+EHJNDFMC_00245	gene	642	gph_1			
+EHJNDFMC_00245	CDS	642	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+EHJNDFMC_00246	gene	1314				
+EHJNDFMC_00246	CDS	1314				hypothetical protein
+EHJNDFMC_00247	gene	972	ravA			
+EHJNDFMC_00247	CDS	972	ravA	3.6.3.-		ATPase RavA
+EHJNDFMC_00248	gene	1356				
+EHJNDFMC_00248	CDS	1356				hypothetical protein
+EHJNDFMC_00249	gene	618				
+EHJNDFMC_00249	CDS	618				hypothetical protein
+EHJNDFMC_00250	gene	924				
+EHJNDFMC_00250	CDS	924				hypothetical protein
+EHJNDFMC_00251	gene	969				
+EHJNDFMC_00251	CDS	969				hypothetical protein
+EHJNDFMC_00252	gene	732				
+EHJNDFMC_00252	CDS	732				hypothetical protein
+EHJNDFMC_00253	gene	1611	ybiT			
+EHJNDFMC_00253	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+EHJNDFMC_00254	gene	582	grpE			
+EHJNDFMC_00254	CDS	582	grpE		COG0576	Protein GrpE
+EHJNDFMC_00255	gene	1173	dnaJ			
+EHJNDFMC_00255	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+EHJNDFMC_00256	gene	1224	fpgS			
+EHJNDFMC_00256	CDS	1224	fpgS	6.3.2.17		Folylpolyglutamate synthase
+EHJNDFMC_00257	gene	1191	mro			
+EHJNDFMC_00257	CDS	1191	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+EHJNDFMC_00258	gene	1377	fucP			
+EHJNDFMC_00258	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+EHJNDFMC_00259	gene	1044				
+EHJNDFMC_00259	CDS	1044				hypothetical protein
+EHJNDFMC_00260	gene	612				
+EHJNDFMC_00260	CDS	612				hypothetical protein
+EHJNDFMC_00261	gene	93				
+EHJNDFMC_00261	CDS	93				hypothetical protein
+EHJNDFMC_00262	gene	1560				
+EHJNDFMC_00262	CDS	1560				hypothetical protein
+EHJNDFMC_00263	gene	2493				
+EHJNDFMC_00263	CDS	2493				hypothetical protein
+EHJNDFMC_00264	gene	117				
+EHJNDFMC_00264	CDS	117				hypothetical protein
+EHJNDFMC_00265	gene	105				
+EHJNDFMC_00265	CDS	105				hypothetical protein
+EHJNDFMC_00266	gene	1542	glyQS			
+EHJNDFMC_00266	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+EHJNDFMC_00267	gene	582				
+EHJNDFMC_00267	CDS	582				hypothetical protein
+EHJNDFMC_00268	gene	339				
+EHJNDFMC_00268	CDS	339				hypothetical protein
+EHJNDFMC_00269	gene	123				
+EHJNDFMC_00269	CDS	123				hypothetical protein
+EHJNDFMC_00270	gene	1374	yeeO			
+EHJNDFMC_00270	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+EHJNDFMC_00271	gene	822	cmk_2			
+EHJNDFMC_00271	CDS	822	cmk_2	2.7.4.25		Cytidylate kinase
+EHJNDFMC_00272	gene	405				
+EHJNDFMC_00272	CDS	405				hypothetical protein
+EHJNDFMC_00273	gene	1251	tdcG			
+EHJNDFMC_00273	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+EHJNDFMC_00274	gene	2640	rep_1			
+EHJNDFMC_00274	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+EHJNDFMC_00275	gene	1404				
+EHJNDFMC_00275	CDS	1404				hypothetical protein
+EHJNDFMC_00276	gene	1098	ybhR_1			
+EHJNDFMC_00276	CDS	1098	ybhR_1		COG0842	putative multidrug ABC transporter permease YbhR
+EHJNDFMC_00277	gene	1065	ybhS			
+EHJNDFMC_00277	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+EHJNDFMC_00278	gene	1476	rbbA			
+EHJNDFMC_00278	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+EHJNDFMC_00279	gene	888				
+EHJNDFMC_00279	CDS	888				hypothetical protein
+EHJNDFMC_00280	gene	1296				
+EHJNDFMC_00280	CDS	1296				hypothetical protein
+EHJNDFMC_00281	gene	1932				
+EHJNDFMC_00281	CDS	1932				hypothetical protein
+EHJNDFMC_00282	gene	1038				
+EHJNDFMC_00282	CDS	1038				hypothetical protein
+EHJNDFMC_00283	gene	1593	prfC			
+EHJNDFMC_00283	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+EHJNDFMC_00284	gene	858	rmlD			
+EHJNDFMC_00284	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+EHJNDFMC_00285	gene	579				
+EHJNDFMC_00285	CDS	579				hypothetical protein
+EHJNDFMC_00286	gene	690				
+EHJNDFMC_00286	CDS	690				hypothetical protein
+EHJNDFMC_00287	gene	138				
+EHJNDFMC_00287	CDS	138				hypothetical protein
+EHJNDFMC_00288	gene	981	glkA			
+EHJNDFMC_00288	CDS	981	glkA	2.7.1.2		Glucokinase
+EHJNDFMC_00289	gene	519				
+EHJNDFMC_00289	CDS	519				hypothetical protein
+EHJNDFMC_00290	gene	114				
+EHJNDFMC_00290	CDS	114				hypothetical protein
+EHJNDFMC_00291	gene	2067	pal_2			
+EHJNDFMC_00291	CDS	2067	pal_2			Peptidoglycan-associated lipoprotein
+EHJNDFMC_00292	gene	360				
+EHJNDFMC_00292	CDS	360				hypothetical protein
+EHJNDFMC_00293	gene	543	algU			
+EHJNDFMC_00293	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+EHJNDFMC_00294	gene	186				
+EHJNDFMC_00294	CDS	186				hypothetical protein
+EHJNDFMC_00295	gene	777				
+EHJNDFMC_00295	CDS	777				hypothetical protein
+EHJNDFMC_00296	gene	1410	rsmF			
+EHJNDFMC_00296	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+EHJNDFMC_00297	gene	795	thyA			
+EHJNDFMC_00297	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+EHJNDFMC_00298	gene	486	dfrA			
+EHJNDFMC_00298	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+EHJNDFMC_00299	gene	135				
+EHJNDFMC_00299	CDS	135				hypothetical protein
+EHJNDFMC_00300	gene	486	asnC_1			
+EHJNDFMC_00300	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+EHJNDFMC_00301	gene	807	tolQ_1			
+EHJNDFMC_00301	CDS	807	tolQ_1			Tol-Pal system protein TolQ
+EHJNDFMC_00302	gene	477				
+EHJNDFMC_00302	CDS	477				hypothetical protein
+EHJNDFMC_00303	gene	498				
+EHJNDFMC_00303	CDS	498				hypothetical protein
+EHJNDFMC_00304	gene	483				
+EHJNDFMC_00304	CDS	483				hypothetical protein
+EHJNDFMC_00305	gene	534	maa			
+EHJNDFMC_00305	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+EHJNDFMC_00306	gene	555	resA_1			
+EHJNDFMC_00306	CDS	555	resA_1			Thiol-disulfide oxidoreductase ResA
+EHJNDFMC_00307	gene	1452				
+EHJNDFMC_00307	CDS	1452				hypothetical protein
+EHJNDFMC_00308	gene	480				
+EHJNDFMC_00308	CDS	480				hypothetical protein
+EHJNDFMC_00309	gene	2160	apxIB_1			
+EHJNDFMC_00309	CDS	2160	apxIB_1		COG2274	Toxin RTX-I translocation ATP-binding protein
+EHJNDFMC_00310	gene	2334				
+EHJNDFMC_00310	CDS	2334				hypothetical protein
+EHJNDFMC_00311	gene	1320				
+EHJNDFMC_00311	CDS	1320				hypothetical protein
+EHJNDFMC_00312	gene	192				
+EHJNDFMC_00312	CDS	192				hypothetical protein
+EHJNDFMC_00313	gene	276				
+EHJNDFMC_00313	CDS	276				hypothetical protein
+EHJNDFMC_00314	gene	186				
+EHJNDFMC_00314	CDS	186				hypothetical protein
+EHJNDFMC_00315	gene	450				
+EHJNDFMC_00315	CDS	450				hypothetical protein
+EHJNDFMC_00316	gene	441				
+EHJNDFMC_00316	CDS	441				hypothetical protein
+EHJNDFMC_00317	gene	89				
+EHJNDFMC_00317	tRNA	89				tRNA-Ser(gga)
+EHJNDFMC_00318	gene	837	dtd3			
+EHJNDFMC_00318	CDS	837	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+EHJNDFMC_00319	gene	699				
+EHJNDFMC_00319	CDS	699				hypothetical protein
+EHJNDFMC_00320	gene	975				
+EHJNDFMC_00320	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+EHJNDFMC_00321	gene	720				
+EHJNDFMC_00321	CDS	720				hypothetical protein
+EHJNDFMC_00322	gene	951				
+EHJNDFMC_00322	CDS	951				hypothetical protein
+EHJNDFMC_00323	gene	2682	parC			
+EHJNDFMC_00323	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+EHJNDFMC_00324	gene	861				
+EHJNDFMC_00324	CDS	861				hypothetical protein
+EHJNDFMC_00325	gene	1005				
+EHJNDFMC_00325	CDS	1005				hypothetical protein
+EHJNDFMC_00326	gene	828	btuD_1			
+EHJNDFMC_00326	CDS	828	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EHJNDFMC_00327	gene	83				
+EHJNDFMC_00327	tRNA	83				tRNA-Leu(tag)
+EHJNDFMC_00328	gene	861	ispH			
+EHJNDFMC_00328	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+EHJNDFMC_00329	gene	1101				
+EHJNDFMC_00329	CDS	1101		3.6.-.-	COG1703	putative GTPase
+EHJNDFMC_00330	gene	1065				
+EHJNDFMC_00330	CDS	1065				hypothetical protein
+EHJNDFMC_00331	gene	5553				
+EHJNDFMC_00331	CDS	5553				hypothetical protein
+EHJNDFMC_00332	gene	453	bcp			
+EHJNDFMC_00332	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+EHJNDFMC_00333	gene	2028				
+EHJNDFMC_00333	CDS	2028				hypothetical protein
+EHJNDFMC_00334	gene	2106	f1pep1			
+EHJNDFMC_00334	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+EHJNDFMC_00335	gene	102				
+EHJNDFMC_00335	CDS	102				hypothetical protein
+EHJNDFMC_00336	gene	768				
+EHJNDFMC_00336	CDS	768				hypothetical protein
+EHJNDFMC_00337	gene	765				
+EHJNDFMC_00337	CDS	765				hypothetical protein
+EHJNDFMC_00338	gene	744				
+EHJNDFMC_00338	CDS	744				hypothetical protein
+EHJNDFMC_00339	gene	2601	clpB1			
+EHJNDFMC_00339	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+EHJNDFMC_00340	gene	1257				
+EHJNDFMC_00340	CDS	1257				hypothetical protein
+EHJNDFMC_00341	gene	2181	recQ			
+EHJNDFMC_00341	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+EHJNDFMC_00342	gene	1230	clpX_1			
+EHJNDFMC_00342	CDS	1230	clpX_1		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+EHJNDFMC_00343	gene	666	clpP			
+EHJNDFMC_00343	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+EHJNDFMC_00344	gene	1356	tig			
+EHJNDFMC_00344	CDS	1356	tig	5.2.1.8		Trigger factor
+EHJNDFMC_00345	gene	3099				
+EHJNDFMC_00345	CDS	3099				hypothetical protein
+EHJNDFMC_00346	gene	582	resA_2			
+EHJNDFMC_00346	CDS	582	resA_2			Thiol-disulfide oxidoreductase ResA
+EHJNDFMC_00347	gene	939	prs			
+EHJNDFMC_00347	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+EHJNDFMC_00348	gene	609				
+EHJNDFMC_00348	CDS	609				hypothetical protein
+EHJNDFMC_00349	gene	825	lptB_1			
+EHJNDFMC_00349	CDS	825	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+EHJNDFMC_00350	gene	564				
+EHJNDFMC_00350	CDS	564				hypothetical protein
+EHJNDFMC_00351	gene	747	mlaE			
+EHJNDFMC_00351	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+EHJNDFMC_00352	gene	777	mkl			
+EHJNDFMC_00352	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+EHJNDFMC_00353	gene	399				
+EHJNDFMC_00353	CDS	399				hypothetical protein
+EHJNDFMC_00354	gene	1317	der			
+EHJNDFMC_00354	CDS	1317	der		COG1160	GTPase Der
+EHJNDFMC_00355	gene	1056	era			
+EHJNDFMC_00355	CDS	1056	era		COG1159	GTPase Era
+EHJNDFMC_00356	gene	1011	fabH			
+EHJNDFMC_00356	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+EHJNDFMC_00357	gene	189	rpmF			
+EHJNDFMC_00357	CDS	189	rpmF			50S ribosomal protein L32
+EHJNDFMC_00358	gene	522				
+EHJNDFMC_00358	CDS	522				hypothetical protein
+EHJNDFMC_00359	gene	522				
+EHJNDFMC_00359	CDS	522				hypothetical protein
+EHJNDFMC_00360	gene	627				
+EHJNDFMC_00360	CDS	627				hypothetical protein
+EHJNDFMC_00361	gene	1440				
+EHJNDFMC_00361	CDS	1440				hypothetical protein
+EHJNDFMC_00362	gene	360				
+EHJNDFMC_00362	CDS	360				hypothetical protein
+EHJNDFMC_00363	gene	1164	sasA_1			
+EHJNDFMC_00363	CDS	1164	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+EHJNDFMC_00364	gene	627				
+EHJNDFMC_00364	CDS	627				hypothetical protein
+EHJNDFMC_00365	gene	375				
+EHJNDFMC_00365	CDS	375				hypothetical protein
+EHJNDFMC_00366	gene	93				
+EHJNDFMC_00366	rRNA	93				5S ribosomal RNA (partial)
+EHJNDFMC_00367	gene	786				
+EHJNDFMC_00367	CDS	786				hypothetical protein
+EHJNDFMC_00368	gene	1545	comM			
+EHJNDFMC_00368	CDS	1545	comM		COG0606	Competence protein ComM
+EHJNDFMC_00369	gene	1233				
+EHJNDFMC_00369	CDS	1233			COG2081	putative protein
+EHJNDFMC_00370	gene	2166	ptpA			
+EHJNDFMC_00370	CDS	2166	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+EHJNDFMC_00371	gene	1638	rlmL			
+EHJNDFMC_00371	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+EHJNDFMC_00372	gene	117				
+EHJNDFMC_00372	CDS	117				hypothetical protein
+EHJNDFMC_00373	gene	717				
+EHJNDFMC_00373	CDS	717				hypothetical protein
+EHJNDFMC_00374	gene	813				
+EHJNDFMC_00374	CDS	813				hypothetical protein
+EHJNDFMC_00375	gene	933				
+EHJNDFMC_00375	CDS	933				hypothetical protein
+EHJNDFMC_00376	gene	705	gph_2			
+EHJNDFMC_00376	CDS	705	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+EHJNDFMC_00377	gene	2583				
+EHJNDFMC_00377	CDS	2583				hypothetical protein
+EHJNDFMC_00378	gene	432				
+EHJNDFMC_00378	CDS	432				hypothetical protein
+EHJNDFMC_00379	gene	1641				
+EHJNDFMC_00379	CDS	1641				hypothetical protein
+EHJNDFMC_00380	gene	2565	glgP			
+EHJNDFMC_00380	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+EHJNDFMC_00381	gene	936				
+EHJNDFMC_00381	CDS	936				hypothetical protein
+EHJNDFMC_00382	gene	1251	pgk			
+EHJNDFMC_00382	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+EHJNDFMC_00383	gene	147				
+EHJNDFMC_00383	CDS	147				hypothetical protein
+EHJNDFMC_00384	gene	663	queC			
+EHJNDFMC_00384	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+EHJNDFMC_00385	gene	879				
+EHJNDFMC_00385	CDS	879				hypothetical protein
+EHJNDFMC_00386	gene	2403	feoB			
+EHJNDFMC_00386	CDS	2403	feoB		COG0370	Fe(2+) transporter FeoB
+EHJNDFMC_00387	gene	756	kdsB			
+EHJNDFMC_00387	CDS	756	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+EHJNDFMC_00388	gene	1104				
+EHJNDFMC_00388	CDS	1104				hypothetical protein
+EHJNDFMC_00389	gene	2037	glgB_1			
+EHJNDFMC_00389	CDS	2037	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+EHJNDFMC_00390	gene	1152				
+EHJNDFMC_00390	CDS	1152				hypothetical protein
+EHJNDFMC_00391	gene	687				
+EHJNDFMC_00391	CDS	687				hypothetical protein
+EHJNDFMC_00392	gene	468				
+EHJNDFMC_00392	CDS	468				hypothetical protein
+EHJNDFMC_00393	gene	111				
+EHJNDFMC_00393	CDS	111				hypothetical protein
+EHJNDFMC_00394	gene	558	ruvC			
+EHJNDFMC_00394	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+EHJNDFMC_00395	gene	645				
+EHJNDFMC_00395	CDS	645		3.-.-.-		putative protein
+EHJNDFMC_00396	gene	624	rsmG			
+EHJNDFMC_00396	CDS	624	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+EHJNDFMC_00397	gene	834				
+EHJNDFMC_00397	CDS	834				hypothetical protein
+EHJNDFMC_00398	gene	663	vldH			
+EHJNDFMC_00398	CDS	663	vldH	3.1.3.101		Validoxylamine A 7'-phosphate phosphatase
+EHJNDFMC_00399	gene	822	panB			
+EHJNDFMC_00399	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+EHJNDFMC_00400	gene	1194				
+EHJNDFMC_00400	CDS	1194				hypothetical protein
+EHJNDFMC_00401	gene	4482				
+EHJNDFMC_00401	CDS	4482				hypothetical protein
+EHJNDFMC_00402	gene	1350	nqrA			
+EHJNDFMC_00402	CDS	1350	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+EHJNDFMC_00403	gene	1152	nqrB			
+EHJNDFMC_00403	CDS	1152	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+EHJNDFMC_00404	gene	615	nqrC			
+EHJNDFMC_00404	CDS	615	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+EHJNDFMC_00405	gene	627	nqrD			
+EHJNDFMC_00405	CDS	627	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+EHJNDFMC_00406	gene	627	nqrE			
+EHJNDFMC_00406	CDS	627	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+EHJNDFMC_00407	gene	1269	nqrF			
+EHJNDFMC_00407	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+EHJNDFMC_00408	gene	1563				
+EHJNDFMC_00408	CDS	1563				hypothetical protein
+EHJNDFMC_00409	gene	2499	clpC			
+EHJNDFMC_00409	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+EHJNDFMC_00410	gene	723				
+EHJNDFMC_00410	CDS	723				hypothetical protein
+EHJNDFMC_00411	gene	891	dapA			
+EHJNDFMC_00411	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+EHJNDFMC_00412	gene	1431	purF			
+EHJNDFMC_00412	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+EHJNDFMC_00413	gene	1539				
+EHJNDFMC_00413	CDS	1539				hypothetical protein
+EHJNDFMC_00414	gene	426				
+EHJNDFMC_00414	CDS	426		3.1.2.-	COG2050	Putative esterase
+EHJNDFMC_00415	gene	1110	menF_1			
+EHJNDFMC_00415	CDS	1110	menF_1	5.4.4.2		Isochorismate synthase MenF
+EHJNDFMC_00416	gene	1602	menD			
+EHJNDFMC_00416	CDS	1602	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+EHJNDFMC_00417	gene	582				
+EHJNDFMC_00417	CDS	582				hypothetical protein
+EHJNDFMC_00418	gene	1269				
+EHJNDFMC_00418	CDS	1269				hypothetical protein
+EHJNDFMC_00419	gene	399				
+EHJNDFMC_00419	CDS	399				hypothetical protein
+EHJNDFMC_00420	gene	1320	dbpA			
+EHJNDFMC_00420	CDS	1320	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+EHJNDFMC_00421	gene	1068	serC			
+EHJNDFMC_00421	CDS	1068	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+EHJNDFMC_00422	gene	918				
+EHJNDFMC_00422	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+EHJNDFMC_00423	gene	1248				
+EHJNDFMC_00423	CDS	1248				hypothetical protein
+EHJNDFMC_00424	gene	585	yigZ			
+EHJNDFMC_00424	CDS	585	yigZ		COG1739	IMPACT family member YigZ
+EHJNDFMC_00425	gene	88				
+EHJNDFMC_00425	tRNA	88				tRNA-Ser(cga)
+EHJNDFMC_00426	gene	864	sigA_2			
+EHJNDFMC_00426	CDS	864	sigA_2			RNA polymerase sigma factor SigA
+EHJNDFMC_00427	gene	393				
+EHJNDFMC_00427	CDS	393				hypothetical protein
+EHJNDFMC_00428	gene	894				
+EHJNDFMC_00428	CDS	894				hypothetical protein
+EHJNDFMC_00429	gene	495				
+EHJNDFMC_00429	CDS	495				hypothetical protein
+EHJNDFMC_00430	gene	273				
+EHJNDFMC_00430	CDS	273				hypothetical protein
+EHJNDFMC_00431	gene	531				
+EHJNDFMC_00431	CDS	531				hypothetical protein
+EHJNDFMC_00432	gene	1959				
+EHJNDFMC_00432	CDS	1959				hypothetical protein
+EHJNDFMC_00433	gene	612				
+EHJNDFMC_00433	CDS	612				hypothetical protein
+EHJNDFMC_00434	gene	513				
+EHJNDFMC_00434	CDS	513				hypothetical protein
+EHJNDFMC_00435	gene	1275	purA			
+EHJNDFMC_00435	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+EHJNDFMC_00436	gene	1362	hisS			
+EHJNDFMC_00436	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+EHJNDFMC_00437	gene	555	rbr3A			
+EHJNDFMC_00437	CDS	555	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+EHJNDFMC_00438	gene	1176	nspC			
+EHJNDFMC_00438	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+EHJNDFMC_00439	gene	74				
+EHJNDFMC_00439	tRNA	74				tRNA-Gly(gcc)
+EHJNDFMC_00440	gene	84				
+EHJNDFMC_00440	tRNA	84				tRNA-Leu(cag)
+EHJNDFMC_00441	gene	84				
+EHJNDFMC_00441	tRNA	84				tRNA-Leu(gag)
+EHJNDFMC_00442	gene	74				
+EHJNDFMC_00442	tRNA	74				tRNA-Gly(gcc)
+EHJNDFMC_00443	gene	549				
+EHJNDFMC_00443	CDS	549				hypothetical protein
+EHJNDFMC_00444	gene	399				
+EHJNDFMC_00444	CDS	399				Single-stranded DNA-binding protein
+EHJNDFMC_00445	gene	1317				
+EHJNDFMC_00445	CDS	1317				hypothetical protein
+EHJNDFMC_00446	gene	624				
+EHJNDFMC_00446	CDS	624				hypothetical protein
+EHJNDFMC_00447	gene	792	rsmA			
+EHJNDFMC_00447	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+EHJNDFMC_00448	gene	561	frr			
+EHJNDFMC_00448	CDS	561	frr		COG0233	Ribosome-recycling factor
+EHJNDFMC_00449	gene	933	rsgA			
+EHJNDFMC_00449	CDS	933	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+EHJNDFMC_00450	gene	1341				
+EHJNDFMC_00450	CDS	1341				hypothetical protein
+EHJNDFMC_00451	gene	816				
+EHJNDFMC_00451	CDS	816				hypothetical protein
+EHJNDFMC_00452	gene	918				
+EHJNDFMC_00452	CDS	918				hypothetical protein
+EHJNDFMC_00453	gene	2205	dap4			
+EHJNDFMC_00453	CDS	2205	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+EHJNDFMC_00454	gene	471	rlmH			
+EHJNDFMC_00454	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+EHJNDFMC_00455	gene	399				
+EHJNDFMC_00455	CDS	399				hypothetical protein
+EHJNDFMC_00456	gene	1749	pgcA			
+EHJNDFMC_00456	CDS	1749	pgcA	5.4.2.2		Phosphoglucomutase
+EHJNDFMC_00457	gene	1524				
+EHJNDFMC_00457	CDS	1524				hypothetical protein
+EHJNDFMC_00458	gene	2229	relA_1			
+EHJNDFMC_00458	CDS	2229	relA_1	2.7.6.5		GTP pyrophosphokinase
+EHJNDFMC_00459	gene	732	truA			
+EHJNDFMC_00459	CDS	732	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+EHJNDFMC_00460	gene	1506	dnaC			
+EHJNDFMC_00460	CDS	1506	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+EHJNDFMC_00461	gene	798	ispE			
+EHJNDFMC_00461	CDS	798	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EHJNDFMC_00462	gene	819				
+EHJNDFMC_00462	CDS	819				hypothetical protein
+EHJNDFMC_00463	gene	546	rfbC			
+EHJNDFMC_00463	CDS	546	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+EHJNDFMC_00464	gene	1059				
+EHJNDFMC_00464	CDS	1059				hypothetical protein
+EHJNDFMC_00465	gene	522				
+EHJNDFMC_00465	CDS	522				hypothetical protein
+EHJNDFMC_00466	gene	477	cdd			
+EHJNDFMC_00466	CDS	477	cdd	3.5.4.5	COG0295	Cytidine deaminase
+EHJNDFMC_00467	gene	1680				
+EHJNDFMC_00467	CDS	1680				hypothetical protein
+EHJNDFMC_00468	gene	549				
+EHJNDFMC_00468	CDS	549				hypothetical protein
+EHJNDFMC_00469	gene	2166	mutB			
+EHJNDFMC_00469	CDS	2166	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+EHJNDFMC_00470	gene	1866	icmF			
+EHJNDFMC_00470	CDS	1866	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+EHJNDFMC_00471	gene	372	flK			
+EHJNDFMC_00471	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+EHJNDFMC_00472	gene	630				
+EHJNDFMC_00472	CDS	630				hypothetical protein
+EHJNDFMC_00473	gene	801	rlmB_1			
+EHJNDFMC_00473	CDS	801	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+EHJNDFMC_00474	gene	792	rlmB_2			
+EHJNDFMC_00474	CDS	792	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+EHJNDFMC_00475	gene	375				
+EHJNDFMC_00475	CDS	375				hypothetical protein
+EHJNDFMC_00476	gene	1047	menC			
+EHJNDFMC_00476	CDS	1047	menC	4.2.1.113		o-succinylbenzoate synthase
+EHJNDFMC_00477	gene	819	menB			
+EHJNDFMC_00477	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+EHJNDFMC_00478	gene	420				
+EHJNDFMC_00478	CDS	420				hypothetical protein
+EHJNDFMC_00479	gene	303				
+EHJNDFMC_00479	CDS	303				hypothetical protein
+EHJNDFMC_00480	gene	1761	aspS			
+EHJNDFMC_00480	CDS	1761	aspS	6.1.1.12		Aspartate--tRNA ligase
+EHJNDFMC_00481	gene	384				
+EHJNDFMC_00481	CDS	384				hypothetical protein
+EHJNDFMC_00482	gene	1245				
+EHJNDFMC_00482	CDS	1245				hypothetical protein
+EHJNDFMC_00483	gene	1902	yidC			
+EHJNDFMC_00483	CDS	1902	yidC			Membrane protein insertase YidC
+EHJNDFMC_00484	gene	2169	dpp5			
+EHJNDFMC_00484	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+EHJNDFMC_00485	gene	1620				
+EHJNDFMC_00485	CDS	1620				hypothetical protein
+EHJNDFMC_00486	gene	3246	recB			
+EHJNDFMC_00486	CDS	3246	recB	3.1.11.5		RecBCD enzyme subunit RecB
+EHJNDFMC_00487	gene	2901	rexB			
+EHJNDFMC_00487	CDS	2901	rexB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+EHJNDFMC_00488	gene	138				
+EHJNDFMC_00488	CDS	138				hypothetical protein
+EHJNDFMC_00489	gene	1389	purD			
+EHJNDFMC_00489	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+EHJNDFMC_00490	gene	951				
+EHJNDFMC_00490	CDS	951				hypothetical protein
+EHJNDFMC_00491	gene	453	yqaA			
+EHJNDFMC_00491	CDS	453	yqaA		COG1238	Inner membrane protein YqaA
+EHJNDFMC_00492	gene	3336				
+EHJNDFMC_00492	CDS	3336				hypothetical protein
+EHJNDFMC_00493	gene	552				
+EHJNDFMC_00493	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+EHJNDFMC_00494	gene	966	queG			
+EHJNDFMC_00494	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+EHJNDFMC_00495	gene	339				
+EHJNDFMC_00495	CDS	339				hypothetical protein
+EHJNDFMC_00496	gene	1251	hutI			
+EHJNDFMC_00496	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+EHJNDFMC_00497	gene	1476	hutH			
+EHJNDFMC_00497	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+EHJNDFMC_00498	gene	2007	hutU			
+EHJNDFMC_00498	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+EHJNDFMC_00499	gene	1713				
+EHJNDFMC_00499	CDS	1713				hypothetical protein
+EHJNDFMC_00500	gene	1593	nadB			
+EHJNDFMC_00500	CDS	1593	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+EHJNDFMC_00501	gene	561				
+EHJNDFMC_00501	CDS	561				hypothetical protein
+EHJNDFMC_00502	gene	270				
+EHJNDFMC_00502	CDS	270				hypothetical protein
+EHJNDFMC_00503	gene	345				
+EHJNDFMC_00503	CDS	345				hypothetical protein
+EHJNDFMC_00504	gene	699	copR			
+EHJNDFMC_00504	CDS	699	copR			Transcriptional activator protein CopR
+EHJNDFMC_00505	gene	1548	sasA_2			
+EHJNDFMC_00505	CDS	1548	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+EHJNDFMC_00506	gene	687				
+EHJNDFMC_00506	CDS	687				hypothetical protein
+EHJNDFMC_00507	gene	2160	fusA_1			
+EHJNDFMC_00507	CDS	2160	fusA_1		COG0480	Elongation factor G
+EHJNDFMC_00508	gene	1134	hemW			
+EHJNDFMC_00508	CDS	1134	hemW		COG0635	Heme chaperone HemW
+EHJNDFMC_00509	gene	174				
+EHJNDFMC_00509	CDS	174				hypothetical protein
+EHJNDFMC_00510	gene	1578	glcA			
+EHJNDFMC_00510	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+EHJNDFMC_00511	gene	2217				
+EHJNDFMC_00511	CDS	2217				hypothetical protein
+EHJNDFMC_00512	gene	2409	btuB_1			
+EHJNDFMC_00512	CDS	2409	btuB_1			Vitamin B12 transporter BtuB
+EHJNDFMC_00513	gene	1017				
+EHJNDFMC_00513	CDS	1017				hypothetical protein
+EHJNDFMC_00514	gene	1944	rlhA			
+EHJNDFMC_00514	CDS	1944	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+EHJNDFMC_00515	gene	107				
+EHJNDFMC_00515	rRNA	107				5S ribosomal RNA
+EHJNDFMC_00516	gene	471				
+EHJNDFMC_00516	CDS	471				hypothetical protein
+EHJNDFMC_00517	gene	1026				
+EHJNDFMC_00517	CDS	1026				hypothetical protein
+EHJNDFMC_00518	gene	1518				
+EHJNDFMC_00518	CDS	1518		2.1.1.72	COG0286	putative type I restriction enzymeP M protein
+EHJNDFMC_00519	gene	2307				
+EHJNDFMC_00519	CDS	2307				hypothetical protein
+EHJNDFMC_00520	gene	144				
+EHJNDFMC_00520	CDS	144				hypothetical protein
+EHJNDFMC_00521	gene	76				
+EHJNDFMC_00521	tRNA	76				tRNA-Asn(gtt)
+EHJNDFMC_00522	gene	1734				
+EHJNDFMC_00522	CDS	1734				hypothetical protein
+EHJNDFMC_00523	gene	243				
+EHJNDFMC_00523	CDS	243				hypothetical protein
+EHJNDFMC_00524	gene	1179				
+EHJNDFMC_00524	CDS	1179				hypothetical protein
+EHJNDFMC_00525	gene	1356				
+EHJNDFMC_00525	CDS	1356				hypothetical protein
+EHJNDFMC_00526	gene	936				
+EHJNDFMC_00526	CDS	936				hypothetical protein
+EHJNDFMC_00527	gene	1566				
+EHJNDFMC_00527	CDS	1566				hypothetical protein
+EHJNDFMC_00528	gene	3327				
+EHJNDFMC_00528	CDS	3327				TonB-dependent receptor P26
+EHJNDFMC_00529	gene	291				
+EHJNDFMC_00529	CDS	291				hypothetical protein
+EHJNDFMC_00530	gene	606	rnhB			
+EHJNDFMC_00530	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+EHJNDFMC_00531	gene	1023				
+EHJNDFMC_00531	CDS	1023				hypothetical protein
+EHJNDFMC_00532	gene	123				
+EHJNDFMC_00532	CDS	123				hypothetical protein
+EHJNDFMC_00533	gene	2871				
+EHJNDFMC_00533	CDS	2871				hypothetical protein
+EHJNDFMC_00534	gene	2085				
+EHJNDFMC_00534	CDS	2085				hypothetical protein
+EHJNDFMC_00535	gene	1071				
+EHJNDFMC_00535	CDS	1071				hypothetical protein
+EHJNDFMC_00536	gene	507				
+EHJNDFMC_00536	CDS	507				hypothetical protein
+EHJNDFMC_00537	gene	2112	metG			
+EHJNDFMC_00537	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+EHJNDFMC_00538	gene	73				
+EHJNDFMC_00538	tRNA	73				tRNA-Arg(cct)
+EHJNDFMC_00539	gene	450				
+EHJNDFMC_00539	CDS	450				hypothetical protein
+EHJNDFMC_00540	gene	570				
+EHJNDFMC_00540	CDS	570				hypothetical protein
+EHJNDFMC_00541	gene	465	sigE_2			
+EHJNDFMC_00541	CDS	465	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+EHJNDFMC_00542	gene	471				
+EHJNDFMC_00542	CDS	471				hypothetical protein
+EHJNDFMC_00543	gene	1353	sufS			
+EHJNDFMC_00543	CDS	1353	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+EHJNDFMC_00544	gene	5739				
+EHJNDFMC_00544	CDS	5739				hypothetical protein
+EHJNDFMC_00545	gene	408				
+EHJNDFMC_00545	CDS	408				hypothetical protein
+EHJNDFMC_00546	gene	219				
+EHJNDFMC_00546	CDS	219				hypothetical protein
+EHJNDFMC_00547	gene	1584				
+EHJNDFMC_00547	CDS	1584				hypothetical protein
+EHJNDFMC_00548	gene	1365	sufD			
+EHJNDFMC_00548	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+EHJNDFMC_00549	gene	756	sufC			
+EHJNDFMC_00549	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+EHJNDFMC_00550	gene	366				
+EHJNDFMC_00550	CDS	366				hypothetical protein
+EHJNDFMC_00551	gene	1458	sufB			
+EHJNDFMC_00551	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+EHJNDFMC_00552	gene	147				
+EHJNDFMC_00552	CDS	147				hypothetical protein
+EHJNDFMC_00553	gene	2868	infB			
+EHJNDFMC_00553	CDS	2868	infB			Translation initiation factor IF-2
+EHJNDFMC_00554	gene	1257	nusA			
+EHJNDFMC_00554	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+EHJNDFMC_00555	gene	465	rimP			
+EHJNDFMC_00555	CDS	465	rimP			Ribosome maturation factor RimP
+EHJNDFMC_00556	gene	900				
+EHJNDFMC_00556	CDS	900				hypothetical protein
+EHJNDFMC_00557	gene	888				
+EHJNDFMC_00557	CDS	888				hypothetical protein
+EHJNDFMC_00558	gene	834				
+EHJNDFMC_00558	CDS	834				hypothetical protein
+EHJNDFMC_00559	gene	786				
+EHJNDFMC_00559	CDS	786				hypothetical protein
+EHJNDFMC_00560	gene	534				
+EHJNDFMC_00560	CDS	534				hypothetical protein
+EHJNDFMC_00561	gene	2004				
+EHJNDFMC_00561	CDS	2004				hypothetical protein
+EHJNDFMC_00562	gene	705	cobB			
+EHJNDFMC_00562	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+EHJNDFMC_00563	gene	207				
+EHJNDFMC_00563	CDS	207				hypothetical protein
+EHJNDFMC_00564	gene	717				
+EHJNDFMC_00564	CDS	717				hypothetical protein
+EHJNDFMC_00565	gene	618				
+EHJNDFMC_00565	CDS	618				hypothetical protein
+EHJNDFMC_00566	gene	1314	clpX_2			
+EHJNDFMC_00566	CDS	1314	clpX_2			ATP-dependent Clp protease ATP-binding subunit ClpX
+EHJNDFMC_00567	gene	1140				
+EHJNDFMC_00567	CDS	1140				hypothetical protein
+EHJNDFMC_00568	gene	222				
+EHJNDFMC_00568	CDS	222				hypothetical protein
+EHJNDFMC_00569	gene	3633				
+EHJNDFMC_00569	CDS	3633				hypothetical protein
+EHJNDFMC_00570	gene	1056	yhcG			
+EHJNDFMC_00570	CDS	1056	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+EHJNDFMC_00571	gene	123				
+EHJNDFMC_00571	CDS	123				hypothetical protein
+EHJNDFMC_00572	gene	927				
+EHJNDFMC_00572	CDS	927				IS982 family transposase IS195
+EHJNDFMC_00573	gene	282				
+EHJNDFMC_00573	CDS	282				hypothetical protein
+EHJNDFMC_00574	gene	159				
+EHJNDFMC_00574	CDS	159				hypothetical protein
+EHJNDFMC_00575	gene	840				
+EHJNDFMC_00575	CDS	840				hypothetical protein
+EHJNDFMC_00576	gene	1446				
+EHJNDFMC_00576	CDS	1446				hypothetical protein
+EHJNDFMC_00577	gene	606	fklB			
+EHJNDFMC_00577	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+EHJNDFMC_00578	gene	879				
+EHJNDFMC_00578	CDS	879				hypothetical protein
+EHJNDFMC_00579	gene	912				
+EHJNDFMC_00579	CDS	912				hypothetical protein
+EHJNDFMC_00580	gene	468	asnC_2			
+EHJNDFMC_00580	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+EHJNDFMC_00581	gene	1755				
+EHJNDFMC_00581	CDS	1755				hypothetical protein
+EHJNDFMC_00582	gene	1029				
+EHJNDFMC_00582	CDS	1029				hypothetical protein
+EHJNDFMC_00583	gene	171				
+EHJNDFMC_00583	CDS	171				hypothetical protein
+EHJNDFMC_00584	gene	1233				
+EHJNDFMC_00584	CDS	1233				hypothetical protein
+EHJNDFMC_00585	gene	1473				
+EHJNDFMC_00585	CDS	1473				hypothetical protein
+EHJNDFMC_00586	gene	2127	dpp7			
+EHJNDFMC_00586	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+EHJNDFMC_00587	gene	717				
+EHJNDFMC_00587	CDS	717				hypothetical protein
+EHJNDFMC_00588	gene	726				
+EHJNDFMC_00588	CDS	726				hypothetical protein
+EHJNDFMC_00589	gene	1038	wbbI			
+EHJNDFMC_00589	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+EHJNDFMC_00590	gene	852				
+EHJNDFMC_00590	CDS	852				hypothetical protein
+EHJNDFMC_00591	gene	2424				
+EHJNDFMC_00591	CDS	2424				hypothetical protein
+EHJNDFMC_00592	gene	651				
+EHJNDFMC_00592	CDS	651				hypothetical protein
+EHJNDFMC_00593	gene	291				
+EHJNDFMC_00593	CDS	291				hypothetical protein
+EHJNDFMC_00594	gene	324				
+EHJNDFMC_00594	CDS	324				hypothetical protein
+EHJNDFMC_00595	gene	4776				
+EHJNDFMC_00595	CDS	4776				hypothetical protein
+EHJNDFMC_00596	gene	1230				
+EHJNDFMC_00596	CDS	1230				hypothetical protein
+EHJNDFMC_00597	gene	558				
+EHJNDFMC_00597	CDS	558				hypothetical protein
+EHJNDFMC_00598	gene	786	tcdA			
+EHJNDFMC_00598	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+EHJNDFMC_00599	gene	450				
+EHJNDFMC_00599	CDS	450				hypothetical protein
+EHJNDFMC_00600	gene	102				
+EHJNDFMC_00600	CDS	102				hypothetical protein
+EHJNDFMC_00601	gene	2115				
+EHJNDFMC_00601	CDS	2115				hypothetical protein
+EHJNDFMC_00602	gene	468				
+EHJNDFMC_00602	CDS	468				hypothetical protein
+EHJNDFMC_00603	gene	1887				
+EHJNDFMC_00603	CDS	1887				hypothetical protein
+EHJNDFMC_00604	gene	1296	adeP			
+EHJNDFMC_00604	CDS	1296	adeP		COG2252	Adenine permease AdeP
+EHJNDFMC_00605	gene	744				
+EHJNDFMC_00605	CDS	744				hypothetical protein
+EHJNDFMC_00606	gene	1218	pyrP			
+EHJNDFMC_00606	CDS	1218	pyrP			Uracil permease
+EHJNDFMC_00607	gene	606				
+EHJNDFMC_00607	CDS	606				hypothetical protein
+EHJNDFMC_00608	gene	411				
+EHJNDFMC_00608	CDS	411				hypothetical protein
+EHJNDFMC_00609	gene	1440				
+EHJNDFMC_00609	CDS	1440				hypothetical protein
+EHJNDFMC_00610	gene	777	dapB			
+EHJNDFMC_00610	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+EHJNDFMC_00611	gene	426				
+EHJNDFMC_00611	CDS	426				hypothetical protein
+EHJNDFMC_00612	gene	1227				
+EHJNDFMC_00612	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+EHJNDFMC_00613	gene	1377				
+EHJNDFMC_00613	CDS	1377				hypothetical protein
+EHJNDFMC_00614	gene	1866	deaD_1			
+EHJNDFMC_00614	CDS	1866	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+EHJNDFMC_00615	gene	708				
+EHJNDFMC_00615	CDS	708				hypothetical protein
+EHJNDFMC_00616	gene	594				
+EHJNDFMC_00616	CDS	594				hypothetical protein
+EHJNDFMC_00617	gene	513				
+EHJNDFMC_00617	CDS	513				hypothetical protein
+EHJNDFMC_00618	gene	756	frdB			
+EHJNDFMC_00618	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+EHJNDFMC_00619	gene	1983	frdA			
+EHJNDFMC_00619	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+EHJNDFMC_00620	gene	690				
+EHJNDFMC_00620	CDS	690				hypothetical protein
+EHJNDFMC_00621	gene	1953	mnmG			
+EHJNDFMC_00621	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+EHJNDFMC_00622	gene	531	apt			
+EHJNDFMC_00622	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+EHJNDFMC_00623	gene	1827	uvrC			
+EHJNDFMC_00623	CDS	1827	uvrC		COG0322	UvrABC system protein C
+EHJNDFMC_00624	gene	453	dtd			
+EHJNDFMC_00624	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+EHJNDFMC_00625	gene	393	ypjD			
+EHJNDFMC_00625	CDS	393	ypjD		COG1694	putative protein YpjD
+EHJNDFMC_00626	gene	891	deoC			
+EHJNDFMC_00626	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+EHJNDFMC_00627	gene	144				
+EHJNDFMC_00627	CDS	144				hypothetical protein
+EHJNDFMC_00628	gene	606				
+EHJNDFMC_00628	CDS	606				hypothetical protein
+EHJNDFMC_00629	gene	978	sdsA			
+EHJNDFMC_00629	CDS	978	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+EHJNDFMC_00630	gene	2766	polA			
+EHJNDFMC_00630	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+EHJNDFMC_00631	gene	1131	capA			
+EHJNDFMC_00631	CDS	1131	capA			Capsule biosynthesis protein CapA
+EHJNDFMC_00632	gene	1575				
+EHJNDFMC_00632	CDS	1575				hypothetical protein
+EHJNDFMC_00633	gene	2682	mutS_1			
+EHJNDFMC_00633	CDS	2682	mutS_1		COG0249	DNA mismatch repair protein MutS
+EHJNDFMC_00634	gene	849	lgt			
+EHJNDFMC_00634	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+EHJNDFMC_00635	gene	1104	ychF			
+EHJNDFMC_00635	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+EHJNDFMC_00636	gene	633	pflA			
+EHJNDFMC_00636	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+EHJNDFMC_00637	gene	642				
+EHJNDFMC_00637	CDS	642				hypothetical protein
+EHJNDFMC_00638	gene	2874	leuS			
+EHJNDFMC_00638	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+EHJNDFMC_00639	gene	969				
+EHJNDFMC_00639	CDS	969				hypothetical protein
+EHJNDFMC_00640	gene	609				
+EHJNDFMC_00640	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+EHJNDFMC_00641	gene	159				
+EHJNDFMC_00641	CDS	159				hypothetical protein
+EHJNDFMC_00642	gene	117				
+EHJNDFMC_00642	CDS	117				hypothetical protein
+EHJNDFMC_00643	gene	894				
+EHJNDFMC_00643	CDS	894				hypothetical protein
+EHJNDFMC_00644	gene	2139				
+EHJNDFMC_00644	CDS	2139				hypothetical protein
+EHJNDFMC_00645	gene	2421				
+EHJNDFMC_00645	CDS	2421				hypothetical protein
+EHJNDFMC_00646	gene	1395				
+EHJNDFMC_00646	CDS	1395				hypothetical protein
+EHJNDFMC_00647	gene	990	nadA			
+EHJNDFMC_00647	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+EHJNDFMC_00648	gene	1089				
+EHJNDFMC_00648	CDS	1089				hypothetical protein
+EHJNDFMC_00649	gene	645				
+EHJNDFMC_00649	CDS	645				hypothetical protein
+EHJNDFMC_00650	gene	1506	rpoN			
+EHJNDFMC_00650	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+EHJNDFMC_00651	gene	630				
+EHJNDFMC_00651	CDS	630				hypothetical protein
+EHJNDFMC_00652	gene	507	purE			
+EHJNDFMC_00652	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+EHJNDFMC_00653	gene	1413	ispG			
+EHJNDFMC_00653	CDS	1413	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+EHJNDFMC_00654	gene	804				
+EHJNDFMC_00654	CDS	804				hypothetical protein
+EHJNDFMC_00655	gene	111				
+EHJNDFMC_00655	CDS	111				hypothetical protein
+EHJNDFMC_00656	gene	507				
+EHJNDFMC_00656	CDS	507				hypothetical protein
+EHJNDFMC_00657	gene	1284				
+EHJNDFMC_00657	CDS	1284				hypothetical protein
+EHJNDFMC_00658	gene	1827	msbA			
+EHJNDFMC_00658	CDS	1827	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+EHJNDFMC_00659	gene	378	ridA			
+EHJNDFMC_00659	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+EHJNDFMC_00660	gene	93				
+EHJNDFMC_00660	CDS	93				hypothetical protein
+EHJNDFMC_00661	gene	1041	galE			
+EHJNDFMC_00661	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+EHJNDFMC_00662	gene	603	rnfA			
+EHJNDFMC_00662	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+EHJNDFMC_00663	gene	591	rnfE			
+EHJNDFMC_00663	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+EHJNDFMC_00664	gene	672	rsxG			
+EHJNDFMC_00664	CDS	672	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+EHJNDFMC_00665	gene	1035	rnfD			
+EHJNDFMC_00665	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+EHJNDFMC_00666	gene	1353	rnfC			
+EHJNDFMC_00666	CDS	1353	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+EHJNDFMC_00667	gene	903	rnfB			
+EHJNDFMC_00667	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+EHJNDFMC_00668	gene	456				
+EHJNDFMC_00668	CDS	456				hypothetical protein
+EHJNDFMC_00669	gene	444				
+EHJNDFMC_00669	CDS	444				hypothetical protein
+EHJNDFMC_00670	gene	1488				
+EHJNDFMC_00670	CDS	1488				hypothetical protein
+EHJNDFMC_00671	gene	73				
+EHJNDFMC_00671	tRNA	73				tRNA-Glu(ctc)
+EHJNDFMC_00672	gene	88				
+EHJNDFMC_00672	tRNA	88				tRNA-Ser(gct)
+EHJNDFMC_00673	gene	1356	pgi			
+EHJNDFMC_00673	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+EHJNDFMC_00674	gene	705	hxpA			
+EHJNDFMC_00674	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+EHJNDFMC_00675	gene	114				
+EHJNDFMC_00675	CDS	114				hypothetical protein
+EHJNDFMC_00676	gene	1077	mnmA			
+EHJNDFMC_00676	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+EHJNDFMC_00677	gene	1464				
+EHJNDFMC_00677	CDS	1464				hypothetical protein
+EHJNDFMC_00678	gene	645	yfiC			
+EHJNDFMC_00678	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+EHJNDFMC_00679	gene	2424	lon1			
+EHJNDFMC_00679	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+EHJNDFMC_00680	gene	1128	tgt			
+EHJNDFMC_00680	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+EHJNDFMC_00681	gene	1164				
+EHJNDFMC_00681	CDS	1164				hypothetical protein
+EHJNDFMC_00682	gene	1296	deaD_2			
+EHJNDFMC_00682	CDS	1296	deaD_2	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+EHJNDFMC_00683	gene	708	btuD_2			
+EHJNDFMC_00683	CDS	708	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+EHJNDFMC_00684	gene	1320	lysC			
+EHJNDFMC_00684	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+EHJNDFMC_00685	gene	1125				
+EHJNDFMC_00685	CDS	1125				hypothetical protein
+EHJNDFMC_00686	gene	1977	fbp			
+EHJNDFMC_00686	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+EHJNDFMC_00687	gene	2364				
+EHJNDFMC_00687	CDS	2364				hypothetical protein
+EHJNDFMC_00688	gene	405	epi			
+EHJNDFMC_00688	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+EHJNDFMC_00689	gene	1554	pccB			
+EHJNDFMC_00689	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+EHJNDFMC_00690	gene	159				
+EHJNDFMC_00690	CDS	159				hypothetical protein
+EHJNDFMC_00691	gene	432	accB			
+EHJNDFMC_00691	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+EHJNDFMC_00692	gene	345	panD			
+EHJNDFMC_00692	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+EHJNDFMC_00693	gene	858	panC			
+EHJNDFMC_00693	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+EHJNDFMC_00694	gene	813	glgA			
+EHJNDFMC_00694	CDS	813	glgA	2.4.1.21		Glycogen synthase
+EHJNDFMC_00695	gene	1488				
+EHJNDFMC_00695	CDS	1488				hypothetical protein
+EHJNDFMC_00696	gene	264				
+EHJNDFMC_00696	CDS	264				hypothetical protein
+EHJNDFMC_00697	gene	969	atpG			
+EHJNDFMC_00697	CDS	969	atpG		COG0224	ATP synthase gamma chain
+EHJNDFMC_00698	gene	1584	atpA			
+EHJNDFMC_00698	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+EHJNDFMC_00699	gene	534	atpH_1			
+EHJNDFMC_00699	CDS	534	atpH_1		COG0712	ATP synthase subunit delta
+EHJNDFMC_00700	gene	519	atpF			
+EHJNDFMC_00700	CDS	519	atpF		COG0711	ATP synthase subunit b
+EHJNDFMC_00701	gene	240	atpH_2			
+EHJNDFMC_00701	CDS	240	atpH_2			ATP synthase subunit c
+EHJNDFMC_00702	gene	1032	atpB			
+EHJNDFMC_00702	CDS	1032	atpB			ATP synthase subunit a
+EHJNDFMC_00703	gene	393				
+EHJNDFMC_00703	CDS	393				hypothetical protein
+EHJNDFMC_00704	gene	240	atpC			
+EHJNDFMC_00704	CDS	240	atpC			ATP synthase epsilon chain
+EHJNDFMC_00705	gene	1527	atpD			
+EHJNDFMC_00705	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+EHJNDFMC_00706	gene	978	pfkA			
+EHJNDFMC_00706	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+EHJNDFMC_00707	gene	1398				
+EHJNDFMC_00707	CDS	1398				hypothetical protein
+EHJNDFMC_00708	gene	981				
+EHJNDFMC_00708	CDS	981				hypothetical protein
+EHJNDFMC_00709	gene	1515				
+EHJNDFMC_00709	CDS	1515				hypothetical protein
+EHJNDFMC_00710	gene	990				
+EHJNDFMC_00710	CDS	990				hypothetical protein
+EHJNDFMC_00711	gene	1107				
+EHJNDFMC_00711	CDS	1107				hypothetical protein
+EHJNDFMC_00712	gene	573	yhdE			
+EHJNDFMC_00712	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+EHJNDFMC_00713	gene	519	kdsC			
+EHJNDFMC_00713	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+EHJNDFMC_00714	gene	783				
+EHJNDFMC_00714	CDS	783				hypothetical protein
+EHJNDFMC_00715	gene	528				
+EHJNDFMC_00715	CDS	528				hypothetical protein
+EHJNDFMC_00716	gene	75				
+EHJNDFMC_00716	tRNA	75				tRNA-Thr(tgt)
+EHJNDFMC_00717	gene	76				
+EHJNDFMC_00717	tRNA	76				tRNA-Asp(gtc)
+EHJNDFMC_00718	gene	516	speG			
+EHJNDFMC_00718	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+EHJNDFMC_00719	gene	1194				
+EHJNDFMC_00719	CDS	1194				hypothetical protein
+EHJNDFMC_00720	gene	423				
+EHJNDFMC_00720	CDS	423				hypothetical protein
+EHJNDFMC_00721	gene	615	recR			
+EHJNDFMC_00721	CDS	615	recR		COG0353	Recombination protein RecR
+EHJNDFMC_00722	gene	615	engB			
+EHJNDFMC_00722	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+EHJNDFMC_00723	gene	1812	ettA			
+EHJNDFMC_00723	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+EHJNDFMC_00724	gene	2061	pat			
+EHJNDFMC_00724	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+EHJNDFMC_00725	gene	1965	thrS			
+EHJNDFMC_00725	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+EHJNDFMC_00726	gene	1053				
+EHJNDFMC_00726	CDS	1053				hypothetical protein
+EHJNDFMC_00727	gene	405				
+EHJNDFMC_00727	CDS	405				hypothetical protein
+EHJNDFMC_00728	gene	573				
+EHJNDFMC_00728	CDS	573				hypothetical protein
+EHJNDFMC_00729	gene	564				
+EHJNDFMC_00729	CDS	564				hypothetical protein
+EHJNDFMC_00730	gene	456				
+EHJNDFMC_00730	CDS	456				hypothetical protein
+EHJNDFMC_00731	gene	588				
+EHJNDFMC_00731	CDS	588				hypothetical protein
+EHJNDFMC_00732	gene	1965	bepA_2			
+EHJNDFMC_00732	CDS	1965	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+EHJNDFMC_00733	gene	561	def			
+EHJNDFMC_00733	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+EHJNDFMC_00734	gene	291	yqgF			
+EHJNDFMC_00734	CDS	291	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+EHJNDFMC_00735	gene	516				
+EHJNDFMC_00735	CDS	516				hypothetical protein
+EHJNDFMC_00736	gene	216				
+EHJNDFMC_00736	CDS	216				hypothetical protein
+EHJNDFMC_00737	gene	369				
+EHJNDFMC_00737	CDS	369				hypothetical protein
+EHJNDFMC_00738	gene	294				
+EHJNDFMC_00738	CDS	294				hypothetical protein
+EHJNDFMC_00739	gene	774	rbn			
+EHJNDFMC_00739	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+EHJNDFMC_00740	gene	1026	murB			
+EHJNDFMC_00740	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+EHJNDFMC_00741	gene	852				
+EHJNDFMC_00741	CDS	852				hypothetical protein
+EHJNDFMC_00742	gene	1356				
+EHJNDFMC_00742	CDS	1356				hypothetical protein
+EHJNDFMC_00743	gene	1038	pheS			
+EHJNDFMC_00743	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+EHJNDFMC_00744	gene	390				
+EHJNDFMC_00744	CDS	390				hypothetical protein
+EHJNDFMC_00745	gene	1212				
+EHJNDFMC_00745	CDS	1212				hypothetical protein
+EHJNDFMC_00746	gene	936	arnC_1			
+EHJNDFMC_00746	CDS	936	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EHJNDFMC_00747	gene	486	ftnA			
+EHJNDFMC_00747	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+EHJNDFMC_00748	gene	546				
+EHJNDFMC_00748	CDS	546				hypothetical protein
+EHJNDFMC_00749	gene	1164				
+EHJNDFMC_00749	CDS	1164				hypothetical protein
+EHJNDFMC_00750	gene	969	msrA			
+EHJNDFMC_00750	CDS	969	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+EHJNDFMC_00751	gene	74				
+EHJNDFMC_00751	tRNA	74				tRNA-Lys(ctt)
+EHJNDFMC_00752	gene	654	rbr			
+EHJNDFMC_00752	CDS	654	rbr		COG1592	Rubrerythrin
+EHJNDFMC_00753	gene	510				
+EHJNDFMC_00753	CDS	510				hypothetical protein
+EHJNDFMC_00754	gene	579				
+EHJNDFMC_00754	CDS	579		2.3.1.-	COG1670	Acetyltransferase
+EHJNDFMC_00755	gene	234				
+EHJNDFMC_00755	CDS	234				hypothetical protein
+EHJNDFMC_00756	gene	1986	rho			
+EHJNDFMC_00756	CDS	1986	rho	3.6.4.-		Transcription termination factor Rho
+EHJNDFMC_00757	gene	540				
+EHJNDFMC_00757	CDS	540				hypothetical protein
+EHJNDFMC_00758	gene	2061	btuB_2			
+EHJNDFMC_00758	CDS	2061	btuB_2			Vitamin B12 transporter BtuB
+EHJNDFMC_00759	gene	1026	ansA			
+EHJNDFMC_00759	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+EHJNDFMC_00760	gene	1482	degQ			
+EHJNDFMC_00760	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+EHJNDFMC_00761	gene	492	pncC			
+EHJNDFMC_00761	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+EHJNDFMC_00762	gene	1026	tsaD			
+EHJNDFMC_00762	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+EHJNDFMC_00763	gene	855	map_1			
+EHJNDFMC_00763	CDS	855	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+EHJNDFMC_00764	gene	405				
+EHJNDFMC_00764	CDS	405				hypothetical protein
+EHJNDFMC_00765	gene	480	smpB			
+EHJNDFMC_00765	CDS	480	smpB		COG0691	SsrA-binding protein
+EHJNDFMC_00766	gene	504				
+EHJNDFMC_00766	CDS	504				hypothetical protein
+EHJNDFMC_00767	gene	1254				
+EHJNDFMC_00767	CDS	1254				hypothetical protein
+EHJNDFMC_00768	gene	1209				
+EHJNDFMC_00768	CDS	1209				hypothetical protein
+EHJNDFMC_00769	gene	1170				
+EHJNDFMC_00769	CDS	1170				hypothetical protein
+EHJNDFMC_00770	gene	2676	gyrA			
+EHJNDFMC_00770	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+EHJNDFMC_00771	gene	891				
+EHJNDFMC_00771	CDS	891				hypothetical protein
+EHJNDFMC_00772	gene	1941	nadE			
+EHJNDFMC_00772	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+EHJNDFMC_00773	gene	1236	queA_1			
+EHJNDFMC_00773	CDS	1236	queA_1	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EHJNDFMC_00774	gene	687				
+EHJNDFMC_00774	CDS	687				hypothetical protein
+EHJNDFMC_00775	gene	2562				
+EHJNDFMC_00775	CDS	2562				hypothetical protein
+EHJNDFMC_00776	gene	693				
+EHJNDFMC_00776	CDS	693				hypothetical protein
+EHJNDFMC_00777	gene	1029				
+EHJNDFMC_00777	CDS	1029				hypothetical protein
+EHJNDFMC_00778	gene	972				
+EHJNDFMC_00778	CDS	972				hypothetical protein
+EHJNDFMC_00779	gene	1107				
+EHJNDFMC_00779	CDS	1107				hypothetical protein
+EHJNDFMC_00780	gene	870				
+EHJNDFMC_00780	CDS	870				hypothetical protein
+EHJNDFMC_00781	gene	996				
+EHJNDFMC_00781	CDS	996				hypothetical protein
+EHJNDFMC_00782	gene	1374	ihfA			
+EHJNDFMC_00782	CDS	1374	ihfA			Integration host factor subunit alpha
+EHJNDFMC_00783	gene	294	hup_1			
+EHJNDFMC_00783	CDS	294	hup_1			DNA-binding protein HU
+EHJNDFMC_00784	gene	1317	rimO			
+EHJNDFMC_00784	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+EHJNDFMC_00785	gene	957	ftsY			
+EHJNDFMC_00785	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+EHJNDFMC_00786	gene	159				
+EHJNDFMC_00786	CDS	159				hypothetical protein
+EHJNDFMC_00787	gene	189	rpmG2			
+EHJNDFMC_00787	CDS	189	rpmG2			50S ribosomal protein L33 2
+EHJNDFMC_00788	gene	264	rpmB			
+EHJNDFMC_00788	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+EHJNDFMC_00789	gene	2118				
+EHJNDFMC_00789	CDS	2118				hypothetical protein
+EHJNDFMC_00790	gene	2136				
+EHJNDFMC_00790	CDS	2136				hypothetical protein
+EHJNDFMC_00791	gene	807	yycJ			
+EHJNDFMC_00791	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+EHJNDFMC_00792	gene	465				
+EHJNDFMC_00792	CDS	465				hypothetical protein
+EHJNDFMC_00793	gene	2181	bamA_1			
+EHJNDFMC_00793	CDS	2181	bamA_1			Outer membrane protein assembly factor BamA
+EHJNDFMC_00794	gene	603				
+EHJNDFMC_00794	CDS	603				hypothetical protein
+EHJNDFMC_00795	gene	1782	lepA			
+EHJNDFMC_00795	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+EHJNDFMC_00796	gene	387				
+EHJNDFMC_00796	CDS	387				hypothetical protein
+EHJNDFMC_00797	gene	162				
+EHJNDFMC_00797	CDS	162				hypothetical protein
+EHJNDFMC_00798	gene	627	yjdF			
+EHJNDFMC_00798	CDS	627	yjdF		COG3647	Inner membrane protein YjdF
+EHJNDFMC_00799	gene	4182	cas9			
+EHJNDFMC_00799	CDS	4182	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+EHJNDFMC_00800	gene	933	cas1			
+EHJNDFMC_00800	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+EHJNDFMC_00801	gene	306	cas2			
+EHJNDFMC_00801	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+	repeat_region	892				
+EHJNDFMC_00802	gene	975				
+EHJNDFMC_00802	CDS	975				hypothetical protein
+EHJNDFMC_00803	gene	1458	egtB			
+EHJNDFMC_00803	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+EHJNDFMC_00804	gene	816				
+EHJNDFMC_00804	CDS	816				hypothetical protein
+EHJNDFMC_00805	gene	1557				
+EHJNDFMC_00805	CDS	1557				hypothetical protein
+EHJNDFMC_00806	gene	1026				
+EHJNDFMC_00806	CDS	1026				hypothetical protein
+EHJNDFMC_00807	gene	600				
+EHJNDFMC_00807	CDS	600				hypothetical protein
+EHJNDFMC_00808	gene	597				
+EHJNDFMC_00808	CDS	597				hypothetical protein
+EHJNDFMC_00809	gene	984	menF_2			
+EHJNDFMC_00809	CDS	984	menF_2	5.4.4.2		Isochorismate synthase MenF
+EHJNDFMC_00810	gene	90				
+EHJNDFMC_00810	CDS	90				hypothetical protein
+EHJNDFMC_00811	gene	2271	priA			
+EHJNDFMC_00811	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+EHJNDFMC_00812	gene	900				
+EHJNDFMC_00812	CDS	900				hypothetical protein
+EHJNDFMC_00813	gene	1485				
+EHJNDFMC_00813	CDS	1485				hypothetical protein
+EHJNDFMC_00814	gene	2055	rny_2			
+EHJNDFMC_00814	CDS	2055	rny_2	3.1.-.-		Ribonuclease Y
+EHJNDFMC_00815	gene	1536	gltX			
+EHJNDFMC_00815	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+EHJNDFMC_00816	gene	1260	waaA			
+EHJNDFMC_00816	CDS	1260	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+EHJNDFMC_00817	gene	936	eamA			
+EHJNDFMC_00817	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+EHJNDFMC_00818	gene	1788	ftsH_1			
+EHJNDFMC_00818	CDS	1788	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+EHJNDFMC_00819	gene	387				
+EHJNDFMC_00819	CDS	387				hypothetical protein
+EHJNDFMC_00820	gene	498	yrdA			
+EHJNDFMC_00820	CDS	498	yrdA		COG0663	Protein YrdA
+EHJNDFMC_00821	gene	3030				
+EHJNDFMC_00821	CDS	3030				hypothetical protein
+EHJNDFMC_00822	gene	2295				
+EHJNDFMC_00822	CDS	2295				hypothetical protein
+EHJNDFMC_00823	gene	120				
+EHJNDFMC_00823	CDS	120				hypothetical protein
+EHJNDFMC_00824	gene	1506				
+EHJNDFMC_00824	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+EHJNDFMC_00825	gene	489				
+EHJNDFMC_00825	CDS	489				hypothetical protein
+EHJNDFMC_00826	gene	2007	apxIB_2			
+EHJNDFMC_00826	CDS	2007	apxIB_2		COG2274	Toxin RTX-I translocation ATP-binding protein
+EHJNDFMC_00827	gene	177	lagD			
+EHJNDFMC_00827	CDS	177	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+EHJNDFMC_00828	gene	2361				
+EHJNDFMC_00828	CDS	2361				hypothetical protein
+EHJNDFMC_00829	gene	264				
+EHJNDFMC_00829	CDS	264				hypothetical protein
+EHJNDFMC_00830	gene	108				
+EHJNDFMC_00830	CDS	108				hypothetical protein
+EHJNDFMC_00831	gene	1374	tpl			
+EHJNDFMC_00831	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+EHJNDFMC_00832	gene	1674	aspT_2			
+EHJNDFMC_00832	CDS	1674	aspT_2			Aspartate/alanine antiporter
+EHJNDFMC_00833	gene	987	ykoT			
+EHJNDFMC_00833	CDS	987	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+EHJNDFMC_00834	gene	1092	lpxL			
+EHJNDFMC_00834	CDS	1092	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+EHJNDFMC_00835	gene	807				
+EHJNDFMC_00835	CDS	807				hypothetical protein
+EHJNDFMC_00836	gene	1968				
+EHJNDFMC_00836	CDS	1968				hypothetical protein
+EHJNDFMC_00837	gene	1560				
+EHJNDFMC_00837	CDS	1560				hypothetical protein
+EHJNDFMC_00838	gene	291				
+EHJNDFMC_00838	CDS	291				hypothetical protein
+EHJNDFMC_00839	gene	246				
+EHJNDFMC_00839	CDS	246				hypothetical protein
+EHJNDFMC_00840	gene	2613				
+EHJNDFMC_00840	CDS	2613				hypothetical protein
+EHJNDFMC_00841	gene	843	murI			
+EHJNDFMC_00841	CDS	843	murI	5.1.1.3		Glutamate racemase
+EHJNDFMC_00842	gene	633				
+EHJNDFMC_00842	CDS	633				hypothetical protein
+EHJNDFMC_00843	gene	501	skp			
+EHJNDFMC_00843	CDS	501	skp		COG2825	Chaperone protein Skp
+EHJNDFMC_00844	gene	513				
+EHJNDFMC_00844	CDS	513				hypothetical protein
+EHJNDFMC_00845	gene	2622	bamA_2			
+EHJNDFMC_00845	CDS	2622	bamA_2		COG4775	Outer membrane protein assembly factor BamA
+EHJNDFMC_00846	gene	750	ispU			
+EHJNDFMC_00846	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+EHJNDFMC_00847	gene	705				
+EHJNDFMC_00847	CDS	705				hypothetical protein
+EHJNDFMC_00848	gene	1419				
+EHJNDFMC_00848	CDS	1419				hypothetical protein
+EHJNDFMC_00849	gene	2049	bepA_3			
+EHJNDFMC_00849	CDS	2049	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+EHJNDFMC_00850	gene	786				
+EHJNDFMC_00850	CDS	786				hypothetical protein
+EHJNDFMC_00851	gene	420	aroQ1			
+EHJNDFMC_00851	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+EHJNDFMC_00852	gene	627	trmR			
+EHJNDFMC_00852	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+EHJNDFMC_00853	gene	1008				
+EHJNDFMC_00853	CDS	1008				hypothetical protein
+EHJNDFMC_00854	gene	885				
+EHJNDFMC_00854	CDS	885				hypothetical protein
+EHJNDFMC_00855	gene	519				
+EHJNDFMC_00855	CDS	519				hypothetical protein
+EHJNDFMC_00856	gene	672				
+EHJNDFMC_00856	CDS	672				hypothetical protein
+EHJNDFMC_00857	gene	3537				
+EHJNDFMC_00857	CDS	3537				hypothetical protein
+EHJNDFMC_00858	gene	1545				
+EHJNDFMC_00858	CDS	1545				hypothetical protein
+EHJNDFMC_00859	gene	444				
+EHJNDFMC_00859	CDS	444				hypothetical protein
+EHJNDFMC_00860	gene	1563				
+EHJNDFMC_00860	CDS	1563				hypothetical protein
+EHJNDFMC_00861	gene	1116				
+EHJNDFMC_00861	CDS	1116				hypothetical protein
+EHJNDFMC_00862	gene	2685				
+EHJNDFMC_00862	CDS	2685				hypothetical protein
+EHJNDFMC_00863	gene	1416				
+EHJNDFMC_00863	CDS	1416				hypothetical protein
+EHJNDFMC_00864	gene	144				
+EHJNDFMC_00864	CDS	144				hypothetical protein
+EHJNDFMC_00865	gene	819	pdxK			
+EHJNDFMC_00865	CDS	819	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+EHJNDFMC_00866	gene	366				
+EHJNDFMC_00866	CDS	366				hypothetical protein
+EHJNDFMC_00867	gene	2343				
+EHJNDFMC_00867	CDS	2343				hypothetical protein
+EHJNDFMC_00868	gene	399				
+EHJNDFMC_00868	CDS	399				hypothetical protein
+EHJNDFMC_00869	gene	240				
+EHJNDFMC_00869	CDS	240				hypothetical protein
+EHJNDFMC_00870	gene	252				
+EHJNDFMC_00870	CDS	252				hypothetical protein
+EHJNDFMC_00871	gene	1224				
+EHJNDFMC_00871	CDS	1224				hypothetical protein
+EHJNDFMC_00872	gene	240				
+EHJNDFMC_00872	CDS	240				hypothetical protein
+EHJNDFMC_00873	gene	336				
+EHJNDFMC_00873	CDS	336				hypothetical protein
+EHJNDFMC_00874	gene	999				
+EHJNDFMC_00874	CDS	999				hypothetical protein
+EHJNDFMC_00875	gene	1647				
+EHJNDFMC_00875	CDS	1647				hypothetical protein
+EHJNDFMC_00876	gene	1668	recN			
+EHJNDFMC_00876	CDS	1668	recN		COG0497	DNA repair protein RecN
+EHJNDFMC_00877	gene	903				
+EHJNDFMC_00877	CDS	903				hypothetical protein
+EHJNDFMC_00878	gene	1212	undec1A			
+EHJNDFMC_00878	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+EHJNDFMC_00879	gene	855	dinG			
+EHJNDFMC_00879	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+EHJNDFMC_00880	gene	1125	dnaN			
+EHJNDFMC_00880	CDS	1125	dnaN			Beta sliding clamp
+EHJNDFMC_00881	gene	417				
+EHJNDFMC_00881	CDS	417				hypothetical protein
+EHJNDFMC_00882	gene	399				
+EHJNDFMC_00882	CDS	399		2.8.1.-	COG0607	Sulfurtransferase
+EHJNDFMC_00883	gene	1311	eno			
+EHJNDFMC_00883	CDS	1311	eno	4.2.1.11	COG0148	Enolase
+EHJNDFMC_00884	gene	981	ribD			
+EHJNDFMC_00884	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+EHJNDFMC_00885	gene	654				
+EHJNDFMC_00885	CDS	654				hypothetical protein
+EHJNDFMC_00886	gene	1305	tyrS			
+EHJNDFMC_00886	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+EHJNDFMC_00887	gene	240				
+EHJNDFMC_00887	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+EHJNDFMC_00888	gene	432	rnpA			
+EHJNDFMC_00888	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+EHJNDFMC_00889	gene	747				
+EHJNDFMC_00889	CDS	747				hypothetical protein
+EHJNDFMC_00890	gene	1038				
+EHJNDFMC_00890	CDS	1038				hypothetical protein
+EHJNDFMC_00891	gene	1305	metK			
+EHJNDFMC_00891	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+EHJNDFMC_00892	gene	2826				
+EHJNDFMC_00892	CDS	2826				hypothetical protein
+EHJNDFMC_00893	gene	165				
+EHJNDFMC_00893	CDS	165				hypothetical protein
+EHJNDFMC_00894	gene	894				
+EHJNDFMC_00894	CDS	894				hypothetical protein
+EHJNDFMC_00895	gene	318				
+EHJNDFMC_00895	CDS	318				hypothetical protein
+EHJNDFMC_00896	gene	210				
+EHJNDFMC_00896	CDS	210				hypothetical protein
+EHJNDFMC_00897	gene	618				
+EHJNDFMC_00897	CDS	618				hypothetical protein
+EHJNDFMC_00898	gene	123				
+EHJNDFMC_00898	CDS	123				hypothetical protein
+EHJNDFMC_00899	gene	1491	cysS			
+EHJNDFMC_00899	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+EHJNDFMC_00900	gene	936				
+EHJNDFMC_00900	CDS	936				hypothetical protein
+EHJNDFMC_00901	gene	1008	pepE			
+EHJNDFMC_00901	CDS	1008	pepE	3.4.22.-	COG3579	Aminopeptidase E
+EHJNDFMC_00902	gene	1047				
+EHJNDFMC_00902	CDS	1047				hypothetical protein
+EHJNDFMC_00903	gene	606				
+EHJNDFMC_00903	CDS	606				hypothetical protein
+EHJNDFMC_00904	gene	237	acpP			
+EHJNDFMC_00904	CDS	237	acpP		COG0236	Acyl carrier protein
+EHJNDFMC_00905	gene	1263	fabF			
+EHJNDFMC_00905	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+EHJNDFMC_00906	gene	1050	rnc			
+EHJNDFMC_00906	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+EHJNDFMC_00907	gene	1644	hcp			
+EHJNDFMC_00907	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+EHJNDFMC_00908	gene	96				
+EHJNDFMC_00908	CDS	96				hypothetical protein
+EHJNDFMC_00909	gene	600				
+EHJNDFMC_00909	CDS	600				hypothetical protein
+EHJNDFMC_00910	gene	669				
+EHJNDFMC_00910	CDS	669				hypothetical protein
+EHJNDFMC_00911	gene	177				
+EHJNDFMC_00911	CDS	177				hypothetical protein
+EHJNDFMC_00912	gene	321				
+EHJNDFMC_00912	CDS	321				hypothetical protein
+EHJNDFMC_00913	gene	1527				
+EHJNDFMC_00913	CDS	1527				hypothetical protein
+EHJNDFMC_00914	gene	1314				
+EHJNDFMC_00914	CDS	1314				hypothetical protein
+EHJNDFMC_00915	gene	1494	patA_1			
+EHJNDFMC_00915	CDS	1494	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+EHJNDFMC_00916	gene	417				
+EHJNDFMC_00916	CDS	417				hypothetical protein
+EHJNDFMC_00917	gene	1821	argS			
+EHJNDFMC_00917	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+EHJNDFMC_00918	gene	207				
+EHJNDFMC_00918	CDS	207				hypothetical protein
+EHJNDFMC_00919	gene	921				
+EHJNDFMC_00919	CDS	921				hypothetical protein
+EHJNDFMC_00920	gene	72				
+EHJNDFMC_00920	tRNA	72				tRNA-Gln(ttg)
+EHJNDFMC_00921	gene	243				
+EHJNDFMC_00921	CDS	243				hypothetical protein
+EHJNDFMC_00922	gene	2703	rcsC_1			
+EHJNDFMC_00922	CDS	2703	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+EHJNDFMC_00923	gene	432				
+EHJNDFMC_00923	CDS	432				hypothetical protein
+EHJNDFMC_00924	gene	381				
+EHJNDFMC_00924	CDS	381				hypothetical protein
+EHJNDFMC_00925	gene	339				
+EHJNDFMC_00925	CDS	339				hypothetical protein
+EHJNDFMC_00926	gene	126				
+EHJNDFMC_00926	CDS	126				hypothetical protein
+EHJNDFMC_00927	gene	1668	udk_1			
+EHJNDFMC_00927	CDS	1668	udk_1	2.7.1.48		Uridine kinase
+EHJNDFMC_00928	gene	1722				
+EHJNDFMC_00928	CDS	1722				hypothetical protein
+EHJNDFMC_00929	gene	1050	btuB_3			
+EHJNDFMC_00929	CDS	1050	btuB_3			Vitamin B12 transporter BtuB
+EHJNDFMC_00930	gene	285				
+EHJNDFMC_00930	CDS	285				hypothetical protein
+EHJNDFMC_00931	gene	6564				
+EHJNDFMC_00931	CDS	6564				hypothetical protein
+EHJNDFMC_00932	gene	1173				
+EHJNDFMC_00932	CDS	1173				hypothetical protein
+EHJNDFMC_00933	gene	1035	hmuU_1			
+EHJNDFMC_00933	CDS	1035	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+EHJNDFMC_00934	gene	894	prmB			
+EHJNDFMC_00934	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+EHJNDFMC_00935	gene	507	recX			
+EHJNDFMC_00935	CDS	507	recX			Regulatory protein RecX
+EHJNDFMC_00936	gene	1287				
+EHJNDFMC_00936	CDS	1287				hypothetical protein
+EHJNDFMC_00937	gene	471				
+EHJNDFMC_00937	CDS	471				hypothetical protein
+EHJNDFMC_00938	gene	1794				
+EHJNDFMC_00938	CDS	1794				hypothetical protein
+EHJNDFMC_00939	gene	852				
+EHJNDFMC_00939	CDS	852				hypothetical protein
+EHJNDFMC_00940	gene	633	pyrE			
+EHJNDFMC_00940	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+EHJNDFMC_00941	gene	423				
+EHJNDFMC_00941	CDS	423				hypothetical protein
+EHJNDFMC_00942	gene	576				
+EHJNDFMC_00942	CDS	576				hypothetical protein
+EHJNDFMC_00943	gene	87				
+EHJNDFMC_00943	tRNA	87				tRNA-Leu(taa)
+EHJNDFMC_00944	gene	1686				
+EHJNDFMC_00944	CDS	1686				hypothetical protein
+EHJNDFMC_00945	gene	1005				
+EHJNDFMC_00945	CDS	1005				hypothetical protein
+EHJNDFMC_00946	gene	678				
+EHJNDFMC_00946	CDS	678				hypothetical protein
+EHJNDFMC_00947	gene	459	rnhA			
+EHJNDFMC_00947	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+EHJNDFMC_00948	gene	477				
+EHJNDFMC_00948	CDS	477				hypothetical protein
+EHJNDFMC_00949	gene	681				
+EHJNDFMC_00949	CDS	681				hypothetical protein
+EHJNDFMC_00950	gene	831				
+EHJNDFMC_00950	CDS	831				hypothetical protein
+EHJNDFMC_00951	gene	558	trmH			
+EHJNDFMC_00951	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+EHJNDFMC_00952	gene	429	csdE			
+EHJNDFMC_00952	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+EHJNDFMC_00953	gene	1299				
+EHJNDFMC_00953	CDS	1299				hypothetical protein
+EHJNDFMC_00954	gene	912	xerD_1			
+EHJNDFMC_00954	CDS	912	xerD_1			Tyrosine recombinase XerD
+EHJNDFMC_00955	gene	1359	miaB			
+EHJNDFMC_00955	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EHJNDFMC_00956	gene	2886				
+EHJNDFMC_00956	CDS	2886				hypothetical protein
+EHJNDFMC_00957	gene	960				
+EHJNDFMC_00957	CDS	960				hypothetical protein
+EHJNDFMC_00958	gene	993	rfbB_2			
+EHJNDFMC_00958	CDS	993	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+EHJNDFMC_00959	gene	2184	rnr			
+EHJNDFMC_00959	CDS	2184	rnr	3.1.13.1	COG0557	Ribonuclease R
+EHJNDFMC_00960	gene	864				
+EHJNDFMC_00960	CDS	864				hypothetical protein
+EHJNDFMC_00961	gene	654				
+EHJNDFMC_00961	CDS	654				hypothetical protein
+EHJNDFMC_00962	gene	1080				
+EHJNDFMC_00962	CDS	1080				hypothetical protein
+EHJNDFMC_00963	gene	1632				
+EHJNDFMC_00963	CDS	1632				hypothetical protein
+EHJNDFMC_00964	gene	666				
+EHJNDFMC_00964	CDS	666				hypothetical protein
+EHJNDFMC_00965	gene	2784	cobQ			
+EHJNDFMC_00965	CDS	2784	cobQ			Cobyric acid synthase
+EHJNDFMC_00966	gene	2178	btuB_4			
+EHJNDFMC_00966	CDS	2178	btuB_4			Vitamin B12 transporter BtuB
+EHJNDFMC_00967	gene	2133	cirA_1			
+EHJNDFMC_00967	CDS	2133	cirA_1		COG4771	Colicin I receptor
+EHJNDFMC_00968	gene	1140	cbiKp			
+EHJNDFMC_00968	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+EHJNDFMC_00969	gene	738				
+EHJNDFMC_00969	CDS	738				hypothetical protein
+EHJNDFMC_00970	gene	2976				
+EHJNDFMC_00970	CDS	2976				hypothetical protein
+EHJNDFMC_00971	gene	1428	cysG_1			
+EHJNDFMC_00971	CDS	1428	cysG_1	4.99.1.4		Siroheme synthase
+EHJNDFMC_00972	gene	1233	cbiET			
+EHJNDFMC_00972	CDS	1233	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+EHJNDFMC_00973	gene	1767	cysG_2			
+EHJNDFMC_00973	CDS	1767	cysG_2	4.99.1.4		Siroheme synthase
+EHJNDFMC_00974	gene	2142	cbiD			
+EHJNDFMC_00974	CDS	2142	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+EHJNDFMC_00975	gene	1137				
+EHJNDFMC_00975	CDS	1137				hypothetical protein
+EHJNDFMC_00976	gene	1023	hmuU_2			
+EHJNDFMC_00976	CDS	1023	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+EHJNDFMC_00977	gene	810				
+EHJNDFMC_00977	CDS	810				hypothetical protein
+EHJNDFMC_00978	gene	2106	recD2_1			
+EHJNDFMC_00978	CDS	2106	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+EHJNDFMC_00979	gene	1002	korB_1			
+EHJNDFMC_00979	CDS	1002	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+EHJNDFMC_00980	gene	1851	korA_1			
+EHJNDFMC_00980	CDS	1851	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+EHJNDFMC_00981	gene	1614	pckA			
+EHJNDFMC_00981	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+EHJNDFMC_00982	gene	660	upp			
+EHJNDFMC_00982	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+EHJNDFMC_00983	gene	516	dps			
+EHJNDFMC_00983	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+EHJNDFMC_00984	gene	1764	arnT			
+EHJNDFMC_00984	CDS	1764	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+EHJNDFMC_00985	gene	1977	mdoB			
+EHJNDFMC_00985	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+EHJNDFMC_00986	gene	1851				
+EHJNDFMC_00986	CDS	1851				hypothetical protein
+EHJNDFMC_00987	gene	552				
+EHJNDFMC_00987	CDS	552				hypothetical protein
+EHJNDFMC_00988	gene	2895				
+EHJNDFMC_00988	CDS	2895				hypothetical protein
+EHJNDFMC_00989	gene	1455				
+EHJNDFMC_00989	CDS	1455				hypothetical protein
+EHJNDFMC_00990	gene	396				
+EHJNDFMC_00990	CDS	396				hypothetical protein
+EHJNDFMC_00991	gene	1641				
+EHJNDFMC_00991	CDS	1641				hypothetical protein
+EHJNDFMC_00992	gene	2802				
+EHJNDFMC_00992	CDS	2802				hypothetical protein
+EHJNDFMC_00993	gene	546				
+EHJNDFMC_00993	CDS	546				hypothetical protein
+EHJNDFMC_00994	gene	138				
+EHJNDFMC_00994	CDS	138				hypothetical protein
+EHJNDFMC_00995	gene	759				
+EHJNDFMC_00995	CDS	759				hypothetical protein
+EHJNDFMC_00996	gene	774				
+EHJNDFMC_00996	CDS	774				hypothetical protein
+EHJNDFMC_00997	gene	1053				
+EHJNDFMC_00997	CDS	1053				hypothetical protein
+EHJNDFMC_00998	gene	717				
+EHJNDFMC_00998	CDS	717				hypothetical protein
+EHJNDFMC_00999	gene	138				
+EHJNDFMC_00999	CDS	138				hypothetical protein
+EHJNDFMC_01000	gene	2313	cirA_2			
+EHJNDFMC_01000	CDS	2313	cirA_2		COG4771	Colicin I receptor
+EHJNDFMC_01001	gene	1329				
+EHJNDFMC_01001	CDS	1329				hypothetical protein
+EHJNDFMC_01002	gene	135				
+EHJNDFMC_01002	CDS	135				hypothetical protein
+EHJNDFMC_01003	gene	2175				
+EHJNDFMC_01003	CDS	2175				hypothetical protein
+EHJNDFMC_01004	gene	4485				
+EHJNDFMC_01004	CDS	4485				hypothetical protein
+EHJNDFMC_01005	gene	354				
+EHJNDFMC_01005	CDS	354				hypothetical protein
+EHJNDFMC_01006	gene	1230	lolE_2			
+EHJNDFMC_01006	CDS	1230	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+EHJNDFMC_01007	gene	336	rbfA			
+EHJNDFMC_01007	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+EHJNDFMC_01008	gene	273	hup_2			
+EHJNDFMC_01008	CDS	273	hup_2			DNA-binding protein HU
+EHJNDFMC_01009	gene	894				
+EHJNDFMC_01009	CDS	894				hypothetical protein
+EHJNDFMC_01010	gene	1086				
+EHJNDFMC_01010	CDS	1086				hypothetical protein
+EHJNDFMC_01011	gene	3063	secD			
+EHJNDFMC_01011	CDS	3063	secD			Protein translocase subunit SecD
+EHJNDFMC_01012	gene	189				
+EHJNDFMC_01012	CDS	189				hypothetical protein
+EHJNDFMC_01013	gene	1179				
+EHJNDFMC_01013	CDS	1179			COG3385	IS4 family transposase ISDar2
+EHJNDFMC_01014	gene	804	xerC_1			
+EHJNDFMC_01014	CDS	804	xerC_1			Tyrosine recombinase XerC
+EHJNDFMC_01015	gene	1899				
+EHJNDFMC_01015	CDS	1899				hypothetical protein
+EHJNDFMC_01016	gene	105				
+EHJNDFMC_01016	CDS	105				hypothetical protein
+EHJNDFMC_01017	gene	747				
+EHJNDFMC_01017	CDS	747				hypothetical protein
+EHJNDFMC_01018	gene	726	mhqN			
+EHJNDFMC_01018	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+EHJNDFMC_01019	gene	1419	aspA			
+EHJNDFMC_01019	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+EHJNDFMC_01020	gene	645				
+EHJNDFMC_01020	CDS	645				hypothetical protein
+EHJNDFMC_01021	gene	786				
+EHJNDFMC_01021	CDS	786				hypothetical protein
+EHJNDFMC_01022	gene	1659				
+EHJNDFMC_01022	CDS	1659				hypothetical protein
+EHJNDFMC_01023	gene	486	resA_3			
+EHJNDFMC_01023	CDS	486	resA_3			Thiol-disulfide oxidoreductase ResA
+EHJNDFMC_01024	gene	693				
+EHJNDFMC_01024	CDS	693				hypothetical protein
+EHJNDFMC_01025	gene	75				
+EHJNDFMC_01025	tRNA	75				tRNA-Met(cat)
+EHJNDFMC_01026	gene	1368				
+EHJNDFMC_01026	CDS	1368				hypothetical protein
+EHJNDFMC_01027	gene	1317				
+EHJNDFMC_01027	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+EHJNDFMC_01028	gene	1218	norV			
+EHJNDFMC_01028	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+EHJNDFMC_01029	gene	1035	ruvB			
+EHJNDFMC_01029	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+EHJNDFMC_01030	gene	1578				
+EHJNDFMC_01030	CDS	1578				hypothetical protein
+EHJNDFMC_01031	gene	411	ybeY			
+EHJNDFMC_01031	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+EHJNDFMC_01032	gene	441	coaD			
+EHJNDFMC_01032	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+EHJNDFMC_01033	gene	1944	gyrB_1			
+EHJNDFMC_01033	CDS	1944	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+EHJNDFMC_01034	gene	1149	yghO			
+EHJNDFMC_01034	CDS	1149	yghO			Protein YghO
+EHJNDFMC_01035	gene	1302				
+EHJNDFMC_01035	CDS	1302				hypothetical protein
+EHJNDFMC_01036	gene	453				
+EHJNDFMC_01036	CDS	453				hypothetical protein
+EHJNDFMC_01037	gene	1128				
+EHJNDFMC_01037	CDS	1128				hypothetical protein
+EHJNDFMC_01038	gene	1050	dusB			
+EHJNDFMC_01038	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+EHJNDFMC_01039	gene	2196				
+EHJNDFMC_01039	CDS	2196				hypothetical protein
+EHJNDFMC_01040	gene	1518	gpmI			
+EHJNDFMC_01040	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EHJNDFMC_01041	gene	666	ung			
+EHJNDFMC_01041	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+EHJNDFMC_01042	gene	621				
+EHJNDFMC_01042	CDS	621				hypothetical protein
+EHJNDFMC_01043	gene	879				
+EHJNDFMC_01043	CDS	879				hypothetical protein
+EHJNDFMC_01044	gene	1971	gyrB_2			
+EHJNDFMC_01044	CDS	1971	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+EHJNDFMC_01045	gene	135				
+EHJNDFMC_01045	CDS	135				hypothetical protein
+EHJNDFMC_01046	gene	255	rpsT			
+EHJNDFMC_01046	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+EHJNDFMC_01047	gene	75				
+EHJNDFMC_01047	tRNA	75				tRNA-Glu(ttc)
+EHJNDFMC_01048	gene	726	recO			
+EHJNDFMC_01048	CDS	726	recO			DNA repair protein RecO
+EHJNDFMC_01049	gene	1122				
+EHJNDFMC_01049	CDS	1122				hypothetical protein
+EHJNDFMC_01050	gene	447	yqeY			
+EHJNDFMC_01050	CDS	447	yqeY		COG1610	putative protein YqeY
+EHJNDFMC_01051	gene	1320	ftsZ			
+EHJNDFMC_01051	CDS	1320	ftsZ			Cell division protein FtsZ
+EHJNDFMC_01052	gene	1461	ftsA			
+EHJNDFMC_01052	CDS	1461	ftsA			Cell division protein FtsA
+EHJNDFMC_01053	gene	1002				
+EHJNDFMC_01053	CDS	1002				hypothetical protein
+EHJNDFMC_01054	gene	1401	murC			
+EHJNDFMC_01054	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+EHJNDFMC_01055	gene	1116	murG			
+EHJNDFMC_01055	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+EHJNDFMC_01056	gene	1287	mrdB_1			
+EHJNDFMC_01056	CDS	1287	mrdB_1	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+EHJNDFMC_01057	gene	1344	murD			
+EHJNDFMC_01057	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EHJNDFMC_01058	gene	1272	mraY			
+EHJNDFMC_01058	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EHJNDFMC_01059	gene	1452	murE			
+EHJNDFMC_01059	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+EHJNDFMC_01060	gene	2148	pbpB			
+EHJNDFMC_01060	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+EHJNDFMC_01061	gene	624				
+EHJNDFMC_01061	CDS	624				hypothetical protein
+EHJNDFMC_01062	gene	1032	rsmH			
+EHJNDFMC_01062	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+EHJNDFMC_01063	gene	465	mraZ			
+EHJNDFMC_01063	CDS	465	mraZ			Transcriptional regulator MraZ
+EHJNDFMC_01064	gene	828				
+EHJNDFMC_01064	CDS	828				hypothetical protein
+EHJNDFMC_01065	gene	990				
+EHJNDFMC_01065	CDS	990				hypothetical protein
+EHJNDFMC_01066	gene	141				
+EHJNDFMC_01066	CDS	141				hypothetical protein
+EHJNDFMC_01067	gene	1527	dgt			
+EHJNDFMC_01067	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+EHJNDFMC_01068	gene	438	dut			
+EHJNDFMC_01068	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+EHJNDFMC_01069	gene	1779	bepA_4			
+EHJNDFMC_01069	CDS	1779	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+EHJNDFMC_01070	gene	888				
+EHJNDFMC_01070	CDS	888				hypothetical protein
+EHJNDFMC_01071	gene	1650				
+EHJNDFMC_01071	CDS	1650				hypothetical protein
+EHJNDFMC_01072	gene	2517				
+EHJNDFMC_01072	CDS	2517				hypothetical protein
+EHJNDFMC_01073	gene	102				
+EHJNDFMC_01073	CDS	102				hypothetical protein
+EHJNDFMC_01074	gene	840				
+EHJNDFMC_01074	CDS	840				hypothetical protein
+EHJNDFMC_01075	gene	1131				
+EHJNDFMC_01075	CDS	1131				hypothetical protein
+EHJNDFMC_01076	gene	1803				
+EHJNDFMC_01076	CDS	1803				hypothetical protein
+EHJNDFMC_01077	gene	660				
+EHJNDFMC_01077	CDS	660				hypothetical protein
+EHJNDFMC_01078	gene	552				
+EHJNDFMC_01078	CDS	552				hypothetical protein
+EHJNDFMC_01079	gene	219				
+EHJNDFMC_01079	CDS	219				hypothetical protein
+EHJNDFMC_01080	gene	2349				
+EHJNDFMC_01080	CDS	2349				hypothetical protein
+EHJNDFMC_01081	gene	1035				
+EHJNDFMC_01081	CDS	1035				hypothetical protein
+EHJNDFMC_01082	gene	147				
+EHJNDFMC_01082	CDS	147				hypothetical protein
+EHJNDFMC_01083	gene	792	nagB			
+EHJNDFMC_01083	CDS	792	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+EHJNDFMC_01084	gene	1257	hflX			
+EHJNDFMC_01084	CDS	1257	hflX			GTPase HflX
+EHJNDFMC_01085	gene	1866				
+EHJNDFMC_01085	CDS	1866				hypothetical protein
+EHJNDFMC_01086	gene	2877				
+EHJNDFMC_01086	CDS	2877				hypothetical protein
+EHJNDFMC_01087	gene	1647	fumA			
+EHJNDFMC_01087	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+EHJNDFMC_01088	gene	1524				
+EHJNDFMC_01088	CDS	1524				hypothetical protein
+EHJNDFMC_01089	gene	132				
+EHJNDFMC_01089	CDS	132				hypothetical protein
+EHJNDFMC_01090	gene	1659				
+EHJNDFMC_01090	CDS	1659				hypothetical protein
+EHJNDFMC_01091	gene	177				
+EHJNDFMC_01091	CDS	177				hypothetical protein
+EHJNDFMC_01092	gene	1461	sasA_3			
+EHJNDFMC_01092	CDS	1461	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+EHJNDFMC_01093	gene	3873				
+EHJNDFMC_01093	CDS	3873				hypothetical protein
+EHJNDFMC_01094	gene	1554				
+EHJNDFMC_01094	CDS	1554				hypothetical protein
+EHJNDFMC_01095	gene	1242				
+EHJNDFMC_01095	CDS	1242				hypothetical protein
+EHJNDFMC_01096	gene	2037	btuB_5			
+EHJNDFMC_01096	CDS	2037	btuB_5			Vitamin B12 transporter BtuB
+EHJNDFMC_01097	gene	2394				
+EHJNDFMC_01097	CDS	2394				hypothetical protein
+EHJNDFMC_01098	gene	744				
+EHJNDFMC_01098	CDS	744				hypothetical protein
+EHJNDFMC_01099	gene	165				
+EHJNDFMC_01099	CDS	165				hypothetical protein
+EHJNDFMC_01100	gene	1233				
+EHJNDFMC_01100	CDS	1233				hypothetical protein
+EHJNDFMC_01101	gene	519				
+EHJNDFMC_01101	CDS	519				hypothetical protein
+EHJNDFMC_01102	gene	714				
+EHJNDFMC_01102	CDS	714				hypothetical protein
+EHJNDFMC_01103	gene	1494				
+EHJNDFMC_01103	CDS	1494				hypothetical protein
+EHJNDFMC_01104	gene	3183				
+EHJNDFMC_01104	CDS	3183				TonB-dependent receptor P26
+EHJNDFMC_01105	gene	75				
+EHJNDFMC_01105	tRNA	75				tRNA-Met(cat)
+EHJNDFMC_01106	gene	402				
+EHJNDFMC_01106	CDS	402				hypothetical protein
+EHJNDFMC_01107	gene	420				
+EHJNDFMC_01107	CDS	420				hypothetical protein
+EHJNDFMC_01108	gene	471				
+EHJNDFMC_01108	CDS	471				hypothetical protein
+EHJNDFMC_01109	gene	1410	dnaA			
+EHJNDFMC_01109	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+EHJNDFMC_01110	gene	903				
+EHJNDFMC_01110	CDS	903				hypothetical protein
+EHJNDFMC_01111	gene	1185				
+EHJNDFMC_01111	CDS	1185				hypothetical protein
+EHJNDFMC_01112	gene	381	folB			
+EHJNDFMC_01112	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+EHJNDFMC_01113	gene	2559				
+EHJNDFMC_01113	CDS	2559				hypothetical protein
+EHJNDFMC_01114	gene	738				
+EHJNDFMC_01114	CDS	738				hypothetical protein
+EHJNDFMC_01115	gene	423				
+EHJNDFMC_01115	CDS	423				hypothetical protein
+EHJNDFMC_01116	gene	1950				
+EHJNDFMC_01116	CDS	1950				hypothetical protein
+EHJNDFMC_01117	gene	1458				
+EHJNDFMC_01117	CDS	1458				hypothetical protein
+EHJNDFMC_01118	gene	963				
+EHJNDFMC_01118	CDS	963				hypothetical protein
+EHJNDFMC_01119	gene	846				
+EHJNDFMC_01119	CDS	846				hypothetical protein
+EHJNDFMC_01120	gene	648				
+EHJNDFMC_01120	CDS	648				hypothetical protein
+EHJNDFMC_01121	gene	675				
+EHJNDFMC_01121	CDS	675				hypothetical protein
+EHJNDFMC_01122	gene	831	tolQ_2			
+EHJNDFMC_01122	CDS	831	tolQ_2			Tol-Pal system protein TolQ
+EHJNDFMC_01123	gene	1209	ribBA			
+EHJNDFMC_01123	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+EHJNDFMC_01124	gene	1866				
+EHJNDFMC_01124	CDS	1866				hypothetical protein
+EHJNDFMC_01125	gene	600	tdk			
+EHJNDFMC_01125	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+EHJNDFMC_01126	gene	1134				
+EHJNDFMC_01126	CDS	1134				hypothetical protein
+EHJNDFMC_01127	gene	74				
+EHJNDFMC_01127	tRNA	74				tRNA-Lys(ttt)
+EHJNDFMC_01128	gene	74				
+EHJNDFMC_01128	tRNA	74				tRNA-Pro(ggg)
+EHJNDFMC_01129	gene	852				
+EHJNDFMC_01129	CDS	852				hypothetical protein
+EHJNDFMC_01130	gene	840				
+EHJNDFMC_01130	CDS	840				hypothetical protein
+EHJNDFMC_01131	gene	99				
+EHJNDFMC_01131	CDS	99				hypothetical protein
+EHJNDFMC_01132	gene	471				
+EHJNDFMC_01132	CDS	471				hypothetical protein
+EHJNDFMC_01133	gene	1167				
+EHJNDFMC_01133	CDS	1167				hypothetical protein
+EHJNDFMC_01134	gene	1251	aroA			
+EHJNDFMC_01134	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+EHJNDFMC_01135	gene	393				
+EHJNDFMC_01135	CDS	393				hypothetical protein
+EHJNDFMC_01136	gene	3387				
+EHJNDFMC_01136	CDS	3387				hypothetical protein
+EHJNDFMC_01137	gene	1569	cheB			
+EHJNDFMC_01137	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+EHJNDFMC_01138	gene	411	tsaE			
+EHJNDFMC_01138	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+EHJNDFMC_01139	gene	333				
+EHJNDFMC_01139	CDS	333				hypothetical protein
+EHJNDFMC_01140	gene	939				
+EHJNDFMC_01140	CDS	939			COG2826	IS30 family transposase ISSba17
+EHJNDFMC_01141	gene	1731	recJ			
+EHJNDFMC_01141	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+EHJNDFMC_01142	gene	1911	srmB			
+EHJNDFMC_01142	CDS	1911	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+EHJNDFMC_01143	gene	813				
+EHJNDFMC_01143	CDS	813				hypothetical protein
+EHJNDFMC_01144	gene	1182				
+EHJNDFMC_01144	CDS	1182				Outer membrane protein 41
+EHJNDFMC_01145	gene	531	cobP			
+EHJNDFMC_01145	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+EHJNDFMC_01146	gene	1032	cobT			
+EHJNDFMC_01146	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+EHJNDFMC_01147	gene	792	cobS			
+EHJNDFMC_01147	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+EHJNDFMC_01148	gene	522	pspA_1			
+EHJNDFMC_01148	CDS	522	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+EHJNDFMC_01149	gene	543				
+EHJNDFMC_01149	CDS	543				hypothetical protein
+EHJNDFMC_01150	gene	771	korB_2			
+EHJNDFMC_01150	CDS	771	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+EHJNDFMC_01151	gene	1083	korA_2			
+EHJNDFMC_01151	CDS	1083	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+EHJNDFMC_01152	gene	234	rsxB			
+EHJNDFMC_01152	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+EHJNDFMC_01153	gene	180				
+EHJNDFMC_01153	CDS	180				hypothetical protein
+EHJNDFMC_01154	gene	924	folD			
+EHJNDFMC_01154	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+EHJNDFMC_01155	gene	1341	ffh			
+EHJNDFMC_01155	CDS	1341	ffh		COG0541	Signal recognition particle protein
+EHJNDFMC_01156	gene	480				
+EHJNDFMC_01156	CDS	480				hypothetical protein
+EHJNDFMC_01157	gene	753				
+EHJNDFMC_01157	CDS	753				hypothetical protein
+EHJNDFMC_01158	gene	2127				
+EHJNDFMC_01158	CDS	2127			COG1629	putative TonB-dependent receptor
+EHJNDFMC_01159	gene	402				
+EHJNDFMC_01159	CDS	402				hypothetical protein
+EHJNDFMC_01160	gene	3351				
+EHJNDFMC_01160	CDS	3351				hypothetical protein
+EHJNDFMC_01161	gene	579				
+EHJNDFMC_01161	CDS	579				hypothetical protein
+	repeat_region	827				
+EHJNDFMC_01162	gene	1299				
+EHJNDFMC_01162	CDS	1299				hypothetical protein
+EHJNDFMC_01163	gene	135				
+EHJNDFMC_01163	CDS	135				hypothetical protein
+EHJNDFMC_01164	gene	546	pdxT			
+EHJNDFMC_01164	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+EHJNDFMC_01165	gene	876	pdxS			
+EHJNDFMC_01165	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+EHJNDFMC_01166	gene	918	rhaS_1			
+EHJNDFMC_01166	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+EHJNDFMC_01167	gene	474				
+EHJNDFMC_01167	CDS	474				hypothetical protein
+EHJNDFMC_01168	gene	129				
+EHJNDFMC_01168	CDS	129				hypothetical protein
+EHJNDFMC_01169	gene	114				
+EHJNDFMC_01169	CDS	114				hypothetical protein
+EHJNDFMC_01170	gene	855	bepA_5			
+EHJNDFMC_01170	CDS	855	bepA_5	3.4.-.-		Beta-barrel assembly-enhancing protease
+EHJNDFMC_01171	gene	2325				
+EHJNDFMC_01171	CDS	2325				hypothetical protein
+EHJNDFMC_01172	gene	1065	kdsA			
+EHJNDFMC_01172	CDS	1065	kdsA	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+EHJNDFMC_01173	gene	1059				
+EHJNDFMC_01173	CDS	1059				hypothetical protein
+EHJNDFMC_01174	gene	189				
+EHJNDFMC_01174	CDS	189				hypothetical protein
+EHJNDFMC_01175	gene	1095				
+EHJNDFMC_01175	CDS	1095				hypothetical protein
+EHJNDFMC_01176	gene	1107	pdxA2			
+EHJNDFMC_01176	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+EHJNDFMC_01177	gene	945				
+EHJNDFMC_01177	CDS	945				hypothetical protein
+EHJNDFMC_01178	gene	1050	rlmN			
+EHJNDFMC_01178	CDS	1050	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+EHJNDFMC_01179	gene	1560	ahpF			
+EHJNDFMC_01179	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+EHJNDFMC_01180	gene	567	ahpC			
+EHJNDFMC_01180	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+EHJNDFMC_01181	gene	585	sodB			
+EHJNDFMC_01181	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+EHJNDFMC_01182	gene	927	oxyR			
+EHJNDFMC_01182	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+EHJNDFMC_01183	gene	1086	wbpI			
+EHJNDFMC_01183	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+EHJNDFMC_01184	gene	954	qmcA			
+EHJNDFMC_01184	CDS	954	qmcA		COG0330	Protein QmcA
+EHJNDFMC_01185	gene	456				
+EHJNDFMC_01185	CDS	456				hypothetical protein
+EHJNDFMC_01186	gene	462				
+EHJNDFMC_01186	CDS	462				hypothetical protein
+EHJNDFMC_01187	gene	408				
+EHJNDFMC_01187	CDS	408				hypothetical protein
+EHJNDFMC_01188	gene	285				
+EHJNDFMC_01188	CDS	285				hypothetical protein
+EHJNDFMC_01189	gene	174				
+EHJNDFMC_01189	CDS	174				hypothetical protein
+EHJNDFMC_01190	gene	123				
+EHJNDFMC_01190	CDS	123				hypothetical protein
+EHJNDFMC_01191	gene	822	acr1			
+EHJNDFMC_01191	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+EHJNDFMC_01192	gene	1506				
+EHJNDFMC_01192	CDS	1506		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+EHJNDFMC_01193	gene	363				
+EHJNDFMC_01193	CDS	363				hypothetical protein
+EHJNDFMC_01194	gene	498				
+EHJNDFMC_01194	CDS	498			COG0716	Flavodoxin 1
+EHJNDFMC_01195	gene	2214				
+EHJNDFMC_01195	CDS	2214				hypothetical protein
+EHJNDFMC_01196	gene	216				
+EHJNDFMC_01196	CDS	216				hypothetical protein
+EHJNDFMC_01197	gene	600	slyD			
+EHJNDFMC_01197	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+EHJNDFMC_01198	gene	1092	aroC			
+EHJNDFMC_01198	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+EHJNDFMC_01199	gene	912	pyrD			
+EHJNDFMC_01199	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+EHJNDFMC_01200	gene	777	pyrK_1			
+EHJNDFMC_01200	CDS	777	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+EHJNDFMC_01201	gene	477				
+EHJNDFMC_01201	CDS	477				hypothetical protein
+EHJNDFMC_01202	gene	1029				
+EHJNDFMC_01202	CDS	1029				hypothetical protein
+EHJNDFMC_01203	gene	471				
+EHJNDFMC_01203	CDS	471				hypothetical protein
+EHJNDFMC_01204	gene	189				
+EHJNDFMC_01204	CDS	189				hypothetical protein
+EHJNDFMC_01205	gene	951				
+EHJNDFMC_01205	CDS	951				hypothetical protein
+EHJNDFMC_01206	gene	840				
+EHJNDFMC_01206	CDS	840				hypothetical protein
+EHJNDFMC_01207	gene	879				
+EHJNDFMC_01207	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+EHJNDFMC_01208	gene	96				
+EHJNDFMC_01208	CDS	96				hypothetical protein
+EHJNDFMC_01209	gene	135				
+EHJNDFMC_01209	CDS	135				hypothetical protein
+EHJNDFMC_01210	gene	1044	aguA			
+EHJNDFMC_01210	CDS	1044	aguA	3.5.3.12	COG2957	Agmatine deiminase
+EHJNDFMC_01211	gene	909				
+EHJNDFMC_01211	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+EHJNDFMC_01212	gene	1452	ampG			
+EHJNDFMC_01212	CDS	1452	ampG		COG0477	Anhydromuropeptide permease
+EHJNDFMC_01213	gene	378				
+EHJNDFMC_01213	CDS	378				hypothetical protein
+EHJNDFMC_01214	gene	3693				
+EHJNDFMC_01214	CDS	3693				hypothetical protein
+EHJNDFMC_01215	gene	348				
+EHJNDFMC_01215	CDS	348				hypothetical protein
+EHJNDFMC_01216	gene	210				
+EHJNDFMC_01216	CDS	210				hypothetical protein
+EHJNDFMC_01217	gene	600				
+EHJNDFMC_01217	CDS	600				hypothetical protein
+EHJNDFMC_01218	gene	960				
+EHJNDFMC_01218	CDS	960				hypothetical protein
+EHJNDFMC_01219	gene	168				
+EHJNDFMC_01219	CDS	168				hypothetical protein
+EHJNDFMC_01220	gene	723				
+EHJNDFMC_01220	CDS	723				hypothetical protein
+EHJNDFMC_01221	gene	1809	mutS_2			
+EHJNDFMC_01221	CDS	1809	mutS_2			DNA mismatch repair protein MutS
+EHJNDFMC_01222	gene	1182	purH_1			
+EHJNDFMC_01222	CDS	1182	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+EHJNDFMC_01223	gene	192				
+EHJNDFMC_01223	CDS	192				hypothetical protein
+EHJNDFMC_01224	gene	1200	mgl			
+EHJNDFMC_01224	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+EHJNDFMC_01225	gene	1002	fda			
+EHJNDFMC_01225	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+EHJNDFMC_01226	gene	1077				
+EHJNDFMC_01226	CDS	1077				hypothetical protein
+EHJNDFMC_01227	gene	735				
+EHJNDFMC_01227	CDS	735				hypothetical protein
+EHJNDFMC_01228	gene	1557	nnr			
+EHJNDFMC_01228	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+EHJNDFMC_01229	gene	537	hpt			
+EHJNDFMC_01229	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+EHJNDFMC_01230	gene	567	adk			
+EHJNDFMC_01230	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+EHJNDFMC_01231	gene	1176	obg			
+EHJNDFMC_01231	CDS	1176	obg	3.6.5.-		GTPase Obg
+EHJNDFMC_01232	gene	813				
+EHJNDFMC_01232	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+EHJNDFMC_01233	gene	567				
+EHJNDFMC_01233	CDS	567				hypothetical protein
+EHJNDFMC_01234	gene	549				
+EHJNDFMC_01234	CDS	549				hypothetical protein
+EHJNDFMC_01235	gene	312				
+EHJNDFMC_01235	CDS	312				hypothetical protein
+EHJNDFMC_01236	gene	192				
+EHJNDFMC_01236	CDS	192				hypothetical protein
+EHJNDFMC_01237	gene	2388	btuB_6			
+EHJNDFMC_01237	CDS	2388	btuB_6			Vitamin B12 transporter BtuB
+EHJNDFMC_01238	gene	144				
+EHJNDFMC_01238	CDS	144				hypothetical protein
+EHJNDFMC_01239	gene	576				
+EHJNDFMC_01239	CDS	576				hypothetical protein
+EHJNDFMC_01240	gene	363	rplS			
+EHJNDFMC_01240	CDS	363	rplS		COG0335	50S ribosomal protein L19
+EHJNDFMC_01241	gene	765				
+EHJNDFMC_01241	CDS	765				hypothetical protein
+EHJNDFMC_01242	gene	846	yfkN_1			
+EHJNDFMC_01242	CDS	846	yfkN_1		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+EHJNDFMC_01243	gene	744				
+EHJNDFMC_01243	CDS	744				hypothetical protein
+EHJNDFMC_01244	gene	168	fdxA			
+EHJNDFMC_01244	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+EHJNDFMC_01245	gene	567				
+EHJNDFMC_01245	CDS	567				hypothetical protein
+EHJNDFMC_01246	gene	711	pyrH			
+EHJNDFMC_01246	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+EHJNDFMC_01247	gene	558				
+EHJNDFMC_01247	CDS	558				hypothetical protein
+EHJNDFMC_01248	gene	783	birA			
+EHJNDFMC_01248	CDS	783	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+EHJNDFMC_01249	gene	453	tadA_2			
+EHJNDFMC_01249	CDS	453	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+EHJNDFMC_01250	gene	846				
+EHJNDFMC_01250	CDS	846				hypothetical protein
+EHJNDFMC_01251	gene	687	rsmI			
+EHJNDFMC_01251	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+EHJNDFMC_01252	gene	1140				
+EHJNDFMC_01252	CDS	1140				hypothetical protein
+EHJNDFMC_01253	gene	1248				
+EHJNDFMC_01253	CDS	1248				hypothetical protein
+EHJNDFMC_01254	gene	438				
+EHJNDFMC_01254	CDS	438				hypothetical protein
+EHJNDFMC_01255	gene	1470	mrdB_2			
+EHJNDFMC_01255	CDS	1470	mrdB_2	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+EHJNDFMC_01256	gene	1851	mrdA			
+EHJNDFMC_01256	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+EHJNDFMC_01257	gene	498				
+EHJNDFMC_01257	CDS	498				hypothetical protein
+EHJNDFMC_01258	gene	867				
+EHJNDFMC_01258	CDS	867				hypothetical protein
+EHJNDFMC_01259	gene	1026	mbl			
+EHJNDFMC_01259	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+EHJNDFMC_01260	gene	600	purH_2			
+EHJNDFMC_01260	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+EHJNDFMC_01261	gene	435	sulD			
+EHJNDFMC_01261	CDS	435	sulD		COG0801	Bifunctional folate synthesis protein
+EHJNDFMC_01262	gene	1119	queA_2			
+EHJNDFMC_01262	CDS	1119	queA_2	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EHJNDFMC_01263	gene	699	truB			
+EHJNDFMC_01263	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+EHJNDFMC_01264	gene	879	uppP			
+EHJNDFMC_01264	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+EHJNDFMC_01265	gene	249				
+EHJNDFMC_01265	CDS	249				hypothetical protein
+EHJNDFMC_01266	gene	879	ftsX			
+EHJNDFMC_01266	CDS	879	ftsX		COG2177	Cell division protein FtsX
+EHJNDFMC_01267	gene	780				
+EHJNDFMC_01267	CDS	780				hypothetical protein
+EHJNDFMC_01268	gene	645				
+EHJNDFMC_01268	CDS	645				hypothetical protein
+EHJNDFMC_01269	gene	270	rpsO			
+EHJNDFMC_01269	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+EHJNDFMC_01270	gene	2508				
+EHJNDFMC_01270	CDS	2508				hypothetical protein
+EHJNDFMC_01271	gene	696	mtnN			
+EHJNDFMC_01271	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+EHJNDFMC_01272	gene	480	luxS			
+EHJNDFMC_01272	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+EHJNDFMC_01273	gene	1467	dinF			
+EHJNDFMC_01273	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+EHJNDFMC_01274	gene	1851	typA			
+EHJNDFMC_01274	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+EHJNDFMC_01275	gene	435	nudC_1			
+EHJNDFMC_01275	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+EHJNDFMC_01276	gene	852				
+EHJNDFMC_01276	CDS	852				hypothetical protein
+EHJNDFMC_01277	gene	2409				
+EHJNDFMC_01277	CDS	2409		5.1.1.1		Alanine racemase
+EHJNDFMC_01278	gene	282				
+EHJNDFMC_01278	CDS	282				hypothetical protein
+EHJNDFMC_01279	gene	726				
+EHJNDFMC_01279	CDS	726				hypothetical protein
+EHJNDFMC_01280	gene	687	psd			
+EHJNDFMC_01280	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+EHJNDFMC_01281	gene	3711	dnaE			
+EHJNDFMC_01281	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+EHJNDFMC_01282	gene	315	trxA			
+EHJNDFMC_01282	CDS	315	trxA		COG0526	Thioredoxin
+EHJNDFMC_01283	gene	168				
+EHJNDFMC_01283	CDS	168				hypothetical protein
+EHJNDFMC_01284	gene	384				
+EHJNDFMC_01284	CDS	384				hypothetical protein
+EHJNDFMC_01285	gene	408				
+EHJNDFMC_01285	CDS	408				hypothetical protein
+EHJNDFMC_01286	gene	870				
+EHJNDFMC_01286	CDS	870				hypothetical protein
+EHJNDFMC_01287	gene	2061				
+EHJNDFMC_01287	CDS	2061				hypothetical protein
+EHJNDFMC_01288	gene	2859				
+EHJNDFMC_01288	CDS	2859				hypothetical protein
+EHJNDFMC_01289	gene	906				
+EHJNDFMC_01289	CDS	906				hypothetical protein
+EHJNDFMC_01290	gene	255	rpmE2			
+EHJNDFMC_01290	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+EHJNDFMC_01291	gene	1335				
+EHJNDFMC_01291	CDS	1335				hypothetical protein
+EHJNDFMC_01292	gene	930				
+EHJNDFMC_01292	CDS	930				hypothetical protein
+EHJNDFMC_01293	gene	2562				
+EHJNDFMC_01293	CDS	2562				hypothetical protein
+EHJNDFMC_01294	gene	1038				
+EHJNDFMC_01294	CDS	1038				hypothetical protein
+EHJNDFMC_01295	gene	573				
+EHJNDFMC_01295	CDS	573				hypothetical protein
+EHJNDFMC_01296	gene	636	udk_2			
+EHJNDFMC_01296	CDS	636	udk_2	2.7.1.48		Uridine kinase
+EHJNDFMC_01297	gene	222				
+EHJNDFMC_01297	CDS	222				hypothetical protein
+EHJNDFMC_01298	gene	2565				
+EHJNDFMC_01298	CDS	2565				hypothetical protein
+EHJNDFMC_01299	gene	1032				
+EHJNDFMC_01299	CDS	1032				hypothetical protein
+EHJNDFMC_01300	gene	753				
+EHJNDFMC_01300	CDS	753				hypothetical protein
+EHJNDFMC_01301	gene	693				
+EHJNDFMC_01301	CDS	693				hypothetical protein
+EHJNDFMC_01302	gene	75				
+EHJNDFMC_01302	tRNA	75				tRNA-Arg(ccg)
+EHJNDFMC_01303	gene	1224	pepT			
+EHJNDFMC_01303	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+EHJNDFMC_01304	gene	2256	kefB_1			
+EHJNDFMC_01304	CDS	2256	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+EHJNDFMC_01305	gene	1776				
+EHJNDFMC_01305	CDS	1776				hypothetical protein
+EHJNDFMC_01306	gene	585				
+EHJNDFMC_01306	CDS	585				hypothetical protein
+EHJNDFMC_01307	gene	2772	lptD_1			
+EHJNDFMC_01307	CDS	2772	lptD_1			LPS-assembly protein LptD
+EHJNDFMC_01308	gene	759	ppm1			
+EHJNDFMC_01308	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+EHJNDFMC_01309	gene	762				
+EHJNDFMC_01309	CDS	762				hypothetical protein
+EHJNDFMC_01310	gene	1209	rhaR			
+EHJNDFMC_01310	CDS	1209	rhaR			HTH-type transcriptional activator RhaR
+EHJNDFMC_01311	gene	675				
+EHJNDFMC_01311	CDS	675				hypothetical protein
+EHJNDFMC_01312	gene	756				
+EHJNDFMC_01312	CDS	756				hypothetical protein
+EHJNDFMC_01313	gene	1224				
+EHJNDFMC_01313	CDS	1224				hypothetical protein
+EHJNDFMC_01314	gene	1221				
+EHJNDFMC_01314	CDS	1221				hypothetical protein
+EHJNDFMC_01315	gene	705	yknY_2			
+EHJNDFMC_01315	CDS	705	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EHJNDFMC_01316	gene	1152				
+EHJNDFMC_01316	CDS	1152				hypothetical protein
+EHJNDFMC_01317	gene	1278				
+EHJNDFMC_01317	CDS	1278				hypothetical protein
+EHJNDFMC_01318	gene	1179				
+EHJNDFMC_01318	CDS	1179				hypothetical protein
+EHJNDFMC_01319	gene	1329	allB			
+EHJNDFMC_01319	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+EHJNDFMC_01320	gene	849				
+EHJNDFMC_01320	CDS	849				hypothetical protein
+EHJNDFMC_01321	gene	429				
+EHJNDFMC_01321	CDS	429				hypothetical protein
+EHJNDFMC_01322	gene	339				
+EHJNDFMC_01322	CDS	339				hypothetical protein
+EHJNDFMC_01323	gene	465	queF			
+EHJNDFMC_01323	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+EHJNDFMC_01324	gene	1017				
+EHJNDFMC_01324	CDS	1017				hypothetical protein
+EHJNDFMC_01325	gene	123				
+EHJNDFMC_01325	CDS	123				hypothetical protein
+EHJNDFMC_01326	gene	132				
+EHJNDFMC_01326	CDS	132				hypothetical protein
+EHJNDFMC_01327	gene	1218				
+EHJNDFMC_01327	CDS	1218			COG3385	IS4 family transposase ISCARN70
+EHJNDFMC_01328	gene	1677				
+EHJNDFMC_01328	CDS	1677				hypothetical protein
+EHJNDFMC_01329	gene	666				
+EHJNDFMC_01329	CDS	666				hypothetical protein
+EHJNDFMC_01330	gene	555	polC			
+EHJNDFMC_01330	CDS	555	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+EHJNDFMC_01331	gene	99				
+EHJNDFMC_01331	CDS	99				hypothetical protein
+EHJNDFMC_01332	gene	261				
+EHJNDFMC_01332	CDS	261				hypothetical protein
+EHJNDFMC_01333	gene	2943				
+EHJNDFMC_01333	CDS	2943				hypothetical protein
+EHJNDFMC_01334	gene	570	purN			
+EHJNDFMC_01334	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+EHJNDFMC_01335	gene	489				
+EHJNDFMC_01335	CDS	489				hypothetical protein
+EHJNDFMC_01336	gene	543	pth			
+EHJNDFMC_01336	CDS	543	pth	3.1.1.29	COG0193	Peptidyl-tRNA hydrolase
+EHJNDFMC_01337	gene	174				
+EHJNDFMC_01337	CDS	174				hypothetical protein
+EHJNDFMC_01338	gene	612	ctc			
+EHJNDFMC_01338	CDS	612	ctc		COG1825	General stress protein CTC
+EHJNDFMC_01339	gene	1002	nusB			
+EHJNDFMC_01339	CDS	1002	nusB			Transcription antitermination protein NusB
+EHJNDFMC_01340	gene	330				
+EHJNDFMC_01340	CDS	330				hypothetical protein
+EHJNDFMC_01341	gene	987				
+EHJNDFMC_01341	CDS	987				hypothetical protein
+EHJNDFMC_01342	gene	561	coaE			
+EHJNDFMC_01342	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+EHJNDFMC_01343	gene	444				
+EHJNDFMC_01343	CDS	444				hypothetical protein
+EHJNDFMC_01344	gene	1062				
+EHJNDFMC_01344	CDS	1062				hypothetical protein
+EHJNDFMC_01345	gene	933	yrbG			
+EHJNDFMC_01345	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+EHJNDFMC_01346	gene	831	resA_4			
+EHJNDFMC_01346	CDS	831	resA_4			Thiol-disulfide oxidoreductase ResA
+EHJNDFMC_01347	gene	1071	aroB			
+EHJNDFMC_01347	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+EHJNDFMC_01348	gene	1410				
+EHJNDFMC_01348	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+EHJNDFMC_01349	gene	1155	dxr			
+EHJNDFMC_01349	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+EHJNDFMC_01350	gene	522	rimM			
+EHJNDFMC_01350	CDS	522	rimM			Ribosome maturation factor RimM
+EHJNDFMC_01351	gene	1347	murA			
+EHJNDFMC_01351	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EHJNDFMC_01352	gene	612				
+EHJNDFMC_01352	CDS	612				hypothetical protein
+EHJNDFMC_01353	gene	690				
+EHJNDFMC_01353	CDS	690				hypothetical protein
+EHJNDFMC_01354	gene	879				
+EHJNDFMC_01354	CDS	879				hypothetical protein
+EHJNDFMC_01355	gene	1149				
+EHJNDFMC_01355	CDS	1149				hypothetical protein
+EHJNDFMC_01356	gene	576	gmk			
+EHJNDFMC_01356	CDS	576	gmk	2.7.4.8	COG0194	Guanylate kinase
+EHJNDFMC_01357	gene	633	nadD			
+EHJNDFMC_01357	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+EHJNDFMC_01358	gene	717				
+EHJNDFMC_01358	CDS	717				hypothetical protein
+EHJNDFMC_01359	gene	1077				
+EHJNDFMC_01359	CDS	1077				hypothetical protein
+EHJNDFMC_01360	gene	1341				
+EHJNDFMC_01360	CDS	1341				hypothetical protein
+EHJNDFMC_01361	gene	192				
+EHJNDFMC_01361	CDS	192				hypothetical protein
+EHJNDFMC_01362	gene	1590				
+EHJNDFMC_01362	CDS	1590				hypothetical protein
+EHJNDFMC_01363	gene	1788				
+EHJNDFMC_01363	CDS	1788				hypothetical protein
+EHJNDFMC_01364	gene	462	rplM			
+EHJNDFMC_01364	CDS	462	rplM		COG0102	50S ribosomal protein L13
+EHJNDFMC_01365	gene	387	rpsI			
+EHJNDFMC_01365	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+EHJNDFMC_01366	gene	870	rpsB			
+EHJNDFMC_01366	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+EHJNDFMC_01367	gene	999	TSFM			
+EHJNDFMC_01367	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+EHJNDFMC_01368	gene	618	ycgM			
+EHJNDFMC_01368	CDS	618	ycgM		COG0179	putative protein YcgM
+EHJNDFMC_01369	gene	3567				
+EHJNDFMC_01369	CDS	3567				hypothetical protein
+EHJNDFMC_01370	gene	96				
+EHJNDFMC_01370	CDS	96				hypothetical protein
+EHJNDFMC_01371	gene	1146				
+EHJNDFMC_01371	CDS	1146				hypothetical protein
+EHJNDFMC_01372	gene	477	ispF			
+EHJNDFMC_01372	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+EHJNDFMC_01373	gene	765				
+EHJNDFMC_01373	CDS	765				hypothetical protein
+EHJNDFMC_01374	gene	2229	btuB_7			
+EHJNDFMC_01374	CDS	2229	btuB_7			Vitamin B12 transporter BtuB
+EHJNDFMC_01375	gene	4296				
+EHJNDFMC_01375	CDS	4296				hypothetical protein
+EHJNDFMC_01376	gene	705				
+EHJNDFMC_01376	CDS	705				hypothetical protein
+EHJNDFMC_01377	gene	603				
+EHJNDFMC_01377	CDS	603				hypothetical protein
+EHJNDFMC_01378	gene	330				
+EHJNDFMC_01378	CDS	330				hypothetical protein
+EHJNDFMC_01379	gene	1329	mshA_2			
+EHJNDFMC_01379	CDS	1329	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHJNDFMC_01380	gene	804				
+EHJNDFMC_01380	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+EHJNDFMC_01381	gene	1857	eptC_1			
+EHJNDFMC_01381	CDS	1857	eptC_1	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+EHJNDFMC_01382	gene	1071				
+EHJNDFMC_01382	CDS	1071				hypothetical protein
+EHJNDFMC_01383	gene	1683				
+EHJNDFMC_01383	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+EHJNDFMC_01384	gene	900	nadK			
+EHJNDFMC_01384	CDS	900	nadK	2.7.1.23		NAD kinase
+EHJNDFMC_01385	gene	567	yajL			
+EHJNDFMC_01385	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+EHJNDFMC_01386	gene	609				
+EHJNDFMC_01386	CDS	609				hypothetical protein
+EHJNDFMC_01387	gene	879				
+EHJNDFMC_01387	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+EHJNDFMC_01388	gene	594				
+EHJNDFMC_01388	CDS	594				hypothetical protein
+EHJNDFMC_01389	gene	1440				
+EHJNDFMC_01389	CDS	1440				hypothetical protein
+EHJNDFMC_01390	gene	1443	tuaB_1			
+EHJNDFMC_01390	CDS	1443	tuaB_1		COG2244	Teichuronic acid biosynthesis protein TuaB
+EHJNDFMC_01391	gene	1095				
+EHJNDFMC_01391	CDS	1095				hypothetical protein
+EHJNDFMC_01392	gene	624	nfrA2			
+EHJNDFMC_01392	CDS	624	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+EHJNDFMC_01393	gene	102				
+EHJNDFMC_01393	CDS	102				hypothetical protein
+EHJNDFMC_01394	gene	717	ypdB			
+EHJNDFMC_01394	CDS	717	ypdB		COG3279	Transcriptional regulatory protein YpdB
+EHJNDFMC_01395	gene	1059				
+EHJNDFMC_01395	CDS	1059				hypothetical protein
+EHJNDFMC_01396	gene	1008				
+EHJNDFMC_01396	CDS	1008				hypothetical protein
+EHJNDFMC_01397	gene	1128	ampC			
+EHJNDFMC_01397	CDS	1128	ampC	3.5.2.6		Beta-lactamase
+EHJNDFMC_01398	gene	906				
+EHJNDFMC_01398	CDS	906				hypothetical protein
+EHJNDFMC_01399	gene	1299				
+EHJNDFMC_01399	CDS	1299				hypothetical protein
+EHJNDFMC_01400	gene	780				
+EHJNDFMC_01400	CDS	780				hypothetical protein
+EHJNDFMC_01401	gene	2355				
+EHJNDFMC_01401	CDS	2355				hypothetical protein
+EHJNDFMC_01402	gene	159				
+EHJNDFMC_01402	CDS	159				hypothetical protein
+EHJNDFMC_01403	gene	1341				
+EHJNDFMC_01403	CDS	1341			COG1132	putative ABC transporter ATP-binding protein
+EHJNDFMC_01404	gene	222				
+EHJNDFMC_01404	CDS	222				hypothetical protein
+EHJNDFMC_01405	gene	2313				
+EHJNDFMC_01405	CDS	2313				hypothetical protein
+EHJNDFMC_01406	gene	522				
+EHJNDFMC_01406	CDS	522				hypothetical protein
+EHJNDFMC_01407	gene	852				
+EHJNDFMC_01407	CDS	852				hypothetical protein
+EHJNDFMC_01408	gene	1971	ftsH_2			
+EHJNDFMC_01408	CDS	1971	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+EHJNDFMC_01409	gene	360	rsfS			
+EHJNDFMC_01409	CDS	360	rsfS			Ribosomal silencing factor RsfS
+EHJNDFMC_01410	gene	72				
+EHJNDFMC_01410	tRNA	72				tRNA-Gln(ctg)
+EHJNDFMC_01411	gene	1854				
+EHJNDFMC_01411	CDS	1854				hypothetical protein
+EHJNDFMC_01412	gene	927				
+EHJNDFMC_01412	CDS	927				hypothetical protein
+EHJNDFMC_01413	gene	141				
+EHJNDFMC_01413	CDS	141				hypothetical protein
+EHJNDFMC_01414	gene	1461	pepD_2			
+EHJNDFMC_01414	CDS	1461	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+EHJNDFMC_01415	gene	963				
+EHJNDFMC_01415	CDS	963				hypothetical protein
+EHJNDFMC_01416	gene	1149	lpxB			
+EHJNDFMC_01416	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+EHJNDFMC_01417	gene	774	surE			
+EHJNDFMC_01417	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+EHJNDFMC_01418	gene	99				
+EHJNDFMC_01418	CDS	99				hypothetical protein
+EHJNDFMC_01419	gene	762	soj			
+EHJNDFMC_01419	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+EHJNDFMC_01420	gene	900	parB			
+EHJNDFMC_01420	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+EHJNDFMC_01421	gene	765				
+EHJNDFMC_01421	CDS	765				hypothetical protein
+EHJNDFMC_01422	gene	1536				
+EHJNDFMC_01422	CDS	1536				hypothetical protein
+EHJNDFMC_01423	gene	2286	relA_2			
+EHJNDFMC_01423	CDS	2286	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+EHJNDFMC_01424	gene	348				
+EHJNDFMC_01424	CDS	348				hypothetical protein
+EHJNDFMC_01425	gene	2826	alaS			
+EHJNDFMC_01425	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+EHJNDFMC_01426	gene	1023	recA			
+EHJNDFMC_01426	CDS	1023	recA			Protein RecA
+EHJNDFMC_01427	gene	1305				
+EHJNDFMC_01427	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+EHJNDFMC_01428	gene	597				
+EHJNDFMC_01428	CDS	597				hypothetical protein
+EHJNDFMC_01429	gene	849				
+EHJNDFMC_01429	CDS	849				hypothetical protein
+EHJNDFMC_01430	gene	1347	nhaD			
+EHJNDFMC_01430	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+EHJNDFMC_01431	gene	912				
+EHJNDFMC_01431	CDS	912				hypothetical protein
+EHJNDFMC_01432	gene	558	rsmD			
+EHJNDFMC_01432	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+EHJNDFMC_01433	gene	861				
+EHJNDFMC_01433	CDS	861				hypothetical protein
+EHJNDFMC_01434	gene	492				
+EHJNDFMC_01434	CDS	492				hypothetical protein
+EHJNDFMC_01435	gene	1440	recD2_2			
+EHJNDFMC_01435	CDS	1440	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+EHJNDFMC_01436	gene	579				
+EHJNDFMC_01436	CDS	579				hypothetical protein
+EHJNDFMC_01437	gene	1038	nrnA			
+EHJNDFMC_01437	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+EHJNDFMC_01438	gene	1938	dnaG_1			
+EHJNDFMC_01438	CDS	1938	dnaG_1	2.7.7.-		DNA primase
+EHJNDFMC_01439	gene	330				
+EHJNDFMC_01439	CDS	330				hypothetical protein
+EHJNDFMC_01440	gene	660	queE			
+EHJNDFMC_01440	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+EHJNDFMC_01441	gene	1410	clsA			
+EHJNDFMC_01441	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+EHJNDFMC_01442	gene	2373	bamA_3			
+EHJNDFMC_01442	CDS	2373	bamA_3			Outer membrane protein assembly factor BamA
+EHJNDFMC_01443	gene	4644				
+EHJNDFMC_01443	CDS	4644				hypothetical protein
+EHJNDFMC_01444	gene	1332				
+EHJNDFMC_01444	CDS	1332				hypothetical protein
+EHJNDFMC_01445	gene	216				
+EHJNDFMC_01445	CDS	216				hypothetical protein
+EHJNDFMC_01446	gene	723				
+EHJNDFMC_01446	CDS	723				hypothetical protein
+EHJNDFMC_01447	gene	672				
+EHJNDFMC_01447	CDS	672		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+EHJNDFMC_01448	gene	747	fabG			
+EHJNDFMC_01448	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EHJNDFMC_01449	gene	612				
+EHJNDFMC_01449	CDS	612				hypothetical protein
+EHJNDFMC_01450	gene	74				
+EHJNDFMC_01450	tRNA	74				tRNA-Met(cat)
+EHJNDFMC_01451	gene	183				
+EHJNDFMC_01451	CDS	183				hypothetical protein
+EHJNDFMC_01452	gene	2295				
+EHJNDFMC_01452	CDS	2295				hypothetical protein
+EHJNDFMC_01453	gene	1011				
+EHJNDFMC_01453	CDS	1011				hypothetical protein
+EHJNDFMC_01454	gene	693				
+EHJNDFMC_01454	CDS	693				hypothetical protein
+EHJNDFMC_01455	gene	993	htpX			
+EHJNDFMC_01455	CDS	993	htpX	3.4.24.-		Protease HtpX
+EHJNDFMC_01456	gene	564	lemA			
+EHJNDFMC_01456	CDS	564	lemA		COG1704	Protein LemA
+EHJNDFMC_01457	gene	405				
+EHJNDFMC_01457	CDS	405				hypothetical protein
+EHJNDFMC_01458	gene	107				
+EHJNDFMC_01458	rRNA	107				5S ribosomal RNA
+EHJNDFMC_01459	gene	657	trmO			
+EHJNDFMC_01459	CDS	657	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+EHJNDFMC_01460	gene	1299				
+EHJNDFMC_01460	CDS	1299				hypothetical protein
+EHJNDFMC_01461	gene	75				
+EHJNDFMC_01461	tRNA	75				tRNA-His(gtg)
+EHJNDFMC_01462	gene	1074	adh			
+EHJNDFMC_01462	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+EHJNDFMC_01463	gene	606				
+EHJNDFMC_01463	CDS	606				hypothetical protein
+EHJNDFMC_01464	gene	1497	nrfA			
+EHJNDFMC_01464	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+EHJNDFMC_01465	gene	1311				
+EHJNDFMC_01465	CDS	1311				hypothetical protein
+EHJNDFMC_01466	gene	798	ccsA_1			
+EHJNDFMC_01466	CDS	798	ccsA_1			Cytochrome c biogenesis protein CcsA
+EHJNDFMC_01467	gene	398	ssrA			
+EHJNDFMC_01467	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+EHJNDFMC_01468	gene	636	wecA			
+EHJNDFMC_01468	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+EHJNDFMC_01469	gene	2499				
+EHJNDFMC_01469	CDS	2499				hypothetical protein
+EHJNDFMC_01470	gene	1077				
+EHJNDFMC_01470	CDS	1077				hypothetical protein
+EHJNDFMC_01471	gene	1194				
+EHJNDFMC_01471	CDS	1194				hypothetical protein
+EHJNDFMC_01472	gene	1530				
+EHJNDFMC_01472	CDS	1530				hypothetical protein
+EHJNDFMC_01473	gene	555	dapH_1			
+EHJNDFMC_01473	CDS	555	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EHJNDFMC_01474	gene	1221				
+EHJNDFMC_01474	CDS	1221				hypothetical protein
+EHJNDFMC_01475	gene	1542				
+EHJNDFMC_01475	CDS	1542				hypothetical protein
+EHJNDFMC_01476	gene	1152	mshA_3			
+EHJNDFMC_01476	CDS	1152	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHJNDFMC_01477	gene	366				
+EHJNDFMC_01477	CDS	366				hypothetical protein
+EHJNDFMC_01478	gene	318				
+EHJNDFMC_01478	CDS	318				hypothetical protein
+EHJNDFMC_01479	gene	204				
+EHJNDFMC_01479	CDS	204				hypothetical protein
+EHJNDFMC_01480	gene	771				
+EHJNDFMC_01480	CDS	771				hypothetical protein
+EHJNDFMC_01481	gene	498				
+EHJNDFMC_01481	CDS	498				hypothetical protein
+EHJNDFMC_01482	gene	834				
+EHJNDFMC_01482	CDS	834				hypothetical protein
+EHJNDFMC_01483	gene	3417	mfd			
+EHJNDFMC_01483	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+EHJNDFMC_01484	gene	3024				
+EHJNDFMC_01484	CDS	3024				hypothetical protein
+EHJNDFMC_01485	gene	876				
+EHJNDFMC_01485	CDS	876				hypothetical protein
+EHJNDFMC_01486	gene	447				
+EHJNDFMC_01486	CDS	447				hypothetical protein
+EHJNDFMC_01487	gene	474				
+EHJNDFMC_01487	CDS	474				hypothetical protein
+EHJNDFMC_01488	gene	1446				
+EHJNDFMC_01488	CDS	1446				hypothetical protein
+EHJNDFMC_01489	gene	405				
+EHJNDFMC_01489	CDS	405				hypothetical protein
+EHJNDFMC_01490	gene	861				
+EHJNDFMC_01490	CDS	861				hypothetical protein
+EHJNDFMC_01491	gene	1746				
+EHJNDFMC_01491	CDS	1746				hypothetical protein
+EHJNDFMC_01492	gene	510	pspA_2			
+EHJNDFMC_01492	CDS	510	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+EHJNDFMC_01493	gene	1038				
+EHJNDFMC_01493	CDS	1038				hypothetical protein
+EHJNDFMC_01494	gene	99				
+EHJNDFMC_01494	CDS	99				hypothetical protein
+EHJNDFMC_01495	gene	1107				
+EHJNDFMC_01495	CDS	1107				hypothetical protein
+EHJNDFMC_01496	gene	1914	pglF			
+EHJNDFMC_01496	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+EHJNDFMC_01497	gene	594				
+EHJNDFMC_01497	CDS	594				hypothetical protein
+EHJNDFMC_01498	gene	1197	arnB			
+EHJNDFMC_01498	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+EHJNDFMC_01499	gene	798	tuaG			
+EHJNDFMC_01499	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+EHJNDFMC_01500	gene	1143				
+EHJNDFMC_01500	CDS	1143				hypothetical protein
+EHJNDFMC_01501	gene	1155				
+EHJNDFMC_01501	CDS	1155				hypothetical protein
+EHJNDFMC_01502	gene	909	trxB			
+EHJNDFMC_01502	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+EHJNDFMC_01503	gene	549	bsaA			
+EHJNDFMC_01503	CDS	549	bsaA			Glutathione peroxidase BsaA
+EHJNDFMC_01504	gene	600				
+EHJNDFMC_01504	CDS	600				hypothetical protein
+EHJNDFMC_01505	gene	1242	ugd			
+EHJNDFMC_01505	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+EHJNDFMC_01506	gene	456				
+EHJNDFMC_01506	CDS	456				hypothetical protein
+EHJNDFMC_01507	gene	1563				
+EHJNDFMC_01507	CDS	1563				hypothetical protein
+EHJNDFMC_01508	gene	498				
+EHJNDFMC_01508	CDS	498				hypothetical protein
+EHJNDFMC_01509	gene	537				
+EHJNDFMC_01509	CDS	537				hypothetical protein
+EHJNDFMC_01510	gene	138				
+EHJNDFMC_01510	CDS	138				hypothetical protein
+EHJNDFMC_01511	gene	183				
+EHJNDFMC_01511	CDS	183				hypothetical protein
+EHJNDFMC_01512	gene	1311	murF			
+EHJNDFMC_01512	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+EHJNDFMC_01513	gene	885	folP			
+EHJNDFMC_01513	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+EHJNDFMC_01514	gene	765	cdaA			
+EHJNDFMC_01514	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+EHJNDFMC_01515	gene	1008	pta_1			
+EHJNDFMC_01515	CDS	1008	pta_1	2.3.1.8		Phosphate acetyltransferase
+EHJNDFMC_01516	gene	1194	ackA			
+EHJNDFMC_01516	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+EHJNDFMC_01517	gene	774	lpxH			
+EHJNDFMC_01517	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+EHJNDFMC_01518	gene	375				
+EHJNDFMC_01518	CDS	375				hypothetical protein
+EHJNDFMC_01519	gene	702				
+EHJNDFMC_01519	CDS	702				hypothetical protein
+EHJNDFMC_01520	gene	1104				
+EHJNDFMC_01520	CDS	1104				hypothetical protein
+EHJNDFMC_01521	gene	525	efp			
+EHJNDFMC_01521	CDS	525	efp		COG0231	Elongation factor P
+EHJNDFMC_01522	gene	222				
+EHJNDFMC_01522	CDS	222				hypothetical protein
+EHJNDFMC_01523	gene	744				
+EHJNDFMC_01523	CDS	744				hypothetical protein
+EHJNDFMC_01524	gene	1113	rluD_1			
+EHJNDFMC_01524	CDS	1113	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EHJNDFMC_01525	gene	993	ddlA			
+EHJNDFMC_01525	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+EHJNDFMC_01526	gene	1176				
+EHJNDFMC_01526	CDS	1176				hypothetical protein
+EHJNDFMC_01527	gene	681				
+EHJNDFMC_01527	CDS	681				hypothetical protein
+EHJNDFMC_01528	gene	195				
+EHJNDFMC_01528	CDS	195				hypothetical protein
+EHJNDFMC_01529	gene	888				
+EHJNDFMC_01529	CDS	888				hypothetical protein
+EHJNDFMC_01530	gene	549				
+EHJNDFMC_01530	CDS	549				hypothetical protein
+EHJNDFMC_01531	gene	759				
+EHJNDFMC_01531	CDS	759				hypothetical protein
+EHJNDFMC_01532	gene	1038				
+EHJNDFMC_01532	CDS	1038				hypothetical protein
+EHJNDFMC_01533	gene	438				
+EHJNDFMC_01533	CDS	438				hypothetical protein
+EHJNDFMC_01534	gene	516				
+EHJNDFMC_01534	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+EHJNDFMC_01535	gene	138				
+EHJNDFMC_01535	CDS	138				hypothetical protein
+EHJNDFMC_01536	gene	1122	prfB			
+EHJNDFMC_01536	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+EHJNDFMC_01537	gene	1809				
+EHJNDFMC_01537	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+EHJNDFMC_01538	gene	678				
+EHJNDFMC_01538	CDS	678				hypothetical protein
+EHJNDFMC_01539	gene	1188				
+EHJNDFMC_01539	CDS	1188				hypothetical protein
+EHJNDFMC_01540	gene	1017				
+EHJNDFMC_01540	CDS	1017				hypothetical protein
+EHJNDFMC_01541	gene	1911				
+EHJNDFMC_01541	CDS	1911				hypothetical protein
+EHJNDFMC_01542	gene	612	nreC			
+EHJNDFMC_01542	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+EHJNDFMC_01543	gene	1050	nrdB			
+EHJNDFMC_01543	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+EHJNDFMC_01544	gene	2520				
+EHJNDFMC_01544	CDS	2520				hypothetical protein
+EHJNDFMC_01545	gene	3018				
+EHJNDFMC_01545	CDS	3018				hypothetical protein
+EHJNDFMC_01546	gene	2604	yoaB			
+EHJNDFMC_01546	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+EHJNDFMC_01547	gene	621				
+EHJNDFMC_01547	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+EHJNDFMC_01548	gene	945	ribF			
+EHJNDFMC_01548	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+EHJNDFMC_01549	gene	792				
+EHJNDFMC_01549	CDS	792				hypothetical protein
+EHJNDFMC_01550	gene	477				
+EHJNDFMC_01550	CDS	477				hypothetical protein
+EHJNDFMC_01551	gene	513	sigH			
+EHJNDFMC_01551	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+EHJNDFMC_01552	gene	1893	speA			
+EHJNDFMC_01552	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+EHJNDFMC_01553	gene	528	aroK			
+EHJNDFMC_01553	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+EHJNDFMC_01554	gene	2415	topA			
+EHJNDFMC_01554	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+EHJNDFMC_01555	gene	699				
+EHJNDFMC_01555	CDS	699				hypothetical protein
+EHJNDFMC_01556	gene	810				
+EHJNDFMC_01556	CDS	810				hypothetical protein
+EHJNDFMC_01557	gene	555	nudC_2			
+EHJNDFMC_01557	CDS	555	nudC_2	3.6.1.22		NADH pyrophosphatase
+EHJNDFMC_01558	gene	285				
+EHJNDFMC_01558	CDS	285				hypothetical protein
+EHJNDFMC_01559	gene	651				
+EHJNDFMC_01559	CDS	651				hypothetical protein
+EHJNDFMC_01560	gene	291				
+EHJNDFMC_01560	CDS	291				hypothetical protein
+EHJNDFMC_01561	gene	855				
+EHJNDFMC_01561	CDS	855				hypothetical protein
+EHJNDFMC_01562	gene	1131				
+EHJNDFMC_01562	CDS	1131				hypothetical protein
+EHJNDFMC_01563	gene	984				
+EHJNDFMC_01563	CDS	984		1.-.-.-		Oxidoreductase P35
+EHJNDFMC_01564	gene	76				
+EHJNDFMC_01564	tRNA	76				tRNA-Arg(tct)
+EHJNDFMC_01565	gene	888				
+EHJNDFMC_01565	CDS	888				hypothetical protein
+EHJNDFMC_01566	gene	924				
+EHJNDFMC_01566	CDS	924				hypothetical protein
+EHJNDFMC_01567	gene	729				
+EHJNDFMC_01567	CDS	729				hypothetical protein
+EHJNDFMC_01568	gene	2238				
+EHJNDFMC_01568	CDS	2238				hypothetical protein
+EHJNDFMC_01569	gene	789				
+EHJNDFMC_01569	CDS	789				hypothetical protein
+EHJNDFMC_01570	gene	74				
+EHJNDFMC_01570	tRNA	74				tRNA-Cys(gca)
+EHJNDFMC_01571	gene	204				
+EHJNDFMC_01571	CDS	204				hypothetical protein
+EHJNDFMC_01572	gene	1212				
+EHJNDFMC_01572	CDS	1212				hypothetical protein
+EHJNDFMC_01573	gene	753				
+EHJNDFMC_01573	CDS	753				hypothetical protein
+EHJNDFMC_01574	gene	1065	purR			
+EHJNDFMC_01574	CDS	1065	purR			HTH-type transcriptional repressor PurR
+EHJNDFMC_01575	gene	3516	sasA_4			
+EHJNDFMC_01575	CDS	3516	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+EHJNDFMC_01576	gene	726				
+EHJNDFMC_01576	CDS	726				hypothetical protein
+EHJNDFMC_01577	gene	624				
+EHJNDFMC_01577	CDS	624				hypothetical protein
+EHJNDFMC_01578	gene	1311	dapL			
+EHJNDFMC_01578	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+EHJNDFMC_01579	gene	573				
+EHJNDFMC_01579	CDS	573				hypothetical protein
+EHJNDFMC_01580	gene	1623				
+EHJNDFMC_01580	CDS	1623				hypothetical protein
+EHJNDFMC_01581	gene	738	yafV			
+EHJNDFMC_01581	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+EHJNDFMC_01582	gene	696	infC			
+EHJNDFMC_01582	CDS	696	infC			Translation initiation factor IF-3
+EHJNDFMC_01583	gene	198	rpmI			
+EHJNDFMC_01583	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+EHJNDFMC_01584	gene	345	rplT			
+EHJNDFMC_01584	CDS	345	rplT			50S ribosomal protein L20
+EHJNDFMC_01585	gene	1206				
+EHJNDFMC_01585	CDS	1206				hypothetical protein
+EHJNDFMC_01586	gene	2217	yhgF			
+EHJNDFMC_01586	CDS	2217	yhgF		COG2183	Protein YhgF
+EHJNDFMC_01587	gene	1953	yheS			
+EHJNDFMC_01587	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+EHJNDFMC_01588	gene	2037	pepO			
+EHJNDFMC_01588	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+EHJNDFMC_01589	gene	1503				
+EHJNDFMC_01589	CDS	1503				hypothetical protein
+EHJNDFMC_01590	gene	1491	algC_2			
+EHJNDFMC_01590	CDS	1491	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+EHJNDFMC_01591	gene	606				
+EHJNDFMC_01591	CDS	606				hypothetical protein
+EHJNDFMC_01592	gene	678				
+EHJNDFMC_01592	CDS	678				hypothetical protein
+EHJNDFMC_01593	gene	585				
+EHJNDFMC_01593	CDS	585				hypothetical protein
+EHJNDFMC_01594	gene	384				
+EHJNDFMC_01594	CDS	384				hypothetical protein
+EHJNDFMC_01595	gene	759	exoA			
+EHJNDFMC_01595	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+EHJNDFMC_01596	gene	318	rplU			
+EHJNDFMC_01596	CDS	318	rplU		COG0261	50S ribosomal protein L21
+EHJNDFMC_01597	gene	264	rpmA			
+EHJNDFMC_01597	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+EHJNDFMC_01598	gene	1317	serS			
+EHJNDFMC_01598	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+EHJNDFMC_01599	gene	2358	pyrK_2			
+EHJNDFMC_01599	CDS	2358	pyrK_2			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+EHJNDFMC_01600	gene	1116				
+EHJNDFMC_01600	CDS	1116				hypothetical protein
+EHJNDFMC_01601	gene	876	deoD			
+EHJNDFMC_01601	CDS	876	deoD	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+EHJNDFMC_01602	gene	1032	ltaE			
+EHJNDFMC_01602	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+EHJNDFMC_01603	gene	1374	mnmE			
+EHJNDFMC_01603	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+EHJNDFMC_01604	gene	2133				
+EHJNDFMC_01604	CDS	2133				hypothetical protein
+EHJNDFMC_01605	gene	1269				
+EHJNDFMC_01605	CDS	1269				hypothetical protein
+EHJNDFMC_01606	gene	726				
+EHJNDFMC_01606	CDS	726				hypothetical protein
+EHJNDFMC_01607	gene	1293				
+EHJNDFMC_01607	CDS	1293				hypothetical protein
+EHJNDFMC_01608	gene	729	coaX			
+EHJNDFMC_01608	CDS	729	coaX	2.7.1.33		Type III pantothenate kinase
+EHJNDFMC_01609	gene	1197				
+EHJNDFMC_01609	CDS	1197				hypothetical protein
+EHJNDFMC_01610	gene	1419	phoV			
+EHJNDFMC_01610	CDS	1419	phoV	3.1.3.1		Alkaline phosphatase PhoV
+EHJNDFMC_01611	gene	3348	secA			
+EHJNDFMC_01611	CDS	3348	secA			Protein translocase subunit SecA
+EHJNDFMC_01612	gene	762	lptB_2			
+EHJNDFMC_01612	CDS	762	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+EHJNDFMC_01613	gene	1332	tilS			
+EHJNDFMC_01613	CDS	1332	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+EHJNDFMC_01614	gene	1182	rlmI			
+EHJNDFMC_01614	CDS	1182	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+EHJNDFMC_01615	gene	621	rnd			
+EHJNDFMC_01615	CDS	621	rnd	3.1.13.5		Ribonuclease D
+EHJNDFMC_01616	gene	2409				
+EHJNDFMC_01616	CDS	2409				hypothetical protein
+EHJNDFMC_01617	gene	609				
+EHJNDFMC_01617	CDS	609				hypothetical protein
+EHJNDFMC_01618	gene	1494				
+EHJNDFMC_01618	CDS	1494				hypothetical protein
+EHJNDFMC_01619	gene	1098	fcl_1			
+EHJNDFMC_01619	CDS	1098	fcl_1	1.1.1.271	COG0451	GDP-L-fucose synthase
+EHJNDFMC_01620	gene	1086	gmd			
+EHJNDFMC_01620	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+EHJNDFMC_01621	gene	1059	rfbM			
+EHJNDFMC_01621	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+EHJNDFMC_01622	gene	987				
+EHJNDFMC_01622	CDS	987				hypothetical protein
+EHJNDFMC_01623	gene	2304	mrcA_2			
+EHJNDFMC_01623	CDS	2304	mrcA_2		COG5009	Penicillin-binding protein 1A
+EHJNDFMC_01624	gene	948	pyrB			
+EHJNDFMC_01624	CDS	948	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+EHJNDFMC_01625	gene	459	pyrI			
+EHJNDFMC_01625	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+EHJNDFMC_01626	gene	1254	mltF			
+EHJNDFMC_01626	CDS	1254	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+EHJNDFMC_01627	gene	168				
+EHJNDFMC_01627	CDS	168				hypothetical protein
+EHJNDFMC_01628	gene	1632	pepDA			
+EHJNDFMC_01628	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+EHJNDFMC_01629	gene	1623				
+EHJNDFMC_01629	CDS	1623				hypothetical protein
+EHJNDFMC_01630	gene	849	nadC			
+EHJNDFMC_01630	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+EHJNDFMC_01631	gene	495				
+EHJNDFMC_01631	CDS	495				hypothetical protein
+EHJNDFMC_01632	gene	1479	cstA			
+EHJNDFMC_01632	CDS	1479	cstA		COG1966	Peptide transporter CstA
+EHJNDFMC_01633	gene	1680				
+EHJNDFMC_01633	CDS	1680				hypothetical protein
+EHJNDFMC_01634	gene	717				
+EHJNDFMC_01634	CDS	717		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+EHJNDFMC_01635	gene	1731	lysS			
+EHJNDFMC_01635	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+EHJNDFMC_01636	gene	96				
+EHJNDFMC_01636	CDS	96				hypothetical protein
+EHJNDFMC_01637	gene	996	gpsA			
+EHJNDFMC_01637	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EHJNDFMC_01638	gene	360				
+EHJNDFMC_01638	CDS	360				hypothetical protein
+EHJNDFMC_01639	gene	1032	menE			
+EHJNDFMC_01639	CDS	1032	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+EHJNDFMC_01640	gene	963	fmt			
+EHJNDFMC_01640	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+EHJNDFMC_01641	gene	1785	clcB			
+EHJNDFMC_01641	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+EHJNDFMC_01642	gene	606	tsaC			
+EHJNDFMC_01642	CDS	606	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+EHJNDFMC_01643	gene	75				
+EHJNDFMC_01643	tRNA	75				tRNA-Phe(gaa)
+EHJNDFMC_01644	gene	123				
+EHJNDFMC_01644	CDS	123				hypothetical protein
+EHJNDFMC_01645	gene	192				
+EHJNDFMC_01645	CDS	192				hypothetical protein
+EHJNDFMC_01646	gene	3177				
+EHJNDFMC_01646	CDS	3177				hypothetical protein
+EHJNDFMC_01647	gene	333				
+EHJNDFMC_01647	CDS	333				hypothetical protein
+EHJNDFMC_01648	gene	180				
+EHJNDFMC_01648	CDS	180				hypothetical protein
+EHJNDFMC_01649	gene	1002				
+EHJNDFMC_01649	CDS	1002				hypothetical protein
+EHJNDFMC_01650	gene	2016				
+EHJNDFMC_01650	CDS	2016				hypothetical protein
+EHJNDFMC_01651	gene	741				
+EHJNDFMC_01651	CDS	741				hypothetical protein
+EHJNDFMC_01652	gene	1686				
+EHJNDFMC_01652	CDS	1686				hypothetical protein
+EHJNDFMC_01653	gene	678	walR			
+EHJNDFMC_01653	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+EHJNDFMC_01654	gene	768				
+EHJNDFMC_01654	CDS	768				hypothetical protein
+EHJNDFMC_01655	gene	1098	apbC			
+EHJNDFMC_01655	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+EHJNDFMC_01656	gene	2103	dxs			
+EHJNDFMC_01656	CDS	2103	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+EHJNDFMC_01657	gene	1353	trkA			
+EHJNDFMC_01657	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+EHJNDFMC_01658	gene	1458	trkH			
+EHJNDFMC_01658	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+EHJNDFMC_01659	gene	963	manA			
+EHJNDFMC_01659	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+EHJNDFMC_01660	gene	1143	cydB			
+EHJNDFMC_01660	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+EHJNDFMC_01661	gene	1566	cydA			
+EHJNDFMC_01661	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+EHJNDFMC_01662	gene	216				
+EHJNDFMC_01662	CDS	216				hypothetical protein
+EHJNDFMC_01663	gene	873				
+EHJNDFMC_01663	CDS	873				hypothetical protein
+EHJNDFMC_01664	gene	1482				
+EHJNDFMC_01664	CDS	1482				hypothetical protein
+EHJNDFMC_01665	gene	987	emrA			
+EHJNDFMC_01665	CDS	987	emrA			Colistin resistance protein EmrA
+EHJNDFMC_01666	gene	1182				
+EHJNDFMC_01666	CDS	1182				hypothetical protein
+EHJNDFMC_01667	gene	1245	ybhR_2			
+EHJNDFMC_01667	CDS	1245	ybhR_2		COG0842	putative multidrug ABC transporter permease YbhR
+EHJNDFMC_01668	gene	1086				
+EHJNDFMC_01668	CDS	1086				hypothetical protein
+EHJNDFMC_01669	gene	2214				
+EHJNDFMC_01669	CDS	2214				hypothetical protein
+EHJNDFMC_01670	gene	774	trmB			
+EHJNDFMC_01670	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+EHJNDFMC_01671	gene	996				
+EHJNDFMC_01671	CDS	996				hypothetical protein
+EHJNDFMC_01672	gene	951				
+EHJNDFMC_01672	CDS	951				hypothetical protein
+EHJNDFMC_01673	gene	1911	dnaK			
+EHJNDFMC_01673	CDS	1911	dnaK			Chaperone protein DnaK
+EHJNDFMC_01674	gene	765				
+EHJNDFMC_01674	CDS	765				hypothetical protein
+EHJNDFMC_01675	gene	459				
+EHJNDFMC_01675	CDS	459				hypothetical protein
+EHJNDFMC_01676	gene	387				
+EHJNDFMC_01676	CDS	387				hypothetical protein
+EHJNDFMC_01677	gene	1302				
+EHJNDFMC_01677	CDS	1302				hypothetical protein
+EHJNDFMC_01678	gene	168				
+EHJNDFMC_01678	CDS	168				hypothetical protein
+EHJNDFMC_01679	gene	894				
+EHJNDFMC_01679	CDS	894				hypothetical protein
+EHJNDFMC_01680	gene	387				
+EHJNDFMC_01680	CDS	387				hypothetical protein
+EHJNDFMC_01681	gene	1962				
+EHJNDFMC_01681	CDS	1962				hypothetical protein
+EHJNDFMC_01682	gene	648				
+EHJNDFMC_01682	CDS	648				hypothetical protein
+EHJNDFMC_01683	gene	1443	tuaB_2			
+EHJNDFMC_01683	CDS	1443	tuaB_2		COG2244	Teichuronic acid biosynthesis protein TuaB
+EHJNDFMC_01684	gene	807	rfbF			
+EHJNDFMC_01684	CDS	807	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+EHJNDFMC_01685	gene	1101	rfbG			
+EHJNDFMC_01685	CDS	1101	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+EHJNDFMC_01686	gene	441				
+EHJNDFMC_01686	CDS	441				hypothetical protein
+EHJNDFMC_01687	gene	138				
+EHJNDFMC_01687	CDS	138				hypothetical protein
+EHJNDFMC_01688	gene	1059				
+EHJNDFMC_01688	CDS	1059				hypothetical protein
+EHJNDFMC_01689	gene	105				
+EHJNDFMC_01689	CDS	105				hypothetical protein
+EHJNDFMC_01690	gene	912	rfbJ			
+EHJNDFMC_01690	CDS	912	rfbJ	1.1.1.341	COG0451	CDP-abequose synthase
+EHJNDFMC_01691	gene	1269				
+EHJNDFMC_01691	CDS	1269				hypothetical protein
+EHJNDFMC_01692	gene	1050	tagF			
+EHJNDFMC_01692	CDS	1050	tagF	2.7.8.12	COG1887	Teichoic acid poly(glycerol phosphate) polymerase
+EHJNDFMC_01693	gene	969				
+EHJNDFMC_01693	CDS	969				hypothetical protein
+EHJNDFMC_01694	gene	816	arnC_2			
+EHJNDFMC_01694	CDS	816	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+EHJNDFMC_01695	gene	675	dapH_2			
+EHJNDFMC_01695	CDS	675	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EHJNDFMC_01696	gene	120				
+EHJNDFMC_01696	CDS	120				hypothetical protein
+EHJNDFMC_01697	gene	927				
+EHJNDFMC_01697	CDS	927				hypothetical protein
+EHJNDFMC_01698	gene	879				
+EHJNDFMC_01698	CDS	879				hypothetical protein
+EHJNDFMC_01699	gene	1035	mshA_4			
+EHJNDFMC_01699	CDS	1035	mshA_4	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHJNDFMC_01700	gene	816				
+EHJNDFMC_01700	CDS	816				hypothetical protein
+EHJNDFMC_01701	gene	1080				
+EHJNDFMC_01701	CDS	1080		2.6.1.51	COG0075	Serine-pyruvate aminotransferase
+EHJNDFMC_01702	gene	621				
+EHJNDFMC_01702	CDS	621				hypothetical protein
+EHJNDFMC_01703	gene	1344	hldE			
+EHJNDFMC_01703	CDS	1344	hldE	2.7.7.70		Bifunctional protein HldE
+EHJNDFMC_01704	gene	801				
+EHJNDFMC_01704	CDS	801				hypothetical protein
+EHJNDFMC_01705	gene	1215				
+EHJNDFMC_01705	CDS	1215				hypothetical protein
+EHJNDFMC_01706	gene	1155	mshA_5			
+EHJNDFMC_01706	CDS	1155	mshA_5	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+EHJNDFMC_01707	gene	543	dapH_3			
+EHJNDFMC_01707	CDS	543	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+EHJNDFMC_01708	gene	807	tagA			
+EHJNDFMC_01708	CDS	807	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+EHJNDFMC_01709	gene	966				
+EHJNDFMC_01709	CDS	966				hypothetical protein
+EHJNDFMC_01710	gene	1110				
+EHJNDFMC_01710	CDS	1110				hypothetical protein
+EHJNDFMC_01711	gene	105				
+EHJNDFMC_01711	CDS	105				hypothetical protein
+EHJNDFMC_01712	gene	615				
+EHJNDFMC_01712	CDS	615				hypothetical protein
+EHJNDFMC_01713	gene	594	folE			
+EHJNDFMC_01713	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+EHJNDFMC_01714	gene	639				
+EHJNDFMC_01714	CDS	639				hypothetical protein
+EHJNDFMC_01715	gene	2130	tpiA			
+EHJNDFMC_01715	CDS	2130	tpiA			Triosephosphate isomerase
+EHJNDFMC_01716	gene	555				
+EHJNDFMC_01716	CDS	555				hypothetical protein
+EHJNDFMC_01717	gene	459				
+EHJNDFMC_01717	CDS	459				hypothetical protein
+EHJNDFMC_01718	gene	1617	cca			
+EHJNDFMC_01718	CDS	1617	cca	2.7.7.72		CCA-adding enzyme
+EHJNDFMC_01719	gene	1194	ttgA			
+EHJNDFMC_01719	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+EHJNDFMC_01720	gene	3258	bepE			
+EHJNDFMC_01720	CDS	3258	bepE			Efflux pump membrane transporter BepE
+EHJNDFMC_01721	gene	1362	oprM			
+EHJNDFMC_01721	CDS	1362	oprM		COG1538	Outer membrane protein OprM
+EHJNDFMC_01722	gene	774	lpxA_2			
+EHJNDFMC_01722	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EHJNDFMC_01723	gene	120				
+EHJNDFMC_01723	CDS	120				hypothetical protein
+EHJNDFMC_01724	gene	840				
+EHJNDFMC_01724	CDS	840				hypothetical protein
+EHJNDFMC_01725	gene	924				
+EHJNDFMC_01725	CDS	924				IS982 family transposase IS195
+EHJNDFMC_01726	gene	372	rlpA			
+EHJNDFMC_01726	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+EHJNDFMC_01727	gene	1344	gdhB			
+EHJNDFMC_01727	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+EHJNDFMC_01728	gene	387	nudG			
+EHJNDFMC_01728	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+EHJNDFMC_01729	gene	4716	rep_2			
+EHJNDFMC_01729	CDS	4716	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+EHJNDFMC_01730	gene	1371				
+EHJNDFMC_01730	CDS	1371				hypothetical protein
+EHJNDFMC_01731	gene	834				
+EHJNDFMC_01731	CDS	834				hypothetical protein
+EHJNDFMC_01732	gene	471				
+EHJNDFMC_01732	CDS	471				hypothetical protein
+EHJNDFMC_01733	gene	993	rpoA			
+EHJNDFMC_01733	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+EHJNDFMC_01734	gene	609	rpsD			
+EHJNDFMC_01734	CDS	609	rpsD			30S ribosomal protein S4
+EHJNDFMC_01735	gene	387	rpsK			
+EHJNDFMC_01735	CDS	387	rpsK			30S ribosomal protein S11
+EHJNDFMC_01736	gene	381	rpsM			
+EHJNDFMC_01736	CDS	381	rpsM			30S ribosomal protein S13
+EHJNDFMC_01737	gene	117	ykgO			
+EHJNDFMC_01737	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+EHJNDFMC_01738	gene	219	infA			
+EHJNDFMC_01738	CDS	219	infA			Translation initiation factor IF-1
+EHJNDFMC_01739	gene	750	map_2			
+EHJNDFMC_01739	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+EHJNDFMC_01740	gene	1338	secY			
+EHJNDFMC_01740	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+EHJNDFMC_01741	gene	447	rplO			
+EHJNDFMC_01741	CDS	447	rplO		COG0200	50S ribosomal protein L15
+EHJNDFMC_01742	gene	177	rpmD			
+EHJNDFMC_01742	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+EHJNDFMC_01743	gene	510	rpsE			
+EHJNDFMC_01743	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+EHJNDFMC_01744	gene	345	rplR			
+EHJNDFMC_01744	CDS	345	rplR		COG0256	50S ribosomal protein L18
+EHJNDFMC_01745	gene	567	rplF			
+EHJNDFMC_01745	CDS	567	rplF		COG0097	50S ribosomal protein L6
+EHJNDFMC_01746	gene	396	rpsH			
+EHJNDFMC_01746	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+EHJNDFMC_01747	gene	303	rpsN			
+EHJNDFMC_01747	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+EHJNDFMC_01748	gene	555	rplE			
+EHJNDFMC_01748	CDS	555	rplE		COG0094	50S ribosomal protein L5
+EHJNDFMC_01749	gene	321	rplX			
+EHJNDFMC_01749	CDS	321	rplX		COG0198	50S ribosomal protein L24
+EHJNDFMC_01750	gene	366	rplN			
+EHJNDFMC_01750	CDS	366	rplN		COG0093	50S ribosomal protein L14
+EHJNDFMC_01751	gene	258	rpsQ			
+EHJNDFMC_01751	CDS	258	rpsQ			30S ribosomal protein S17
+EHJNDFMC_01752	gene	195	rpmC			
+EHJNDFMC_01752	CDS	195	rpmC			50S ribosomal protein L29
+EHJNDFMC_01753	gene	429	rplP			
+EHJNDFMC_01753	CDS	429	rplP		COG0197	50S ribosomal protein L16
+EHJNDFMC_01754	gene	735	rpsC			
+EHJNDFMC_01754	CDS	735	rpsC		COG0092	30S ribosomal protein S3
+EHJNDFMC_01755	gene	405				
+EHJNDFMC_01755	CDS	405				hypothetical protein
+EHJNDFMC_01756	gene	267	rpsS			
+EHJNDFMC_01756	CDS	267	rpsS			30S ribosomal protein S19
+EHJNDFMC_01757	gene	825	rplB			
+EHJNDFMC_01757	CDS	825	rplB		COG0090	50S ribosomal protein L2
+EHJNDFMC_01758	gene	294	rplW			
+EHJNDFMC_01758	CDS	294	rplW		COG0089	50S ribosomal protein L23
+EHJNDFMC_01759	gene	630	rplD			
+EHJNDFMC_01759	CDS	630	rplD			50S ribosomal protein L4
+EHJNDFMC_01760	gene	615	rplC			
+EHJNDFMC_01760	CDS	615	rplC		COG0087	50S ribosomal protein L3
+EHJNDFMC_01761	gene	306	rpsJ			
+EHJNDFMC_01761	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+EHJNDFMC_01762	gene	2127	fusA_2			
+EHJNDFMC_01762	CDS	2127	fusA_2		COG0480	Elongation factor G
+EHJNDFMC_01763	gene	477	rpsG			
+EHJNDFMC_01763	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+EHJNDFMC_01764	gene	381	rpsL			
+EHJNDFMC_01764	CDS	381	rpsL			30S ribosomal protein S12
+EHJNDFMC_01765	gene	318				
+EHJNDFMC_01765	CDS	318				hypothetical protein
+EHJNDFMC_01766	gene	150				
+EHJNDFMC_01766	CDS	150				hypothetical protein
+EHJNDFMC_01767	gene	426				
+EHJNDFMC_01767	CDS	426				hypothetical protein
+EHJNDFMC_01768	gene	882				
+EHJNDFMC_01768	CDS	882				hypothetical protein
+EHJNDFMC_01769	gene	273				
+EHJNDFMC_01769	CDS	273				hypothetical protein
+EHJNDFMC_01770	gene	627				
+EHJNDFMC_01770	CDS	627				hypothetical protein
+EHJNDFMC_01771	gene	816				
+EHJNDFMC_01771	CDS	816				hypothetical protein
+EHJNDFMC_01772	gene	123				
+EHJNDFMC_01772	CDS	123				hypothetical protein
+EHJNDFMC_01773	gene	960				
+EHJNDFMC_01773	CDS	960				hypothetical protein
+EHJNDFMC_01774	gene	192				
+EHJNDFMC_01774	CDS	192				hypothetical protein
+EHJNDFMC_01775	gene	207				
+EHJNDFMC_01775	CDS	207				hypothetical protein
+EHJNDFMC_01776	gene	1830				
+EHJNDFMC_01776	CDS	1830				hypothetical protein
+EHJNDFMC_01777	gene	1788				
+EHJNDFMC_01777	CDS	1788				hypothetical protein
+EHJNDFMC_01778	gene	1917				
+EHJNDFMC_01778	CDS	1917				hypothetical protein
+EHJNDFMC_01779	gene	1686	dauA			
+EHJNDFMC_01779	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+EHJNDFMC_01780	gene	108				
+EHJNDFMC_01780	CDS	108				hypothetical protein
+EHJNDFMC_01781	gene	993	mdh			
+EHJNDFMC_01781	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+EHJNDFMC_01782	gene	510				
+EHJNDFMC_01782	CDS	510				hypothetical protein
+EHJNDFMC_01783	gene	411				
+EHJNDFMC_01783	CDS	411				hypothetical protein
+EHJNDFMC_01784	gene	2538				
+EHJNDFMC_01784	CDS	2538				hypothetical protein
+EHJNDFMC_01785	gene	1002				
+EHJNDFMC_01785	CDS	1002				hypothetical protein
+EHJNDFMC_01786	gene	837				
+EHJNDFMC_01786	CDS	837				hypothetical protein
+EHJNDFMC_01787	gene	1413				
+EHJNDFMC_01787	CDS	1413				hypothetical protein
+EHJNDFMC_01788	gene	399				
+EHJNDFMC_01788	CDS	399			COG0537	putative HIT-like protein
+EHJNDFMC_01789	gene	465	greA			
+EHJNDFMC_01789	CDS	465	greA		COG0782	Transcription elongation factor GreA
+EHJNDFMC_01790	gene	75				
+EHJNDFMC_01790	tRNA	75				tRNA-Ala(ggc)
+EHJNDFMC_01791	gene	726				
+EHJNDFMC_01791	CDS	726				hypothetical protein
+EHJNDFMC_01792	gene	1032	cobD_1			
+EHJNDFMC_01792	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+EHJNDFMC_01793	gene	942	cobD_2			
+EHJNDFMC_01793	CDS	942	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+EHJNDFMC_01794	gene	573				
+EHJNDFMC_01794	CDS	573				hypothetical protein
+EHJNDFMC_01795	gene	2130				
+EHJNDFMC_01795	CDS	2130				hypothetical protein
+EHJNDFMC_01796	gene	825				
+EHJNDFMC_01796	CDS	825				hypothetical protein
+EHJNDFMC_01797	gene	696	mprA			
+EHJNDFMC_01797	CDS	696	mprA		COG0745	Response regulator MprA
+EHJNDFMC_01798	gene	1569	sasA_5			
+EHJNDFMC_01798	CDS	1569	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+EHJNDFMC_01799	gene	2070				
+EHJNDFMC_01799	CDS	2070				hypothetical protein
+EHJNDFMC_01800	gene	222				
+EHJNDFMC_01800	CDS	222				hypothetical protein
+EHJNDFMC_01801	gene	555	cobO			
+EHJNDFMC_01801	CDS	555	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+EHJNDFMC_01802	gene	606				
+EHJNDFMC_01802	CDS	606				hypothetical protein
+EHJNDFMC_01803	gene	93				
+EHJNDFMC_01803	rRNA	93				5S ribosomal RNA (partial)
+EHJNDFMC_01804	gene	156				
+EHJNDFMC_01804	CDS	156				hypothetical protein
+EHJNDFMC_01805	gene	900	rluD_2			
+EHJNDFMC_01805	CDS	900	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+EHJNDFMC_01806	gene	1995	tkt			
+EHJNDFMC_01806	CDS	1995	tkt	2.2.1.1		Transketolase
+EHJNDFMC_01807	gene	444	rpiB			
+EHJNDFMC_01807	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+EHJNDFMC_01808	gene	300				
+EHJNDFMC_01808	CDS	300			COG0776	DNA-binding protein HRL53
+EHJNDFMC_01809	gene	90				
+EHJNDFMC_01809	CDS	90				hypothetical protein
+EHJNDFMC_01810	gene	1575	rne			
+EHJNDFMC_01810	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+EHJNDFMC_01811	gene	474	guaD			
+EHJNDFMC_01811	CDS	474	guaD	3.5.4.3	COG0590	Guanine deaminase
+EHJNDFMC_01812	gene	162				
+EHJNDFMC_01812	CDS	162			COG1773	Rubredoxin
+EHJNDFMC_01813	gene	657	ppaX			
+EHJNDFMC_01813	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+EHJNDFMC_01814	gene	705	ttcA			
+EHJNDFMC_01814	CDS	705	ttcA	2.8.1.-	COG0037	tRNA-cytidine(32) 2-sulfurtransferase
+EHJNDFMC_01815	gene	507				
+EHJNDFMC_01815	CDS	507				hypothetical protein
+EHJNDFMC_01816	gene	762	ydfG			
+EHJNDFMC_01816	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+EHJNDFMC_01817	gene	1698	glgE			
+EHJNDFMC_01817	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+EHJNDFMC_01818	gene	894	fabD			
+EHJNDFMC_01818	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+EHJNDFMC_01819	gene	873				
+EHJNDFMC_01819	CDS	873				hypothetical protein
+EHJNDFMC_01820	gene	462				
+EHJNDFMC_01820	CDS	462				hypothetical protein
+EHJNDFMC_01821	gene	144				
+EHJNDFMC_01821	CDS	144				hypothetical protein
+EHJNDFMC_01822	gene	462				
+EHJNDFMC_01822	CDS	462				hypothetical protein
+EHJNDFMC_01823	gene	2052	ligA			
+EHJNDFMC_01823	CDS	2052	ligA	6.5.1.2		DNA ligase
+EHJNDFMC_01824	gene	855	pta_2			
+EHJNDFMC_01824	CDS	855	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+EHJNDFMC_01825	gene	1062	buk2			
+EHJNDFMC_01825	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+EHJNDFMC_01826	gene	675	trmD			
+EHJNDFMC_01826	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+EHJNDFMC_01827	gene	939				
+EHJNDFMC_01827	CDS	939				hypothetical protein
+EHJNDFMC_01828	gene	1416	pepP			
+EHJNDFMC_01828	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+EHJNDFMC_01829	gene	1197				
+EHJNDFMC_01829	CDS	1197				hypothetical protein
+EHJNDFMC_01830	gene	480				
+EHJNDFMC_01830	CDS	480				hypothetical protein
+EHJNDFMC_01831	gene	813				
+EHJNDFMC_01831	CDS	813				hypothetical protein
+EHJNDFMC_01832	gene	897				
+EHJNDFMC_01832	CDS	897				hypothetical protein
+EHJNDFMC_01833	gene	519				
+EHJNDFMC_01833	CDS	519				hypothetical protein
+EHJNDFMC_01834	gene	792				
+EHJNDFMC_01834	CDS	792				hypothetical protein
+EHJNDFMC_01835	gene	558				
+EHJNDFMC_01835	CDS	558				hypothetical protein
+EHJNDFMC_01836	gene	384				
+EHJNDFMC_01836	CDS	384				hypothetical protein
+EHJNDFMC_01837	gene	306				
+EHJNDFMC_01837	CDS	306				hypothetical protein
+EHJNDFMC_01838	gene	621				
+EHJNDFMC_01838	CDS	621				hypothetical protein
+EHJNDFMC_01839	gene	1332	nhaA			
+EHJNDFMC_01839	CDS	1332	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+EHJNDFMC_01840	gene	525				
+EHJNDFMC_01840	CDS	525				hypothetical protein
+EHJNDFMC_01841	gene	792				
+EHJNDFMC_01841	CDS	792				IS3 family transposase ISBth167
+EHJNDFMC_01842	gene	741				
+EHJNDFMC_01842	CDS	741				hypothetical protein
+EHJNDFMC_01843	gene	2160				
+EHJNDFMC_01843	CDS	2160				hypothetical protein
+EHJNDFMC_01844	gene	264				
+EHJNDFMC_01844	CDS	264				hypothetical protein
+EHJNDFMC_01845	gene	1065				
+EHJNDFMC_01845	CDS	1065				hypothetical protein
+EHJNDFMC_01846	gene	831				
+EHJNDFMC_01846	CDS	831				hypothetical protein
+EHJNDFMC_01847	gene	720	tarI			
+EHJNDFMC_01847	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+EHJNDFMC_01848	gene	987	fcl_2			
+EHJNDFMC_01848	CDS	987	fcl_2	1.1.1.271		GDP-L-fucose synthase
+EHJNDFMC_01849	gene	927				
+EHJNDFMC_01849	CDS	927				hypothetical protein
+EHJNDFMC_01850	gene	108				
+EHJNDFMC_01850	CDS	108				hypothetical protein
+EHJNDFMC_01851	gene	2385	btuB_8			
+EHJNDFMC_01851	CDS	2385	btuB_8			Vitamin B12 transporter BtuB
+EHJNDFMC_01852	gene	1233				
+EHJNDFMC_01852	CDS	1233				hypothetical protein
+EHJNDFMC_01853	gene	615				
+EHJNDFMC_01853	CDS	615				hypothetical protein
+EHJNDFMC_01854	gene	969				
+EHJNDFMC_01854	CDS	969				hypothetical protein
+EHJNDFMC_01855	gene	2100	recG			
+EHJNDFMC_01855	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+EHJNDFMC_01856	gene	717	ispD			
+EHJNDFMC_01856	CDS	717	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+EHJNDFMC_01857	gene	1299				
+EHJNDFMC_01857	CDS	1299				hypothetical protein
+EHJNDFMC_01858	gene	1032	cytR			
+EHJNDFMC_01858	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+EHJNDFMC_01859	gene	3081	susC			
+EHJNDFMC_01859	CDS	3081	susC			TonB-dependent receptor SusC
+EHJNDFMC_01860	gene	1617	susD			
+EHJNDFMC_01860	CDS	1617	susD			Starch-binding protein SusD
+EHJNDFMC_01861	gene	1122	susE			
+EHJNDFMC_01861	CDS	1122	susE			Outer membrane protein SusE
+EHJNDFMC_01862	gene	1092	susF			
+EHJNDFMC_01862	CDS	1092	susF			Outer membrane protein SusF
+EHJNDFMC_01863	gene	2058				
+EHJNDFMC_01863	CDS	2058				hypothetical protein
+EHJNDFMC_01864	gene	1218				
+EHJNDFMC_01864	CDS	1218				hypothetical protein
+EHJNDFMC_01865	gene	1869				
+EHJNDFMC_01865	CDS	1869				hypothetical protein
+EHJNDFMC_01866	gene	822				
+EHJNDFMC_01866	CDS	822				hypothetical protein
+EHJNDFMC_01867	gene	1350				
+EHJNDFMC_01867	CDS	1350				hypothetical protein
+EHJNDFMC_01868	gene	687	yjjV			
+EHJNDFMC_01868	CDS	687	yjjV	3.1.-.-	COG0084	putative metal-dependent hydrolase YjjV
+EHJNDFMC_01869	gene	1365				
+EHJNDFMC_01869	CDS	1365				hypothetical protein
+EHJNDFMC_01870	gene	2736				
+EHJNDFMC_01870	CDS	2736				hypothetical protein
+EHJNDFMC_01871	gene	2217	susB			
+EHJNDFMC_01871	CDS	2217	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+EHJNDFMC_01872	gene	1959	pulA			
+EHJNDFMC_01872	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+EHJNDFMC_01873	gene	1995	glgB_2			
+EHJNDFMC_01873	CDS	1995	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+EHJNDFMC_01874	gene	2148	dcp			
+EHJNDFMC_01874	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+EHJNDFMC_01875	gene	576	srpC_1			
+EHJNDFMC_01875	CDS	576	srpC_1		COG2059	putative chromate transport protein
+EHJNDFMC_01876	gene	552	srpC_2			
+EHJNDFMC_01876	CDS	552	srpC_2		COG2059	putative chromate transport protein
+EHJNDFMC_01877	gene	4092	purL			
+EHJNDFMC_01877	CDS	4092	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+EHJNDFMC_01878	gene	819	pal_3			
+EHJNDFMC_01878	CDS	819	pal_3			Peptidoglycan-associated lipoprotein
+EHJNDFMC_01879	gene	1695				
+EHJNDFMC_01879	CDS	1695				hypothetical protein
+EHJNDFMC_01880	gene	1308				
+EHJNDFMC_01880	CDS	1308				hypothetical protein
+EHJNDFMC_01881	gene	852				
+EHJNDFMC_01881	CDS	852				hypothetical protein
+EHJNDFMC_01882	gene	1188	patB			
+EHJNDFMC_01882	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+EHJNDFMC_01883	gene	990				
+EHJNDFMC_01883	rRNA	990				16S ribosomal RNA (partial)
+EHJNDFMC_01884	gene	834				
+EHJNDFMC_01884	CDS	834				hypothetical protein
+EHJNDFMC_01885	gene	531				
+EHJNDFMC_01885	CDS	531				hypothetical protein
+EHJNDFMC_01886	gene	1329				
+EHJNDFMC_01886	CDS	1329				hypothetical protein
+EHJNDFMC_01887	gene	474				
+EHJNDFMC_01887	CDS	474				hypothetical protein
+EHJNDFMC_01888	gene	663				
+EHJNDFMC_01888	CDS	663				hypothetical protein
+EHJNDFMC_01889	gene	1002				
+EHJNDFMC_01889	CDS	1002				hypothetical protein
+EHJNDFMC_01890	gene	453				
+EHJNDFMC_01890	CDS	453				hypothetical protein
+EHJNDFMC_01891	gene	471				
+EHJNDFMC_01891	CDS	471				hypothetical protein
+EHJNDFMC_01892	gene	948				
+EHJNDFMC_01892	CDS	948				hypothetical protein
+EHJNDFMC_01893	gene	510				
+EHJNDFMC_01893	CDS	510				hypothetical protein
+EHJNDFMC_01894	gene	552				
+EHJNDFMC_01894	CDS	552				hypothetical protein
+EHJNDFMC_01895	gene	744				
+EHJNDFMC_01895	CDS	744				hypothetical protein
+EHJNDFMC_01896	gene	414	glmS			
+EHJNDFMC_01896	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+EHJNDFMC_01897	gene	1383				
+EHJNDFMC_01897	CDS	1383				hypothetical protein
+EHJNDFMC_01898	gene	1464	glmE			
+EHJNDFMC_01898	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+EHJNDFMC_01899	gene	1239				
+EHJNDFMC_01899	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+EHJNDFMC_01900	gene	1380				
+EHJNDFMC_01900	CDS	1380				hypothetical protein
+EHJNDFMC_01901	gene	321				
+EHJNDFMC_01901	CDS	321				hypothetical protein
+EHJNDFMC_01902	gene	945				
+EHJNDFMC_01902	CDS	945				hypothetical protein
+EHJNDFMC_01903	gene	843	ttdA			
+EHJNDFMC_01903	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+EHJNDFMC_01904	gene	558	fumB			
+EHJNDFMC_01904	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+EHJNDFMC_01905	gene	1509	scpC			
+EHJNDFMC_01905	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+EHJNDFMC_01906	gene	423				
+EHJNDFMC_01906	CDS	423				hypothetical protein
+EHJNDFMC_01907	gene	2940	rcsC_2			
+EHJNDFMC_01907	CDS	2940	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+EHJNDFMC_01908	gene	717				
+EHJNDFMC_01908	CDS	717			COG2826	IS30 family transposase IS4351
+EHJNDFMC_01909	gene	345				
+EHJNDFMC_01909	CDS	345				hypothetical protein
+EHJNDFMC_01910	gene	729				
+EHJNDFMC_01910	CDS	729				hypothetical protein
+EHJNDFMC_01911	gene	1068				
+EHJNDFMC_01911	CDS	1068				hypothetical protein
+EHJNDFMC_01912	gene	1812				
+EHJNDFMC_01912	CDS	1812				hypothetical protein
+EHJNDFMC_01913	gene	9054				
+EHJNDFMC_01913	CDS	9054				hypothetical protein
+EHJNDFMC_01914	gene	819				
+EHJNDFMC_01914	CDS	819				hypothetical protein
+EHJNDFMC_01915	gene	1779				
+EHJNDFMC_01915	CDS	1779				hypothetical protein
+EHJNDFMC_01916	gene	759				
+EHJNDFMC_01916	CDS	759				hypothetical protein
+EHJNDFMC_01917	gene	1221				
+EHJNDFMC_01917	CDS	1221				hypothetical protein
+EHJNDFMC_01918	gene	447				
+EHJNDFMC_01918	CDS	447				hypothetical protein
+EHJNDFMC_01919	gene	2016				
+EHJNDFMC_01919	CDS	2016				hypothetical protein
+EHJNDFMC_01920	gene	450				
+EHJNDFMC_01920	CDS	450				hypothetical protein
+EHJNDFMC_01921	gene	138				
+EHJNDFMC_01921	CDS	138				hypothetical protein
+EHJNDFMC_01922	gene	1230				
+EHJNDFMC_01922	CDS	1230				hypothetical protein
+EHJNDFMC_01923	gene	732				
+EHJNDFMC_01923	CDS	732				hypothetical protein
+EHJNDFMC_01924	gene	1266				
+EHJNDFMC_01924	CDS	1266				hypothetical protein
+EHJNDFMC_01925	gene	180				
+EHJNDFMC_01925	CDS	180				hypothetical protein
+EHJNDFMC_01926	gene	882	xerD_2			
+EHJNDFMC_01926	CDS	882	xerD_2			Tyrosine recombinase XerD
+EHJNDFMC_01927	gene	300	hpf			
+EHJNDFMC_01927	CDS	300	hpf			Ribosome hibernation promoting factor
+EHJNDFMC_01928	gene	75				
+EHJNDFMC_01928	tRNA	75				tRNA-Thr(tgt)
+EHJNDFMC_01929	gene	84				
+EHJNDFMC_01929	tRNA	84				tRNA-Tyr(gta)
+EHJNDFMC_01930	gene	74				
+EHJNDFMC_01930	tRNA	74				tRNA-Gly(tcc)
+EHJNDFMC_01931	gene	73				
+EHJNDFMC_01931	tRNA	73				tRNA-Thr(ggt)
+EHJNDFMC_01932	gene	1185	tufB			
+EHJNDFMC_01932	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+EHJNDFMC_01933	gene	74				
+EHJNDFMC_01933	tRNA	74				tRNA-Trp(cca)
+EHJNDFMC_01934	gene	543	nusG			
+EHJNDFMC_01934	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+EHJNDFMC_01935	gene	438	rplK			
+EHJNDFMC_01935	CDS	438	rplK			50S ribosomal protein L11
+EHJNDFMC_01936	gene	693	rplA			
+EHJNDFMC_01936	CDS	693	rplA			50S ribosomal protein L1
+EHJNDFMC_01937	gene	516	rplJ			
+EHJNDFMC_01937	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+EHJNDFMC_01938	gene	378	rplL			
+EHJNDFMC_01938	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+EHJNDFMC_01939	gene	3813	rpoB			
+EHJNDFMC_01939	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+EHJNDFMC_01940	gene	4329	rpoC			
+EHJNDFMC_01940	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+EHJNDFMC_01941	gene	1089	trpS2			
+EHJNDFMC_01941	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+EHJNDFMC_01942	gene	321				
+EHJNDFMC_01942	CDS	321				hypothetical protein
+EHJNDFMC_01943	gene	630				
+EHJNDFMC_01943	CDS	630				hypothetical protein
+EHJNDFMC_01944	gene	636				
+EHJNDFMC_01944	CDS	636				hypothetical protein
+EHJNDFMC_01945	gene	1491				
+EHJNDFMC_01945	CDS	1491				hypothetical protein
+EHJNDFMC_01946	gene	1191	xerC_2			
+EHJNDFMC_01946	CDS	1191	xerC_2			Tyrosine recombinase XerC
+EHJNDFMC_01947	gene	345				
+EHJNDFMC_01947	CDS	345				hypothetical protein
+EHJNDFMC_01948	gene	3669				
+EHJNDFMC_01948	CDS	3669				hypothetical protein
+EHJNDFMC_01949	gene	2373				
+EHJNDFMC_01949	CDS	2373				hypothetical protein
+EHJNDFMC_01950	gene	1599				
+EHJNDFMC_01950	CDS	1599				hypothetical protein
+EHJNDFMC_01951	gene	186				
+EHJNDFMC_01951	CDS	186				hypothetical protein
+EHJNDFMC_01952	gene	189				
+EHJNDFMC_01952	CDS	189				hypothetical protein
+EHJNDFMC_01953	gene	2520				
+EHJNDFMC_01953	CDS	2520				hypothetical protein
+EHJNDFMC_01954	gene	681				
+EHJNDFMC_01954	CDS	681				hypothetical protein
+EHJNDFMC_01955	gene	492				
+EHJNDFMC_01955	CDS	492				hypothetical protein
+EHJNDFMC_01956	gene	189				
+EHJNDFMC_01956	CDS	189				hypothetical protein
+EHJNDFMC_01957	gene	204				
+EHJNDFMC_01957	CDS	204				hypothetical protein
+EHJNDFMC_01958	gene	558				
+EHJNDFMC_01958	CDS	558				hypothetical protein
+EHJNDFMC_01959	gene	636				
+EHJNDFMC_01959	CDS	636				hypothetical protein
+EHJNDFMC_01960	gene	105				
+EHJNDFMC_01960	CDS	105				hypothetical protein
+EHJNDFMC_01961	gene	552				
+EHJNDFMC_01961	CDS	552				hypothetical protein
+EHJNDFMC_01962	gene	74				
+EHJNDFMC_01962	tRNA	74				tRNA-Phe(gaa)
+EHJNDFMC_01963	gene	75				
+EHJNDFMC_01963	tRNA	75				tRNA-Pro(cgg)
+EHJNDFMC_01964	gene	960				
+EHJNDFMC_01964	CDS	960				putative epimerase/dehydratase
+EHJNDFMC_01965	gene	120				
+EHJNDFMC_01965	CDS	120				hypothetical protein
+EHJNDFMC_01966	gene	1188	kbl			
+EHJNDFMC_01966	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+EHJNDFMC_01967	gene	477	argR			
+EHJNDFMC_01967	CDS	477	argR		COG1438	Arginine repressor
+EHJNDFMC_01968	gene	717	ybhL			
+EHJNDFMC_01968	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+EHJNDFMC_01969	gene	756				
+EHJNDFMC_01969	CDS	756				hypothetical protein
+EHJNDFMC_01970	gene	258				
+EHJNDFMC_01970	CDS	258				hypothetical protein
+EHJNDFMC_01971	gene	2355	pnp			
+EHJNDFMC_01971	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+EHJNDFMC_01972	gene	2187	ccsA_2			
+EHJNDFMC_01972	CDS	2187	ccsA_2			Cytochrome c biogenesis protein CcsA
+EHJNDFMC_01973	gene	1713				
+EHJNDFMC_01973	CDS	1713				hypothetical protein
+EHJNDFMC_01974	gene	1329				
+EHJNDFMC_01974	CDS	1329				hypothetical protein
+EHJNDFMC_01975	gene	1314				
+EHJNDFMC_01975	CDS	1314				hypothetical protein
+EHJNDFMC_01976	gene	108				
+EHJNDFMC_01976	CDS	108				hypothetical protein
+EHJNDFMC_01977	gene	1812				
+EHJNDFMC_01977	CDS	1812				hypothetical protein
+EHJNDFMC_01978	gene	1149				
+EHJNDFMC_01978	CDS	1149				hypothetical protein
+EHJNDFMC_01979	gene	390				
+EHJNDFMC_01979	CDS	390				hypothetical protein
+EHJNDFMC_01980	gene	1143				
+EHJNDFMC_01980	CDS	1143				hypothetical protein
+EHJNDFMC_01981	gene	1941				
+EHJNDFMC_01981	CDS	1941				hypothetical protein
+EHJNDFMC_01982	gene	1089				
+EHJNDFMC_01982	CDS	1089				hypothetical protein
+EHJNDFMC_01983	gene	1026				
+EHJNDFMC_01983	CDS	1026				hypothetical protein
+EHJNDFMC_01984	gene	990				
+EHJNDFMC_01984	CDS	990				hypothetical protein
+EHJNDFMC_01985	gene	1152	resA_5			
+EHJNDFMC_01985	CDS	1152	resA_5			Thiol-disulfide oxidoreductase ResA
+EHJNDFMC_01986	gene	135				
+EHJNDFMC_01986	CDS	135				hypothetical protein
+EHJNDFMC_01987	gene	603				
+EHJNDFMC_01987	CDS	603				hypothetical protein
+EHJNDFMC_01988	gene	1395	asnS			
+EHJNDFMC_01988	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+EHJNDFMC_01989	gene	1473				
+EHJNDFMC_01989	CDS	1473				hypothetical protein
+EHJNDFMC_01990	gene	1347	purB			
+EHJNDFMC_01990	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+EHJNDFMC_01991	gene	76				
+EHJNDFMC_01991	tRNA	76				tRNA-Val(tac)
+EHJNDFMC_01992	gene	76				
+EHJNDFMC_01992	tRNA	76				tRNA-Val(tac)
+EHJNDFMC_01993	gene	1209				
+EHJNDFMC_01993	CDS	1209				Outer membrane protein 40
+EHJNDFMC_01994	gene	1815	mutL			
+EHJNDFMC_01994	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+EHJNDFMC_01995	gene	270				
+EHJNDFMC_01995	CDS	270				hypothetical protein
+EHJNDFMC_01996	gene	1695	lptD_2			
+EHJNDFMC_01996	CDS	1695	lptD_2			LPS-assembly protein LptD
+EHJNDFMC_01997	gene	1464	surA_1			
+EHJNDFMC_01997	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+EHJNDFMC_01998	gene	1479	surA_2			
+EHJNDFMC_01998	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+EHJNDFMC_01999	gene	1479	guaB			
+EHJNDFMC_01999	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+EHJNDFMC_02000	gene	168				
+EHJNDFMC_02000	CDS	168				hypothetical protein
+EHJNDFMC_02001	gene	126				
+EHJNDFMC_02001	CDS	126				hypothetical protein
+EHJNDFMC_02002	gene	663				
+EHJNDFMC_02002	CDS	663				hypothetical protein
+EHJNDFMC_02003	gene	1290				
+EHJNDFMC_02003	CDS	1290				hypothetical protein
+EHJNDFMC_02004	gene	1215				
+EHJNDFMC_02004	CDS	1215				hypothetical protein
+EHJNDFMC_02005	gene	678	yknY_3			
+EHJNDFMC_02005	CDS	678	yknY_3	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+EHJNDFMC_02006	gene	2202	kefB_2			
+EHJNDFMC_02006	CDS	2202	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+EHJNDFMC_02007	gene	1014	asd			
+EHJNDFMC_02007	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+EHJNDFMC_02008	gene	402				
+EHJNDFMC_02008	CDS	402				hypothetical protein
+EHJNDFMC_02009	gene	732				
+EHJNDFMC_02009	CDS	732				hypothetical protein
+EHJNDFMC_02010	gene	1446	pal_4			
+EHJNDFMC_02010	CDS	1446	pal_4			Peptidoglycan-associated lipoprotein
+EHJNDFMC_02011	gene	1197	yciC			
+EHJNDFMC_02011	CDS	1197	yciC		COG0523	Putative metal chaperone YciC
+EHJNDFMC_02012	gene	1329				
+EHJNDFMC_02012	CDS	1329				hypothetical protein
+EHJNDFMC_02013	gene	1446	patA_2			
+EHJNDFMC_02013	CDS	1446	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+EHJNDFMC_02014	gene	807				
+EHJNDFMC_02014	CDS	807				hypothetical protein
+EHJNDFMC_02015	gene	93				
+EHJNDFMC_02015	CDS	93				hypothetical protein
+EHJNDFMC_02016	gene	135				
+EHJNDFMC_02016	CDS	135				hypothetical protein
+EHJNDFMC_02017	gene	438				
+EHJNDFMC_02017	CDS	438				hypothetical protein
+EHJNDFMC_02018	gene	3795				
+EHJNDFMC_02018	CDS	3795				hypothetical protein
+EHJNDFMC_02019	gene	600				
+EHJNDFMC_02019	CDS	600		2.7.7.-	COG2184	Protein adenylyltransferase NmFic
+EHJNDFMC_02020	gene	258				
+EHJNDFMC_02020	CDS	258				hypothetical protein
+EHJNDFMC_02021	gene	903	rhaS_2			
+EHJNDFMC_02021	CDS	903	rhaS_2			HTH-type transcriptional activator RhaS
+EHJNDFMC_02022	gene	486	resA_6			
+EHJNDFMC_02022	CDS	486	resA_6			Thiol-disulfide oxidoreductase ResA
+EHJNDFMC_02023	gene	819				
+EHJNDFMC_02023	CDS	819				hypothetical protein
+EHJNDFMC_02024	gene	2310	maeB			
+EHJNDFMC_02024	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+EHJNDFMC_02025	gene	3591				
+EHJNDFMC_02025	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+EHJNDFMC_02026	gene	1188				
+EHJNDFMC_02026	CDS	1188				hypothetical protein
+EHJNDFMC_02027	gene	1083				
+EHJNDFMC_02027	CDS	1083				hypothetical protein
+EHJNDFMC_02028	gene	291				
+EHJNDFMC_02028	CDS	291				hypothetical protein
+EHJNDFMC_02029	gene	2202	hppA1			
+EHJNDFMC_02029	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+EHJNDFMC_02030	gene	1101				
+EHJNDFMC_02030	CDS	1101				hypothetical protein
+EHJNDFMC_02031	gene	1443	rlmCD			
+EHJNDFMC_02031	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+EHJNDFMC_02032	gene	1896	sacC			
+EHJNDFMC_02032	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+EHJNDFMC_02033	gene	1155				
+EHJNDFMC_02033	CDS	1155				hypothetical protein
+EHJNDFMC_02034	gene	909	pfkB			
+EHJNDFMC_02034	CDS	909	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+EHJNDFMC_02035	gene	3339				
+EHJNDFMC_02035	CDS	3339				hypothetical protein
+EHJNDFMC_02036	gene	1851				
+EHJNDFMC_02036	CDS	1851				hypothetical protein
+EHJNDFMC_02037	gene	1686				
+EHJNDFMC_02037	CDS	1686				hypothetical protein
+EHJNDFMC_02038	gene	1722				
+EHJNDFMC_02038	CDS	1722				hypothetical protein
+EHJNDFMC_02039	gene	165				
+EHJNDFMC_02039	CDS	165				hypothetical protein
+EHJNDFMC_02040	gene	468				
+EHJNDFMC_02040	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+EHJNDFMC_02041	gene	462	ndk			
+EHJNDFMC_02041	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+EHJNDFMC_02042	gene	1419	eptC_2			
+EHJNDFMC_02042	CDS	1419	eptC_2	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+EHJNDFMC_02043	gene	258				
+EHJNDFMC_02043	CDS	258				hypothetical protein
+EHJNDFMC_02044	gene	114				
+EHJNDFMC_02044	CDS	114				hypothetical protein
+EHJNDFMC_02045	gene	1215	norR			
+EHJNDFMC_02045	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+EHJNDFMC_02046	gene	543				
+EHJNDFMC_02046	CDS	543				hypothetical protein
+EHJNDFMC_02047	gene	771				
+EHJNDFMC_02047	CDS	771				hypothetical protein
+EHJNDFMC_02048	gene	390				
+EHJNDFMC_02048	CDS	390				hypothetical protein
+EHJNDFMC_02049	gene	2580				
+EHJNDFMC_02049	CDS	2580				hypothetical protein
+EHJNDFMC_02050	gene	3201				
+EHJNDFMC_02050	CDS	3201				hypothetical protein
+EHJNDFMC_02051	gene	180				
+EHJNDFMC_02051	CDS	180				hypothetical protein
+EHJNDFMC_02052	gene	2724	ppdK			
+EHJNDFMC_02052	CDS	2724	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+EHJNDFMC_02053	gene	3111				
+EHJNDFMC_02053	CDS	3111				hypothetical protein
+EHJNDFMC_02054	gene	228				
+EHJNDFMC_02054	CDS	228				hypothetical protein
+EHJNDFMC_02055	gene	1518	dtpT			
+EHJNDFMC_02055	CDS	1518	dtpT		COG3104	Di-/tripeptide transporter
+EHJNDFMC_02056	gene	753				
+EHJNDFMC_02056	CDS	753				hypothetical protein
+EHJNDFMC_02057	gene	1356				
+EHJNDFMC_02057	CDS	1356				hypothetical protein
+EHJNDFMC_02058	gene	720				
+EHJNDFMC_02058	CDS	720				hypothetical protein
+EHJNDFMC_02059	gene	2868	uvrA_1			
+EHJNDFMC_02059	CDS	2868	uvrA_1		COG0178	UvrABC system protein A
+EHJNDFMC_02060	gene	76				
+EHJNDFMC_02060	tRNA	76				tRNA-Thr(cgt)
+EHJNDFMC_02061	gene	74				
+EHJNDFMC_02061	tRNA	74				tRNA-Gly(ccc)
+EHJNDFMC_02062	gene	2826	uvrA_2			
+EHJNDFMC_02062	CDS	2826	uvrA_2		COG0178	UvrABC system protein A
+EHJNDFMC_02063	gene	780	nudC_3			
+EHJNDFMC_02063	CDS	780	nudC_3	3.6.1.22		NADH pyrophosphatase
+EHJNDFMC_02064	gene	1911	yfkN_2			
+EHJNDFMC_02064	CDS	1911	yfkN_2		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+EHJNDFMC_02065	gene	243				
+EHJNDFMC_02065	CDS	243				hypothetical protein
+EHJNDFMC_02066	gene	597	carQ			
+EHJNDFMC_02066	CDS	597	carQ		COG1595	RNA polymerase sigma factor CarQ
+EHJNDFMC_02067	gene	648	rpe			
+EHJNDFMC_02067	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+EHJNDFMC_02068	gene	126				
+EHJNDFMC_02068	CDS	126				hypothetical protein
+EHJNDFMC_02069	gene	696	trpF			
+EHJNDFMC_02069	CDS	696	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+EHJNDFMC_02070	gene	564	pabA			
+EHJNDFMC_02070	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+EHJNDFMC_02071	gene	615				
+EHJNDFMC_02071	CDS	615			COG3039	IS5 family transposase ISPta1
+EHJNDFMC_02072	gene	1164				
+EHJNDFMC_02072	CDS	1164				hypothetical protein
+EHJNDFMC_02073	gene	1095	algA			
+EHJNDFMC_02073	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+EHJNDFMC_02074	gene	85				
+EHJNDFMC_02074	tRNA	85				tRNA-Leu(caa)
+EHJNDFMC_02075	gene	354				
+EHJNDFMC_02075	CDS	354				hypothetical protein
+EHJNDFMC_02076	gene	162				
+EHJNDFMC_02076	CDS	162				hypothetical protein
+EHJNDFMC_02077	gene	888	dnaG_2			
+EHJNDFMC_02077	CDS	888	dnaG_2	2.7.7.-		DNA primase
+EHJNDFMC_02078	gene	570				
+EHJNDFMC_02078	CDS	570				hypothetical protein
+EHJNDFMC_02079	gene	1188	bioF			
+EHJNDFMC_02079	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+EHJNDFMC_02080	gene	570	sigM			
+EHJNDFMC_02080	CDS	570	sigM		COG1595	ECF RNA polymerase sigma factor SigM

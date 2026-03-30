@@ -1,0 +1,4001 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+HIKGEFOG_00001	gene	1542				
+HIKGEFOG_00001	CDS	1542				hypothetical protein
+HIKGEFOG_00002	gene	1164	sasA_1			
+HIKGEFOG_00002	CDS	1164	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+HIKGEFOG_00003	gene	360				
+HIKGEFOG_00003	CDS	360				hypothetical protein
+HIKGEFOG_00004	gene	1440				
+HIKGEFOG_00004	CDS	1440				hypothetical protein
+HIKGEFOG_00005	gene	627				
+HIKGEFOG_00005	CDS	627				hypothetical protein
+HIKGEFOG_00006	gene	522				
+HIKGEFOG_00006	CDS	522				hypothetical protein
+HIKGEFOG_00007	gene	189	rpmF			
+HIKGEFOG_00007	CDS	189	rpmF			50S ribosomal protein L32
+HIKGEFOG_00008	gene	1011	fabH			
+HIKGEFOG_00008	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+HIKGEFOG_00009	gene	1035	era			
+HIKGEFOG_00009	CDS	1035	era		COG1159	GTPase Era
+HIKGEFOG_00010	gene	1317	der			
+HIKGEFOG_00010	CDS	1317	der		COG1160	GTPase Der
+HIKGEFOG_00011	gene	399				
+HIKGEFOG_00011	CDS	399				hypothetical protein
+HIKGEFOG_00012	gene	777	mkl			
+HIKGEFOG_00012	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+HIKGEFOG_00013	gene	747	mlaE			
+HIKGEFOG_00013	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+HIKGEFOG_00014	gene	564				
+HIKGEFOG_00014	CDS	564				hypothetical protein
+HIKGEFOG_00015	gene	825	lptB_1			
+HIKGEFOG_00015	CDS	825	lptB_1	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+HIKGEFOG_00016	gene	609				
+HIKGEFOG_00016	CDS	609				hypothetical protein
+HIKGEFOG_00017	gene	939	prs			
+HIKGEFOG_00017	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+HIKGEFOG_00018	gene	582	resA_1			
+HIKGEFOG_00018	CDS	582	resA_1			Thiol-disulfide oxidoreductase ResA
+HIKGEFOG_00019	gene	3099				
+HIKGEFOG_00019	CDS	3099				hypothetical protein
+HIKGEFOG_00020	gene	1356	tig			
+HIKGEFOG_00020	CDS	1356	tig	5.2.1.8		Trigger factor
+HIKGEFOG_00021	gene	666	clpP_1			
+HIKGEFOG_00021	CDS	666	clpP_1	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+HIKGEFOG_00022	gene	1230	clpX			
+HIKGEFOG_00022	CDS	1230	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+HIKGEFOG_00023	gene	2181	recQ			
+HIKGEFOG_00023	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+HIKGEFOG_00024	gene	1257				
+HIKGEFOG_00024	CDS	1257				hypothetical protein
+HIKGEFOG_00025	gene	2601	clpB1			
+HIKGEFOG_00025	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+HIKGEFOG_00026	gene	744				
+HIKGEFOG_00026	CDS	744				hypothetical protein
+HIKGEFOG_00027	gene	768				
+HIKGEFOG_00027	CDS	768				hypothetical protein
+HIKGEFOG_00028	gene	768				
+HIKGEFOG_00028	CDS	768				hypothetical protein
+HIKGEFOG_00029	gene	2106	f1pep1			
+HIKGEFOG_00029	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+HIKGEFOG_00030	gene	2028				
+HIKGEFOG_00030	CDS	2028				hypothetical protein
+HIKGEFOG_00031	gene	453	bcp			
+HIKGEFOG_00031	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+HIKGEFOG_00032	gene	5553				
+HIKGEFOG_00032	CDS	5553				hypothetical protein
+HIKGEFOG_00033	gene	1065				
+HIKGEFOG_00033	CDS	1065				hypothetical protein
+HIKGEFOG_00034	gene	1107				
+HIKGEFOG_00034	CDS	1107		3.6.-.-	COG1703	putative GTPase
+HIKGEFOG_00035	gene	861	ispH			
+HIKGEFOG_00035	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+HIKGEFOG_00036	gene	83				
+HIKGEFOG_00036	tRNA	83				tRNA-Leu(tag)
+HIKGEFOG_00037	gene	828	btuD_1			
+HIKGEFOG_00037	CDS	828	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HIKGEFOG_00038	gene	1005				
+HIKGEFOG_00038	CDS	1005				hypothetical protein
+HIKGEFOG_00039	gene	861				
+HIKGEFOG_00039	CDS	861				hypothetical protein
+HIKGEFOG_00040	gene	2682	parC			
+HIKGEFOG_00040	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+HIKGEFOG_00041	gene	951				
+HIKGEFOG_00041	CDS	951				hypothetical protein
+HIKGEFOG_00042	gene	720				
+HIKGEFOG_00042	CDS	720				hypothetical protein
+HIKGEFOG_00043	gene	975				
+HIKGEFOG_00043	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+HIKGEFOG_00044	gene	699				
+HIKGEFOG_00044	CDS	699				hypothetical protein
+HIKGEFOG_00045	gene	882	dtd3			
+HIKGEFOG_00045	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+HIKGEFOG_00046	gene	89				
+HIKGEFOG_00046	tRNA	89				tRNA-Ser(gga)
+HIKGEFOG_00047	gene	330				
+HIKGEFOG_00047	CDS	330				hypothetical protein
+HIKGEFOG_00048	gene	450				
+HIKGEFOG_00048	CDS	450				hypothetical protein
+HIKGEFOG_00049	gene	1452				
+HIKGEFOG_00049	CDS	1452				hypothetical protein
+HIKGEFOG_00050	gene	555	resA_2			
+HIKGEFOG_00050	CDS	555	resA_2			Thiol-disulfide oxidoreductase ResA
+HIKGEFOG_00051	gene	534	maa			
+HIKGEFOG_00051	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+HIKGEFOG_00052	gene	483				
+HIKGEFOG_00052	CDS	483				hypothetical protein
+HIKGEFOG_00053	gene	498				
+HIKGEFOG_00053	CDS	498				hypothetical protein
+HIKGEFOG_00054	gene	477				
+HIKGEFOG_00054	CDS	477				hypothetical protein
+HIKGEFOG_00055	gene	807	tolQ_1			
+HIKGEFOG_00055	CDS	807	tolQ_1			Tol-Pal system protein TolQ
+HIKGEFOG_00056	gene	486	asnC_1			
+HIKGEFOG_00056	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+HIKGEFOG_00057	gene	135				
+HIKGEFOG_00057	CDS	135				hypothetical protein
+HIKGEFOG_00058	gene	486	dfrA			
+HIKGEFOG_00058	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+HIKGEFOG_00059	gene	795	thyA			
+HIKGEFOG_00059	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+HIKGEFOG_00060	gene	1389	rsmF			
+HIKGEFOG_00060	CDS	1389	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+HIKGEFOG_00061	gene	777				
+HIKGEFOG_00061	CDS	777				hypothetical protein
+HIKGEFOG_00062	gene	186				
+HIKGEFOG_00062	CDS	186				hypothetical protein
+HIKGEFOG_00063	gene	543	algU			
+HIKGEFOG_00063	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+HIKGEFOG_00064	gene	360				
+HIKGEFOG_00064	CDS	360				hypothetical protein
+HIKGEFOG_00065	gene	2067	pal_1			
+HIKGEFOG_00065	CDS	2067	pal_1			Peptidoglycan-associated lipoprotein
+HIKGEFOG_00066	gene	228				
+HIKGEFOG_00066	CDS	228				hypothetical protein
+HIKGEFOG_00067	gene	981	glkA			
+HIKGEFOG_00067	CDS	981	glkA	2.7.1.2		Glucokinase
+HIKGEFOG_00068	gene	690				
+HIKGEFOG_00068	CDS	690				hypothetical protein
+HIKGEFOG_00069	gene	579				
+HIKGEFOG_00069	CDS	579				hypothetical protein
+HIKGEFOG_00070	gene	858	rmlD			
+HIKGEFOG_00070	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+HIKGEFOG_00071	gene	1593	prfC			
+HIKGEFOG_00071	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+HIKGEFOG_00072	gene	1038				
+HIKGEFOG_00072	CDS	1038				hypothetical protein
+HIKGEFOG_00073	gene	1932				
+HIKGEFOG_00073	CDS	1932				hypothetical protein
+HIKGEFOG_00074	gene	1257				
+HIKGEFOG_00074	CDS	1257				hypothetical protein
+HIKGEFOG_00075	gene	888				
+HIKGEFOG_00075	CDS	888				hypothetical protein
+HIKGEFOG_00076	gene	1476	rbbA			
+HIKGEFOG_00076	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+HIKGEFOG_00077	gene	1065	ybhS			
+HIKGEFOG_00077	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+HIKGEFOG_00078	gene	1098	ybhR			
+HIKGEFOG_00078	CDS	1098	ybhR		COG0842	putative multidrug ABC transporter permease YbhR
+HIKGEFOG_00079	gene	1404				
+HIKGEFOG_00079	CDS	1404				hypothetical protein
+HIKGEFOG_00080	gene	2640	rep_1			
+HIKGEFOG_00080	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+HIKGEFOG_00081	gene	1251	tdcG			
+HIKGEFOG_00081	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+HIKGEFOG_00082	gene	405				
+HIKGEFOG_00082	CDS	405				hypothetical protein
+HIKGEFOG_00083	gene	822	cmk_1			
+HIKGEFOG_00083	CDS	822	cmk_1	2.7.4.25		Cytidylate kinase
+HIKGEFOG_00084	gene	1374	yeeO			
+HIKGEFOG_00084	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+HIKGEFOG_00085	gene	123				
+HIKGEFOG_00085	CDS	123				hypothetical protein
+HIKGEFOG_00086	gene	339				
+HIKGEFOG_00086	CDS	339				hypothetical protein
+HIKGEFOG_00087	gene	582				
+HIKGEFOG_00087	CDS	582				hypothetical protein
+HIKGEFOG_00088	gene	1542	glyQS			
+HIKGEFOG_00088	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+HIKGEFOG_00089	gene	105				
+HIKGEFOG_00089	CDS	105				hypothetical protein
+HIKGEFOG_00090	gene	117				
+HIKGEFOG_00090	CDS	117				hypothetical protein
+HIKGEFOG_00091	gene	2493				
+HIKGEFOG_00091	CDS	2493				hypothetical protein
+HIKGEFOG_00092	gene	1560				
+HIKGEFOG_00092	CDS	1560				hypothetical protein
+HIKGEFOG_00093	gene	102				
+HIKGEFOG_00093	CDS	102				hypothetical protein
+HIKGEFOG_00094	gene	1563				
+HIKGEFOG_00094	CDS	1563				hypothetical protein
+HIKGEFOG_00095	gene	1377	fucP			
+HIKGEFOG_00095	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+HIKGEFOG_00096	gene	1092	mro			
+HIKGEFOG_00096	CDS	1092	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+HIKGEFOG_00097	gene	744				
+HIKGEFOG_00097	CDS	744				hypothetical protein
+HIKGEFOG_00098	gene	1236	fpgS			
+HIKGEFOG_00098	CDS	1236	fpgS	6.3.2.17		Folylpolyglutamate synthase
+HIKGEFOG_00099	gene	1173	dnaJ			
+HIKGEFOG_00099	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+HIKGEFOG_00100	gene	609	grpE			
+HIKGEFOG_00100	CDS	609	grpE			Protein GrpE
+HIKGEFOG_00101	gene	1611	ybiT			
+HIKGEFOG_00101	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+HIKGEFOG_00102	gene	732				
+HIKGEFOG_00102	CDS	732				hypothetical protein
+HIKGEFOG_00103	gene	1035				
+HIKGEFOG_00103	CDS	1035				hypothetical protein
+HIKGEFOG_00104	gene	924				
+HIKGEFOG_00104	CDS	924				hypothetical protein
+HIKGEFOG_00105	gene	618				
+HIKGEFOG_00105	CDS	618				hypothetical protein
+HIKGEFOG_00106	gene	1356				
+HIKGEFOG_00106	CDS	1356				hypothetical protein
+HIKGEFOG_00107	gene	972	ravA			
+HIKGEFOG_00107	CDS	972	ravA	3.6.3.-		ATPase RavA
+HIKGEFOG_00108	gene	1314				
+HIKGEFOG_00108	CDS	1314				hypothetical protein
+HIKGEFOG_00109	gene	642	gph_1			
+HIKGEFOG_00109	CDS	642	gph_1	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+HIKGEFOG_00110	gene	1326				
+HIKGEFOG_00110	CDS	1326				hypothetical protein
+HIKGEFOG_00111	gene	606	ribE			
+HIKGEFOG_00111	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+HIKGEFOG_00112	gene	1272	apgM			
+HIKGEFOG_00112	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HIKGEFOG_00113	gene	636				
+HIKGEFOG_00113	CDS	636				hypothetical protein
+HIKGEFOG_00114	gene	1365	bepA_1			
+HIKGEFOG_00114	CDS	1365	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+HIKGEFOG_00115	gene	1707	glnS			
+HIKGEFOG_00115	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+HIKGEFOG_00116	gene	309				
+HIKGEFOG_00116	CDS	309				hypothetical protein
+HIKGEFOG_00117	gene	1026	mltG			
+HIKGEFOG_00117	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+HIKGEFOG_00118	gene	1386				
+HIKGEFOG_00118	CDS	1386				hypothetical protein
+HIKGEFOG_00119	gene	432				
+HIKGEFOG_00119	CDS	432				hypothetical protein
+HIKGEFOG_00120	gene	120				
+HIKGEFOG_00120	CDS	120				hypothetical protein
+HIKGEFOG_00121	gene	2040	topB			
+HIKGEFOG_00121	CDS	2040	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+HIKGEFOG_00122	gene	738	lutA			
+HIKGEFOG_00122	CDS	738	lutA		COG0247	Lactate utilization protein A
+HIKGEFOG_00123	gene	1371	lutB			
+HIKGEFOG_00123	CDS	1371	lutB		COG1139	Lactate utilization protein B
+HIKGEFOG_00124	gene	585				
+HIKGEFOG_00124	CDS	585				hypothetical protein
+HIKGEFOG_00125	gene	549				
+HIKGEFOG_00125	CDS	549				hypothetical protein
+HIKGEFOG_00126	gene	537	sigE_1			
+HIKGEFOG_00126	CDS	537	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+HIKGEFOG_00127	gene	1242				
+HIKGEFOG_00127	CDS	1242				hypothetical protein
+HIKGEFOG_00128	gene	1845				
+HIKGEFOG_00128	CDS	1845				hypothetical protein
+HIKGEFOG_00129	gene	1119	fdtB			
+HIKGEFOG_00129	CDS	1119	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+HIKGEFOG_00130	gene	939				
+HIKGEFOG_00130	CDS	939				hypothetical protein
+HIKGEFOG_00131	gene	411	fdtA			
+HIKGEFOG_00131	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+HIKGEFOG_00132	gene	1134	rfbB_1			
+HIKGEFOG_00132	CDS	1134	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+HIKGEFOG_00133	gene	630	cmk_2			
+HIKGEFOG_00133	CDS	630	cmk_2	2.7.4.25		Cytidylate kinase
+HIKGEFOG_00134	gene	1404	mepA			
+HIKGEFOG_00134	CDS	1404	mepA			Multidrug export protein MepA
+HIKGEFOG_00135	gene	1323	xseA			
+HIKGEFOG_00135	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+HIKGEFOG_00136	gene	171	xseB			
+HIKGEFOG_00136	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+HIKGEFOG_00137	gene	1023	ilvE			
+HIKGEFOG_00137	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+HIKGEFOG_00138	gene	1431	pepC			
+HIKGEFOG_00138	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+HIKGEFOG_00139	gene	900	ddh			
+HIKGEFOG_00139	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+HIKGEFOG_00140	gene	606	ruvA			
+HIKGEFOG_00140	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+HIKGEFOG_00141	gene	7554				
+HIKGEFOG_00141	CDS	7554				hypothetical protein
+HIKGEFOG_00142	gene	1533	pafA			
+HIKGEFOG_00142	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+HIKGEFOG_00143	gene	162				
+HIKGEFOG_00143	CDS	162				hypothetical protein
+HIKGEFOG_00144	gene	1401	algC_1			
+HIKGEFOG_00144	CDS	1401	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+HIKGEFOG_00145	gene	642				
+HIKGEFOG_00145	CDS	642				hypothetical protein
+HIKGEFOG_00146	gene	873	carD			
+HIKGEFOG_00146	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+HIKGEFOG_00147	gene	1026	carE			
+HIKGEFOG_00147	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+HIKGEFOG_00148	gene	1725	caiA			
+HIKGEFOG_00148	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+HIKGEFOG_00149	gene	147				
+HIKGEFOG_00149	CDS	147				hypothetical protein
+HIKGEFOG_00150	gene	273				
+HIKGEFOG_00150	CDS	273				hypothetical protein
+HIKGEFOG_00151	gene	165				
+HIKGEFOG_00151	CDS	165				hypothetical protein
+HIKGEFOG_00152	gene	1833	LIAS			
+HIKGEFOG_00152	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+HIKGEFOG_00153	gene	1158	pntA_1			
+HIKGEFOG_00153	CDS	1158	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+HIKGEFOG_00154	gene	315	pntA_2			
+HIKGEFOG_00154	CDS	315	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+HIKGEFOG_00155	gene	1533	pntB			
+HIKGEFOG_00155	CDS	1533	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+HIKGEFOG_00156	gene	1665				
+HIKGEFOG_00156	CDS	1665		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+HIKGEFOG_00157	gene	1248	lolE_1			
+HIKGEFOG_00157	CDS	1248	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+HIKGEFOG_00158	gene	2055	htpG			
+HIKGEFOG_00158	CDS	2055	htpG			Chaperone protein HtpG
+HIKGEFOG_00159	gene	1455	pepD_1			
+HIKGEFOG_00159	CDS	1455	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+HIKGEFOG_00160	gene	258				
+HIKGEFOG_00160	CDS	258				hypothetical protein
+HIKGEFOG_00161	gene	606				
+HIKGEFOG_00161	CDS	606				hypothetical protein
+HIKGEFOG_00162	gene	636	nth			
+HIKGEFOG_00162	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+HIKGEFOG_00163	gene	711				
+HIKGEFOG_00163	CDS	711				hypothetical protein
+HIKGEFOG_00164	gene	648				
+HIKGEFOG_00164	CDS	648				hypothetical protein
+HIKGEFOG_00165	gene	2463	pheT			
+HIKGEFOG_00165	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+HIKGEFOG_00166	gene	726				
+HIKGEFOG_00166	CDS	726			COG0217	putative transcriptional regulatory protein
+HIKGEFOG_00167	gene	387				
+HIKGEFOG_00167	CDS	387				hypothetical protein
+HIKGEFOG_00168	gene	1782	lepA			
+HIKGEFOG_00168	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+HIKGEFOG_00169	gene	603				
+HIKGEFOG_00169	CDS	603				hypothetical protein
+HIKGEFOG_00170	gene	2187	bamA_1			
+HIKGEFOG_00170	CDS	2187	bamA_1			Outer membrane protein assembly factor BamA
+HIKGEFOG_00171	gene	465				
+HIKGEFOG_00171	CDS	465				hypothetical protein
+HIKGEFOG_00172	gene	807	yycJ			
+HIKGEFOG_00172	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+HIKGEFOG_00173	gene	2136				
+HIKGEFOG_00173	CDS	2136				hypothetical protein
+HIKGEFOG_00174	gene	2118				
+HIKGEFOG_00174	CDS	2118				hypothetical protein
+HIKGEFOG_00175	gene	264	rpmB			
+HIKGEFOG_00175	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+HIKGEFOG_00176	gene	189	rpmG2			
+HIKGEFOG_00176	CDS	189	rpmG2			50S ribosomal protein L33 2
+HIKGEFOG_00177	gene	159				
+HIKGEFOG_00177	CDS	159				hypothetical protein
+HIKGEFOG_00178	gene	957	ftsY			
+HIKGEFOG_00178	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+HIKGEFOG_00179	gene	1317	rimO			
+HIKGEFOG_00179	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+HIKGEFOG_00180	gene	294	hup_1			
+HIKGEFOG_00180	CDS	294	hup_1			DNA-binding protein HU
+HIKGEFOG_00181	gene	1374	ihfA			
+HIKGEFOG_00181	CDS	1374	ihfA			Integration host factor subunit alpha
+HIKGEFOG_00182	gene	996				
+HIKGEFOG_00182	CDS	996				hypothetical protein
+HIKGEFOG_00183	gene	870				
+HIKGEFOG_00183	CDS	870				hypothetical protein
+HIKGEFOG_00184	gene	1107				
+HIKGEFOG_00184	CDS	1107				hypothetical protein
+HIKGEFOG_00185	gene	999				
+HIKGEFOG_00185	CDS	999				hypothetical protein
+HIKGEFOG_00186	gene	1029				
+HIKGEFOG_00186	CDS	1029				hypothetical protein
+HIKGEFOG_00187	gene	693				
+HIKGEFOG_00187	CDS	693				hypothetical protein
+HIKGEFOG_00188	gene	2562				
+HIKGEFOG_00188	CDS	2562				hypothetical protein
+HIKGEFOG_00189	gene	687				
+HIKGEFOG_00189	CDS	687				hypothetical protein
+HIKGEFOG_00190	gene	1236	queA_1			
+HIKGEFOG_00190	CDS	1236	queA_1	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+HIKGEFOG_00191	gene	1941	nadE			
+HIKGEFOG_00191	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+HIKGEFOG_00192	gene	891				
+HIKGEFOG_00192	CDS	891				hypothetical protein
+HIKGEFOG_00193	gene	2676	gyrA			
+HIKGEFOG_00193	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+HIKGEFOG_00194	gene	1170				
+HIKGEFOG_00194	CDS	1170				hypothetical protein
+HIKGEFOG_00195	gene	1209				
+HIKGEFOG_00195	CDS	1209				hypothetical protein
+HIKGEFOG_00196	gene	1254				
+HIKGEFOG_00196	CDS	1254				hypothetical protein
+HIKGEFOG_00197	gene	504				
+HIKGEFOG_00197	CDS	504				hypothetical protein
+HIKGEFOG_00198	gene	480	smpB			
+HIKGEFOG_00198	CDS	480	smpB		COG0691	SsrA-binding protein
+HIKGEFOG_00199	gene	405				
+HIKGEFOG_00199	CDS	405				hypothetical protein
+HIKGEFOG_00200	gene	855	map_1			
+HIKGEFOG_00200	CDS	855	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+HIKGEFOG_00201	gene	1026	tsaD			
+HIKGEFOG_00201	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+HIKGEFOG_00202	gene	492	pncC			
+HIKGEFOG_00202	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+HIKGEFOG_00203	gene	1482	degQ			
+HIKGEFOG_00203	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+HIKGEFOG_00204	gene	1026	ansA			
+HIKGEFOG_00204	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+HIKGEFOG_00205	gene	2061	btuB_1			
+HIKGEFOG_00205	CDS	2061	btuB_1			Vitamin B12 transporter BtuB
+HIKGEFOG_00206	gene	540				
+HIKGEFOG_00206	CDS	540				hypothetical protein
+HIKGEFOG_00207	gene	1986	rho			
+HIKGEFOG_00207	CDS	1986	rho	3.6.4.-		Transcription termination factor Rho
+HIKGEFOG_00208	gene	234				
+HIKGEFOG_00208	CDS	234				hypothetical protein
+HIKGEFOG_00209	gene	579				
+HIKGEFOG_00209	CDS	579		2.3.1.-	COG1670	Acetyltransferase
+HIKGEFOG_00210	gene	510				
+HIKGEFOG_00210	CDS	510				hypothetical protein
+HIKGEFOG_00211	gene	90				
+HIKGEFOG_00211	CDS	90				hypothetical protein
+HIKGEFOG_00212	gene	654	rbr			
+HIKGEFOG_00212	CDS	654	rbr		COG1592	Rubrerythrin
+HIKGEFOG_00213	gene	74				
+HIKGEFOG_00213	tRNA	74				tRNA-Lys(ctt)
+HIKGEFOG_00214	gene	969	msrA			
+HIKGEFOG_00214	CDS	969	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+HIKGEFOG_00215	gene	1164				
+HIKGEFOG_00215	CDS	1164				hypothetical protein
+HIKGEFOG_00216	gene	546				
+HIKGEFOG_00216	CDS	546				hypothetical protein
+HIKGEFOG_00217	gene	486	ftnA			
+HIKGEFOG_00217	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+HIKGEFOG_00218	gene	936	arnC_1			
+HIKGEFOG_00218	CDS	936	arnC_1	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HIKGEFOG_00219	gene	1212				
+HIKGEFOG_00219	CDS	1212				hypothetical protein
+HIKGEFOG_00220	gene	390				
+HIKGEFOG_00220	CDS	390				hypothetical protein
+HIKGEFOG_00221	gene	1038	pheS			
+HIKGEFOG_00221	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+HIKGEFOG_00222	gene	1356				
+HIKGEFOG_00222	CDS	1356				hypothetical protein
+HIKGEFOG_00223	gene	852				
+HIKGEFOG_00223	CDS	852				hypothetical protein
+HIKGEFOG_00224	gene	1026	murB_1			
+HIKGEFOG_00224	CDS	1026	murB_1	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+HIKGEFOG_00225	gene	774	rbn			
+HIKGEFOG_00225	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+HIKGEFOG_00226	gene	294				
+HIKGEFOG_00226	CDS	294				hypothetical protein
+HIKGEFOG_00227	gene	369				
+HIKGEFOG_00227	CDS	369				hypothetical protein
+HIKGEFOG_00228	gene	216				
+HIKGEFOG_00228	CDS	216				hypothetical protein
+HIKGEFOG_00229	gene	516				
+HIKGEFOG_00229	CDS	516				hypothetical protein
+HIKGEFOG_00230	gene	291	yqgF			
+HIKGEFOG_00230	CDS	291	yqgF	3.1.-.-		Putative pre-16S rRNA nuclease
+HIKGEFOG_00231	gene	561	def			
+HIKGEFOG_00231	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+HIKGEFOG_00232	gene	1965	cpoB			
+HIKGEFOG_00232	CDS	1965	cpoB			Cell division coordinator CpoB
+HIKGEFOG_00233	gene	588				
+HIKGEFOG_00233	CDS	588				hypothetical protein
+HIKGEFOG_00234	gene	456				
+HIKGEFOG_00234	CDS	456				hypothetical protein
+HIKGEFOG_00235	gene	564				
+HIKGEFOG_00235	CDS	564				hypothetical protein
+HIKGEFOG_00236	gene	564				
+HIKGEFOG_00236	CDS	564				hypothetical protein
+HIKGEFOG_00237	gene	405				
+HIKGEFOG_00237	CDS	405				hypothetical protein
+HIKGEFOG_00238	gene	1053				
+HIKGEFOG_00238	CDS	1053				hypothetical protein
+HIKGEFOG_00239	gene	1965	thrS			
+HIKGEFOG_00239	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+HIKGEFOG_00240	gene	2061	pat			
+HIKGEFOG_00240	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+HIKGEFOG_00241	gene	1812	ettA			
+HIKGEFOG_00241	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+HIKGEFOG_00242	gene	615	engB			
+HIKGEFOG_00242	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+HIKGEFOG_00243	gene	615	recR			
+HIKGEFOG_00243	CDS	615	recR		COG0353	Recombination protein RecR
+HIKGEFOG_00244	gene	423				
+HIKGEFOG_00244	CDS	423				hypothetical protein
+HIKGEFOG_00245	gene	1194				
+HIKGEFOG_00245	CDS	1194				hypothetical protein
+HIKGEFOG_00246	gene	516	speG			
+HIKGEFOG_00246	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+HIKGEFOG_00247	gene	76				
+HIKGEFOG_00247	tRNA	76				tRNA-Asp(gtc)
+HIKGEFOG_00248	gene	75				
+HIKGEFOG_00248	tRNA	75				tRNA-Thr(tgt)
+HIKGEFOG_00249	gene	528				
+HIKGEFOG_00249	CDS	528				hypothetical protein
+HIKGEFOG_00250	gene	783				
+HIKGEFOG_00250	CDS	783				hypothetical protein
+HIKGEFOG_00251	gene	519	kdsC			
+HIKGEFOG_00251	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+HIKGEFOG_00252	gene	573	yhdE			
+HIKGEFOG_00252	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+HIKGEFOG_00253	gene	1107				
+HIKGEFOG_00253	CDS	1107				hypothetical protein
+HIKGEFOG_00254	gene	990				
+HIKGEFOG_00254	CDS	990				hypothetical protein
+HIKGEFOG_00255	gene	153				
+HIKGEFOG_00255	CDS	153				hypothetical protein
+HIKGEFOG_00256	gene	1515				
+HIKGEFOG_00256	CDS	1515				hypothetical protein
+HIKGEFOG_00257	gene	981				
+HIKGEFOG_00257	CDS	981				hypothetical protein
+HIKGEFOG_00258	gene	1398				
+HIKGEFOG_00258	CDS	1398				hypothetical protein
+HIKGEFOG_00259	gene	978	pfkA			
+HIKGEFOG_00259	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+HIKGEFOG_00260	gene	1527	atpD			
+HIKGEFOG_00260	CDS	1527	atpD	7.2.2.1		ATP synthase subunit beta, sodium ion specific
+HIKGEFOG_00261	gene	240	atpC			
+HIKGEFOG_00261	CDS	240	atpC			ATP synthase epsilon chain
+HIKGEFOG_00262	gene	393				
+HIKGEFOG_00262	CDS	393				hypothetical protein
+HIKGEFOG_00263	gene	1032	atpB			
+HIKGEFOG_00263	CDS	1032	atpB			ATP synthase subunit a
+HIKGEFOG_00264	gene	240	atpH_1			
+HIKGEFOG_00264	CDS	240	atpH_1			ATP synthase subunit c
+HIKGEFOG_00265	gene	519	atpF			
+HIKGEFOG_00265	CDS	519	atpF		COG0711	ATP synthase subunit b
+HIKGEFOG_00266	gene	534	atpH_2			
+HIKGEFOG_00266	CDS	534	atpH_2		COG0712	ATP synthase subunit delta
+HIKGEFOG_00267	gene	1584	atpA			
+HIKGEFOG_00267	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+HIKGEFOG_00268	gene	969	atpG			
+HIKGEFOG_00268	CDS	969	atpG		COG0224	ATP synthase gamma chain
+HIKGEFOG_00269	gene	2871				
+HIKGEFOG_00269	CDS	2871				hypothetical protein
+HIKGEFOG_00270	gene	2085				
+HIKGEFOG_00270	CDS	2085				hypothetical protein
+HIKGEFOG_00271	gene	1071				
+HIKGEFOG_00271	CDS	1071				hypothetical protein
+HIKGEFOG_00272	gene	507				
+HIKGEFOG_00272	CDS	507				hypothetical protein
+HIKGEFOG_00273	gene	2112	metG			
+HIKGEFOG_00273	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+HIKGEFOG_00274	gene	73				
+HIKGEFOG_00274	tRNA	73				tRNA-Arg(cct)
+HIKGEFOG_00275	gene	450				
+HIKGEFOG_00275	CDS	450				hypothetical protein
+HIKGEFOG_00276	gene	477				
+HIKGEFOG_00276	CDS	477				hypothetical protein
+HIKGEFOG_00277	gene	465	sigE_2			
+HIKGEFOG_00277	CDS	465	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+HIKGEFOG_00278	gene	471				
+HIKGEFOG_00278	CDS	471				hypothetical protein
+HIKGEFOG_00279	gene	1353	sufS			
+HIKGEFOG_00279	CDS	1353	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+HIKGEFOG_00280	gene	5739				
+HIKGEFOG_00280	CDS	5739				hypothetical protein
+HIKGEFOG_00281	gene	408				
+HIKGEFOG_00281	CDS	408				hypothetical protein
+HIKGEFOG_00282	gene	219				
+HIKGEFOG_00282	CDS	219				hypothetical protein
+HIKGEFOG_00283	gene	1584				
+HIKGEFOG_00283	CDS	1584				hypothetical protein
+HIKGEFOG_00284	gene	1365	sufD			
+HIKGEFOG_00284	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+HIKGEFOG_00285	gene	756	sufC			
+HIKGEFOG_00285	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+HIKGEFOG_00286	gene	366				
+HIKGEFOG_00286	CDS	366				hypothetical protein
+HIKGEFOG_00287	gene	1458	sufB			
+HIKGEFOG_00287	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+HIKGEFOG_00288	gene	2868	infB			
+HIKGEFOG_00288	CDS	2868	infB			Translation initiation factor IF-2
+HIKGEFOG_00289	gene	1257	nusA			
+HIKGEFOG_00289	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+HIKGEFOG_00290	gene	465	rimP			
+HIKGEFOG_00290	CDS	465	rimP			Ribosome maturation factor RimP
+HIKGEFOG_00291	gene	540				
+HIKGEFOG_00291	CDS	540				hypothetical protein
+HIKGEFOG_00292	gene	534				
+HIKGEFOG_00292	CDS	534				hypothetical protein
+HIKGEFOG_00293	gene	2004				
+HIKGEFOG_00293	CDS	2004				hypothetical protein
+HIKGEFOG_00294	gene	705	cobB			
+HIKGEFOG_00294	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+HIKGEFOG_00295	gene	156				
+HIKGEFOG_00295	CDS	156				hypothetical protein
+HIKGEFOG_00296	gene	1188				
+HIKGEFOG_00296	CDS	1188				hypothetical protein
+HIKGEFOG_00297	gene	3633				
+HIKGEFOG_00297	CDS	3633				hypothetical protein
+HIKGEFOG_00298	gene	1056	yhcG_1			
+HIKGEFOG_00298	CDS	1056	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+HIKGEFOG_00299	gene	96				
+HIKGEFOG_00299	CDS	96				hypothetical protein
+HIKGEFOG_00300	gene	1413				
+HIKGEFOG_00300	CDS	1413				hypothetical protein
+HIKGEFOG_00301	gene	606	fklB			
+HIKGEFOG_00301	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+HIKGEFOG_00302	gene	879				
+HIKGEFOG_00302	CDS	879				hypothetical protein
+HIKGEFOG_00303	gene	912				
+HIKGEFOG_00303	CDS	912				hypothetical protein
+HIKGEFOG_00304	gene	468	asnC_2			
+HIKGEFOG_00304	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+HIKGEFOG_00305	gene	1755				
+HIKGEFOG_00305	CDS	1755				hypothetical protein
+HIKGEFOG_00306	gene	1029				
+HIKGEFOG_00306	CDS	1029				hypothetical protein
+HIKGEFOG_00307	gene	1233				
+HIKGEFOG_00307	CDS	1233				hypothetical protein
+HIKGEFOG_00308	gene	1473				
+HIKGEFOG_00308	CDS	1473				hypothetical protein
+HIKGEFOG_00309	gene	2127	dpp7			
+HIKGEFOG_00309	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+HIKGEFOG_00310	gene	717				
+HIKGEFOG_00310	CDS	717				hypothetical protein
+HIKGEFOG_00311	gene	726				
+HIKGEFOG_00311	CDS	726				hypothetical protein
+HIKGEFOG_00312	gene	1038	wbbI			
+HIKGEFOG_00312	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+HIKGEFOG_00313	gene	1017				
+HIKGEFOG_00313	CDS	1017				hypothetical protein
+HIKGEFOG_00314	gene	651				
+HIKGEFOG_00314	CDS	651				hypothetical protein
+HIKGEFOG_00315	gene	291				
+HIKGEFOG_00315	CDS	291				hypothetical protein
+HIKGEFOG_00316	gene	264				
+HIKGEFOG_00316	CDS	264				hypothetical protein
+HIKGEFOG_00317	gene	4803				
+HIKGEFOG_00317	CDS	4803				hypothetical protein
+HIKGEFOG_00318	gene	1230				
+HIKGEFOG_00318	CDS	1230				hypothetical protein
+HIKGEFOG_00319	gene	558				
+HIKGEFOG_00319	CDS	558				hypothetical protein
+HIKGEFOG_00320	gene	786	tcdA			
+HIKGEFOG_00320	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+HIKGEFOG_00321	gene	450				
+HIKGEFOG_00321	CDS	450				hypothetical protein
+HIKGEFOG_00322	gene	102				
+HIKGEFOG_00322	CDS	102				hypothetical protein
+HIKGEFOG_00323	gene	2115				
+HIKGEFOG_00323	CDS	2115				hypothetical protein
+HIKGEFOG_00324	gene	468				
+HIKGEFOG_00324	CDS	468				hypothetical protein
+HIKGEFOG_00325	gene	1887				
+HIKGEFOG_00325	CDS	1887				hypothetical protein
+HIKGEFOG_00326	gene	1296	adeP			
+HIKGEFOG_00326	CDS	1296	adeP		COG2252	Adenine permease AdeP
+HIKGEFOG_00327	gene	744				
+HIKGEFOG_00327	CDS	744				hypothetical protein
+HIKGEFOG_00328	gene	1218	pyrP			
+HIKGEFOG_00328	CDS	1218	pyrP			Uracil permease
+HIKGEFOG_00329	gene	606				
+HIKGEFOG_00329	CDS	606				hypothetical protein
+HIKGEFOG_00330	gene	411				
+HIKGEFOG_00330	CDS	411				hypothetical protein
+HIKGEFOG_00331	gene	1440				
+HIKGEFOG_00331	CDS	1440				hypothetical protein
+HIKGEFOG_00332	gene	777	dapB			
+HIKGEFOG_00332	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+HIKGEFOG_00333	gene	426				
+HIKGEFOG_00333	CDS	426				hypothetical protein
+HIKGEFOG_00334	gene	1227				
+HIKGEFOG_00334	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+HIKGEFOG_00335	gene	1377				
+HIKGEFOG_00335	CDS	1377				hypothetical protein
+HIKGEFOG_00336	gene	1866	deaD_1			
+HIKGEFOG_00336	CDS	1866	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+HIKGEFOG_00337	gene	708				
+HIKGEFOG_00337	CDS	708				hypothetical protein
+HIKGEFOG_00338	gene	594				
+HIKGEFOG_00338	CDS	594				hypothetical protein
+HIKGEFOG_00339	gene	168				
+HIKGEFOG_00339	CDS	168				hypothetical protein
+HIKGEFOG_00340	gene	513				
+HIKGEFOG_00340	CDS	513				hypothetical protein
+HIKGEFOG_00341	gene	756	frdB			
+HIKGEFOG_00341	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+HIKGEFOG_00342	gene	1983	frdA			
+HIKGEFOG_00342	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+HIKGEFOG_00343	gene	690				
+HIKGEFOG_00343	CDS	690				hypothetical protein
+HIKGEFOG_00344	gene	1953	mnmG			
+HIKGEFOG_00344	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+HIKGEFOG_00345	gene	531	apt			
+HIKGEFOG_00345	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+HIKGEFOG_00346	gene	1836	uvrC			
+HIKGEFOG_00346	CDS	1836	uvrC		COG0322	UvrABC system protein C
+HIKGEFOG_00347	gene	453	dtd			
+HIKGEFOG_00347	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+HIKGEFOG_00348	gene	393				
+HIKGEFOG_00348	CDS	393				hypothetical protein
+HIKGEFOG_00349	gene	891	deoC			
+HIKGEFOG_00349	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+HIKGEFOG_00350	gene	606				
+HIKGEFOG_00350	CDS	606				hypothetical protein
+HIKGEFOG_00351	gene	978	ispB			
+HIKGEFOG_00351	CDS	978	ispB	2.5.1.90	COG0142	Octaprenyl diphosphate synthase
+HIKGEFOG_00352	gene	2766	polA			
+HIKGEFOG_00352	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+HIKGEFOG_00353	gene	1131	capA			
+HIKGEFOG_00353	CDS	1131	capA			Capsule biosynthesis protein CapA
+HIKGEFOG_00354	gene	1575				
+HIKGEFOG_00354	CDS	1575				hypothetical protein
+HIKGEFOG_00355	gene	2628	mutS_1			
+HIKGEFOG_00355	CDS	2628	mutS_1		COG0249	DNA mismatch repair protein MutS
+HIKGEFOG_00356	gene	849	lgt			
+HIKGEFOG_00356	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+HIKGEFOG_00357	gene	1104	ychF			
+HIKGEFOG_00357	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+HIKGEFOG_00358	gene	438				
+HIKGEFOG_00358	CDS	438				hypothetical protein
+HIKGEFOG_00359	gene	633	pflA			
+HIKGEFOG_00359	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+HIKGEFOG_00360	gene	642				
+HIKGEFOG_00360	CDS	642				hypothetical protein
+HIKGEFOG_00361	gene	2874	leuS			
+HIKGEFOG_00361	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+HIKGEFOG_00362	gene	969				
+HIKGEFOG_00362	CDS	969				hypothetical protein
+HIKGEFOG_00363	gene	609				
+HIKGEFOG_00363	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+HIKGEFOG_00364	gene	162				
+HIKGEFOG_00364	CDS	162				hypothetical protein
+HIKGEFOG_00365	gene	117				
+HIKGEFOG_00365	CDS	117				hypothetical protein
+HIKGEFOG_00366	gene	894				
+HIKGEFOG_00366	CDS	894				hypothetical protein
+HIKGEFOG_00367	gene	2139				
+HIKGEFOG_00367	CDS	2139				hypothetical protein
+HIKGEFOG_00368	gene	2379				
+HIKGEFOG_00368	CDS	2379				hypothetical protein
+HIKGEFOG_00369	gene	1395				
+HIKGEFOG_00369	CDS	1395				hypothetical protein
+HIKGEFOG_00370	gene	990	nadA			
+HIKGEFOG_00370	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+HIKGEFOG_00371	gene	1089				
+HIKGEFOG_00371	CDS	1089				hypothetical protein
+HIKGEFOG_00372	gene	645				
+HIKGEFOG_00372	CDS	645				hypothetical protein
+HIKGEFOG_00373	gene	1506	rpoN			
+HIKGEFOG_00373	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+HIKGEFOG_00374	gene	630				
+HIKGEFOG_00374	CDS	630				hypothetical protein
+HIKGEFOG_00375	gene	507	purE			
+HIKGEFOG_00375	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+HIKGEFOG_00376	gene	1410	ispG			
+HIKGEFOG_00376	CDS	1410	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+HIKGEFOG_00377	gene	804				
+HIKGEFOG_00377	CDS	804				hypothetical protein
+HIKGEFOG_00378	gene	2865				
+HIKGEFOG_00378	CDS	2865				hypothetical protein
+HIKGEFOG_00379	gene	1050				
+HIKGEFOG_00379	CDS	1050				hypothetical protein
+HIKGEFOG_00380	gene	612				
+HIKGEFOG_00380	CDS	612				hypothetical protein
+HIKGEFOG_00381	gene	1827	msbA			
+HIKGEFOG_00381	CDS	1827	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+HIKGEFOG_00382	gene	378	ridA			
+HIKGEFOG_00382	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+HIKGEFOG_00383	gene	960				
+HIKGEFOG_00383	CDS	960				hypothetical protein
+HIKGEFOG_00384	gene	993	rfbB_2			
+HIKGEFOG_00384	CDS	993	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+HIKGEFOG_00385	gene	2238	rnr			
+HIKGEFOG_00385	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+HIKGEFOG_00386	gene	864				
+HIKGEFOG_00386	CDS	864				hypothetical protein
+HIKGEFOG_00387	gene	654				
+HIKGEFOG_00387	CDS	654				hypothetical protein
+HIKGEFOG_00388	gene	996				
+HIKGEFOG_00388	CDS	996				hypothetical protein
+HIKGEFOG_00389	gene	1632				
+HIKGEFOG_00389	CDS	1632				hypothetical protein
+HIKGEFOG_00390	gene	666				
+HIKGEFOG_00390	CDS	666				hypothetical protein
+HIKGEFOG_00391	gene	2784	cobQ			
+HIKGEFOG_00391	CDS	2784	cobQ			Cobyric acid synthase
+HIKGEFOG_00392	gene	2178	btuB_2			
+HIKGEFOG_00392	CDS	2178	btuB_2			Vitamin B12 transporter BtuB
+HIKGEFOG_00393	gene	2133	btuB_3			
+HIKGEFOG_00393	CDS	2133	btuB_3			Vitamin B12 transporter BtuB
+HIKGEFOG_00394	gene	1140	cbiKp			
+HIKGEFOG_00394	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+HIKGEFOG_00395	gene	1488				
+HIKGEFOG_00395	CDS	1488				hypothetical protein
+HIKGEFOG_00396	gene	198				
+HIKGEFOG_00396	CDS	198				hypothetical protein
+HIKGEFOG_00397	gene	1428	cysG_1			
+HIKGEFOG_00397	CDS	1428	cysG_1	4.99.1.4		Siroheme synthase
+HIKGEFOG_00398	gene	1233	cbiET			
+HIKGEFOG_00398	CDS	1233	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+HIKGEFOG_00399	gene	1767	cysG_2			
+HIKGEFOG_00399	CDS	1767	cysG_2	4.99.1.4		Siroheme synthase
+HIKGEFOG_00400	gene	1989	cbiD			
+HIKGEFOG_00400	CDS	1989	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+HIKGEFOG_00401	gene	1137				
+HIKGEFOG_00401	CDS	1137				hypothetical protein
+HIKGEFOG_00402	gene	1023	hmuU_1			
+HIKGEFOG_00402	CDS	1023	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+HIKGEFOG_00403	gene	810				
+HIKGEFOG_00403	CDS	810				hypothetical protein
+HIKGEFOG_00404	gene	2106	recD2_1			
+HIKGEFOG_00404	CDS	2106	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+HIKGEFOG_00405	gene	1002	korB_1			
+HIKGEFOG_00405	CDS	1002	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+HIKGEFOG_00406	gene	1851	korA_1			
+HIKGEFOG_00406	CDS	1851	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+HIKGEFOG_00407	gene	1614	pckA			
+HIKGEFOG_00407	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+HIKGEFOG_00408	gene	660	upp			
+HIKGEFOG_00408	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+HIKGEFOG_00409	gene	516	dps			
+HIKGEFOG_00409	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+HIKGEFOG_00410	gene	1791	arnT			
+HIKGEFOG_00410	CDS	1791	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+HIKGEFOG_00411	gene	1977	mdoB			
+HIKGEFOG_00411	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+HIKGEFOG_00412	gene	1872				
+HIKGEFOG_00412	CDS	1872				hypothetical protein
+HIKGEFOG_00413	gene	552				
+HIKGEFOG_00413	CDS	552				hypothetical protein
+HIKGEFOG_00414	gene	2895				
+HIKGEFOG_00414	CDS	2895				hypothetical protein
+HIKGEFOG_00415	gene	1455				
+HIKGEFOG_00415	CDS	1455				hypothetical protein
+HIKGEFOG_00416	gene	396				
+HIKGEFOG_00416	CDS	396				hypothetical protein
+HIKGEFOG_00417	gene	1641				
+HIKGEFOG_00417	CDS	1641				hypothetical protein
+HIKGEFOG_00418	gene	2802				
+HIKGEFOG_00418	CDS	2802				hypothetical protein
+HIKGEFOG_00419	gene	546				
+HIKGEFOG_00419	CDS	546				hypothetical protein
+HIKGEFOG_00420	gene	138				
+HIKGEFOG_00420	CDS	138				hypothetical protein
+HIKGEFOG_00421	gene	747				
+HIKGEFOG_00421	CDS	747				hypothetical protein
+HIKGEFOG_00422	gene	774				
+HIKGEFOG_00422	CDS	774				hypothetical protein
+HIKGEFOG_00423	gene	1053				
+HIKGEFOG_00423	CDS	1053				hypothetical protein
+HIKGEFOG_00424	gene	717				
+HIKGEFOG_00424	CDS	717				hypothetical protein
+HIKGEFOG_00425	gene	2313	cirA			
+HIKGEFOG_00425	CDS	2313	cirA		COG4771	Colicin I receptor
+HIKGEFOG_00426	gene	1329				
+HIKGEFOG_00426	CDS	1329				hypothetical protein
+HIKGEFOG_00427	gene	90				
+HIKGEFOG_00427	CDS	90				hypothetical protein
+HIKGEFOG_00428	gene	2175				
+HIKGEFOG_00428	CDS	2175				hypothetical protein
+HIKGEFOG_00429	gene	4485				
+HIKGEFOG_00429	CDS	4485				hypothetical protein
+HIKGEFOG_00430	gene	354				
+HIKGEFOG_00430	CDS	354				hypothetical protein
+HIKGEFOG_00431	gene	1230	lolE_2			
+HIKGEFOG_00431	CDS	1230	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+HIKGEFOG_00432	gene	336	rbfA			
+HIKGEFOG_00432	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+HIKGEFOG_00433	gene	273	hup_2			
+HIKGEFOG_00433	CDS	273	hup_2			DNA-binding protein HU
+HIKGEFOG_00434	gene	894				
+HIKGEFOG_00434	CDS	894				hypothetical protein
+HIKGEFOG_00435	gene	1086				
+HIKGEFOG_00435	CDS	1086				hypothetical protein
+HIKGEFOG_00436	gene	3063	secD			
+HIKGEFOG_00436	CDS	3063	secD			Protein translocase subunit SecD
+HIKGEFOG_00437	gene	189				
+HIKGEFOG_00437	CDS	189				hypothetical protein
+HIKGEFOG_00438	gene	2940	rcsC_1			
+HIKGEFOG_00438	CDS	2940	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+HIKGEFOG_00439	gene	423				
+HIKGEFOG_00439	CDS	423				hypothetical protein
+HIKGEFOG_00440	gene	1509	scpC			
+HIKGEFOG_00440	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+HIKGEFOG_00441	gene	558	fumB			
+HIKGEFOG_00441	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+HIKGEFOG_00442	gene	843	ttdA			
+HIKGEFOG_00442	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+HIKGEFOG_00443	gene	945				
+HIKGEFOG_00443	CDS	945				hypothetical protein
+HIKGEFOG_00444	gene	321				
+HIKGEFOG_00444	CDS	321				hypothetical protein
+HIKGEFOG_00445	gene	1380				
+HIKGEFOG_00445	CDS	1380				hypothetical protein
+HIKGEFOG_00446	gene	1239				
+HIKGEFOG_00446	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+HIKGEFOG_00447	gene	1464	glmE			
+HIKGEFOG_00447	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+HIKGEFOG_00448	gene	1383				
+HIKGEFOG_00448	CDS	1383				hypothetical protein
+HIKGEFOG_00449	gene	414	glmS			
+HIKGEFOG_00449	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+HIKGEFOG_00450	gene	600				
+HIKGEFOG_00450	CDS	600				hypothetical protein
+HIKGEFOG_00451	gene	984				
+HIKGEFOG_00451	CDS	984				hypothetical protein
+HIKGEFOG_00452	gene	399				
+HIKGEFOG_00452	CDS	399				hypothetical protein
+HIKGEFOG_00453	gene	453				
+HIKGEFOG_00453	CDS	453				hypothetical protein
+HIKGEFOG_00454	gene	1002				
+HIKGEFOG_00454	CDS	1002				hypothetical protein
+HIKGEFOG_00455	gene	663				
+HIKGEFOG_00455	CDS	663				hypothetical protein
+HIKGEFOG_00456	gene	453				
+HIKGEFOG_00456	CDS	453				hypothetical protein
+HIKGEFOG_00457	gene	435				
+HIKGEFOG_00457	CDS	435				hypothetical protein
+HIKGEFOG_00458	gene	564				
+HIKGEFOG_00458	CDS	564				hypothetical protein
+HIKGEFOG_00459	gene	1416				
+HIKGEFOG_00459	CDS	1416				hypothetical protein
+HIKGEFOG_00460	gene	2685				
+HIKGEFOG_00460	CDS	2685				hypothetical protein
+HIKGEFOG_00461	gene	1116				
+HIKGEFOG_00461	CDS	1116				hypothetical protein
+HIKGEFOG_00462	gene	1503				
+HIKGEFOG_00462	CDS	1503				hypothetical protein
+HIKGEFOG_00463	gene	444				
+HIKGEFOG_00463	CDS	444				hypothetical protein
+HIKGEFOG_00464	gene	1545				
+HIKGEFOG_00464	CDS	1545				hypothetical protein
+HIKGEFOG_00465	gene	3537				
+HIKGEFOG_00465	CDS	3537				hypothetical protein
+HIKGEFOG_00466	gene	672				
+HIKGEFOG_00466	CDS	672				hypothetical protein
+HIKGEFOG_00467	gene	519				
+HIKGEFOG_00467	CDS	519				hypothetical protein
+HIKGEFOG_00468	gene	885				
+HIKGEFOG_00468	CDS	885				hypothetical protein
+HIKGEFOG_00469	gene	1008				
+HIKGEFOG_00469	CDS	1008				hypothetical protein
+HIKGEFOG_00470	gene	627	trmR			
+HIKGEFOG_00470	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+HIKGEFOG_00471	gene	420	aroQ1			
+HIKGEFOG_00471	CDS	420	aroQ1	4.2.1.10	COG0757	3-dehydroquinate dehydratase 1
+HIKGEFOG_00472	gene	786				
+HIKGEFOG_00472	CDS	786				hypothetical protein
+HIKGEFOG_00473	gene	2049	bepA_2			
+HIKGEFOG_00473	CDS	2049	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+HIKGEFOG_00474	gene	543				
+HIKGEFOG_00474	CDS	543				hypothetical protein
+HIKGEFOG_00475	gene	1419				
+HIKGEFOG_00475	CDS	1419				hypothetical protein
+HIKGEFOG_00476	gene	705				
+HIKGEFOG_00476	CDS	705				hypothetical protein
+HIKGEFOG_00477	gene	750	ispU			
+HIKGEFOG_00477	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+HIKGEFOG_00478	gene	2616	bamA_2			
+HIKGEFOG_00478	CDS	2616	bamA_2		COG4775	Outer membrane protein assembly factor BamA
+HIKGEFOG_00479	gene	513				
+HIKGEFOG_00479	CDS	513				hypothetical protein
+HIKGEFOG_00480	gene	501	skp			
+HIKGEFOG_00480	CDS	501	skp		COG2825	Chaperone protein Skp
+HIKGEFOG_00481	gene	633				
+HIKGEFOG_00481	CDS	633				hypothetical protein
+HIKGEFOG_00482	gene	843	murI			
+HIKGEFOG_00482	CDS	843	murI	5.1.1.3		Glutamate racemase
+HIKGEFOG_00483	gene	2613				
+HIKGEFOG_00483	CDS	2613				hypothetical protein
+HIKGEFOG_00484	gene	594				
+HIKGEFOG_00484	CDS	594				hypothetical protein
+HIKGEFOG_00485	gene	1560				
+HIKGEFOG_00485	CDS	1560				hypothetical protein
+HIKGEFOG_00486	gene	1968				
+HIKGEFOG_00486	CDS	1968				hypothetical protein
+HIKGEFOG_00487	gene	807				
+HIKGEFOG_00487	CDS	807				hypothetical protein
+HIKGEFOG_00488	gene	1020	lpxL			
+HIKGEFOG_00488	CDS	1020	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+HIKGEFOG_00489	gene	1008	ykoT			
+HIKGEFOG_00489	CDS	1008	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+HIKGEFOG_00490	gene	1674	aspT_1			
+HIKGEFOG_00490	CDS	1674	aspT_1			Aspartate/alanine antiporter
+HIKGEFOG_00491	gene	1374	tpl			
+HIKGEFOG_00491	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+HIKGEFOG_00492	gene	147				
+HIKGEFOG_00492	CDS	147				hypothetical protein
+HIKGEFOG_00493	gene	1506				
+HIKGEFOG_00493	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+HIKGEFOG_00494	gene	2295				
+HIKGEFOG_00494	CDS	2295				hypothetical protein
+HIKGEFOG_00495	gene	3030				
+HIKGEFOG_00495	CDS	3030				hypothetical protein
+HIKGEFOG_00496	gene	498	yrdA			
+HIKGEFOG_00496	CDS	498	yrdA		COG0663	Protein YrdA
+HIKGEFOG_00497	gene	387				
+HIKGEFOG_00497	CDS	387				hypothetical protein
+HIKGEFOG_00498	gene	1788	ftsH_1			
+HIKGEFOG_00498	CDS	1788	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HIKGEFOG_00499	gene	936	eamA			
+HIKGEFOG_00499	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+HIKGEFOG_00500	gene	1236	waaA			
+HIKGEFOG_00500	CDS	1236	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+HIKGEFOG_00501	gene	1536	gltX			
+HIKGEFOG_00501	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+HIKGEFOG_00502	gene	2055	rny_1			
+HIKGEFOG_00502	CDS	2055	rny_1	3.1.-.-		Ribonuclease Y
+HIKGEFOG_00503	gene	1485				
+HIKGEFOG_00503	CDS	1485				hypothetical protein
+HIKGEFOG_00504	gene	900				
+HIKGEFOG_00504	CDS	900				hypothetical protein
+HIKGEFOG_00505	gene	2271	priA			
+HIKGEFOG_00505	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+HIKGEFOG_00506	gene	90				
+HIKGEFOG_00506	CDS	90				hypothetical protein
+HIKGEFOG_00507	gene	984	menF_1			
+HIKGEFOG_00507	CDS	984	menF_1	5.4.4.2		Isochorismate synthase MenF
+HIKGEFOG_00508	gene	597				
+HIKGEFOG_00508	CDS	597				hypothetical protein
+HIKGEFOG_00509	gene	600				
+HIKGEFOG_00509	CDS	600				hypothetical protein
+HIKGEFOG_00510	gene	1026				
+HIKGEFOG_00510	CDS	1026				hypothetical protein
+HIKGEFOG_00511	gene	1557				
+HIKGEFOG_00511	CDS	1557				hypothetical protein
+HIKGEFOG_00512	gene	816				
+HIKGEFOG_00512	CDS	816				hypothetical protein
+HIKGEFOG_00513	gene	1458	egtB			
+HIKGEFOG_00513	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+HIKGEFOG_00514	gene	975				
+HIKGEFOG_00514	CDS	975				hypothetical protein
+	repeat_region	1662				
+HIKGEFOG_00515	gene	306	cas2			
+HIKGEFOG_00515	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+HIKGEFOG_00516	gene	933	cas1			
+HIKGEFOG_00516	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+HIKGEFOG_00517	gene	4182	cas9			
+HIKGEFOG_00517	CDS	4182	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+HIKGEFOG_00518	gene	624	yjdF			
+HIKGEFOG_00518	CDS	624	yjdF		COG3647	Inner membrane protein YjdF
+HIKGEFOG_00519	gene	83				
+HIKGEFOG_00519	tRNA	83				tRNA-Leu(caa)
+HIKGEFOG_00520	gene	1095	algA			
+HIKGEFOG_00520	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+HIKGEFOG_00521	gene	1164				
+HIKGEFOG_00521	CDS	1164				hypothetical protein
+HIKGEFOG_00522	gene	1134				
+HIKGEFOG_00522	CDS	1134				hypothetical protein
+HIKGEFOG_00523	gene	1443	tuaB_1			
+HIKGEFOG_00523	CDS	1443	tuaB_1		COG2244	Teichuronic acid biosynthesis protein TuaB
+HIKGEFOG_00524	gene	807	rfbF			
+HIKGEFOG_00524	CDS	807	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+HIKGEFOG_00525	gene	1101	rfbG			
+HIKGEFOG_00525	CDS	1101	rfbG	4.2.1.45	COG0451	CDP-glucose 4,6-dehydratase
+HIKGEFOG_00526	gene	450				
+HIKGEFOG_00526	CDS	450				hypothetical protein
+HIKGEFOG_00527	gene	912	rfbJ			
+HIKGEFOG_00527	CDS	912	rfbJ	1.1.1.341	COG0451	CDP-abequose synthase
+HIKGEFOG_00528	gene	1269				
+HIKGEFOG_00528	CDS	1269				hypothetical protein
+HIKGEFOG_00529	gene	1050	tarF			
+HIKGEFOG_00529	CDS	1050	tarF	2.7.8.45	COG1887	Teichoic acid glycerol-phosphate transferase
+HIKGEFOG_00530	gene	969				
+HIKGEFOG_00530	CDS	969				hypothetical protein
+HIKGEFOG_00531	gene	828	arnC_2			
+HIKGEFOG_00531	CDS	828	arnC_2	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+HIKGEFOG_00532	gene	708	dapH_1			
+HIKGEFOG_00532	CDS	708	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+HIKGEFOG_00533	gene	846				
+HIKGEFOG_00533	CDS	846				hypothetical protein
+HIKGEFOG_00534	gene	933				
+HIKGEFOG_00534	CDS	933				hypothetical protein
+HIKGEFOG_00535	gene	945	murB_2			
+HIKGEFOG_00535	CDS	945	murB_2	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+HIKGEFOG_00536	gene	1101				
+HIKGEFOG_00536	CDS	1101				hypothetical protein
+HIKGEFOG_00537	gene	879				
+HIKGEFOG_00537	CDS	879				hypothetical protein
+HIKGEFOG_00538	gene	1035	gtfA			
+HIKGEFOG_00538	CDS	1035	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+HIKGEFOG_00539	gene	744				
+HIKGEFOG_00539	CDS	744				hypothetical protein
+HIKGEFOG_00540	gene	864				
+HIKGEFOG_00540	CDS	864				hypothetical protein
+HIKGEFOG_00541	gene	1587	thiK			
+HIKGEFOG_00541	CDS	1587	thiK	2.7.1.89		Thiamine kinase
+HIKGEFOG_00542	gene	1536				
+HIKGEFOG_00542	CDS	1536			COG1292	putative glycine betaine transporter
+HIKGEFOG_00543	gene	786				
+HIKGEFOG_00543	CDS	786				hypothetical protein
+HIKGEFOG_00544	gene	1200				
+HIKGEFOG_00544	CDS	1200				hypothetical protein
+HIKGEFOG_00545	gene	1155	mshA_1			
+HIKGEFOG_00545	CDS	1155	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HIKGEFOG_00546	gene	543	dapH_2			
+HIKGEFOG_00546	CDS	543	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+HIKGEFOG_00547	gene	792	tagA			
+HIKGEFOG_00547	CDS	792	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+HIKGEFOG_00548	gene	963				
+HIKGEFOG_00548	CDS	963				hypothetical protein
+HIKGEFOG_00549	gene	1110				
+HIKGEFOG_00549	CDS	1110				hypothetical protein
+HIKGEFOG_00550	gene	105				
+HIKGEFOG_00550	CDS	105				hypothetical protein
+HIKGEFOG_00551	gene	615				
+HIKGEFOG_00551	CDS	615				hypothetical protein
+HIKGEFOG_00552	gene	594	folE			
+HIKGEFOG_00552	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+HIKGEFOG_00553	gene	639				
+HIKGEFOG_00553	CDS	639				hypothetical protein
+HIKGEFOG_00554	gene	2130	tpiA			
+HIKGEFOG_00554	CDS	2130	tpiA			Triosephosphate isomerase
+HIKGEFOG_00555	gene	555				
+HIKGEFOG_00555	CDS	555				hypothetical protein
+HIKGEFOG_00556	gene	459				
+HIKGEFOG_00556	CDS	459				hypothetical protein
+HIKGEFOG_00557	gene	1701	cca			
+HIKGEFOG_00557	CDS	1701	cca	2.7.7.72		CCA-adding enzyme
+HIKGEFOG_00558	gene	1194	ttgA			
+HIKGEFOG_00558	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+HIKGEFOG_00559	gene	3258	bepE			
+HIKGEFOG_00559	CDS	3258	bepE			Efflux pump membrane transporter BepE
+HIKGEFOG_00560	gene	1386	oprM			
+HIKGEFOG_00560	CDS	1386	oprM		COG1538	Outer membrane protein OprM
+HIKGEFOG_00561	gene	774	lpxA_1			
+HIKGEFOG_00561	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+HIKGEFOG_00562	gene	1647				
+HIKGEFOG_00562	CDS	1647				hypothetical protein
+HIKGEFOG_00563	gene	1668	recN			
+HIKGEFOG_00563	CDS	1668	recN		COG0497	DNA repair protein RecN
+HIKGEFOG_00564	gene	903				
+HIKGEFOG_00564	CDS	903				hypothetical protein
+HIKGEFOG_00565	gene	1212	undec1A			
+HIKGEFOG_00565	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+HIKGEFOG_00566	gene	855	dinG			
+HIKGEFOG_00566	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+HIKGEFOG_00567	gene	1125	dnaN			
+HIKGEFOG_00567	CDS	1125	dnaN			Beta sliding clamp
+HIKGEFOG_00568	gene	417				
+HIKGEFOG_00568	CDS	417				hypothetical protein
+HIKGEFOG_00569	gene	399	glpE			
+HIKGEFOG_00569	CDS	399	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+HIKGEFOG_00570	gene	1311	eno			
+HIKGEFOG_00570	CDS	1311	eno	4.2.1.11		Enolase
+HIKGEFOG_00571	gene	981	ribD			
+HIKGEFOG_00571	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+HIKGEFOG_00572	gene	654				
+HIKGEFOG_00572	CDS	654				hypothetical protein
+HIKGEFOG_00573	gene	1305	tyrS			
+HIKGEFOG_00573	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+HIKGEFOG_00574	gene	240				
+HIKGEFOG_00574	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+HIKGEFOG_00575	gene	432	rnpA			
+HIKGEFOG_00575	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+HIKGEFOG_00576	gene	747				
+HIKGEFOG_00576	CDS	747				hypothetical protein
+HIKGEFOG_00577	gene	1050				
+HIKGEFOG_00577	CDS	1050				hypothetical protein
+HIKGEFOG_00578	gene	1305	metK			
+HIKGEFOG_00578	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+HIKGEFOG_00579	gene	2826				
+HIKGEFOG_00579	CDS	2826				hypothetical protein
+HIKGEFOG_00580	gene	165				
+HIKGEFOG_00580	CDS	165				hypothetical protein
+HIKGEFOG_00581	gene	906				
+HIKGEFOG_00581	CDS	906				hypothetical protein
+HIKGEFOG_00582	gene	318				
+HIKGEFOG_00582	CDS	318				hypothetical protein
+HIKGEFOG_00583	gene	210				
+HIKGEFOG_00583	CDS	210				hypothetical protein
+HIKGEFOG_00584	gene	618				
+HIKGEFOG_00584	CDS	618				hypothetical protein
+HIKGEFOG_00585	gene	1491	cysS			
+HIKGEFOG_00585	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+HIKGEFOG_00586	gene	936				
+HIKGEFOG_00586	CDS	936				hypothetical protein
+HIKGEFOG_00587	gene	1008				
+HIKGEFOG_00587	CDS	1008				hypothetical protein
+HIKGEFOG_00588	gene	1047				
+HIKGEFOG_00588	CDS	1047				hypothetical protein
+HIKGEFOG_00589	gene	606				
+HIKGEFOG_00589	CDS	606				hypothetical protein
+HIKGEFOG_00590	gene	237	acpP			
+HIKGEFOG_00590	CDS	237	acpP		COG0236	Acyl carrier protein
+HIKGEFOG_00591	gene	1263	fabF			
+HIKGEFOG_00591	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+HIKGEFOG_00592	gene	1050	rnc			
+HIKGEFOG_00592	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+HIKGEFOG_00593	gene	1644	hcp			
+HIKGEFOG_00593	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+HIKGEFOG_00594	gene	96				
+HIKGEFOG_00594	CDS	96				hypothetical protein
+HIKGEFOG_00595	gene	600				
+HIKGEFOG_00595	CDS	600				hypothetical protein
+HIKGEFOG_00596	gene	669				
+HIKGEFOG_00596	CDS	669				hypothetical protein
+HIKGEFOG_00597	gene	177				
+HIKGEFOG_00597	CDS	177				hypothetical protein
+HIKGEFOG_00598	gene	321				
+HIKGEFOG_00598	CDS	321				hypothetical protein
+HIKGEFOG_00599	gene	1527				
+HIKGEFOG_00599	CDS	1527				hypothetical protein
+HIKGEFOG_00600	gene	1314				
+HIKGEFOG_00600	CDS	1314				hypothetical protein
+HIKGEFOG_00601	gene	1494	patA_1			
+HIKGEFOG_00601	CDS	1494	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+HIKGEFOG_00602	gene	417				
+HIKGEFOG_00602	CDS	417				hypothetical protein
+HIKGEFOG_00603	gene	1821	argS			
+HIKGEFOG_00603	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+HIKGEFOG_00604	gene	279				
+HIKGEFOG_00604	CDS	279				hypothetical protein
+HIKGEFOG_00605	gene	921				
+HIKGEFOG_00605	CDS	921				hypothetical protein
+HIKGEFOG_00606	gene	72				
+HIKGEFOG_00606	tRNA	72				tRNA-Gln(ttg)
+HIKGEFOG_00607	gene	243				
+HIKGEFOG_00607	CDS	243				hypothetical protein
+HIKGEFOG_00608	gene	2703	rcsC_2			
+HIKGEFOG_00608	CDS	2703	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+HIKGEFOG_00609	gene	432				
+HIKGEFOG_00609	CDS	432				hypothetical protein
+HIKGEFOG_00610	gene	381				
+HIKGEFOG_00610	CDS	381				hypothetical protein
+HIKGEFOG_00611	gene	339				
+HIKGEFOG_00611	CDS	339				hypothetical protein
+HIKGEFOG_00612	gene	132				
+HIKGEFOG_00612	CDS	132				hypothetical protein
+HIKGEFOG_00613	gene	1668	udk_1			
+HIKGEFOG_00613	CDS	1668	udk_1	2.7.1.48		Uridine kinase
+HIKGEFOG_00614	gene	1722				
+HIKGEFOG_00614	CDS	1722				hypothetical protein
+HIKGEFOG_00615	gene	1050	btuB_4			
+HIKGEFOG_00615	CDS	1050	btuB_4			Vitamin B12 transporter BtuB
+HIKGEFOG_00616	gene	285				
+HIKGEFOG_00616	CDS	285				hypothetical protein
+HIKGEFOG_00617	gene	6564				
+HIKGEFOG_00617	CDS	6564				hypothetical protein
+HIKGEFOG_00618	gene	1173				
+HIKGEFOG_00618	CDS	1173				hypothetical protein
+HIKGEFOG_00619	gene	1035	hmuU_2			
+HIKGEFOG_00619	CDS	1035	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+HIKGEFOG_00620	gene	894	prmB			
+HIKGEFOG_00620	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+HIKGEFOG_00621	gene	501	recX			
+HIKGEFOG_00621	CDS	501	recX			Regulatory protein RecX
+HIKGEFOG_00622	gene	1287				
+HIKGEFOG_00622	CDS	1287				hypothetical protein
+HIKGEFOG_00623	gene	471				
+HIKGEFOG_00623	CDS	471				hypothetical protein
+HIKGEFOG_00624	gene	1794				
+HIKGEFOG_00624	CDS	1794				hypothetical protein
+HIKGEFOG_00625	gene	852				
+HIKGEFOG_00625	CDS	852				hypothetical protein
+HIKGEFOG_00626	gene	633	pyrE			
+HIKGEFOG_00626	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+HIKGEFOG_00627	gene	423				
+HIKGEFOG_00627	CDS	423				hypothetical protein
+HIKGEFOG_00628	gene	576				
+HIKGEFOG_00628	CDS	576				hypothetical protein
+HIKGEFOG_00629	gene	564				
+HIKGEFOG_00629	CDS	564				hypothetical protein
+HIKGEFOG_00630	gene	204				
+HIKGEFOG_00630	CDS	204				hypothetical protein
+HIKGEFOG_00631	gene	87				
+HIKGEFOG_00631	tRNA	87				tRNA-Leu(taa)
+HIKGEFOG_00632	gene	1005				
+HIKGEFOG_00632	CDS	1005				hypothetical protein
+HIKGEFOG_00633	gene	696				
+HIKGEFOG_00633	CDS	696				hypothetical protein
+HIKGEFOG_00634	gene	459	rnhA			
+HIKGEFOG_00634	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+HIKGEFOG_00635	gene	477				
+HIKGEFOG_00635	CDS	477				hypothetical protein
+HIKGEFOG_00636	gene	666				
+HIKGEFOG_00636	CDS	666				hypothetical protein
+HIKGEFOG_00637	gene	831				
+HIKGEFOG_00637	CDS	831				hypothetical protein
+HIKGEFOG_00638	gene	558	trmH			
+HIKGEFOG_00638	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+HIKGEFOG_00639	gene	429	sufE			
+HIKGEFOG_00639	CDS	429	sufE		COG2166	Cysteine desulfuration protein SufE
+HIKGEFOG_00640	gene	1299				
+HIKGEFOG_00640	CDS	1299				hypothetical protein
+HIKGEFOG_00641	gene	912	xerD_1			
+HIKGEFOG_00641	CDS	912	xerD_1			Tyrosine recombinase XerD
+HIKGEFOG_00642	gene	1359	miaB			
+HIKGEFOG_00642	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+HIKGEFOG_00643	gene	2886				
+HIKGEFOG_00643	CDS	2886				hypothetical protein
+HIKGEFOG_00644	gene	1731	recJ			
+HIKGEFOG_00644	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+HIKGEFOG_00645	gene	1911	deaD_2			
+HIKGEFOG_00645	CDS	1911	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+HIKGEFOG_00646	gene	813				
+HIKGEFOG_00646	CDS	813				hypothetical protein
+HIKGEFOG_00647	gene	1182				
+HIKGEFOG_00647	CDS	1182				Outer membrane protein 41
+HIKGEFOG_00648	gene	531	cobP			
+HIKGEFOG_00648	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+HIKGEFOG_00649	gene	1032	cobT			
+HIKGEFOG_00649	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+HIKGEFOG_00650	gene	792	cobS			
+HIKGEFOG_00650	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+HIKGEFOG_00651	gene	522	pspA_1			
+HIKGEFOG_00651	CDS	522	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+HIKGEFOG_00652	gene	543				
+HIKGEFOG_00652	CDS	543				hypothetical protein
+HIKGEFOG_00653	gene	771	korB_2			
+HIKGEFOG_00653	CDS	771	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+HIKGEFOG_00654	gene	1083	korA_2			
+HIKGEFOG_00654	CDS	1083	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+HIKGEFOG_00655	gene	234	rsxB			
+HIKGEFOG_00655	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+HIKGEFOG_00656	gene	180				
+HIKGEFOG_00656	CDS	180				hypothetical protein
+HIKGEFOG_00657	gene	924	folD			
+HIKGEFOG_00657	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+HIKGEFOG_00658	gene	1341	ffh			
+HIKGEFOG_00658	CDS	1341	ffh		COG0541	Signal recognition particle protein
+HIKGEFOG_00659	gene	483				
+HIKGEFOG_00659	CDS	483				hypothetical protein
+HIKGEFOG_00660	gene	753				
+HIKGEFOG_00660	CDS	753				hypothetical protein
+HIKGEFOG_00661	gene	2127				
+HIKGEFOG_00661	CDS	2127			COG1629	putative TonB-dependent receptor
+HIKGEFOG_00662	gene	402				
+HIKGEFOG_00662	CDS	402				hypothetical protein
+HIKGEFOG_00663	gene	3300				
+HIKGEFOG_00663	CDS	3300				hypothetical protein
+HIKGEFOG_00664	gene	579				
+HIKGEFOG_00664	CDS	579				hypothetical protein
+	repeat_region	760				
+HIKGEFOG_00665	gene	171				
+HIKGEFOG_00665	CDS	171				hypothetical protein
+HIKGEFOG_00666	gene	1281				
+HIKGEFOG_00666	CDS	1281				hypothetical protein
+HIKGEFOG_00667	gene	546	pdxT			
+HIKGEFOG_00667	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+HIKGEFOG_00668	gene	876	pdxS			
+HIKGEFOG_00668	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+HIKGEFOG_00669	gene	918	rhaS_1			
+HIKGEFOG_00669	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+HIKGEFOG_00670	gene	474				
+HIKGEFOG_00670	CDS	474				hypothetical protein
+HIKGEFOG_00671	gene	129				
+HIKGEFOG_00671	CDS	129				hypothetical protein
+HIKGEFOG_00672	gene	114				
+HIKGEFOG_00672	CDS	114				hypothetical protein
+HIKGEFOG_00673	gene	855	bepA_3			
+HIKGEFOG_00673	CDS	855	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+HIKGEFOG_00674	gene	2325				
+HIKGEFOG_00674	CDS	2325				hypothetical protein
+HIKGEFOG_00675	gene	1065	kdsA_1			
+HIKGEFOG_00675	CDS	1065	kdsA_1	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+HIKGEFOG_00676	gene	1059				
+HIKGEFOG_00676	CDS	1059				hypothetical protein
+HIKGEFOG_00677	gene	234				
+HIKGEFOG_00677	CDS	234				hypothetical protein
+HIKGEFOG_00678	gene	1095				
+HIKGEFOG_00678	CDS	1095				hypothetical protein
+HIKGEFOG_00679	gene	1107	pdxA2			
+HIKGEFOG_00679	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+HIKGEFOG_00680	gene	978				
+HIKGEFOG_00680	CDS	978				hypothetical protein
+HIKGEFOG_00681	gene	1050	rlmN			
+HIKGEFOG_00681	CDS	1050	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+HIKGEFOG_00682	gene	1560	ahpF			
+HIKGEFOG_00682	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+HIKGEFOG_00683	gene	567	ahpC			
+HIKGEFOG_00683	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+HIKGEFOG_00684	gene	585	sodB			
+HIKGEFOG_00684	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+HIKGEFOG_00685	gene	927	oxyR			
+HIKGEFOG_00685	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+HIKGEFOG_00686	gene	1086	wbpI			
+HIKGEFOG_00686	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+HIKGEFOG_00687	gene	108				
+HIKGEFOG_00687	CDS	108				hypothetical protein
+HIKGEFOG_00688	gene	954	qmcA			
+HIKGEFOG_00688	CDS	954	qmcA		COG0330	Protein QmcA
+HIKGEFOG_00689	gene	456				
+HIKGEFOG_00689	CDS	456				hypothetical protein
+HIKGEFOG_00690	gene	462				
+HIKGEFOG_00690	CDS	462				hypothetical protein
+HIKGEFOG_00691	gene	408				
+HIKGEFOG_00691	CDS	408				hypothetical protein
+HIKGEFOG_00692	gene	285				
+HIKGEFOG_00692	CDS	285				hypothetical protein
+HIKGEFOG_00693	gene	123				
+HIKGEFOG_00693	CDS	123				hypothetical protein
+HIKGEFOG_00694	gene	822	acr1			
+HIKGEFOG_00694	CDS	822	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+HIKGEFOG_00695	gene	1506				
+HIKGEFOG_00695	CDS	1506		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+HIKGEFOG_00696	gene	363				
+HIKGEFOG_00696	CDS	363				hypothetical protein
+HIKGEFOG_00697	gene	498				
+HIKGEFOG_00697	CDS	498			COG0716	Flavodoxin 1
+HIKGEFOG_00698	gene	2214				
+HIKGEFOG_00698	CDS	2214				hypothetical protein
+HIKGEFOG_00699	gene	216				
+HIKGEFOG_00699	CDS	216				hypothetical protein
+HIKGEFOG_00700	gene	600	slyD			
+HIKGEFOG_00700	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+HIKGEFOG_00701	gene	1092	aroC			
+HIKGEFOG_00701	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+HIKGEFOG_00702	gene	912	pyrD			
+HIKGEFOG_00702	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+HIKGEFOG_00703	gene	777	pyrK_1			
+HIKGEFOG_00703	CDS	777	pyrK_1		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+HIKGEFOG_00704	gene	477				
+HIKGEFOG_00704	CDS	477				hypothetical protein
+HIKGEFOG_00705	gene	1029				
+HIKGEFOG_00705	CDS	1029				hypothetical protein
+HIKGEFOG_00706	gene	450				
+HIKGEFOG_00706	CDS	450				hypothetical protein
+HIKGEFOG_00707	gene	174				
+HIKGEFOG_00707	CDS	174				hypothetical protein
+HIKGEFOG_00708	gene	951				
+HIKGEFOG_00708	CDS	951				hypothetical protein
+HIKGEFOG_00709	gene	840				
+HIKGEFOG_00709	CDS	840				hypothetical protein
+HIKGEFOG_00710	gene	879				
+HIKGEFOG_00710	CDS	879				hypothetical protein
+HIKGEFOG_00711	gene	105				
+HIKGEFOG_00711	CDS	105				hypothetical protein
+HIKGEFOG_00712	gene	135				
+HIKGEFOG_00712	CDS	135				hypothetical protein
+HIKGEFOG_00713	gene	1044	aguA			
+HIKGEFOG_00713	CDS	1044	aguA	3.5.3.12	COG2957	Agmatine deiminase
+HIKGEFOG_00714	gene	909				
+HIKGEFOG_00714	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+HIKGEFOG_00715	gene	1389	ampG			
+HIKGEFOG_00715	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+HIKGEFOG_00716	gene	3693				
+HIKGEFOG_00716	CDS	3693				hypothetical protein
+HIKGEFOG_00717	gene	462	ndk			
+HIKGEFOG_00717	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+HIKGEFOG_00718	gene	1698	eptC_1			
+HIKGEFOG_00718	CDS	1698	eptC_1	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+HIKGEFOG_00719	gene	1215	norR			
+HIKGEFOG_00719	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+HIKGEFOG_00720	gene	543				
+HIKGEFOG_00720	CDS	543				hypothetical protein
+HIKGEFOG_00721	gene	771				
+HIKGEFOG_00721	CDS	771				hypothetical protein
+HIKGEFOG_00722	gene	390				
+HIKGEFOG_00722	CDS	390				hypothetical protein
+HIKGEFOG_00723	gene	270				
+HIKGEFOG_00723	CDS	270				hypothetical protein
+HIKGEFOG_00724	gene	2580				
+HIKGEFOG_00724	CDS	2580				hypothetical protein
+HIKGEFOG_00725	gene	3201				
+HIKGEFOG_00725	CDS	3201				hypothetical protein
+HIKGEFOG_00726	gene	657	trmO			
+HIKGEFOG_00726	CDS	657	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+HIKGEFOG_00727	gene	1299				
+HIKGEFOG_00727	CDS	1299				hypothetical protein
+HIKGEFOG_00728	gene	75				
+HIKGEFOG_00728	tRNA	75				tRNA-His(gtg)
+HIKGEFOG_00729	gene	447				
+HIKGEFOG_00729	CDS	447				hypothetical protein
+HIKGEFOG_00730	gene	456				
+HIKGEFOG_00730	CDS	456				hypothetical protein
+HIKGEFOG_00731	gene	345	hxlR			
+HIKGEFOG_00731	CDS	345	hxlR		COG1733	HTH-type transcriptional activator HxlR
+HIKGEFOG_00732	gene	372				
+HIKGEFOG_00732	CDS	372				hypothetical protein
+HIKGEFOG_00733	gene	330				
+HIKGEFOG_00733	CDS	330				hypothetical protein
+HIKGEFOG_00734	gene	207				
+HIKGEFOG_00734	CDS	207				hypothetical protein
+HIKGEFOG_00735	gene	1074	adh			
+HIKGEFOG_00735	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+HIKGEFOG_00736	gene	606				
+HIKGEFOG_00736	CDS	606				hypothetical protein
+HIKGEFOG_00737	gene	1497	nrfA			
+HIKGEFOG_00737	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+HIKGEFOG_00738	gene	1311				
+HIKGEFOG_00738	CDS	1311				hypothetical protein
+HIKGEFOG_00739	gene	798	ccsA			
+HIKGEFOG_00739	CDS	798	ccsA			Cytochrome c biogenesis protein CcsA
+HIKGEFOG_00740	gene	189				
+HIKGEFOG_00740	CDS	189				hypothetical protein
+HIKGEFOG_00741	gene	398	ssrA			
+HIKGEFOG_00741	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+HIKGEFOG_00742	gene	636	wecA			
+HIKGEFOG_00742	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+HIKGEFOG_00743	gene	2499				
+HIKGEFOG_00743	CDS	2499				hypothetical protein
+HIKGEFOG_00744	gene	1077				
+HIKGEFOG_00744	CDS	1077				hypothetical protein
+HIKGEFOG_00745	gene	1194				
+HIKGEFOG_00745	CDS	1194				hypothetical protein
+HIKGEFOG_00746	gene	1530				
+HIKGEFOG_00746	CDS	1530				hypothetical protein
+HIKGEFOG_00747	gene	555	dapH_3			
+HIKGEFOG_00747	CDS	555	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+HIKGEFOG_00748	gene	1221				
+HIKGEFOG_00748	CDS	1221				hypothetical protein
+HIKGEFOG_00749	gene	1542				
+HIKGEFOG_00749	CDS	1542				hypothetical protein
+HIKGEFOG_00750	gene	1152	mshA_2			
+HIKGEFOG_00750	CDS	1152	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HIKGEFOG_00751	gene	210				
+HIKGEFOG_00751	CDS	210				hypothetical protein
+HIKGEFOG_00752	gene	3417	mfd			
+HIKGEFOG_00752	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+HIKGEFOG_00753	gene	3024				
+HIKGEFOG_00753	CDS	3024				hypothetical protein
+HIKGEFOG_00754	gene	876				
+HIKGEFOG_00754	CDS	876				hypothetical protein
+HIKGEFOG_00755	gene	447				
+HIKGEFOG_00755	CDS	447				hypothetical protein
+HIKGEFOG_00756	gene	474				
+HIKGEFOG_00756	CDS	474				hypothetical protein
+HIKGEFOG_00757	gene	1446				
+HIKGEFOG_00757	CDS	1446				hypothetical protein
+HIKGEFOG_00758	gene	405				
+HIKGEFOG_00758	CDS	405				hypothetical protein
+HIKGEFOG_00759	gene	861				
+HIKGEFOG_00759	CDS	861				hypothetical protein
+HIKGEFOG_00760	gene	1746				
+HIKGEFOG_00760	CDS	1746				hypothetical protein
+HIKGEFOG_00761	gene	510	pspA_2			
+HIKGEFOG_00761	CDS	510	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+HIKGEFOG_00762	gene	1047				
+HIKGEFOG_00762	CDS	1047				hypothetical protein
+HIKGEFOG_00763	gene	1107				
+HIKGEFOG_00763	CDS	1107				hypothetical protein
+HIKGEFOG_00764	gene	1914	pglF			
+HIKGEFOG_00764	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+HIKGEFOG_00765	gene	594				
+HIKGEFOG_00765	CDS	594				hypothetical protein
+HIKGEFOG_00766	gene	1197	arnB			
+HIKGEFOG_00766	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+HIKGEFOG_00767	gene	798	tuaG			
+HIKGEFOG_00767	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+HIKGEFOG_00768	gene	1143				
+HIKGEFOG_00768	CDS	1143				hypothetical protein
+HIKGEFOG_00769	gene	1155				
+HIKGEFOG_00769	CDS	1155				hypothetical protein
+HIKGEFOG_00770	gene	909	trxB			
+HIKGEFOG_00770	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+HIKGEFOG_00771	gene	549	gpx1_1			
+HIKGEFOG_00771	CDS	549	gpx1_1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+HIKGEFOG_00772	gene	600				
+HIKGEFOG_00772	CDS	600				hypothetical protein
+HIKGEFOG_00773	gene	1242	ugd			
+HIKGEFOG_00773	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+HIKGEFOG_00774	gene	456				
+HIKGEFOG_00774	CDS	456				hypothetical protein
+HIKGEFOG_00775	gene	1563				
+HIKGEFOG_00775	CDS	1563				hypothetical protein
+HIKGEFOG_00776	gene	906				
+HIKGEFOG_00776	CDS	906				hypothetical protein
+HIKGEFOG_00777	gene	255	rpmE2			
+HIKGEFOG_00777	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+HIKGEFOG_00778	gene	1335				
+HIKGEFOG_00778	CDS	1335				hypothetical protein
+HIKGEFOG_00779	gene	930				
+HIKGEFOG_00779	CDS	930				hypothetical protein
+HIKGEFOG_00780	gene	2562				
+HIKGEFOG_00780	CDS	2562				hypothetical protein
+HIKGEFOG_00781	gene	1038				
+HIKGEFOG_00781	CDS	1038				hypothetical protein
+HIKGEFOG_00782	gene	573				
+HIKGEFOG_00782	CDS	573				hypothetical protein
+HIKGEFOG_00783	gene	636	udk_2			
+HIKGEFOG_00783	CDS	636	udk_2	2.7.1.48		Uridine kinase
+HIKGEFOG_00784	gene	99				
+HIKGEFOG_00784	CDS	99				hypothetical protein
+HIKGEFOG_00785	gene	513				
+HIKGEFOG_00785	CDS	513				hypothetical protein
+HIKGEFOG_00786	gene	1134				
+HIKGEFOG_00786	CDS	1134				hypothetical protein
+HIKGEFOG_00787	gene	738				
+HIKGEFOG_00787	CDS	738				hypothetical protein
+HIKGEFOG_00788	gene	2109				
+HIKGEFOG_00788	CDS	2109				hypothetical protein
+HIKGEFOG_00789	gene	1032				
+HIKGEFOG_00789	CDS	1032				hypothetical protein
+HIKGEFOG_00790	gene	753				
+HIKGEFOG_00790	CDS	753				hypothetical protein
+HIKGEFOG_00791	gene	693				
+HIKGEFOG_00791	CDS	693				hypothetical protein
+HIKGEFOG_00792	gene	75				
+HIKGEFOG_00792	tRNA	75				tRNA-Arg(ccg)
+HIKGEFOG_00793	gene	1224	pepT			
+HIKGEFOG_00793	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+HIKGEFOG_00794	gene	2256	kefB_1			
+HIKGEFOG_00794	CDS	2256	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+HIKGEFOG_00795	gene	1776				
+HIKGEFOG_00795	CDS	1776				hypothetical protein
+HIKGEFOG_00796	gene	585				
+HIKGEFOG_00796	CDS	585				hypothetical protein
+HIKGEFOG_00797	gene	2772	lptD_1			
+HIKGEFOG_00797	CDS	2772	lptD_1			LPS-assembly protein LptD
+HIKGEFOG_00798	gene	759	ppm1			
+HIKGEFOG_00798	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+HIKGEFOG_00799	gene	762				
+HIKGEFOG_00799	CDS	762				hypothetical protein
+HIKGEFOG_00800	gene	1209	rhaR			
+HIKGEFOG_00800	CDS	1209	rhaR			HTH-type transcriptional activator RhaR
+HIKGEFOG_00801	gene	675				
+HIKGEFOG_00801	CDS	675				hypothetical protein
+HIKGEFOG_00802	gene	756				
+HIKGEFOG_00802	CDS	756				hypothetical protein
+HIKGEFOG_00803	gene	1224				
+HIKGEFOG_00803	CDS	1224				hypothetical protein
+HIKGEFOG_00804	gene	1221				
+HIKGEFOG_00804	CDS	1221				hypothetical protein
+HIKGEFOG_00805	gene	705	yknY_1			
+HIKGEFOG_00805	CDS	705	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+HIKGEFOG_00806	gene	1152				
+HIKGEFOG_00806	CDS	1152				hypothetical protein
+HIKGEFOG_00807	gene	1278				
+HIKGEFOG_00807	CDS	1278				hypothetical protein
+HIKGEFOG_00808	gene	1179				
+HIKGEFOG_00808	CDS	1179				hypothetical protein
+HIKGEFOG_00809	gene	1329	allB			
+HIKGEFOG_00809	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+HIKGEFOG_00810	gene	849				
+HIKGEFOG_00810	CDS	849				hypothetical protein
+HIKGEFOG_00811	gene	429				
+HIKGEFOG_00811	CDS	429				hypothetical protein
+HIKGEFOG_00812	gene	339				
+HIKGEFOG_00812	CDS	339				hypothetical protein
+HIKGEFOG_00813	gene	465	queF			
+HIKGEFOG_00813	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+HIKGEFOG_00814	gene	1017				
+HIKGEFOG_00814	CDS	1017				hypothetical protein
+HIKGEFOG_00815	gene	3072				
+HIKGEFOG_00815	CDS	3072				hypothetical protein
+HIKGEFOG_00816	gene	1197				
+HIKGEFOG_00816	CDS	1197				hypothetical protein
+HIKGEFOG_00817	gene	99				
+HIKGEFOG_00817	CDS	99				hypothetical protein
+HIKGEFOG_00818	gene	2970				
+HIKGEFOG_00818	CDS	2970				hypothetical protein
+HIKGEFOG_00819	gene	570	purN			
+HIKGEFOG_00819	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+HIKGEFOG_00820	gene	489				
+HIKGEFOG_00820	CDS	489				hypothetical protein
+HIKGEFOG_00821	gene	594	pth			
+HIKGEFOG_00821	CDS	594	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+HIKGEFOG_00822	gene	612	ctc			
+HIKGEFOG_00822	CDS	612	ctc		COG1825	General stress protein CTC
+HIKGEFOG_00823	gene	1002	nusB			
+HIKGEFOG_00823	CDS	1002	nusB			Transcription antitermination protein NusB
+HIKGEFOG_00824	gene	330				
+HIKGEFOG_00824	CDS	330				hypothetical protein
+HIKGEFOG_00825	gene	987				
+HIKGEFOG_00825	CDS	987				hypothetical protein
+HIKGEFOG_00826	gene	561	coaE			
+HIKGEFOG_00826	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+HIKGEFOG_00827	gene	444				
+HIKGEFOG_00827	CDS	444				hypothetical protein
+HIKGEFOG_00828	gene	249				
+HIKGEFOG_00828	CDS	249				hypothetical protein
+HIKGEFOG_00829	gene	1062				
+HIKGEFOG_00829	CDS	1062				hypothetical protein
+HIKGEFOG_00830	gene	933	yrbG			
+HIKGEFOG_00830	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+HIKGEFOG_00831	gene	831	resA_3			
+HIKGEFOG_00831	CDS	831	resA_3			Thiol-disulfide oxidoreductase ResA
+HIKGEFOG_00832	gene	1071	aroB			
+HIKGEFOG_00832	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+HIKGEFOG_00833	gene	666				
+HIKGEFOG_00833	CDS	666				hypothetical protein
+HIKGEFOG_00834	gene	558				
+HIKGEFOG_00834	CDS	558				hypothetical protein
+HIKGEFOG_00835	gene	792				
+HIKGEFOG_00835	CDS	792				hypothetical protein
+HIKGEFOG_00836	gene	519				
+HIKGEFOG_00836	CDS	519				hypothetical protein
+HIKGEFOG_00837	gene	897				
+HIKGEFOG_00837	CDS	897				hypothetical protein
+HIKGEFOG_00838	gene	813				
+HIKGEFOG_00838	CDS	813				hypothetical protein
+HIKGEFOG_00839	gene	1197				
+HIKGEFOG_00839	CDS	1197				hypothetical protein
+HIKGEFOG_00840	gene	1416	pepP			
+HIKGEFOG_00840	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+HIKGEFOG_00841	gene	939				
+HIKGEFOG_00841	CDS	939				hypothetical protein
+HIKGEFOG_00842	gene	675	trmD			
+HIKGEFOG_00842	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+HIKGEFOG_00843	gene	1062	buk2			
+HIKGEFOG_00843	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+HIKGEFOG_00844	gene	855	pta_1			
+HIKGEFOG_00844	CDS	855	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+HIKGEFOG_00845	gene	2052	ligA			
+HIKGEFOG_00845	CDS	2052	ligA	6.5.1.2		DNA ligase
+HIKGEFOG_00846	gene	462				
+HIKGEFOG_00846	CDS	462				hypothetical protein
+HIKGEFOG_00847	gene	462				
+HIKGEFOG_00847	CDS	462				hypothetical protein
+HIKGEFOG_00848	gene	894	fabD			
+HIKGEFOG_00848	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+HIKGEFOG_00849	gene	1698	glgE			
+HIKGEFOG_00849	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+HIKGEFOG_00850	gene	762	ydfG			
+HIKGEFOG_00850	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+HIKGEFOG_00851	gene	507				
+HIKGEFOG_00851	CDS	507				hypothetical protein
+HIKGEFOG_00852	gene	705	ttcA			
+HIKGEFOG_00852	CDS	705	ttcA	2.8.1.-		tRNA-cytidine(32) 2-sulfurtransferase
+HIKGEFOG_00853	gene	657	ppaX			
+HIKGEFOG_00853	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+HIKGEFOG_00854	gene	162				
+HIKGEFOG_00854	CDS	162			COG1773	Rubredoxin
+HIKGEFOG_00855	gene	474	guaD			
+HIKGEFOG_00855	CDS	474	guaD	3.5.4.3	COG0590	Guanine deaminase
+HIKGEFOG_00856	gene	1575	rne			
+HIKGEFOG_00856	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+HIKGEFOG_00857	gene	90				
+HIKGEFOG_00857	CDS	90				hypothetical protein
+HIKGEFOG_00858	gene	300				
+HIKGEFOG_00858	CDS	300			COG0776	DNA-binding protein HRL53
+HIKGEFOG_00859	gene	444	rpiB			
+HIKGEFOG_00859	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+HIKGEFOG_00860	gene	1995	tkt			
+HIKGEFOG_00860	CDS	1995	tkt	2.2.1.1		Transketolase
+HIKGEFOG_00861	gene	900	rluD_1			
+HIKGEFOG_00861	CDS	900	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+HIKGEFOG_00862	gene	156				
+HIKGEFOG_00862	CDS	156				hypothetical protein
+HIKGEFOG_00863	gene	1785				
+HIKGEFOG_00863	CDS	1785				hypothetical protein
+HIKGEFOG_00864	gene	1932				
+HIKGEFOG_00864	CDS	1932				hypothetical protein
+HIKGEFOG_00865	gene	3303				
+HIKGEFOG_00865	CDS	3303				hypothetical protein
+HIKGEFOG_00866	gene	144				
+HIKGEFOG_00866	CDS	144				hypothetical protein
+HIKGEFOG_00867	gene	2100				
+HIKGEFOG_00867	CDS	2100				hypothetical protein
+HIKGEFOG_00868	gene	642				
+HIKGEFOG_00868	CDS	642				hypothetical protein
+HIKGEFOG_00869	gene	642				
+HIKGEFOG_00869	CDS	642				hypothetical protein
+HIKGEFOG_00870	gene	903	menA			
+HIKGEFOG_00870	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+HIKGEFOG_00871	gene	2280				
+HIKGEFOG_00871	CDS	2280				hypothetical protein
+HIKGEFOG_00872	gene	255				
+HIKGEFOG_00872	CDS	255				hypothetical protein
+HIKGEFOG_00873	gene	2040	uvrB			
+HIKGEFOG_00873	CDS	2040	uvrB		COG0556	UvrABC system protein B
+HIKGEFOG_00874	gene	2460				
+HIKGEFOG_00874	CDS	2460				hypothetical protein
+HIKGEFOG_00875	gene	897	bamD_1			
+HIKGEFOG_00875	CDS	897	bamD_1			Outer membrane protein assembly factor BamD
+HIKGEFOG_00876	gene	351				
+HIKGEFOG_00876	CDS	351				hypothetical protein
+HIKGEFOG_00877	gene	459				
+HIKGEFOG_00877	CDS	459				hypothetical protein
+HIKGEFOG_00878	gene	567				
+HIKGEFOG_00878	CDS	567				hypothetical protein
+HIKGEFOG_00879	gene	237				
+HIKGEFOG_00879	CDS	237				hypothetical protein
+HIKGEFOG_00880	gene	477	ribH			
+HIKGEFOG_00880	CDS	477	ribH	2.5.1.78		6,7-dimethyl-8-ribityllumazine synthase
+HIKGEFOG_00881	gene	741				
+HIKGEFOG_00881	CDS	741				hypothetical protein
+HIKGEFOG_00882	gene	1095	recF_1			
+HIKGEFOG_00882	CDS	1095	recF_1		COG1195	DNA replication and repair protein RecF
+HIKGEFOG_00883	gene	291				
+HIKGEFOG_00883	CDS	291				hypothetical protein
+HIKGEFOG_00884	gene	498				
+HIKGEFOG_00884	CDS	498		6.3.3.2	COG0212	5-formyltetrahydrofolate cyclo-ligase
+HIKGEFOG_00885	gene	1725				
+HIKGEFOG_00885	CDS	1725				hypothetical protein
+HIKGEFOG_00886	gene	444	tadA_1			
+HIKGEFOG_00886	CDS	444	tadA_1	3.5.4.33		tRNA-specific adenosine deaminase
+HIKGEFOG_00887	gene	2094	prlC			
+HIKGEFOG_00887	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+HIKGEFOG_00888	gene	603				
+HIKGEFOG_00888	CDS	603				hypothetical protein
+HIKGEFOG_00889	gene	1020	apbE			
+HIKGEFOG_00889	CDS	1020	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+HIKGEFOG_00890	gene	684				
+HIKGEFOG_00890	CDS	684				hypothetical protein
+HIKGEFOG_00891	gene	486				
+HIKGEFOG_00891	CDS	486				hypothetical protein
+HIKGEFOG_00892	gene	951	rgtE			
+HIKGEFOG_00892	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+HIKGEFOG_00893	gene	579				
+HIKGEFOG_00893	CDS	579				hypothetical protein
+HIKGEFOG_00894	gene	633				
+HIKGEFOG_00894	CDS	633				hypothetical protein
+HIKGEFOG_00895	gene	540				
+HIKGEFOG_00895	CDS	540				hypothetical protein
+HIKGEFOG_00896	gene	126				
+HIKGEFOG_00896	CDS	126				hypothetical protein
+HIKGEFOG_00897	gene	117				
+HIKGEFOG_00897	CDS	117				hypothetical protein
+HIKGEFOG_00898	gene	1182	bdhA			
+HIKGEFOG_00898	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+HIKGEFOG_00899	gene	678				
+HIKGEFOG_00899	CDS	678				hypothetical protein
+HIKGEFOG_00900	gene	351	ndhC			
+HIKGEFOG_00900	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+HIKGEFOG_00901	gene	750	ndhK			
+HIKGEFOG_00901	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+HIKGEFOG_00902	gene	1563	nuoC			
+HIKGEFOG_00902	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+HIKGEFOG_00903	gene	1089	nuoH			
+HIKGEFOG_00903	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+HIKGEFOG_00904	gene	534	nuoI			
+HIKGEFOG_00904	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+HIKGEFOG_00905	gene	513				
+HIKGEFOG_00905	CDS	513				hypothetical protein
+HIKGEFOG_00906	gene	312	nuoK			
+HIKGEFOG_00906	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+HIKGEFOG_00907	gene	1989	nuoL			
+HIKGEFOG_00907	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+HIKGEFOG_00908	gene	1500	ndhD1			
+HIKGEFOG_00908	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+HIKGEFOG_00909	gene	1437	ndhB			
+HIKGEFOG_00909	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+HIKGEFOG_00910	gene	990				
+HIKGEFOG_00910	CDS	990				hypothetical protein
+HIKGEFOG_00911	gene	150				
+HIKGEFOG_00911	CDS	150				hypothetical protein
+HIKGEFOG_00912	gene	198				
+HIKGEFOG_00912	CDS	198				hypothetical protein
+HIKGEFOG_00913	gene	3342				
+HIKGEFOG_00913	CDS	3342				hypothetical protein
+HIKGEFOG_00914	gene	1584				
+HIKGEFOG_00914	CDS	1584				hypothetical protein
+HIKGEFOG_00915	gene	1185				
+HIKGEFOG_00915	CDS	1185				hypothetical protein
+HIKGEFOG_00916	gene	744				
+HIKGEFOG_00916	CDS	744				hypothetical protein
+HIKGEFOG_00917	gene	3306	carB			
+HIKGEFOG_00917	CDS	3306	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+HIKGEFOG_00918	gene	2484				
+HIKGEFOG_00918	CDS	2484				hypothetical protein
+HIKGEFOG_00919	gene	876	rmlA			
+HIKGEFOG_00919	CDS	876	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+HIKGEFOG_00920	gene	624				
+HIKGEFOG_00920	CDS	624				hypothetical protein
+HIKGEFOG_00921	gene	300				
+HIKGEFOG_00921	CDS	300				hypothetical protein
+HIKGEFOG_00922	gene	345				
+HIKGEFOG_00922	CDS	345				hypothetical protein
+HIKGEFOG_00923	gene	1533	rny_2			
+HIKGEFOG_00923	CDS	1533	rny_2	3.1.-.-	COG1418	Ribonuclease Y
+HIKGEFOG_00924	gene	957				
+HIKGEFOG_00924	CDS	957				hypothetical protein
+HIKGEFOG_00925	gene	585	malT			
+HIKGEFOG_00925	CDS	585	malT			HTH-type transcriptional regulator MalT
+HIKGEFOG_00926	gene	1158	gcdB			
+HIKGEFOG_00926	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+HIKGEFOG_00927	gene	450	gcdC			
+HIKGEFOG_00927	CDS	450	gcdC	7.2.4.5	COG0511	Glutaconyl-CoA decarboxylase subunit gamma
+HIKGEFOG_00928	gene	957				
+HIKGEFOG_00928	CDS	957				hypothetical protein
+HIKGEFOG_00929	gene	1689	aspT_2			
+HIKGEFOG_00929	CDS	1689	aspT_2			Aspartate/alanine antiporter
+HIKGEFOG_00930	gene	450				
+HIKGEFOG_00930	CDS	450				hypothetical protein
+HIKGEFOG_00931	gene	657	gpx1_2			
+HIKGEFOG_00931	CDS	657	gpx1_2	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+HIKGEFOG_00932	gene	174				
+HIKGEFOG_00932	CDS	174				hypothetical protein
+HIKGEFOG_00933	gene	513	COQ3			
+HIKGEFOG_00933	CDS	513	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+HIKGEFOG_00934	gene	1059				
+HIKGEFOG_00934	CDS	1059				hypothetical protein
+HIKGEFOG_00935	gene	1827				
+HIKGEFOG_00935	CDS	1827				hypothetical protein
+HIKGEFOG_00936	gene	306				
+HIKGEFOG_00936	CDS	306				hypothetical protein
+HIKGEFOG_00937	gene	2589				
+HIKGEFOG_00937	CDS	2589				hypothetical protein
+HIKGEFOG_00938	gene	555				
+HIKGEFOG_00938	CDS	555				hypothetical protein
+HIKGEFOG_00939	gene	273				
+HIKGEFOG_00939	CDS	273				hypothetical protein
+HIKGEFOG_00940	gene	1641	pfp			
+HIKGEFOG_00940	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+HIKGEFOG_00941	gene	804				
+HIKGEFOG_00941	CDS	804				hypothetical protein
+HIKGEFOG_00942	gene	882	prmC			
+HIKGEFOG_00942	CDS	882	prmC	2.1.1.297		Release factor glutamine methyltransferase
+HIKGEFOG_00943	gene	1023				
+HIKGEFOG_00943	CDS	1023				hypothetical protein
+HIKGEFOG_00944	gene	1623				
+HIKGEFOG_00944	CDS	1623				hypothetical protein
+HIKGEFOG_00945	gene	408				
+HIKGEFOG_00945	CDS	408				hypothetical protein
+HIKGEFOG_00946	gene	3585	ileS			
+HIKGEFOG_00946	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+HIKGEFOG_00947	gene	381	dksA			
+HIKGEFOG_00947	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+HIKGEFOG_00948	gene	633	lspA			
+HIKGEFOG_00948	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+HIKGEFOG_00949	gene	903				
+HIKGEFOG_00949	CDS	903				hypothetical protein
+HIKGEFOG_00950	gene	222				
+HIKGEFOG_00950	CDS	222				hypothetical protein
+HIKGEFOG_00951	gene	549				
+HIKGEFOG_00951	CDS	549				hypothetical protein
+HIKGEFOG_00952	gene	150				
+HIKGEFOG_00952	CDS	150				hypothetical protein
+HIKGEFOG_00953	gene	2406	btuB_5			
+HIKGEFOG_00953	CDS	2406	btuB_5			Vitamin B12 transporter BtuB
+HIKGEFOG_00954	gene	144				
+HIKGEFOG_00954	CDS	144				hypothetical protein
+HIKGEFOG_00955	gene	576				
+HIKGEFOG_00955	CDS	576				hypothetical protein
+HIKGEFOG_00956	gene	495				
+HIKGEFOG_00956	CDS	495				hypothetical protein
+HIKGEFOG_00957	gene	765				
+HIKGEFOG_00957	CDS	765				hypothetical protein
+HIKGEFOG_00958	gene	843	yfkN			
+HIKGEFOG_00958	CDS	843	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+HIKGEFOG_00959	gene	744				
+HIKGEFOG_00959	CDS	744				hypothetical protein
+HIKGEFOG_00960	gene	168	fdxA			
+HIKGEFOG_00960	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+HIKGEFOG_00961	gene	567				
+HIKGEFOG_00961	CDS	567				hypothetical protein
+HIKGEFOG_00962	gene	711	pyrH			
+HIKGEFOG_00962	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+HIKGEFOG_00963	gene	558				
+HIKGEFOG_00963	CDS	558				hypothetical protein
+HIKGEFOG_00964	gene	783	birA			
+HIKGEFOG_00964	CDS	783	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+HIKGEFOG_00965	gene	453	tadA_2			
+HIKGEFOG_00965	CDS	453	tadA_2	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+HIKGEFOG_00966	gene	846				
+HIKGEFOG_00966	CDS	846				hypothetical protein
+HIKGEFOG_00967	gene	687	rsmI			
+HIKGEFOG_00967	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+HIKGEFOG_00968	gene	1140				
+HIKGEFOG_00968	CDS	1140				hypothetical protein
+HIKGEFOG_00969	gene	1248				
+HIKGEFOG_00969	CDS	1248				hypothetical protein
+HIKGEFOG_00970	gene	438				
+HIKGEFOG_00970	CDS	438				hypothetical protein
+HIKGEFOG_00971	gene	1470	mrdB_1			
+HIKGEFOG_00971	CDS	1470	mrdB_1	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+HIKGEFOG_00972	gene	1851	mrdA			
+HIKGEFOG_00972	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+HIKGEFOG_00973	gene	498				
+HIKGEFOG_00973	CDS	498				hypothetical protein
+HIKGEFOG_00974	gene	867				
+HIKGEFOG_00974	CDS	867				hypothetical protein
+HIKGEFOG_00975	gene	1026	mbl			
+HIKGEFOG_00975	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+HIKGEFOG_00976	gene	600	purH_1			
+HIKGEFOG_00976	CDS	600	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+HIKGEFOG_00977	gene	435	sulD			
+HIKGEFOG_00977	CDS	435	sulD		COG0801	Bifunctional folate synthesis protein
+HIKGEFOG_00978	gene	1119	queA_2			
+HIKGEFOG_00978	CDS	1119	queA_2	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+HIKGEFOG_00979	gene	699	truB			
+HIKGEFOG_00979	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+HIKGEFOG_00980	gene	879	uppP			
+HIKGEFOG_00980	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+HIKGEFOG_00981	gene	249				
+HIKGEFOG_00981	CDS	249				hypothetical protein
+HIKGEFOG_00982	gene	879	ftsX			
+HIKGEFOG_00982	CDS	879	ftsX		COG2177	Cell division protein FtsX
+HIKGEFOG_00983	gene	780				
+HIKGEFOG_00983	CDS	780				hypothetical protein
+HIKGEFOG_00984	gene	618				
+HIKGEFOG_00984	CDS	618				hypothetical protein
+HIKGEFOG_00985	gene	1062	yhcG_2			
+HIKGEFOG_00985	CDS	1062	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+HIKGEFOG_00986	gene	270	rpsO			
+HIKGEFOG_00986	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+HIKGEFOG_00987	gene	2508				
+HIKGEFOG_00987	CDS	2508				hypothetical protein
+HIKGEFOG_00988	gene	696	mtnN			
+HIKGEFOG_00988	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+HIKGEFOG_00989	gene	480	luxS			
+HIKGEFOG_00989	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+HIKGEFOG_00990	gene	1467	dinF			
+HIKGEFOG_00990	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+HIKGEFOG_00991	gene	1851	typA			
+HIKGEFOG_00991	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+HIKGEFOG_00992	gene	435	nudC_1			
+HIKGEFOG_00992	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+HIKGEFOG_00993	gene	852				
+HIKGEFOG_00993	CDS	852				hypothetical protein
+HIKGEFOG_00994	gene	2409				
+HIKGEFOG_00994	CDS	2409		5.1.1.1		Alanine racemase
+HIKGEFOG_00995	gene	282				
+HIKGEFOG_00995	CDS	282				hypothetical protein
+HIKGEFOG_00996	gene	726				
+HIKGEFOG_00996	CDS	726				hypothetical protein
+HIKGEFOG_00997	gene	687	psd			
+HIKGEFOG_00997	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+HIKGEFOG_00998	gene	3711	dnaE			
+HIKGEFOG_00998	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+HIKGEFOG_00999	gene	315	trxA			
+HIKGEFOG_00999	CDS	315	trxA			Thioredoxin 1
+HIKGEFOG_01000	gene	411	tsaE			
+HIKGEFOG_01000	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+HIKGEFOG_01001	gene	1569	cheB			
+HIKGEFOG_01001	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+HIKGEFOG_01002	gene	3366	bamD_2			
+HIKGEFOG_01002	CDS	3366	bamD_2			Outer membrane protein assembly factor BamD
+HIKGEFOG_01003	gene	393				
+HIKGEFOG_01003	CDS	393				hypothetical protein
+HIKGEFOG_01004	gene	1251	aroA			
+HIKGEFOG_01004	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+HIKGEFOG_01005	gene	1167				
+HIKGEFOG_01005	CDS	1167				hypothetical protein
+HIKGEFOG_01006	gene	471				
+HIKGEFOG_01006	CDS	471				hypothetical protein
+HIKGEFOG_01007	gene	99				
+HIKGEFOG_01007	CDS	99				hypothetical protein
+HIKGEFOG_01008	gene	840				
+HIKGEFOG_01008	CDS	840				hypothetical protein
+HIKGEFOG_01009	gene	852				
+HIKGEFOG_01009	CDS	852				hypothetical protein
+HIKGEFOG_01010	gene	74				
+HIKGEFOG_01010	tRNA	74				tRNA-Pro(ggg)
+HIKGEFOG_01011	gene	74				
+HIKGEFOG_01011	tRNA	74				tRNA-Lys(ttt)
+HIKGEFOG_01012	gene	1134				
+HIKGEFOG_01012	CDS	1134				hypothetical protein
+HIKGEFOG_01013	gene	600	tdk			
+HIKGEFOG_01013	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+HIKGEFOG_01014	gene	1866				
+HIKGEFOG_01014	CDS	1866				hypothetical protein
+HIKGEFOG_01015	gene	1209	ribBA			
+HIKGEFOG_01015	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+HIKGEFOG_01016	gene	831	tolQ_2			
+HIKGEFOG_01016	CDS	831	tolQ_2			Tol-Pal system protein TolQ
+HIKGEFOG_01017	gene	675				
+HIKGEFOG_01017	CDS	675				hypothetical protein
+HIKGEFOG_01018	gene	648				
+HIKGEFOG_01018	CDS	648				hypothetical protein
+HIKGEFOG_01019	gene	846				
+HIKGEFOG_01019	CDS	846				hypothetical protein
+HIKGEFOG_01020	gene	963				
+HIKGEFOG_01020	CDS	963				hypothetical protein
+HIKGEFOG_01021	gene	1458				
+HIKGEFOG_01021	CDS	1458				hypothetical protein
+HIKGEFOG_01022	gene	1959				
+HIKGEFOG_01022	CDS	1959				hypothetical protein
+HIKGEFOG_01023	gene	423				
+HIKGEFOG_01023	CDS	423				hypothetical protein
+HIKGEFOG_01024	gene	738				
+HIKGEFOG_01024	CDS	738				hypothetical protein
+HIKGEFOG_01025	gene	213				
+HIKGEFOG_01025	CDS	213				hypothetical protein
+HIKGEFOG_01026	gene	2559				
+HIKGEFOG_01026	CDS	2559				hypothetical protein
+HIKGEFOG_01027	gene	381	folB			
+HIKGEFOG_01027	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+HIKGEFOG_01028	gene	1185				
+HIKGEFOG_01028	CDS	1185				hypothetical protein
+HIKGEFOG_01029	gene	903				
+HIKGEFOG_01029	CDS	903				hypothetical protein
+HIKGEFOG_01030	gene	1410	dnaA			
+HIKGEFOG_01030	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+HIKGEFOG_01031	gene	471				
+HIKGEFOG_01031	CDS	471				hypothetical protein
+HIKGEFOG_01032	gene	420				
+HIKGEFOG_01032	CDS	420				hypothetical protein
+HIKGEFOG_01033	gene	303				
+HIKGEFOG_01033	CDS	303				hypothetical protein
+HIKGEFOG_01034	gene	75				
+HIKGEFOG_01034	tRNA	75				tRNA-Met(cat)
+HIKGEFOG_01035	gene	177				
+HIKGEFOG_01035	CDS	177				hypothetical protein
+HIKGEFOG_01036	gene	3018				
+HIKGEFOG_01036	CDS	3018				TonB-dependent receptor P26
+HIKGEFOG_01037	gene	1494				
+HIKGEFOG_01037	CDS	1494				hypothetical protein
+HIKGEFOG_01038	gene	714				
+HIKGEFOG_01038	CDS	714				hypothetical protein
+HIKGEFOG_01039	gene	519				
+HIKGEFOG_01039	CDS	519				hypothetical protein
+HIKGEFOG_01040	gene	1233				
+HIKGEFOG_01040	CDS	1233				hypothetical protein
+HIKGEFOG_01041	gene	819				
+HIKGEFOG_01041	CDS	819				hypothetical protein
+HIKGEFOG_01042	gene	744				
+HIKGEFOG_01042	CDS	744				hypothetical protein
+HIKGEFOG_01043	gene	2394				
+HIKGEFOG_01043	CDS	2394				hypothetical protein
+HIKGEFOG_01044	gene	1965	btuB_6			
+HIKGEFOG_01044	CDS	1965	btuB_6			Vitamin B12 transporter BtuB
+HIKGEFOG_01045	gene	1242				
+HIKGEFOG_01045	CDS	1242				hypothetical protein
+HIKGEFOG_01046	gene	1554				
+HIKGEFOG_01046	CDS	1554				hypothetical protein
+HIKGEFOG_01047	gene	3873				
+HIKGEFOG_01047	CDS	3873				hypothetical protein
+HIKGEFOG_01048	gene	1461	sasA_2			
+HIKGEFOG_01048	CDS	1461	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+HIKGEFOG_01049	gene	1647	fumA			
+HIKGEFOG_01049	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+HIKGEFOG_01050	gene	2877				
+HIKGEFOG_01050	CDS	2877				hypothetical protein
+HIKGEFOG_01051	gene	1866				
+HIKGEFOG_01051	CDS	1866				hypothetical protein
+HIKGEFOG_01052	gene	1257	hflX			
+HIKGEFOG_01052	CDS	1257	hflX			GTPase HflX
+HIKGEFOG_01053	gene	945	nagB			
+HIKGEFOG_01053	CDS	945	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+HIKGEFOG_01054	gene	147				
+HIKGEFOG_01054	CDS	147				hypothetical protein
+HIKGEFOG_01055	gene	1035				
+HIKGEFOG_01055	CDS	1035				hypothetical protein
+HIKGEFOG_01056	gene	2349				
+HIKGEFOG_01056	CDS	2349				hypothetical protein
+HIKGEFOG_01057	gene	2184	apxIB			
+HIKGEFOG_01057	CDS	2184	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+HIKGEFOG_01058	gene	486				
+HIKGEFOG_01058	CDS	486				hypothetical protein
+HIKGEFOG_01059	gene	135				
+HIKGEFOG_01059	CDS	135				hypothetical protein
+HIKGEFOG_01060	gene	1023				
+HIKGEFOG_01060	CDS	1023				hypothetical protein
+HIKGEFOG_01061	gene	606	rnhB			
+HIKGEFOG_01061	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+HIKGEFOG_01062	gene	291				
+HIKGEFOG_01062	CDS	291				hypothetical protein
+HIKGEFOG_01063	gene	3327				
+HIKGEFOG_01063	CDS	3327				TonB-dependent receptor P26
+HIKGEFOG_01064	gene	1566				
+HIKGEFOG_01064	CDS	1566				hypothetical protein
+HIKGEFOG_01065	gene	936				
+HIKGEFOG_01065	CDS	936				hypothetical protein
+HIKGEFOG_01066	gene	1356				
+HIKGEFOG_01066	CDS	1356				hypothetical protein
+HIKGEFOG_01067	gene	1179				
+HIKGEFOG_01067	CDS	1179				hypothetical protein
+HIKGEFOG_01068	gene	231				
+HIKGEFOG_01068	CDS	231				hypothetical protein
+HIKGEFOG_01069	gene	1680				
+HIKGEFOG_01069	CDS	1680				hypothetical protein
+HIKGEFOG_01070	gene	75				
+HIKGEFOG_01070	tRNA	75				tRNA-Asn(gtt)
+HIKGEFOG_01071	gene	1896				
+HIKGEFOG_01071	CDS	1896				hypothetical protein
+HIKGEFOG_01072	gene	747				
+HIKGEFOG_01072	CDS	747				hypothetical protein
+HIKGEFOG_01073	gene	753				
+HIKGEFOG_01073	CDS	753				hypothetical protein
+HIKGEFOG_01074	gene	393				
+HIKGEFOG_01074	CDS	393				hypothetical protein
+HIKGEFOG_01075	gene	726	mhqN			
+HIKGEFOG_01075	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+HIKGEFOG_01076	gene	1419	aspA			
+HIKGEFOG_01076	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+HIKGEFOG_01077	gene	639				
+HIKGEFOG_01077	CDS	639				hypothetical protein
+HIKGEFOG_01078	gene	786				
+HIKGEFOG_01078	CDS	786				hypothetical protein
+HIKGEFOG_01079	gene	1659				
+HIKGEFOG_01079	CDS	1659				hypothetical protein
+HIKGEFOG_01080	gene	486	resA_4			
+HIKGEFOG_01080	CDS	486	resA_4			Thiol-disulfide oxidoreductase ResA
+HIKGEFOG_01081	gene	693				
+HIKGEFOG_01081	CDS	693				hypothetical protein
+HIKGEFOG_01082	gene	75				
+HIKGEFOG_01082	tRNA	75				tRNA-Met(cat)
+HIKGEFOG_01083	gene	1368				
+HIKGEFOG_01083	CDS	1368				hypothetical protein
+HIKGEFOG_01084	gene	1317				
+HIKGEFOG_01084	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+HIKGEFOG_01085	gene	1218	norV			
+HIKGEFOG_01085	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+HIKGEFOG_01086	gene	1035	ruvB			
+HIKGEFOG_01086	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+HIKGEFOG_01087	gene	1578				
+HIKGEFOG_01087	CDS	1578				hypothetical protein
+HIKGEFOG_01088	gene	411	ybeY			
+HIKGEFOG_01088	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+HIKGEFOG_01089	gene	441	coaD			
+HIKGEFOG_01089	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+HIKGEFOG_01090	gene	1944	gyrB_1			
+HIKGEFOG_01090	CDS	1944	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+HIKGEFOG_01091	gene	1149	yghO			
+HIKGEFOG_01091	CDS	1149	yghO			Protein YghO
+HIKGEFOG_01092	gene	1302				
+HIKGEFOG_01092	CDS	1302				hypothetical protein
+HIKGEFOG_01093	gene	453				
+HIKGEFOG_01093	CDS	453				hypothetical protein
+HIKGEFOG_01094	gene	1128				
+HIKGEFOG_01094	CDS	1128				hypothetical protein
+HIKGEFOG_01095	gene	1050	dusB			
+HIKGEFOG_01095	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+HIKGEFOG_01096	gene	2196				
+HIKGEFOG_01096	CDS	2196				hypothetical protein
+HIKGEFOG_01097	gene	213				
+HIKGEFOG_01097	CDS	213				hypothetical protein
+HIKGEFOG_01098	gene	1518	gpmI			
+HIKGEFOG_01098	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HIKGEFOG_01099	gene	666	ung			
+HIKGEFOG_01099	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+HIKGEFOG_01100	gene	621				
+HIKGEFOG_01100	CDS	621				hypothetical protein
+HIKGEFOG_01101	gene	879				
+HIKGEFOG_01101	CDS	879				hypothetical protein
+HIKGEFOG_01102	gene	1971	gyrB_2			
+HIKGEFOG_01102	CDS	1971	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+HIKGEFOG_01103	gene	135				
+HIKGEFOG_01103	CDS	135				hypothetical protein
+HIKGEFOG_01104	gene	255	rpsT			
+HIKGEFOG_01104	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+HIKGEFOG_01105	gene	75				
+HIKGEFOG_01105	tRNA	75				tRNA-Glu(ttc)
+HIKGEFOG_01106	gene	726	recO			
+HIKGEFOG_01106	CDS	726	recO		COG1381	DNA repair protein RecO
+HIKGEFOG_01107	gene	273				
+HIKGEFOG_01107	CDS	273				hypothetical protein
+HIKGEFOG_01108	gene	1122				
+HIKGEFOG_01108	CDS	1122				hypothetical protein
+HIKGEFOG_01109	gene	447	yqeY			
+HIKGEFOG_01109	CDS	447	yqeY		COG1610	putative protein YqeY
+HIKGEFOG_01110	gene	1320	ftsZ			
+HIKGEFOG_01110	CDS	1320	ftsZ			Cell division protein FtsZ
+HIKGEFOG_01111	gene	1461	ftsA			
+HIKGEFOG_01111	CDS	1461	ftsA			Cell division protein FtsA
+HIKGEFOG_01112	gene	1002				
+HIKGEFOG_01112	CDS	1002				hypothetical protein
+HIKGEFOG_01113	gene	1401	murC			
+HIKGEFOG_01113	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+HIKGEFOG_01114	gene	1116	murG			
+HIKGEFOG_01114	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+HIKGEFOG_01115	gene	1287	mrdB_2			
+HIKGEFOG_01115	CDS	1287	mrdB_2	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+HIKGEFOG_01116	gene	1344	murD			
+HIKGEFOG_01116	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+HIKGEFOG_01117	gene	1272	mraY			
+HIKGEFOG_01117	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+HIKGEFOG_01118	gene	1452	murE			
+HIKGEFOG_01118	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+HIKGEFOG_01119	gene	2148	pbpB			
+HIKGEFOG_01119	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+HIKGEFOG_01120	gene	624				
+HIKGEFOG_01120	CDS	624				hypothetical protein
+HIKGEFOG_01121	gene	1032	rsmH			
+HIKGEFOG_01121	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+HIKGEFOG_01122	gene	465	mraZ			
+HIKGEFOG_01122	CDS	465	mraZ			Transcriptional regulator MraZ
+HIKGEFOG_01123	gene	828				
+HIKGEFOG_01123	CDS	828				hypothetical protein
+HIKGEFOG_01124	gene	1017				
+HIKGEFOG_01124	CDS	1017				hypothetical protein
+HIKGEFOG_01125	gene	477				
+HIKGEFOG_01125	CDS	477				hypothetical protein
+HIKGEFOG_01126	gene	420				
+HIKGEFOG_01126	CDS	420				hypothetical protein
+HIKGEFOG_01127	gene	261				
+HIKGEFOG_01127	CDS	261				hypothetical protein
+HIKGEFOG_01128	gene	279				
+HIKGEFOG_01128	CDS	279				hypothetical protein
+HIKGEFOG_01129	gene	1527	dgt			
+HIKGEFOG_01129	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+HIKGEFOG_01130	gene	438	dut			
+HIKGEFOG_01130	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+HIKGEFOG_01131	gene	1779	bepA_4			
+HIKGEFOG_01131	CDS	1779	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+HIKGEFOG_01132	gene	888				
+HIKGEFOG_01132	CDS	888				hypothetical protein
+HIKGEFOG_01133	gene	1650				
+HIKGEFOG_01133	CDS	1650				hypothetical protein
+HIKGEFOG_01134	gene	2517				
+HIKGEFOG_01134	CDS	2517				hypothetical protein
+HIKGEFOG_01135	gene	102				
+HIKGEFOG_01135	CDS	102				hypothetical protein
+HIKGEFOG_01136	gene	840				
+HIKGEFOG_01136	CDS	840				hypothetical protein
+HIKGEFOG_01137	gene	408				
+HIKGEFOG_01137	CDS	408				hypothetical protein
+HIKGEFOG_01138	gene	276				
+HIKGEFOG_01138	CDS	276				hypothetical protein
+HIKGEFOG_01139	gene	107				
+HIKGEFOG_01139	rRNA	107				5S ribosomal RNA
+HIKGEFOG_01140	gene	1944	rlhA			
+HIKGEFOG_01140	CDS	1944	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+HIKGEFOG_01141	gene	1017				
+HIKGEFOG_01141	CDS	1017				hypothetical protein
+HIKGEFOG_01142	gene	2409	btuB_7			
+HIKGEFOG_01142	CDS	2409	btuB_7			Vitamin B12 transporter BtuB
+HIKGEFOG_01143	gene	2217				
+HIKGEFOG_01143	CDS	2217				hypothetical protein
+HIKGEFOG_01144	gene	1578	glcA			
+HIKGEFOG_01144	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+HIKGEFOG_01145	gene	1134	hemW			
+HIKGEFOG_01145	CDS	1134	hemW		COG0635	Heme chaperone HemW
+HIKGEFOG_01146	gene	2160	fusA_1			
+HIKGEFOG_01146	CDS	2160	fusA_1		COG0480	Elongation factor G
+HIKGEFOG_01147	gene	690				
+HIKGEFOG_01147	CDS	690				hypothetical protein
+HIKGEFOG_01148	gene	1548	sasA_3			
+HIKGEFOG_01148	CDS	1548	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+HIKGEFOG_01149	gene	699	copR			
+HIKGEFOG_01149	CDS	699	copR			Transcriptional activator protein CopR
+HIKGEFOG_01150	gene	345				
+HIKGEFOG_01150	CDS	345				hypothetical protein
+HIKGEFOG_01151	gene	270				
+HIKGEFOG_01151	CDS	270				hypothetical protein
+HIKGEFOG_01152	gene	561				
+HIKGEFOG_01152	CDS	561				hypothetical protein
+HIKGEFOG_01153	gene	1593	nadB			
+HIKGEFOG_01153	CDS	1593	nadB	1.4.3.16	COG0029	L-aspartate oxidase
+HIKGEFOG_01154	gene	1713				
+HIKGEFOG_01154	CDS	1713				hypothetical protein
+HIKGEFOG_01155	gene	2007	hutU			
+HIKGEFOG_01155	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+HIKGEFOG_01156	gene	1476	hutH			
+HIKGEFOG_01156	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+HIKGEFOG_01157	gene	1251	hutI			
+HIKGEFOG_01157	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+HIKGEFOG_01158	gene	339				
+HIKGEFOG_01158	CDS	339				hypothetical protein
+HIKGEFOG_01159	gene	966	queG			
+HIKGEFOG_01159	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+HIKGEFOG_01160	gene	552				
+HIKGEFOG_01160	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+HIKGEFOG_01161	gene	3336				
+HIKGEFOG_01161	CDS	3336				hypothetical protein
+HIKGEFOG_01162	gene	408	yqaA			
+HIKGEFOG_01162	CDS	408	yqaA		COG1238	Inner membrane protein YqaA
+HIKGEFOG_01163	gene	951				
+HIKGEFOG_01163	CDS	951				hypothetical protein
+HIKGEFOG_01164	gene	1389	purD			
+HIKGEFOG_01164	CDS	1389	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+HIKGEFOG_01165	gene	138				
+HIKGEFOG_01165	CDS	138				hypothetical protein
+HIKGEFOG_01166	gene	2901	rexB			
+HIKGEFOG_01166	CDS	2901	rexB	3.6.4.12		ATP-dependent helicase/deoxyribonuclease subunit B
+HIKGEFOG_01167	gene	3246	recB			
+HIKGEFOG_01167	CDS	3246	recB	3.1.11.5		RecBCD enzyme subunit RecB
+HIKGEFOG_01168	gene	1620				
+HIKGEFOG_01168	CDS	1620				hypothetical protein
+HIKGEFOG_01169	gene	2169	dpp5			
+HIKGEFOG_01169	CDS	2169	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+HIKGEFOG_01170	gene	1902	yidC			
+HIKGEFOG_01170	CDS	1902	yidC			Membrane protein insertase YidC
+HIKGEFOG_01171	gene	1245				
+HIKGEFOG_01171	CDS	1245				hypothetical protein
+HIKGEFOG_01172	gene	384				
+HIKGEFOG_01172	CDS	384				hypothetical protein
+HIKGEFOG_01173	gene	99				
+HIKGEFOG_01173	CDS	99				hypothetical protein
+HIKGEFOG_01174	gene	1761	aspS			
+HIKGEFOG_01174	CDS	1761	aspS	6.1.1.12		Aspartate--tRNA ligase
+HIKGEFOG_01175	gene	303				
+HIKGEFOG_01175	CDS	303				hypothetical protein
+HIKGEFOG_01176	gene	333				
+HIKGEFOG_01176	CDS	333				hypothetical protein
+HIKGEFOG_01177	gene	819	menB			
+HIKGEFOG_01177	CDS	819	menB	4.1.3.36	COG0447	1,4-dihydroxy-2-naphthoyl-CoA synthase
+HIKGEFOG_01178	gene	1047	menC			
+HIKGEFOG_01178	CDS	1047	menC	4.2.1.113		o-succinylbenzoate synthase
+HIKGEFOG_01179	gene	375				
+HIKGEFOG_01179	CDS	375				hypothetical protein
+HIKGEFOG_01180	gene	792	rlmB_1			
+HIKGEFOG_01180	CDS	792	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+HIKGEFOG_01181	gene	801	rlmB_2			
+HIKGEFOG_01181	CDS	801	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+HIKGEFOG_01182	gene	630				
+HIKGEFOG_01182	CDS	630				hypothetical protein
+HIKGEFOG_01183	gene	372	flK			
+HIKGEFOG_01183	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+HIKGEFOG_01184	gene	1866	icmF			
+HIKGEFOG_01184	CDS	1866	icmF	5.4.99.13		Fused isobutyryl-CoA mutase
+HIKGEFOG_01185	gene	2166	mutB			
+HIKGEFOG_01185	CDS	2166	mutB	5.4.99.2	COG1884	Methylmalonyl-CoA mutase large subunit
+HIKGEFOG_01186	gene	549				
+HIKGEFOG_01186	CDS	549				hypothetical protein
+HIKGEFOG_01187	gene	1473				
+HIKGEFOG_01187	CDS	1473				hypothetical protein
+HIKGEFOG_01188	gene	477	cdd			
+HIKGEFOG_01188	CDS	477	cdd	3.5.4.5	COG0295	Cytidine deaminase
+HIKGEFOG_01189	gene	522				
+HIKGEFOG_01189	CDS	522				hypothetical protein
+HIKGEFOG_01190	gene	1059				
+HIKGEFOG_01190	CDS	1059				hypothetical protein
+HIKGEFOG_01191	gene	546	rfbC			
+HIKGEFOG_01191	CDS	546	rfbC	5.1.3.13	COG1898	dTDP-4-dehydrorhamnose 3,5-epimerase
+HIKGEFOG_01192	gene	819				
+HIKGEFOG_01192	CDS	819				hypothetical protein
+HIKGEFOG_01193	gene	798	ispE			
+HIKGEFOG_01193	CDS	798	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+HIKGEFOG_01194	gene	1506	dnaC			
+HIKGEFOG_01194	CDS	1506	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+HIKGEFOG_01195	gene	732	truA			
+HIKGEFOG_01195	CDS	732	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+HIKGEFOG_01196	gene	2229	relA_1			
+HIKGEFOG_01196	CDS	2229	relA_1	2.7.6.5		GTP pyrophosphokinase
+HIKGEFOG_01197	gene	1524				
+HIKGEFOG_01197	CDS	1524				hypothetical protein
+HIKGEFOG_01198	gene	102				
+HIKGEFOG_01198	CDS	102				hypothetical protein
+HIKGEFOG_01199	gene	1749	pgcA			
+HIKGEFOG_01199	CDS	1749	pgcA	5.4.2.2		Phosphoglucomutase
+HIKGEFOG_01200	gene	399				
+HIKGEFOG_01200	CDS	399				hypothetical protein
+HIKGEFOG_01201	gene	471	rlmH			
+HIKGEFOG_01201	CDS	471	rlmH	2.1.1.177	COG1576	Ribosomal RNA large subunit methyltransferase H
+HIKGEFOG_01202	gene	2205	dap4			
+HIKGEFOG_01202	CDS	2205	dap4	3.4.14.5		Dipeptidyl aminopeptidase 4
+HIKGEFOG_01203	gene	918				
+HIKGEFOG_01203	CDS	918				hypothetical protein
+HIKGEFOG_01204	gene	816				
+HIKGEFOG_01204	CDS	816				hypothetical protein
+HIKGEFOG_01205	gene	2274				
+HIKGEFOG_01205	CDS	2274				hypothetical protein
+HIKGEFOG_01206	gene	1350				
+HIKGEFOG_01206	CDS	1350				hypothetical protein
+HIKGEFOG_01207	gene	1728	recF_2			
+HIKGEFOG_01207	CDS	1728	recF_2			DNA replication and repair protein RecF
+HIKGEFOG_01208	gene	828				
+HIKGEFOG_01208	CDS	828				hypothetical protein
+HIKGEFOG_01209	gene	1443	tuaB_2			
+HIKGEFOG_01209	CDS	1443	tuaB_2		COG2244	Teichuronic acid biosynthesis protein TuaB
+HIKGEFOG_01210	gene	1440				
+HIKGEFOG_01210	CDS	1440				hypothetical protein
+HIKGEFOG_01211	gene	594				
+HIKGEFOG_01211	CDS	594				hypothetical protein
+HIKGEFOG_01212	gene	879				
+HIKGEFOG_01212	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+HIKGEFOG_01213	gene	609				
+HIKGEFOG_01213	CDS	609				hypothetical protein
+HIKGEFOG_01214	gene	567	yajL			
+HIKGEFOG_01214	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+HIKGEFOG_01215	gene	900	nadK			
+HIKGEFOG_01215	CDS	900	nadK	2.7.1.23	COG0061	NAD kinase
+HIKGEFOG_01216	gene	1683				
+HIKGEFOG_01216	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+HIKGEFOG_01217	gene	1071				
+HIKGEFOG_01217	CDS	1071				hypothetical protein
+HIKGEFOG_01218	gene	1857	eptC_2			
+HIKGEFOG_01218	CDS	1857	eptC_2	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+HIKGEFOG_01219	gene	804				
+HIKGEFOG_01219	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+HIKGEFOG_01220	gene	1356	mshA_3			
+HIKGEFOG_01220	CDS	1356	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+HIKGEFOG_01221	gene	330				
+HIKGEFOG_01221	CDS	330				hypothetical protein
+HIKGEFOG_01222	gene	603				
+HIKGEFOG_01222	CDS	603				hypothetical protein
+HIKGEFOG_01223	gene	705				
+HIKGEFOG_01223	CDS	705				hypothetical protein
+HIKGEFOG_01224	gene	4299				
+HIKGEFOG_01224	CDS	4299				hypothetical protein
+HIKGEFOG_01225	gene	2229	btuB_8			
+HIKGEFOG_01225	CDS	2229	btuB_8			Vitamin B12 transporter BtuB
+HIKGEFOG_01226	gene	765				
+HIKGEFOG_01226	CDS	765				hypothetical protein
+HIKGEFOG_01227	gene	477	ispF			
+HIKGEFOG_01227	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+HIKGEFOG_01228	gene	1146				
+HIKGEFOG_01228	CDS	1146				hypothetical protein
+HIKGEFOG_01229	gene	96				
+HIKGEFOG_01229	CDS	96				hypothetical protein
+HIKGEFOG_01230	gene	3567				
+HIKGEFOG_01230	CDS	3567				hypothetical protein
+HIKGEFOG_01231	gene	618	ycgM			
+HIKGEFOG_01231	CDS	618	ycgM		COG0179	putative protein YcgM
+HIKGEFOG_01232	gene	999	TSFM			
+HIKGEFOG_01232	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+HIKGEFOG_01233	gene	870	rpsB			
+HIKGEFOG_01233	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+HIKGEFOG_01234	gene	387	rpsI			
+HIKGEFOG_01234	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+HIKGEFOG_01235	gene	462	rplM			
+HIKGEFOG_01235	CDS	462	rplM		COG0102	50S ribosomal protein L13
+HIKGEFOG_01236	gene	1788				
+HIKGEFOG_01236	CDS	1788				hypothetical protein
+HIKGEFOG_01237	gene	1359				
+HIKGEFOG_01237	CDS	1359				hypothetical protein
+HIKGEFOG_01238	gene	1341				
+HIKGEFOG_01238	CDS	1341				hypothetical protein
+HIKGEFOG_01239	gene	1077				
+HIKGEFOG_01239	CDS	1077				hypothetical protein
+HIKGEFOG_01240	gene	717				
+HIKGEFOG_01240	CDS	717				hypothetical protein
+HIKGEFOG_01241	gene	633	nadD			
+HIKGEFOG_01241	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+HIKGEFOG_01242	gene	576	gmk			
+HIKGEFOG_01242	CDS	576	gmk	2.7.4.8	COG0194	Guanylate kinase
+HIKGEFOG_01243	gene	1149				
+HIKGEFOG_01243	CDS	1149				hypothetical protein
+HIKGEFOG_01244	gene	879				
+HIKGEFOG_01244	CDS	879				hypothetical protein
+HIKGEFOG_01245	gene	690				
+HIKGEFOG_01245	CDS	690				hypothetical protein
+HIKGEFOG_01246	gene	612				
+HIKGEFOG_01246	CDS	612				hypothetical protein
+HIKGEFOG_01247	gene	1347	murA			
+HIKGEFOG_01247	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+HIKGEFOG_01248	gene	522	rimM			
+HIKGEFOG_01248	CDS	522	rimM			Ribosome maturation factor RimM
+HIKGEFOG_01249	gene	1155	dxr			
+HIKGEFOG_01249	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+HIKGEFOG_01250	gene	1410				
+HIKGEFOG_01250	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+HIKGEFOG_01251	gene	3351				
+HIKGEFOG_01251	CDS	3351				hypothetical protein
+HIKGEFOG_01252	gene	1851				
+HIKGEFOG_01252	CDS	1851				hypothetical protein
+HIKGEFOG_01253	gene	1686				
+HIKGEFOG_01253	CDS	1686				hypothetical protein
+HIKGEFOG_01254	gene	843				
+HIKGEFOG_01254	CDS	843				hypothetical protein
+HIKGEFOG_01255	gene	798				
+HIKGEFOG_01255	CDS	798				hypothetical protein
+HIKGEFOG_01256	gene	165				
+HIKGEFOG_01256	CDS	165				hypothetical protein
+HIKGEFOG_01257	gene	468				
+HIKGEFOG_01257	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+HIKGEFOG_01258	gene	2340				
+HIKGEFOG_01258	CDS	2340				hypothetical protein
+HIKGEFOG_01259	gene	786				
+HIKGEFOG_01259	CDS	786				hypothetical protein
+HIKGEFOG_01260	gene	1545	comM			
+HIKGEFOG_01260	CDS	1545	comM		COG0606	Competence protein ComM
+HIKGEFOG_01261	gene	1233				
+HIKGEFOG_01261	CDS	1233			COG2081	putative protein
+HIKGEFOG_01262	gene	2166	ptpA			
+HIKGEFOG_01262	CDS	2166	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+HIKGEFOG_01263	gene	1638	rlmL			
+HIKGEFOG_01263	CDS	1638	rlmL	2.1.1.264		Ribosomal RNA large subunit methyltransferase K/L
+HIKGEFOG_01264	gene	117				
+HIKGEFOG_01264	CDS	117				hypothetical protein
+HIKGEFOG_01265	gene	717				
+HIKGEFOG_01265	CDS	717				hypothetical protein
+HIKGEFOG_01266	gene	813				
+HIKGEFOG_01266	CDS	813				hypothetical protein
+HIKGEFOG_01267	gene	933				
+HIKGEFOG_01267	CDS	933				hypothetical protein
+HIKGEFOG_01268	gene	705	gph_2			
+HIKGEFOG_01268	CDS	705	gph_2	3.1.3.18		Phosphoglycolate phosphatase
+HIKGEFOG_01269	gene	2583				
+HIKGEFOG_01269	CDS	2583				hypothetical protein
+HIKGEFOG_01270	gene	432				
+HIKGEFOG_01270	CDS	432				hypothetical protein
+HIKGEFOG_01271	gene	1641				
+HIKGEFOG_01271	CDS	1641				hypothetical protein
+HIKGEFOG_01272	gene	2565	glgP			
+HIKGEFOG_01272	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+HIKGEFOG_01273	gene	936				
+HIKGEFOG_01273	CDS	936				hypothetical protein
+HIKGEFOG_01274	gene	1251	pgk			
+HIKGEFOG_01274	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+HIKGEFOG_01275	gene	663	queC			
+HIKGEFOG_01275	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+HIKGEFOG_01276	gene	879				
+HIKGEFOG_01276	CDS	879				hypothetical protein
+HIKGEFOG_01277	gene	2403	feoB			
+HIKGEFOG_01277	CDS	2403	feoB		COG0370	Fe(2+) transporter FeoB
+HIKGEFOG_01278	gene	756	kdsB			
+HIKGEFOG_01278	CDS	756	kdsB	2.7.7.90	COG1212	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+HIKGEFOG_01279	gene	1104				
+HIKGEFOG_01279	CDS	1104				hypothetical protein
+HIKGEFOG_01280	gene	2037	glgB_1			
+HIKGEFOG_01280	CDS	2037	glgB_1	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+HIKGEFOG_01281	gene	1152				
+HIKGEFOG_01281	CDS	1152				hypothetical protein
+HIKGEFOG_01282	gene	687				
+HIKGEFOG_01282	CDS	687				hypothetical protein
+HIKGEFOG_01283	gene	468				
+HIKGEFOG_01283	CDS	468				hypothetical protein
+HIKGEFOG_01284	gene	111				
+HIKGEFOG_01284	CDS	111				hypothetical protein
+HIKGEFOG_01285	gene	558	ruvC			
+HIKGEFOG_01285	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+HIKGEFOG_01286	gene	645				
+HIKGEFOG_01286	CDS	645		3.-.-.-		putative protein
+HIKGEFOG_01287	gene	624	rsmG			
+HIKGEFOG_01287	CDS	624	rsmG	2.1.1.-	COG0357	Ribosomal RNA small subunit methyltransferase G
+HIKGEFOG_01288	gene	834				
+HIKGEFOG_01288	CDS	834				hypothetical protein
+HIKGEFOG_01289	gene	666	vldH			
+HIKGEFOG_01289	CDS	666	vldH	3.1.3.101		Validoxylamine A 7'-phosphate phosphatase
+HIKGEFOG_01290	gene	822	panB			
+HIKGEFOG_01290	CDS	822	panB	2.1.2.11	COG0413	3-methyl-2-oxobutanoate hydroxymethyltransferase
+HIKGEFOG_01291	gene	1194				
+HIKGEFOG_01291	CDS	1194				hypothetical protein
+HIKGEFOG_01292	gene	4482				
+HIKGEFOG_01292	CDS	4482				hypothetical protein
+HIKGEFOG_01293	gene	1350	nqrA			
+HIKGEFOG_01293	CDS	1350	nqrA	7.2.1.1	COG1726	Na(+)-translocating NADH-quinone reductase subunit A
+HIKGEFOG_01294	gene	1152	nqrB			
+HIKGEFOG_01294	CDS	1152	nqrB	7.2.1.1	COG1805	Na(+)-translocating NADH-quinone reductase subunit B
+HIKGEFOG_01295	gene	615	nqrC			
+HIKGEFOG_01295	CDS	615	nqrC	7.2.1.1	COG2869	Na(+)-translocating NADH-quinone reductase subunit C
+HIKGEFOG_01296	gene	627	nqrD			
+HIKGEFOG_01296	CDS	627	nqrD	7.2.1.1	COG1347	Na(+)-translocating NADH-quinone reductase subunit D
+HIKGEFOG_01297	gene	627	nqrE			
+HIKGEFOG_01297	CDS	627	nqrE	7.2.1.1	COG2209	Na(+)-translocating NADH-quinone reductase subunit E
+HIKGEFOG_01298	gene	1269	nqrF			
+HIKGEFOG_01298	CDS	1269	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+HIKGEFOG_01299	gene	1563				
+HIKGEFOG_01299	CDS	1563				hypothetical protein
+HIKGEFOG_01300	gene	2499	clpC			
+HIKGEFOG_01300	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+HIKGEFOG_01301	gene	723				
+HIKGEFOG_01301	CDS	723				hypothetical protein
+HIKGEFOG_01302	gene	891	dapA			
+HIKGEFOG_01302	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+HIKGEFOG_01303	gene	1431	purF			
+HIKGEFOG_01303	CDS	1431	purF	2.4.2.14	COG0034	Amidophosphoribosyltransferase
+HIKGEFOG_01304	gene	1539				
+HIKGEFOG_01304	CDS	1539				hypothetical protein
+HIKGEFOG_01305	gene	426				
+HIKGEFOG_01305	CDS	426		3.1.2.-	COG2050	Putative esterase
+HIKGEFOG_01306	gene	1110	menF_2			
+HIKGEFOG_01306	CDS	1110	menF_2	5.4.4.2		Isochorismate synthase MenF
+HIKGEFOG_01307	gene	1602	menD			
+HIKGEFOG_01307	CDS	1602	menD	2.2.1.9	COG1165	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+HIKGEFOG_01308	gene	582				
+HIKGEFOG_01308	CDS	582				hypothetical protein
+HIKGEFOG_01309	gene	1269				
+HIKGEFOG_01309	CDS	1269				hypothetical protein
+HIKGEFOG_01310	gene	399				
+HIKGEFOG_01310	CDS	399				hypothetical protein
+HIKGEFOG_01311	gene	1320	dbpA			
+HIKGEFOG_01311	CDS	1320	dbpA	3.6.4.13	COG0513	ATP-dependent RNA helicase DbpA
+HIKGEFOG_01312	gene	1068	serC			
+HIKGEFOG_01312	CDS	1068	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+HIKGEFOG_01313	gene	918				
+HIKGEFOG_01313	CDS	918		1.1.1.81	COG0111	Hydroxypyruvate reductase
+HIKGEFOG_01314	gene	1248				
+HIKGEFOG_01314	CDS	1248				hypothetical protein
+HIKGEFOG_01315	gene	585	yigZ			
+HIKGEFOG_01315	CDS	585	yigZ		COG1739	IMPACT family member YigZ
+HIKGEFOG_01316	gene	88				
+HIKGEFOG_01316	tRNA	88				tRNA-Ser(cga)
+HIKGEFOG_01317	gene	86				
+HIKGEFOG_01317	tRNA	86				tRNA-Ser(tga)
+HIKGEFOG_01318	gene	2610	mutS2			
+HIKGEFOG_01318	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+HIKGEFOG_01319	gene	441				
+HIKGEFOG_01319	CDS	441				hypothetical protein
+HIKGEFOG_01320	gene	366				
+HIKGEFOG_01320	CDS	366				hypothetical protein
+HIKGEFOG_01321	gene	561	sigW			
+HIKGEFOG_01321	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+HIKGEFOG_01322	gene	1536				
+HIKGEFOG_01322	CDS	1536				hypothetical protein
+HIKGEFOG_01323	gene	366				
+HIKGEFOG_01323	CDS	366				hypothetical protein
+HIKGEFOG_01324	gene	915	rnz			
+HIKGEFOG_01324	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+HIKGEFOG_01325	gene	564				
+HIKGEFOG_01325	CDS	564				hypothetical protein
+HIKGEFOG_01326	gene	828	mazG			
+HIKGEFOG_01326	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+HIKGEFOG_01327	gene	2739	valS			
+HIKGEFOG_01327	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+HIKGEFOG_01328	gene	1188				
+HIKGEFOG_01328	CDS	1188				hypothetical protein
+HIKGEFOG_01329	gene	74				
+HIKGEFOG_01329	tRNA	74				tRNA-Pro(tgg)
+HIKGEFOG_01330	gene	267				
+HIKGEFOG_01330	CDS	267				hypothetical protein
+HIKGEFOG_01331	gene	159				
+HIKGEFOG_01331	CDS	159				hypothetical protein
+HIKGEFOG_01332	gene	756	kdsA_2			
+HIKGEFOG_01332	CDS	756	kdsA_2	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+HIKGEFOG_01333	gene	975	kdsD			
+HIKGEFOG_01333	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+HIKGEFOG_01334	gene	1227	cls			
+HIKGEFOG_01334	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+HIKGEFOG_01335	gene	2196				
+HIKGEFOG_01335	CDS	2196				hypothetical protein
+HIKGEFOG_01336	gene	912				
+HIKGEFOG_01336	CDS	912				hypothetical protein
+HIKGEFOG_01337	gene	1437	radA			
+HIKGEFOG_01337	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+HIKGEFOG_01338	gene	1932				
+HIKGEFOG_01338	CDS	1932				hypothetical protein
+HIKGEFOG_01339	gene	483				
+HIKGEFOG_01339	CDS	483				hypothetical protein
+HIKGEFOG_01340	gene	1518	dtpA			
+HIKGEFOG_01340	CDS	1518	dtpA		COG3104	Dipeptide and tripeptide permease A
+HIKGEFOG_01341	gene	753				
+HIKGEFOG_01341	CDS	753				hypothetical protein
+HIKGEFOG_01342	gene	1356				
+HIKGEFOG_01342	CDS	1356				hypothetical protein
+HIKGEFOG_01343	gene	720				
+HIKGEFOG_01343	CDS	720				hypothetical protein
+HIKGEFOG_01344	gene	2868	uvrA_1			
+HIKGEFOG_01344	CDS	2868	uvrA_1		COG0178	UvrABC system protein A
+HIKGEFOG_01345	gene	1041	galE			
+HIKGEFOG_01345	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+HIKGEFOG_01346	gene	603	rnfA			
+HIKGEFOG_01346	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+HIKGEFOG_01347	gene	591	rnfE			
+HIKGEFOG_01347	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+HIKGEFOG_01348	gene	672	rsxG			
+HIKGEFOG_01348	CDS	672	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+HIKGEFOG_01349	gene	1035	rnfD			
+HIKGEFOG_01349	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+HIKGEFOG_01350	gene	1353	rnfC			
+HIKGEFOG_01350	CDS	1353	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+HIKGEFOG_01351	gene	903	rnfB			
+HIKGEFOG_01351	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+HIKGEFOG_01352	gene	456				
+HIKGEFOG_01352	CDS	456				hypothetical protein
+HIKGEFOG_01353	gene	444				
+HIKGEFOG_01353	CDS	444				hypothetical protein
+HIKGEFOG_01354	gene	1488				
+HIKGEFOG_01354	CDS	1488				hypothetical protein
+HIKGEFOG_01355	gene	73				
+HIKGEFOG_01355	tRNA	73				tRNA-Glu(ctc)
+HIKGEFOG_01356	gene	88				
+HIKGEFOG_01356	tRNA	88				tRNA-Ser(gct)
+HIKGEFOG_01357	gene	1356	pgi			
+HIKGEFOG_01357	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+HIKGEFOG_01358	gene	705	hxpA			
+HIKGEFOG_01358	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+HIKGEFOG_01359	gene	114				
+HIKGEFOG_01359	CDS	114				hypothetical protein
+HIKGEFOG_01360	gene	1077	mnmA			
+HIKGEFOG_01360	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+HIKGEFOG_01361	gene	1464				
+HIKGEFOG_01361	CDS	1464				hypothetical protein
+HIKGEFOG_01362	gene	645	yfiC			
+HIKGEFOG_01362	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+HIKGEFOG_01363	gene	2424	lon1			
+HIKGEFOG_01363	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+HIKGEFOG_01364	gene	1128	tgt			
+HIKGEFOG_01364	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+HIKGEFOG_01365	gene	1164				
+HIKGEFOG_01365	CDS	1164				hypothetical protein
+HIKGEFOG_01366	gene	1296	deaD_3			
+HIKGEFOG_01366	CDS	1296	deaD_3	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+HIKGEFOG_01367	gene	708	btuD_2			
+HIKGEFOG_01367	CDS	708	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+HIKGEFOG_01368	gene	1320	lysC			
+HIKGEFOG_01368	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+HIKGEFOG_01369	gene	1125				
+HIKGEFOG_01369	CDS	1125				hypothetical protein
+HIKGEFOG_01370	gene	1977	fbp			
+HIKGEFOG_01370	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+HIKGEFOG_01371	gene	2364				
+HIKGEFOG_01371	CDS	2364				hypothetical protein
+HIKGEFOG_01372	gene	405	epi			
+HIKGEFOG_01372	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+HIKGEFOG_01373	gene	1554	pccB			
+HIKGEFOG_01373	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+HIKGEFOG_01374	gene	159				
+HIKGEFOG_01374	CDS	159				hypothetical protein
+HIKGEFOG_01375	gene	432	accB			
+HIKGEFOG_01375	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+HIKGEFOG_01376	gene	345	panD			
+HIKGEFOG_01376	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+HIKGEFOG_01377	gene	858	panC			
+HIKGEFOG_01377	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+HIKGEFOG_01378	gene	813	glgA			
+HIKGEFOG_01378	CDS	813	glgA	2.4.1.21		Glycogen synthase
+HIKGEFOG_01379	gene	1488				
+HIKGEFOG_01379	CDS	1488				hypothetical protein
+HIKGEFOG_01380	gene	1629	rhaS_2			
+HIKGEFOG_01380	CDS	1629	rhaS_2			HTH-type transcriptional activator RhaS
+HIKGEFOG_01381	gene	3075				
+HIKGEFOG_01381	CDS	3075				TonB-dependent receptor P3
+HIKGEFOG_01382	gene	1713				
+HIKGEFOG_01382	CDS	1713				SusD-like protein
+HIKGEFOG_01383	gene	1185				
+HIKGEFOG_01383	CDS	1185				hypothetical protein
+HIKGEFOG_01384	gene	2343				
+HIKGEFOG_01384	CDS	2343				hypothetical protein
+HIKGEFOG_01385	gene	624				
+HIKGEFOG_01385	CDS	624				hypothetical protein
+HIKGEFOG_01386	gene	1674				
+HIKGEFOG_01386	CDS	1674				hypothetical protein
+HIKGEFOG_01387	gene	1161				
+HIKGEFOG_01387	CDS	1161				hypothetical protein
+HIKGEFOG_01388	gene	885	pfkB			
+HIKGEFOG_01388	CDS	885	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+HIKGEFOG_01389	gene	1191				
+HIKGEFOG_01389	CDS	1191				hypothetical protein
+HIKGEFOG_01390	gene	192				
+HIKGEFOG_01390	CDS	192				hypothetical protein
+HIKGEFOG_01391	gene	3567				
+HIKGEFOG_01391	CDS	3567				hypothetical protein
+HIKGEFOG_01392	gene	180				
+HIKGEFOG_01392	CDS	180				hypothetical protein
+HIKGEFOG_01393	gene	1002				
+HIKGEFOG_01393	CDS	1002				hypothetical protein
+HIKGEFOG_01394	gene	1323				
+HIKGEFOG_01394	CDS	1323				hypothetical protein
+HIKGEFOG_01395	gene	198				
+HIKGEFOG_01395	CDS	198				hypothetical protein
+HIKGEFOG_01396	gene	2016				
+HIKGEFOG_01396	CDS	2016				hypothetical protein
+HIKGEFOG_01397	gene	741				
+HIKGEFOG_01397	CDS	741				hypothetical protein
+HIKGEFOG_01398	gene	1686				
+HIKGEFOG_01398	CDS	1686				hypothetical protein
+HIKGEFOG_01399	gene	678	walR			
+HIKGEFOG_01399	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+HIKGEFOG_01400	gene	768				
+HIKGEFOG_01400	CDS	768				hypothetical protein
+HIKGEFOG_01401	gene	1098	apbC			
+HIKGEFOG_01401	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+HIKGEFOG_01402	gene	2082	dxs			
+HIKGEFOG_01402	CDS	2082	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+HIKGEFOG_01403	gene	1353	trkA			
+HIKGEFOG_01403	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+HIKGEFOG_01404	gene	1458	trkH			
+HIKGEFOG_01404	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+HIKGEFOG_01405	gene	963	manA			
+HIKGEFOG_01405	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+HIKGEFOG_01406	gene	1143	cydB			
+HIKGEFOG_01406	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+HIKGEFOG_01407	gene	1566	cydA			
+HIKGEFOG_01407	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+HIKGEFOG_01408	gene	216				
+HIKGEFOG_01408	CDS	216				hypothetical protein
+HIKGEFOG_01409	gene	873				
+HIKGEFOG_01409	CDS	873				hypothetical protein
+HIKGEFOG_01410	gene	1482				
+HIKGEFOG_01410	CDS	1482				hypothetical protein
+HIKGEFOG_01411	gene	987	emrA			
+HIKGEFOG_01411	CDS	987	emrA			Colistin resistance protein EmrA
+HIKGEFOG_01412	gene	1182				
+HIKGEFOG_01412	CDS	1182				hypothetical protein
+HIKGEFOG_01413	gene	1245				
+HIKGEFOG_01413	CDS	1245				hypothetical protein
+HIKGEFOG_01414	gene	1086				
+HIKGEFOG_01414	CDS	1086				hypothetical protein
+HIKGEFOG_01415	gene	2214				
+HIKGEFOG_01415	CDS	2214				hypothetical protein
+HIKGEFOG_01416	gene	834				
+HIKGEFOG_01416	CDS	834				hypothetical protein
+HIKGEFOG_01417	gene	243				
+HIKGEFOG_01417	CDS	243				hypothetical protein
+HIKGEFOG_01418	gene	291				
+HIKGEFOG_01418	CDS	291				hypothetical protein
+HIKGEFOG_01419	gene	495				
+HIKGEFOG_01419	CDS	495				hypothetical protein
+HIKGEFOG_01420	gene	1302				
+HIKGEFOG_01420	CDS	1302				hypothetical protein
+HIKGEFOG_01421	gene	3693				
+HIKGEFOG_01421	CDS	3693				hypothetical protein
+HIKGEFOG_01422	gene	162				
+HIKGEFOG_01422	CDS	162				hypothetical protein
+HIKGEFOG_01423	gene	1314	pdhD			
+HIKGEFOG_01423	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+HIKGEFOG_01424	gene	1509	gcvPB			
+HIKGEFOG_01424	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+HIKGEFOG_01425	gene	1326	gcvPA			
+HIKGEFOG_01425	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+HIKGEFOG_01426	gene	387	gcvH			
+HIKGEFOG_01426	CDS	387	gcvH			Glycine cleavage system H protein
+HIKGEFOG_01427	gene	1095	gcvT			
+HIKGEFOG_01427	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+HIKGEFOG_01428	gene	1038	lplJ			
+HIKGEFOG_01428	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+HIKGEFOG_01429	gene	423	mscL			
+HIKGEFOG_01429	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+HIKGEFOG_01430	gene	156				
+HIKGEFOG_01430	CDS	156				hypothetical protein
+HIKGEFOG_01431	gene	1011	gapA			
+HIKGEFOG_01431	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+HIKGEFOG_01432	gene	780	zupT			
+HIKGEFOG_01432	CDS	780	zupT		COG0428	Zinc transporter ZupT
+HIKGEFOG_01433	gene	873	sigA_1			
+HIKGEFOG_01433	CDS	873	sigA_1		COG0568	RNA polymerase sigma factor SigA
+HIKGEFOG_01434	gene	273				
+HIKGEFOG_01434	CDS	273				hypothetical protein
+HIKGEFOG_01435	gene	1779	rpsA			
+HIKGEFOG_01435	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+HIKGEFOG_01436	gene	207				
+HIKGEFOG_01436	CDS	207				hypothetical protein
+HIKGEFOG_01437	gene	195				
+HIKGEFOG_01437	CDS	195				hypothetical protein
+HIKGEFOG_01438	gene	1332	mtaB			
+HIKGEFOG_01438	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+HIKGEFOG_01439	gene	1017				
+HIKGEFOG_01439	CDS	1017				hypothetical protein
+HIKGEFOG_01440	gene	579				
+HIKGEFOG_01440	CDS	579				hypothetical protein
+HIKGEFOG_01441	gene	360	yjbR			
+HIKGEFOG_01441	CDS	360	yjbR		COG2315	putative protein YjbR
+HIKGEFOG_01442	gene	1344	glyA			
+HIKGEFOG_01442	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+HIKGEFOG_01443	gene	1116	thiL			
+HIKGEFOG_01443	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+HIKGEFOG_01444	gene	660	punA			
+HIKGEFOG_01444	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+HIKGEFOG_01445	gene	1173	lpxK			
+HIKGEFOG_01445	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+HIKGEFOG_01446	gene	1767	sppA			
+HIKGEFOG_01446	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+HIKGEFOG_01447	gene	735				
+HIKGEFOG_01447	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+HIKGEFOG_01448	gene	549				
+HIKGEFOG_01448	CDS	549				hypothetical protein
+HIKGEFOG_01449	gene	249				
+HIKGEFOG_01449	CDS	249				hypothetical protein
+HIKGEFOG_01450	gene	780				
+HIKGEFOG_01450	CDS	780				hypothetical protein
+HIKGEFOG_01451	gene	405				
+HIKGEFOG_01451	CDS	405				hypothetical protein
+HIKGEFOG_01452	gene	978				
+HIKGEFOG_01452	CDS	978				hypothetical protein
+HIKGEFOG_01453	gene	621				
+HIKGEFOG_01453	CDS	621				hypothetical protein
+HIKGEFOG_01454	gene	492				
+HIKGEFOG_01454	CDS	492				hypothetical protein
+HIKGEFOG_01455	gene	675				
+HIKGEFOG_01455	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+HIKGEFOG_01456	gene	954				
+HIKGEFOG_01456	CDS	954				hypothetical protein
+HIKGEFOG_01457	gene	999	dagK			
+HIKGEFOG_01457	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+HIKGEFOG_01458	gene	1329	nupG			
+HIKGEFOG_01458	CDS	1329	nupG			Nucleoside permease NupG
+HIKGEFOG_01459	gene	564				
+HIKGEFOG_01459	CDS	564				hypothetical protein
+HIKGEFOG_01460	gene	732	rsmE			
+HIKGEFOG_01460	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+HIKGEFOG_01461	gene	1341				
+HIKGEFOG_01461	CDS	1341				hypothetical protein
+HIKGEFOG_01462	gene	645	ytrE			
+HIKGEFOG_01462	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+HIKGEFOG_01463	gene	1200				
+HIKGEFOG_01463	CDS	1200				hypothetical protein
+HIKGEFOG_01464	gene	3288				
+HIKGEFOG_01464	CDS	3288				hypothetical protein
+HIKGEFOG_01465	gene	339				
+HIKGEFOG_01465	CDS	339				hypothetical protein
+HIKGEFOG_01466	gene	591				
+HIKGEFOG_01466	CDS	591				hypothetical protein
+HIKGEFOG_01467	gene	564	pabA			
+HIKGEFOG_01467	CDS	564	pabA	2.6.1.85	COG0512	Aminodeoxychorismate synthase component 2
+HIKGEFOG_01468	gene	696	trpF			
+HIKGEFOG_01468	CDS	696	trpF	5.3.1.24	COG0135	N-(5'-phosphoribosyl)anthranilate isomerase
+HIKGEFOG_01469	gene	126				
+HIKGEFOG_01469	CDS	126				hypothetical protein
+HIKGEFOG_01470	gene	648	rpe			
+HIKGEFOG_01470	CDS	648	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+HIKGEFOG_01471	gene	597	carQ			
+HIKGEFOG_01471	CDS	597	carQ		COG1595	RNA polymerase sigma factor CarQ
+HIKGEFOG_01472	gene	76				
+HIKGEFOG_01472	tRNA	76				tRNA-Thr(cgt)
+HIKGEFOG_01473	gene	74				
+HIKGEFOG_01473	tRNA	74				tRNA-Gly(ccc)
+HIKGEFOG_01474	gene	2826	uvrA_2			
+HIKGEFOG_01474	CDS	2826	uvrA_2		COG0178	UvrABC system protein A
+HIKGEFOG_01475	gene	780	nudC_2			
+HIKGEFOG_01475	CDS	780	nudC_2	3.6.1.22		NADH pyrophosphatase
+HIKGEFOG_01476	gene	1824	cpdB			
+HIKGEFOG_01476	CDS	1824	cpdB	3.1.3.6	COG0737	2',3'-cyclic-nucleotide 2'-phosphodiesterase/3'-nucleotidase
+HIKGEFOG_01477	gene	162				
+HIKGEFOG_01477	CDS	162				hypothetical protein
+HIKGEFOG_01478	gene	2184				
+HIKGEFOG_01478	CDS	2184				hypothetical protein
+HIKGEFOG_01479	gene	822				
+HIKGEFOG_01479	CDS	822				hypothetical protein
+HIKGEFOG_01480	gene	1185				
+HIKGEFOG_01480	CDS	1185				hypothetical protein
+HIKGEFOG_01481	gene	369				
+HIKGEFOG_01481	CDS	369				hypothetical protein
+HIKGEFOG_01482	gene	4644				
+HIKGEFOG_01482	CDS	4644				hypothetical protein
+HIKGEFOG_01483	gene	2373	bamA_3			
+HIKGEFOG_01483	CDS	2373	bamA_3			Outer membrane protein assembly factor BamA
+HIKGEFOG_01484	gene	1410	clsA			
+HIKGEFOG_01484	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+HIKGEFOG_01485	gene	660	queE			
+HIKGEFOG_01485	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+HIKGEFOG_01486	gene	330				
+HIKGEFOG_01486	CDS	330				hypothetical protein
+HIKGEFOG_01487	gene	1938	dnaG			
+HIKGEFOG_01487	CDS	1938	dnaG	2.7.7.-		DNA primase
+HIKGEFOG_01488	gene	1038	nrnA			
+HIKGEFOG_01488	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+HIKGEFOG_01489	gene	579				
+HIKGEFOG_01489	CDS	579				hypothetical protein
+HIKGEFOG_01490	gene	1440	recD2_2			
+HIKGEFOG_01490	CDS	1440	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+HIKGEFOG_01491	gene	492				
+HIKGEFOG_01491	CDS	492				hypothetical protein
+HIKGEFOG_01492	gene	861				
+HIKGEFOG_01492	CDS	861				hypothetical protein
+HIKGEFOG_01493	gene	558	rsmD			
+HIKGEFOG_01493	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+HIKGEFOG_01494	gene	912				
+HIKGEFOG_01494	CDS	912				hypothetical protein
+HIKGEFOG_01495	gene	1347	nhaD			
+HIKGEFOG_01495	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+HIKGEFOG_01496	gene	849				
+HIKGEFOG_01496	CDS	849				hypothetical protein
+HIKGEFOG_01497	gene	597				
+HIKGEFOG_01497	CDS	597				hypothetical protein
+HIKGEFOG_01498	gene	1305				
+HIKGEFOG_01498	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+HIKGEFOG_01499	gene	1023	recA			
+HIKGEFOG_01499	CDS	1023	recA			Protein RecA
+HIKGEFOG_01500	gene	2826	alaS			
+HIKGEFOG_01500	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+HIKGEFOG_01501	gene	348				
+HIKGEFOG_01501	CDS	348				hypothetical protein
+HIKGEFOG_01502	gene	2286	relA_2			
+HIKGEFOG_01502	CDS	2286	relA_2	2.7.6.5	COG0317	GTP pyrophosphokinase
+HIKGEFOG_01503	gene	1536				
+HIKGEFOG_01503	CDS	1536				hypothetical protein
+HIKGEFOG_01504	gene	765				
+HIKGEFOG_01504	CDS	765				hypothetical protein
+HIKGEFOG_01505	gene	900	parB			
+HIKGEFOG_01505	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+HIKGEFOG_01506	gene	762	soj			
+HIKGEFOG_01506	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+HIKGEFOG_01507	gene	774	surE			
+HIKGEFOG_01507	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+HIKGEFOG_01508	gene	1149	lpxB			
+HIKGEFOG_01508	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+HIKGEFOG_01509	gene	963				
+HIKGEFOG_01509	CDS	963				hypothetical protein
+HIKGEFOG_01510	gene	1461	pepD_2			
+HIKGEFOG_01510	CDS	1461	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+HIKGEFOG_01511	gene	141				
+HIKGEFOG_01511	CDS	141				hypothetical protein
+HIKGEFOG_01512	gene	927				
+HIKGEFOG_01512	CDS	927				hypothetical protein
+HIKGEFOG_01513	gene	1854				
+HIKGEFOG_01513	CDS	1854				hypothetical protein
+HIKGEFOG_01514	gene	72				
+HIKGEFOG_01514	tRNA	72				tRNA-Gln(ctg)
+HIKGEFOG_01515	gene	360	rsfS			
+HIKGEFOG_01515	CDS	360	rsfS		COG0799	Ribosomal silencing factor RsfS
+HIKGEFOG_01516	gene	1971	ftsH_2			
+HIKGEFOG_01516	CDS	1971	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+HIKGEFOG_01517	gene	852				
+HIKGEFOG_01517	CDS	852				hypothetical protein
+HIKGEFOG_01518	gene	522				
+HIKGEFOG_01518	CDS	522				hypothetical protein
+HIKGEFOG_01519	gene	402				
+HIKGEFOG_01519	CDS	402				hypothetical protein
+HIKGEFOG_01520	gene	435				
+HIKGEFOG_01520	CDS	435				hypothetical protein
+HIKGEFOG_01521	gene	651				
+HIKGEFOG_01521	CDS	651				hypothetical protein
+HIKGEFOG_01522	gene	138				
+HIKGEFOG_01522	CDS	138				hypothetical protein
+HIKGEFOG_01523	gene	855				
+HIKGEFOG_01523	CDS	855				hypothetical protein
+HIKGEFOG_01524	gene	1131				
+HIKGEFOG_01524	CDS	1131				hypothetical protein
+HIKGEFOG_01525	gene	984				
+HIKGEFOG_01525	CDS	984		1.-.-.-		Oxidoreductase P35
+HIKGEFOG_01526	gene	76				
+HIKGEFOG_01526	tRNA	76				tRNA-Arg(tct)
+HIKGEFOG_01527	gene	888				
+HIKGEFOG_01527	CDS	888				hypothetical protein
+HIKGEFOG_01528	gene	924				
+HIKGEFOG_01528	CDS	924				hypothetical protein
+HIKGEFOG_01529	gene	729				
+HIKGEFOG_01529	CDS	729				hypothetical protein
+HIKGEFOG_01530	gene	2238				
+HIKGEFOG_01530	CDS	2238				hypothetical protein
+HIKGEFOG_01531	gene	789				
+HIKGEFOG_01531	CDS	789				hypothetical protein
+HIKGEFOG_01532	gene	74				
+HIKGEFOG_01532	tRNA	74				tRNA-Cys(gca)
+HIKGEFOG_01533	gene	204				
+HIKGEFOG_01533	CDS	204				hypothetical protein
+HIKGEFOG_01534	gene	1212				
+HIKGEFOG_01534	CDS	1212				hypothetical protein
+HIKGEFOG_01535	gene	753				
+HIKGEFOG_01535	CDS	753				hypothetical protein
+HIKGEFOG_01536	gene	1065	purR			
+HIKGEFOG_01536	CDS	1065	purR			HTH-type transcriptional repressor PurR
+HIKGEFOG_01537	gene	3516	sasA_4			
+HIKGEFOG_01537	CDS	3516	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+HIKGEFOG_01538	gene	726				
+HIKGEFOG_01538	CDS	726				hypothetical protein
+HIKGEFOG_01539	gene	624				
+HIKGEFOG_01539	CDS	624				hypothetical protein
+HIKGEFOG_01540	gene	1311	dapL			
+HIKGEFOG_01540	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+HIKGEFOG_01541	gene	573				
+HIKGEFOG_01541	CDS	573				hypothetical protein
+HIKGEFOG_01542	gene	1623				
+HIKGEFOG_01542	CDS	1623				hypothetical protein
+HIKGEFOG_01543	gene	738	yafV			
+HIKGEFOG_01543	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+HIKGEFOG_01544	gene	696	infC			
+HIKGEFOG_01544	CDS	696	infC			Translation initiation factor IF-3
+HIKGEFOG_01545	gene	198	rpmI			
+HIKGEFOG_01545	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+HIKGEFOG_01546	gene	345	rplT			
+HIKGEFOG_01546	CDS	345	rplT			50S ribosomal protein L20
+HIKGEFOG_01547	gene	1206				
+HIKGEFOG_01547	CDS	1206				hypothetical protein
+HIKGEFOG_01548	gene	2217	yhgF			
+HIKGEFOG_01548	CDS	2217	yhgF		COG2183	Protein YhgF
+HIKGEFOG_01549	gene	1953	yheS			
+HIKGEFOG_01549	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+HIKGEFOG_01550	gene	2037	pepO			
+HIKGEFOG_01550	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+HIKGEFOG_01551	gene	1491	algC_2			
+HIKGEFOG_01551	CDS	1491	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+HIKGEFOG_01552	gene	606				
+HIKGEFOG_01552	CDS	606				hypothetical protein
+HIKGEFOG_01553	gene	678				
+HIKGEFOG_01553	CDS	678				hypothetical protein
+HIKGEFOG_01554	gene	585				
+HIKGEFOG_01554	CDS	585				hypothetical protein
+HIKGEFOG_01555	gene	384				
+HIKGEFOG_01555	CDS	384				hypothetical protein
+HIKGEFOG_01556	gene	759	exoA			
+HIKGEFOG_01556	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+HIKGEFOG_01557	gene	318	rplU			
+HIKGEFOG_01557	CDS	318	rplU		COG0261	50S ribosomal protein L21
+HIKGEFOG_01558	gene	264	rpmA			
+HIKGEFOG_01558	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+HIKGEFOG_01559	gene	1317	serS			
+HIKGEFOG_01559	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+HIKGEFOG_01560	gene	2358	pyrK_2			
+HIKGEFOG_01560	CDS	2358	pyrK_2			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+HIKGEFOG_01561	gene	1116				
+HIKGEFOG_01561	CDS	1116				hypothetical protein
+HIKGEFOG_01562	gene	876	deoD_1			
+HIKGEFOG_01562	CDS	876	deoD_1	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+HIKGEFOG_01563	gene	1032	ltaE			
+HIKGEFOG_01563	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+HIKGEFOG_01564	gene	1374	mnmE			
+HIKGEFOG_01564	CDS	1374	mnmE	3.6.5.-	COG0486	tRNA modification GTPase MnmE
+HIKGEFOG_01565	gene	120				
+HIKGEFOG_01565	CDS	120				hypothetical protein
+HIKGEFOG_01566	gene	897				
+HIKGEFOG_01566	CDS	897				hypothetical protein
+HIKGEFOG_01567	gene	2133				
+HIKGEFOG_01567	CDS	2133				hypothetical protein
+HIKGEFOG_01568	gene	1269				
+HIKGEFOG_01568	CDS	1269				hypothetical protein
+HIKGEFOG_01569	gene	726				
+HIKGEFOG_01569	CDS	726				hypothetical protein
+HIKGEFOG_01570	gene	1296				
+HIKGEFOG_01570	CDS	1296				hypothetical protein
+HIKGEFOG_01571	gene	780	coaX			
+HIKGEFOG_01571	CDS	780	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+HIKGEFOG_01572	gene	1197				
+HIKGEFOG_01572	CDS	1197				hypothetical protein
+HIKGEFOG_01573	gene	1383	phoV			
+HIKGEFOG_01573	CDS	1383	phoV	3.1.3.1		Alkaline phosphatase PhoV
+HIKGEFOG_01574	gene	3348	secA			
+HIKGEFOG_01574	CDS	3348	secA			Protein translocase subunit SecA
+HIKGEFOG_01575	gene	762	lptB_2			
+HIKGEFOG_01575	CDS	762	lptB_2	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+HIKGEFOG_01576	gene	1335	tilS			
+HIKGEFOG_01576	CDS	1335	tilS	6.3.4.19	COG0037	tRNA(Ile)-lysidine synthase
+HIKGEFOG_01577	gene	1182	rlmI			
+HIKGEFOG_01577	CDS	1182	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+HIKGEFOG_01578	gene	621	rnd			
+HIKGEFOG_01578	CDS	621	rnd	3.1.13.5		Ribonuclease D
+HIKGEFOG_01579	gene	2409				
+HIKGEFOG_01579	CDS	2409				hypothetical protein
+HIKGEFOG_01580	gene	609				
+HIKGEFOG_01580	CDS	609				hypothetical protein
+HIKGEFOG_01581	gene	1494				
+HIKGEFOG_01581	CDS	1494				hypothetical protein
+HIKGEFOG_01582	gene	1098	fcl_1			
+HIKGEFOG_01582	CDS	1098	fcl_1	1.1.1.271	COG0451	GDP-L-fucose synthase
+HIKGEFOG_01583	gene	1086	gmd			
+HIKGEFOG_01583	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+HIKGEFOG_01584	gene	1059	rfbM			
+HIKGEFOG_01584	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+HIKGEFOG_01585	gene	987				
+HIKGEFOG_01585	CDS	987				hypothetical protein
+HIKGEFOG_01586	gene	2304	mrcA_1			
+HIKGEFOG_01586	CDS	2304	mrcA_1		COG5009	Penicillin-binding protein 1A
+HIKGEFOG_01587	gene	948	pyrB			
+HIKGEFOG_01587	CDS	948	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+HIKGEFOG_01588	gene	459	pyrI			
+HIKGEFOG_01588	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+HIKGEFOG_01589	gene	1305	mltF			
+HIKGEFOG_01589	CDS	1305	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+HIKGEFOG_01590	gene	168				
+HIKGEFOG_01590	CDS	168				hypothetical protein
+HIKGEFOG_01591	gene	1632	pepDA			
+HIKGEFOG_01591	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+HIKGEFOG_01592	gene	1623				
+HIKGEFOG_01592	CDS	1623				hypothetical protein
+HIKGEFOG_01593	gene	849	nadC			
+HIKGEFOG_01593	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+HIKGEFOG_01594	gene	495				
+HIKGEFOG_01594	CDS	495				hypothetical protein
+HIKGEFOG_01595	gene	1479	cstA			
+HIKGEFOG_01595	CDS	1479	cstA		COG1966	Peptide transporter CstA
+HIKGEFOG_01596	gene	1722				
+HIKGEFOG_01596	CDS	1722				hypothetical protein
+HIKGEFOG_01597	gene	717				
+HIKGEFOG_01597	CDS	717		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+HIKGEFOG_01598	gene	1731	lysS			
+HIKGEFOG_01598	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+HIKGEFOG_01599	gene	96				
+HIKGEFOG_01599	CDS	96				hypothetical protein
+HIKGEFOG_01600	gene	996	gpsA			
+HIKGEFOG_01600	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+HIKGEFOG_01601	gene	360				
+HIKGEFOG_01601	CDS	360				hypothetical protein
+HIKGEFOG_01602	gene	1032	menE			
+HIKGEFOG_01602	CDS	1032	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+HIKGEFOG_01603	gene	963	fmt			
+HIKGEFOG_01603	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+HIKGEFOG_01604	gene	1785	clcB			
+HIKGEFOG_01604	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+HIKGEFOG_01605	gene	570	tsaC			
+HIKGEFOG_01605	CDS	570	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+HIKGEFOG_01606	gene	855				
+HIKGEFOG_01606	CDS	855				hypothetical protein
+HIKGEFOG_01607	gene	339				
+HIKGEFOG_01607	CDS	339				hypothetical protein
+HIKGEFOG_01608	gene	459	ogt			
+HIKGEFOG_01608	CDS	459	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+HIKGEFOG_01609	gene	1566	guaA			
+HIKGEFOG_01609	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+HIKGEFOG_01610	gene	726	murU			
+HIKGEFOG_01610	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+HIKGEFOG_01611	gene	75				
+HIKGEFOG_01611	tRNA	75				tRNA-Arg(acg)
+HIKGEFOG_01612	gene	621				
+HIKGEFOG_01612	CDS	621				hypothetical protein
+HIKGEFOG_01613	gene	1278	rarA			
+HIKGEFOG_01613	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+HIKGEFOG_01614	gene	813				
+HIKGEFOG_01614	CDS	813				hypothetical protein
+HIKGEFOG_01615	gene	801				
+HIKGEFOG_01615	CDS	801				hypothetical protein
+HIKGEFOG_01616	gene	981				
+HIKGEFOG_01616	CDS	981			COG1702	PhoH-like protein
+HIKGEFOG_01617	gene	981	purC			
+HIKGEFOG_01617	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HIKGEFOG_01618	gene	735	menG			
+HIKGEFOG_01618	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+HIKGEFOG_01619	gene	741	aroE			
+HIKGEFOG_01619	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+HIKGEFOG_01620	gene	1203	purM			
+HIKGEFOG_01620	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+HIKGEFOG_01621	gene	1113	prfA			
+HIKGEFOG_01621	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+HIKGEFOG_01622	gene	825	pyrF			
+HIKGEFOG_01622	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+HIKGEFOG_01623	gene	108				
+HIKGEFOG_01623	CDS	108				hypothetical protein
+HIKGEFOG_01624	gene	1416				
+HIKGEFOG_01624	CDS	1416				hypothetical protein
+HIKGEFOG_01625	gene	1269				
+HIKGEFOG_01625	CDS	1269		2.4.1.11	COG0438	Glycogen synthase
+HIKGEFOG_01626	gene	1917				
+HIKGEFOG_01626	CDS	1917				hypothetical protein
+HIKGEFOG_01627	gene	933	ytlR			
+HIKGEFOG_01627	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+HIKGEFOG_01628	gene	1029	miaA_1			
+HIKGEFOG_01628	CDS	1029	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+HIKGEFOG_01629	gene	606				
+HIKGEFOG_01629	CDS	606				hypothetical protein
+HIKGEFOG_01630	gene	2064	dsbD			
+HIKGEFOG_01630	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+HIKGEFOG_01631	gene	1113	macA			
+HIKGEFOG_01631	CDS	1113	macA		COG0845	Macrolide export protein MacA
+HIKGEFOG_01632	gene	1248	macB_1			
+HIKGEFOG_01632	CDS	1248	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+HIKGEFOG_01633	gene	1260	macB_2			
+HIKGEFOG_01633	CDS	1260	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+HIKGEFOG_01634	gene	672	yknY_2			
+HIKGEFOG_01634	CDS	672	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+HIKGEFOG_01635	gene	171				
+HIKGEFOG_01635	CDS	171				hypothetical protein
+HIKGEFOG_01636	gene	2559				
+HIKGEFOG_01636	CDS	2559				hypothetical protein
+HIKGEFOG_01637	gene	2469	mrcA_2			
+HIKGEFOG_01637	CDS	2469	mrcA_2		COG5009	Penicillin-binding protein 1A
+HIKGEFOG_01638	gene	909	miaA_2			
+HIKGEFOG_01638	CDS	909	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+HIKGEFOG_01639	gene	774	lpxA_2			
+HIKGEFOG_01639	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+HIKGEFOG_01640	gene	1386	lpxC			
+HIKGEFOG_01640	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+HIKGEFOG_01641	gene	1044	lpxD			
+HIKGEFOG_01641	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+HIKGEFOG_01642	gene	1221				
+HIKGEFOG_01642	CDS	1221				hypothetical protein
+HIKGEFOG_01643	gene	1557	rapZ			
+HIKGEFOG_01643	CDS	1557	rapZ			RNase adapter protein RapZ
+HIKGEFOG_01644	gene	189				
+HIKGEFOG_01644	CDS	189				hypothetical protein
+HIKGEFOG_01645	gene	2637				
+HIKGEFOG_01645	CDS	2637				hypothetical protein
+HIKGEFOG_01646	gene	207				
+HIKGEFOG_01646	CDS	207				hypothetical protein
+HIKGEFOG_01647	gene	516				
+HIKGEFOG_01647	CDS	516				hypothetical protein
+HIKGEFOG_01648	gene	309				
+HIKGEFOG_01648	CDS	309				hypothetical protein
+HIKGEFOG_01649	gene	2520				
+HIKGEFOG_01649	CDS	2520				hypothetical protein
+HIKGEFOG_01650	gene	681				
+HIKGEFOG_01650	CDS	681				hypothetical protein
+HIKGEFOG_01651	gene	468				
+HIKGEFOG_01651	CDS	468				hypothetical protein
+HIKGEFOG_01652	gene	189				
+HIKGEFOG_01652	CDS	189				hypothetical protein
+HIKGEFOG_01653	gene	210				
+HIKGEFOG_01653	CDS	210				hypothetical protein
+HIKGEFOG_01654	gene	549				
+HIKGEFOG_01654	CDS	549				hypothetical protein
+HIKGEFOG_01655	gene	636				
+HIKGEFOG_01655	CDS	636				hypothetical protein
+HIKGEFOG_01656	gene	165				
+HIKGEFOG_01656	CDS	165				hypothetical protein
+HIKGEFOG_01657	gene	444				
+HIKGEFOG_01657	CDS	444				hypothetical protein
+HIKGEFOG_01658	gene	96				
+HIKGEFOG_01658	CDS	96				hypothetical protein
+HIKGEFOG_01659	gene	552				
+HIKGEFOG_01659	CDS	552				hypothetical protein
+HIKGEFOG_01660	gene	74				
+HIKGEFOG_01660	tRNA	74				tRNA-Phe(gaa)
+HIKGEFOG_01661	gene	75				
+HIKGEFOG_01661	tRNA	75				tRNA-Pro(cgg)
+HIKGEFOG_01662	gene	960				
+HIKGEFOG_01662	CDS	960				putative epimerase/dehydratase
+HIKGEFOG_01663	gene	120				
+HIKGEFOG_01663	CDS	120				hypothetical protein
+HIKGEFOG_01664	gene	1188	kbl			
+HIKGEFOG_01664	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+HIKGEFOG_01665	gene	477	argR			
+HIKGEFOG_01665	CDS	477	argR		COG1438	Arginine repressor
+HIKGEFOG_01666	gene	717	ybhL			
+HIKGEFOG_01666	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+HIKGEFOG_01667	gene	756				
+HIKGEFOG_01667	CDS	756				hypothetical protein
+HIKGEFOG_01668	gene	1332	nhaA			
+HIKGEFOG_01668	CDS	1332	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+HIKGEFOG_01669	gene	1452				
+HIKGEFOG_01669	CDS	1452				hypothetical protein
+HIKGEFOG_01670	gene	108				
+HIKGEFOG_01670	CDS	108				hypothetical protein
+HIKGEFOG_01671	gene	726				
+HIKGEFOG_01671	CDS	726				hypothetical protein
+HIKGEFOG_01672	gene	1311	murF			
+HIKGEFOG_01672	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+HIKGEFOG_01673	gene	885	folP			
+HIKGEFOG_01673	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+HIKGEFOG_01674	gene	765	cdaA			
+HIKGEFOG_01674	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+HIKGEFOG_01675	gene	1008	pta_2			
+HIKGEFOG_01675	CDS	1008	pta_2	2.3.1.8		Phosphate acetyltransferase
+HIKGEFOG_01676	gene	1194	ackA			
+HIKGEFOG_01676	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+HIKGEFOG_01677	gene	774	lpxH			
+HIKGEFOG_01677	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+HIKGEFOG_01678	gene	375				
+HIKGEFOG_01678	CDS	375				hypothetical protein
+HIKGEFOG_01679	gene	702				
+HIKGEFOG_01679	CDS	702				hypothetical protein
+HIKGEFOG_01680	gene	1104				
+HIKGEFOG_01680	CDS	1104				hypothetical protein
+HIKGEFOG_01681	gene	525	efp			
+HIKGEFOG_01681	CDS	525	efp		COG0231	Elongation factor P
+HIKGEFOG_01682	gene	222				
+HIKGEFOG_01682	CDS	222				hypothetical protein
+HIKGEFOG_01683	gene	744				
+HIKGEFOG_01683	CDS	744				hypothetical protein
+HIKGEFOG_01684	gene	1113	rluD_2			
+HIKGEFOG_01684	CDS	1113	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+HIKGEFOG_01685	gene	993	ddlA			
+HIKGEFOG_01685	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+HIKGEFOG_01686	gene	1176				
+HIKGEFOG_01686	CDS	1176				hypothetical protein
+HIKGEFOG_01687	gene	681				
+HIKGEFOG_01687	CDS	681				hypothetical protein
+HIKGEFOG_01688	gene	96				
+HIKGEFOG_01688	CDS	96				hypothetical protein
+HIKGEFOG_01689	gene	777				
+HIKGEFOG_01689	CDS	777				hypothetical protein
+HIKGEFOG_01690	gene	720				
+HIKGEFOG_01690	CDS	720				hypothetical protein
+HIKGEFOG_01691	gene	888				
+HIKGEFOG_01691	CDS	888				hypothetical protein
+HIKGEFOG_01692	gene	504				
+HIKGEFOG_01692	CDS	504				hypothetical protein
+HIKGEFOG_01693	gene	759				
+HIKGEFOG_01693	CDS	759				hypothetical protein
+HIKGEFOG_01694	gene	1038				
+HIKGEFOG_01694	CDS	1038				hypothetical protein
+HIKGEFOG_01695	gene	438				
+HIKGEFOG_01695	CDS	438				hypothetical protein
+HIKGEFOG_01696	gene	516				
+HIKGEFOG_01696	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+HIKGEFOG_01697	gene	138				
+HIKGEFOG_01697	CDS	138				hypothetical protein
+HIKGEFOG_01698	gene	1122	prfB			
+HIKGEFOG_01698	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+HIKGEFOG_01699	gene	1809				
+HIKGEFOG_01699	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+HIKGEFOG_01700	gene	678				
+HIKGEFOG_01700	CDS	678				hypothetical protein
+HIKGEFOG_01701	gene	471				
+HIKGEFOG_01701	CDS	471				hypothetical protein
+HIKGEFOG_01702	gene	1017				
+HIKGEFOG_01702	CDS	1017				hypothetical protein
+HIKGEFOG_01703	gene	1911				
+HIKGEFOG_01703	CDS	1911				hypothetical protein
+HIKGEFOG_01704	gene	612	nreC			
+HIKGEFOG_01704	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+HIKGEFOG_01705	gene	1050	nrdB			
+HIKGEFOG_01705	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+HIKGEFOG_01706	gene	2520				
+HIKGEFOG_01706	CDS	2520				hypothetical protein
+HIKGEFOG_01707	gene	3018				
+HIKGEFOG_01707	CDS	3018				hypothetical protein
+HIKGEFOG_01708	gene	2604	yoaB			
+HIKGEFOG_01708	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+HIKGEFOG_01709	gene	621				
+HIKGEFOG_01709	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+HIKGEFOG_01710	gene	945	ribF			
+HIKGEFOG_01710	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+HIKGEFOG_01711	gene	792				
+HIKGEFOG_01711	CDS	792				hypothetical protein
+HIKGEFOG_01712	gene	477				
+HIKGEFOG_01712	CDS	477				hypothetical protein
+HIKGEFOG_01713	gene	513	sigH			
+HIKGEFOG_01713	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+HIKGEFOG_01714	gene	1893	speA			
+HIKGEFOG_01714	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+HIKGEFOG_01715	gene	528	aroK			
+HIKGEFOG_01715	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+HIKGEFOG_01716	gene	2415	topA			
+HIKGEFOG_01716	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+HIKGEFOG_01717	gene	699				
+HIKGEFOG_01717	CDS	699				hypothetical protein
+HIKGEFOG_01718	gene	810				
+HIKGEFOG_01718	CDS	810				hypothetical protein
+HIKGEFOG_01719	gene	555	nudC_3			
+HIKGEFOG_01719	CDS	555	nudC_3	3.6.1.22		NADH pyrophosphatase
+HIKGEFOG_01720	gene	417				
+HIKGEFOG_01720	CDS	417				hypothetical protein
+HIKGEFOG_01721	gene	1152	resA_5			
+HIKGEFOG_01721	CDS	1152	resA_5			Thiol-disulfide oxidoreductase ResA
+HIKGEFOG_01722	gene	990				
+HIKGEFOG_01722	CDS	990				hypothetical protein
+HIKGEFOG_01723	gene	1026				
+HIKGEFOG_01723	CDS	1026				hypothetical protein
+HIKGEFOG_01724	gene	1140				
+HIKGEFOG_01724	CDS	1140				hypothetical protein
+HIKGEFOG_01725	gene	1893				
+HIKGEFOG_01725	CDS	1893				hypothetical protein
+HIKGEFOG_01726	gene	1143				
+HIKGEFOG_01726	CDS	1143				hypothetical protein
+HIKGEFOG_01727	gene	390				
+HIKGEFOG_01727	CDS	390				hypothetical protein
+HIKGEFOG_01728	gene	1149				
+HIKGEFOG_01728	CDS	1149				hypothetical protein
+HIKGEFOG_01729	gene	1812				
+HIKGEFOG_01729	CDS	1812				hypothetical protein
+HIKGEFOG_01730	gene	1161				
+HIKGEFOG_01730	CDS	1161			COG3177	putative protein
+HIKGEFOG_01731	gene	2355	pnp			
+HIKGEFOG_01731	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+HIKGEFOG_01732	gene	894				
+HIKGEFOG_01732	CDS	894				hypothetical protein
+HIKGEFOG_01733	gene	327				
+HIKGEFOG_01733	CDS	327				hypothetical protein
+HIKGEFOG_01734	gene	1566				
+HIKGEFOG_01734	CDS	1566				hypothetical protein
+HIKGEFOG_01735	gene	291				
+HIKGEFOG_01735	CDS	291				hypothetical protein
+HIKGEFOG_01736	gene	780				
+HIKGEFOG_01736	CDS	780				hypothetical protein
+HIKGEFOG_01737	gene	1446	patA_2			
+HIKGEFOG_01737	CDS	1446	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+HIKGEFOG_01738	gene	1329				
+HIKGEFOG_01738	CDS	1329				hypothetical protein
+HIKGEFOG_01739	gene	1230	yciC			
+HIKGEFOG_01739	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+HIKGEFOG_01740	gene	1446	pal_2			
+HIKGEFOG_01740	CDS	1446	pal_2			Peptidoglycan-associated lipoprotein
+HIKGEFOG_01741	gene	732				
+HIKGEFOG_01741	CDS	732				hypothetical protein
+HIKGEFOG_01742	gene	1014	asd			
+HIKGEFOG_01742	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+HIKGEFOG_01743	gene	2202	kefB_2			
+HIKGEFOG_01743	CDS	2202	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+HIKGEFOG_01744	gene	663	lolD			
+HIKGEFOG_01744	CDS	663	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+HIKGEFOG_01745	gene	321				
+HIKGEFOG_01745	CDS	321				hypothetical protein
+HIKGEFOG_01746	gene	1395	asnS			
+HIKGEFOG_01746	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+HIKGEFOG_01747	gene	1497				
+HIKGEFOG_01747	CDS	1497				hypothetical protein
+HIKGEFOG_01748	gene	1347	purB			
+HIKGEFOG_01748	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+HIKGEFOG_01749	gene	76				
+HIKGEFOG_01749	tRNA	76				tRNA-Val(tac)
+HIKGEFOG_01750	gene	76				
+HIKGEFOG_01750	tRNA	76				tRNA-Val(tac)
+HIKGEFOG_01751	gene	1209				
+HIKGEFOG_01751	CDS	1209				Outer membrane protein 40
+HIKGEFOG_01752	gene	1815	mutL			
+HIKGEFOG_01752	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+HIKGEFOG_01753	gene	273				
+HIKGEFOG_01753	CDS	273				hypothetical protein
+HIKGEFOG_01754	gene	1695	lptD_2			
+HIKGEFOG_01754	CDS	1695	lptD_2			LPS-assembly protein LptD
+HIKGEFOG_01755	gene	1464	surA_1			
+HIKGEFOG_01755	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+HIKGEFOG_01756	gene	1479	surA_2			
+HIKGEFOG_01756	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+HIKGEFOG_01757	gene	1479	guaB			
+HIKGEFOG_01757	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+HIKGEFOG_01758	gene	168				
+HIKGEFOG_01758	CDS	168				hypothetical protein
+HIKGEFOG_01759	gene	663				
+HIKGEFOG_01759	CDS	663				hypothetical protein
+HIKGEFOG_01760	gene	276				
+HIKGEFOG_01760	CDS	276				hypothetical protein
+HIKGEFOG_01761	gene	870				
+HIKGEFOG_01761	CDS	870				hypothetical protein
+HIKGEFOG_01762	gene	612				
+HIKGEFOG_01762	CDS	612				IS982 family transposase IS195
+HIKGEFOG_01763	gene	372	rlpA			
+HIKGEFOG_01763	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+HIKGEFOG_01764	gene	1344	gdhB			
+HIKGEFOG_01764	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+HIKGEFOG_01765	gene	387	nudG			
+HIKGEFOG_01765	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+HIKGEFOG_01766	gene	4716	rep_2			
+HIKGEFOG_01766	CDS	4716	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+HIKGEFOG_01767	gene	1371				
+HIKGEFOG_01767	CDS	1371				hypothetical protein
+HIKGEFOG_01768	gene	126				
+HIKGEFOG_01768	CDS	126				hypothetical protein
+HIKGEFOG_01769	gene	834				
+HIKGEFOG_01769	CDS	834				hypothetical protein
+HIKGEFOG_01770	gene	471				
+HIKGEFOG_01770	CDS	471				hypothetical protein
+HIKGEFOG_01771	gene	993	rpoA			
+HIKGEFOG_01771	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+HIKGEFOG_01772	gene	609	rpsD			
+HIKGEFOG_01772	CDS	609	rpsD			30S ribosomal protein S4
+HIKGEFOG_01773	gene	387	rpsK			
+HIKGEFOG_01773	CDS	387	rpsK			30S ribosomal protein S11
+HIKGEFOG_01774	gene	381	rpsM			
+HIKGEFOG_01774	CDS	381	rpsM			30S ribosomal protein S13
+HIKGEFOG_01775	gene	117	ykgO			
+HIKGEFOG_01775	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+HIKGEFOG_01776	gene	219	infA			
+HIKGEFOG_01776	CDS	219	infA			Translation initiation factor IF-1
+HIKGEFOG_01777	gene	750	map_2			
+HIKGEFOG_01777	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+HIKGEFOG_01778	gene	1338	secY			
+HIKGEFOG_01778	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+HIKGEFOG_01779	gene	447	rplO			
+HIKGEFOG_01779	CDS	447	rplO		COG0200	50S ribosomal protein L15
+HIKGEFOG_01780	gene	177	rpmD			
+HIKGEFOG_01780	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+HIKGEFOG_01781	gene	510	rpsE			
+HIKGEFOG_01781	CDS	510	rpsE		COG0098	30S ribosomal protein S5
+HIKGEFOG_01782	gene	345	rplR			
+HIKGEFOG_01782	CDS	345	rplR		COG0256	50S ribosomal protein L18
+HIKGEFOG_01783	gene	567	rplF			
+HIKGEFOG_01783	CDS	567	rplF		COG0097	50S ribosomal protein L6
+HIKGEFOG_01784	gene	396	rpsH			
+HIKGEFOG_01784	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+HIKGEFOG_01785	gene	303	rpsN			
+HIKGEFOG_01785	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+HIKGEFOG_01786	gene	555	rplE			
+HIKGEFOG_01786	CDS	555	rplE		COG0094	50S ribosomal protein L5
+HIKGEFOG_01787	gene	321	rplX			
+HIKGEFOG_01787	CDS	321	rplX		COG0198	50S ribosomal protein L24
+HIKGEFOG_01788	gene	366	rplN			
+HIKGEFOG_01788	CDS	366	rplN		COG0093	50S ribosomal protein L14
+HIKGEFOG_01789	gene	258	rpsQ			
+HIKGEFOG_01789	CDS	258	rpsQ			30S ribosomal protein S17
+HIKGEFOG_01790	gene	195	rpmC			
+HIKGEFOG_01790	CDS	195	rpmC			50S ribosomal protein L29
+HIKGEFOG_01791	gene	429	rplP			
+HIKGEFOG_01791	CDS	429	rplP		COG0197	50S ribosomal protein L16
+HIKGEFOG_01792	gene	735	rpsC			
+HIKGEFOG_01792	CDS	735	rpsC		COG0092	30S ribosomal protein S3
+HIKGEFOG_01793	gene	405				
+HIKGEFOG_01793	CDS	405				hypothetical protein
+HIKGEFOG_01794	gene	267	rpsS			
+HIKGEFOG_01794	CDS	267	rpsS			30S ribosomal protein S19
+HIKGEFOG_01795	gene	825	rplB			
+HIKGEFOG_01795	CDS	825	rplB		COG0090	50S ribosomal protein L2
+HIKGEFOG_01796	gene	294	rplW			
+HIKGEFOG_01796	CDS	294	rplW		COG0089	50S ribosomal protein L23
+HIKGEFOG_01797	gene	630	rplD			
+HIKGEFOG_01797	CDS	630	rplD			50S ribosomal protein L4
+HIKGEFOG_01798	gene	615	rplC			
+HIKGEFOG_01798	CDS	615	rplC		COG0087	50S ribosomal protein L3
+HIKGEFOG_01799	gene	306	rpsJ			
+HIKGEFOG_01799	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+HIKGEFOG_01800	gene	2127	fusA_2			
+HIKGEFOG_01800	CDS	2127	fusA_2		COG0480	Elongation factor G
+HIKGEFOG_01801	gene	477	rpsG			
+HIKGEFOG_01801	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+HIKGEFOG_01802	gene	381	rpsL			
+HIKGEFOG_01802	CDS	381	rpsL			30S ribosomal protein S12
+HIKGEFOG_01803	gene	123				
+HIKGEFOG_01803	CDS	123				hypothetical protein
+HIKGEFOG_01804	gene	252				
+HIKGEFOG_01804	CDS	252				hypothetical protein
+HIKGEFOG_01805	gene	321				
+HIKGEFOG_01805	CDS	321				hypothetical protein
+HIKGEFOG_01806	gene	171				
+HIKGEFOG_01806	CDS	171				hypothetical protein
+HIKGEFOG_01807	gene	504				
+HIKGEFOG_01807	CDS	504				hypothetical protein
+HIKGEFOG_01808	gene	480				
+HIKGEFOG_01808	CDS	480				hypothetical protein
+HIKGEFOG_01809	gene	474				
+HIKGEFOG_01809	CDS	474				hypothetical protein
+HIKGEFOG_01810	gene	186				
+HIKGEFOG_01810	CDS	186				hypothetical protein
+HIKGEFOG_01811	gene	948				
+HIKGEFOG_01811	CDS	948				hypothetical protein
+HIKGEFOG_01812	gene	1041	clpP_2			
+HIKGEFOG_01812	CDS	1041	clpP_2	3.4.21.92		ATP-dependent Clp protease proteolytic subunit
+HIKGEFOG_01813	gene	447				
+HIKGEFOG_01813	CDS	447				hypothetical protein
+HIKGEFOG_01814	gene	1533				
+HIKGEFOG_01814	CDS	1533				hypothetical protein
+HIKGEFOG_01815	gene	426				
+HIKGEFOG_01815	CDS	426				hypothetical protein
+HIKGEFOG_01816	gene	1359				
+HIKGEFOG_01816	CDS	1359				hypothetical protein
+HIKGEFOG_01817	gene	1206				
+HIKGEFOG_01817	CDS	1206				hypothetical protein
+HIKGEFOG_01818	gene	615				
+HIKGEFOG_01818	CDS	615				hypothetical protein
+HIKGEFOG_01819	gene	444				
+HIKGEFOG_01819	CDS	444				hypothetical protein
+HIKGEFOG_01820	gene	276				
+HIKGEFOG_01820	CDS	276				hypothetical protein
+HIKGEFOG_01821	gene	654				
+HIKGEFOG_01821	CDS	654				hypothetical protein
+HIKGEFOG_01822	gene	153				
+HIKGEFOG_01822	CDS	153				hypothetical protein
+HIKGEFOG_01823	gene	474				
+HIKGEFOG_01823	CDS	474				hypothetical protein
+HIKGEFOG_01824	gene	261				
+HIKGEFOG_01824	CDS	261				hypothetical protein
+HIKGEFOG_01825	gene	270				
+HIKGEFOG_01825	CDS	270				hypothetical protein
+HIKGEFOG_01826	gene	339				
+HIKGEFOG_01826	CDS	339				hypothetical protein
+HIKGEFOG_01827	gene	231				
+HIKGEFOG_01827	CDS	231				hypothetical protein
+HIKGEFOG_01828	gene	171				
+HIKGEFOG_01828	CDS	171				hypothetical protein
+HIKGEFOG_01829	gene	621				
+HIKGEFOG_01829	CDS	621				hypothetical protein
+HIKGEFOG_01830	gene	915				
+HIKGEFOG_01830	CDS	915				hypothetical protein
+HIKGEFOG_01831	gene	2055				
+HIKGEFOG_01831	CDS	2055				hypothetical protein
+HIKGEFOG_01832	gene	396				
+HIKGEFOG_01832	CDS	396				hypothetical protein
+HIKGEFOG_01833	gene	378				
+HIKGEFOG_01833	CDS	378				hypothetical protein
+HIKGEFOG_01834	gene	213				
+HIKGEFOG_01834	CDS	213				hypothetical protein
+HIKGEFOG_01835	gene	843				
+HIKGEFOG_01835	CDS	843				hypothetical protein
+HIKGEFOG_01836	gene	435				
+HIKGEFOG_01836	CDS	435				hypothetical protein
+HIKGEFOG_01837	gene	207				
+HIKGEFOG_01837	CDS	207				hypothetical protein
+HIKGEFOG_01838	gene	219				
+HIKGEFOG_01838	CDS	219				hypothetical protein
+HIKGEFOG_01839	gene	774	trmB			
+HIKGEFOG_01839	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+HIKGEFOG_01840	gene	996				
+HIKGEFOG_01840	CDS	996				hypothetical protein
+HIKGEFOG_01841	gene	963				
+HIKGEFOG_01841	CDS	963				hypothetical protein
+HIKGEFOG_01842	gene	1911	dnaK			
+HIKGEFOG_01842	CDS	1911	dnaK			Chaperone protein DnaK
+HIKGEFOG_01843	gene	168				
+HIKGEFOG_01843	CDS	168				hypothetical protein
+HIKGEFOG_01844	gene	300				
+HIKGEFOG_01844	CDS	300				hypothetical protein
+HIKGEFOG_01845	gene	1347				
+HIKGEFOG_01845	CDS	1347				Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+HIKGEFOG_01846	gene	111				
+HIKGEFOG_01846	CDS	111				hypothetical protein
+HIKGEFOG_01847	gene	1188	patB			
+HIKGEFOG_01847	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+HIKGEFOG_01848	gene	855				
+HIKGEFOG_01848	CDS	855				hypothetical protein
+HIKGEFOG_01849	gene	612				
+HIKGEFOG_01849	CDS	612				hypothetical protein
+HIKGEFOG_01850	gene	1287				
+HIKGEFOG_01850	CDS	1287				hypothetical protein
+HIKGEFOG_01851	gene	1308				
+HIKGEFOG_01851	CDS	1308				hypothetical protein
+HIKGEFOG_01852	gene	1695				
+HIKGEFOG_01852	CDS	1695				hypothetical protein
+HIKGEFOG_01853	gene	840	pal_3			
+HIKGEFOG_01853	CDS	840	pal_3			Peptidoglycan-associated lipoprotein
+HIKGEFOG_01854	gene	165				
+HIKGEFOG_01854	CDS	165				hypothetical protein
+HIKGEFOG_01855	gene	4008	purL			
+HIKGEFOG_01855	CDS	4008	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase
+HIKGEFOG_01856	gene	495	srpC_1			
+HIKGEFOG_01856	CDS	495	srpC_1		COG2059	putative chromate transport protein
+HIKGEFOG_01857	gene	576	srpC_2			
+HIKGEFOG_01857	CDS	576	srpC_2		COG2059	putative chromate transport protein
+HIKGEFOG_01858	gene	2148	dcp			
+HIKGEFOG_01858	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+HIKGEFOG_01859	gene	1995	glgB_2			
+HIKGEFOG_01859	CDS	1995	glgB_2	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+HIKGEFOG_01860	gene	1959	pulA			
+HIKGEFOG_01860	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+HIKGEFOG_01861	gene	2220	susB			
+HIKGEFOG_01861	CDS	2220	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+HIKGEFOG_01862	gene	2721				
+HIKGEFOG_01862	CDS	2721				hypothetical protein
+HIKGEFOG_01863	gene	1416				
+HIKGEFOG_01863	CDS	1416				hypothetical protein
+HIKGEFOG_01864	gene	1218				
+HIKGEFOG_01864	CDS	1218				hypothetical protein
+HIKGEFOG_01865	gene	2058				
+HIKGEFOG_01865	CDS	2058				hypothetical protein
+HIKGEFOG_01866	gene	93				
+HIKGEFOG_01866	CDS	93				hypothetical protein
+HIKGEFOG_01867	gene	1092	susF			
+HIKGEFOG_01867	CDS	1092	susF			Outer membrane protein SusF
+HIKGEFOG_01868	gene	1122	susE			
+HIKGEFOG_01868	CDS	1122	susE			Outer membrane protein SusE
+HIKGEFOG_01869	gene	1617	susD			
+HIKGEFOG_01869	CDS	1617	susD			Starch-binding protein SusD
+HIKGEFOG_01870	gene	3081	susC			
+HIKGEFOG_01870	CDS	3081	susC			TonB-dependent receptor SusC
+HIKGEFOG_01871	gene	1032	cytR			
+HIKGEFOG_01871	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+HIKGEFOG_01872	gene	1299				
+HIKGEFOG_01872	CDS	1299				hypothetical protein
+HIKGEFOG_01873	gene	717	ispD			
+HIKGEFOG_01873	CDS	717	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+HIKGEFOG_01874	gene	2100	recG			
+HIKGEFOG_01874	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+HIKGEFOG_01875	gene	969				
+HIKGEFOG_01875	CDS	969				hypothetical protein
+HIKGEFOG_01876	gene	615				
+HIKGEFOG_01876	CDS	615				hypothetical protein
+HIKGEFOG_01877	gene	1233				
+HIKGEFOG_01877	CDS	1233				hypothetical protein
+HIKGEFOG_01878	gene	2385	btuB_9			
+HIKGEFOG_01878	CDS	2385	btuB_9			Vitamin B12 transporter BtuB
+HIKGEFOG_01879	gene	108				
+HIKGEFOG_01879	CDS	108				hypothetical protein
+HIKGEFOG_01880	gene	927				
+HIKGEFOG_01880	CDS	927				hypothetical protein
+HIKGEFOG_01881	gene	987	fcl_2			
+HIKGEFOG_01881	CDS	987	fcl_2	1.1.1.271		GDP-L-fucose synthase
+HIKGEFOG_01882	gene	720	tarI			
+HIKGEFOG_01882	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+HIKGEFOG_01883	gene	831				
+HIKGEFOG_01883	CDS	831				hypothetical protein
+HIKGEFOG_01884	gene	603				
+HIKGEFOG_01884	CDS	603				hypothetical protein
+HIKGEFOG_01885	gene	1344	ppdK_1			
+HIKGEFOG_01885	CDS	1344	ppdK_1	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+HIKGEFOG_01886	gene	1317	ppdK_2			
+HIKGEFOG_01886	CDS	1317	ppdK_2	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+HIKGEFOG_01887	gene	3111				
+HIKGEFOG_01887	CDS	3111				hypothetical protein
+HIKGEFOG_01888	gene	1443	rlmCD			
+HIKGEFOG_01888	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+HIKGEFOG_01889	gene	1101				
+HIKGEFOG_01889	CDS	1101				hypothetical protein
+HIKGEFOG_01890	gene	2202	hppA1			
+HIKGEFOG_01890	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+HIKGEFOG_01891	gene	399				
+HIKGEFOG_01891	CDS	399				hypothetical protein
+HIKGEFOG_01892	gene	1083				
+HIKGEFOG_01892	CDS	1083				hypothetical protein
+HIKGEFOG_01893	gene	1188				
+HIKGEFOG_01893	CDS	1188				hypothetical protein
+HIKGEFOG_01894	gene	3591				
+HIKGEFOG_01894	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+HIKGEFOG_01895	gene	2310	maeB			
+HIKGEFOG_01895	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+HIKGEFOG_01896	gene	819				
+HIKGEFOG_01896	CDS	819				hypothetical protein
+HIKGEFOG_01897	gene	486	resA_6			
+HIKGEFOG_01897	CDS	486	resA_6			Thiol-disulfide oxidoreductase ResA
+HIKGEFOG_01898	gene	903	rhaS_3			
+HIKGEFOG_01898	CDS	903	rhaS_3			HTH-type transcriptional activator RhaS
+HIKGEFOG_01899	gene	1188	bioF			
+HIKGEFOG_01899	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+HIKGEFOG_01900	gene	1497				
+HIKGEFOG_01900	CDS	1497				hypothetical protein
+HIKGEFOG_01901	gene	636				
+HIKGEFOG_01901	CDS	636				hypothetical protein
+HIKGEFOG_01902	gene	630				
+HIKGEFOG_01902	CDS	630				hypothetical protein
+HIKGEFOG_01903	gene	321				
+HIKGEFOG_01903	CDS	321				hypothetical protein
+HIKGEFOG_01904	gene	1089	trpS2			
+HIKGEFOG_01904	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+HIKGEFOG_01905	gene	4329	rpoC			
+HIKGEFOG_01905	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+HIKGEFOG_01906	gene	3813	rpoB			
+HIKGEFOG_01906	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+HIKGEFOG_01907	gene	378	rplL			
+HIKGEFOG_01907	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+HIKGEFOG_01908	gene	516	rplJ			
+HIKGEFOG_01908	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+HIKGEFOG_01909	gene	693	rplA			
+HIKGEFOG_01909	CDS	693	rplA			50S ribosomal protein L1
+HIKGEFOG_01910	gene	438	rplK			
+HIKGEFOG_01910	CDS	438	rplK			50S ribosomal protein L11
+HIKGEFOG_01911	gene	543	nusG			
+HIKGEFOG_01911	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+HIKGEFOG_01912	gene	74				
+HIKGEFOG_01912	tRNA	74				tRNA-Trp(cca)
+HIKGEFOG_01913	gene	1185	tufB			
+HIKGEFOG_01913	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+HIKGEFOG_01914	gene	73				
+HIKGEFOG_01914	tRNA	73				tRNA-Thr(ggt)
+HIKGEFOG_01915	gene	74				
+HIKGEFOG_01915	tRNA	74				tRNA-Gly(tcc)
+HIKGEFOG_01916	gene	84				
+HIKGEFOG_01916	tRNA	84				tRNA-Tyr(gta)
+HIKGEFOG_01917	gene	75				
+HIKGEFOG_01917	tRNA	75				tRNA-Thr(tgt)
+HIKGEFOG_01918	gene	300	hpf			
+HIKGEFOG_01918	CDS	300	hpf			Ribosome hibernation promoting factor
+HIKGEFOG_01919	gene	882	xerD_2			
+HIKGEFOG_01919	CDS	882	xerD_2			Tyrosine recombinase XerD
+HIKGEFOG_01920	gene	582				
+HIKGEFOG_01920	CDS	582				hypothetical protein
+HIKGEFOG_01921	gene	792				
+HIKGEFOG_01921	CDS	792				IS3 family transposase IS150
+HIKGEFOG_01922	gene	960				
+HIKGEFOG_01922	CDS	960				hypothetical protein
+HIKGEFOG_01923	gene	819	pdxK			
+HIKGEFOG_01923	CDS	819	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+HIKGEFOG_01924	gene	939				
+HIKGEFOG_01924	CDS	939			COG3385	IS4 family transposase ISPg4
+HIKGEFOG_01925	gene	171				
+HIKGEFOG_01925	CDS	171				hypothetical protein
+HIKGEFOG_01926	gene	600				
+HIKGEFOG_01926	CDS	600				hypothetical protein
+HIKGEFOG_01927	gene	1044				
+HIKGEFOG_01927	CDS	1044				hypothetical protein
+HIKGEFOG_01928	gene	222				
+HIKGEFOG_01928	CDS	222				hypothetical protein
+HIKGEFOG_01929	gene	840				
+HIKGEFOG_01929	CDS	840				hypothetical protein
+HIKGEFOG_01930	gene	1809	mutS_2			
+HIKGEFOG_01930	CDS	1809	mutS_2			DNA mismatch repair protein MutS
+HIKGEFOG_01931	gene	1182	purH_2			
+HIKGEFOG_01931	CDS	1182	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+HIKGEFOG_01932	gene	192				
+HIKGEFOG_01932	CDS	192				hypothetical protein
+HIKGEFOG_01933	gene	339				
+HIKGEFOG_01933	CDS	339				hypothetical protein
+HIKGEFOG_01934	gene	1200	mgl			
+HIKGEFOG_01934	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+HIKGEFOG_01935	gene	1002	fda			
+HIKGEFOG_01935	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+HIKGEFOG_01936	gene	1077				
+HIKGEFOG_01936	CDS	1077				hypothetical protein
+HIKGEFOG_01937	gene	735				
+HIKGEFOG_01937	CDS	735				hypothetical protein
+HIKGEFOG_01938	gene	1557	nnr			
+HIKGEFOG_01938	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+HIKGEFOG_01939	gene	537	hpt			
+HIKGEFOG_01939	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+HIKGEFOG_01940	gene	567	adk			
+HIKGEFOG_01940	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+HIKGEFOG_01941	gene	1176	obg			
+HIKGEFOG_01941	CDS	1176	obg	3.6.5.-		GTPase Obg
+HIKGEFOG_01942	gene	813				
+HIKGEFOG_01942	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+HIKGEFOG_01943	gene	567				
+HIKGEFOG_01943	CDS	567				hypothetical protein
+HIKGEFOG_01944	gene	1323				
+HIKGEFOG_01944	CDS	1323				hypothetical protein
+HIKGEFOG_01945	gene	933	rsgA			
+HIKGEFOG_01945	CDS	933	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+HIKGEFOG_01946	gene	561	frr			
+HIKGEFOG_01946	CDS	561	frr		COG0233	Ribosome-recycling factor
+HIKGEFOG_01947	gene	792	rsmA			
+HIKGEFOG_01947	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+HIKGEFOG_01948	gene	624				
+HIKGEFOG_01948	CDS	624				hypothetical protein
+HIKGEFOG_01949	gene	1317				
+HIKGEFOG_01949	CDS	1317				hypothetical protein
+HIKGEFOG_01950	gene	411				
+HIKGEFOG_01950	CDS	411				Single-stranded DNA-binding protein
+HIKGEFOG_01951	gene	549				
+HIKGEFOG_01951	CDS	549				hypothetical protein
+HIKGEFOG_01952	gene	74				
+HIKGEFOG_01952	tRNA	74				tRNA-Gly(gcc)
+HIKGEFOG_01953	gene	84				
+HIKGEFOG_01953	tRNA	84				tRNA-Leu(gag)
+HIKGEFOG_01954	gene	84				
+HIKGEFOG_01954	tRNA	84				tRNA-Leu(cag)
+HIKGEFOG_01955	gene	74				
+HIKGEFOG_01955	tRNA	74				tRNA-Gly(gcc)
+HIKGEFOG_01956	gene	1176	nspC			
+HIKGEFOG_01956	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+HIKGEFOG_01957	gene	555	rbr3A			
+HIKGEFOG_01957	CDS	555	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+HIKGEFOG_01958	gene	1362	hisS			
+HIKGEFOG_01958	CDS	1362	hisS	6.1.1.21	COG0124	Histidine--tRNA ligase
+HIKGEFOG_01959	gene	1275	purA			
+HIKGEFOG_01959	CDS	1275	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+HIKGEFOG_01960	gene	531				
+HIKGEFOG_01960	CDS	531				hypothetical protein
+HIKGEFOG_01961	gene	612				
+HIKGEFOG_01961	CDS	612				hypothetical protein
+HIKGEFOG_01962	gene	1959				
+HIKGEFOG_01962	CDS	1959				hypothetical protein
+HIKGEFOG_01963	gene	531				
+HIKGEFOG_01963	CDS	531				hypothetical protein
+HIKGEFOG_01964	gene	273				
+HIKGEFOG_01964	CDS	273				hypothetical protein
+HIKGEFOG_01965	gene	495				
+HIKGEFOG_01965	CDS	495				hypothetical protein
+HIKGEFOG_01966	gene	894				
+HIKGEFOG_01966	CDS	894				hypothetical protein
+HIKGEFOG_01967	gene	393				
+HIKGEFOG_01967	CDS	393				hypothetical protein
+HIKGEFOG_01968	gene	864	sigA_2			
+HIKGEFOG_01968	CDS	864	sigA_2			RNA polymerase sigma factor SigA
+HIKGEFOG_01969	gene	1482	proS			
+HIKGEFOG_01969	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+HIKGEFOG_01970	gene	696	pal_4			
+HIKGEFOG_01970	CDS	696	pal_4			Peptidoglycan-associated lipoprotein
+HIKGEFOG_01971	gene	732	mtgA			
+HIKGEFOG_01971	CDS	732	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+HIKGEFOG_01972	gene	2409	pcrA			
+HIKGEFOG_01972	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+HIKGEFOG_01973	gene	273	groS			
+HIKGEFOG_01973	CDS	273	groS		COG0234	10 kDa chaperonin
+HIKGEFOG_01974	gene	1632	groL			
+HIKGEFOG_01974	CDS	1632	groL		COG0459	60 kDa chaperonin
+HIKGEFOG_01975	gene	246				
+HIKGEFOG_01975	CDS	246				hypothetical protein
+HIKGEFOG_01976	gene	690				
+HIKGEFOG_01976	CDS	690				hypothetical protein
+HIKGEFOG_01977	gene	489				
+HIKGEFOG_01977	CDS	489				hypothetical protein
+HIKGEFOG_01978	gene	726				
+HIKGEFOG_01978	CDS	726				hypothetical protein
+HIKGEFOG_01979	gene	693				
+HIKGEFOG_01979	CDS	693				hypothetical protein
+HIKGEFOG_01980	gene	993	htpX			
+HIKGEFOG_01980	CDS	993	htpX	3.4.24.-		Protease HtpX
+HIKGEFOG_01981	gene	564	lemA			
+HIKGEFOG_01981	CDS	564	lemA		COG1704	Protein LemA
+HIKGEFOG_01982	gene	405				
+HIKGEFOG_01982	CDS	405				hypothetical protein
+HIKGEFOG_01983	gene	111				
+HIKGEFOG_01983	CDS	111				hypothetical protein
+HIKGEFOG_01984	gene	714	deoD_2			
+HIKGEFOG_01984	CDS	714	deoD_2	2.4.2.1	COG0813	Purine nucleoside phosphorylase DeoD-type
+HIKGEFOG_01985	gene	1101				
+HIKGEFOG_01985	CDS	1101				hypothetical protein
+HIKGEFOG_01986	gene	522				
+HIKGEFOG_01986	CDS	522				hypothetical protein
+HIKGEFOG_01987	gene	384				
+HIKGEFOG_01987	CDS	384				hypothetical protein
+HIKGEFOG_01988	gene	345				
+HIKGEFOG_01988	CDS	345				hypothetical protein
+HIKGEFOG_01989	gene	660				
+HIKGEFOG_01989	CDS	660				hypothetical protein
+HIKGEFOG_01990	gene	74				
+HIKGEFOG_01990	tRNA	74				tRNA-Met(cat)
+HIKGEFOG_01991	gene	612				
+HIKGEFOG_01991	CDS	612				hypothetical protein
+HIKGEFOG_01992	gene	747	fabG			
+HIKGEFOG_01992	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HIKGEFOG_01993	gene	672	rluD_3			
+HIKGEFOG_01993	CDS	672	rluD_3	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+HIKGEFOG_01994	gene	747				
+HIKGEFOG_01994	CDS	747				hypothetical protein
+HIKGEFOG_01995	gene	417				
+HIKGEFOG_01995	CDS	417				hypothetical protein
+HIKGEFOG_01996	gene	276				
+HIKGEFOG_01996	CDS	276				hypothetical protein
+HIKGEFOG_01997	gene	222				
+HIKGEFOG_01997	CDS	222				hypothetical protein
+HIKGEFOG_01998	gene	2313				
+HIKGEFOG_01998	CDS	2313				hypothetical protein
+HIKGEFOG_01999	gene	105				
+HIKGEFOG_01999	CDS	105				hypothetical protein

@@ -1,0 +1,2548 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+MNKGAICE_00001	gene	1545				
+MNKGAICE_00001	CDS	1545				hypothetical protein
+MNKGAICE_00002	gene	1230				
+MNKGAICE_00002	CDS	1230				hypothetical protein
+MNKGAICE_00003	gene	1215				
+MNKGAICE_00003	CDS	1215				hypothetical protein
+MNKGAICE_00004	gene	654				
+MNKGAICE_00004	CDS	654				hypothetical protein
+MNKGAICE_00005	gene	981	ribD			
+MNKGAICE_00005	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+MNKGAICE_00006	gene	1311	eno			
+MNKGAICE_00006	CDS	1311	eno	4.2.1.11	COG0148	Enolase
+MNKGAICE_00007	gene	417	glpE			
+MNKGAICE_00007	CDS	417	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+MNKGAICE_00008	gene	417				
+MNKGAICE_00008	CDS	417				hypothetical protein
+MNKGAICE_00009	gene	1125	dnaN			
+MNKGAICE_00009	CDS	1125	dnaN			Beta sliding clamp
+MNKGAICE_00010	gene	855	dinG			
+MNKGAICE_00010	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+MNKGAICE_00011	gene	1197	lagD_1			
+MNKGAICE_00011	CDS	1197	lagD_1	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+MNKGAICE_00012	gene	2454				
+MNKGAICE_00012	CDS	2454				hypothetical protein
+MNKGAICE_00013	gene	945	nagB			
+MNKGAICE_00013	CDS	945	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+MNKGAICE_00014	gene	1257	hflX			
+MNKGAICE_00014	CDS	1257	hflX			GTPase HflX
+MNKGAICE_00015	gene	975				
+MNKGAICE_00015	CDS	975				hypothetical protein
+MNKGAICE_00016	gene	1743				
+MNKGAICE_00016	CDS	1743				hypothetical protein
+MNKGAICE_00017	gene	2040	uvrB			
+MNKGAICE_00017	CDS	2040	uvrB		COG0556	UvrABC system protein B
+MNKGAICE_00018	gene	255				
+MNKGAICE_00018	CDS	255				hypothetical protein
+MNKGAICE_00019	gene	2307				
+MNKGAICE_00019	CDS	2307				hypothetical protein
+MNKGAICE_00020	gene	903	menA			
+MNKGAICE_00020	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+MNKGAICE_00021	gene	600	yeeO			
+MNKGAICE_00021	CDS	600	yeeO		COG0534	putative FMN/FAD exporter YeeO
+MNKGAICE_00022	gene	822	cmk			
+MNKGAICE_00022	CDS	822	cmk	2.7.4.25		Cytidylate kinase
+MNKGAICE_00023	gene	405				
+MNKGAICE_00023	CDS	405				hypothetical protein
+MNKGAICE_00024	gene	1251	tdcG			
+MNKGAICE_00024	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+MNKGAICE_00025	gene	2640	rep_1			
+MNKGAICE_00025	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+MNKGAICE_00026	gene	1302				
+MNKGAICE_00026	CDS	1302				hypothetical protein
+MNKGAICE_00027	gene	282				
+MNKGAICE_00027	CDS	282				hypothetical protein
+MNKGAICE_00028	gene	555	rbr3A			
+MNKGAICE_00028	CDS	555	rbr3A	1.11.1.1	COG1592	Reverse rubrerythrin-1
+MNKGAICE_00029	gene	1176	nspC			
+MNKGAICE_00029	CDS	1176	nspC	4.1.1.96		Carboxynorspermidine/carboxyspermidine decarboxylase
+MNKGAICE_00030	gene	74				
+MNKGAICE_00030	tRNA	74				tRNA-Gly(gcc)
+MNKGAICE_00031	gene	84				
+MNKGAICE_00031	tRNA	84				tRNA-Leu(cag)
+MNKGAICE_00032	gene	84				
+MNKGAICE_00032	tRNA	84				tRNA-Leu(gag)
+MNKGAICE_00033	gene	74				
+MNKGAICE_00033	tRNA	74				tRNA-Gly(gcc)
+MNKGAICE_00034	gene	549				
+MNKGAICE_00034	CDS	549				hypothetical protein
+MNKGAICE_00035	gene	411				
+MNKGAICE_00035	CDS	411				Single-stranded DNA-binding protein
+MNKGAICE_00036	gene	1317				
+MNKGAICE_00036	CDS	1317				hypothetical protein
+MNKGAICE_00037	gene	588				
+MNKGAICE_00037	CDS	588				hypothetical protein
+MNKGAICE_00038	gene	792	rsmA			
+MNKGAICE_00038	CDS	792	rsmA	2.1.1.182	COG0030	Ribosomal RNA small subunit methyltransferase A
+MNKGAICE_00039	gene	561	frr			
+MNKGAICE_00039	CDS	561	frr		COG0233	Ribosome-recycling factor
+MNKGAICE_00040	gene	510				
+MNKGAICE_00040	CDS	510				hypothetical protein
+MNKGAICE_00041	gene	993	mdh			
+MNKGAICE_00041	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+MNKGAICE_00042	gene	213				
+MNKGAICE_00042	CDS	213				hypothetical protein
+MNKGAICE_00043	gene	1305				
+MNKGAICE_00043	CDS	1305				hypothetical protein
+MNKGAICE_00044	gene	1686	dauA			
+MNKGAICE_00044	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+MNKGAICE_00045	gene	132				
+MNKGAICE_00045	CDS	132				hypothetical protein
+MNKGAICE_00046	gene	558				
+MNKGAICE_00046	CDS	558				hypothetical protein
+MNKGAICE_00047	gene	1827	glgB			
+MNKGAICE_00047	CDS	1827	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+MNKGAICE_00048	gene	1152				
+MNKGAICE_00048	CDS	1152				hypothetical protein
+MNKGAICE_00049	gene	687				
+MNKGAICE_00049	CDS	687				hypothetical protein
+MNKGAICE_00050	gene	468				
+MNKGAICE_00050	CDS	468				hypothetical protein
+MNKGAICE_00051	gene	111				
+MNKGAICE_00051	CDS	111				hypothetical protein
+MNKGAICE_00052	gene	558	ruvC			
+MNKGAICE_00052	CDS	558	ruvC	3.1.22.4	COG0817	Crossover junction endodeoxyribonuclease RuvC
+MNKGAICE_00053	gene	645				
+MNKGAICE_00053	CDS	645		3.-.-.-		putative protein
+MNKGAICE_00054	gene	624	rsmG			
+MNKGAICE_00054	CDS	624	rsmG	2.1.1.170	COG0357	Ribosomal RNA small subunit methyltransferase G
+MNKGAICE_00055	gene	729				
+MNKGAICE_00055	CDS	729				hypothetical protein
+MNKGAICE_00056	gene	432				
+MNKGAICE_00056	CDS	432				hypothetical protein
+MNKGAICE_00057	gene	1059	rfbM			
+MNKGAICE_00057	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+MNKGAICE_00058	gene	1086	gmd			
+MNKGAICE_00058	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+MNKGAICE_00059	gene	1098	fcl			
+MNKGAICE_00059	CDS	1098	fcl	1.1.1.271	COG0451	GDP-L-fucose synthase
+MNKGAICE_00060	gene	1494				
+MNKGAICE_00060	CDS	1494				hypothetical protein
+MNKGAICE_00061	gene	609				
+MNKGAICE_00061	CDS	609				hypothetical protein
+MNKGAICE_00062	gene	408	ftsK			
+MNKGAICE_00062	CDS	408	ftsK		COG1674	DNA translocase FtsK
+MNKGAICE_00063	gene	567				
+MNKGAICE_00063	CDS	567				hypothetical protein
+MNKGAICE_00064	gene	414	glmS			
+MNKGAICE_00064	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+MNKGAICE_00065	gene	171				
+MNKGAICE_00065	CDS	171				hypothetical protein
+MNKGAICE_00066	gene	600				
+MNKGAICE_00066	CDS	600				hypothetical protein
+MNKGAICE_00067	gene	747				
+MNKGAICE_00067	CDS	747				hypothetical protein
+MNKGAICE_00068	gene	615				
+MNKGAICE_00068	CDS	615				hypothetical protein
+MNKGAICE_00069	gene	510				
+MNKGAICE_00069	CDS	510				hypothetical protein
+MNKGAICE_00070	gene	1572				
+MNKGAICE_00070	CDS	1572				hypothetical protein
+MNKGAICE_00071	gene	1893				
+MNKGAICE_00071	CDS	1893				hypothetical protein
+MNKGAICE_00072	gene	1143				
+MNKGAICE_00072	CDS	1143				hypothetical protein
+MNKGAICE_00073	gene	390				
+MNKGAICE_00073	CDS	390				hypothetical protein
+MNKGAICE_00074	gene	1149				
+MNKGAICE_00074	CDS	1149				hypothetical protein
+MNKGAICE_00075	gene	426				
+MNKGAICE_00075	CDS	426				hypothetical protein
+MNKGAICE_00076	gene	207				
+MNKGAICE_00076	CDS	207				hypothetical protein
+MNKGAICE_00077	gene	219				
+MNKGAICE_00077	CDS	219				hypothetical protein
+MNKGAICE_00078	gene	2286	relA			
+MNKGAICE_00078	CDS	2286	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+MNKGAICE_00079	gene	1536				
+MNKGAICE_00079	CDS	1536				hypothetical protein
+MNKGAICE_00080	gene	2172				
+MNKGAICE_00080	CDS	2172				hypothetical protein
+MNKGAICE_00081	gene	1455				
+MNKGAICE_00081	CDS	1455				hypothetical protein
+MNKGAICE_00082	gene	396				
+MNKGAICE_00082	CDS	396				hypothetical protein
+MNKGAICE_00083	gene	1641				
+MNKGAICE_00083	CDS	1641				hypothetical protein
+MNKGAICE_00084	gene	1614	apxIB			
+MNKGAICE_00084	CDS	1614	apxIB		COG2274	Toxin RTX-I translocation ATP-binding protein
+MNKGAICE_00085	gene	273	lagD_2			
+MNKGAICE_00085	CDS	273	lagD_2	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+MNKGAICE_00086	gene	2361				
+MNKGAICE_00086	CDS	2361				hypothetical protein
+MNKGAICE_00087	gene	375				
+MNKGAICE_00087	CDS	375				hypothetical protein
+MNKGAICE_00088	gene	147				
+MNKGAICE_00088	CDS	147				hypothetical protein
+MNKGAICE_00089	gene	4485				
+MNKGAICE_00089	CDS	4485				hypothetical protein
+MNKGAICE_00090	gene	306	cas2			
+MNKGAICE_00090	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+MNKGAICE_00091	gene	933	cas1			
+MNKGAICE_00091	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+MNKGAICE_00092	gene	3984	cas9			
+MNKGAICE_00092	CDS	3984	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+MNKGAICE_00093	gene	102				
+MNKGAICE_00093	CDS	102				hypothetical protein
+MNKGAICE_00094	gene	450				
+MNKGAICE_00094	CDS	450				hypothetical protein
+MNKGAICE_00095	gene	786	tcdA			
+MNKGAICE_00095	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+MNKGAICE_00096	gene	558				
+MNKGAICE_00096	CDS	558				hypothetical protein
+MNKGAICE_00097	gene	1230				
+MNKGAICE_00097	CDS	1230				hypothetical protein
+MNKGAICE_00098	gene	501				
+MNKGAICE_00098	CDS	501				hypothetical protein
+MNKGAICE_00099	gene	216	sufC			
+MNKGAICE_00099	CDS	216	sufC		COG0396	Vegetative protein 296
+MNKGAICE_00100	gene	1365	sufD			
+MNKGAICE_00100	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+MNKGAICE_00101	gene	1584				
+MNKGAICE_00101	CDS	1584				hypothetical protein
+MNKGAICE_00102	gene	219				
+MNKGAICE_00102	CDS	219				hypothetical protein
+MNKGAICE_00103	gene	222				
+MNKGAICE_00103	CDS	222				hypothetical protein
+MNKGAICE_00104	gene	954	ftsH			
+MNKGAICE_00104	CDS	954	ftsH	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+MNKGAICE_00105	gene	696				
+MNKGAICE_00105	CDS	696				hypothetical protein
+MNKGAICE_00106	gene	165				
+MNKGAICE_00106	CDS	165				hypothetical protein
+MNKGAICE_00107	gene	2826				
+MNKGAICE_00107	CDS	2826				hypothetical protein
+MNKGAICE_00108	gene	2022	pyrK			
+MNKGAICE_00108	CDS	2022	pyrK			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+MNKGAICE_00109	gene	1122				
+MNKGAICE_00109	CDS	1122				hypothetical protein
+MNKGAICE_00110	gene	876	deoD			
+MNKGAICE_00110	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+MNKGAICE_00111	gene	1032	ltaE			
+MNKGAICE_00111	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+MNKGAICE_00112	gene	711				
+MNKGAICE_00112	CDS	711				hypothetical protein
+MNKGAICE_00113	gene	2628				
+MNKGAICE_00113	CDS	2628				hypothetical protein
+MNKGAICE_00114	gene	1230				
+MNKGAICE_00114	CDS	1230				hypothetical protein
+MNKGAICE_00115	gene	540				
+MNKGAICE_00115	CDS	540				hypothetical protein
+MNKGAICE_00116	gene	144				
+MNKGAICE_00116	CDS	144				hypothetical protein
+MNKGAICE_00117	gene	627				
+MNKGAICE_00117	CDS	627				hypothetical protein
+MNKGAICE_00118	gene	114				
+MNKGAICE_00118	CDS	114				hypothetical protein
+MNKGAICE_00119	gene	1725	caiA			
+MNKGAICE_00119	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+MNKGAICE_00120	gene	1026	carE			
+MNKGAICE_00120	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+MNKGAICE_00121	gene	873	carD			
+MNKGAICE_00121	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+MNKGAICE_00122	gene	1614	pckA			
+MNKGAICE_00122	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+MNKGAICE_00123	gene	660	upp			
+MNKGAICE_00123	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+MNKGAICE_00124	gene	516	dps			
+MNKGAICE_00124	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+MNKGAICE_00125	gene	789				
+MNKGAICE_00125	CDS	789				hypothetical protein
+MNKGAICE_00126	gene	1809				
+MNKGAICE_00126	CDS	1809				hypothetical protein
+MNKGAICE_00127	gene	861				
+MNKGAICE_00127	CDS	861				hypothetical protein
+MNKGAICE_00128	gene	1005				
+MNKGAICE_00128	CDS	1005				hypothetical protein
+MNKGAICE_00129	gene	828	btuD_1			
+MNKGAICE_00129	CDS	828	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MNKGAICE_00130	gene	83				
+MNKGAICE_00130	tRNA	83				tRNA-Leu(tag)
+MNKGAICE_00131	gene	834				
+MNKGAICE_00131	CDS	834				hypothetical protein
+MNKGAICE_00132	gene	471				
+MNKGAICE_00132	CDS	471				hypothetical protein
+MNKGAICE_00133	gene	993	rpoA			
+MNKGAICE_00133	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+MNKGAICE_00134	gene	609	rpsD			
+MNKGAICE_00134	CDS	609	rpsD			30S ribosomal protein S4
+MNKGAICE_00135	gene	387	rpsK			
+MNKGAICE_00135	CDS	387	rpsK			30S ribosomal protein S11
+MNKGAICE_00136	gene	381	rpsM			
+MNKGAICE_00136	CDS	381	rpsM			30S ribosomal protein S13
+MNKGAICE_00137	gene	780				
+MNKGAICE_00137	CDS	780				hypothetical protein
+MNKGAICE_00138	gene	1389				
+MNKGAICE_00138	CDS	1389				hypothetical protein
+MNKGAICE_00139	gene	927				
+MNKGAICE_00139	CDS	927				IS982 family transposase IS195
+MNKGAICE_00140	gene	240				
+MNKGAICE_00140	CDS	240				hypothetical protein
+MNKGAICE_00141	gene	600				
+MNKGAICE_00141	CDS	600				hypothetical protein
+MNKGAICE_00142	gene	633				
+MNKGAICE_00142	CDS	633				hypothetical protein
+MNKGAICE_00143	gene	927				
+MNKGAICE_00143	CDS	927				hypothetical protein
+MNKGAICE_00144	gene	141				
+MNKGAICE_00144	CDS	141				hypothetical protein
+MNKGAICE_00145	gene	1461	pepD			
+MNKGAICE_00145	CDS	1461	pepD	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+MNKGAICE_00146	gene	816				
+MNKGAICE_00146	CDS	816				hypothetical protein
+MNKGAICE_00147	gene	960				
+MNKGAICE_00147	CDS	960				putative epimerase/dehydratase
+MNKGAICE_00148	gene	1188	kbl			
+MNKGAICE_00148	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+MNKGAICE_00149	gene	477	argR			
+MNKGAICE_00149	CDS	477	argR		COG1438	Arginine repressor
+MNKGAICE_00150	gene	624	ybhL			
+MNKGAICE_00150	CDS	624	ybhL		COG0670	Inner membrane protein YbhL
+MNKGAICE_00151	gene	522				
+MNKGAICE_00151	CDS	522				hypothetical protein
+MNKGAICE_00152	gene	2463	pheT			
+MNKGAICE_00152	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+MNKGAICE_00153	gene	726				
+MNKGAICE_00153	CDS	726			COG0217	putative transcriptional regulatory protein
+MNKGAICE_00154	gene	390				
+MNKGAICE_00154	CDS	390				hypothetical protein
+MNKGAICE_00155	gene	861				
+MNKGAICE_00155	CDS	861				hypothetical protein
+MNKGAICE_00156	gene	693				
+MNKGAICE_00156	CDS	693				hypothetical protein
+MNKGAICE_00157	gene	750	htpX			
+MNKGAICE_00157	CDS	750	htpX	3.4.24.-	COG0501	Protease HtpX 
+MNKGAICE_00158	gene	1911				
+MNKGAICE_00158	CDS	1911				hypothetical protein
+MNKGAICE_00159	gene	612	nreC			
+MNKGAICE_00159	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+MNKGAICE_00160	gene	1050	nrdB			
+MNKGAICE_00160	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+MNKGAICE_00161	gene	912	nrdE			
+MNKGAICE_00161	CDS	912	nrdE	1.17.4.1	COG0209	Ribonucleoside-diphosphate reductase subunit alpha
+MNKGAICE_00162	gene	576				
+MNKGAICE_00162	CDS	576				hypothetical protein
+MNKGAICE_00163	gene	174				
+MNKGAICE_00163	CDS	174				hypothetical protein
+MNKGAICE_00164	gene	1032				
+MNKGAICE_00164	CDS	1032				hypothetical protein
+MNKGAICE_00165	gene	756				
+MNKGAICE_00165	CDS	756				hypothetical protein
+MNKGAICE_00166	gene	693				
+MNKGAICE_00166	CDS	693				hypothetical protein
+MNKGAICE_00167	gene	75				
+MNKGAICE_00167	tRNA	75				tRNA-Arg(ccg)
+MNKGAICE_00168	gene	1161				
+MNKGAICE_00168	CDS	1161				hypothetical protein
+MNKGAICE_00169	gene	1437	radA			
+MNKGAICE_00169	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+MNKGAICE_00170	gene	912				
+MNKGAICE_00170	CDS	912				hypothetical protein
+MNKGAICE_00171	gene	219				
+MNKGAICE_00171	CDS	219				hypothetical protein
+MNKGAICE_00172	gene	324				
+MNKGAICE_00172	CDS	324				hypothetical protein
+MNKGAICE_00173	gene	171				
+MNKGAICE_00173	CDS	171				hypothetical protein
+MNKGAICE_00174	gene	2148				
+MNKGAICE_00174	CDS	2148				hypothetical protein
+MNKGAICE_00175	gene	663				
+MNKGAICE_00175	CDS	663				hypothetical protein
+MNKGAICE_00176	gene	681				
+MNKGAICE_00176	CDS	681				hypothetical protein
+MNKGAICE_00177	gene	453				
+MNKGAICE_00177	CDS	453				hypothetical protein
+MNKGAICE_00178	gene	1317				
+MNKGAICE_00178	CDS	1317				hypothetical protein
+MNKGAICE_00179	gene	1149	yghO			
+MNKGAICE_00179	CDS	1149	yghO			Protein YghO
+MNKGAICE_00180	gene	693				
+MNKGAICE_00180	CDS	693				hypothetical protein
+MNKGAICE_00181	gene	486	resA_1			
+MNKGAICE_00181	CDS	486	resA_1			Thiol-disulfide oxidoreductase ResA
+MNKGAICE_00182	gene	1659				
+MNKGAICE_00182	CDS	1659				hypothetical protein
+MNKGAICE_00183	gene	786				
+MNKGAICE_00183	CDS	786				hypothetical protein
+MNKGAICE_00184	gene	408				
+MNKGAICE_00184	CDS	408				hypothetical protein
+MNKGAICE_00185	gene	435				
+MNKGAICE_00185	CDS	435				hypothetical protein
+MNKGAICE_00186	gene	1011				
+MNKGAICE_00186	CDS	1011				hypothetical protein
+MNKGAICE_00187	gene	561				
+MNKGAICE_00187	CDS	561				hypothetical protein
+MNKGAICE_00188	gene	399				
+MNKGAICE_00188	CDS	399				hypothetical protein
+MNKGAICE_00189	gene	474				
+MNKGAICE_00189	CDS	474				hypothetical protein
+MNKGAICE_00190	gene	264				
+MNKGAICE_00190	CDS	264				hypothetical protein
+MNKGAICE_00191	gene	798				
+MNKGAICE_00191	CDS	798				hypothetical protein
+MNKGAICE_00192	gene	945	algA			
+MNKGAICE_00192	CDS	945	algA		COG0662	Alginate biosynthesis protein AlgA
+MNKGAICE_00193	gene	1164				
+MNKGAICE_00193	CDS	1164				hypothetical protein
+MNKGAICE_00194	gene	1134				
+MNKGAICE_00194	CDS	1134				hypothetical protein
+MNKGAICE_00195	gene	480				
+MNKGAICE_00195	CDS	480				hypothetical protein
+MNKGAICE_00196	gene	117				
+MNKGAICE_00196	CDS	117				hypothetical protein
+MNKGAICE_00197	gene	1182	bdhA			
+MNKGAICE_00197	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+MNKGAICE_00198	gene	678				
+MNKGAICE_00198	CDS	678				hypothetical protein
+MNKGAICE_00199	gene	351	ndhC			
+MNKGAICE_00199	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+MNKGAICE_00200	gene	750	ndhK			
+MNKGAICE_00200	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+MNKGAICE_00201	gene	624				
+MNKGAICE_00201	CDS	624				hypothetical protein
+MNKGAICE_00202	gene	1032	rsmH			
+MNKGAICE_00202	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+MNKGAICE_00203	gene	465	mraZ			
+MNKGAICE_00203	CDS	465	mraZ			Transcriptional regulator MraZ
+MNKGAICE_00204	gene	828				
+MNKGAICE_00204	CDS	828				hypothetical protein
+MNKGAICE_00205	gene	393				
+MNKGAICE_00205	CDS	393				hypothetical protein
+MNKGAICE_00206	gene	240				
+MNKGAICE_00206	CDS	240				hypothetical protein
+MNKGAICE_00207	gene	996				
+MNKGAICE_00207	CDS	996				hypothetical protein
+MNKGAICE_00208	gene	360				
+MNKGAICE_00208	CDS	360				hypothetical protein
+MNKGAICE_00209	gene	378				
+MNKGAICE_00209	CDS	378				hypothetical protein
+MNKGAICE_00210	gene	441				
+MNKGAICE_00210	CDS	441				hypothetical protein
+MNKGAICE_00211	gene	714	COQ5			
+MNKGAICE_00211	CDS	714	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+MNKGAICE_00212	gene	114				
+MNKGAICE_00212	CDS	114				hypothetical protein
+MNKGAICE_00213	gene	288				
+MNKGAICE_00213	CDS	288				hypothetical protein
+MNKGAICE_00214	gene	96				
+MNKGAICE_00214	CDS	96				hypothetical protein
+MNKGAICE_00215	gene	408				
+MNKGAICE_00215	CDS	408				hypothetical protein
+MNKGAICE_00216	gene	384				
+MNKGAICE_00216	CDS	384				hypothetical protein
+MNKGAICE_00217	gene	315	trxA			
+MNKGAICE_00217	CDS	315	trxA			Thioredoxin 1
+MNKGAICE_00218	gene	2502	dnaE			
+MNKGAICE_00218	CDS	2502	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+MNKGAICE_00219	gene	531	pgk/tpi			
+MNKGAICE_00219	CDS	531	pgk/tpi		COG0126	Bifunctional PGK/TIM
+MNKGAICE_00220	gene	906				
+MNKGAICE_00220	CDS	906				hypothetical protein
+MNKGAICE_00221	gene	2565	glgP			
+MNKGAICE_00221	CDS	2565	glgP	2.4.1.1	COG0058	Glycogen phosphorylase
+MNKGAICE_00222	gene	264				
+MNKGAICE_00222	CDS	264				hypothetical protein
+MNKGAICE_00223	gene	870				
+MNKGAICE_00223	CDS	870				hypothetical protein
+MNKGAICE_00224	gene	261				
+MNKGAICE_00224	CDS	261				hypothetical protein
+MNKGAICE_00225	gene	165				
+MNKGAICE_00225	CDS	165				hypothetical protein
+MNKGAICE_00226	gene	387				
+MNKGAICE_00226	CDS	387				hypothetical protein
+MNKGAICE_00227	gene	222				
+MNKGAICE_00227	CDS	222				hypothetical protein
+MNKGAICE_00228	gene	555	cobO			
+MNKGAICE_00228	CDS	555	cobO	2.5.1.-	COG2096	Cobalamin adenosyltransferase
+MNKGAICE_00229	gene	606				
+MNKGAICE_00229	CDS	606				hypothetical protein
+MNKGAICE_00230	gene	107				
+MNKGAICE_00230	rRNA	107				5S ribosomal RNA
+MNKGAICE_00231	gene	672	rpe_1			
+MNKGAICE_00231	CDS	672	rpe_1	5.1.3.1	COG0036	Ribulose-phosphate 3-epimerase
+MNKGAICE_00232	gene	1026	gatD			
+MNKGAICE_00232	CDS	1026	gatD	1.1.1.251	COG1063	Galactitol 1-phosphate 5-dehydrogenase
+MNKGAICE_00233	gene	696	tarI1			
+MNKGAICE_00233	CDS	696	tarI1	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase 1
+MNKGAICE_00234	gene	927				
+MNKGAICE_00234	CDS	927				hypothetical protein
+MNKGAICE_00235	gene	411				
+MNKGAICE_00235	CDS	411				hypothetical protein
+MNKGAICE_00236	gene	708	rluB			
+MNKGAICE_00236	CDS	708	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+MNKGAICE_00237	gene	1395	asnS			
+MNKGAICE_00237	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+MNKGAICE_00238	gene	279				
+MNKGAICE_00238	CDS	279				hypothetical protein
+MNKGAICE_00239	gene	321				
+MNKGAICE_00239	CDS	321				hypothetical protein
+MNKGAICE_00240	gene	363	lolD			
+MNKGAICE_00240	CDS	363	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+MNKGAICE_00241	gene	546				
+MNKGAICE_00241	CDS	546				hypothetical protein
+MNKGAICE_00242	gene	138				
+MNKGAICE_00242	CDS	138				hypothetical protein
+MNKGAICE_00243	gene	759				
+MNKGAICE_00243	CDS	759				hypothetical protein
+MNKGAICE_00244	gene	774				
+MNKGAICE_00244	CDS	774				hypothetical protein
+MNKGAICE_00245	gene	1053				
+MNKGAICE_00245	CDS	1053				hypothetical protein
+MNKGAICE_00246	gene	477				
+MNKGAICE_00246	CDS	477				hypothetical protein
+MNKGAICE_00247	gene	366				
+MNKGAICE_00247	CDS	366				hypothetical protein
+MNKGAICE_00248	gene	1374	tpl			
+MNKGAICE_00248	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+MNKGAICE_00249	gene	1674	aspT			
+MNKGAICE_00249	CDS	1674	aspT			Aspartate/alanine antiporter
+MNKGAICE_00250	gene	987	btuB_1			
+MNKGAICE_00250	CDS	987	btuB_1			Vitamin B12 transporter BtuB
+MNKGAICE_00251	gene	147				
+MNKGAICE_00251	CDS	147				hypothetical protein
+MNKGAICE_00252	gene	1068				
+MNKGAICE_00252	CDS	1068				hypothetical protein
+MNKGAICE_00253	gene	615				
+MNKGAICE_00253	CDS	615				hypothetical protein
+MNKGAICE_00254	gene	969				
+MNKGAICE_00254	CDS	969				hypothetical protein
+MNKGAICE_00255	gene	894	fabD			
+MNKGAICE_00255	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+MNKGAICE_00256	gene	888				
+MNKGAICE_00256	CDS	888				hypothetical protein
+MNKGAICE_00257	gene	924				
+MNKGAICE_00257	CDS	924				hypothetical protein
+MNKGAICE_00258	gene	729				
+MNKGAICE_00258	CDS	729				hypothetical protein
+MNKGAICE_00259	gene	1356				
+MNKGAICE_00259	CDS	1356				hypothetical protein
+MNKGAICE_00260	gene	726				
+MNKGAICE_00260	CDS	726				hypothetical protein
+MNKGAICE_00261	gene	255				
+MNKGAICE_00261	CDS	255				hypothetical protein
+MNKGAICE_00262	gene	1272				
+MNKGAICE_00262	CDS	1272				hypothetical protein
+MNKGAICE_00263	gene	429				
+MNKGAICE_00263	CDS	429				hypothetical protein
+MNKGAICE_00264	gene	303				
+MNKGAICE_00264	CDS	303				hypothetical protein
+MNKGAICE_00265	gene	282				
+MNKGAICE_00265	CDS	282				hypothetical protein
+MNKGAICE_00266	gene	228				
+MNKGAICE_00266	CDS	228				hypothetical protein
+MNKGAICE_00267	gene	510				
+MNKGAICE_00267	CDS	510				hypothetical protein
+MNKGAICE_00268	gene	273				
+MNKGAICE_00268	CDS	273				hypothetical protein
+MNKGAICE_00269	gene	2238	rnr			
+MNKGAICE_00269	CDS	2238	rnr	3.1.13.1	COG0557	Ribonuclease R
+MNKGAICE_00270	gene	864				
+MNKGAICE_00270	CDS	864				hypothetical protein
+MNKGAICE_00271	gene	654				
+MNKGAICE_00271	CDS	654				hypothetical protein
+MNKGAICE_00272	gene	2061				
+MNKGAICE_00272	CDS	2061				hypothetical protein
+MNKGAICE_00273	gene	261				
+MNKGAICE_00273	CDS	261				hypothetical protein
+MNKGAICE_00274	gene	984				
+MNKGAICE_00274	CDS	984				hypothetical protein
+MNKGAICE_00275	gene	1713				
+MNKGAICE_00275	CDS	1713				hypothetical protein
+MNKGAICE_00276	gene	759				
+MNKGAICE_00276	CDS	759				hypothetical protein
+MNKGAICE_00277	gene	729				
+MNKGAICE_00277	CDS	729				hypothetical protein
+MNKGAICE_00278	gene	678	walR			
+MNKGAICE_00278	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+MNKGAICE_00279	gene	768				
+MNKGAICE_00279	CDS	768				hypothetical protein
+MNKGAICE_00280	gene	1098	apbC			
+MNKGAICE_00280	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+MNKGAICE_00281	gene	840				
+MNKGAICE_00281	CDS	840				hypothetical protein
+MNKGAICE_00282	gene	102				
+MNKGAICE_00282	CDS	102				hypothetical protein
+MNKGAICE_00283	gene	2517				
+MNKGAICE_00283	CDS	2517				hypothetical protein
+MNKGAICE_00284	gene	336				
+MNKGAICE_00284	CDS	336				hypothetical protein
+MNKGAICE_00285	gene	702	rny			
+MNKGAICE_00285	CDS	702	rny	3.1.-.-	COG1418	Ribonuclease Y
+MNKGAICE_00286	gene	957				
+MNKGAICE_00286	CDS	957				hypothetical protein
+MNKGAICE_00287	gene	585	malT			
+MNKGAICE_00287	CDS	585	malT			HTH-type transcriptional regulator MalT
+MNKGAICE_00288	gene	1158	gcdB			
+MNKGAICE_00288	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+MNKGAICE_00289	gene	450	pycA			
+MNKGAICE_00289	CDS	450	pycA	6.4.1.1		Pyruvate carboxylase
+MNKGAICE_00290	gene	1845				
+MNKGAICE_00290	CDS	1845				hypothetical protein
+MNKGAICE_00291	gene	339				
+MNKGAICE_00291	CDS	339				hypothetical protein
+MNKGAICE_00292	gene	591				
+MNKGAICE_00292	CDS	591				hypothetical protein
+MNKGAICE_00293	gene	564				
+MNKGAICE_00293	CDS	564				hypothetical protein
+MNKGAICE_00294	gene	189				
+MNKGAICE_00294	CDS	189				hypothetical protein
+MNKGAICE_00295	gene	165				
+MNKGAICE_00295	CDS	165				hypothetical protein
+MNKGAICE_00296	gene	381				
+MNKGAICE_00296	CDS	381				hypothetical protein
+MNKGAICE_00297	gene	1356				
+MNKGAICE_00297	CDS	1356				hypothetical protein
+MNKGAICE_00298	gene	1686				
+MNKGAICE_00298	CDS	1686				hypothetical protein
+MNKGAICE_00299	gene	321				
+MNKGAICE_00299	CDS	321				hypothetical protein
+MNKGAICE_00300	gene	396				
+MNKGAICE_00300	CDS	396				hypothetical protein
+MNKGAICE_00301	gene	915	rnz			
+MNKGAICE_00301	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+MNKGAICE_00302	gene	366				
+MNKGAICE_00302	CDS	366				hypothetical protein
+MNKGAICE_00303	gene	1536				
+MNKGAICE_00303	CDS	1536				hypothetical protein
+MNKGAICE_00304	gene	561	sigW			
+MNKGAICE_00304	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+MNKGAICE_00305	gene	261				
+MNKGAICE_00305	CDS	261				hypothetical protein
+MNKGAICE_00306	gene	1533				
+MNKGAICE_00306	CDS	1533				hypothetical protein
+MNKGAICE_00307	gene	426				
+MNKGAICE_00307	CDS	426				hypothetical protein
+MNKGAICE_00308	gene	1359				
+MNKGAICE_00308	CDS	1359				hypothetical protein
+MNKGAICE_00309	gene	813				
+MNKGAICE_00309	CDS	813				hypothetical protein
+MNKGAICE_00310	gene	1977	fbp			
+MNKGAICE_00310	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+MNKGAICE_00311	gene	942				
+MNKGAICE_00311	CDS	942				hypothetical protein
+MNKGAICE_00312	gene	1095				
+MNKGAICE_00312	CDS	1095				hypothetical protein
+MNKGAICE_00313	gene	417				
+MNKGAICE_00313	CDS	417				hypothetical protein
+MNKGAICE_00314	gene	807				
+MNKGAICE_00314	CDS	807				hypothetical protein
+MNKGAICE_00315	gene	453				
+MNKGAICE_00315	CDS	453				hypothetical protein
+MNKGAICE_00316	gene	537	sigE_1			
+MNKGAICE_00316	CDS	537	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+MNKGAICE_00317	gene	1242				
+MNKGAICE_00317	CDS	1242				hypothetical protein
+MNKGAICE_00318	gene	1824				
+MNKGAICE_00318	CDS	1824				hypothetical protein
+MNKGAICE_00319	gene	165				
+MNKGAICE_00319	CDS	165				hypothetical protein
+MNKGAICE_00320	gene	2805	alaS			
+MNKGAICE_00320	CDS	2805	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+MNKGAICE_00321	gene	348				
+MNKGAICE_00321	CDS	348				hypothetical protein
+MNKGAICE_00322	gene	354				
+MNKGAICE_00322	CDS	354				hypothetical protein
+MNKGAICE_00323	gene	558	rsmD			
+MNKGAICE_00323	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+MNKGAICE_00324	gene	861				
+MNKGAICE_00324	CDS	861				hypothetical protein
+MNKGAICE_00325	gene	492				
+MNKGAICE_00325	CDS	492				hypothetical protein
+MNKGAICE_00326	gene	1440	recD2			
+MNKGAICE_00326	CDS	1440	recD2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+MNKGAICE_00327	gene	498				
+MNKGAICE_00327	CDS	498				hypothetical protein
+MNKGAICE_00328	gene	681				
+MNKGAICE_00328	CDS	681				hypothetical protein
+MNKGAICE_00329	gene	450				
+MNKGAICE_00329	CDS	450				hypothetical protein
+MNKGAICE_00330	gene	657	gpx1			
+MNKGAICE_00330	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+MNKGAICE_00331	gene	174				
+MNKGAICE_00331	CDS	174				hypothetical protein
+MNKGAICE_00332	gene	228				
+MNKGAICE_00332	CDS	228				hypothetical protein
+MNKGAICE_00333	gene	384				
+MNKGAICE_00333	CDS	384				hypothetical protein
+MNKGAICE_00334	gene	288	ubiG			
+MNKGAICE_00334	CDS	288	ubiG	2.1.1.222	COG2227	Ubiquinone biosynthesis O-methyltransferase
+MNKGAICE_00335	gene	597				
+MNKGAICE_00335	CDS	597				hypothetical protein
+MNKGAICE_00336	gene	204				
+MNKGAICE_00336	CDS	204				hypothetical protein
+MNKGAICE_00337	gene	2907				
+MNKGAICE_00337	CDS	2907				hypothetical protein
+MNKGAICE_00338	gene	747				
+MNKGAICE_00338	CDS	747				hypothetical protein
+MNKGAICE_00339	gene	351				
+MNKGAICE_00339	CDS	351				hypothetical protein
+MNKGAICE_00340	gene	270				
+MNKGAICE_00340	CDS	270				hypothetical protein
+MNKGAICE_00341	gene	585				
+MNKGAICE_00341	CDS	585				hypothetical protein
+MNKGAICE_00342	gene	111				
+MNKGAICE_00342	CDS	111				hypothetical protein
+MNKGAICE_00343	gene	411				
+MNKGAICE_00343	CDS	411				hypothetical protein
+MNKGAICE_00344	gene	756				
+MNKGAICE_00344	CDS	756				hypothetical protein
+MNKGAICE_00345	gene	1623	cobQ			
+MNKGAICE_00345	CDS	1623	cobQ			Cobyric acid synthase
+MNKGAICE_00346	gene	666				
+MNKGAICE_00346	CDS	666				hypothetical protein
+MNKGAICE_00347	gene	342	exoA			
+MNKGAICE_00347	CDS	342	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+MNKGAICE_00348	gene	384				
+MNKGAICE_00348	CDS	384				hypothetical protein
+MNKGAICE_00349	gene	585				
+MNKGAICE_00349	CDS	585				hypothetical protein
+MNKGAICE_00350	gene	678				
+MNKGAICE_00350	CDS	678				hypothetical protein
+MNKGAICE_00351	gene	606				
+MNKGAICE_00351	CDS	606				hypothetical protein
+MNKGAICE_00352	gene	252				
+MNKGAICE_00352	CDS	252				hypothetical protein
+MNKGAICE_00353	gene	471				
+MNKGAICE_00353	CDS	471				hypothetical protein
+MNKGAICE_00354	gene	2199				
+MNKGAICE_00354	CDS	2199				hypothetical protein
+MNKGAICE_00355	gene	594				
+MNKGAICE_00355	CDS	594				hypothetical protein
+MNKGAICE_00356	gene	351				
+MNKGAICE_00356	CDS	351				hypothetical protein
+MNKGAICE_00357	gene	612				
+MNKGAICE_00357	CDS	612		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+MNKGAICE_00358	gene	966	queG			
+MNKGAICE_00358	CDS	966	queG	1.17.99.6	COG1600	Epoxyqueuosine reductase
+MNKGAICE_00359	gene	339				
+MNKGAICE_00359	CDS	339				hypothetical protein
+MNKGAICE_00360	gene	1251	hutI			
+MNKGAICE_00360	CDS	1251	hutI	3.5.2.7	COG1228	Imidazolonepropionase
+MNKGAICE_00361	gene	2484				
+MNKGAICE_00361	CDS	2484				hypothetical protein
+MNKGAICE_00362	gene	3018				
+MNKGAICE_00362	CDS	3018				hypothetical protein
+MNKGAICE_00363	gene	210				
+MNKGAICE_00363	CDS	210				hypothetical protein
+MNKGAICE_00364	gene	3348	secA			
+MNKGAICE_00364	CDS	3348	secA			Protein translocase subunit SecA
+MNKGAICE_00365	gene	429				
+MNKGAICE_00365	CDS	429				hypothetical protein
+MNKGAICE_00366	gene	849				
+MNKGAICE_00366	CDS	849				hypothetical protein
+MNKGAICE_00367	gene	1329	allB			
+MNKGAICE_00367	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+MNKGAICE_00368	gene	102				
+MNKGAICE_00368	CDS	102				hypothetical protein
+MNKGAICE_00369	gene	459				
+MNKGAICE_00369	CDS	459				hypothetical protein
+MNKGAICE_00370	gene	555				
+MNKGAICE_00370	CDS	555				hypothetical protein
+MNKGAICE_00371	gene	2130	tpiA			
+MNKGAICE_00371	CDS	2130	tpiA			Triosephosphate isomerase
+MNKGAICE_00372	gene	420				
+MNKGAICE_00372	CDS	420				hypothetical protein
+MNKGAICE_00373	gene	435	nudC_1			
+MNKGAICE_00373	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+MNKGAICE_00374	gene	852				
+MNKGAICE_00374	CDS	852				hypothetical protein
+MNKGAICE_00375	gene	1164				
+MNKGAICE_00375	CDS	1164				hypothetical protein
+MNKGAICE_00376	gene	1128	tgt			
+MNKGAICE_00376	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+MNKGAICE_00377	gene	798	lon			
+MNKGAICE_00377	CDS	798	lon	3.4.21.53	COG0466	Lon protease
+MNKGAICE_00378	gene	1440				
+MNKGAICE_00378	CDS	1440				hypothetical protein
+MNKGAICE_00379	gene	594				
+MNKGAICE_00379	CDS	594				hypothetical protein
+MNKGAICE_00380	gene	879				
+MNKGAICE_00380	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+MNKGAICE_00381	gene	432				
+MNKGAICE_00381	CDS	432				hypothetical protein
+MNKGAICE_00382	gene	525	purE			
+MNKGAICE_00382	CDS	525	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+MNKGAICE_00383	gene	630				
+MNKGAICE_00383	CDS	630				hypothetical protein
+MNKGAICE_00384	gene	1506	rpoN			
+MNKGAICE_00384	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+MNKGAICE_00385	gene	645				
+MNKGAICE_00385	CDS	645				hypothetical protein
+MNKGAICE_00386	gene	987	miaA_1			
+MNKGAICE_00386	CDS	987	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+MNKGAICE_00387	gene	606				
+MNKGAICE_00387	CDS	606				hypothetical protein
+MNKGAICE_00388	gene	1362	dsbD			
+MNKGAICE_00388	CDS	1362	dsbD	1.8.1.8	COG4232	Thiol:disulfide interchange protein DsbD
+MNKGAICE_00389	gene	174				
+MNKGAICE_00389	CDS	174				hypothetical protein
+MNKGAICE_00390	gene	74				
+MNKGAICE_00390	tRNA	74				tRNA-Met(cat)
+MNKGAICE_00391	gene	612				
+MNKGAICE_00391	CDS	612				hypothetical protein
+MNKGAICE_00392	gene	747	fabG			
+MNKGAICE_00392	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MNKGAICE_00393	gene	708				
+MNKGAICE_00393	CDS	708		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+MNKGAICE_00394	gene	147				
+MNKGAICE_00394	CDS	147				hypothetical protein
+MNKGAICE_00395	gene	840				
+MNKGAICE_00395	CDS	840				hypothetical protein
+MNKGAICE_00396	gene	126				
+MNKGAICE_00396	CDS	126				hypothetical protein
+MNKGAICE_00397	gene	450				
+MNKGAICE_00397	CDS	450				hypothetical protein
+MNKGAICE_00398	gene	582				
+MNKGAICE_00398	CDS	582			COG3385	IS4 family transposase ISPg4
+MNKGAICE_00399	gene	231				
+MNKGAICE_00399	CDS	231				hypothetical protein
+MNKGAICE_00400	gene	600				
+MNKGAICE_00400	CDS	600				hypothetical protein
+MNKGAICE_00401	gene	858				
+MNKGAICE_00401	CDS	858				hypothetical protein
+MNKGAICE_00402	gene	258				
+MNKGAICE_00402	CDS	258				hypothetical protein
+MNKGAICE_00403	gene	606				
+MNKGAICE_00403	CDS	606				hypothetical protein
+MNKGAICE_00404	gene	636	nth			
+MNKGAICE_00404	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+MNKGAICE_00405	gene	711				
+MNKGAICE_00405	CDS	711				hypothetical protein
+MNKGAICE_00406	gene	1527				
+MNKGAICE_00406	CDS	1527				hypothetical protein
+MNKGAICE_00407	gene	321				
+MNKGAICE_00407	CDS	321				hypothetical protein
+MNKGAICE_00408	gene	177				
+MNKGAICE_00408	CDS	177				hypothetical protein
+MNKGAICE_00409	gene	669				
+MNKGAICE_00409	CDS	669				hypothetical protein
+MNKGAICE_00410	gene	444				
+MNKGAICE_00410	CDS	444				hypothetical protein
+MNKGAICE_00411	gene	573				
+MNKGAICE_00411	CDS	573				hypothetical protein
+MNKGAICE_00412	gene	2379				
+MNKGAICE_00412	CDS	2379				hypothetical protein
+MNKGAICE_00413	gene	600				
+MNKGAICE_00413	CDS	600				hypothetical protein
+MNKGAICE_00414	gene	741	mtnN			
+MNKGAICE_00414	CDS	741	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+MNKGAICE_00415	gene	2508				
+MNKGAICE_00415	CDS	2508				hypothetical protein
+MNKGAICE_00416	gene	702				
+MNKGAICE_00416	CDS	702				hypothetical protein
+MNKGAICE_00417	gene	933				
+MNKGAICE_00417	CDS	933				hypothetical protein
+MNKGAICE_00418	gene	705	gph			
+MNKGAICE_00418	CDS	705	gph	3.1.3.18		Phosphoglycolate phosphatase
+MNKGAICE_00419	gene	948				
+MNKGAICE_00419	CDS	948				hypothetical protein
+MNKGAICE_00420	gene	843				
+MNKGAICE_00420	CDS	843				hypothetical protein
+MNKGAICE_00421	gene	651				
+MNKGAICE_00421	CDS	651				hypothetical protein
+MNKGAICE_00422	gene	291				
+MNKGAICE_00422	CDS	291				hypothetical protein
+MNKGAICE_00423	gene	177				
+MNKGAICE_00423	CDS	177				hypothetical protein
+MNKGAICE_00424	gene	519				
+MNKGAICE_00424	CDS	519				hypothetical protein
+MNKGAICE_00425	gene	453	yqaA			
+MNKGAICE_00425	CDS	453	yqaA		COG1238	Inner membrane protein YqaA
+MNKGAICE_00426	gene	1179				
+MNKGAICE_00426	CDS	1179				hypothetical protein
+MNKGAICE_00427	gene	246				
+MNKGAICE_00427	CDS	246				hypothetical protein
+MNKGAICE_00428	gene	1698				
+MNKGAICE_00428	CDS	1698				hypothetical protein
+MNKGAICE_00429	gene	507				
+MNKGAICE_00429	CDS	507				hypothetical protein
+MNKGAICE_00430	gene	819	pal			
+MNKGAICE_00430	CDS	819	pal			Peptidoglycan-associated lipoprotein
+MNKGAICE_00431	gene	1185				
+MNKGAICE_00431	CDS	1185				hypothetical protein
+MNKGAICE_00432	gene	384				
+MNKGAICE_00432	CDS	384				hypothetical protein
+MNKGAICE_00433	gene	1818	aspS			
+MNKGAICE_00433	CDS	1818	aspS	6.1.1.12		Aspartate--tRNA ligase
+MNKGAICE_00434	gene	303				
+MNKGAICE_00434	CDS	303				hypothetical protein
+MNKGAICE_00435	gene	300				
+MNKGAICE_00435	CDS	300				hypothetical protein
+MNKGAICE_00436	gene	927				
+MNKGAICE_00436	CDS	927				hypothetical protein
+MNKGAICE_00437	gene	891				
+MNKGAICE_00437	CDS	891				hypothetical protein
+MNKGAICE_00438	gene	153				
+MNKGAICE_00438	CDS	153				hypothetical protein
+MNKGAICE_00439	gene	795				
+MNKGAICE_00439	CDS	795				hypothetical protein
+MNKGAICE_00440	gene	606				
+MNKGAICE_00440	CDS	606				hypothetical protein
+MNKGAICE_00441	gene	1299	pyrP			
+MNKGAICE_00441	CDS	1299	pyrP			Uracil permease
+MNKGAICE_00442	gene	744				
+MNKGAICE_00442	CDS	744				hypothetical protein
+MNKGAICE_00443	gene	1524				
+MNKGAICE_00443	CDS	1524				hypothetical protein
+MNKGAICE_00444	gene	1344	fumA			
+MNKGAICE_00444	CDS	1344	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+MNKGAICE_00445	gene	768				
+MNKGAICE_00445	CDS	768				hypothetical protein
+MNKGAICE_00446	gene	74				
+MNKGAICE_00446	tRNA	74				tRNA-Pro(tgg)
+MNKGAICE_00447	gene	267				
+MNKGAICE_00447	CDS	267				hypothetical protein
+MNKGAICE_00448	gene	159				
+MNKGAICE_00448	CDS	159				hypothetical protein
+MNKGAICE_00449	gene	756	kdsA			
+MNKGAICE_00449	CDS	756	kdsA	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+MNKGAICE_00450	gene	975	kdsD			
+MNKGAICE_00450	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+MNKGAICE_00451	gene	390				
+MNKGAICE_00451	CDS	390				hypothetical protein
+MNKGAICE_00452	gene	285				
+MNKGAICE_00452	CDS	285				hypothetical protein
+MNKGAICE_00453	gene	2142				
+MNKGAICE_00453	CDS	2142				hypothetical protein
+MNKGAICE_00454	gene	606	ribE			
+MNKGAICE_00454	CDS	606	ribE	2.5.1.9		Riboflavin synthase
+MNKGAICE_00455	gene	1272	apgM			
+MNKGAICE_00455	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MNKGAICE_00456	gene	234				
+MNKGAICE_00456	CDS	234				hypothetical protein
+MNKGAICE_00457	gene	888				
+MNKGAICE_00457	CDS	888				hypothetical protein
+MNKGAICE_00458	gene	1476	rbbA			
+MNKGAICE_00458	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+MNKGAICE_00459	gene	189				
+MNKGAICE_00459	CDS	189				hypothetical protein
+MNKGAICE_00460	gene	2262	btuB_2			
+MNKGAICE_00460	CDS	2262	btuB_2			Vitamin B12 transporter BtuB
+MNKGAICE_00461	gene	1065	frdA			
+MNKGAICE_00461	CDS	1065	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+MNKGAICE_00462	gene	756	frdB			
+MNKGAICE_00462	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+MNKGAICE_00463	gene	513				
+MNKGAICE_00463	CDS	513				hypothetical protein
+MNKGAICE_00464	gene	594				
+MNKGAICE_00464	CDS	594				hypothetical protein
+MNKGAICE_00465	gene	138				
+MNKGAICE_00465	CDS	138				hypothetical protein
+MNKGAICE_00466	gene	945				
+MNKGAICE_00466	CDS	945				hypothetical protein
+MNKGAICE_00467	gene	1026	murB			
+MNKGAICE_00467	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+MNKGAICE_00468	gene	498				
+MNKGAICE_00468	CDS	498				hypothetical protein
+MNKGAICE_00469	gene	2355				
+MNKGAICE_00469	CDS	2355				hypothetical protein
+MNKGAICE_00470	gene	780				
+MNKGAICE_00470	CDS	780				hypothetical protein
+MNKGAICE_00471	gene	306				
+MNKGAICE_00471	CDS	306				hypothetical protein
+MNKGAICE_00472	gene	918	xerC_1			
+MNKGAICE_00472	CDS	918	xerC_1			Tyrosine recombinase XerC
+MNKGAICE_00473	gene	321				
+MNKGAICE_00473	CDS	321				hypothetical protein
+MNKGAICE_00474	gene	126				
+MNKGAICE_00474	CDS	126				hypothetical protein
+MNKGAICE_00475	gene	168				
+MNKGAICE_00475	CDS	168				hypothetical protein
+MNKGAICE_00476	gene	384				
+MNKGAICE_00476	CDS	384				hypothetical protein
+MNKGAICE_00477	gene	516				
+MNKGAICE_00477	CDS	516				hypothetical protein
+MNKGAICE_00478	gene	996				
+MNKGAICE_00478	CDS	996				hypothetical protein
+MNKGAICE_00479	gene	1374	ihfA			
+MNKGAICE_00479	CDS	1374	ihfA			Integration host factor subunit alpha
+MNKGAICE_00480	gene	249	hup			
+MNKGAICE_00480	CDS	249	hup			DNA-binding protein HU
+MNKGAICE_00481	gene	1050				
+MNKGAICE_00481	CDS	1050				hypothetical protein
+MNKGAICE_00482	gene	699				
+MNKGAICE_00482	CDS	699				hypothetical protein
+MNKGAICE_00483	gene	495				
+MNKGAICE_00483	CDS	495				hypothetical protein
+MNKGAICE_00484	gene	543	mtcA1			
+MNKGAICE_00484	CDS	543	mtcA1	4.2.1.1	COG0288	Beta-carbonic anhydrase 1
+MNKGAICE_00485	gene	243				
+MNKGAICE_00485	CDS	243				hypothetical protein
+MNKGAICE_00486	gene	693				
+MNKGAICE_00486	CDS	693				hypothetical protein
+MNKGAICE_00487	gene	867				
+MNKGAICE_00487	CDS	867				hypothetical protein
+MNKGAICE_00488	gene	939	cobD			
+MNKGAICE_00488	CDS	939	cobD		COG1270	Cobalamin biosynthesis protein CobD
+MNKGAICE_00489	gene	309	hisC			
+MNKGAICE_00489	CDS	309	hisC	2.6.1.9		Histidinol-phosphate aminotransferase
+MNKGAICE_00490	gene	75				
+MNKGAICE_00490	tRNA	75				tRNA-Glu(ttc)
+MNKGAICE_00491	gene	255	rpsT			
+MNKGAICE_00491	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+MNKGAICE_00492	gene	135				
+MNKGAICE_00492	CDS	135				hypothetical protein
+MNKGAICE_00493	gene	1971	gyrB			
+MNKGAICE_00493	CDS	1971	gyrB	5.6.2.2	COG0187	DNA gyrase subunit B
+MNKGAICE_00494	gene	267				
+MNKGAICE_00494	CDS	267				hypothetical protein
+MNKGAICE_00495	gene	441				
+MNKGAICE_00495	CDS	441				hypothetical protein
+MNKGAICE_00496	gene	1323				
+MNKGAICE_00496	CDS	1323				hypothetical protein
+MNKGAICE_00497	gene	89				
+MNKGAICE_00497	tRNA	89				tRNA-Ser(gga)
+MNKGAICE_00498	gene	843	dtd3			
+MNKGAICE_00498	CDS	843	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+MNKGAICE_00499	gene	1479				
+MNKGAICE_00499	CDS	1479				hypothetical protein
+MNKGAICE_00500	gene	960				
+MNKGAICE_00500	CDS	960				hypothetical protein
+MNKGAICE_00501	gene	690				
+MNKGAICE_00501	CDS	690				hypothetical protein
+MNKGAICE_00502	gene	348				
+MNKGAICE_00502	CDS	348				hypothetical protein
+MNKGAICE_00503	gene	465				
+MNKGAICE_00503	CDS	465				hypothetical protein
+MNKGAICE_00504	gene	1227	xerC_2			
+MNKGAICE_00504	CDS	1227	xerC_2			Tyrosine recombinase XerC
+MNKGAICE_00505	gene	86				
+MNKGAICE_00505	tRNA	86				tRNA-Ser(tga)
+MNKGAICE_00506	gene	1305	tyrS			
+MNKGAICE_00506	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+MNKGAICE_00507	gene	492				
+MNKGAICE_00507	CDS	492				hypothetical protein
+MNKGAICE_00508	gene	432	rnpA			
+MNKGAICE_00508	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+MNKGAICE_00509	gene	747				
+MNKGAICE_00509	CDS	747				hypothetical protein
+MNKGAICE_00510	gene	483				
+MNKGAICE_00510	CDS	483				hypothetical protein
+MNKGAICE_00511	gene	1170				
+MNKGAICE_00511	CDS	1170				hypothetical protein
+MNKGAICE_00512	gene	1740				
+MNKGAICE_00512	CDS	1740				hypothetical protein
+MNKGAICE_00513	gene	228				
+MNKGAICE_00513	CDS	228				hypothetical protein
+MNKGAICE_00514	gene	303	rluD_1			
+MNKGAICE_00514	CDS	303	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MNKGAICE_00515	gene	993	ddlA			
+MNKGAICE_00515	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+MNKGAICE_00516	gene	1176				
+MNKGAICE_00516	CDS	1176				hypothetical protein
+MNKGAICE_00517	gene	681				
+MNKGAICE_00517	CDS	681				hypothetical protein
+MNKGAICE_00518	gene	393				
+MNKGAICE_00518	CDS	393				hypothetical protein
+MNKGAICE_00519	gene	609				
+MNKGAICE_00519	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+MNKGAICE_00520	gene	897				
+MNKGAICE_00520	CDS	897				hypothetical protein
+MNKGAICE_00521	gene	180				
+MNKGAICE_00521	CDS	180				hypothetical protein
+MNKGAICE_00522	gene	1002				
+MNKGAICE_00522	CDS	1002				hypothetical protein
+MNKGAICE_00523	gene	273				
+MNKGAICE_00523	CDS	273				hypothetical protein
+MNKGAICE_00524	gene	1953	yheS			
+MNKGAICE_00524	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+MNKGAICE_00525	gene	2481				
+MNKGAICE_00525	CDS	2481				hypothetical protein
+MNKGAICE_00526	gene	519	rmlA			
+MNKGAICE_00526	CDS	519	rmlA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase
+MNKGAICE_00527	gene	1209				
+MNKGAICE_00527	CDS	1209				hypothetical protein
+MNKGAICE_00528	gene	1155				
+MNKGAICE_00528	CDS	1155				hypothetical protein
+MNKGAICE_00529	gene	888	gyrA			
+MNKGAICE_00529	CDS	888	gyrA	5.6.2.2		DNA gyrase subunit A
+MNKGAICE_00530	gene	2025				
+MNKGAICE_00530	CDS	2025				hypothetical protein
+MNKGAICE_00531	gene	96				
+MNKGAICE_00531	CDS	96				hypothetical protein
+MNKGAICE_00532	gene	1152				
+MNKGAICE_00532	CDS	1152				hypothetical protein
+MNKGAICE_00533	gene	1332				
+MNKGAICE_00533	CDS	1332				hypothetical protein
+MNKGAICE_00534	gene	246				
+MNKGAICE_00534	CDS	246				hypothetical protein
+MNKGAICE_00535	gene	2016				
+MNKGAICE_00535	CDS	2016				hypothetical protein
+MNKGAICE_00536	gene	2277	susC			
+MNKGAICE_00536	CDS	2277	susC			TonB-dependent receptor SusC
+MNKGAICE_00537	gene	303				
+MNKGAICE_00537	CDS	303				hypothetical protein
+MNKGAICE_00538	gene	1302				
+MNKGAICE_00538	CDS	1302				IS1380 family transposase ISBf12
+MNKGAICE_00539	gene	945	per1			
+MNKGAICE_00539	CDS	945	per1	3.5.2.6		Extended-spectrum beta-lactamase PER-1
+MNKGAICE_00540	gene	387				
+MNKGAICE_00540	CDS	387				hypothetical protein
+MNKGAICE_00541	gene	1233	xerC_3			
+MNKGAICE_00541	CDS	1233	xerC_3			Tyrosine recombinase XerC
+MNKGAICE_00542	gene	786				
+MNKGAICE_00542	CDS	786				hypothetical protein
+MNKGAICE_00543	gene	654	csm3			
+MNKGAICE_00543	CDS	654	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+MNKGAICE_00544	gene	429				
+MNKGAICE_00544	CDS	429				hypothetical protein
+MNKGAICE_00545	gene	600				
+MNKGAICE_00545	CDS	600				hypothetical protein
+MNKGAICE_00546	gene	474				
+MNKGAICE_00546	CDS	474				hypothetical protein
+MNKGAICE_00547	gene	2547				
+MNKGAICE_00547	CDS	2547				hypothetical protein
+MNKGAICE_00548	gene	1314				
+MNKGAICE_00548	CDS	1314				hypothetical protein
+MNKGAICE_00549	gene	1350				
+MNKGAICE_00549	CDS	1350				hypothetical protein
+MNKGAICE_00550	gene	552	nusA			
+MNKGAICE_00550	CDS	552	nusA		COG0195	Transcription termination/antitermination protein NusA
+MNKGAICE_00551	gene	534				
+MNKGAICE_00551	CDS	534				hypothetical protein
+MNKGAICE_00552	gene	2499	clpC			
+MNKGAICE_00552	CDS	2499	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+MNKGAICE_00553	gene	555	scpC			
+MNKGAICE_00553	CDS	555	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+MNKGAICE_00554	gene	423				
+MNKGAICE_00554	CDS	423				hypothetical protein
+MNKGAICE_00555	gene	2127	rcsC			
+MNKGAICE_00555	CDS	2127	rcsC	2.7.13.3		Sensor histidine kinase RcsC
+MNKGAICE_00556	gene	444				
+MNKGAICE_00556	CDS	444				hypothetical protein
+MNKGAICE_00557	gene	1563				
+MNKGAICE_00557	CDS	1563				hypothetical protein
+MNKGAICE_00558	gene	534	atpH_1			
+MNKGAICE_00558	CDS	534	atpH_1		COG0712	ATP synthase subunit delta
+MNKGAICE_00559	gene	519	atpF			
+MNKGAICE_00559	CDS	519	atpF		COG0711	ATP synthase subunit b
+MNKGAICE_00560	gene	240	atpH_2			
+MNKGAICE_00560	CDS	240	atpH_2			ATP synthase subunit c
+MNKGAICE_00561	gene	1032	atpB			
+MNKGAICE_00561	CDS	1032	atpB			ATP synthase subunit a
+MNKGAICE_00562	gene	144				
+MNKGAICE_00562	CDS	144				hypothetical protein
+MNKGAICE_00563	gene	420				
+MNKGAICE_00563	CDS	420				hypothetical protein
+MNKGAICE_00564	gene	231				
+MNKGAICE_00564	CDS	231				hypothetical protein
+MNKGAICE_00565	gene	1179				
+MNKGAICE_00565	CDS	1179				hypothetical protein
+MNKGAICE_00566	gene	684	feoB			
+MNKGAICE_00566	CDS	684	feoB		COG0370	Fe(2+) transporter FeoB
+MNKGAICE_00567	gene	105				
+MNKGAICE_00567	CDS	105				hypothetical protein
+MNKGAICE_00568	gene	879				
+MNKGAICE_00568	CDS	879				hypothetical protein
+MNKGAICE_00569	gene	663	queC			
+MNKGAICE_00569	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+MNKGAICE_00570	gene	780				
+MNKGAICE_00570	CDS	780				hypothetical protein
+MNKGAICE_00571	gene	879	ftsX			
+MNKGAICE_00571	CDS	879	ftsX		COG2177	Cell division protein FtsX
+MNKGAICE_00572	gene	249				
+MNKGAICE_00572	CDS	249				hypothetical protein
+MNKGAICE_00573	gene	1344	glyA			
+MNKGAICE_00573	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+MNKGAICE_00574	gene	360	yjbR			
+MNKGAICE_00574	CDS	360	yjbR		COG2315	putative protein YjbR
+MNKGAICE_00575	gene	579				
+MNKGAICE_00575	CDS	579				hypothetical protein
+MNKGAICE_00576	gene	201				
+MNKGAICE_00576	CDS	201				hypothetical protein
+MNKGAICE_00577	gene	2553	ptpA			
+MNKGAICE_00577	CDS	2553	ptpA	3.4.14.12	COG1506	Prolyl tripeptidyl peptidase
+MNKGAICE_00578	gene	2004				
+MNKGAICE_00578	CDS	2004				hypothetical protein
+MNKGAICE_00579	gene	189				
+MNKGAICE_00579	CDS	189				hypothetical protein
+MNKGAICE_00580	gene	660				
+MNKGAICE_00580	CDS	660				hypothetical protein
+MNKGAICE_00581	gene	1650				
+MNKGAICE_00581	CDS	1650				hypothetical protein
+MNKGAICE_00582	gene	330				
+MNKGAICE_00582	CDS	330				hypothetical protein
+MNKGAICE_00583	gene	603				
+MNKGAICE_00583	CDS	603				hypothetical protein
+MNKGAICE_00584	gene	705				
+MNKGAICE_00584	CDS	705				hypothetical protein
+MNKGAICE_00585	gene	1023				
+MNKGAICE_00585	CDS	1023				hypothetical protein
+MNKGAICE_00586	gene	621				
+MNKGAICE_00586	CDS	621				hypothetical protein
+MNKGAICE_00587	gene	240				
+MNKGAICE_00587	CDS	240				hypothetical protein
+MNKGAICE_00588	gene	192				
+MNKGAICE_00588	CDS	192				hypothetical protein
+MNKGAICE_00589	gene	1104				
+MNKGAICE_00589	CDS	1104				hypothetical protein
+MNKGAICE_00590	gene	438				
+MNKGAICE_00590	CDS	438				hypothetical protein
+MNKGAICE_00591	gene	1440	mrdB			
+MNKGAICE_00591	CDS	1440	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+MNKGAICE_00592	gene	900	rluD_2			
+MNKGAICE_00592	CDS	900	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+MNKGAICE_00593	gene	398	ssrA			
+MNKGAICE_00593	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+MNKGAICE_00594	gene	798	ccsA_1			
+MNKGAICE_00594	CDS	798	ccsA_1			Cytochrome c biogenesis protein CcsA
+MNKGAICE_00595	gene	906				
+MNKGAICE_00595	CDS	906				hypothetical protein
+MNKGAICE_00596	gene	1098				
+MNKGAICE_00596	CDS	1098				hypothetical protein
+MNKGAICE_00597	gene	117				
+MNKGAICE_00597	CDS	117				hypothetical protein
+MNKGAICE_00598	gene	834				
+MNKGAICE_00598	CDS	834				hypothetical protein
+MNKGAICE_00599	gene	921	rfbB_1			
+MNKGAICE_00599	CDS	921	rfbB_1	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+MNKGAICE_00600	gene	960				
+MNKGAICE_00600	CDS	960				hypothetical protein
+MNKGAICE_00601	gene	126				
+MNKGAICE_00601	CDS	126				hypothetical protein
+MNKGAICE_00602	gene	600	tdk			
+MNKGAICE_00602	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+MNKGAICE_00603	gene	1134				
+MNKGAICE_00603	CDS	1134				hypothetical protein
+MNKGAICE_00604	gene	1509				
+MNKGAICE_00604	CDS	1509				hypothetical protein
+MNKGAICE_00605	gene	456				
+MNKGAICE_00605	CDS	456				hypothetical protein
+MNKGAICE_00606	gene	1575				
+MNKGAICE_00606	CDS	1575				hypothetical protein
+MNKGAICE_00607	gene	315				
+MNKGAICE_00607	CDS	315				hypothetical protein
+MNKGAICE_00608	gene	573				
+MNKGAICE_00608	CDS	573				hypothetical protein
+MNKGAICE_00609	gene	1311	dapL			
+MNKGAICE_00609	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+MNKGAICE_00610	gene	489				
+MNKGAICE_00610	CDS	489				hypothetical protein
+MNKGAICE_00611	gene	981	glkA			
+MNKGAICE_00611	CDS	981	glkA	2.7.1.2		Glucokinase
+MNKGAICE_00612	gene	519				
+MNKGAICE_00612	CDS	519				hypothetical protein
+MNKGAICE_00613	gene	1515				
+MNKGAICE_00613	CDS	1515				hypothetical protein
+MNKGAICE_00614	gene	120				
+MNKGAICE_00614	CDS	120				hypothetical protein
+MNKGAICE_00615	gene	774	lpxA_1			
+MNKGAICE_00615	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+MNKGAICE_00616	gene	1386	oprM			
+MNKGAICE_00616	CDS	1386	oprM		COG1538	Outer membrane protein OprM
+MNKGAICE_00617	gene	858	rpsA			
+MNKGAICE_00617	CDS	858	rpsA		COG0539	30S ribosomal protein S1
+MNKGAICE_00618	gene	450				
+MNKGAICE_00618	CDS	450				hypothetical protein
+MNKGAICE_00619	gene	873	sigA			
+MNKGAICE_00619	CDS	873	sigA		COG0568	RNA polymerase sigma factor SigA
+MNKGAICE_00620	gene	240				
+MNKGAICE_00620	CDS	240				hypothetical protein
+MNKGAICE_00621	gene	1077	mnmA			
+MNKGAICE_00621	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+MNKGAICE_00622	gene	705	hxpA			
+MNKGAICE_00622	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+MNKGAICE_00623	gene	855	pgi			
+MNKGAICE_00623	CDS	855	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+MNKGAICE_00624	gene	561				
+MNKGAICE_00624	CDS	561				hypothetical protein
+MNKGAICE_00625	gene	270				
+MNKGAICE_00625	CDS	270				hypothetical protein
+MNKGAICE_00626	gene	345				
+MNKGAICE_00626	CDS	345				hypothetical protein
+MNKGAICE_00627	gene	273	groS1			
+MNKGAICE_00627	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+MNKGAICE_00628	gene	1392	rep_2			
+MNKGAICE_00628	CDS	1392	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+MNKGAICE_00629	gene	423				
+MNKGAICE_00629	CDS	423				hypothetical protein
+MNKGAICE_00630	gene	615	recR			
+MNKGAICE_00630	CDS	615	recR		COG0353	Recombination protein RecR
+MNKGAICE_00631	gene	615	engB			
+MNKGAICE_00631	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+MNKGAICE_00632	gene	381				
+MNKGAICE_00632	CDS	381				hypothetical protein
+MNKGAICE_00633	gene	183				
+MNKGAICE_00633	CDS	183				hypothetical protein
+MNKGAICE_00634	gene	1092	susF			
+MNKGAICE_00634	CDS	1092	susF			Outer membrane protein SusF
+MNKGAICE_00635	gene	1122	susE			
+MNKGAICE_00635	CDS	1122	susE			Outer membrane protein SusE
+MNKGAICE_00636	gene	168				
+MNKGAICE_00636	CDS	168				hypothetical protein
+MNKGAICE_00637	gene	807	yycJ			
+MNKGAICE_00637	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+MNKGAICE_00638	gene	465				
+MNKGAICE_00638	CDS	465				hypothetical protein
+MNKGAICE_00639	gene	1134	hemW			
+MNKGAICE_00639	CDS	1134	hemW		COG0635	Heme chaperone HemW
+MNKGAICE_00640	gene	171				
+MNKGAICE_00640	CDS	171				hypothetical protein
+MNKGAICE_00641	gene	369				
+MNKGAICE_00641	CDS	369				hypothetical protein
+MNKGAICE_00642	gene	519				
+MNKGAICE_00642	CDS	519				hypothetical protein
+MNKGAICE_00643	gene	885				
+MNKGAICE_00643	CDS	885				hypothetical protein
+MNKGAICE_00644	gene	1008				
+MNKGAICE_00644	CDS	1008				hypothetical protein
+MNKGAICE_00645	gene	204	trmR			
+MNKGAICE_00645	CDS	204	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+MNKGAICE_00646	gene	999				
+MNKGAICE_00646	CDS	999				hypothetical protein
+MNKGAICE_00647	gene	1548				
+MNKGAICE_00647	CDS	1548				hypothetical protein
+MNKGAICE_00648	gene	735	menG			
+MNKGAICE_00648	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+MNKGAICE_00649	gene	981	purC			
+MNKGAICE_00649	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+MNKGAICE_00650	gene	546	ybeZ			
+MNKGAICE_00650	CDS	546	ybeZ		COG1702	PhoH-like protein
+MNKGAICE_00651	gene	609				
+MNKGAICE_00651	CDS	609				hypothetical protein
+MNKGAICE_00652	gene	462				
+MNKGAICE_00652	CDS	462				hypothetical protein
+MNKGAICE_00653	gene	264	rpmB_1			
+MNKGAICE_00653	CDS	264	rpmB_1		COG0227	50S ribosomal protein L28
+MNKGAICE_00654	gene	2118				
+MNKGAICE_00654	CDS	2118				hypothetical protein
+MNKGAICE_00655	gene	333				
+MNKGAICE_00655	CDS	333				hypothetical protein
+MNKGAICE_00656	gene	669	dxr			
+MNKGAICE_00656	CDS	669	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+MNKGAICE_00657	gene	1410				
+MNKGAICE_00657	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+MNKGAICE_00658	gene	1647	cca			
+MNKGAICE_00658	CDS	1647	cca	2.7.7.72		CCA-adding enzyme
+MNKGAICE_00659	gene	633				
+MNKGAICE_00659	CDS	633				hypothetical protein
+MNKGAICE_00660	gene	573	yhdE			
+MNKGAICE_00660	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+MNKGAICE_00661	gene	519	kdsC			
+MNKGAICE_00661	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+MNKGAICE_00662	gene	783				
+MNKGAICE_00662	CDS	783				hypothetical protein
+MNKGAICE_00663	gene	288				
+MNKGAICE_00663	CDS	288				hypothetical protein
+MNKGAICE_00664	gene	1089				
+MNKGAICE_00664	CDS	1089				ISAs1 family transposase ISPg6
+MNKGAICE_00665	gene	1134				
+MNKGAICE_00665	CDS	1134				hypothetical protein
+MNKGAICE_00666	gene	1089	nuoH			
+MNKGAICE_00666	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+MNKGAICE_00667	gene	1395	nuoC			
+MNKGAICE_00667	CDS	1395	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+MNKGAICE_00668	gene	843	murI			
+MNKGAICE_00668	CDS	843	murI	5.1.1.3		Glutamate racemase
+MNKGAICE_00669	gene	633				
+MNKGAICE_00669	CDS	633				hypothetical protein
+MNKGAICE_00670	gene	501	skp			
+MNKGAICE_00670	CDS	501	skp		COG2825	Chaperone protein Skp
+MNKGAICE_00671	gene	549				
+MNKGAICE_00671	CDS	549				hypothetical protein
+MNKGAICE_00672	gene	1719				
+MNKGAICE_00672	CDS	1719				hypothetical protein
+MNKGAICE_00673	gene	513	rsgA			
+MNKGAICE_00673	CDS	513	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+MNKGAICE_00674	gene	1341				
+MNKGAICE_00674	CDS	1341				hypothetical protein
+MNKGAICE_00675	gene	300				
+MNKGAICE_00675	CDS	300				hypothetical protein
+MNKGAICE_00676	gene	1212				
+MNKGAICE_00676	CDS	1212				hypothetical protein
+MNKGAICE_00677	gene	204				
+MNKGAICE_00677	CDS	204				hypothetical protein
+MNKGAICE_00678	gene	74				
+MNKGAICE_00678	tRNA	74				tRNA-Cys(gca)
+MNKGAICE_00679	gene	789				
+MNKGAICE_00679	CDS	789				hypothetical protein
+MNKGAICE_00680	gene	1140				
+MNKGAICE_00680	CDS	1140				hypothetical protein
+MNKGAICE_00681	gene	684				
+MNKGAICE_00681	CDS	684				hypothetical protein
+MNKGAICE_00682	gene	1968				
+MNKGAICE_00682	CDS	1968				hypothetical protein
+MNKGAICE_00683	gene	2415	topA			
+MNKGAICE_00683	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+MNKGAICE_00684	gene	474	asd			
+MNKGAICE_00684	CDS	474	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+MNKGAICE_00685	gene	732				
+MNKGAICE_00685	CDS	732				hypothetical protein
+MNKGAICE_00686	gene	651				
+MNKGAICE_00686	CDS	651				hypothetical protein
+MNKGAICE_00687	gene	291				
+MNKGAICE_00687	CDS	291				hypothetical protein
+MNKGAICE_00688	gene	630				
+MNKGAICE_00688	CDS	630				hypothetical protein
+MNKGAICE_00689	gene	1575	rne			
+MNKGAICE_00689	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+MNKGAICE_00690	gene	90				
+MNKGAICE_00690	CDS	90				hypothetical protein
+MNKGAICE_00691	gene	300				
+MNKGAICE_00691	CDS	300			COG0776	DNA-binding protein HRL53
+MNKGAICE_00692	gene	639	queA_1			
+MNKGAICE_00692	CDS	639	queA_1	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+MNKGAICE_00693	gene	1941	nadE			
+MNKGAICE_00693	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+MNKGAICE_00694	gene	453	tadA			
+MNKGAICE_00694	CDS	453	tadA	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+MNKGAICE_00695	gene	783	birA			
+MNKGAICE_00695	CDS	783	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+MNKGAICE_00696	gene	558				
+MNKGAICE_00696	CDS	558				hypothetical protein
+MNKGAICE_00697	gene	297				
+MNKGAICE_00697	CDS	297				hypothetical protein
+MNKGAICE_00698	gene	507				
+MNKGAICE_00698	CDS	507				hypothetical protein
+MNKGAICE_00699	gene	816	COQ3			
+MNKGAICE_00699	CDS	816	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+MNKGAICE_00700	gene	411	tsaE			
+MNKGAICE_00700	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+MNKGAICE_00701	gene	312				
+MNKGAICE_00701	CDS	312				hypothetical protein
+MNKGAICE_00702	gene	528				
+MNKGAICE_00702	CDS	528				hypothetical protein
+MNKGAICE_00703	gene	621				
+MNKGAICE_00703	CDS	621				hypothetical protein
+MNKGAICE_00704	gene	171				
+MNKGAICE_00704	CDS	171				hypothetical protein
+MNKGAICE_00705	gene	156				
+MNKGAICE_00705	CDS	156				hypothetical protein
+MNKGAICE_00706	gene	234				
+MNKGAICE_00706	CDS	234				hypothetical protein
+MNKGAICE_00707	gene	264				
+MNKGAICE_00707	CDS	264				hypothetical protein
+MNKGAICE_00708	gene	174				
+MNKGAICE_00708	CDS	174				hypothetical protein
+MNKGAICE_00709	gene	294				
+MNKGAICE_00709	CDS	294				hypothetical protein
+MNKGAICE_00710	gene	162				
+MNKGAICE_00710	CDS	162				hypothetical protein
+MNKGAICE_00711	gene	1401	algC			
+MNKGAICE_00711	CDS	1401	algC	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+MNKGAICE_00712	gene	642				
+MNKGAICE_00712	CDS	642				hypothetical protein
+MNKGAICE_00713	gene	1296				
+MNKGAICE_00713	CDS	1296		2.8.3.-	COG0427	putative butyrate:acetyl-CoA coenzyme A-transferase
+MNKGAICE_00714	gene	150				
+MNKGAICE_00714	CDS	150				hypothetical protein
+MNKGAICE_00715	gene	189	rpmGA			
+MNKGAICE_00715	CDS	189	rpmGA			50S ribosomal protein L33 1
+MNKGAICE_00716	gene	240	rpmB_2			
+MNKGAICE_00716	CDS	240	rpmB_2		COG0227	50S ribosomal protein L28
+MNKGAICE_00717	gene	831				
+MNKGAICE_00717	CDS	831				hypothetical protein
+MNKGAICE_00718	gene	792				
+MNKGAICE_00718	CDS	792				hypothetical protein
+MNKGAICE_00719	gene	255	rpmE2			
+MNKGAICE_00719	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+MNKGAICE_00720	gene	906				
+MNKGAICE_00720	CDS	906				hypothetical protein
+MNKGAICE_00721	gene	156				
+MNKGAICE_00721	CDS	156				hypothetical protein
+MNKGAICE_00722	gene	1362				
+MNKGAICE_00722	CDS	1362				hypothetical protein
+MNKGAICE_00723	gene	585				
+MNKGAICE_00723	CDS	585				hypothetical protein
+MNKGAICE_00724	gene	297				
+MNKGAICE_00724	CDS	297				hypothetical protein
+MNKGAICE_00725	gene	2583				
+MNKGAICE_00725	CDS	2583				hypothetical protein
+MNKGAICE_00726	gene	1209	ribBA			
+MNKGAICE_00726	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+MNKGAICE_00727	gene	462	ndk			
+MNKGAICE_00727	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+MNKGAICE_00728	gene	1701	eptC			
+MNKGAICE_00728	CDS	1701	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+MNKGAICE_00729	gene	1113	prfA			
+MNKGAICE_00729	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+MNKGAICE_00730	gene	1182	purM			
+MNKGAICE_00730	CDS	1182	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+MNKGAICE_00731	gene	789				
+MNKGAICE_00731	CDS	789				IS110 family transposase ISCaa7
+MNKGAICE_00732	gene	1293				
+MNKGAICE_00732	CDS	1293			COG3039	IS5 family transposase ISPta1
+MNKGAICE_00733	gene	306	ppdK			
+MNKGAICE_00733	CDS	306	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+	repeat_region	564				
+MNKGAICE_00734	gene	231				
+MNKGAICE_00734	CDS	231				hypothetical protein
+MNKGAICE_00735	gene	804				
+MNKGAICE_00735	CDS	804				hypothetical protein
+MNKGAICE_00736	gene	108				
+MNKGAICE_00736	CDS	108				hypothetical protein
+MNKGAICE_00737	gene	231				
+MNKGAICE_00737	CDS	231				hypothetical protein
+MNKGAICE_00738	gene	1179				
+MNKGAICE_00738	CDS	1179		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+MNKGAICE_00739	gene	1071				
+MNKGAICE_00739	CDS	1071				hypothetical protein
+MNKGAICE_00740	gene	399				
+MNKGAICE_00740	CDS	399				hypothetical protein
+MNKGAICE_00741	gene	237				
+MNKGAICE_00741	CDS	237				hypothetical protein
+MNKGAICE_00742	gene	531				
+MNKGAICE_00742	CDS	531				hypothetical protein
+MNKGAICE_00743	gene	273				
+MNKGAICE_00743	CDS	273				hypothetical protein
+MNKGAICE_00744	gene	495				
+MNKGAICE_00744	CDS	495				hypothetical protein
+MNKGAICE_00745	gene	780	nudC_2			
+MNKGAICE_00745	CDS	780	nudC_2	3.6.1.22		NADH pyrophosphatase
+MNKGAICE_00746	gene	243				
+MNKGAICE_00746	CDS	243				hypothetical protein
+MNKGAICE_00747	gene	246				
+MNKGAICE_00747	CDS	246				hypothetical protein
+MNKGAICE_00748	gene	549				
+MNKGAICE_00748	CDS	549				hypothetical protein
+MNKGAICE_00749	gene	735				
+MNKGAICE_00749	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+MNKGAICE_00750	gene	630				
+MNKGAICE_00750	CDS	630				hypothetical protein
+MNKGAICE_00751	gene	105				
+MNKGAICE_00751	CDS	105				hypothetical protein
+MNKGAICE_00752	gene	636				
+MNKGAICE_00752	CDS	636				hypothetical protein
+MNKGAICE_00753	gene	399				
+MNKGAICE_00753	CDS	399				hypothetical protein
+MNKGAICE_00754	gene	1269				
+MNKGAICE_00754	CDS	1269				hypothetical protein
+MNKGAICE_00755	gene	582				
+MNKGAICE_00755	CDS	582				hypothetical protein
+MNKGAICE_00756	gene	657				
+MNKGAICE_00756	CDS	657				hypothetical protein
+MNKGAICE_00757	gene	774	trmB			
+MNKGAICE_00757	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+MNKGAICE_00758	gene	465				
+MNKGAICE_00758	CDS	465				hypothetical protein
+MNKGAICE_00759	gene	1767	mfd			
+MNKGAICE_00759	CDS	1767	mfd	3.6.4.-		Transcription-repair-coupling factor
+MNKGAICE_00760	gene	699	yfiC			
+MNKGAICE_00760	CDS	699	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+MNKGAICE_00761	gene	420				
+MNKGAICE_00761	CDS	420				hypothetical protein
+MNKGAICE_00762	gene	1644	hcp			
+MNKGAICE_00762	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+MNKGAICE_00763	gene	300	rlmB_1			
+MNKGAICE_00763	CDS	300	rlmB_1	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+MNKGAICE_00764	gene	630				
+MNKGAICE_00764	CDS	630				hypothetical protein
+MNKGAICE_00765	gene	372	flK			
+MNKGAICE_00765	CDS	372	flK	3.1.2.29	COG5496	Fluoroacetyl-CoA thioesterase
+MNKGAICE_00766	gene	405				
+MNKGAICE_00766	CDS	405				hypothetical protein
+MNKGAICE_00767	gene	909	miaA_2			
+MNKGAICE_00767	CDS	909	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+MNKGAICE_00768	gene	774	lpxA_2			
+MNKGAICE_00768	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+MNKGAICE_00769	gene	432	fabZ			
+MNKGAICE_00769	CDS	432	fabZ	4.2.1.59	COG0764	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+MNKGAICE_00770	gene	90				
+MNKGAICE_00770	CDS	90				hypothetical protein
+MNKGAICE_00771	gene	984	menF			
+MNKGAICE_00771	CDS	984	menF	5.4.4.2		Isochorismate synthase MenF
+MNKGAICE_00772	gene	1266				
+MNKGAICE_00772	CDS	1266				hypothetical protein
+MNKGAICE_00773	gene	264				
+MNKGAICE_00773	CDS	264				hypothetical protein
+MNKGAICE_00774	gene	957	mfa2			
+MNKGAICE_00774	CDS	957	mfa2			Minor fimbrium anchoring subunit Mfa2
+MNKGAICE_00775	gene	366				
+MNKGAICE_00775	CDS	366				hypothetical protein
+MNKGAICE_00776	gene	1749				
+MNKGAICE_00776	CDS	1749				hypothetical protein
+MNKGAICE_00777	gene	297				
+MNKGAICE_00777	CDS	297				hypothetical protein
+MNKGAICE_00778	gene	1044				
+MNKGAICE_00778	CDS	1044				hypothetical protein
+MNKGAICE_00779	gene	1164	sasA			
+MNKGAICE_00779	CDS	1164	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+MNKGAICE_00780	gene	1641	pfp			
+MNKGAICE_00780	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+MNKGAICE_00781	gene	273				
+MNKGAICE_00781	CDS	273				hypothetical protein
+MNKGAICE_00782	gene	1251	btuB_3			
+MNKGAICE_00782	CDS	1251	btuB_3			Vitamin B12 transporter BtuB
+MNKGAICE_00783	gene	150				
+MNKGAICE_00783	CDS	150				hypothetical protein
+MNKGAICE_00784	gene	273				
+MNKGAICE_00784	CDS	273				hypothetical protein
+MNKGAICE_00785	gene	474				
+MNKGAICE_00785	CDS	474				hypothetical protein
+MNKGAICE_00786	gene	714				
+MNKGAICE_00786	CDS	714				hypothetical protein
+MNKGAICE_00787	gene	519				
+MNKGAICE_00787	CDS	519				hypothetical protein
+MNKGAICE_00788	gene	861	estD			
+MNKGAICE_00788	CDS	861	estD	3.1.1.1	COG1073	Esterase EstD
+MNKGAICE_00789	gene	201	pgcA			
+MNKGAICE_00789	CDS	201	pgcA	5.4.2.2		Phosphoglucomutase
+MNKGAICE_00790	gene	1524				
+MNKGAICE_00790	CDS	1524				hypothetical protein
+MNKGAICE_00791	gene	819	korB			
+MNKGAICE_00791	CDS	819	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+MNKGAICE_00792	gene	1254				
+MNKGAICE_00792	CDS	1254				hypothetical protein
+MNKGAICE_00793	gene	513				
+MNKGAICE_00793	CDS	513				hypothetical protein
+MNKGAICE_00794	gene	216				
+MNKGAICE_00794	CDS	216				hypothetical protein
+MNKGAICE_00795	gene	1236	lutB			
+MNKGAICE_00795	CDS	1236	lutB		COG1139	Lactate utilization protein B
+MNKGAICE_00796	gene	585				
+MNKGAICE_00796	CDS	585				hypothetical protein
+MNKGAICE_00797	gene	1329				
+MNKGAICE_00797	CDS	1329				hypothetical protein
+MNKGAICE_00798	gene	759				
+MNKGAICE_00798	CDS	759				IS982 family transposase IS195
+MNKGAICE_00799	gene	852				
+MNKGAICE_00799	CDS	852				hypothetical protein
+MNKGAICE_00800	gene	717				
+MNKGAICE_00800	CDS	717				hypothetical protein
+MNKGAICE_00801	gene	1035	wecB			
+MNKGAICE_00801	CDS	1035	wecB	5.1.3.14	COG0381	UDP-N-acetylglucosamine 2-epimerase
+MNKGAICE_00802	gene	924	aguA			
+MNKGAICE_00802	CDS	924	aguA	3.5.3.12	COG2957	Agmatine deiminase
+MNKGAICE_00803	gene	909				
+MNKGAICE_00803	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+MNKGAICE_00804	gene	471				
+MNKGAICE_00804	CDS	471				hypothetical protein
+MNKGAICE_00805	gene	1356				
+MNKGAICE_00805	CDS	1356				hypothetical protein
+MNKGAICE_00806	gene	399				
+MNKGAICE_00806	CDS	399				hypothetical protein
+MNKGAICE_00807	gene	492	pncC			
+MNKGAICE_00807	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+MNKGAICE_00808	gene	1026	tsaD			
+MNKGAICE_00808	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+MNKGAICE_00809	gene	939				
+MNKGAICE_00809	CDS	939				hypothetical protein
+MNKGAICE_00810	gene	411	fdtA			
+MNKGAICE_00810	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+MNKGAICE_00811	gene	726	rfbB_2			
+MNKGAICE_00811	CDS	726	rfbB_2	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+MNKGAICE_00812	gene	1032				
+MNKGAICE_00812	CDS	1032				hypothetical protein
+MNKGAICE_00813	gene	393				
+MNKGAICE_00813	CDS	393				hypothetical protein
+MNKGAICE_00814	gene	753				
+MNKGAICE_00814	CDS	753				hypothetical protein
+MNKGAICE_00815	gene	708	qseC			
+MNKGAICE_00815	CDS	708	qseC	2.7.13.3		Sensor protein QseC
+MNKGAICE_00816	gene	438				
+MNKGAICE_00816	CDS	438				hypothetical protein
+MNKGAICE_00817	gene	384				
+MNKGAICE_00817	CDS	384				hypothetical protein
+MNKGAICE_00818	gene	456				
+MNKGAICE_00818	CDS	456				hypothetical protein
+MNKGAICE_00819	gene	231				
+MNKGAICE_00819	CDS	231				hypothetical protein
+MNKGAICE_00820	gene	1062	yhcG_1			
+MNKGAICE_00820	CDS	1062	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+MNKGAICE_00821	gene	576				
+MNKGAICE_00821	CDS	576				hypothetical protein
+MNKGAICE_00822	gene	894				
+MNKGAICE_00822	CDS	894				hypothetical protein
+MNKGAICE_00823	gene	390				
+MNKGAICE_00823	CDS	390				hypothetical protein
+MNKGAICE_00824	gene	303				
+MNKGAICE_00824	CDS	303				hypothetical protein
+MNKGAICE_00825	gene	1302	dnaC			
+MNKGAICE_00825	CDS	1302	dnaC	3.6.4.12	COG0305	Replicative DNA helicase
+MNKGAICE_00826	gene	732	truA			
+MNKGAICE_00826	CDS	732	truA	5.4.99.12	COG0101	tRNA pseudouridine synthase A
+MNKGAICE_00827	gene	294				
+MNKGAICE_00827	CDS	294				hypothetical protein
+MNKGAICE_00828	gene	462				
+MNKGAICE_00828	CDS	462				hypothetical protein
+MNKGAICE_00829	gene	456				
+MNKGAICE_00829	CDS	456				hypothetical protein
+MNKGAICE_00830	gene	954	qmcA			
+MNKGAICE_00830	CDS	954	qmcA		COG0330	Protein QmcA
+MNKGAICE_00831	gene	1113	macA			
+MNKGAICE_00831	CDS	1113	macA		COG0845	Macrolide export protein MacA
+MNKGAICE_00832	gene	684	macB			
+MNKGAICE_00832	CDS	684	macB	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+MNKGAICE_00833	gene	726	gpmI			
+MNKGAICE_00833	CDS	726	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+MNKGAICE_00834	gene	666	ung			
+MNKGAICE_00834	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+MNKGAICE_00835	gene	621				
+MNKGAICE_00835	CDS	621				hypothetical protein
+MNKGAICE_00836	gene	570				
+MNKGAICE_00836	CDS	570				IS982 family transposase IS195
+MNKGAICE_00837	gene	222				
+MNKGAICE_00837	CDS	222				hypothetical protein
+MNKGAICE_00838	gene	1416				
+MNKGAICE_00838	CDS	1416				hypothetical protein
+MNKGAICE_00839	gene	1215				
+MNKGAICE_00839	CDS	1215				hypothetical protein
+MNKGAICE_00840	gene	762				
+MNKGAICE_00840	CDS	762				hypothetical protein
+MNKGAICE_00841	gene	558				
+MNKGAICE_00841	CDS	558				hypothetical protein
+MNKGAICE_00842	gene	447				
+MNKGAICE_00842	CDS	447				hypothetical protein
+MNKGAICE_00843	gene	1113				
+MNKGAICE_00843	CDS	1113				hypothetical protein
+MNKGAICE_00844	gene	960				
+MNKGAICE_00844	CDS	960				hypothetical protein
+MNKGAICE_00845	gene	504				
+MNKGAICE_00845	CDS	504				hypothetical protein
+MNKGAICE_00846	gene	480	smpB			
+MNKGAICE_00846	CDS	480	smpB		COG0691	SsrA-binding protein
+MNKGAICE_00847	gene	858	rmlD			
+MNKGAICE_00847	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+MNKGAICE_00848	gene	579				
+MNKGAICE_00848	CDS	579				hypothetical protein
+MNKGAICE_00849	gene	495				
+MNKGAICE_00849	CDS	495				hypothetical protein
+MNKGAICE_00850	gene	843	yfkN			
+MNKGAICE_00850	CDS	843	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+MNKGAICE_00851	gene	744				
+MNKGAICE_00851	CDS	744				hypothetical protein
+MNKGAICE_00852	gene	408				
+MNKGAICE_00852	CDS	408				hypothetical protein
+MNKGAICE_00853	gene	144				
+MNKGAICE_00853	CDS	144				hypothetical protein
+MNKGAICE_00854	gene	648				
+MNKGAICE_00854	CDS	648				hypothetical protein
+MNKGAICE_00855	gene	978	pfkA			
+MNKGAICE_00855	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+MNKGAICE_00856	gene	855	bepA_1			
+MNKGAICE_00856	CDS	855	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+MNKGAICE_00857	gene	114				
+MNKGAICE_00857	CDS	114				hypothetical protein
+MNKGAICE_00858	gene	294				
+MNKGAICE_00858	CDS	294				hypothetical protein
+MNKGAICE_00859	gene	921				
+MNKGAICE_00859	CDS	921				hypothetical protein
+MNKGAICE_00860	gene	83				
+MNKGAICE_00860	tRNA	83				tRNA-Leu(caa)
+MNKGAICE_00861	gene	339				
+MNKGAICE_00861	CDS	339				hypothetical protein
+MNKGAICE_00862	gene	438				
+MNKGAICE_00862	CDS	438				hypothetical protein
+MNKGAICE_00863	gene	1104	ychF			
+MNKGAICE_00863	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+MNKGAICE_00864	gene	2094	prlC			
+MNKGAICE_00864	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+MNKGAICE_00865	gene	981				
+MNKGAICE_00865	rRNA	981				16S ribosomal RNA (partial)
+MNKGAICE_00866	gene	345				
+MNKGAICE_00866	CDS	345				hypothetical protein
+MNKGAICE_00867	gene	963	fmt			
+MNKGAICE_00867	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+MNKGAICE_00868	gene	306				
+MNKGAICE_00868	CDS	306				hypothetical protein
+MNKGAICE_00869	gene	534				
+MNKGAICE_00869	CDS	534				hypothetical protein
+MNKGAICE_00870	gene	354				
+MNKGAICE_00870	CDS	354				hypothetical protein
+MNKGAICE_00871	gene	390				
+MNKGAICE_00871	CDS	390				hypothetical protein
+MNKGAICE_00872	gene	717				
+MNKGAICE_00872	CDS	717				hypothetical protein
+MNKGAICE_00873	gene	402	nadD			
+MNKGAICE_00873	CDS	402	nadD	2.7.7.18		putative nicotinate-nucleotide adenylyltransferase
+MNKGAICE_00874	gene	258				
+MNKGAICE_00874	CDS	258				hypothetical protein
+MNKGAICE_00875	gene	636				
+MNKGAICE_00875	CDS	636				hypothetical protein
+MNKGAICE_00876	gene	1584				
+MNKGAICE_00876	CDS	1584				hypothetical protein
+MNKGAICE_00877	gene	1008				
+MNKGAICE_00877	CDS	1008				hypothetical protein
+MNKGAICE_00878	gene	603				
+MNKGAICE_00878	CDS	603				hypothetical protein
+MNKGAICE_00879	gene	1440	lepA			
+MNKGAICE_00879	CDS	1440	lepA	3.6.5.-	COG0481	Elongation factor 4
+MNKGAICE_00880	gene	501				
+MNKGAICE_00880	CDS	501				hypothetical protein
+MNKGAICE_00881	gene	180				
+MNKGAICE_00881	CDS	180				hypothetical protein
+MNKGAICE_00882	gene	945				
+MNKGAICE_00882	CDS	945				hypothetical protein
+MNKGAICE_00883	gene	843	ttdA			
+MNKGAICE_00883	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+MNKGAICE_00884	gene	1302				
+MNKGAICE_00884	CDS	1302				hypothetical protein
+MNKGAICE_00885	gene	138				
+MNKGAICE_00885	CDS	138				hypothetical protein
+MNKGAICE_00886	gene	678				
+MNKGAICE_00886	CDS	678				hypothetical protein
+MNKGAICE_00887	gene	336				
+MNKGAICE_00887	CDS	336				hypothetical protein
+MNKGAICE_00888	gene	372				
+MNKGAICE_00888	CDS	372				hypothetical protein
+MNKGAICE_00889	gene	309	mshA			
+MNKGAICE_00889	CDS	309	mshA	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+MNKGAICE_00890	gene	594				
+MNKGAICE_00890	CDS	594				hypothetical protein
+MNKGAICE_00891	gene	294				
+MNKGAICE_00891	CDS	294				hypothetical protein
+MNKGAICE_00892	gene	90				
+MNKGAICE_00892	CDS	90				hypothetical protein
+MNKGAICE_00893	gene	639				
+MNKGAICE_00893	CDS	639				hypothetical protein
+MNKGAICE_00894	gene	177				
+MNKGAICE_00894	CDS	177				hypothetical protein
+MNKGAICE_00895	gene	444				
+MNKGAICE_00895	CDS	444				hypothetical protein
+MNKGAICE_00896	gene	468				
+MNKGAICE_00896	CDS	468				hypothetical protein
+MNKGAICE_00897	gene	804	xerC_4			
+MNKGAICE_00897	CDS	804	xerC_4			Tyrosine recombinase XerC
+MNKGAICE_00898	gene	222				
+MNKGAICE_00898	CDS	222				hypothetical protein
+MNKGAICE_00899	gene	681				
+MNKGAICE_00899	CDS	681				hypothetical protein
+MNKGAICE_00900	gene	849				
+MNKGAICE_00900	CDS	849				hypothetical protein
+MNKGAICE_00901	gene	204				
+MNKGAICE_00901	CDS	204				hypothetical protein
+MNKGAICE_00902	gene	105				
+MNKGAICE_00902	CDS	105				hypothetical protein
+MNKGAICE_00903	gene	921	nupG			
+MNKGAICE_00903	CDS	921	nupG			Nucleoside permease NupG
+MNKGAICE_00904	gene	564				
+MNKGAICE_00904	CDS	564				hypothetical protein
+MNKGAICE_00905	gene	1782				
+MNKGAICE_00905	CDS	1782				hypothetical protein
+MNKGAICE_00906	gene	372				
+MNKGAICE_00906	CDS	372				hypothetical protein
+MNKGAICE_00907	gene	273				
+MNKGAICE_00907	CDS	273				hypothetical protein
+MNKGAICE_00908	gene	1824	fusA_1			
+MNKGAICE_00908	CDS	1824	fusA_1		COG0480	Elongation factor G
+MNKGAICE_00909	gene	972				
+MNKGAICE_00909	CDS	972				hypothetical protein
+MNKGAICE_00910	gene	459				
+MNKGAICE_00910	CDS	459				hypothetical protein
+MNKGAICE_00911	gene	486				
+MNKGAICE_00911	CDS	486				hypothetical protein
+MNKGAICE_00912	gene	816				
+MNKGAICE_00912	CDS	816				hypothetical protein
+MNKGAICE_00913	gene	291				
+MNKGAICE_00913	CDS	291				hypothetical protein
+MNKGAICE_00914	gene	606				
+MNKGAICE_00914	CDS	606				hypothetical protein
+MNKGAICE_00915	gene	912				
+MNKGAICE_00915	CDS	912				hypothetical protein
+MNKGAICE_00916	gene	1167	pepQ			
+MNKGAICE_00916	CDS	1167	pepQ	3.4.13.9		Xaa-Pro dipeptidase
+MNKGAICE_00917	gene	369	fklB_1			
+MNKGAICE_00917	CDS	369	fklB_1	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+MNKGAICE_00918	gene	831				
+MNKGAICE_00918	CDS	831				hypothetical protein
+MNKGAICE_00919	gene	483				
+MNKGAICE_00919	CDS	483				hypothetical protein
+MNKGAICE_00920	gene	216				
+MNKGAICE_00920	CDS	216				hypothetical protein
+MNKGAICE_00921	gene	285				
+MNKGAICE_00921	CDS	285				hypothetical protein
+MNKGAICE_00922	gene	573				
+MNKGAICE_00922	CDS	573				hypothetical protein
+MNKGAICE_00923	gene	861				
+MNKGAICE_00923	CDS	861				hypothetical protein
+MNKGAICE_00924	gene	246				
+MNKGAICE_00924	CDS	246				hypothetical protein
+MNKGAICE_00925	gene	690				
+MNKGAICE_00925	CDS	690				hypothetical protein
+MNKGAICE_00926	gene	519	pepT			
+MNKGAICE_00926	CDS	519	pepT	3.4.11.4		Peptidase T
+MNKGAICE_00927	gene	297				
+MNKGAICE_00927	CDS	297				hypothetical protein
+MNKGAICE_00928	gene	1200				
+MNKGAICE_00928	CDS	1200				hypothetical protein
+MNKGAICE_00929	gene	873				
+MNKGAICE_00929	CDS	873				hypothetical protein
+MNKGAICE_00930	gene	306				
+MNKGAICE_00930	CDS	306				hypothetical protein
+MNKGAICE_00931	gene	1035	ruvB			
+MNKGAICE_00931	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+MNKGAICE_00932	gene	345				
+MNKGAICE_00932	CDS	345				hypothetical protein
+MNKGAICE_00933	gene	1500				
+MNKGAICE_00933	CDS	1500				hypothetical protein
+MNKGAICE_00934	gene	546				
+MNKGAICE_00934	CDS	546				hypothetical protein
+MNKGAICE_00935	gene	486	ftnA			
+MNKGAICE_00935	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+MNKGAICE_00936	gene	156				
+MNKGAICE_00936	CDS	156				hypothetical protein
+MNKGAICE_00937	gene	1026				
+MNKGAICE_00937	CDS	1026				hypothetical protein
+MNKGAICE_00938	gene	600				
+MNKGAICE_00938	CDS	600				hypothetical protein
+MNKGAICE_00939	gene	939	prs			
+MNKGAICE_00939	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+MNKGAICE_00940	gene	609				
+MNKGAICE_00940	CDS	609				hypothetical protein
+MNKGAICE_00941	gene	195				
+MNKGAICE_00941	CDS	195				hypothetical protein
+MNKGAICE_00942	gene	759				
+MNKGAICE_00942	CDS	759				IS982 family transposase IS195
+MNKGAICE_00943	gene	90				
+MNKGAICE_00943	CDS	90				hypothetical protein
+MNKGAICE_00944	gene	339				
+MNKGAICE_00944	CDS	339				hypothetical protein
+MNKGAICE_00945	gene	1095				
+MNKGAICE_00945	CDS	1095				hypothetical protein
+MNKGAICE_00946	gene	201				
+MNKGAICE_00946	CDS	201				hypothetical protein
+MNKGAICE_00947	gene	531				
+MNKGAICE_00947	CDS	531				hypothetical protein
+MNKGAICE_00948	gene	192				
+MNKGAICE_00948	CDS	192				hypothetical protein
+MNKGAICE_00949	gene	192				
+MNKGAICE_00949	CDS	192				hypothetical protein
+MNKGAICE_00950	gene	255				
+MNKGAICE_00950	CDS	255				hypothetical protein
+MNKGAICE_00951	gene	213	aroK			
+MNKGAICE_00951	CDS	213	aroK	2.7.1.71	COG0703	Shikimate kinase
+MNKGAICE_00952	gene	1194	ackA			
+MNKGAICE_00952	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+MNKGAICE_00953	gene	675	pta_1			
+MNKGAICE_00953	CDS	675	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+MNKGAICE_00954	gene	1677	polA			
+MNKGAICE_00954	CDS	1677	polA	2.7.7.7	COG0258	DNA polymerase I
+MNKGAICE_00955	gene	546				
+MNKGAICE_00955	CDS	546				hypothetical protein
+MNKGAICE_00956	gene	468				
+MNKGAICE_00956	CDS	468				hypothetical protein
+MNKGAICE_00957	gene	291				
+MNKGAICE_00957	CDS	291				hypothetical protein
+MNKGAICE_00958	gene	378				
+MNKGAICE_00958	CDS	378				hypothetical protein
+MNKGAICE_00959	gene	279				
+MNKGAICE_00959	CDS	279				hypothetical protein
+MNKGAICE_00960	gene	555	rhlB			
+MNKGAICE_00960	CDS	555	rhlB	3.6.4.13		ATP-dependent RNA helicase RhlB
+MNKGAICE_00961	gene	708	btuD_2			
+MNKGAICE_00961	CDS	708	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+MNKGAICE_00962	gene	516				
+MNKGAICE_00962	CDS	516				hypothetical protein
+MNKGAICE_00963	gene	105				
+MNKGAICE_00963	CDS	105				hypothetical protein
+MNKGAICE_00964	gene	564				
+MNKGAICE_00964	CDS	564				hypothetical protein
+MNKGAICE_00965	gene	717				
+MNKGAICE_00965	CDS	717				hypothetical protein
+MNKGAICE_00966	gene	618				
+MNKGAICE_00966	CDS	618				hypothetical protein
+MNKGAICE_00967	gene	405	clpX			
+MNKGAICE_00967	CDS	405	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+MNKGAICE_00968	gene	633	lspA			
+MNKGAICE_00968	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+MNKGAICE_00969	gene	903				
+MNKGAICE_00969	CDS	903				hypothetical protein
+MNKGAICE_00970	gene	222				
+MNKGAICE_00970	CDS	222				hypothetical protein
+MNKGAICE_00971	gene	825	pepC			
+MNKGAICE_00971	CDS	825	pepC	3.4.22.40	COG3579	Aminopeptidase C
+MNKGAICE_00972	gene	900	ddh			
+MNKGAICE_00972	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+MNKGAICE_00973	gene	522				
+MNKGAICE_00973	CDS	522				hypothetical protein
+MNKGAICE_00974	gene	861				
+MNKGAICE_00974	CDS	861				hypothetical protein
+MNKGAICE_00975	gene	141				
+MNKGAICE_00975	CDS	141				hypothetical protein
+MNKGAICE_00976	gene	1038				
+MNKGAICE_00976	CDS	1038				hypothetical protein
+MNKGAICE_00977	gene	465	greA			
+MNKGAICE_00977	CDS	465	greA		COG0782	Transcription elongation factor GreA
+MNKGAICE_00978	gene	75				
+MNKGAICE_00978	tRNA	75				tRNA-Ala(ggc)
+MNKGAICE_00979	gene	726				
+MNKGAICE_00979	CDS	726				hypothetical protein
+MNKGAICE_00980	gene	138				
+MNKGAICE_00980	CDS	138				hypothetical protein
+MNKGAICE_00981	gene	153				
+MNKGAICE_00981	CDS	153				hypothetical protein
+MNKGAICE_00982	gene	513	sigH			
+MNKGAICE_00982	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+MNKGAICE_00983	gene	477				
+MNKGAICE_00983	CDS	477				hypothetical protein
+MNKGAICE_00984	gene	639				
+MNKGAICE_00984	CDS	639				hypothetical protein
+MNKGAICE_00985	gene	1035	serC			
+MNKGAICE_00985	CDS	1035	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+MNKGAICE_00986	gene	618				
+MNKGAICE_00986	CDS	618				hypothetical protein
+MNKGAICE_00987	gene	210				
+MNKGAICE_00987	CDS	210				hypothetical protein
+MNKGAICE_00988	gene	318				
+MNKGAICE_00988	CDS	318				hypothetical protein
+MNKGAICE_00989	gene	750	rlmI			
+MNKGAICE_00989	CDS	750	rlmI	2.1.1.191	COG1092	Ribosomal RNA large subunit methyltransferase I
+MNKGAICE_00990	gene	372				
+MNKGAICE_00990	CDS	372				hypothetical protein
+MNKGAICE_00991	gene	738				
+MNKGAICE_00991	CDS	738				hypothetical protein
+MNKGAICE_00992	gene	1005				
+MNKGAICE_00992	CDS	1005				hypothetical protein
+MNKGAICE_00993	gene	831				
+MNKGAICE_00993	CDS	831				hypothetical protein
+MNKGAICE_00994	gene	642				
+MNKGAICE_00994	CDS	642				hypothetical protein
+MNKGAICE_00995	gene	1026				
+MNKGAICE_00995	CDS	1026				hypothetical protein
+MNKGAICE_00996	gene	840				
+MNKGAICE_00996	CDS	840				hypothetical protein
+MNKGAICE_00997	gene	444				
+MNKGAICE_00997	CDS	444				hypothetical protein
+MNKGAICE_00998	gene	231				
+MNKGAICE_00998	CDS	231				hypothetical protein
+MNKGAICE_00999	gene	636				
+MNKGAICE_00999	CDS	636				hypothetical protein
+MNKGAICE_01000	gene	186				
+MNKGAICE_01000	CDS	186				hypothetical protein
+MNKGAICE_01001	gene	681				
+MNKGAICE_01001	CDS	681				hypothetical protein
+MNKGAICE_01002	gene	213				
+MNKGAICE_01002	CDS	213				hypothetical protein
+MNKGAICE_01003	gene	246				
+MNKGAICE_01003	CDS	246				hypothetical protein
+MNKGAICE_01004	gene	351				
+MNKGAICE_01004	CDS	351				hypothetical protein
+MNKGAICE_01005	gene	459				
+MNKGAICE_01005	CDS	459				hypothetical protein
+MNKGAICE_01006	gene	567				
+MNKGAICE_01006	CDS	567				hypothetical protein
+MNKGAICE_01007	gene	606	fklB_2			
+MNKGAICE_01007	CDS	606	fklB_2	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+MNKGAICE_01008	gene	1143	cydB			
+MNKGAICE_01008	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+MNKGAICE_01009	gene	525	manA			
+MNKGAICE_01009	CDS	525	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+MNKGAICE_01010	gene	951				
+MNKGAICE_01010	CDS	951				hypothetical protein
+MNKGAICE_01011	gene	261				
+MNKGAICE_01011	CDS	261				hypothetical protein
+MNKGAICE_01012	gene	444				
+MNKGAICE_01012	CDS	444				hypothetical protein
+MNKGAICE_01013	gene	549				
+MNKGAICE_01013	CDS	549				hypothetical protein
+MNKGAICE_01014	gene	462				
+MNKGAICE_01014	CDS	462				hypothetical protein
+MNKGAICE_01015	gene	807	rfbF			
+MNKGAICE_01015	CDS	807	rfbF	2.7.7.33	COG1208	Glucose-1-phosphate cytidylyltransferase
+MNKGAICE_01016	gene	117				
+MNKGAICE_01016	CDS	117				hypothetical protein
+MNKGAICE_01017	gene	72				
+MNKGAICE_01017	tRNA	72				tRNA-Gln(ttg)
+MNKGAICE_01018	gene	114				
+MNKGAICE_01018	CDS	114				hypothetical protein
+MNKGAICE_01019	gene	258				
+MNKGAICE_01019	CDS	258				hypothetical protein
+MNKGAICE_01020	gene	864	rhaR			
+MNKGAICE_01020	CDS	864	rhaR			HTH-type transcriptional activator RhaR
+MNKGAICE_01021	gene	1188				
+MNKGAICE_01021	CDS	1188				hypothetical protein
+MNKGAICE_01022	gene	1347	purB			
+MNKGAICE_01022	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+MNKGAICE_01023	gene	192				
+MNKGAICE_01023	CDS	192				hypothetical protein
+MNKGAICE_01024	gene	201				
+MNKGAICE_01024	CDS	201				hypothetical protein
+MNKGAICE_01025	gene	207				
+MNKGAICE_01025	CDS	207				hypothetical protein
+MNKGAICE_01026	gene	942				
+MNKGAICE_01026	CDS	942				hypothetical protein
+MNKGAICE_01027	gene	780	coaX			
+MNKGAICE_01027	CDS	780	coaX	2.7.1.33	COG1521	Type III pantothenate kinase
+MNKGAICE_01028	gene	363	yhcG_2			
+MNKGAICE_01028	CDS	363	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+MNKGAICE_01029	gene	678	yhcG_3			
+MNKGAICE_01029	CDS	678	yhcG_3	3.1.-.-	COG4804	Putative nuclease YhcG
+MNKGAICE_01030	gene	396	nnrD			
+MNKGAICE_01030	CDS	396	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+MNKGAICE_01031	gene	735				
+MNKGAICE_01031	CDS	735				hypothetical protein
+MNKGAICE_01032	gene	105				
+MNKGAICE_01032	CDS	105				hypothetical protein
+MNKGAICE_01033	gene	558				
+MNKGAICE_01033	CDS	558				hypothetical protein
+MNKGAICE_01034	gene	114				
+MNKGAICE_01034	CDS	114				hypothetical protein
+MNKGAICE_01035	gene	870				
+MNKGAICE_01035	CDS	870				hypothetical protein
+MNKGAICE_01036	gene	534				
+MNKGAICE_01036	CDS	534				hypothetical protein
+MNKGAICE_01037	gene	399	cbiD			
+MNKGAICE_01037	CDS	399	cbiD	2.1.1.195	COG1903	Cobalt-precorrin-5B C(1)-methyltransferase
+MNKGAICE_01038	gene	1137				
+MNKGAICE_01038	CDS	1137				hypothetical protein
+MNKGAICE_01039	gene	393				
+MNKGAICE_01039	CDS	393				hypothetical protein
+MNKGAICE_01040	gene	891	deoC			
+MNKGAICE_01040	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+MNKGAICE_01041	gene	102				
+MNKGAICE_01041	CDS	102				hypothetical protein
+MNKGAICE_01042	gene	510				
+MNKGAICE_01042	CDS	510				hypothetical protein
+MNKGAICE_01043	gene	657				
+MNKGAICE_01043	CDS	657				hypothetical protein
+MNKGAICE_01044	gene	654	nadC			
+MNKGAICE_01044	CDS	654	nadC	2.4.2.19	COG0157	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+MNKGAICE_01045	gene	513				
+MNKGAICE_01045	CDS	513				hypothetical protein
+MNKGAICE_01046	gene	321				
+MNKGAICE_01046	CDS	321				hypothetical protein
+MNKGAICE_01047	gene	636				
+MNKGAICE_01047	CDS	636				hypothetical protein
+MNKGAICE_01048	gene	723				
+MNKGAICE_01048	CDS	723				hypothetical protein
+MNKGAICE_01049	gene	792	cobS			
+MNKGAICE_01049	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+MNKGAICE_01050	gene	522	pspA			
+MNKGAICE_01050	CDS	522	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+MNKGAICE_01051	gene	159				
+MNKGAICE_01051	CDS	159				hypothetical protein
+MNKGAICE_01052	gene	318				
+MNKGAICE_01052	CDS	318				hypothetical protein
+MNKGAICE_01053	gene	192				
+MNKGAICE_01053	CDS	192				hypothetical protein
+MNKGAICE_01054	gene	474				
+MNKGAICE_01054	CDS	474				hypothetical protein
+MNKGAICE_01055	gene	171				
+MNKGAICE_01055	CDS	171				hypothetical protein
+MNKGAICE_01056	gene	1806				
+MNKGAICE_01056	CDS	1806				hypothetical protein
+MNKGAICE_01057	gene	663	entC			
+MNKGAICE_01057	CDS	663	entC	5.4.4.2	COG1169	Isochorismate synthase EntC
+MNKGAICE_01058	gene	423	mscL			
+MNKGAICE_01058	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+MNKGAICE_01059	gene	195				
+MNKGAICE_01059	CDS	195				hypothetical protein
+MNKGAICE_01060	gene	564				
+MNKGAICE_01060	CDS	564				hypothetical protein
+MNKGAICE_01061	gene	387				
+MNKGAICE_01061	CDS	387				hypothetical protein
+MNKGAICE_01062	gene	216				
+MNKGAICE_01062	CDS	216				hypothetical protein
+MNKGAICE_01063	gene	516				
+MNKGAICE_01063	CDS	516				hypothetical protein
+MNKGAICE_01064	gene	423	yrrK			
+MNKGAICE_01064	CDS	423	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+MNKGAICE_01065	gene	1341	ffh			
+MNKGAICE_01065	CDS	1341	ffh		COG0541	Signal recognition particle protein
+MNKGAICE_01066	gene	390				
+MNKGAICE_01066	CDS	390				hypothetical protein
+MNKGAICE_01067	gene	642	pheS			
+MNKGAICE_01067	CDS	642	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+MNKGAICE_01068	gene	690				
+MNKGAICE_01068	CDS	690				hypothetical protein
+MNKGAICE_01069	gene	1461	ftsA			
+MNKGAICE_01069	CDS	1461	ftsA			Cell division protein FtsA
+MNKGAICE_01070	gene	336				
+MNKGAICE_01070	CDS	336				hypothetical protein
+MNKGAICE_01071	gene	309				
+MNKGAICE_01071	CDS	309				hypothetical protein
+MNKGAICE_01072	gene	255	lipA			
+MNKGAICE_01072	CDS	255	lipA	2.8.1.8		Lipoyl synthase
+MNKGAICE_01073	gene	267				
+MNKGAICE_01073	CDS	267				hypothetical protein
+MNKGAICE_01074	gene	561				
+MNKGAICE_01074	CDS	561				hypothetical protein
+MNKGAICE_01075	gene	924	mutS2			
+MNKGAICE_01075	CDS	924	mutS2	3.1.-.-		Endonuclease MutS2
+MNKGAICE_01076	gene	441				
+MNKGAICE_01076	CDS	441				hypothetical protein
+MNKGAICE_01077	gene	1329				
+MNKGAICE_01077	CDS	1329				hypothetical protein
+MNKGAICE_01078	gene	495				
+MNKGAICE_01078	CDS	495				hypothetical protein
+MNKGAICE_01079	gene	1173	cstA			
+MNKGAICE_01079	CDS	1173	cstA		COG1966	Peptide transporter CstA
+MNKGAICE_01080	gene	1143	fusA_2			
+MNKGAICE_01080	CDS	1143	fusA_2		COG0480	Elongation factor G
+MNKGAICE_01081	gene	306	rpsJ			
+MNKGAICE_01081	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+MNKGAICE_01082	gene	627				
+MNKGAICE_01082	CDS	627				hypothetical protein
+MNKGAICE_01083	gene	486	resA_2			
+MNKGAICE_01083	CDS	486	resA_2			Thiol-disulfide oxidoreductase ResA
+MNKGAICE_01084	gene	1308	ftsZ			
+MNKGAICE_01084	CDS	1308	ftsZ			Cell division protein FtsZ
+MNKGAICE_01085	gene	447	yqeY			
+MNKGAICE_01085	CDS	447	yqeY		COG1610	putative protein YqeY
+MNKGAICE_01086	gene	126				
+MNKGAICE_01086	CDS	126				hypothetical protein
+MNKGAICE_01087	gene	648	rpe_2			
+MNKGAICE_01087	CDS	648	rpe_2	5.1.3.1		Ribulose-phosphate 3-epimerase
+MNKGAICE_01088	gene	336				
+MNKGAICE_01088	CDS	336				hypothetical protein
+MNKGAICE_01089	gene	273				
+MNKGAICE_01089	CDS	273				hypothetical protein
+MNKGAICE_01090	gene	810	psd			
+MNKGAICE_01090	CDS	810	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+MNKGAICE_01091	gene	438				
+MNKGAICE_01091	CDS	438				hypothetical protein
+MNKGAICE_01092	gene	1506	fadD3			
+MNKGAICE_01092	CDS	1506	fadD3	6.2.1.41	COG0318	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+MNKGAICE_01093	gene	306				
+MNKGAICE_01093	CDS	306				hypothetical protein
+MNKGAICE_01094	gene	579				
+MNKGAICE_01094	CDS	579				hypothetical protein
+MNKGAICE_01095	gene	999	dagK			
+MNKGAICE_01095	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+MNKGAICE_01096	gene	525	efp			
+MNKGAICE_01096	CDS	525	efp		COG0231	Elongation factor P
+MNKGAICE_01097	gene	837	pccB			
+MNKGAICE_01097	CDS	837	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+MNKGAICE_01098	gene	159				
+MNKGAICE_01098	CDS	159				hypothetical protein
+MNKGAICE_01099	gene	432	accB			
+MNKGAICE_01099	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+MNKGAICE_01100	gene	927	oxyR			
+MNKGAICE_01100	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+MNKGAICE_01101	gene	1065	iolG			
+MNKGAICE_01101	CDS	1065	iolG	1.1.1.369		Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+MNKGAICE_01102	gene	654				
+MNKGAICE_01102	CDS	654				hypothetical protein
+MNKGAICE_01103	gene	1248				
+MNKGAICE_01103	CDS	1248				hypothetical protein
+MNKGAICE_01104	gene	108				
+MNKGAICE_01104	CDS	108				hypothetical protein
+MNKGAICE_01105	gene	1110	xseA			
+MNKGAICE_01105	CDS	1110	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+MNKGAICE_01106	gene	171	xseB			
+MNKGAICE_01106	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+MNKGAICE_01107	gene	189				
+MNKGAICE_01107	CDS	189				hypothetical protein
+MNKGAICE_01108	gene	147				
+MNKGAICE_01108	CDS	147				hypothetical protein
+MNKGAICE_01109	gene	354				
+MNKGAICE_01109	CDS	354				hypothetical protein
+MNKGAICE_01110	gene	318	tetM			
+MNKGAICE_01110	CDS	318	tetM			Tetracycline resistance protein TetM from transposon TnFO1
+MNKGAICE_01111	gene	789				
+MNKGAICE_01111	CDS	789				hypothetical protein
+MNKGAICE_01112	gene	468				
+MNKGAICE_01112	CDS	468				hypothetical protein
+MNKGAICE_01113	gene	327				
+MNKGAICE_01113	CDS	327				hypothetical protein
+MNKGAICE_01114	gene	378				
+MNKGAICE_01114	CDS	378				hypothetical protein
+MNKGAICE_01115	gene	723	ccsA_2			
+MNKGAICE_01115	CDS	723	ccsA_2			Cytochrome c biogenesis protein CcsA
+MNKGAICE_01116	gene	993				
+MNKGAICE_01116	CDS	993				hypothetical protein
+MNKGAICE_01117	gene	294				
+MNKGAICE_01117	CDS	294				hypothetical protein
+MNKGAICE_01118	gene	975				
+MNKGAICE_01118	CDS	975				hypothetical protein
+MNKGAICE_01119	gene	300	ligA			
+MNKGAICE_01119	CDS	300	ligA	6.5.1.2		DNA ligase
+MNKGAICE_01120	gene	855	pta_2			
+MNKGAICE_01120	CDS	855	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+MNKGAICE_01121	gene	1164	priA			
+MNKGAICE_01121	CDS	1164	priA	3.6.4.-		primosomal protein N'
+MNKGAICE_01122	gene	387				
+MNKGAICE_01122	CDS	387				hypothetical protein
+MNKGAICE_01123	gene	597				
+MNKGAICE_01123	CDS	597				hypothetical protein
+MNKGAICE_01124	gene	1062				
+MNKGAICE_01124	CDS	1062				hypothetical protein
+MNKGAICE_01125	gene	705	yknY			
+MNKGAICE_01125	CDS	705	yknY	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+MNKGAICE_01126	gene	171				
+MNKGAICE_01126	CDS	171				hypothetical protein
+MNKGAICE_01127	gene	708	mtgA			
+MNKGAICE_01127	CDS	708	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+MNKGAICE_01128	gene	405	lpxL			
+MNKGAICE_01128	CDS	405	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+MNKGAICE_01129	gene	1008	ykoT			
+MNKGAICE_01129	CDS	1008	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+MNKGAICE_01130	gene	309				
+MNKGAICE_01130	CDS	309				hypothetical protein
+MNKGAICE_01131	gene	315				
+MNKGAICE_01131	CDS	315				hypothetical protein
+MNKGAICE_01132	gene	86				
+MNKGAICE_01132	tRNA	86				tRNA-Ser(tga)
+MNKGAICE_01133	gene	237	acpP			
+MNKGAICE_01133	CDS	237	acpP		COG0236	Acyl carrier protein
+MNKGAICE_01134	gene	606				
+MNKGAICE_01134	CDS	606				hypothetical protein
+MNKGAICE_01135	gene	1368				
+MNKGAICE_01135	CDS	1368				hypothetical protein
+MNKGAICE_01136	gene	1179	murC			
+MNKGAICE_01136	CDS	1179	murC	6.3.2.8	COG0773	UDP-N-acetylmuramate--L-alanine ligase
+MNKGAICE_01137	gene	591				
+MNKGAICE_01137	CDS	591				hypothetical protein
+MNKGAICE_01138	gene	762	purA			
+MNKGAICE_01138	CDS	762	purA	6.3.4.4	COG0104	Adenylosuccinate synthetase
+MNKGAICE_01139	gene	243				
+MNKGAICE_01139	CDS	243				hypothetical protein
+MNKGAICE_01140	gene	297	menC			
+MNKGAICE_01140	CDS	297	menC	4.2.1.113		o-succinylbenzoate synthase
+MNKGAICE_01141	gene	375				
+MNKGAICE_01141	CDS	375				hypothetical protein
+MNKGAICE_01142	gene	792	rlmB_2			
+MNKGAICE_01142	CDS	792	rlmB_2	2.1.1.185		23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+MNKGAICE_01143	gene	867				
+MNKGAICE_01143	CDS	867				hypothetical protein
+MNKGAICE_01144	gene	435				
+MNKGAICE_01144	CDS	435				hypothetical protein
+MNKGAICE_01145	gene	324				
+MNKGAICE_01145	CDS	324				hypothetical protein
+MNKGAICE_01146	gene	1089	trpS2			
+MNKGAICE_01146	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+MNKGAICE_01147	gene	366	rpoC			
+MNKGAICE_01147	CDS	366	rpoC	2.7.7.6		DNA-directed RNA polymerase subunit beta'
+MNKGAICE_01148	gene	1365	bepA_2			
+MNKGAICE_01148	CDS	1365	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+MNKGAICE_01149	gene	852				
+MNKGAICE_01149	CDS	852		2.4.2.-		Protein ADP-ribosyltransferase
+MNKGAICE_01150	gene	708				
+MNKGAICE_01150	CDS	708				IS982 family transposase IS195
+MNKGAICE_01151	gene	339				
+MNKGAICE_01151	CDS	339				hypothetical protein
+MNKGAICE_01152	gene	381				
+MNKGAICE_01152	CDS	381				hypothetical protein
+MNKGAICE_01153	gene	243				
+MNKGAICE_01153	CDS	243				hypothetical protein
+MNKGAICE_01154	gene	1002				
+MNKGAICE_01154	CDS	1002				hypothetical protein
+MNKGAICE_01155	gene	1527				
+MNKGAICE_01155	CDS	1527				hypothetical protein
+MNKGAICE_01156	gene	408				
+MNKGAICE_01156	CDS	408				hypothetical protein
+MNKGAICE_01157	gene	285				
+MNKGAICE_01157	CDS	285				hypothetical protein
+MNKGAICE_01158	gene	150				
+MNKGAICE_01158	CDS	150				hypothetical protein
+MNKGAICE_01159	gene	123				
+MNKGAICE_01159	CDS	123				hypothetical protein
+MNKGAICE_01160	gene	750	ispU			
+MNKGAICE_01160	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+MNKGAICE_01161	gene	330				
+MNKGAICE_01161	CDS	330				hypothetical protein
+MNKGAICE_01162	gene	612	nusB			
+MNKGAICE_01162	CDS	612	nusB			Transcription antitermination protein NusB
+MNKGAICE_01163	gene	699				
+MNKGAICE_01163	CDS	699				hypothetical protein
+MNKGAICE_01164	gene	942	apbE			
+MNKGAICE_01164	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+MNKGAICE_01165	gene	990				
+MNKGAICE_01165	CDS	990				hypothetical protein
+MNKGAICE_01166	gene	999				
+MNKGAICE_01166	CDS	999				hypothetical protein
+MNKGAICE_01167	gene	519				
+MNKGAICE_01167	CDS	519				hypothetical protein
+MNKGAICE_01168	gene	924				
+MNKGAICE_01168	CDS	924		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+MNKGAICE_01169	gene	831	resA_3			
+MNKGAICE_01169	CDS	831	resA_3			Thiol-disulfide oxidoreductase ResA
+MNKGAICE_01170	gene	738				
+MNKGAICE_01170	CDS	738				hypothetical protein
+MNKGAICE_01171	gene	1218				
+MNKGAICE_01171	CDS	1218				hypothetical protein
+MNKGAICE_01172	gene	405				
+MNKGAICE_01172	CDS	405				hypothetical protein
+MNKGAICE_01173	gene	162				
+MNKGAICE_01173	CDS	162				hypothetical protein
+MNKGAICE_01174	gene	402				
+MNKGAICE_01174	CDS	402				hypothetical protein
+MNKGAICE_01175	gene	573				
+MNKGAICE_01175	CDS	573				hypothetical protein
+MNKGAICE_01176	gene	264	rpmA			
+MNKGAICE_01176	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+MNKGAICE_01177	gene	624				
+MNKGAICE_01177	CDS	624				hypothetical protein
+MNKGAICE_01178	gene	852				
+MNKGAICE_01178	CDS	852				hypothetical protein
+MNKGAICE_01179	gene	93				
+MNKGAICE_01179	CDS	93				hypothetical protein
+MNKGAICE_01180	gene	99				
+MNKGAICE_01180	CDS	99				hypothetical protein
+MNKGAICE_01181	gene	261				
+MNKGAICE_01181	CDS	261				hypothetical protein
+MNKGAICE_01182	gene	315				
+MNKGAICE_01182	CDS	315				hypothetical protein
+MNKGAICE_01183	gene	396				
+MNKGAICE_01183	CDS	396				hypothetical protein
+MNKGAICE_01184	gene	690				
+MNKGAICE_01184	CDS	690				hypothetical protein
+MNKGAICE_01185	gene	1011	gapA			
+MNKGAICE_01185	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+MNKGAICE_01186	gene	156				
+MNKGAICE_01186	CDS	156				hypothetical protein
+MNKGAICE_01187	gene	99				
+MNKGAICE_01187	CDS	99				hypothetical protein
+MNKGAICE_01188	gene	963				
+MNKGAICE_01188	CDS	963				hypothetical protein
+MNKGAICE_01189	gene	930				
+MNKGAICE_01189	CDS	930				hypothetical protein
+MNKGAICE_01190	gene	249				
+MNKGAICE_01190	CDS	249				hypothetical protein
+MNKGAICE_01191	gene	1254	comM			
+MNKGAICE_01191	CDS	1254	comM		COG0606	Competence protein ComM
+MNKGAICE_01192	gene	408				
+MNKGAICE_01192	CDS	408				hypothetical protein
+MNKGAICE_01193	gene	312	nuoK			
+MNKGAICE_01193	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+MNKGAICE_01194	gene	513				
+MNKGAICE_01194	CDS	513				hypothetical protein
+MNKGAICE_01195	gene	981				
+MNKGAICE_01195	CDS	981				hypothetical protein
+MNKGAICE_01196	gene	579				
+MNKGAICE_01196	CDS	579				hypothetical protein
+MNKGAICE_01197	gene	264				
+MNKGAICE_01197	CDS	264				hypothetical protein
+MNKGAICE_01198	gene	819				
+MNKGAICE_01198	CDS	819				hypothetical protein
+MNKGAICE_01199	gene	756	ispE			
+MNKGAICE_01199	CDS	756	ispE	2.7.1.148	COG1947	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MNKGAICE_01200	gene	738				
+MNKGAICE_01200	CDS	738				hypothetical protein
+MNKGAICE_01201	gene	159	gcvH			
+MNKGAICE_01201	CDS	159	gcvH			Glycine cleavage system H protein
+MNKGAICE_01202	gene	1326	gcvPA			
+MNKGAICE_01202	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+MNKGAICE_01203	gene	336				
+MNKGAICE_01203	CDS	336				hypothetical protein
+MNKGAICE_01204	gene	381				
+MNKGAICE_01204	CDS	381				hypothetical protein
+MNKGAICE_01205	gene	315				
+MNKGAICE_01205	CDS	315				hypothetical protein
+MNKGAICE_01206	gene	384				
+MNKGAICE_01206	CDS	384				hypothetical protein
+MNKGAICE_01207	gene	375				
+MNKGAICE_01207	CDS	375				hypothetical protein
+MNKGAICE_01208	gene	426	ftsY			
+MNKGAICE_01208	CDS	426	ftsY		COG0552	Signal recognition particle receptor FtsY
+MNKGAICE_01209	gene	75				
+MNKGAICE_01209	tRNA	75				tRNA-Met(cat)
+MNKGAICE_01210	gene	420				
+MNKGAICE_01210	CDS	420				hypothetical protein
+MNKGAICE_01211	gene	297				
+MNKGAICE_01211	CDS	297				hypothetical protein
+MNKGAICE_01212	gene	1143				
+MNKGAICE_01212	CDS	1143				hypothetical protein
+MNKGAICE_01213	gene	285				
+MNKGAICE_01213	CDS	285				hypothetical protein
+MNKGAICE_01214	gene	174				
+MNKGAICE_01214	CDS	174				hypothetical protein
+MNKGAICE_01215	gene	987				
+MNKGAICE_01215	CDS	987				hypothetical protein
+MNKGAICE_01216	gene	867				
+MNKGAICE_01216	CDS	867				hypothetical protein
+MNKGAICE_01217	gene	885				
+MNKGAICE_01217	CDS	885				hypothetical protein
+MNKGAICE_01218	gene	1041				
+MNKGAICE_01218	CDS	1041				hypothetical protein
+MNKGAICE_01219	gene	342				
+MNKGAICE_01219	CDS	342				hypothetical protein
+MNKGAICE_01220	gene	678	fprA1			
+MNKGAICE_01220	CDS	678	fprA1	1.6.3.4	COG0426	Flavo-diiron protein FprA1
+MNKGAICE_01221	gene	228				
+MNKGAICE_01221	CDS	228				hypothetical protein
+MNKGAICE_01222	gene	402	rapZ			
+MNKGAICE_01222	CDS	402	rapZ		COG1660	RNase adapter protein RapZ
+MNKGAICE_01223	gene	291				
+MNKGAICE_01223	CDS	291				hypothetical protein
+MNKGAICE_01224	gene	498	yqgN			
+MNKGAICE_01224	CDS	498	yqgN		COG0212	putative protein YqgN
+MNKGAICE_01225	gene	708				
+MNKGAICE_01225	CDS	708				hypothetical protein
+MNKGAICE_01226	gene	465	sigE_2			
+MNKGAICE_01226	CDS	465	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+MNKGAICE_01227	gene	549				
+MNKGAICE_01227	CDS	549				hypothetical protein
+MNKGAICE_01228	gene	450				
+MNKGAICE_01228	CDS	450				hypothetical protein
+MNKGAICE_01229	gene	894				
+MNKGAICE_01229	CDS	894				hypothetical protein
+MNKGAICE_01230	gene	444				
+MNKGAICE_01230	CDS	444				hypothetical protein
+MNKGAICE_01231	gene	615				
+MNKGAICE_01231	CDS	615				hypothetical protein
+MNKGAICE_01232	gene	426				
+MNKGAICE_01232	CDS	426				hypothetical protein
+MNKGAICE_01233	gene	1275				
+MNKGAICE_01233	CDS	1275				hypothetical protein
+MNKGAICE_01234	gene	555	resA_4			
+MNKGAICE_01234	CDS	555	resA_4			Thiol-disulfide oxidoreductase ResA
+MNKGAICE_01235	gene	111				
+MNKGAICE_01235	CDS	111				hypothetical protein
+MNKGAICE_01236	gene	177				
+MNKGAICE_01236	CDS	177				hypothetical protein
+MNKGAICE_01237	gene	489	yafV			
+MNKGAICE_01237	CDS	489	yafV	3.5.1.3		Omega-amidase YafV
+MNKGAICE_01238	gene	138				
+MNKGAICE_01238	CDS	138				hypothetical protein
+MNKGAICE_01239	gene	291				
+MNKGAICE_01239	CDS	291				hypothetical protein
+MNKGAICE_01240	gene	606	rnhB			
+MNKGAICE_01240	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+MNKGAICE_01241	gene	912	rfbJ			
+MNKGAICE_01241	CDS	912	rfbJ	1.1.1.341	COG0451	CDP-abequose synthase
+MNKGAICE_01242	gene	729				
+MNKGAICE_01242	CDS	729				hypothetical protein
+MNKGAICE_01243	gene	651	truB			
+MNKGAICE_01243	CDS	651	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+MNKGAICE_01244	gene	648	queA_2			
+MNKGAICE_01244	CDS	648	queA_2	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+MNKGAICE_01245	gene	177				
+MNKGAICE_01245	CDS	177				hypothetical protein
+MNKGAICE_01246	gene	612				
+MNKGAICE_01246	CDS	612				hypothetical protein
+MNKGAICE_01247	gene	360	folA			
+MNKGAICE_01247	CDS	360	folA	1.5.1.3	COG0262	Dihydrofolate reductase
+MNKGAICE_01248	gene	135				
+MNKGAICE_01248	CDS	135				hypothetical protein
+MNKGAICE_01249	gene	486	asnC			
+MNKGAICE_01249	CDS	486	asnC		COG1522	Regulatory protein AsnC
+MNKGAICE_01250	gene	891	dapA			
+MNKGAICE_01250	CDS	891	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+MNKGAICE_01251	gene	720				
+MNKGAICE_01251	CDS	720				hypothetical protein
+MNKGAICE_01252	gene	507				
+MNKGAICE_01252	CDS	507				hypothetical protein
+MNKGAICE_01253	gene	642				
+MNKGAICE_01253	CDS	642				hypothetical protein
+MNKGAICE_01254	gene	417				
+MNKGAICE_01254	CDS	417				hypothetical protein
+MNKGAICE_01255	gene	180				
+MNKGAICE_01255	CDS	180				hypothetical protein
+MNKGAICE_01256	gene	1029	xerD			
+MNKGAICE_01256	CDS	1029	xerD			Tyrosine recombinase XerD
+MNKGAICE_01257	gene	642				
+MNKGAICE_01257	CDS	642				hypothetical protein
+MNKGAICE_01258	gene	339				
+MNKGAICE_01258	CDS	339				hypothetical protein
+MNKGAICE_01259	gene	294	fklB_3			
+MNKGAICE_01259	CDS	294	fklB_3	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+MNKGAICE_01260	gene	462				
+MNKGAICE_01260	CDS	462				hypothetical protein
+MNKGAICE_01261	gene	609	tagO			
+MNKGAICE_01261	CDS	609	tagO	2.7.8.33	COG0472	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+MNKGAICE_01262	gene	717				
+MNKGAICE_01262	CDS	717				hypothetical protein
+MNKGAICE_01263	gene	87				
+MNKGAICE_01263	tRNA	87				tRNA-Leu(tag)
+MNKGAICE_01264	gene	897				
+MNKGAICE_01264	CDS	897				hypothetical protein
+MNKGAICE_01265	gene	459				
+MNKGAICE_01265	CDS	459			COG2826	IS30 family transposase IS4351
+MNKGAICE_01266	gene	420				
+MNKGAICE_01266	CDS	420				hypothetical protein
+MNKGAICE_01267	gene	189				
+MNKGAICE_01267	CDS	189				hypothetical protein
+MNKGAICE_01268	gene	513				
+MNKGAICE_01268	CDS	513				hypothetical protein
+MNKGAICE_01269	gene	552				
+MNKGAICE_01269	CDS	552				hypothetical protein
+MNKGAICE_01270	gene	579				
+MNKGAICE_01270	CDS	579				hypothetical protein
+MNKGAICE_01271	gene	798	guaA			
+MNKGAICE_01271	CDS	798	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+MNKGAICE_01272	gene	462	ogt			
+MNKGAICE_01272	CDS	462	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+MNKGAICE_01273	gene	918	mtaB			
+MNKGAICE_01273	CDS	918	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB

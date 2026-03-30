@@ -1,0 +1,3829 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NIELGFIF_00001	gene	1329				
+NIELGFIF_00001	CDS	1329				hypothetical protein
+NIELGFIF_00002	gene	1008				
+NIELGFIF_00002	CDS	1008				hypothetical protein
+NIELGFIF_00003	gene	606				
+NIELGFIF_00003	CDS	606				hypothetical protein
+NIELGFIF_00004	gene	309				
+NIELGFIF_00004	CDS	309				hypothetical protein
+NIELGFIF_00005	gene	2067				
+NIELGFIF_00005	CDS	2067				hypothetical protein
+NIELGFIF_00006	gene	402				
+NIELGFIF_00006	CDS	402				hypothetical protein
+NIELGFIF_00007	gene	477				
+NIELGFIF_00007	CDS	477				hypothetical protein
+NIELGFIF_00008	gene	330				
+NIELGFIF_00008	CDS	330				hypothetical protein
+NIELGFIF_00009	gene	450				
+NIELGFIF_00009	CDS	450				hypothetical protein
+NIELGFIF_00010	gene	1452				
+NIELGFIF_00010	CDS	1452				hypothetical protein
+NIELGFIF_00011	gene	564	resA_1			
+NIELGFIF_00011	CDS	564	resA_1			Thiol-disulfide oxidoreductase ResA
+NIELGFIF_00012	gene	534	maa			
+NIELGFIF_00012	CDS	534	maa	2.3.1.79	COG0110	Maltose O-acetyltransferase
+NIELGFIF_00013	gene	483				
+NIELGFIF_00013	CDS	483				hypothetical protein
+NIELGFIF_00014	gene	498				
+NIELGFIF_00014	CDS	498				hypothetical protein
+NIELGFIF_00015	gene	477				
+NIELGFIF_00015	CDS	477				hypothetical protein
+NIELGFIF_00016	gene	807	tolQ_1			
+NIELGFIF_00016	CDS	807	tolQ_1			Tol-Pal system protein TolQ
+NIELGFIF_00017	gene	486	asnC_1			
+NIELGFIF_00017	CDS	486	asnC_1		COG1522	Regulatory protein AsnC
+NIELGFIF_00018	gene	135				
+NIELGFIF_00018	CDS	135				hypothetical protein
+NIELGFIF_00019	gene	486	dfrA			
+NIELGFIF_00019	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+NIELGFIF_00020	gene	795	thyA			
+NIELGFIF_00020	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+NIELGFIF_00021	gene	1410	rsmF			
+NIELGFIF_00021	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+NIELGFIF_00022	gene	777				
+NIELGFIF_00022	CDS	777				hypothetical protein
+NIELGFIF_00023	gene	186				
+NIELGFIF_00023	CDS	186				hypothetical protein
+NIELGFIF_00024	gene	543	algU			
+NIELGFIF_00024	CDS	543	algU		COG1595	RNA polymerase sigma-H factor
+NIELGFIF_00025	gene	360				
+NIELGFIF_00025	CDS	360				hypothetical protein
+NIELGFIF_00026	gene	2097	pal_1			
+NIELGFIF_00026	CDS	2097	pal_1			Peptidoglycan-associated lipoprotein
+NIELGFIF_00027	gene	981	glkA			
+NIELGFIF_00027	CDS	981	glkA	2.7.1.2		Glucokinase
+NIELGFIF_00028	gene	138				
+NIELGFIF_00028	CDS	138				hypothetical protein
+NIELGFIF_00029	gene	690				
+NIELGFIF_00029	CDS	690				hypothetical protein
+NIELGFIF_00030	gene	579				
+NIELGFIF_00030	CDS	579				hypothetical protein
+NIELGFIF_00031	gene	858	rmlD			
+NIELGFIF_00031	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+NIELGFIF_00032	gene	1593	prfC			
+NIELGFIF_00032	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+NIELGFIF_00033	gene	1038				
+NIELGFIF_00033	CDS	1038				hypothetical protein
+NIELGFIF_00034	gene	1932				
+NIELGFIF_00034	CDS	1932				hypothetical protein
+NIELGFIF_00035	gene	1296				
+NIELGFIF_00035	CDS	1296				hypothetical protein
+NIELGFIF_00036	gene	888				
+NIELGFIF_00036	CDS	888				hypothetical protein
+NIELGFIF_00037	gene	1476	rbbA			
+NIELGFIF_00037	CDS	1476	rbbA		COG0842	Ribosome-associated ATPase
+NIELGFIF_00038	gene	1065	ybhS			
+NIELGFIF_00038	CDS	1065	ybhS		COG0842	putative multidrug ABC transporter permease YbhS
+NIELGFIF_00039	gene	1104	ybhR_1			
+NIELGFIF_00039	CDS	1104	ybhR_1		COG0842	putative multidrug ABC transporter permease YbhR
+NIELGFIF_00040	gene	1404				
+NIELGFIF_00040	CDS	1404				hypothetical protein
+NIELGFIF_00041	gene	2640	rep_1			
+NIELGFIF_00041	CDS	2640	rep_1	3.6.4.12		ATP-dependent DNA helicase Rep
+NIELGFIF_00042	gene	1251	tdcG			
+NIELGFIF_00042	CDS	1251	tdcG	4.3.1.17	COG1760	L-serine dehydratase TdcG
+NIELGFIF_00043	gene	405				
+NIELGFIF_00043	CDS	405				hypothetical protein
+NIELGFIF_00044	gene	822	cmk_1			
+NIELGFIF_00044	CDS	822	cmk_1	2.7.4.25		Cytidylate kinase
+NIELGFIF_00045	gene	1374	yeeO			
+NIELGFIF_00045	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+NIELGFIF_00046	gene	123				
+NIELGFIF_00046	CDS	123				hypothetical protein
+NIELGFIF_00047	gene	339				
+NIELGFIF_00047	CDS	339				hypothetical protein
+NIELGFIF_00048	gene	582				
+NIELGFIF_00048	CDS	582				hypothetical protein
+NIELGFIF_00049	gene	1542	glyQS			
+NIELGFIF_00049	CDS	1542	glyQS	6.1.1.14		Glycine--tRNA ligase
+NIELGFIF_00050	gene	105				
+NIELGFIF_00050	CDS	105				hypothetical protein
+NIELGFIF_00051	gene	117				
+NIELGFIF_00051	CDS	117				hypothetical protein
+NIELGFIF_00052	gene	2493				
+NIELGFIF_00052	CDS	2493				hypothetical protein
+NIELGFIF_00053	gene	1560				
+NIELGFIF_00053	CDS	1560				hypothetical protein
+NIELGFIF_00054	gene	93				
+NIELGFIF_00054	CDS	93				hypothetical protein
+NIELGFIF_00055	gene	1749				
+NIELGFIF_00055	CDS	1749				hypothetical protein
+NIELGFIF_00056	gene	1377	fucP			
+NIELGFIF_00056	CDS	1377	fucP		COG0738	L-fucose-proton symporter
+NIELGFIF_00057	gene	1167	mro			
+NIELGFIF_00057	CDS	1167	mro	5.1.3.3	COG2017	Aldose 1-epimerase
+NIELGFIF_00058	gene	1224	fpgS			
+NIELGFIF_00058	CDS	1224	fpgS	6.3.2.17		Folylpolyglutamate synthase
+NIELGFIF_00059	gene	1173	dnaJ			
+NIELGFIF_00059	CDS	1173	dnaJ		COG0484	Chaperone protein DnaJ
+NIELGFIF_00060	gene	582	grpE			
+NIELGFIF_00060	CDS	582	grpE		COG0576	Protein GrpE
+NIELGFIF_00061	gene	1611	ybiT			
+NIELGFIF_00061	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+NIELGFIF_00062	gene	129				
+NIELGFIF_00062	CDS	129				hypothetical protein
+NIELGFIF_00063	gene	732				
+NIELGFIF_00063	CDS	732				hypothetical protein
+NIELGFIF_00064	gene	1035				
+NIELGFIF_00064	CDS	1035				hypothetical protein
+NIELGFIF_00065	gene	924				
+NIELGFIF_00065	CDS	924				hypothetical protein
+NIELGFIF_00066	gene	618				
+NIELGFIF_00066	CDS	618				hypothetical protein
+NIELGFIF_00067	gene	1356				
+NIELGFIF_00067	CDS	1356				hypothetical protein
+NIELGFIF_00068	gene	972	ravA			
+NIELGFIF_00068	CDS	972	ravA	3.6.3.-		ATPase RavA
+NIELGFIF_00069	gene	1314				
+NIELGFIF_00069	CDS	1314				hypothetical protein
+NIELGFIF_00070	gene	642	gph			
+NIELGFIF_00070	CDS	642	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+NIELGFIF_00071	gene	1326				
+NIELGFIF_00071	CDS	1326				hypothetical protein
+NIELGFIF_00072	gene	606	ribE			
+NIELGFIF_00072	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+NIELGFIF_00073	gene	1272	apgM			
+NIELGFIF_00073	CDS	1272	apgM			2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+NIELGFIF_00074	gene	636				
+NIELGFIF_00074	CDS	636				hypothetical protein
+NIELGFIF_00075	gene	1365	bepA_1			
+NIELGFIF_00075	CDS	1365	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIELGFIF_00076	gene	1707	glnS			
+NIELGFIF_00076	CDS	1707	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+NIELGFIF_00077	gene	249				
+NIELGFIF_00077	CDS	249				hypothetical protein
+NIELGFIF_00078	gene	1026	mltG			
+NIELGFIF_00078	CDS	1026	mltG	4.2.2.-		Endolytic murein transglycosylase
+NIELGFIF_00079	gene	1386				
+NIELGFIF_00079	CDS	1386				hypothetical protein
+NIELGFIF_00080	gene	432				
+NIELGFIF_00080	CDS	432				hypothetical protein
+NIELGFIF_00081	gene	2040	topB			
+NIELGFIF_00081	CDS	2040	topB	5.6.2.1	COG0550	DNA topoisomerase 3
+NIELGFIF_00082	gene	738	lutA			
+NIELGFIF_00082	CDS	738	lutA		COG0247	Lactate utilization protein A
+NIELGFIF_00083	gene	1371	lutB			
+NIELGFIF_00083	CDS	1371	lutB		COG1139	Lactate utilization protein B
+NIELGFIF_00084	gene	585				
+NIELGFIF_00084	CDS	585				hypothetical protein
+NIELGFIF_00085	gene	549				
+NIELGFIF_00085	CDS	549				hypothetical protein
+NIELGFIF_00086	gene	537	sigE_1			
+NIELGFIF_00086	CDS	537	sigE_1		COG1595	ECF RNA polymerase sigma factor SigE
+NIELGFIF_00087	gene	1242				
+NIELGFIF_00087	CDS	1242				hypothetical protein
+NIELGFIF_00088	gene	1890				
+NIELGFIF_00088	CDS	1890				hypothetical protein
+NIELGFIF_00089	gene	1239	fdtB			
+NIELGFIF_00089	CDS	1239	fdtB	2.6.1.90		dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+NIELGFIF_00090	gene	939				
+NIELGFIF_00090	CDS	939				hypothetical protein
+NIELGFIF_00091	gene	411	fdtA			
+NIELGFIF_00091	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+NIELGFIF_00092	gene	1134	rfbB			
+NIELGFIF_00092	CDS	1134	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+NIELGFIF_00093	gene	630	cmk_2			
+NIELGFIF_00093	CDS	630	cmk_2	2.7.4.25		Cytidylate kinase
+NIELGFIF_00094	gene	1404	mepA			
+NIELGFIF_00094	CDS	1404	mepA			Multidrug export protein MepA
+NIELGFIF_00095	gene	1323	xseA			
+NIELGFIF_00095	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+NIELGFIF_00096	gene	171	xseB			
+NIELGFIF_00096	CDS	171	xseB	3.1.11.6		Exodeoxyribonuclease 7 small subunit
+NIELGFIF_00097	gene	1023	ilvE			
+NIELGFIF_00097	CDS	1023	ilvE	2.6.1.42	COG0115	Branched-chain-amino-acid aminotransferase
+NIELGFIF_00098	gene	1431	pepC			
+NIELGFIF_00098	CDS	1431	pepC	3.4.22.40	COG3579	Aminopeptidase C
+NIELGFIF_00099	gene	900	ddh			
+NIELGFIF_00099	CDS	900	ddh	1.4.1.16		Meso-diaminopimelate D-dehydrogenase
+NIELGFIF_00100	gene	606	ruvA			
+NIELGFIF_00100	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+NIELGFIF_00101	gene	7554				
+NIELGFIF_00101	CDS	7554				hypothetical protein
+NIELGFIF_00102	gene	1533	pafA			
+NIELGFIF_00102	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+NIELGFIF_00103	gene	162				
+NIELGFIF_00103	CDS	162				hypothetical protein
+NIELGFIF_00104	gene	1401	algC_1			
+NIELGFIF_00104	CDS	1401	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+NIELGFIF_00105	gene	642				
+NIELGFIF_00105	CDS	642				hypothetical protein
+NIELGFIF_00106	gene	873	carD			
+NIELGFIF_00106	CDS	873	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+NIELGFIF_00107	gene	1026	carE			
+NIELGFIF_00107	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+NIELGFIF_00108	gene	1725	caiA			
+NIELGFIF_00108	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+NIELGFIF_00109	gene	114				
+NIELGFIF_00109	CDS	114				hypothetical protein
+NIELGFIF_00110	gene	627				
+NIELGFIF_00110	CDS	627				hypothetical protein
+NIELGFIF_00111	gene	828				
+NIELGFIF_00111	CDS	828				hypothetical protein
+NIELGFIF_00112	gene	129				
+NIELGFIF_00112	CDS	129				hypothetical protein
+NIELGFIF_00113	gene	2043				
+NIELGFIF_00113	CDS	2043				hypothetical protein
+NIELGFIF_00114	gene	1374				
+NIELGFIF_00114	CDS	1374				hypothetical protein
+NIELGFIF_00115	gene	252				
+NIELGFIF_00115	CDS	252				hypothetical protein
+NIELGFIF_00116	gene	1833	LIAS			
+NIELGFIF_00116	CDS	1833	LIAS	2.8.1.8		Lipoyl synthase, organellar chromatophore
+NIELGFIF_00117	gene	1158	pntA_1			
+NIELGFIF_00117	CDS	1158	pntA_1	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+NIELGFIF_00118	gene	315	pntA_2			
+NIELGFIF_00118	CDS	315	pntA_2	7.1.1.1	COG3288	NAD(P) transhydrogenase subunit alpha
+NIELGFIF_00119	gene	1533	pntB			
+NIELGFIF_00119	CDS	1533	pntB	7.1.1.1	COG1282	NAD(P) transhydrogenase subunit beta
+NIELGFIF_00120	gene	1665	lcfB			
+NIELGFIF_00120	CDS	1665	lcfB	6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase
+NIELGFIF_00121	gene	1248	lolE_1			
+NIELGFIF_00121	CDS	1248	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+NIELGFIF_00122	gene	2055	htpG			
+NIELGFIF_00122	CDS	2055	htpG			Chaperone protein HtpG
+NIELGFIF_00123	gene	1455	pepD_1			
+NIELGFIF_00123	CDS	1455	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+NIELGFIF_00124	gene	231				
+NIELGFIF_00124	CDS	231				hypothetical protein
+NIELGFIF_00125	gene	606				
+NIELGFIF_00125	CDS	606				hypothetical protein
+NIELGFIF_00126	gene	636	nth			
+NIELGFIF_00126	CDS	636	nth	4.2.99.18	COG0177	Endonuclease III
+NIELGFIF_00127	gene	711				
+NIELGFIF_00127	CDS	711				hypothetical protein
+NIELGFIF_00128	gene	648				
+NIELGFIF_00128	CDS	648				hypothetical protein
+NIELGFIF_00129	gene	2463	pheT			
+NIELGFIF_00129	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+NIELGFIF_00130	gene	726				
+NIELGFIF_00130	CDS	726			COG0217	putative transcriptional regulatory protein
+NIELGFIF_00131	gene	387				
+NIELGFIF_00131	CDS	387				hypothetical protein
+NIELGFIF_00132	gene	1782	lepA			
+NIELGFIF_00132	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+NIELGFIF_00133	gene	603				
+NIELGFIF_00133	CDS	603				hypothetical protein
+NIELGFIF_00134	gene	2181	bamA_1			
+NIELGFIF_00134	CDS	2181	bamA_1			Outer membrane protein assembly factor BamA
+NIELGFIF_00135	gene	465				
+NIELGFIF_00135	CDS	465				hypothetical protein
+NIELGFIF_00136	gene	807	yycJ			
+NIELGFIF_00136	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+NIELGFIF_00137	gene	2136				
+NIELGFIF_00137	CDS	2136				hypothetical protein
+NIELGFIF_00138	gene	2118				
+NIELGFIF_00138	CDS	2118				hypothetical protein
+NIELGFIF_00139	gene	264	rpmB			
+NIELGFIF_00139	CDS	264	rpmB		COG0227	50S ribosomal protein L28
+NIELGFIF_00140	gene	189	rpmG2			
+NIELGFIF_00140	CDS	189	rpmG2			50S ribosomal protein L33 2
+NIELGFIF_00141	gene	159				
+NIELGFIF_00141	CDS	159				hypothetical protein
+NIELGFIF_00142	gene	957	ftsY			
+NIELGFIF_00142	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+NIELGFIF_00143	gene	1317	rimO			
+NIELGFIF_00143	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+NIELGFIF_00144	gene	294	hup_1			
+NIELGFIF_00144	CDS	294	hup_1			DNA-binding protein HU
+NIELGFIF_00145	gene	1374	ihfA			
+NIELGFIF_00145	CDS	1374	ihfA			Integration host factor subunit alpha
+NIELGFIF_00146	gene	996				
+NIELGFIF_00146	CDS	996				hypothetical protein
+NIELGFIF_00147	gene	870				
+NIELGFIF_00147	CDS	870				hypothetical protein
+NIELGFIF_00148	gene	1107				
+NIELGFIF_00148	CDS	1107				hypothetical protein
+NIELGFIF_00149	gene	999				
+NIELGFIF_00149	CDS	999				hypothetical protein
+NIELGFIF_00150	gene	1029				
+NIELGFIF_00150	CDS	1029				hypothetical protein
+NIELGFIF_00151	gene	693				
+NIELGFIF_00151	CDS	693				hypothetical protein
+NIELGFIF_00152	gene	2562				
+NIELGFIF_00152	CDS	2562				hypothetical protein
+NIELGFIF_00153	gene	687				
+NIELGFIF_00153	CDS	687				hypothetical protein
+NIELGFIF_00154	gene	1236	queA_1			
+NIELGFIF_00154	CDS	1236	queA_1	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NIELGFIF_00155	gene	1941	nadE			
+NIELGFIF_00155	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+NIELGFIF_00156	gene	891				
+NIELGFIF_00156	CDS	891				hypothetical protein
+NIELGFIF_00157	gene	2676	gyrA			
+NIELGFIF_00157	CDS	2676	gyrA	5.6.2.2	COG0188	DNA gyrase subunit A
+NIELGFIF_00158	gene	1170				
+NIELGFIF_00158	CDS	1170				hypothetical protein
+NIELGFIF_00159	gene	1209				
+NIELGFIF_00159	CDS	1209				hypothetical protein
+NIELGFIF_00160	gene	1254				
+NIELGFIF_00160	CDS	1254				hypothetical protein
+NIELGFIF_00161	gene	504				
+NIELGFIF_00161	CDS	504				hypothetical protein
+NIELGFIF_00162	gene	480	smpB			
+NIELGFIF_00162	CDS	480	smpB		COG0691	SsrA-binding protein
+NIELGFIF_00163	gene	405				
+NIELGFIF_00163	CDS	405				hypothetical protein
+NIELGFIF_00164	gene	855	map_1			
+NIELGFIF_00164	CDS	855	map_1	3.4.11.18	COG0024	Methionine aminopeptidase
+NIELGFIF_00165	gene	1026	tsaD			
+NIELGFIF_00165	CDS	1026	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+NIELGFIF_00166	gene	492	pncC			
+NIELGFIF_00166	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+NIELGFIF_00167	gene	1482	degQ			
+NIELGFIF_00167	CDS	1482	degQ	3.4.21.107	COG0265	Periplasmic pH-dependent serine endoprotease DegQ
+NIELGFIF_00168	gene	1026	ansA			
+NIELGFIF_00168	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+NIELGFIF_00169	gene	2061	btuB_1			
+NIELGFIF_00169	CDS	2061	btuB_1			Vitamin B12 transporter BtuB
+NIELGFIF_00170	gene	540				
+NIELGFIF_00170	CDS	540				hypothetical protein
+NIELGFIF_00171	gene	1986	rho			
+NIELGFIF_00171	CDS	1986	rho	3.6.4.-		Transcription termination factor Rho
+NIELGFIF_00172	gene	303				
+NIELGFIF_00172	CDS	303				hypothetical protein
+NIELGFIF_00173	gene	579				
+NIELGFIF_00173	CDS	579		2.3.1.-	COG1670	Acetyltransferase
+NIELGFIF_00174	gene	510				
+NIELGFIF_00174	CDS	510				hypothetical protein
+NIELGFIF_00175	gene	90				
+NIELGFIF_00175	CDS	90				hypothetical protein
+NIELGFIF_00176	gene	654	rbr			
+NIELGFIF_00176	CDS	654	rbr		COG1592	Rubrerythrin
+NIELGFIF_00177	gene	74				
+NIELGFIF_00177	tRNA	74				tRNA-Lys(ctt)
+NIELGFIF_00178	gene	987	msrA			
+NIELGFIF_00178	CDS	987	msrA	1.8.4.11		Peptide methionine sulfoxide reductase MsrA
+NIELGFIF_00179	gene	1164				
+NIELGFIF_00179	CDS	1164				hypothetical protein
+NIELGFIF_00180	gene	546				
+NIELGFIF_00180	CDS	546				hypothetical protein
+NIELGFIF_00181	gene	486	ftnA			
+NIELGFIF_00181	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+NIELGFIF_00182	gene	936	arnC			
+NIELGFIF_00182	CDS	936	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+NIELGFIF_00183	gene	1212				
+NIELGFIF_00183	CDS	1212				hypothetical protein
+NIELGFIF_00184	gene	390				
+NIELGFIF_00184	CDS	390				hypothetical protein
+NIELGFIF_00185	gene	1038	pheS			
+NIELGFIF_00185	CDS	1038	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+NIELGFIF_00186	gene	1356				
+NIELGFIF_00186	CDS	1356				hypothetical protein
+NIELGFIF_00187	gene	852				
+NIELGFIF_00187	CDS	852				hypothetical protein
+NIELGFIF_00188	gene	1026	murB_1			
+NIELGFIF_00188	CDS	1026	murB_1	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+NIELGFIF_00189	gene	774	rbn			
+NIELGFIF_00189	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+NIELGFIF_00190	gene	294				
+NIELGFIF_00190	CDS	294				hypothetical protein
+NIELGFIF_00191	gene	369				
+NIELGFIF_00191	CDS	369				hypothetical protein
+NIELGFIF_00192	gene	216				
+NIELGFIF_00192	CDS	216				hypothetical protein
+NIELGFIF_00193	gene	516				
+NIELGFIF_00193	CDS	516				hypothetical protein
+NIELGFIF_00194	gene	423	yrrK			
+NIELGFIF_00194	CDS	423	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+NIELGFIF_00195	gene	561	def			
+NIELGFIF_00195	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+NIELGFIF_00196	gene	1965	bepA_2			
+NIELGFIF_00196	CDS	1965	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIELGFIF_00197	gene	588				
+NIELGFIF_00197	CDS	588				hypothetical protein
+NIELGFIF_00198	gene	456				
+NIELGFIF_00198	CDS	456				hypothetical protein
+NIELGFIF_00199	gene	564				
+NIELGFIF_00199	CDS	564				hypothetical protein
+NIELGFIF_00200	gene	564				
+NIELGFIF_00200	CDS	564				hypothetical protein
+NIELGFIF_00201	gene	405				
+NIELGFIF_00201	CDS	405				hypothetical protein
+NIELGFIF_00202	gene	1293				
+NIELGFIF_00202	CDS	1293				hypothetical protein
+NIELGFIF_00203	gene	1080				
+NIELGFIF_00203	CDS	1080				hypothetical protein
+NIELGFIF_00204	gene	1965	thrS			
+NIELGFIF_00204	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+NIELGFIF_00205	gene	2061	pat			
+NIELGFIF_00205	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+NIELGFIF_00206	gene	1812	ettA			
+NIELGFIF_00206	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+NIELGFIF_00207	gene	615	engB			
+NIELGFIF_00207	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+NIELGFIF_00208	gene	615	recR			
+NIELGFIF_00208	CDS	615	recR		COG0353	Recombination protein RecR
+NIELGFIF_00209	gene	423				
+NIELGFIF_00209	CDS	423				hypothetical protein
+NIELGFIF_00210	gene	1194				
+NIELGFIF_00210	CDS	1194				hypothetical protein
+NIELGFIF_00211	gene	516	speG			
+NIELGFIF_00211	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+NIELGFIF_00212	gene	76				
+NIELGFIF_00212	tRNA	76				tRNA-Asp(gtc)
+NIELGFIF_00213	gene	76				
+NIELGFIF_00213	tRNA	76				tRNA-Asp(gtc)
+NIELGFIF_00214	gene	75				
+NIELGFIF_00214	tRNA	75				tRNA-Thr(tgt)
+NIELGFIF_00215	gene	528				
+NIELGFIF_00215	CDS	528				hypothetical protein
+NIELGFIF_00216	gene	783				
+NIELGFIF_00216	CDS	783				hypothetical protein
+NIELGFIF_00217	gene	519	kdsC			
+NIELGFIF_00217	CDS	519	kdsC	3.1.3.45	COG1778	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+NIELGFIF_00218	gene	573	yhdE			
+NIELGFIF_00218	CDS	573	yhdE	3.6.1.9	COG0424	dTTP/UTP pyrophosphatase
+NIELGFIF_00219	gene	1107				
+NIELGFIF_00219	CDS	1107				hypothetical protein
+NIELGFIF_00220	gene	990				
+NIELGFIF_00220	CDS	990				hypothetical protein
+NIELGFIF_00221	gene	1515				
+NIELGFIF_00221	CDS	1515				hypothetical protein
+NIELGFIF_00222	gene	981				
+NIELGFIF_00222	CDS	981				hypothetical protein
+NIELGFIF_00223	gene	1398				
+NIELGFIF_00223	CDS	1398				hypothetical protein
+NIELGFIF_00224	gene	978	pfkA			
+NIELGFIF_00224	CDS	978	pfkA	2.7.1.11	COG0205	ATP-dependent 6-phosphofructokinase 1
+NIELGFIF_00225	gene	417				
+NIELGFIF_00225	CDS	417				hypothetical protein
+NIELGFIF_00226	gene	1125	dnaN			
+NIELGFIF_00226	CDS	1125	dnaN			Beta sliding clamp
+NIELGFIF_00227	gene	855	dinG			
+NIELGFIF_00227	CDS	855	dinG	3.1.-.-		3'-5' exonuclease DinG
+NIELGFIF_00228	gene	1212	undec1A			
+NIELGFIF_00228	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+NIELGFIF_00229	gene	903				
+NIELGFIF_00229	CDS	903				hypothetical protein
+NIELGFIF_00230	gene	1668	recN			
+NIELGFIF_00230	CDS	1668	recN		COG0497	DNA repair protein RecN
+NIELGFIF_00231	gene	1647				
+NIELGFIF_00231	CDS	1647				hypothetical protein
+NIELGFIF_00232	gene	999				
+NIELGFIF_00232	CDS	999				hypothetical protein
+NIELGFIF_00233	gene	336				
+NIELGFIF_00233	CDS	336				hypothetical protein
+NIELGFIF_00234	gene	240				
+NIELGFIF_00234	CDS	240				hypothetical protein
+NIELGFIF_00235	gene	1470				
+NIELGFIF_00235	CDS	1470				hypothetical protein
+NIELGFIF_00236	gene	240				
+NIELGFIF_00236	CDS	240				hypothetical protein
+NIELGFIF_00237	gene	120				
+NIELGFIF_00237	CDS	120				hypothetical protein
+NIELGFIF_00238	gene	774	lpxA_1			
+NIELGFIF_00238	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+NIELGFIF_00239	gene	1362	oprM			
+NIELGFIF_00239	CDS	1362	oprM		COG1538	Outer membrane protein OprM
+NIELGFIF_00240	gene	3258	bepE			
+NIELGFIF_00240	CDS	3258	bepE			Efflux pump membrane transporter BepE
+NIELGFIF_00241	gene	1194	ttgA			
+NIELGFIF_00241	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+NIELGFIF_00242	gene	1638	cca			
+NIELGFIF_00242	CDS	1638	cca	2.7.7.72		CCA-adding enzyme
+NIELGFIF_00243	gene	459				
+NIELGFIF_00243	CDS	459				hypothetical protein
+NIELGFIF_00244	gene	555				
+NIELGFIF_00244	CDS	555				hypothetical protein
+NIELGFIF_00245	gene	2130	tpiA			
+NIELGFIF_00245	CDS	2130	tpiA			Triosephosphate isomerase
+NIELGFIF_00246	gene	639				
+NIELGFIF_00246	CDS	639				hypothetical protein
+NIELGFIF_00247	gene	594	folE			
+NIELGFIF_00247	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+NIELGFIF_00248	gene	615				
+NIELGFIF_00248	CDS	615				hypothetical protein
+NIELGFIF_00249	gene	132				
+NIELGFIF_00249	CDS	132				hypothetical protein
+NIELGFIF_00250	gene	1110				
+NIELGFIF_00250	CDS	1110				hypothetical protein
+NIELGFIF_00251	gene	963				
+NIELGFIF_00251	CDS	963				hypothetical protein
+NIELGFIF_00252	gene	789	tagA			
+NIELGFIF_00252	CDS	789	tagA	2.4.1.187	COG1922	N-acetylglucosaminyldiphosphoundecaprenol N-acetyl-beta-D-mannosaminyltransferase
+NIELGFIF_00253	gene	1254	mshA_1			
+NIELGFIF_00253	CDS	1254	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIELGFIF_00254	gene	1029	bshA			
+NIELGFIF_00254	CDS	1029	bshA	2.4.1.-	COG0438	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+NIELGFIF_00255	gene	552	dapH_1			
+NIELGFIF_00255	CDS	552	dapH_1	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NIELGFIF_00256	gene	1146				
+NIELGFIF_00256	CDS	1146				hypothetical protein
+NIELGFIF_00257	gene	786				
+NIELGFIF_00257	CDS	786				hypothetical protein
+NIELGFIF_00258	gene	1536				
+NIELGFIF_00258	CDS	1536			COG1292	putative glycine betaine transporter
+NIELGFIF_00259	gene	1587	thiK			
+NIELGFIF_00259	CDS	1587	thiK	2.7.1.89		Thiamine kinase
+NIELGFIF_00260	gene	864				
+NIELGFIF_00260	CDS	864				hypothetical protein
+NIELGFIF_00261	gene	744				
+NIELGFIF_00261	CDS	744				hypothetical protein
+NIELGFIF_00262	gene	1035	gtfA			
+NIELGFIF_00262	CDS	1035	gtfA	2.4.1.-		UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+NIELGFIF_00263	gene	879				
+NIELGFIF_00263	CDS	879				hypothetical protein
+NIELGFIF_00264	gene	1101				
+NIELGFIF_00264	CDS	1101				hypothetical protein
+NIELGFIF_00265	gene	945	murB_2			
+NIELGFIF_00265	CDS	945	murB_2	1.3.1.98		UDP-N-acetylenolpyruvoylglucosamine reductase
+NIELGFIF_00266	gene	933				
+NIELGFIF_00266	CDS	933				hypothetical protein
+NIELGFIF_00267	gene	603	dapH_2			
+NIELGFIF_00267	CDS	603	dapH_2	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NIELGFIF_00268	gene	678	dapH_3			
+NIELGFIF_00268	CDS	678	dapH_3	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NIELGFIF_00269	gene	108				
+NIELGFIF_00269	CDS	108				hypothetical protein
+NIELGFIF_00270	gene	1200				
+NIELGFIF_00270	CDS	1200				hypothetical protein
+NIELGFIF_00271	gene	1134				
+NIELGFIF_00271	CDS	1134				hypothetical protein
+NIELGFIF_00272	gene	1164				
+NIELGFIF_00272	CDS	1164				hypothetical protein
+NIELGFIF_00273	gene	1095	algA			
+NIELGFIF_00273	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+NIELGFIF_00274	gene	83				
+NIELGFIF_00274	tRNA	83				tRNA-Leu(caa)
+NIELGFIF_00275	gene	624	yjdF			
+NIELGFIF_00275	CDS	624	yjdF		COG3647	Inner membrane protein YjdF
+NIELGFIF_00276	gene	4182	cas9			
+NIELGFIF_00276	CDS	4182	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+NIELGFIF_00277	gene	933	cas1			
+NIELGFIF_00277	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+NIELGFIF_00278	gene	306	cas2			
+NIELGFIF_00278	CDS	306	cas2	3.1.-.-		CRISPR-associated endoribonuclease Cas2
+	repeat_region	662				
+NIELGFIF_00279	gene	975				
+NIELGFIF_00279	CDS	975				hypothetical protein
+NIELGFIF_00280	gene	1458	egtB			
+NIELGFIF_00280	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+NIELGFIF_00281	gene	816				
+NIELGFIF_00281	CDS	816				hypothetical protein
+NIELGFIF_00282	gene	1557				
+NIELGFIF_00282	CDS	1557				hypothetical protein
+NIELGFIF_00283	gene	1026				
+NIELGFIF_00283	CDS	1026				hypothetical protein
+NIELGFIF_00284	gene	600				
+NIELGFIF_00284	CDS	600				hypothetical protein
+NIELGFIF_00285	gene	597				
+NIELGFIF_00285	CDS	597				hypothetical protein
+NIELGFIF_00286	gene	984	menF			
+NIELGFIF_00286	CDS	984	menF	5.4.4.2		Isochorismate synthase MenF
+NIELGFIF_00287	gene	90				
+NIELGFIF_00287	CDS	90				hypothetical protein
+NIELGFIF_00288	gene	2271	priA			
+NIELGFIF_00288	CDS	2271	priA	3.6.4.-	COG1198	Primosomal protein N'
+NIELGFIF_00289	gene	900				
+NIELGFIF_00289	CDS	900				hypothetical protein
+NIELGFIF_00290	gene	1485				
+NIELGFIF_00290	CDS	1485				hypothetical protein
+NIELGFIF_00291	gene	2055	rny_1			
+NIELGFIF_00291	CDS	2055	rny_1	3.1.-.-		Ribonuclease Y
+NIELGFIF_00292	gene	1536	gltX			
+NIELGFIF_00292	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+NIELGFIF_00293	gene	1260	kdtA			
+NIELGFIF_00293	CDS	1260	kdtA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+NIELGFIF_00294	gene	936	eamA			
+NIELGFIF_00294	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+NIELGFIF_00295	gene	1788	ftsH_1			
+NIELGFIF_00295	CDS	1788	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+NIELGFIF_00296	gene	387				
+NIELGFIF_00296	CDS	387				hypothetical protein
+NIELGFIF_00297	gene	498	yrdA			
+NIELGFIF_00297	CDS	498	yrdA		COG0663	Protein YrdA
+NIELGFIF_00298	gene	105				
+NIELGFIF_00298	CDS	105				hypothetical protein
+NIELGFIF_00299	gene	3030				
+NIELGFIF_00299	CDS	3030				hypothetical protein
+NIELGFIF_00300	gene	2295				
+NIELGFIF_00300	CDS	2295				hypothetical protein
+NIELGFIF_00301	gene	1506				
+NIELGFIF_00301	CDS	1506		5.4.4.3	COG0174	3-hydroxylaminophenol mutase
+NIELGFIF_00302	gene	489				
+NIELGFIF_00302	CDS	489				hypothetical protein
+NIELGFIF_00303	gene	1443	apxIB_1			
+NIELGFIF_00303	CDS	1443	apxIB_1		COG2274	Toxin RTX-I translocation ATP-binding protein
+NIELGFIF_00304	gene	471				
+NIELGFIF_00304	CDS	471				hypothetical protein
+NIELGFIF_00305	gene	2361				
+NIELGFIF_00305	CDS	2361				hypothetical protein
+NIELGFIF_00306	gene	264				
+NIELGFIF_00306	CDS	264				hypothetical protein
+NIELGFIF_00307	gene	1374	tpl			
+NIELGFIF_00307	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+NIELGFIF_00308	gene	1674	aspT_1			
+NIELGFIF_00308	CDS	1674	aspT_1			Aspartate/alanine antiporter
+NIELGFIF_00309	gene	1008	ykoT			
+NIELGFIF_00309	CDS	1008	ykoT	2.4.-.-		putative glycosyltransferase YkoT
+NIELGFIF_00310	gene	1092	lpxL			
+NIELGFIF_00310	CDS	1092	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+NIELGFIF_00311	gene	807				
+NIELGFIF_00311	CDS	807				hypothetical protein
+NIELGFIF_00312	gene	1968				
+NIELGFIF_00312	CDS	1968				hypothetical protein
+NIELGFIF_00313	gene	1560				
+NIELGFIF_00313	CDS	1560				hypothetical protein
+NIELGFIF_00314	gene	594				
+NIELGFIF_00314	CDS	594				hypothetical protein
+NIELGFIF_00315	gene	2613				
+NIELGFIF_00315	CDS	2613				hypothetical protein
+NIELGFIF_00316	gene	843	murI			
+NIELGFIF_00316	CDS	843	murI	5.1.1.3		Glutamate racemase
+NIELGFIF_00317	gene	633				
+NIELGFIF_00317	CDS	633				hypothetical protein
+NIELGFIF_00318	gene	501	skp			
+NIELGFIF_00318	CDS	501	skp		COG2825	Chaperone protein Skp
+NIELGFIF_00319	gene	513				
+NIELGFIF_00319	CDS	513				hypothetical protein
+NIELGFIF_00320	gene	2622	bamA_2			
+NIELGFIF_00320	CDS	2622	bamA_2			Outer membrane protein assembly factor BamA
+NIELGFIF_00321	gene	750	ispU			
+NIELGFIF_00321	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+NIELGFIF_00322	gene	705				
+NIELGFIF_00322	CDS	705				hypothetical protein
+NIELGFIF_00323	gene	1419				
+NIELGFIF_00323	CDS	1419				hypothetical protein
+NIELGFIF_00324	gene	2049	bepA_3			
+NIELGFIF_00324	CDS	2049	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIELGFIF_00325	gene	786				
+NIELGFIF_00325	CDS	786				hypothetical protein
+NIELGFIF_00326	gene	420	aroQ			
+NIELGFIF_00326	CDS	420	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+NIELGFIF_00327	gene	627	trmR			
+NIELGFIF_00327	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+NIELGFIF_00328	gene	1008				
+NIELGFIF_00328	CDS	1008				hypothetical protein
+NIELGFIF_00329	gene	885				
+NIELGFIF_00329	CDS	885				hypothetical protein
+NIELGFIF_00330	gene	519				
+NIELGFIF_00330	CDS	519				hypothetical protein
+NIELGFIF_00331	gene	672				
+NIELGFIF_00331	CDS	672				hypothetical protein
+NIELGFIF_00332	gene	3537				
+NIELGFIF_00332	CDS	3537				hypothetical protein
+NIELGFIF_00333	gene	1545				
+NIELGFIF_00333	CDS	1545				hypothetical protein
+NIELGFIF_00334	gene	444				
+NIELGFIF_00334	CDS	444				hypothetical protein
+NIELGFIF_00335	gene	1563				
+NIELGFIF_00335	CDS	1563				hypothetical protein
+NIELGFIF_00336	gene	1116				
+NIELGFIF_00336	CDS	1116				hypothetical protein
+NIELGFIF_00337	gene	2685				
+NIELGFIF_00337	CDS	2685				hypothetical protein
+NIELGFIF_00338	gene	1416				
+NIELGFIF_00338	CDS	1416				hypothetical protein
+NIELGFIF_00339	gene	144				
+NIELGFIF_00339	CDS	144				hypothetical protein
+NIELGFIF_00340	gene	819	pdxK			
+NIELGFIF_00340	CDS	819	pdxK	2.7.1.35	COG2240	Pyridoxine/pyridoxal/pyridoxamine kinase
+NIELGFIF_00341	gene	300				
+NIELGFIF_00341	CDS	300				hypothetical protein
+NIELGFIF_00342	gene	2343				
+NIELGFIF_00342	CDS	2343				hypothetical protein
+NIELGFIF_00343	gene	327				
+NIELGFIF_00343	CDS	327				hypothetical protein
+NIELGFIF_00344	gene	222				
+NIELGFIF_00344	CDS	222				hypothetical protein
+NIELGFIF_00345	gene	2298				
+NIELGFIF_00345	CDS	2298				hypothetical protein
+NIELGFIF_00346	gene	1095				
+NIELGFIF_00346	CDS	1095		1.8.98.-	COG0641	Anaerobic sulfatase-maturating enzyme
+NIELGFIF_00347	gene	99				
+NIELGFIF_00347	CDS	99				hypothetical protein
+NIELGFIF_00348	gene	1782	lagD			
+NIELGFIF_00348	CDS	1782	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+NIELGFIF_00349	gene	2061				
+NIELGFIF_00349	CDS	2061				hypothetical protein
+NIELGFIF_00350	gene	261				
+NIELGFIF_00350	CDS	261				hypothetical protein
+NIELGFIF_00351	gene	2859				
+NIELGFIF_00351	CDS	2859				hypothetical protein
+NIELGFIF_00352	gene	906				
+NIELGFIF_00352	CDS	906				hypothetical protein
+NIELGFIF_00353	gene	255	rpmE2			
+NIELGFIF_00353	CDS	255	rpmE2		COG0254	50S ribosomal protein L31 type B
+NIELGFIF_00354	gene	1335				
+NIELGFIF_00354	CDS	1335				hypothetical protein
+NIELGFIF_00355	gene	930				
+NIELGFIF_00355	CDS	930				hypothetical protein
+NIELGFIF_00356	gene	2562				
+NIELGFIF_00356	CDS	2562				hypothetical protein
+NIELGFIF_00357	gene	1038				
+NIELGFIF_00357	CDS	1038				hypothetical protein
+NIELGFIF_00358	gene	573				
+NIELGFIF_00358	CDS	573				hypothetical protein
+NIELGFIF_00359	gene	636	udk_1			
+NIELGFIF_00359	CDS	636	udk_1	2.7.1.48		Uridine kinase
+NIELGFIF_00360	gene	174				
+NIELGFIF_00360	CDS	174				hypothetical protein
+NIELGFIF_00361	gene	1092	accIR			
+NIELGFIF_00361	CDS	1092	accIR	3.1.21.4		Type-2 restriction enzyme AccI
+NIELGFIF_00362	gene	2172				
+NIELGFIF_00362	CDS	2172				hypothetical protein
+NIELGFIF_00363	gene	1023				
+NIELGFIF_00363	CDS	1023				hypothetical protein
+NIELGFIF_00364	gene	753				
+NIELGFIF_00364	CDS	753				hypothetical protein
+NIELGFIF_00365	gene	693				
+NIELGFIF_00365	CDS	693				hypothetical protein
+NIELGFIF_00366	gene	75				
+NIELGFIF_00366	tRNA	75				tRNA-Arg(ccg)
+NIELGFIF_00367	gene	1224	pepT			
+NIELGFIF_00367	CDS	1224	pepT	3.4.11.4	COG2195	Peptidase T
+NIELGFIF_00368	gene	2256	kefB_1			
+NIELGFIF_00368	CDS	2256	kefB_1			Glutathione-regulated potassium-efflux system protein KefB
+NIELGFIF_00369	gene	1776				
+NIELGFIF_00369	CDS	1776				hypothetical protein
+NIELGFIF_00370	gene	585				
+NIELGFIF_00370	CDS	585				hypothetical protein
+NIELGFIF_00371	gene	2772	lptD_1			
+NIELGFIF_00371	CDS	2772	lptD_1			LPS-assembly protein LptD
+NIELGFIF_00372	gene	759	ppm1			
+NIELGFIF_00372	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+NIELGFIF_00373	gene	762				
+NIELGFIF_00373	CDS	762				hypothetical protein
+NIELGFIF_00374	gene	1209	rhaR			
+NIELGFIF_00374	CDS	1209	rhaR			HTH-type transcriptional activator RhaR
+NIELGFIF_00375	gene	675				
+NIELGFIF_00375	CDS	675				hypothetical protein
+NIELGFIF_00376	gene	756				
+NIELGFIF_00376	CDS	756				hypothetical protein
+NIELGFIF_00377	gene	1224				
+NIELGFIF_00377	CDS	1224				hypothetical protein
+NIELGFIF_00378	gene	1221				
+NIELGFIF_00378	CDS	1221				hypothetical protein
+NIELGFIF_00379	gene	705	yknY_1			
+NIELGFIF_00379	CDS	705	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+NIELGFIF_00380	gene	1152				
+NIELGFIF_00380	CDS	1152				hypothetical protein
+NIELGFIF_00381	gene	1278				
+NIELGFIF_00381	CDS	1278				hypothetical protein
+NIELGFIF_00382	gene	1179				
+NIELGFIF_00382	CDS	1179				hypothetical protein
+NIELGFIF_00383	gene	1329	allB			
+NIELGFIF_00383	CDS	1329	allB	3.5.2.5	COG0044	Allantoinase
+NIELGFIF_00384	gene	849				
+NIELGFIF_00384	CDS	849				hypothetical protein
+NIELGFIF_00385	gene	429				
+NIELGFIF_00385	CDS	429				hypothetical protein
+NIELGFIF_00386	gene	339				
+NIELGFIF_00386	CDS	339				hypothetical protein
+NIELGFIF_00387	gene	465	queF			
+NIELGFIF_00387	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+NIELGFIF_00388	gene	1017				
+NIELGFIF_00388	CDS	1017				hypothetical protein
+NIELGFIF_00389	gene	555	polC			
+NIELGFIF_00389	CDS	555	polC	2.7.7.7	COG2176	DNA polymerase III PolC-type
+NIELGFIF_00390	gene	2943				
+NIELGFIF_00390	CDS	2943				hypothetical protein
+NIELGFIF_00391	gene	570	purN			
+NIELGFIF_00391	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+NIELGFIF_00392	gene	489				
+NIELGFIF_00392	CDS	489				hypothetical protein
+NIELGFIF_00393	gene	618	pth			
+NIELGFIF_00393	CDS	618	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+NIELGFIF_00394	gene	612	ctc			
+NIELGFIF_00394	CDS	612	ctc		COG1825	General stress protein CTC
+NIELGFIF_00395	gene	1002	nusB			
+NIELGFIF_00395	CDS	1002	nusB			Transcription antitermination protein NusB
+NIELGFIF_00396	gene	330				
+NIELGFIF_00396	CDS	330				hypothetical protein
+NIELGFIF_00397	gene	987				
+NIELGFIF_00397	CDS	987				hypothetical protein
+NIELGFIF_00398	gene	561	coaE			
+NIELGFIF_00398	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+NIELGFIF_00399	gene	444				
+NIELGFIF_00399	CDS	444				hypothetical protein
+NIELGFIF_00400	gene	249				
+NIELGFIF_00400	CDS	249				hypothetical protein
+NIELGFIF_00401	gene	1062				
+NIELGFIF_00401	CDS	1062				hypothetical protein
+NIELGFIF_00402	gene	933	yrbG			
+NIELGFIF_00402	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+NIELGFIF_00403	gene	831	resA_2			
+NIELGFIF_00403	CDS	831	resA_2			Thiol-disulfide oxidoreductase ResA
+NIELGFIF_00404	gene	1071	aroB			
+NIELGFIF_00404	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+NIELGFIF_00405	gene	222				
+NIELGFIF_00405	CDS	222				hypothetical protein
+NIELGFIF_00406	gene	2313				
+NIELGFIF_00406	CDS	2313				hypothetical protein
+NIELGFIF_00407	gene	522				
+NIELGFIF_00407	CDS	522				hypothetical protein
+NIELGFIF_00408	gene	852				
+NIELGFIF_00408	CDS	852				hypothetical protein
+NIELGFIF_00409	gene	1971	ftsH_2			
+NIELGFIF_00409	CDS	1971	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+NIELGFIF_00410	gene	360	rsfS			
+NIELGFIF_00410	CDS	360	rsfS			Ribosomal silencing factor RsfS
+NIELGFIF_00411	gene	72				
+NIELGFIF_00411	tRNA	72				tRNA-Gln(ctg)
+NIELGFIF_00412	gene	1854				
+NIELGFIF_00412	CDS	1854				hypothetical protein
+NIELGFIF_00413	gene	927				
+NIELGFIF_00413	CDS	927				hypothetical protein
+NIELGFIF_00414	gene	141				
+NIELGFIF_00414	CDS	141				hypothetical protein
+NIELGFIF_00415	gene	1461	pepD_2			
+NIELGFIF_00415	CDS	1461	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+NIELGFIF_00416	gene	963				
+NIELGFIF_00416	CDS	963				hypothetical protein
+NIELGFIF_00417	gene	1149	lpxB			
+NIELGFIF_00417	CDS	1149	lpxB	2.4.1.182	COG0763	Lipid-A-disaccharide synthase
+NIELGFIF_00418	gene	774	surE			
+NIELGFIF_00418	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+NIELGFIF_00419	gene	99				
+NIELGFIF_00419	CDS	99				hypothetical protein
+NIELGFIF_00420	gene	762	soj			
+NIELGFIF_00420	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NIELGFIF_00421	gene	900	parB			
+NIELGFIF_00421	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+NIELGFIF_00422	gene	765				
+NIELGFIF_00422	CDS	765				hypothetical protein
+NIELGFIF_00423	gene	1536				
+NIELGFIF_00423	CDS	1536				hypothetical protein
+NIELGFIF_00424	gene	2286	relA			
+NIELGFIF_00424	CDS	2286	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+NIELGFIF_00425	gene	348				
+NIELGFIF_00425	CDS	348				hypothetical protein
+NIELGFIF_00426	gene	2826	alaS			
+NIELGFIF_00426	CDS	2826	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+NIELGFIF_00427	gene	1023	recA			
+NIELGFIF_00427	CDS	1023	recA			Protein RecA
+NIELGFIF_00428	gene	1305				
+NIELGFIF_00428	CDS	1305		1.5.1.43		Carboxynorspermidine synthase
+NIELGFIF_00429	gene	597				
+NIELGFIF_00429	CDS	597				hypothetical protein
+NIELGFIF_00430	gene	849				
+NIELGFIF_00430	CDS	849				hypothetical protein
+NIELGFIF_00431	gene	1347	nhaD			
+NIELGFIF_00431	CDS	1347	nhaD		COG1055	Na(+)/H(+) antiporter NhaD
+NIELGFIF_00432	gene	912				
+NIELGFIF_00432	CDS	912				hypothetical protein
+NIELGFIF_00433	gene	558	rsmD			
+NIELGFIF_00433	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+NIELGFIF_00434	gene	861				
+NIELGFIF_00434	CDS	861				hypothetical protein
+NIELGFIF_00435	gene	492				
+NIELGFIF_00435	CDS	492				hypothetical protein
+NIELGFIF_00436	gene	1440	recD2_1			
+NIELGFIF_00436	CDS	1440	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+NIELGFIF_00437	gene	579				
+NIELGFIF_00437	CDS	579				hypothetical protein
+NIELGFIF_00438	gene	1038	nrnA			
+NIELGFIF_00438	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+NIELGFIF_00439	gene	1938	dnaG			
+NIELGFIF_00439	CDS	1938	dnaG	2.7.7.-		DNA primase
+NIELGFIF_00440	gene	330	queD			
+NIELGFIF_00440	CDS	330	queD	4.1.2.50	COG0720	6-carboxy-5,6,7,8-tetrahydropterin synthase
+NIELGFIF_00441	gene	660	queE			
+NIELGFIF_00441	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+NIELGFIF_00442	gene	1410	clsA			
+NIELGFIF_00442	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+NIELGFIF_00443	gene	2373	bamA_3			
+NIELGFIF_00443	CDS	2373	bamA_3			Outer membrane protein assembly factor BamA
+NIELGFIF_00444	gene	4644				
+NIELGFIF_00444	CDS	4644				hypothetical protein
+NIELGFIF_00445	gene	747				
+NIELGFIF_00445	CDS	747				hypothetical protein
+NIELGFIF_00446	gene	672				
+NIELGFIF_00446	CDS	672		5.4.99.-	COG0564	putative RNA pseudouridine synthase
+NIELGFIF_00447	gene	747	fabG			
+NIELGFIF_00447	CDS	747	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NIELGFIF_00448	gene	612				
+NIELGFIF_00448	CDS	612				hypothetical protein
+NIELGFIF_00449	gene	74				
+NIELGFIF_00449	tRNA	74				tRNA-Met(cat)
+NIELGFIF_00450	gene	174				
+NIELGFIF_00450	CDS	174				hypothetical protein
+NIELGFIF_00451	gene	3453				
+NIELGFIF_00451	CDS	3453				hypothetical protein
+NIELGFIF_00452	gene	693				
+NIELGFIF_00452	CDS	693				hypothetical protein
+NIELGFIF_00453	gene	993	htpX			
+NIELGFIF_00453	CDS	993	htpX	3.4.24.-		Protease HtpX
+NIELGFIF_00454	gene	564	lemA			
+NIELGFIF_00454	CDS	564	lemA		COG1704	Protein LemA
+NIELGFIF_00455	gene	405				
+NIELGFIF_00455	CDS	405				hypothetical protein
+NIELGFIF_00456	gene	107				
+NIELGFIF_00456	rRNA	107				5S ribosomal RNA
+NIELGFIF_00457	gene	1038				
+NIELGFIF_00457	CDS	1038				hypothetical protein
+NIELGFIF_00458	gene	654				
+NIELGFIF_00458	CDS	654				hypothetical protein
+NIELGFIF_00459	gene	864				
+NIELGFIF_00459	CDS	864				hypothetical protein
+NIELGFIF_00460	gene	2184	rnr			
+NIELGFIF_00460	CDS	2184	rnr	3.1.13.1	COG0557	Ribonuclease R
+NIELGFIF_00461	gene	993	oleD			
+NIELGFIF_00461	CDS	993	oleD	1.1.1.412	COG0451	2-alkyl-3-oxoalkanoate reductase
+NIELGFIF_00462	gene	960				
+NIELGFIF_00462	CDS	960				hypothetical protein
+NIELGFIF_00463	gene	378	ridA			
+NIELGFIF_00463	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+NIELGFIF_00464	gene	1827	msbA			
+NIELGFIF_00464	CDS	1827	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+NIELGFIF_00465	gene	1548				
+NIELGFIF_00465	CDS	1548				hypothetical protein
+NIELGFIF_00466	gene	846				
+NIELGFIF_00466	CDS	846				hypothetical protein
+NIELGFIF_00467	gene	1248				
+NIELGFIF_00467	CDS	1248				hypothetical protein
+NIELGFIF_00468	gene	555				
+NIELGFIF_00468	CDS	555				hypothetical protein
+NIELGFIF_00469	gene	3108	hsdR			
+NIELGFIF_00469	CDS	3108	hsdR	3.1.21.3		Type I restriction enzyme EcoR124II R protein
+NIELGFIF_00470	gene	174				
+NIELGFIF_00470	CDS	174				hypothetical protein
+NIELGFIF_00471	gene	765	pal_2			
+NIELGFIF_00471	CDS	765	pal_2			Peptidoglycan-associated lipoprotein
+NIELGFIF_00472	gene	534				
+NIELGFIF_00472	CDS	534				hypothetical protein
+NIELGFIF_00473	gene	2703				
+NIELGFIF_00473	CDS	2703				hypothetical protein
+NIELGFIF_00474	gene	804				
+NIELGFIF_00474	CDS	804				hypothetical protein
+NIELGFIF_00475	gene	1413	ispG			
+NIELGFIF_00475	CDS	1413	ispG	1.17.7.3		4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+NIELGFIF_00476	gene	507	purE			
+NIELGFIF_00476	CDS	507	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+NIELGFIF_00477	gene	630				
+NIELGFIF_00477	CDS	630				hypothetical protein
+NIELGFIF_00478	gene	1506	rpoN			
+NIELGFIF_00478	CDS	1506	rpoN		COG1508	RNA polymerase sigma-54 factor
+NIELGFIF_00479	gene	645				
+NIELGFIF_00479	CDS	645				hypothetical protein
+NIELGFIF_00480	gene	1089				
+NIELGFIF_00480	CDS	1089				hypothetical protein
+NIELGFIF_00481	gene	990	nadA			
+NIELGFIF_00481	CDS	990	nadA	2.5.1.72	COG0379	Quinolinate synthase A
+NIELGFIF_00482	gene	1395				
+NIELGFIF_00482	CDS	1395				hypothetical protein
+NIELGFIF_00483	gene	2421				
+NIELGFIF_00483	CDS	2421				hypothetical protein
+NIELGFIF_00484	gene	2139				
+NIELGFIF_00484	CDS	2139				hypothetical protein
+NIELGFIF_00485	gene	897				
+NIELGFIF_00485	CDS	897				hypothetical protein
+NIELGFIF_00486	gene	609				
+NIELGFIF_00486	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+NIELGFIF_00487	gene	960				
+NIELGFIF_00487	CDS	960				hypothetical protein
+NIELGFIF_00488	gene	2874	leuS			
+NIELGFIF_00488	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+NIELGFIF_00489	gene	642				
+NIELGFIF_00489	CDS	642				hypothetical protein
+NIELGFIF_00490	gene	633	pflA			
+NIELGFIF_00490	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+NIELGFIF_00491	gene	408				
+NIELGFIF_00491	CDS	408				hypothetical protein
+NIELGFIF_00492	gene	615				
+NIELGFIF_00492	CDS	615				hypothetical protein
+NIELGFIF_00493	gene	1104	ychF			
+NIELGFIF_00493	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+NIELGFIF_00494	gene	849	lgt			
+NIELGFIF_00494	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+NIELGFIF_00495	gene	2628	mutS_1			
+NIELGFIF_00495	CDS	2628	mutS_1		COG0249	DNA mismatch repair protein MutS
+NIELGFIF_00496	gene	1575				
+NIELGFIF_00496	CDS	1575				hypothetical protein
+NIELGFIF_00497	gene	1131	capA			
+NIELGFIF_00497	CDS	1131	capA			Capsule biosynthesis protein CapA
+NIELGFIF_00498	gene	2766	polA			
+NIELGFIF_00498	CDS	2766	polA	2.7.7.7	COG0258	DNA polymerase I
+NIELGFIF_00499	gene	978	sdsA			
+NIELGFIF_00499	CDS	978	sdsA	2.5.1.84		All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+NIELGFIF_00500	gene	606				
+NIELGFIF_00500	CDS	606				hypothetical protein
+NIELGFIF_00501	gene	891	deoC			
+NIELGFIF_00501	CDS	891	deoC	4.1.2.4		Deoxyribose-phosphate aldolase
+NIELGFIF_00502	gene	393	ypjD			
+NIELGFIF_00502	CDS	393	ypjD		COG1694	putative protein YpjD
+NIELGFIF_00503	gene	453	dtd			
+NIELGFIF_00503	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+NIELGFIF_00504	gene	1836	uvrC			
+NIELGFIF_00504	CDS	1836	uvrC		COG0322	UvrABC system protein C
+NIELGFIF_00505	gene	531	apt			
+NIELGFIF_00505	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+NIELGFIF_00506	gene	1953	mnmG			
+NIELGFIF_00506	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+NIELGFIF_00507	gene	690				
+NIELGFIF_00507	CDS	690				hypothetical protein
+NIELGFIF_00508	gene	1983	frdA			
+NIELGFIF_00508	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+NIELGFIF_00509	gene	756	frdB			
+NIELGFIF_00509	CDS	756	frdB	1.3.5.1	COG0479	Fumarate reductase iron-sulfur subunit
+NIELGFIF_00510	gene	513				
+NIELGFIF_00510	CDS	513				hypothetical protein
+NIELGFIF_00511	gene	168				
+NIELGFIF_00511	CDS	168				hypothetical protein
+NIELGFIF_00512	gene	594				
+NIELGFIF_00512	CDS	594				hypothetical protein
+NIELGFIF_00513	gene	621				
+NIELGFIF_00513	CDS	621		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+NIELGFIF_00514	gene	1866	deaD_1			
+NIELGFIF_00514	CDS	1866	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+NIELGFIF_00515	gene	222				
+NIELGFIF_00515	CDS	222				hypothetical protein
+NIELGFIF_00516	gene	1377				
+NIELGFIF_00516	CDS	1377				hypothetical protein
+NIELGFIF_00517	gene	1227				
+NIELGFIF_00517	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+NIELGFIF_00518	gene	426				
+NIELGFIF_00518	CDS	426				hypothetical protein
+NIELGFIF_00519	gene	777	dapB			
+NIELGFIF_00519	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+NIELGFIF_00520	gene	1440				
+NIELGFIF_00520	CDS	1440				hypothetical protein
+NIELGFIF_00521	gene	411				
+NIELGFIF_00521	CDS	411				hypothetical protein
+NIELGFIF_00522	gene	606				
+NIELGFIF_00522	CDS	606				hypothetical protein
+NIELGFIF_00523	gene	1218	pyrP			
+NIELGFIF_00523	CDS	1218	pyrP			Uracil permease
+NIELGFIF_00524	gene	744				
+NIELGFIF_00524	CDS	744				hypothetical protein
+NIELGFIF_00525	gene	1296	adeP			
+NIELGFIF_00525	CDS	1296	adeP		COG2252	Adenine permease AdeP
+NIELGFIF_00526	gene	1887				
+NIELGFIF_00526	CDS	1887				hypothetical protein
+NIELGFIF_00527	gene	468				
+NIELGFIF_00527	CDS	468				hypothetical protein
+NIELGFIF_00528	gene	2115				
+NIELGFIF_00528	CDS	2115				hypothetical protein
+NIELGFIF_00529	gene	138				
+NIELGFIF_00529	CDS	138				hypothetical protein
+NIELGFIF_00530	gene	450				
+NIELGFIF_00530	CDS	450				hypothetical protein
+NIELGFIF_00531	gene	786	tcdA			
+NIELGFIF_00531	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+NIELGFIF_00532	gene	558				
+NIELGFIF_00532	CDS	558				hypothetical protein
+NIELGFIF_00533	gene	135				
+NIELGFIF_00533	CDS	135				hypothetical protein
+NIELGFIF_00534	gene	1161				
+NIELGFIF_00534	CDS	1161				hypothetical protein
+NIELGFIF_00535	gene	906				
+NIELGFIF_00535	CDS	906				IS1595 family transposase ISCco4
+NIELGFIF_00536	gene	1599				
+NIELGFIF_00536	CDS	1599				hypothetical protein
+NIELGFIF_00537	gene	1230				
+NIELGFIF_00537	CDS	1230				hypothetical protein
+NIELGFIF_00538	gene	4776				
+NIELGFIF_00538	CDS	4776				hypothetical protein
+NIELGFIF_00539	gene	903				
+NIELGFIF_00539	CDS	903				hypothetical protein
+NIELGFIF_00540	gene	1950				
+NIELGFIF_00540	CDS	1950				hypothetical protein
+NIELGFIF_00541	gene	3432				
+NIELGFIF_00541	CDS	3432				hypothetical protein
+NIELGFIF_00542	gene	1395				
+NIELGFIF_00542	CDS	1395				hypothetical protein
+NIELGFIF_00543	gene	3273	rapA			
+NIELGFIF_00543	CDS	3273	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+NIELGFIF_00544	gene	291				
+NIELGFIF_00544	CDS	291				hypothetical protein
+NIELGFIF_00545	gene	651				
+NIELGFIF_00545	CDS	651				hypothetical protein
+NIELGFIF_00546	gene	852				
+NIELGFIF_00546	CDS	852				hypothetical protein
+NIELGFIF_00547	gene	1038	wbbI			
+NIELGFIF_00547	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+NIELGFIF_00548	gene	726				
+NIELGFIF_00548	CDS	726				hypothetical protein
+NIELGFIF_00549	gene	717				
+NIELGFIF_00549	CDS	717				hypothetical protein
+NIELGFIF_00550	gene	2127	dpp7			
+NIELGFIF_00550	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+NIELGFIF_00551	gene	1473				
+NIELGFIF_00551	CDS	1473				hypothetical protein
+NIELGFIF_00552	gene	1329				
+NIELGFIF_00552	CDS	1329				hypothetical protein
+NIELGFIF_00553	gene	1038				
+NIELGFIF_00553	CDS	1038				hypothetical protein
+NIELGFIF_00554	gene	1755				
+NIELGFIF_00554	CDS	1755				hypothetical protein
+NIELGFIF_00555	gene	468	asnC_2			
+NIELGFIF_00555	CDS	468	asnC_2		COG1522	Regulatory protein AsnC
+NIELGFIF_00556	gene	912				
+NIELGFIF_00556	CDS	912				hypothetical protein
+NIELGFIF_00557	gene	450				
+NIELGFIF_00557	CDS	450				hypothetical protein
+NIELGFIF_00558	gene	657	gpx1			
+NIELGFIF_00558	CDS	657	gpx1	1.11.1.22		Hydroperoxy fatty acid reductase gpx1
+NIELGFIF_00559	gene	174				
+NIELGFIF_00559	CDS	174				hypothetical protein
+NIELGFIF_00560	gene	384				
+NIELGFIF_00560	CDS	384				hypothetical protein
+NIELGFIF_00561	gene	405	COQ3			
+NIELGFIF_00561	CDS	405	COQ3	2.1.1.222		Ubiquinone biosynthesis O-methyltransferase, mitochondrial
+NIELGFIF_00562	gene	1059				
+NIELGFIF_00562	CDS	1059				hypothetical protein
+NIELGFIF_00563	gene	1827				
+NIELGFIF_00563	CDS	1827				hypothetical protein
+NIELGFIF_00564	gene	306				
+NIELGFIF_00564	CDS	306				hypothetical protein
+NIELGFIF_00565	gene	2685				
+NIELGFIF_00565	CDS	2685				hypothetical protein
+NIELGFIF_00566	gene	555				
+NIELGFIF_00566	CDS	555				hypothetical protein
+NIELGFIF_00567	gene	273				
+NIELGFIF_00567	CDS	273				hypothetical protein
+NIELGFIF_00568	gene	1641	pfp			
+NIELGFIF_00568	CDS	1641	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+NIELGFIF_00569	gene	804				
+NIELGFIF_00569	CDS	804				hypothetical protein
+NIELGFIF_00570	gene	882	prmC			
+NIELGFIF_00570	CDS	882	prmC	2.1.1.297		Release factor glutamine methyltransferase
+NIELGFIF_00571	gene	1023				
+NIELGFIF_00571	CDS	1023				hypothetical protein
+NIELGFIF_00572	gene	1623				
+NIELGFIF_00572	CDS	1623				hypothetical protein
+NIELGFIF_00573	gene	408				
+NIELGFIF_00573	CDS	408				hypothetical protein
+NIELGFIF_00574	gene	3585	ileS			
+NIELGFIF_00574	CDS	3585	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+NIELGFIF_00575	gene	381	dksA			
+NIELGFIF_00575	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+NIELGFIF_00576	gene	633	lspA			
+NIELGFIF_00576	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+NIELGFIF_00577	gene	903				
+NIELGFIF_00577	CDS	903				hypothetical protein
+NIELGFIF_00578	gene	222				
+NIELGFIF_00578	CDS	222				hypothetical protein
+NIELGFIF_00579	gene	1482	proS			
+NIELGFIF_00579	CDS	1482	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+NIELGFIF_00580	gene	696	pal_3			
+NIELGFIF_00580	CDS	696	pal_3			Peptidoglycan-associated lipoprotein
+NIELGFIF_00581	gene	708	mtgA			
+NIELGFIF_00581	CDS	708	mtgA	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+NIELGFIF_00582	gene	2409	pcrA			
+NIELGFIF_00582	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+NIELGFIF_00583	gene	273	groS1			
+NIELGFIF_00583	CDS	273	groS1		COG0234	10 kDa chaperonin 1
+NIELGFIF_00584	gene	1632	groL			
+NIELGFIF_00584	CDS	1632	groL		COG0459	60 kDa chaperonin
+NIELGFIF_00585	gene	246				
+NIELGFIF_00585	CDS	246				hypothetical protein
+NIELGFIF_00586	gene	690				
+NIELGFIF_00586	CDS	690				hypothetical protein
+NIELGFIF_00587	gene	2682				
+NIELGFIF_00587	CDS	2682				hypothetical protein
+NIELGFIF_00588	gene	189				
+NIELGFIF_00588	CDS	189				hypothetical protein
+NIELGFIF_00589	gene	1557	rapZ			
+NIELGFIF_00589	CDS	1557	rapZ			RNase adapter protein RapZ
+NIELGFIF_00590	gene	1221				
+NIELGFIF_00590	CDS	1221				hypothetical protein
+NIELGFIF_00591	gene	1044	lpxD			
+NIELGFIF_00591	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+NIELGFIF_00592	gene	1386	lpxC			
+NIELGFIF_00592	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+NIELGFIF_00593	gene	774	lpxA_2			
+NIELGFIF_00593	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+NIELGFIF_00594	gene	909	miaA_1			
+NIELGFIF_00594	CDS	909	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+NIELGFIF_00595	gene	2469	mrcA_1			
+NIELGFIF_00595	CDS	2469	mrcA_1		COG5009	Penicillin-binding protein 1A
+NIELGFIF_00596	gene	2559				
+NIELGFIF_00596	CDS	2559				hypothetical protein
+NIELGFIF_00597	gene	171				
+NIELGFIF_00597	CDS	171				hypothetical protein
+NIELGFIF_00598	gene	672	yknY_2			
+NIELGFIF_00598	CDS	672	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+NIELGFIF_00599	gene	1260	macB_1			
+NIELGFIF_00599	CDS	1260	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+NIELGFIF_00600	gene	1248	macB_2			
+NIELGFIF_00600	CDS	1248	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+NIELGFIF_00601	gene	1113	macA			
+NIELGFIF_00601	CDS	1113	macA		COG0845	Macrolide export protein MacA
+NIELGFIF_00602	gene	2064	dsbD			
+NIELGFIF_00602	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+NIELGFIF_00603	gene	606				
+NIELGFIF_00603	CDS	606				hypothetical protein
+NIELGFIF_00604	gene	1029	miaA_2			
+NIELGFIF_00604	CDS	1029	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+NIELGFIF_00605	gene	933	ytlR			
+NIELGFIF_00605	CDS	933	ytlR	2.7.1.-	COG1597	Putative lipid kinase YtlR
+NIELGFIF_00606	gene	1917				
+NIELGFIF_00606	CDS	1917				hypothetical protein
+NIELGFIF_00607	gene	1269				
+NIELGFIF_00607	CDS	1269		2.4.1.11	COG0438	Glycogen synthase
+NIELGFIF_00608	gene	1416				
+NIELGFIF_00608	CDS	1416				hypothetical protein
+NIELGFIF_00609	gene	108				
+NIELGFIF_00609	CDS	108				hypothetical protein
+NIELGFIF_00610	gene	825	pyrF			
+NIELGFIF_00610	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+NIELGFIF_00611	gene	1113	prfA			
+NIELGFIF_00611	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+NIELGFIF_00612	gene	1203	purM			
+NIELGFIF_00612	CDS	1203	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+NIELGFIF_00613	gene	741	aroE			
+NIELGFIF_00613	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+NIELGFIF_00614	gene	735	menG			
+NIELGFIF_00614	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+NIELGFIF_00615	gene	981	purC			
+NIELGFIF_00615	CDS	981	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+NIELGFIF_00616	gene	981				
+NIELGFIF_00616	CDS	981			COG1702	PhoH-like protein
+NIELGFIF_00617	gene	801				
+NIELGFIF_00617	CDS	801				hypothetical protein
+NIELGFIF_00618	gene	813				
+NIELGFIF_00618	CDS	813				hypothetical protein
+NIELGFIF_00619	gene	1278	rarA			
+NIELGFIF_00619	CDS	1278	rarA		COG2256	Replication-associated recombination protein A
+NIELGFIF_00620	gene	621				
+NIELGFIF_00620	CDS	621				hypothetical protein
+NIELGFIF_00621	gene	75				
+NIELGFIF_00621	tRNA	75				tRNA-Arg(acg)
+NIELGFIF_00622	gene	726	murU			
+NIELGFIF_00622	CDS	726	murU	2.7.7.99	COG1208	N-acetylmuramate alpha-1-phosphate uridylyltransferase
+NIELGFIF_00623	gene	1566	guaA			
+NIELGFIF_00623	CDS	1566	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+NIELGFIF_00624	gene	462	ogt			
+NIELGFIF_00624	CDS	462	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+NIELGFIF_00625	gene	339				
+NIELGFIF_00625	CDS	339				hypothetical protein
+NIELGFIF_00626	gene	855				
+NIELGFIF_00626	CDS	855				hypothetical protein
+NIELGFIF_00627	gene	1314	pdhD			
+NIELGFIF_00627	CDS	1314	pdhD	1.8.1.4		Dihydrolipoyl dehydrogenase
+NIELGFIF_00628	gene	1509	gcvPB			
+NIELGFIF_00628	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+NIELGFIF_00629	gene	1326	gcvPA			
+NIELGFIF_00629	CDS	1326	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+NIELGFIF_00630	gene	387	gcvH			
+NIELGFIF_00630	CDS	387	gcvH			Glycine cleavage system H protein
+NIELGFIF_00631	gene	1095	gcvT			
+NIELGFIF_00631	CDS	1095	gcvT	2.1.2.10		Aminomethyltransferase
+NIELGFIF_00632	gene	1038	lplJ			
+NIELGFIF_00632	CDS	1038	lplJ	6.3.1.20	COG0095	Lipoate-protein ligase LplJ
+NIELGFIF_00633	gene	423	mscL			
+NIELGFIF_00633	CDS	423	mscL		COG1970	Large-conductance mechanosensitive channel
+NIELGFIF_00634	gene	1011	gapA			
+NIELGFIF_00634	CDS	1011	gapA	1.2.1.12	COG0057	Glyceraldehyde-3-phosphate dehydrogenase A
+NIELGFIF_00635	gene	780	zupT			
+NIELGFIF_00635	CDS	780	zupT		COG0428	Zinc transporter ZupT
+NIELGFIF_00636	gene	873	sigA			
+NIELGFIF_00636	CDS	873	sigA		COG0568	RNA polymerase sigma factor SigA
+NIELGFIF_00637	gene	273				
+NIELGFIF_00637	CDS	273				hypothetical protein
+NIELGFIF_00638	gene	1779	rpsA			
+NIELGFIF_00638	CDS	1779	rpsA		COG0539	30S ribosomal protein S1
+NIELGFIF_00639	gene	207				
+NIELGFIF_00639	CDS	207				hypothetical protein
+NIELGFIF_00640	gene	195				
+NIELGFIF_00640	CDS	195				hypothetical protein
+NIELGFIF_00641	gene	1332	mtaB			
+NIELGFIF_00641	CDS	1332	mtaB	2.8.4.5	COG0621	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+NIELGFIF_00642	gene	1020				
+NIELGFIF_00642	CDS	1020				hypothetical protein
+NIELGFIF_00643	gene	579				
+NIELGFIF_00643	CDS	579				hypothetical protein
+NIELGFIF_00644	gene	360	yjbR			
+NIELGFIF_00644	CDS	360	yjbR		COG2315	putative protein YjbR
+NIELGFIF_00645	gene	1344	glyA			
+NIELGFIF_00645	CDS	1344	glyA	2.1.2.1	COG0112	Serine hydroxymethyltransferase
+NIELGFIF_00646	gene	1116	thiL			
+NIELGFIF_00646	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+NIELGFIF_00647	gene	660	punA			
+NIELGFIF_00647	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+NIELGFIF_00648	gene	1173	lpxK			
+NIELGFIF_00648	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+NIELGFIF_00649	gene	1767	sppA			
+NIELGFIF_00649	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+NIELGFIF_00650	gene	735				
+NIELGFIF_00650	CDS	735		1.-.-.-	COG1028	putative oxidoreductase
+NIELGFIF_00651	gene	549				
+NIELGFIF_00651	CDS	549				hypothetical protein
+NIELGFIF_00652	gene	249				
+NIELGFIF_00652	CDS	249				hypothetical protein
+NIELGFIF_00653	gene	780				
+NIELGFIF_00653	CDS	780				hypothetical protein
+NIELGFIF_00654	gene	111				
+NIELGFIF_00654	CDS	111				hypothetical protein
+NIELGFIF_00655	gene	405				
+NIELGFIF_00655	CDS	405				hypothetical protein
+NIELGFIF_00656	gene	978				
+NIELGFIF_00656	CDS	978				hypothetical protein
+NIELGFIF_00657	gene	621				
+NIELGFIF_00657	CDS	621				hypothetical protein
+NIELGFIF_00658	gene	492				
+NIELGFIF_00658	CDS	492				hypothetical protein
+NIELGFIF_00659	gene	675				
+NIELGFIF_00659	CDS	675			COG0325	Pyridoxal phosphate homeostasis protein
+NIELGFIF_00660	gene	978				
+NIELGFIF_00660	CDS	978				hypothetical protein
+NIELGFIF_00661	gene	999	dagK			
+NIELGFIF_00661	CDS	999	dagK	2.7.1.107	COG1597	Diacylglycerol kinase
+NIELGFIF_00662	gene	1329	nupG			
+NIELGFIF_00662	CDS	1329	nupG			Nucleoside permease NupG
+NIELGFIF_00663	gene	564				
+NIELGFIF_00663	CDS	564				hypothetical protein
+NIELGFIF_00664	gene	732	rsmE			
+NIELGFIF_00664	CDS	732	rsmE	2.1.1.193	COG1385	Ribosomal RNA small subunit methyltransferase E
+NIELGFIF_00665	gene	1341				
+NIELGFIF_00665	CDS	1341				hypothetical protein
+NIELGFIF_00666	gene	645	ytrE			
+NIELGFIF_00666	CDS	645	ytrE		COG1136	ABC transporter ATP-binding protein YtrE
+NIELGFIF_00667	gene	1200				
+NIELGFIF_00667	CDS	1200				hypothetical protein
+NIELGFIF_00668	gene	3288				
+NIELGFIF_00668	CDS	3288				hypothetical protein
+NIELGFIF_00669	gene	339				
+NIELGFIF_00669	CDS	339				hypothetical protein
+NIELGFIF_00670	gene	591				
+NIELGFIF_00670	CDS	591				hypothetical protein
+NIELGFIF_00671	gene	282				
+NIELGFIF_00671	CDS	282				hypothetical protein
+NIELGFIF_00672	gene	609				
+NIELGFIF_00672	CDS	609				hypothetical protein
+NIELGFIF_00673	gene	147				
+NIELGFIF_00673	CDS	147				hypothetical protein
+NIELGFIF_00674	gene	216				
+NIELGFIF_00674	CDS	216				hypothetical protein
+NIELGFIF_00675	gene	1911				
+NIELGFIF_00675	CDS	1911				hypothetical protein
+NIELGFIF_00676	gene	612	nreC			
+NIELGFIF_00676	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+NIELGFIF_00677	gene	1050	nrdB			
+NIELGFIF_00677	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+NIELGFIF_00678	gene	2520				
+NIELGFIF_00678	CDS	2520				hypothetical protein
+NIELGFIF_00679	gene	3018				
+NIELGFIF_00679	CDS	3018				hypothetical protein
+NIELGFIF_00680	gene	147				
+NIELGFIF_00680	CDS	147				hypothetical protein
+NIELGFIF_00681	gene	2604	yoaB			
+NIELGFIF_00681	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+NIELGFIF_00682	gene	621				
+NIELGFIF_00682	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+NIELGFIF_00683	gene	945	ribF			
+NIELGFIF_00683	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+NIELGFIF_00684	gene	792				
+NIELGFIF_00684	CDS	792				hypothetical protein
+NIELGFIF_00685	gene	477				
+NIELGFIF_00685	CDS	477				hypothetical protein
+NIELGFIF_00686	gene	513	sigH			
+NIELGFIF_00686	CDS	513	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+NIELGFIF_00687	gene	1893	speA			
+NIELGFIF_00687	CDS	1893	speA	4.1.1.19	COG1166	Biosynthetic arginine decarboxylase
+NIELGFIF_00688	gene	528	aroK			
+NIELGFIF_00688	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+NIELGFIF_00689	gene	2415	topA			
+NIELGFIF_00689	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+NIELGFIF_00690	gene	699				
+NIELGFIF_00690	CDS	699				hypothetical protein
+NIELGFIF_00691	gene	810				
+NIELGFIF_00691	CDS	810				hypothetical protein
+NIELGFIF_00692	gene	555	nudC_1			
+NIELGFIF_00692	CDS	555	nudC_1	3.6.1.22		NADH pyrophosphatase
+NIELGFIF_00693	gene	417				
+NIELGFIF_00693	CDS	417				hypothetical protein
+NIELGFIF_00694	gene	1152	resA_3			
+NIELGFIF_00694	CDS	1152	resA_3			Thiol-disulfide oxidoreductase ResA
+NIELGFIF_00695	gene	990				
+NIELGFIF_00695	CDS	990				hypothetical protein
+NIELGFIF_00696	gene	1026				
+NIELGFIF_00696	CDS	1026				hypothetical protein
+NIELGFIF_00697	gene	1089				
+NIELGFIF_00697	CDS	1089				hypothetical protein
+NIELGFIF_00698	gene	1893				
+NIELGFIF_00698	CDS	1893				hypothetical protein
+NIELGFIF_00699	gene	1143				
+NIELGFIF_00699	CDS	1143				hypothetical protein
+NIELGFIF_00700	gene	429				
+NIELGFIF_00700	CDS	429				hypothetical protein
+NIELGFIF_00701	gene	1149				
+NIELGFIF_00701	CDS	1149				hypothetical protein
+NIELGFIF_00702	gene	1812				
+NIELGFIF_00702	CDS	1812				hypothetical protein
+NIELGFIF_00703	gene	108				
+NIELGFIF_00703	CDS	108				hypothetical protein
+NIELGFIF_00704	gene	1314				
+NIELGFIF_00704	CDS	1314				hypothetical protein
+NIELGFIF_00705	gene	1329				
+NIELGFIF_00705	CDS	1329				hypothetical protein
+NIELGFIF_00706	gene	1713				
+NIELGFIF_00706	CDS	1713				hypothetical protein
+NIELGFIF_00707	gene	2187	ccsA_1			
+NIELGFIF_00707	CDS	2187	ccsA_1			Cytochrome c biogenesis protein CcsA
+NIELGFIF_00708	gene	2355	pnp			
+NIELGFIF_00708	CDS	2355	pnp	2.7.7.8	COG1185	Polyribonucleotide nucleotidyltransferase
+NIELGFIF_00709	gene	219				
+NIELGFIF_00709	CDS	219				hypothetical protein
+NIELGFIF_00710	gene	174				
+NIELGFIF_00710	CDS	174				hypothetical protein
+NIELGFIF_00711	gene	1632				
+NIELGFIF_00711	CDS	1632				hypothetical protein
+NIELGFIF_00712	gene	2130				
+NIELGFIF_00712	CDS	2130				hypothetical protein
+NIELGFIF_00713	gene	2214				
+NIELGFIF_00713	CDS	2214				hypothetical protein
+NIELGFIF_00714	gene	660				
+NIELGFIF_00714	CDS	660				hypothetical protein
+NIELGFIF_00715	gene	408				
+NIELGFIF_00715	CDS	408				hypothetical protein
+NIELGFIF_00716	gene	840				
+NIELGFIF_00716	CDS	840				hypothetical protein
+NIELGFIF_00717	gene	102				
+NIELGFIF_00717	CDS	102				hypothetical protein
+NIELGFIF_00718	gene	2517				
+NIELGFIF_00718	CDS	2517				hypothetical protein
+NIELGFIF_00719	gene	1650				
+NIELGFIF_00719	CDS	1650				hypothetical protein
+NIELGFIF_00720	gene	888				
+NIELGFIF_00720	CDS	888				hypothetical protein
+NIELGFIF_00721	gene	1779	bepA_4			
+NIELGFIF_00721	CDS	1779	bepA_4	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIELGFIF_00722	gene	438	dut			
+NIELGFIF_00722	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+NIELGFIF_00723	gene	1527	dgt			
+NIELGFIF_00723	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+NIELGFIF_00724	gene	141				
+NIELGFIF_00724	CDS	141				hypothetical protein
+NIELGFIF_00725	gene	996				
+NIELGFIF_00725	CDS	996				hypothetical protein
+NIELGFIF_00726	gene	828				
+NIELGFIF_00726	CDS	828				hypothetical protein
+NIELGFIF_00727	gene	666	mraZ			
+NIELGFIF_00727	CDS	666	mraZ			Transcriptional regulator MraZ
+NIELGFIF_00728	gene	1032	rsmH			
+NIELGFIF_00728	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+NIELGFIF_00729	gene	624				
+NIELGFIF_00729	CDS	624				hypothetical protein
+NIELGFIF_00730	gene	2148	pbpB			
+NIELGFIF_00730	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+NIELGFIF_00731	gene	1452	murE			
+NIELGFIF_00731	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+NIELGFIF_00732	gene	1272	mraY			
+NIELGFIF_00732	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+NIELGFIF_00733	gene	1344	murD			
+NIELGFIF_00733	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NIELGFIF_00734	gene	1287	mrdB_1			
+NIELGFIF_00734	CDS	1287	mrdB_1	2.4.1.129	COG0772	Peptidoglycan glycosyltransferase MrdB
+NIELGFIF_00735	gene	1116	murG			
+NIELGFIF_00735	CDS	1116	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NIELGFIF_00736	gene	1401	murC			
+NIELGFIF_00736	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+NIELGFIF_00737	gene	1002				
+NIELGFIF_00737	CDS	1002				hypothetical protein
+NIELGFIF_00738	gene	1461	ftsA			
+NIELGFIF_00738	CDS	1461	ftsA			Cell division protein FtsA
+NIELGFIF_00739	gene	1320	ftsZ			
+NIELGFIF_00739	CDS	1320	ftsZ			Cell division protein FtsZ
+NIELGFIF_00740	gene	447	yqeY			
+NIELGFIF_00740	CDS	447	yqeY		COG1610	putative protein YqeY
+NIELGFIF_00741	gene	1122				
+NIELGFIF_00741	CDS	1122				hypothetical protein
+NIELGFIF_00742	gene	726	recO			
+NIELGFIF_00742	CDS	726	recO		COG1381	DNA repair protein RecO
+NIELGFIF_00743	gene	75				
+NIELGFIF_00743	tRNA	75				tRNA-Glu(ttc)
+NIELGFIF_00744	gene	255	rpsT			
+NIELGFIF_00744	CDS	255	rpsT		COG0268	30S ribosomal protein S20
+NIELGFIF_00745	gene	135				
+NIELGFIF_00745	CDS	135				hypothetical protein
+NIELGFIF_00746	gene	1971	gyrB_1			
+NIELGFIF_00746	CDS	1971	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+NIELGFIF_00747	gene	879				
+NIELGFIF_00747	CDS	879				hypothetical protein
+NIELGFIF_00748	gene	621				
+NIELGFIF_00748	CDS	621				hypothetical protein
+NIELGFIF_00749	gene	666	ung			
+NIELGFIF_00749	CDS	666	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+NIELGFIF_00750	gene	1518	gpmI			
+NIELGFIF_00750	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+NIELGFIF_00751	gene	2196				
+NIELGFIF_00751	CDS	2196				hypothetical protein
+NIELGFIF_00752	gene	1050	dusB			
+NIELGFIF_00752	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+NIELGFIF_00753	gene	1128				
+NIELGFIF_00753	CDS	1128				hypothetical protein
+NIELGFIF_00754	gene	453				
+NIELGFIF_00754	CDS	453				hypothetical protein
+NIELGFIF_00755	gene	1302				
+NIELGFIF_00755	CDS	1302				hypothetical protein
+NIELGFIF_00756	gene	1149	yghO			
+NIELGFIF_00756	CDS	1149	yghO			Protein YghO
+NIELGFIF_00757	gene	1944	gyrB_2			
+NIELGFIF_00757	CDS	1944	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+NIELGFIF_00758	gene	441	coaD			
+NIELGFIF_00758	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+NIELGFIF_00759	gene	411	ybeY			
+NIELGFIF_00759	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+NIELGFIF_00760	gene	1578				
+NIELGFIF_00760	CDS	1578				hypothetical protein
+NIELGFIF_00761	gene	1035	ruvB			
+NIELGFIF_00761	CDS	1035	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+NIELGFIF_00762	gene	1218	norV			
+NIELGFIF_00762	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+NIELGFIF_00763	gene	1317				
+NIELGFIF_00763	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+NIELGFIF_00764	gene	1368				
+NIELGFIF_00764	CDS	1368				hypothetical protein
+NIELGFIF_00765	gene	204				
+NIELGFIF_00765	CDS	204				hypothetical protein
+NIELGFIF_00766	gene	339				
+NIELGFIF_00766	CDS	339				hypothetical protein
+NIELGFIF_00767	gene	963				
+NIELGFIF_00767	CDS	963				hypothetical protein
+NIELGFIF_00768	gene	237				
+NIELGFIF_00768	CDS	237				hypothetical protein
+NIELGFIF_00769	gene	714				
+NIELGFIF_00769	CDS	714				hypothetical protein
+NIELGFIF_00770	gene	645				
+NIELGFIF_00770	CDS	645				hypothetical protein
+NIELGFIF_00771	gene	1632				
+NIELGFIF_00771	CDS	1632				hypothetical protein
+NIELGFIF_00772	gene	666				
+NIELGFIF_00772	CDS	666				hypothetical protein
+NIELGFIF_00773	gene	2835	cobQ			
+NIELGFIF_00773	CDS	2835	cobQ			Cobyric acid synthase
+NIELGFIF_00774	gene	2178	btuB_2			
+NIELGFIF_00774	CDS	2178	btuB_2			Vitamin B12 transporter BtuB
+NIELGFIF_00775	gene	2133	btuB_3			
+NIELGFIF_00775	CDS	2133	btuB_3			Vitamin B12 transporter BtuB
+NIELGFIF_00776	gene	1140	cbiKp			
+NIELGFIF_00776	CDS	1140	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+NIELGFIF_00777	gene	1488				
+NIELGFIF_00777	CDS	1488				hypothetical protein
+NIELGFIF_00778	gene	198				
+NIELGFIF_00778	CDS	198				hypothetical protein
+NIELGFIF_00779	gene	1428	cysG_1			
+NIELGFIF_00779	CDS	1428	cysG_1	4.99.1.4		Siroheme synthase
+NIELGFIF_00780	gene	1233	cbiET			
+NIELGFIF_00780	CDS	1233	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+NIELGFIF_00781	gene	1767	cysG_2			
+NIELGFIF_00781	CDS	1767	cysG_2	4.99.1.4		Siroheme synthase
+NIELGFIF_00782	gene	2076	cbiD			
+NIELGFIF_00782	CDS	2076	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+NIELGFIF_00783	gene	1137				
+NIELGFIF_00783	CDS	1137				hypothetical protein
+NIELGFIF_00784	gene	1023	hmuU_1			
+NIELGFIF_00784	CDS	1023	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+NIELGFIF_00785	gene	696				
+NIELGFIF_00785	CDS	696				hypothetical protein
+NIELGFIF_00786	gene	2106	recD2_2			
+NIELGFIF_00786	CDS	2106	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+NIELGFIF_00787	gene	1002	korB_1			
+NIELGFIF_00787	CDS	1002	korB_1	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+NIELGFIF_00788	gene	1851	korA_1			
+NIELGFIF_00788	CDS	1851	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+NIELGFIF_00789	gene	1614	pckA			
+NIELGFIF_00789	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+NIELGFIF_00790	gene	660	upp			
+NIELGFIF_00790	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+NIELGFIF_00791	gene	516	dps			
+NIELGFIF_00791	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+NIELGFIF_00792	gene	1764	arnT			
+NIELGFIF_00792	CDS	1764	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+NIELGFIF_00793	gene	1977	mdoB			
+NIELGFIF_00793	CDS	1977	mdoB	2.7.8.20		Phosphoglycerol transferase I
+NIELGFIF_00794	gene	552				
+NIELGFIF_00794	CDS	552				hypothetical protein
+NIELGFIF_00795	gene	2895				
+NIELGFIF_00795	CDS	2895				hypothetical protein
+NIELGFIF_00796	gene	1455				
+NIELGFIF_00796	CDS	1455				hypothetical protein
+NIELGFIF_00797	gene	396				
+NIELGFIF_00797	CDS	396				hypothetical protein
+NIELGFIF_00798	gene	1641				
+NIELGFIF_00798	CDS	1641				hypothetical protein
+NIELGFIF_00799	gene	2802				
+NIELGFIF_00799	CDS	2802				hypothetical protein
+NIELGFIF_00800	gene	546				
+NIELGFIF_00800	CDS	546				hypothetical protein
+NIELGFIF_00801	gene	747				
+NIELGFIF_00801	CDS	747				hypothetical protein
+NIELGFIF_00802	gene	774				
+NIELGFIF_00802	CDS	774				hypothetical protein
+NIELGFIF_00803	gene	1053				
+NIELGFIF_00803	CDS	1053				hypothetical protein
+NIELGFIF_00804	gene	717				
+NIELGFIF_00804	CDS	717				hypothetical protein
+NIELGFIF_00805	gene	2313	cirA			
+NIELGFIF_00805	CDS	2313	cirA		COG4771	Colicin I receptor
+NIELGFIF_00806	gene	1329				
+NIELGFIF_00806	CDS	1329				hypothetical protein
+NIELGFIF_00807	gene	90				
+NIELGFIF_00807	CDS	90				hypothetical protein
+NIELGFIF_00808	gene	2175				
+NIELGFIF_00808	CDS	2175				hypothetical protein
+NIELGFIF_00809	gene	4485				
+NIELGFIF_00809	CDS	4485				hypothetical protein
+NIELGFIF_00810	gene	354				
+NIELGFIF_00810	CDS	354				hypothetical protein
+NIELGFIF_00811	gene	1230	lolE_2			
+NIELGFIF_00811	CDS	1230	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+NIELGFIF_00812	gene	336	rbfA			
+NIELGFIF_00812	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+NIELGFIF_00813	gene	273	hup_2			
+NIELGFIF_00813	CDS	273	hup_2			DNA-binding protein HU
+NIELGFIF_00814	gene	894				
+NIELGFIF_00814	CDS	894				hypothetical protein
+NIELGFIF_00815	gene	1089				
+NIELGFIF_00815	CDS	1089				hypothetical protein
+NIELGFIF_00816	gene	3063	secD			
+NIELGFIF_00816	CDS	3063	secD			Protein translocase subunit SecD
+NIELGFIF_00817	gene	189				
+NIELGFIF_00817	CDS	189				hypothetical protein
+NIELGFIF_00818	gene	2940	rcsC_1			
+NIELGFIF_00818	CDS	2940	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+NIELGFIF_00819	gene	423				
+NIELGFIF_00819	CDS	423				hypothetical protein
+NIELGFIF_00820	gene	1509	scpC			
+NIELGFIF_00820	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+NIELGFIF_00821	gene	558	fumB			
+NIELGFIF_00821	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+NIELGFIF_00822	gene	843	ttdA			
+NIELGFIF_00822	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+NIELGFIF_00823	gene	945				
+NIELGFIF_00823	CDS	945				hypothetical protein
+NIELGFIF_00824	gene	321				
+NIELGFIF_00824	CDS	321				hypothetical protein
+NIELGFIF_00825	gene	1380				
+NIELGFIF_00825	CDS	1380				hypothetical protein
+NIELGFIF_00826	gene	1239				
+NIELGFIF_00826	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+NIELGFIF_00827	gene	1464	glmE			
+NIELGFIF_00827	CDS	1464	glmE	5.4.99.1		Glutamate mutase epsilon subunit
+NIELGFIF_00828	gene	1383				
+NIELGFIF_00828	CDS	1383				hypothetical protein
+NIELGFIF_00829	gene	414	glmS			
+NIELGFIF_00829	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+NIELGFIF_00830	gene	600				
+NIELGFIF_00830	CDS	600				hypothetical protein
+NIELGFIF_00831	gene	744				
+NIELGFIF_00831	CDS	744				hypothetical protein
+NIELGFIF_00832	gene	552				
+NIELGFIF_00832	CDS	552				hypothetical protein
+NIELGFIF_00833	gene	510				
+NIELGFIF_00833	CDS	510				hypothetical protein
+NIELGFIF_00834	gene	948				
+NIELGFIF_00834	CDS	948				hypothetical protein
+NIELGFIF_00835	gene	471				
+NIELGFIF_00835	CDS	471				hypothetical protein
+NIELGFIF_00836	gene	453				
+NIELGFIF_00836	CDS	453				hypothetical protein
+NIELGFIF_00837	gene	1002				
+NIELGFIF_00837	CDS	1002				hypothetical protein
+NIELGFIF_00838	gene	663				
+NIELGFIF_00838	CDS	663				hypothetical protein
+NIELGFIF_00839	gene	474				
+NIELGFIF_00839	CDS	474				hypothetical protein
+NIELGFIF_00840	gene	801				
+NIELGFIF_00840	CDS	801				hypothetical protein
+NIELGFIF_00841	gene	573				
+NIELGFIF_00841	CDS	573				hypothetical protein
+NIELGFIF_00842	gene	1131				
+NIELGFIF_00842	CDS	1131				hypothetical protein
+NIELGFIF_00843	gene	411	tsaE			
+NIELGFIF_00843	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NIELGFIF_00844	gene	1569	cheB			
+NIELGFIF_00844	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+NIELGFIF_00845	gene	3342				
+NIELGFIF_00845	CDS	3342				hypothetical protein
+NIELGFIF_00846	gene	393				
+NIELGFIF_00846	CDS	393				hypothetical protein
+NIELGFIF_00847	gene	1251	aroA			
+NIELGFIF_00847	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+NIELGFIF_00848	gene	1167				
+NIELGFIF_00848	CDS	1167				hypothetical protein
+NIELGFIF_00849	gene	471				
+NIELGFIF_00849	CDS	471				hypothetical protein
+NIELGFIF_00850	gene	99				
+NIELGFIF_00850	CDS	99				hypothetical protein
+NIELGFIF_00851	gene	840				
+NIELGFIF_00851	CDS	840				hypothetical protein
+NIELGFIF_00852	gene	852				
+NIELGFIF_00852	CDS	852				hypothetical protein
+NIELGFIF_00853	gene	74				
+NIELGFIF_00853	tRNA	74				tRNA-Pro(ggg)
+NIELGFIF_00854	gene	74				
+NIELGFIF_00854	tRNA	74				tRNA-Lys(ttt)
+NIELGFIF_00855	gene	1134				
+NIELGFIF_00855	CDS	1134				hypothetical protein
+NIELGFIF_00856	gene	600	tdk			
+NIELGFIF_00856	CDS	600	tdk	2.7.1.21	COG1435	Thymidine kinase
+NIELGFIF_00857	gene	1866				
+NIELGFIF_00857	CDS	1866				hypothetical protein
+NIELGFIF_00858	gene	1209	ribBA			
+NIELGFIF_00858	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+NIELGFIF_00859	gene	831	tolQ_2			
+NIELGFIF_00859	CDS	831	tolQ_2			Tol-Pal system protein TolQ
+NIELGFIF_00860	gene	675				
+NIELGFIF_00860	CDS	675				hypothetical protein
+NIELGFIF_00861	gene	648				
+NIELGFIF_00861	CDS	648				hypothetical protein
+NIELGFIF_00862	gene	846				
+NIELGFIF_00862	CDS	846				hypothetical protein
+NIELGFIF_00863	gene	963				
+NIELGFIF_00863	CDS	963				hypothetical protein
+NIELGFIF_00864	gene	1458				
+NIELGFIF_00864	CDS	1458				hypothetical protein
+NIELGFIF_00865	gene	1959				
+NIELGFIF_00865	CDS	1959				hypothetical protein
+NIELGFIF_00866	gene	423				
+NIELGFIF_00866	CDS	423				hypothetical protein
+NIELGFIF_00867	gene	243				
+NIELGFIF_00867	CDS	243				hypothetical protein
+NIELGFIF_00868	gene	399				
+NIELGFIF_00868	CDS	399				hypothetical protein
+NIELGFIF_00869	gene	738				
+NIELGFIF_00869	CDS	738				hypothetical protein
+NIELGFIF_00870	gene	2559				
+NIELGFIF_00870	CDS	2559				hypothetical protein
+NIELGFIF_00871	gene	381	folB			
+NIELGFIF_00871	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+NIELGFIF_00872	gene	1185				
+NIELGFIF_00872	CDS	1185				hypothetical protein
+NIELGFIF_00873	gene	903				
+NIELGFIF_00873	CDS	903				hypothetical protein
+NIELGFIF_00874	gene	1410	dnaA			
+NIELGFIF_00874	CDS	1410	dnaA			Chromosomal replication initiator protein DnaA
+NIELGFIF_00875	gene	471				
+NIELGFIF_00875	CDS	471				hypothetical protein
+NIELGFIF_00876	gene	420				
+NIELGFIF_00876	CDS	420				hypothetical protein
+NIELGFIF_00877	gene	243				
+NIELGFIF_00877	CDS	243				hypothetical protein
+NIELGFIF_00878	gene	75				
+NIELGFIF_00878	tRNA	75				tRNA-Met(cat)
+NIELGFIF_00879	gene	3183				
+NIELGFIF_00879	CDS	3183				TonB-dependent receptor P26
+NIELGFIF_00880	gene	1494				
+NIELGFIF_00880	CDS	1494				hypothetical protein
+NIELGFIF_00881	gene	714				
+NIELGFIF_00881	CDS	714				hypothetical protein
+NIELGFIF_00882	gene	519				
+NIELGFIF_00882	CDS	519				hypothetical protein
+NIELGFIF_00883	gene	1233				
+NIELGFIF_00883	CDS	1233				hypothetical protein
+NIELGFIF_00884	gene	744				
+NIELGFIF_00884	CDS	744				hypothetical protein
+NIELGFIF_00885	gene	2394				
+NIELGFIF_00885	CDS	2394				hypothetical protein
+NIELGFIF_00886	gene	1965	btuB_4			
+NIELGFIF_00886	CDS	1965	btuB_4			Vitamin B12 transporter BtuB
+NIELGFIF_00887	gene	1242				
+NIELGFIF_00887	CDS	1242				hypothetical protein
+NIELGFIF_00888	gene	1554				
+NIELGFIF_00888	CDS	1554				hypothetical protein
+NIELGFIF_00889	gene	3873				
+NIELGFIF_00889	CDS	3873				hypothetical protein
+NIELGFIF_00890	gene	1461	sasA_1			
+NIELGFIF_00890	CDS	1461	sasA_1	2.7.-.-		Adaptive-response sensory-kinase SasA
+NIELGFIF_00891	gene	1647	fumA			
+NIELGFIF_00891	CDS	1647	fumA	4.2.1.2	COG1838	Fumarate hydratase class I, aerobic
+NIELGFIF_00892	gene	2898				
+NIELGFIF_00892	CDS	2898				hypothetical protein
+NIELGFIF_00893	gene	1866				
+NIELGFIF_00893	CDS	1866				hypothetical protein
+NIELGFIF_00894	gene	1257	hflX			
+NIELGFIF_00894	CDS	1257	hflX			GTPase HflX
+NIELGFIF_00895	gene	792	nagB			
+NIELGFIF_00895	CDS	792	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+NIELGFIF_00896	gene	147				
+NIELGFIF_00896	CDS	147				hypothetical protein
+NIELGFIF_00897	gene	1035				
+NIELGFIF_00897	CDS	1035				hypothetical protein
+NIELGFIF_00898	gene	2349				
+NIELGFIF_00898	CDS	2349				hypothetical protein
+NIELGFIF_00899	gene	2184	apxIB_2			
+NIELGFIF_00899	CDS	2184	apxIB_2		COG2274	Toxin RTX-I translocation ATP-binding protein
+NIELGFIF_00900	gene	486				
+NIELGFIF_00900	CDS	486				hypothetical protein
+NIELGFIF_00901	gene	243				
+NIELGFIF_00901	CDS	243				hypothetical protein
+NIELGFIF_00902	gene	825	atpD			
+NIELGFIF_00902	CDS	825	atpD	7.1.2.2	COG0055	ATP synthase subunit beta
+NIELGFIF_00903	gene	240	atpC			
+NIELGFIF_00903	CDS	240	atpC			ATP synthase epsilon chain
+NIELGFIF_00904	gene	396				
+NIELGFIF_00904	CDS	396				hypothetical protein
+NIELGFIF_00905	gene	1032	atpB			
+NIELGFIF_00905	CDS	1032	atpB			ATP synthase subunit a
+NIELGFIF_00906	gene	240	atpH_1			
+NIELGFIF_00906	CDS	240	atpH_1			ATP synthase subunit c
+NIELGFIF_00907	gene	519	atpF			
+NIELGFIF_00907	CDS	519	atpF		COG0711	ATP synthase subunit b
+NIELGFIF_00908	gene	534	atpH_2			
+NIELGFIF_00908	CDS	534	atpH_2		COG0712	ATP synthase subunit delta
+NIELGFIF_00909	gene	1584	atpA			
+NIELGFIF_00909	CDS	1584	atpA	7.1.2.2	COG0056	ATP synthase subunit alpha
+NIELGFIF_00910	gene	969	atpG			
+NIELGFIF_00910	CDS	969	atpG		COG0224	ATP synthase gamma chain
+NIELGFIF_00911	gene	264				
+NIELGFIF_00911	CDS	264				hypothetical protein
+NIELGFIF_00912	gene	1488				
+NIELGFIF_00912	CDS	1488				hypothetical protein
+NIELGFIF_00913	gene	813	glgA			
+NIELGFIF_00913	CDS	813	glgA	2.4.1.21		Glycogen synthase
+NIELGFIF_00914	gene	858	panC			
+NIELGFIF_00914	CDS	858	panC	6.3.2.1	COG0414	Pantothenate synthetase
+NIELGFIF_00915	gene	345	panD			
+NIELGFIF_00915	CDS	345	panD	4.1.1.11	COG0853	Aspartate 1-decarboxylase
+NIELGFIF_00916	gene	432	accB			
+NIELGFIF_00916	CDS	432	accB		COG0511	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+NIELGFIF_00917	gene	159				
+NIELGFIF_00917	CDS	159				hypothetical protein
+NIELGFIF_00918	gene	1554	pccB			
+NIELGFIF_00918	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+NIELGFIF_00919	gene	405	epi			
+NIELGFIF_00919	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+NIELGFIF_00920	gene	2364				
+NIELGFIF_00920	CDS	2364				hypothetical protein
+NIELGFIF_00921	gene	1977	fbp			
+NIELGFIF_00921	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+NIELGFIF_00922	gene	1125				
+NIELGFIF_00922	CDS	1125				hypothetical protein
+NIELGFIF_00923	gene	1320	lysC			
+NIELGFIF_00923	CDS	1320	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+NIELGFIF_00924	gene	708	btuD_1			
+NIELGFIF_00924	CDS	708	btuD_1	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NIELGFIF_00925	gene	1296	deaD_2			
+NIELGFIF_00925	CDS	1296	deaD_2	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+NIELGFIF_00926	gene	1164				
+NIELGFIF_00926	CDS	1164				hypothetical protein
+NIELGFIF_00927	gene	1128	tgt			
+NIELGFIF_00927	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+NIELGFIF_00928	gene	2424	lon1			
+NIELGFIF_00928	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+NIELGFIF_00929	gene	645	yfiC			
+NIELGFIF_00929	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NIELGFIF_00930	gene	1464				
+NIELGFIF_00930	CDS	1464				hypothetical protein
+NIELGFIF_00931	gene	1077	mnmA			
+NIELGFIF_00931	CDS	1077	mnmA	2.8.1.13		tRNA-specific 2-thiouridylase MnmA
+NIELGFIF_00932	gene	114				
+NIELGFIF_00932	CDS	114				hypothetical protein
+NIELGFIF_00933	gene	705	hxpA			
+NIELGFIF_00933	CDS	705	hxpA	3.1.3.22	COG0637	Hexitol phosphatase A
+NIELGFIF_00934	gene	1356	pgi			
+NIELGFIF_00934	CDS	1356	pgi	5.3.1.9	COG0166	Glucose-6-phosphate isomerase
+NIELGFIF_00935	gene	88				
+NIELGFIF_00935	tRNA	88				tRNA-Ser(gct)
+NIELGFIF_00936	gene	73				
+NIELGFIF_00936	tRNA	73				tRNA-Glu(ctc)
+NIELGFIF_00937	gene	1488				
+NIELGFIF_00937	CDS	1488				hypothetical protein
+NIELGFIF_00938	gene	444				
+NIELGFIF_00938	CDS	444				hypothetical protein
+NIELGFIF_00939	gene	456				
+NIELGFIF_00939	CDS	456				hypothetical protein
+NIELGFIF_00940	gene	903	rnfB			
+NIELGFIF_00940	CDS	903	rnfB	7.2.1.2	COG2878	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit B
+NIELGFIF_00941	gene	1353	rnfC			
+NIELGFIF_00941	CDS	1353	rnfC	7.1.1.-	COG4656	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit C
+NIELGFIF_00942	gene	1035	rnfD			
+NIELGFIF_00942	CDS	1035	rnfD	7.1.1.-	COG4658	Proton-translocating ferredoxin:NAD(+) oxidoreductase complex subunit D
+NIELGFIF_00943	gene	642	rsxG			
+NIELGFIF_00943	CDS	642	rsxG	7.-.-.-		Ion-translocating oxidoreductase complex subunit G
+NIELGFIF_00944	gene	591	rnfE			
+NIELGFIF_00944	CDS	591	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+NIELGFIF_00945	gene	603	rnfA			
+NIELGFIF_00945	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+NIELGFIF_00946	gene	1041	galE			
+NIELGFIF_00946	CDS	1041	galE	5.1.3.2	COG1087	UDP-glucose 4-epimerase
+NIELGFIF_00947	gene	2868	uvrA			
+NIELGFIF_00947	CDS	2868	uvrA		COG0178	UvrABC system protein A
+NIELGFIF_00948	gene	720				
+NIELGFIF_00948	CDS	720				hypothetical protein
+NIELGFIF_00949	gene	1356				
+NIELGFIF_00949	CDS	1356				hypothetical protein
+NIELGFIF_00950	gene	753				
+NIELGFIF_00950	CDS	753				hypothetical protein
+NIELGFIF_00951	gene	1518	dtpA			
+NIELGFIF_00951	CDS	1518	dtpA		COG3104	Dipeptide and tripeptide permease A
+NIELGFIF_00952	gene	483				
+NIELGFIF_00952	CDS	483				hypothetical protein
+NIELGFIF_00953	gene	1932				
+NIELGFIF_00953	CDS	1932				hypothetical protein
+NIELGFIF_00954	gene	1437	radA			
+NIELGFIF_00954	CDS	1437	radA	3.6.4.-	COG1066	DNA repair protein RadA
+NIELGFIF_00955	gene	912				
+NIELGFIF_00955	CDS	912				hypothetical protein
+NIELGFIF_00956	gene	2196				
+NIELGFIF_00956	CDS	2196				hypothetical protein
+NIELGFIF_00957	gene	1227	cls			
+NIELGFIF_00957	CDS	1227	cls	2.7.8.-		Cardiolipin synthase
+NIELGFIF_00958	gene	975	kdsD			
+NIELGFIF_00958	CDS	975	kdsD	5.3.1.13	COG0517	Arabinose 5-phosphate isomerase KdsD
+NIELGFIF_00959	gene	756	kdsA_1			
+NIELGFIF_00959	CDS	756	kdsA_1	2.5.1.55	COG2877	2-dehydro-3-deoxyphosphooctonate aldolase
+NIELGFIF_00960	gene	159				
+NIELGFIF_00960	CDS	159				hypothetical protein
+NIELGFIF_00961	gene	279				
+NIELGFIF_00961	CDS	279				hypothetical protein
+NIELGFIF_00962	gene	74				
+NIELGFIF_00962	tRNA	74				tRNA-Pro(tgg)
+NIELGFIF_00963	gene	1188				
+NIELGFIF_00963	CDS	1188				hypothetical protein
+NIELGFIF_00964	gene	2739	valS			
+NIELGFIF_00964	CDS	2739	valS	6.1.1.9	COG0525	Valine--tRNA ligase
+NIELGFIF_00965	gene	828	mazG			
+NIELGFIF_00965	CDS	828	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+NIELGFIF_00966	gene	564				
+NIELGFIF_00966	CDS	564				hypothetical protein
+NIELGFIF_00967	gene	915	rnz			
+NIELGFIF_00967	CDS	915	rnz	3.1.26.11	COG1234	Ribonuclease Z
+NIELGFIF_00968	gene	366				
+NIELGFIF_00968	CDS	366				hypothetical protein
+NIELGFIF_00969	gene	1536				
+NIELGFIF_00969	CDS	1536				hypothetical protein
+NIELGFIF_00970	gene	561	sigW			
+NIELGFIF_00970	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+NIELGFIF_00971	gene	366				
+NIELGFIF_00971	CDS	366				hypothetical protein
+NIELGFIF_00972	gene	441				
+NIELGFIF_00972	CDS	441				hypothetical protein
+NIELGFIF_00973	gene	2610	mutS2			
+NIELGFIF_00973	CDS	2610	mutS2	3.1.-.-		Endonuclease MutS2
+NIELGFIF_00974	gene	86				
+NIELGFIF_00974	tRNA	86				tRNA-Ser(tga)
+NIELGFIF_00975	gene	447				
+NIELGFIF_00975	CDS	447				hypothetical protein
+NIELGFIF_00976	gene	636	nfrA2			
+NIELGFIF_00976	CDS	636	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+NIELGFIF_00977	gene	1095				
+NIELGFIF_00977	CDS	1095				hypothetical protein
+NIELGFIF_00978	gene	474				
+NIELGFIF_00978	CDS	474				hypothetical protein
+NIELGFIF_00979	gene	1443	tuaB			
+NIELGFIF_00979	CDS	1443	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+NIELGFIF_00980	gene	1440				
+NIELGFIF_00980	CDS	1440				hypothetical protein
+NIELGFIF_00981	gene	639				
+NIELGFIF_00981	CDS	639				hypothetical protein
+NIELGFIF_00982	gene	879				
+NIELGFIF_00982	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+NIELGFIF_00983	gene	609				
+NIELGFIF_00983	CDS	609				hypothetical protein
+NIELGFIF_00984	gene	567	yajL			
+NIELGFIF_00984	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+NIELGFIF_00985	gene	900	nadK			
+NIELGFIF_00985	CDS	900	nadK	2.7.1.23		NAD kinase
+NIELGFIF_00986	gene	1683				
+NIELGFIF_00986	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+NIELGFIF_00987	gene	1071				
+NIELGFIF_00987	CDS	1071				hypothetical protein
+NIELGFIF_00988	gene	1857	cptA			
+NIELGFIF_00988	CDS	1857	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+NIELGFIF_00989	gene	804				
+NIELGFIF_00989	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+NIELGFIF_00990	gene	1329	mshA_2			
+NIELGFIF_00990	CDS	1329	mshA_2	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIELGFIF_00991	gene	330				
+NIELGFIF_00991	CDS	330				hypothetical protein
+NIELGFIF_00992	gene	603				
+NIELGFIF_00992	CDS	603				hypothetical protein
+NIELGFIF_00993	gene	705				
+NIELGFIF_00993	CDS	705				hypothetical protein
+NIELGFIF_00994	gene	4299				
+NIELGFIF_00994	CDS	4299				hypothetical protein
+NIELGFIF_00995	gene	2229	btuB_5			
+NIELGFIF_00995	CDS	2229	btuB_5			Vitamin B12 transporter BtuB
+NIELGFIF_00996	gene	765				
+NIELGFIF_00996	CDS	765				hypothetical protein
+NIELGFIF_00997	gene	477	ispF			
+NIELGFIF_00997	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+NIELGFIF_00998	gene	1146				
+NIELGFIF_00998	CDS	1146				hypothetical protein
+NIELGFIF_00999	gene	96				
+NIELGFIF_00999	CDS	96				hypothetical protein
+NIELGFIF_01000	gene	3567				
+NIELGFIF_01000	CDS	3567				hypothetical protein
+NIELGFIF_01001	gene	618	ycgM			
+NIELGFIF_01001	CDS	618	ycgM		COG0179	putative protein YcgM
+NIELGFIF_01002	gene	999	TSFM			
+NIELGFIF_01002	CDS	999	TSFM			Elongation factor Ts, mitochondrial
+NIELGFIF_01003	gene	870	rpsB			
+NIELGFIF_01003	CDS	870	rpsB		COG0052	30S ribosomal protein S2
+NIELGFIF_01004	gene	387	rpsI			
+NIELGFIF_01004	CDS	387	rpsI		COG0103	30S ribosomal protein S9
+NIELGFIF_01005	gene	462	rplM			
+NIELGFIF_01005	CDS	462	rplM		COG0102	50S ribosomal protein L13
+NIELGFIF_01006	gene	1788				
+NIELGFIF_01006	CDS	1788				hypothetical protein
+NIELGFIF_01007	gene	1359				
+NIELGFIF_01007	CDS	1359				hypothetical protein
+NIELGFIF_01008	gene	171				
+NIELGFIF_01008	CDS	171				hypothetical protein
+NIELGFIF_01009	gene	192				
+NIELGFIF_01009	CDS	192				hypothetical protein
+NIELGFIF_01010	gene	1341				
+NIELGFIF_01010	CDS	1341				hypothetical protein
+NIELGFIF_01011	gene	1077				
+NIELGFIF_01011	CDS	1077				hypothetical protein
+NIELGFIF_01012	gene	717				
+NIELGFIF_01012	CDS	717				hypothetical protein
+NIELGFIF_01013	gene	633	nadD			
+NIELGFIF_01013	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+NIELGFIF_01014	gene	576	gmk			
+NIELGFIF_01014	CDS	576	gmk	2.7.4.8	COG0194	Guanylate kinase
+NIELGFIF_01015	gene	1149				
+NIELGFIF_01015	CDS	1149				hypothetical protein
+NIELGFIF_01016	gene	879				
+NIELGFIF_01016	CDS	879				hypothetical protein
+NIELGFIF_01017	gene	690				
+NIELGFIF_01017	CDS	690				hypothetical protein
+NIELGFIF_01018	gene	612				
+NIELGFIF_01018	CDS	612				hypothetical protein
+NIELGFIF_01019	gene	1347	murA			
+NIELGFIF_01019	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+NIELGFIF_01020	gene	522	rimM			
+NIELGFIF_01020	CDS	522	rimM			Ribosome maturation factor RimM
+NIELGFIF_01021	gene	1155	dxr			
+NIELGFIF_01021	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+NIELGFIF_01022	gene	1410				
+NIELGFIF_01022	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+NIELGFIF_01023	gene	1896	sacC			
+NIELGFIF_01023	CDS	1896	sacC	3.2.1.80	COG1621	Levanase
+NIELGFIF_01024	gene	1155				
+NIELGFIF_01024	CDS	1155				hypothetical protein
+NIELGFIF_01025	gene	909	pfkB			
+NIELGFIF_01025	CDS	909	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+NIELGFIF_01026	gene	3339				
+NIELGFIF_01026	CDS	3339				hypothetical protein
+NIELGFIF_01027	gene	1851				
+NIELGFIF_01027	CDS	1851				hypothetical protein
+NIELGFIF_01028	gene	1686				
+NIELGFIF_01028	CDS	1686				hypothetical protein
+NIELGFIF_01029	gene	1767				
+NIELGFIF_01029	CDS	1767				hypothetical protein
+NIELGFIF_01030	gene	165				
+NIELGFIF_01030	CDS	165				hypothetical protein
+NIELGFIF_01031	gene	468				
+NIELGFIF_01031	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+NIELGFIF_01032	gene	768				
+NIELGFIF_01032	CDS	768			COG3039	IS5 family transposase ISPg8
+NIELGFIF_01033	gene	1188	bioF			
+NIELGFIF_01033	CDS	1188	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+NIELGFIF_01034	gene	903	rhaS_1			
+NIELGFIF_01034	CDS	903	rhaS_1			HTH-type transcriptional activator RhaS
+NIELGFIF_01035	gene	486	resA_4			
+NIELGFIF_01035	CDS	486	resA_4			Thiol-disulfide oxidoreductase ResA
+NIELGFIF_01036	gene	819				
+NIELGFIF_01036	CDS	819				hypothetical protein
+NIELGFIF_01037	gene	2310	maeB			
+NIELGFIF_01037	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+NIELGFIF_01038	gene	3591				
+NIELGFIF_01038	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+NIELGFIF_01039	gene	1188				
+NIELGFIF_01039	CDS	1188				hypothetical protein
+NIELGFIF_01040	gene	1083				
+NIELGFIF_01040	CDS	1083				hypothetical protein
+NIELGFIF_01041	gene	291				
+NIELGFIF_01041	CDS	291				hypothetical protein
+NIELGFIF_01042	gene	2202	hppA1			
+NIELGFIF_01042	CDS	2202	hppA1	7.2.3.-	COG3808	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+NIELGFIF_01043	gene	1101				
+NIELGFIF_01043	CDS	1101				hypothetical protein
+NIELGFIF_01044	gene	1443	rlmCD			
+NIELGFIF_01044	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+NIELGFIF_01045	gene	939				
+NIELGFIF_01045	CDS	939			COG2826	IS30 family transposase ISSba17
+NIELGFIF_01046	gene	1524				
+NIELGFIF_01046	CDS	1524				hypothetical protein
+NIELGFIF_01047	gene	120				
+NIELGFIF_01047	CDS	120				hypothetical protein
+NIELGFIF_01048	gene	1374	mnmE			
+NIELGFIF_01048	CDS	1374	mnmE	3.6.-.-	COG0486	tRNA modification GTPase MnmE
+NIELGFIF_01049	gene	1032	ltaE			
+NIELGFIF_01049	CDS	1032	ltaE	4.1.2.48		Low specificity L-threonine aldolase
+NIELGFIF_01050	gene	876	deoD			
+NIELGFIF_01050	CDS	876	deoD	2.4.2.1		Purine nucleoside phosphorylase DeoD-type
+NIELGFIF_01051	gene	1116				
+NIELGFIF_01051	CDS	1116				hypothetical protein
+NIELGFIF_01052	gene	2358	pyrK_1			
+NIELGFIF_01052	CDS	2358	pyrK_1			Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+NIELGFIF_01053	gene	1317	serS			
+NIELGFIF_01053	CDS	1317	serS	6.1.1.11	COG0172	Serine--tRNA ligase
+NIELGFIF_01054	gene	264	rpmA			
+NIELGFIF_01054	CDS	264	rpmA		COG0211	50S ribosomal protein L27
+NIELGFIF_01055	gene	318	rplU			
+NIELGFIF_01055	CDS	318	rplU		COG0261	50S ribosomal protein L21
+NIELGFIF_01056	gene	759	exoA			
+NIELGFIF_01056	CDS	759	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+NIELGFIF_01057	gene	384				
+NIELGFIF_01057	CDS	384				hypothetical protein
+NIELGFIF_01058	gene	585				
+NIELGFIF_01058	CDS	585				hypothetical protein
+NIELGFIF_01059	gene	678				
+NIELGFIF_01059	CDS	678				hypothetical protein
+NIELGFIF_01060	gene	606				
+NIELGFIF_01060	CDS	606				hypothetical protein
+NIELGFIF_01061	gene	1491	algC_2			
+NIELGFIF_01061	CDS	1491	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+NIELGFIF_01062	gene	2037	pepO			
+NIELGFIF_01062	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+NIELGFIF_01063	gene	1953	yheS			
+NIELGFIF_01063	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+NIELGFIF_01064	gene	2217	yhgF			
+NIELGFIF_01064	CDS	2217	yhgF		COG2183	Protein YhgF
+NIELGFIF_01065	gene	261				
+NIELGFIF_01065	CDS	261				hypothetical protein
+NIELGFIF_01066	gene	345	rplT			
+NIELGFIF_01066	CDS	345	rplT			50S ribosomal protein L20
+NIELGFIF_01067	gene	198	rpmI			
+NIELGFIF_01067	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+NIELGFIF_01068	gene	696	infC			
+NIELGFIF_01068	CDS	696	infC			Translation initiation factor IF-3
+NIELGFIF_01069	gene	738	yafV			
+NIELGFIF_01069	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+NIELGFIF_01070	gene	1623				
+NIELGFIF_01070	CDS	1623				hypothetical protein
+NIELGFIF_01071	gene	573				
+NIELGFIF_01071	CDS	573				hypothetical protein
+NIELGFIF_01072	gene	1311	dapL			
+NIELGFIF_01072	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+NIELGFIF_01073	gene	624				
+NIELGFIF_01073	CDS	624				hypothetical protein
+NIELGFIF_01074	gene	726				
+NIELGFIF_01074	CDS	726				hypothetical protein
+NIELGFIF_01075	gene	3516	sasA_2			
+NIELGFIF_01075	CDS	3516	sasA_2	2.7.-.-		Adaptive-response sensory-kinase SasA
+NIELGFIF_01076	gene	1065	purR			
+NIELGFIF_01076	CDS	1065	purR			HTH-type transcriptional repressor PurR
+NIELGFIF_01077	gene	753				
+NIELGFIF_01077	CDS	753				hypothetical protein
+NIELGFIF_01078	gene	1212				
+NIELGFIF_01078	CDS	1212				hypothetical protein
+NIELGFIF_01079	gene	204				
+NIELGFIF_01079	CDS	204				hypothetical protein
+NIELGFIF_01080	gene	74				
+NIELGFIF_01080	tRNA	74				tRNA-Cys(gca)
+NIELGFIF_01081	gene	783				
+NIELGFIF_01081	CDS	783				hypothetical protein
+NIELGFIF_01082	gene	2238				
+NIELGFIF_01082	CDS	2238				hypothetical protein
+NIELGFIF_01083	gene	729				
+NIELGFIF_01083	CDS	729				hypothetical protein
+NIELGFIF_01084	gene	900				
+NIELGFIF_01084	CDS	900				hypothetical protein
+NIELGFIF_01085	gene	888				
+NIELGFIF_01085	CDS	888				hypothetical protein
+NIELGFIF_01086	gene	76				
+NIELGFIF_01086	tRNA	76				tRNA-Arg(tct)
+NIELGFIF_01087	gene	984				
+NIELGFIF_01087	CDS	984		1.-.-.-		Oxidoreductase P35
+NIELGFIF_01088	gene	1131				
+NIELGFIF_01088	CDS	1131				hypothetical protein
+NIELGFIF_01089	gene	855				
+NIELGFIF_01089	CDS	855				hypothetical protein
+NIELGFIF_01090	gene	231				
+NIELGFIF_01090	CDS	231				hypothetical protein
+NIELGFIF_01091	gene	651				
+NIELGFIF_01091	CDS	651				hypothetical protein
+NIELGFIF_01092	gene	210				
+NIELGFIF_01092	CDS	210				hypothetical protein
+NIELGFIF_01093	gene	600				
+NIELGFIF_01093	CDS	600				hypothetical protein
+NIELGFIF_01094	gene	840				
+NIELGFIF_01094	CDS	840				hypothetical protein
+NIELGFIF_01095	gene	1809	mutS_2			
+NIELGFIF_01095	CDS	1809	mutS_2			DNA mismatch repair protein MutS
+NIELGFIF_01096	gene	1182	purH_1			
+NIELGFIF_01096	CDS	1182	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+NIELGFIF_01097	gene	192				
+NIELGFIF_01097	CDS	192				hypothetical protein
+NIELGFIF_01098	gene	339				
+NIELGFIF_01098	CDS	339				hypothetical protein
+NIELGFIF_01099	gene	1200	mgl			
+NIELGFIF_01099	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+NIELGFIF_01100	gene	1002	fda			
+NIELGFIF_01100	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+NIELGFIF_01101	gene	1077				
+NIELGFIF_01101	CDS	1077				hypothetical protein
+NIELGFIF_01102	gene	735				
+NIELGFIF_01102	CDS	735				hypothetical protein
+NIELGFIF_01103	gene	1557	nnr			
+NIELGFIF_01103	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+NIELGFIF_01104	gene	537	hpt			
+NIELGFIF_01104	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+NIELGFIF_01105	gene	567	adk			
+NIELGFIF_01105	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+NIELGFIF_01106	gene	1176	obg			
+NIELGFIF_01106	CDS	1176	obg	3.6.5.-		GTPase Obg
+NIELGFIF_01107	gene	813				
+NIELGFIF_01107	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+NIELGFIF_01108	gene	549				
+NIELGFIF_01108	CDS	549				hypothetical protein
+NIELGFIF_01109	gene	150				
+NIELGFIF_01109	CDS	150				hypothetical protein
+NIELGFIF_01110	gene	2406	btuB_6			
+NIELGFIF_01110	CDS	2406	btuB_6			Vitamin B12 transporter BtuB
+NIELGFIF_01111	gene	576				
+NIELGFIF_01111	CDS	576				hypothetical protein
+NIELGFIF_01112	gene	486				
+NIELGFIF_01112	CDS	486				hypothetical protein
+NIELGFIF_01113	gene	765				
+NIELGFIF_01113	CDS	765				hypothetical protein
+NIELGFIF_01114	gene	843	yfkN			
+NIELGFIF_01114	CDS	843	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+NIELGFIF_01115	gene	744				
+NIELGFIF_01115	CDS	744				hypothetical protein
+NIELGFIF_01116	gene	168	fdxA			
+NIELGFIF_01116	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+NIELGFIF_01117	gene	567				
+NIELGFIF_01117	CDS	567				hypothetical protein
+NIELGFIF_01118	gene	711	pyrH			
+NIELGFIF_01118	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+NIELGFIF_01119	gene	558				
+NIELGFIF_01119	CDS	558				hypothetical protein
+NIELGFIF_01120	gene	783	birA			
+NIELGFIF_01120	CDS	783	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+NIELGFIF_01121	gene	453	tadA_1			
+NIELGFIF_01121	CDS	453	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+NIELGFIF_01122	gene	846				
+NIELGFIF_01122	CDS	846				hypothetical protein
+NIELGFIF_01123	gene	687	rsmI			
+NIELGFIF_01123	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+NIELGFIF_01124	gene	1140				
+NIELGFIF_01124	CDS	1140				hypothetical protein
+NIELGFIF_01125	gene	1248				
+NIELGFIF_01125	CDS	1248				hypothetical protein
+NIELGFIF_01126	gene	438				
+NIELGFIF_01126	CDS	438				hypothetical protein
+NIELGFIF_01127	gene	1470	mrdB_2			
+NIELGFIF_01127	CDS	1470	mrdB_2	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+NIELGFIF_01128	gene	1851	mrdA			
+NIELGFIF_01128	CDS	1851	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+NIELGFIF_01129	gene	498				
+NIELGFIF_01129	CDS	498				hypothetical protein
+NIELGFIF_01130	gene	867				
+NIELGFIF_01130	CDS	867				hypothetical protein
+NIELGFIF_01131	gene	1026	mbl			
+NIELGFIF_01131	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+NIELGFIF_01132	gene	600	purH_2			
+NIELGFIF_01132	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+NIELGFIF_01133	gene	435	sulD			
+NIELGFIF_01133	CDS	435	sulD		COG0801	Bifunctional folate synthesis protein
+NIELGFIF_01134	gene	1119	queA_2			
+NIELGFIF_01134	CDS	1119	queA_2	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NIELGFIF_01135	gene	699	truB			
+NIELGFIF_01135	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+NIELGFIF_01136	gene	879	uppP			
+NIELGFIF_01136	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+NIELGFIF_01137	gene	249				
+NIELGFIF_01137	CDS	249				hypothetical protein
+NIELGFIF_01138	gene	879	ftsX			
+NIELGFIF_01138	CDS	879	ftsX		COG2177	Cell division protein FtsX
+NIELGFIF_01139	gene	780				
+NIELGFIF_01139	CDS	780				hypothetical protein
+NIELGFIF_01140	gene	645				
+NIELGFIF_01140	CDS	645				hypothetical protein
+NIELGFIF_01141	gene	270	rpsO			
+NIELGFIF_01141	CDS	270	rpsO		COG0184	30S ribosomal protein S15
+NIELGFIF_01142	gene	2508				
+NIELGFIF_01142	CDS	2508				hypothetical protein
+NIELGFIF_01143	gene	696	mtnN			
+NIELGFIF_01143	CDS	696	mtnN	3.2.2.9	COG0775	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+NIELGFIF_01144	gene	480	luxS			
+NIELGFIF_01144	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+NIELGFIF_01145	gene	1467	dinF			
+NIELGFIF_01145	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+NIELGFIF_01146	gene	1851	typA			
+NIELGFIF_01146	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+NIELGFIF_01147	gene	435	nudC_2			
+NIELGFIF_01147	CDS	435	nudC_2	3.6.1.22		NADH pyrophosphatase
+NIELGFIF_01148	gene	852				
+NIELGFIF_01148	CDS	852				hypothetical protein
+NIELGFIF_01149	gene	2409				
+NIELGFIF_01149	CDS	2409		5.1.1.1		Alanine racemase
+NIELGFIF_01150	gene	282				
+NIELGFIF_01150	CDS	282				hypothetical protein
+NIELGFIF_01151	gene	726				
+NIELGFIF_01151	CDS	726				hypothetical protein
+NIELGFIF_01152	gene	687	psd			
+NIELGFIF_01152	CDS	687	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+NIELGFIF_01153	gene	3711	dnaE			
+NIELGFIF_01153	CDS	3711	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+NIELGFIF_01154	gene	315	trxA			
+NIELGFIF_01154	CDS	315	trxA			Thioredoxin 1
+NIELGFIF_01155	gene	168				
+NIELGFIF_01155	CDS	168				hypothetical protein
+NIELGFIF_01156	gene	363				
+NIELGFIF_01156	CDS	363				hypothetical protein
+NIELGFIF_01157	gene	408				
+NIELGFIF_01157	CDS	408				hypothetical protein
+NIELGFIF_01158	gene	468				
+NIELGFIF_01158	CDS	468				hypothetical protein
+NIELGFIF_01159	gene	105				
+NIELGFIF_01159	CDS	105				hypothetical protein
+NIELGFIF_01160	gene	1896				
+NIELGFIF_01160	CDS	1896				hypothetical protein
+NIELGFIF_01161	gene	75				
+NIELGFIF_01161	tRNA	75				tRNA-Asn(gtt)
+NIELGFIF_01162	gene	1734				
+NIELGFIF_01162	CDS	1734				hypothetical protein
+NIELGFIF_01163	gene	243				
+NIELGFIF_01163	CDS	243				hypothetical protein
+NIELGFIF_01164	gene	1179				
+NIELGFIF_01164	CDS	1179				hypothetical protein
+NIELGFIF_01165	gene	1356				
+NIELGFIF_01165	CDS	1356				hypothetical protein
+NIELGFIF_01166	gene	936				
+NIELGFIF_01166	CDS	936				hypothetical protein
+NIELGFIF_01167	gene	1566				
+NIELGFIF_01167	CDS	1566				hypothetical protein
+NIELGFIF_01168	gene	3327				
+NIELGFIF_01168	CDS	3327				TonB-dependent receptor P26
+NIELGFIF_01169	gene	279				
+NIELGFIF_01169	CDS	279				hypothetical protein
+NIELGFIF_01170	gene	606	rnhB			
+NIELGFIF_01170	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+NIELGFIF_01171	gene	1023				
+NIELGFIF_01171	CDS	1023				hypothetical protein
+NIELGFIF_01172	gene	2871				
+NIELGFIF_01172	CDS	2871				hypothetical protein
+NIELGFIF_01173	gene	2085				
+NIELGFIF_01173	CDS	2085				hypothetical protein
+NIELGFIF_01174	gene	1071				
+NIELGFIF_01174	CDS	1071				hypothetical protein
+NIELGFIF_01175	gene	507				
+NIELGFIF_01175	CDS	507				hypothetical protein
+NIELGFIF_01176	gene	2112	metG			
+NIELGFIF_01176	CDS	2112	metG	6.1.1.10	COG0073	Methionine--tRNA ligase
+NIELGFIF_01177	gene	73				
+NIELGFIF_01177	tRNA	73				tRNA-Arg(cct)
+NIELGFIF_01178	gene	168				
+NIELGFIF_01178	CDS	168				hypothetical protein
+NIELGFIF_01179	gene	357				
+NIELGFIF_01179	CDS	357				hypothetical protein
+NIELGFIF_01180	gene	783				
+NIELGFIF_01180	CDS	783				hypothetical protein
+NIELGFIF_01181	gene	369				
+NIELGFIF_01181	CDS	369				hypothetical protein
+NIELGFIF_01182	gene	897				
+NIELGFIF_01182	CDS	897				hypothetical protein
+NIELGFIF_01183	gene	450				
+NIELGFIF_01183	CDS	450				hypothetical protein
+NIELGFIF_01184	gene	549				
+NIELGFIF_01184	CDS	549				hypothetical protein
+NIELGFIF_01185	gene	465	sigE_2			
+NIELGFIF_01185	CDS	465	sigE_2		COG1595	ECF RNA polymerase sigma factor SigE
+NIELGFIF_01186	gene	471				
+NIELGFIF_01186	CDS	471				hypothetical protein
+NIELGFIF_01187	gene	1335	sufS			
+NIELGFIF_01187	CDS	1335	sufS	2.8.1.7	COG0520	Cysteine desulfurase SufS
+NIELGFIF_01188	gene	5739				
+NIELGFIF_01188	CDS	5739				hypothetical protein
+NIELGFIF_01189	gene	408				
+NIELGFIF_01189	CDS	408				hypothetical protein
+NIELGFIF_01190	gene	219				
+NIELGFIF_01190	CDS	219				hypothetical protein
+NIELGFIF_01191	gene	1584				
+NIELGFIF_01191	CDS	1584				hypothetical protein
+NIELGFIF_01192	gene	1365	sufD			
+NIELGFIF_01192	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+NIELGFIF_01193	gene	756	sufC			
+NIELGFIF_01193	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+NIELGFIF_01194	gene	366				
+NIELGFIF_01194	CDS	366				hypothetical protein
+NIELGFIF_01195	gene	1458	sufB			
+NIELGFIF_01195	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+NIELGFIF_01196	gene	147				
+NIELGFIF_01196	CDS	147				hypothetical protein
+NIELGFIF_01197	gene	2868	infB			
+NIELGFIF_01197	CDS	2868	infB			Translation initiation factor IF-2
+NIELGFIF_01198	gene	1257	nusA			
+NIELGFIF_01198	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+NIELGFIF_01199	gene	465	rimP			
+NIELGFIF_01199	CDS	465	rimP			Ribosome maturation factor RimP
+NIELGFIF_01200	gene	540				
+NIELGFIF_01200	CDS	540				hypothetical protein
+NIELGFIF_01201	gene	534				
+NIELGFIF_01201	CDS	534				hypothetical protein
+NIELGFIF_01202	gene	2004				
+NIELGFIF_01202	CDS	2004				hypothetical protein
+NIELGFIF_01203	gene	705	cobB			
+NIELGFIF_01203	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+NIELGFIF_01204	gene	156				
+NIELGFIF_01204	CDS	156				hypothetical protein
+NIELGFIF_01205	gene	1188				
+NIELGFIF_01205	CDS	1188				hypothetical protein
+NIELGFIF_01206	gene	3633				
+NIELGFIF_01206	CDS	3633				hypothetical protein
+NIELGFIF_01207	gene	1056	yhcG			
+NIELGFIF_01207	CDS	1056	yhcG	3.1.-.-	COG4804	Putative nuclease YhcG
+NIELGFIF_01208	gene	96				
+NIELGFIF_01208	CDS	96				hypothetical protein
+NIELGFIF_01209	gene	1389				
+NIELGFIF_01209	CDS	1389				hypothetical protein
+NIELGFIF_01210	gene	606	fklB			
+NIELGFIF_01210	CDS	606	fklB	5.2.1.8	COG0545	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+NIELGFIF_01211	gene	879				
+NIELGFIF_01211	CDS	879				hypothetical protein
+NIELGFIF_01212	gene	1014	rlmN			
+NIELGFIF_01212	CDS	1014	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+NIELGFIF_01213	gene	978				
+NIELGFIF_01213	CDS	978				hypothetical protein
+NIELGFIF_01214	gene	1107	pdxA2			
+NIELGFIF_01214	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+NIELGFIF_01215	gene	1095				
+NIELGFIF_01215	CDS	1095				hypothetical protein
+NIELGFIF_01216	gene	195				
+NIELGFIF_01216	CDS	195				hypothetical protein
+NIELGFIF_01217	gene	1059				
+NIELGFIF_01217	CDS	1059				hypothetical protein
+NIELGFIF_01218	gene	1065	kdsA_2			
+NIELGFIF_01218	CDS	1065	kdsA_2	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+NIELGFIF_01219	gene	2325				
+NIELGFIF_01219	CDS	2325				hypothetical protein
+NIELGFIF_01220	gene	855	bepA_5			
+NIELGFIF_01220	CDS	855	bepA_5	3.4.-.-		Beta-barrel assembly-enhancing protease
+NIELGFIF_01221	gene	114				
+NIELGFIF_01221	CDS	114				hypothetical protein
+NIELGFIF_01222	gene	129				
+NIELGFIF_01222	CDS	129				hypothetical protein
+NIELGFIF_01223	gene	474				
+NIELGFIF_01223	CDS	474				hypothetical protein
+NIELGFIF_01224	gene	918	rhaS_2			
+NIELGFIF_01224	CDS	918	rhaS_2			HTH-type transcriptional activator RhaS
+NIELGFIF_01225	gene	258				
+NIELGFIF_01225	CDS	258				hypothetical protein
+NIELGFIF_01226	gene	876	pdxS			
+NIELGFIF_01226	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+NIELGFIF_01227	gene	546	pdxT			
+NIELGFIF_01227	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+NIELGFIF_01228	gene	1299				
+NIELGFIF_01228	CDS	1299				hypothetical protein
+NIELGFIF_01229	gene	171				
+NIELGFIF_01229	CDS	171				hypothetical protein
+	repeat_region	890				
+NIELGFIF_01230	gene	3432				
+NIELGFIF_01230	CDS	3432				hypothetical protein
+NIELGFIF_01231	gene	423				
+NIELGFIF_01231	CDS	423				hypothetical protein
+NIELGFIF_01232	gene	2127				
+NIELGFIF_01232	CDS	2127			COG1629	putative TonB-dependent receptor
+NIELGFIF_01233	gene	753				
+NIELGFIF_01233	CDS	753				hypothetical protein
+NIELGFIF_01234	gene	480				
+NIELGFIF_01234	CDS	480				hypothetical protein
+NIELGFIF_01235	gene	1341	ffh			
+NIELGFIF_01235	CDS	1341	ffh		COG0541	Signal recognition particle protein
+NIELGFIF_01236	gene	924	folD			
+NIELGFIF_01236	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+NIELGFIF_01237	gene	180				
+NIELGFIF_01237	CDS	180				hypothetical protein
+NIELGFIF_01238	gene	234	rsxB			
+NIELGFIF_01238	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+NIELGFIF_01239	gene	1083	korA_2			
+NIELGFIF_01239	CDS	1083	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+NIELGFIF_01240	gene	771	korB_2			
+NIELGFIF_01240	CDS	771	korB_2	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+NIELGFIF_01241	gene	543				
+NIELGFIF_01241	CDS	543				hypothetical protein
+NIELGFIF_01242	gene	522	pspA_1			
+NIELGFIF_01242	CDS	522	pspA_1	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+NIELGFIF_01243	gene	792	cobS			
+NIELGFIF_01243	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+NIELGFIF_01244	gene	1032	cobT			
+NIELGFIF_01244	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+NIELGFIF_01245	gene	531	cobP			
+NIELGFIF_01245	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+NIELGFIF_01246	gene	1182				
+NIELGFIF_01246	CDS	1182				Outer membrane protein 41
+NIELGFIF_01247	gene	813				
+NIELGFIF_01247	CDS	813				hypothetical protein
+NIELGFIF_01248	gene	1911	deaD_3			
+NIELGFIF_01248	CDS	1911	deaD_3	3.6.4.13		ATP-dependent RNA helicase DeaD
+NIELGFIF_01249	gene	1731	recJ			
+NIELGFIF_01249	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+NIELGFIF_01250	gene	1197				
+NIELGFIF_01250	CDS	1197				hypothetical protein
+NIELGFIF_01251	gene	1416	pepP			
+NIELGFIF_01251	CDS	1416	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+NIELGFIF_01252	gene	939				
+NIELGFIF_01252	CDS	939				hypothetical protein
+NIELGFIF_01253	gene	675	trmD			
+NIELGFIF_01253	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+NIELGFIF_01254	gene	1062	buk2			
+NIELGFIF_01254	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+NIELGFIF_01255	gene	855	pta_1			
+NIELGFIF_01255	CDS	855	pta_1	2.3.1.8	COG0280	Phosphate acetyltransferase
+NIELGFIF_01256	gene	2052	ligA			
+NIELGFIF_01256	CDS	2052	ligA	6.5.1.2		DNA ligase
+NIELGFIF_01257	gene	462				
+NIELGFIF_01257	CDS	462				hypothetical protein
+NIELGFIF_01258	gene	462				
+NIELGFIF_01258	CDS	462				hypothetical protein
+NIELGFIF_01259	gene	894	fabD			
+NIELGFIF_01259	CDS	894	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+NIELGFIF_01260	gene	1698	glgE			
+NIELGFIF_01260	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+NIELGFIF_01261	gene	762	ydfG			
+NIELGFIF_01261	CDS	762	ydfG	1.1.1.381	COG4221	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+NIELGFIF_01262	gene	507				
+NIELGFIF_01262	CDS	507				hypothetical protein
+NIELGFIF_01263	gene	705	ttcA			
+NIELGFIF_01263	CDS	705	ttcA	2.8.1.-		tRNA-cytidine(32) 2-sulfurtransferase
+NIELGFIF_01264	gene	657	ppaX			
+NIELGFIF_01264	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+NIELGFIF_01265	gene	162				
+NIELGFIF_01265	CDS	162			COG1773	Rubredoxin
+NIELGFIF_01266	gene	444	guaD			
+NIELGFIF_01266	CDS	444	guaD	3.5.4.3	COG0590	Guanine deaminase
+NIELGFIF_01267	gene	1575	rne			
+NIELGFIF_01267	CDS	1575	rne	3.1.26.12	COG1530	Ribonuclease E
+NIELGFIF_01268	gene	90				
+NIELGFIF_01268	CDS	90				hypothetical protein
+NIELGFIF_01269	gene	300				
+NIELGFIF_01269	CDS	300			COG0776	DNA-binding protein HRL53
+NIELGFIF_01270	gene	1233				
+NIELGFIF_01270	CDS	1233				hypothetical protein
+NIELGFIF_01271	gene	678				
+NIELGFIF_01271	CDS	678				hypothetical protein
+NIELGFIF_01272	gene	1809				
+NIELGFIF_01272	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+NIELGFIF_01273	gene	1122	prfB			
+NIELGFIF_01273	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+NIELGFIF_01274	gene	138				
+NIELGFIF_01274	CDS	138				hypothetical protein
+NIELGFIF_01275	gene	516				
+NIELGFIF_01275	CDS	516		3.6.1.25	COG2954	Inorganic triphosphatase
+NIELGFIF_01276	gene	438				
+NIELGFIF_01276	CDS	438				hypothetical protein
+NIELGFIF_01277	gene	1038				
+NIELGFIF_01277	CDS	1038				hypothetical protein
+NIELGFIF_01278	gene	759				
+NIELGFIF_01278	CDS	759				hypothetical protein
+NIELGFIF_01279	gene	504				
+NIELGFIF_01279	CDS	504				hypothetical protein
+NIELGFIF_01280	gene	888				
+NIELGFIF_01280	CDS	888				hypothetical protein
+NIELGFIF_01281	gene	681				
+NIELGFIF_01281	CDS	681				hypothetical protein
+NIELGFIF_01282	gene	1176				
+NIELGFIF_01282	CDS	1176				hypothetical protein
+NIELGFIF_01283	gene	993	ddlA			
+NIELGFIF_01283	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+NIELGFIF_01284	gene	1113	rluD_1			
+NIELGFIF_01284	CDS	1113	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+NIELGFIF_01285	gene	825				
+NIELGFIF_01285	CDS	825				hypothetical protein
+NIELGFIF_01286	gene	222				
+NIELGFIF_01286	CDS	222				hypothetical protein
+NIELGFIF_01287	gene	525	efp			
+NIELGFIF_01287	CDS	525	efp		COG0231	Elongation factor P
+NIELGFIF_01288	gene	1104				
+NIELGFIF_01288	CDS	1104				hypothetical protein
+NIELGFIF_01289	gene	702				
+NIELGFIF_01289	CDS	702				hypothetical protein
+NIELGFIF_01290	gene	321	sufT			
+NIELGFIF_01290	CDS	321	sufT			Fe-S protein maturation auxiliary factor SufT
+NIELGFIF_01291	gene	774	lpxH			
+NIELGFIF_01291	CDS	774	lpxH	3.6.1.54	COG2908	UDP-2,3-diacylglucosamine hydrolase
+NIELGFIF_01292	gene	1194	ackA			
+NIELGFIF_01292	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+NIELGFIF_01293	gene	1008	pta_2			
+NIELGFIF_01293	CDS	1008	pta_2	2.3.1.8		Phosphate acetyltransferase
+NIELGFIF_01294	gene	765	cdaA			
+NIELGFIF_01294	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+NIELGFIF_01295	gene	885	folP			
+NIELGFIF_01295	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+NIELGFIF_01296	gene	1311	murF			
+NIELGFIF_01296	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NIELGFIF_01297	gene	726				
+NIELGFIF_01297	CDS	726				hypothetical protein
+NIELGFIF_01298	gene	1452				
+NIELGFIF_01298	CDS	1452				hypothetical protein
+NIELGFIF_01299	gene	1332	nhaA			
+NIELGFIF_01299	CDS	1332	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+NIELGFIF_01300	gene	756				
+NIELGFIF_01300	CDS	756				hypothetical protein
+NIELGFIF_01301	gene	717	ybhL			
+NIELGFIF_01301	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+NIELGFIF_01302	gene	477	argR			
+NIELGFIF_01302	CDS	477	argR		COG1438	Arginine repressor
+NIELGFIF_01303	gene	1188	kbl			
+NIELGFIF_01303	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+NIELGFIF_01304	gene	960				
+NIELGFIF_01304	CDS	960				putative epimerase/dehydratase
+NIELGFIF_01305	gene	90				
+NIELGFIF_01305	CDS	90				hypothetical protein
+NIELGFIF_01306	gene	93				
+NIELGFIF_01306	CDS	93				hypothetical protein
+NIELGFIF_01307	gene	933				
+NIELGFIF_01307	CDS	933				hypothetical protein
+NIELGFIF_01308	gene	168				
+NIELGFIF_01308	CDS	168				hypothetical protein
+NIELGFIF_01309	gene	501				
+NIELGFIF_01309	CDS	501				hypothetical protein
+NIELGFIF_01310	gene	357				
+NIELGFIF_01310	CDS	357				hypothetical protein
+NIELGFIF_01311	gene	636	tnpR			
+NIELGFIF_01311	CDS	636	tnpR		COG1961	Transposon gamma-delta resolvase
+NIELGFIF_01312	gene	144				
+NIELGFIF_01312	CDS	144				hypothetical protein
+NIELGFIF_01313	gene	74				
+NIELGFIF_01313	tRNA	74				tRNA-Pro(cgg)
+NIELGFIF_01314	gene	74				
+NIELGFIF_01314	tRNA	74				tRNA-Phe(gaa)
+NIELGFIF_01315	gene	552				
+NIELGFIF_01315	CDS	552				hypothetical protein
+NIELGFIF_01316	gene	96				
+NIELGFIF_01316	CDS	96				hypothetical protein
+NIELGFIF_01317	gene	444				
+NIELGFIF_01317	CDS	444				hypothetical protein
+NIELGFIF_01318	gene	636				
+NIELGFIF_01318	CDS	636				hypothetical protein
+NIELGFIF_01319	gene	558				
+NIELGFIF_01319	CDS	558				hypothetical protein
+NIELGFIF_01320	gene	204				
+NIELGFIF_01320	CDS	204				hypothetical protein
+NIELGFIF_01321	gene	189				
+NIELGFIF_01321	CDS	189				hypothetical protein
+NIELGFIF_01322	gene	492				
+NIELGFIF_01322	CDS	492				hypothetical protein
+NIELGFIF_01323	gene	681				
+NIELGFIF_01323	CDS	681				hypothetical protein
+NIELGFIF_01324	gene	2520				
+NIELGFIF_01324	CDS	2520				hypothetical protein
+NIELGFIF_01325	gene	189				
+NIELGFIF_01325	CDS	189				hypothetical protein
+NIELGFIF_01326	gene	186				
+NIELGFIF_01326	CDS	186				hypothetical protein
+NIELGFIF_01327	gene	1599				
+NIELGFIF_01327	CDS	1599				hypothetical protein
+NIELGFIF_01328	gene	2373				
+NIELGFIF_01328	CDS	2373				hypothetical protein
+NIELGFIF_01329	gene	3708				
+NIELGFIF_01329	CDS	3708				hypothetical protein
+NIELGFIF_01330	gene	1332				
+NIELGFIF_01330	CDS	1332				IS1380 family transposase ISDau1
+NIELGFIF_01331	gene	444	rpiB			
+NIELGFIF_01331	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+NIELGFIF_01332	gene	1995	tkt			
+NIELGFIF_01332	CDS	1995	tkt	2.2.1.1		Transketolase
+NIELGFIF_01333	gene	900	rluD_2			
+NIELGFIF_01333	CDS	900	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+NIELGFIF_01334	gene	156				
+NIELGFIF_01334	CDS	156				hypothetical protein
+NIELGFIF_01335	gene	1785				
+NIELGFIF_01335	CDS	1785				hypothetical protein
+NIELGFIF_01336	gene	1932				
+NIELGFIF_01336	CDS	1932				hypothetical protein
+NIELGFIF_01337	gene	3303				
+NIELGFIF_01337	CDS	3303				hypothetical protein
+NIELGFIF_01338	gene	144				
+NIELGFIF_01338	CDS	144				hypothetical protein
+NIELGFIF_01339	gene	2100				
+NIELGFIF_01339	CDS	2100				hypothetical protein
+NIELGFIF_01340	gene	642				
+NIELGFIF_01340	CDS	642				hypothetical protein
+NIELGFIF_01341	gene	642				
+NIELGFIF_01341	CDS	642				hypothetical protein
+NIELGFIF_01342	gene	903	menA			
+NIELGFIF_01342	CDS	903	menA	2.5.1.74	COG1575	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+NIELGFIF_01343	gene	2280				
+NIELGFIF_01343	CDS	2280				hypothetical protein
+NIELGFIF_01344	gene	255				
+NIELGFIF_01344	CDS	255				hypothetical protein
+NIELGFIF_01345	gene	2040	uvrB			
+NIELGFIF_01345	CDS	2040	uvrB		COG0556	UvrABC system protein B
+NIELGFIF_01346	gene	2460				
+NIELGFIF_01346	CDS	2460				hypothetical protein
+NIELGFIF_01347	gene	897	bamD			
+NIELGFIF_01347	CDS	897	bamD			Outer membrane protein assembly factor BamD
+NIELGFIF_01348	gene	351				
+NIELGFIF_01348	CDS	351				hypothetical protein
+NIELGFIF_01349	gene	459				
+NIELGFIF_01349	CDS	459				hypothetical protein
+NIELGFIF_01350	gene	567				
+NIELGFIF_01350	CDS	567				hypothetical protein
+NIELGFIF_01351	gene	477	ribH			
+NIELGFIF_01351	CDS	477	ribH	2.5.1.78	COG0054	6,7-dimethyl-8-ribityllumazine synthase
+NIELGFIF_01352	gene	741				
+NIELGFIF_01352	CDS	741				hypothetical protein
+NIELGFIF_01353	gene	1095	recF			
+NIELGFIF_01353	CDS	1095	recF		COG1195	DNA replication and repair protein RecF
+NIELGFIF_01354	gene	291				
+NIELGFIF_01354	CDS	291				hypothetical protein
+NIELGFIF_01355	gene	498	yqgN			
+NIELGFIF_01355	CDS	498	yqgN		COG0212	putative protein YqgN
+NIELGFIF_01356	gene	1725				
+NIELGFIF_01356	CDS	1725				hypothetical protein
+NIELGFIF_01357	gene	444	tadA_2			
+NIELGFIF_01357	CDS	444	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+NIELGFIF_01358	gene	2094	prlC			
+NIELGFIF_01358	CDS	2094	prlC	3.4.24.70	COG0339	Oligopeptidase A
+NIELGFIF_01359	gene	603				
+NIELGFIF_01359	CDS	603				hypothetical protein
+NIELGFIF_01360	gene	942	apbE			
+NIELGFIF_01360	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+NIELGFIF_01361	gene	681				
+NIELGFIF_01361	CDS	681				hypothetical protein
+NIELGFIF_01362	gene	486				
+NIELGFIF_01362	CDS	486				hypothetical protein
+NIELGFIF_01363	gene	951	rgtE			
+NIELGFIF_01363	CDS	951	rgtE	2.4.1.-	COG0463	Dodecaprenyl-phosphate galacturonate synthase
+NIELGFIF_01364	gene	579				
+NIELGFIF_01364	CDS	579				hypothetical protein
+NIELGFIF_01365	gene	633				
+NIELGFIF_01365	CDS	633				hypothetical protein
+NIELGFIF_01366	gene	540				
+NIELGFIF_01366	CDS	540				hypothetical protein
+NIELGFIF_01367	gene	126				
+NIELGFIF_01367	CDS	126				hypothetical protein
+NIELGFIF_01368	gene	117				
+NIELGFIF_01368	CDS	117				hypothetical protein
+NIELGFIF_01369	gene	1182	bdhA			
+NIELGFIF_01369	CDS	1182	bdhA	1.1.1.-	COG1979	NADH-dependent butanol dehydrogenase A
+NIELGFIF_01370	gene	678				
+NIELGFIF_01370	CDS	678				hypothetical protein
+NIELGFIF_01371	gene	351	ndhC			
+NIELGFIF_01371	CDS	351	ndhC	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit 3
+NIELGFIF_01372	gene	750	ndhK			
+NIELGFIF_01372	CDS	750	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+NIELGFIF_01373	gene	1563	nuoC			
+NIELGFIF_01373	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+NIELGFIF_01374	gene	1089	nuoH			
+NIELGFIF_01374	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+NIELGFIF_01375	gene	534	nuoI			
+NIELGFIF_01375	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+NIELGFIF_01376	gene	513				
+NIELGFIF_01376	CDS	513				hypothetical protein
+NIELGFIF_01377	gene	312	nuoK			
+NIELGFIF_01377	CDS	312	nuoK	7.1.1.-	COG0713	NADH-quinone oxidoreductase subunit K
+NIELGFIF_01378	gene	1989	nuoL			
+NIELGFIF_01378	CDS	1989	nuoL	7.1.1.-	COG1009	NADH-quinone oxidoreductase subunit L
+NIELGFIF_01379	gene	1500	ndhD1			
+NIELGFIF_01379	CDS	1500	ndhD1	7.1.1.-	COG1008	NAD(P)H-quinone oxidoreductase chain 4 1
+NIELGFIF_01380	gene	1437	ndhB			
+NIELGFIF_01380	CDS	1437	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+NIELGFIF_01381	gene	990				
+NIELGFIF_01381	CDS	990				hypothetical protein
+NIELGFIF_01382	gene	150				
+NIELGFIF_01382	CDS	150				hypothetical protein
+NIELGFIF_01383	gene	198				
+NIELGFIF_01383	CDS	198				hypothetical protein
+NIELGFIF_01384	gene	3318				
+NIELGFIF_01384	CDS	3318				hypothetical protein
+NIELGFIF_01385	gene	192				
+NIELGFIF_01385	CDS	192				hypothetical protein
+NIELGFIF_01386	gene	693				
+NIELGFIF_01386	CDS	693				hypothetical protein
+NIELGFIF_01387	gene	2160				
+NIELGFIF_01387	CDS	2160				hypothetical protein
+NIELGFIF_01388	gene	360				
+NIELGFIF_01388	CDS	360				hypothetical protein
+NIELGFIF_01389	gene	1074				
+NIELGFIF_01389	CDS	1074				hypothetical protein
+NIELGFIF_01390	gene	831				
+NIELGFIF_01390	CDS	831				hypothetical protein
+NIELGFIF_01391	gene	720	tarI			
+NIELGFIF_01391	CDS	720	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+NIELGFIF_01392	gene	987	fcl_1			
+NIELGFIF_01392	CDS	987	fcl_1	1.1.1.271		GDP-L-fucose synthase
+NIELGFIF_01393	gene	927				
+NIELGFIF_01393	CDS	927				hypothetical protein
+NIELGFIF_01394	gene	108				
+NIELGFIF_01394	CDS	108				hypothetical protein
+NIELGFIF_01395	gene	2385	btuB_7			
+NIELGFIF_01395	CDS	2385	btuB_7			Vitamin B12 transporter BtuB
+NIELGFIF_01396	gene	1233				
+NIELGFIF_01396	CDS	1233				hypothetical protein
+NIELGFIF_01397	gene	615				
+NIELGFIF_01397	CDS	615				hypothetical protein
+NIELGFIF_01398	gene	969				
+NIELGFIF_01398	CDS	969				hypothetical protein
+NIELGFIF_01399	gene	2100	recG			
+NIELGFIF_01399	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+NIELGFIF_01400	gene	711	ispD			
+NIELGFIF_01400	CDS	711	ispD	2.7.7.60	COG1211	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+NIELGFIF_01401	gene	1299				
+NIELGFIF_01401	CDS	1299				hypothetical protein
+NIELGFIF_01402	gene	1032	cytR			
+NIELGFIF_01402	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+NIELGFIF_01403	gene	3081	susC			
+NIELGFIF_01403	CDS	3081	susC			TonB-dependent receptor SusC
+NIELGFIF_01404	gene	1617	susD			
+NIELGFIF_01404	CDS	1617	susD			Starch-binding protein SusD
+NIELGFIF_01405	gene	1122	susE			
+NIELGFIF_01405	CDS	1122	susE			Outer membrane protein SusE
+NIELGFIF_01406	gene	1092	susF			
+NIELGFIF_01406	CDS	1092	susF			Outer membrane protein SusF
+NIELGFIF_01407	gene	2058				
+NIELGFIF_01407	CDS	2058				hypothetical protein
+NIELGFIF_01408	gene	1218				
+NIELGFIF_01408	CDS	1218				hypothetical protein
+NIELGFIF_01409	gene	1416				
+NIELGFIF_01409	CDS	1416				hypothetical protein
+NIELGFIF_01410	gene	237				
+NIELGFIF_01410	CDS	237				hypothetical protein
+NIELGFIF_01411	gene	2721				
+NIELGFIF_01411	CDS	2721				hypothetical protein
+NIELGFIF_01412	gene	2217	susB			
+NIELGFIF_01412	CDS	2217	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+NIELGFIF_01413	gene	1959	pulA			
+NIELGFIF_01413	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+NIELGFIF_01414	gene	1995	glgB			
+NIELGFIF_01414	CDS	1995	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+NIELGFIF_01415	gene	2148	dcp			
+NIELGFIF_01415	CDS	2148	dcp	3.4.15.5	COG0339	Dipeptidyl carboxypeptidase
+NIELGFIF_01416	gene	576	srpC_1			
+NIELGFIF_01416	CDS	576	srpC_1		COG2059	putative chromate transport protein
+NIELGFIF_01417	gene	552	srpC_2			
+NIELGFIF_01417	CDS	552	srpC_2		COG2059	putative chromate transport protein
+NIELGFIF_01418	gene	4053	purL			
+NIELGFIF_01418	CDS	4053	purL	6.3.5.3		Phosphoribosylformylglycinamidine synthase
+NIELGFIF_01419	gene	819	pal_4			
+NIELGFIF_01419	CDS	819	pal_4			Peptidoglycan-associated lipoprotein
+NIELGFIF_01420	gene	1695				
+NIELGFIF_01420	CDS	1695				hypothetical protein
+NIELGFIF_01421	gene	1308				
+NIELGFIF_01421	CDS	1308				hypothetical protein
+NIELGFIF_01422	gene	855				
+NIELGFIF_01422	CDS	855				hypothetical protein
+NIELGFIF_01423	gene	1188	patB			
+NIELGFIF_01423	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+NIELGFIF_01424	gene	438				
+NIELGFIF_01424	CDS	438				hypothetical protein
+NIELGFIF_01425	gene	657	trmO			
+NIELGFIF_01425	CDS	657	trmO	2.1.1.-	COG1720	tRNA (adenine(37)-N6)-methyltransferase
+NIELGFIF_01426	gene	1299				
+NIELGFIF_01426	CDS	1299				hypothetical protein
+NIELGFIF_01427	gene	75				
+NIELGFIF_01427	tRNA	75				tRNA-His(gtg)
+NIELGFIF_01428	gene	1074	adh			
+NIELGFIF_01428	CDS	1074	adh	1.1.1.80		NADP-dependent isopropanol dehydrogenase
+NIELGFIF_01429	gene	606				
+NIELGFIF_01429	CDS	606				hypothetical protein
+NIELGFIF_01430	gene	1497	nrfA			
+NIELGFIF_01430	CDS	1497	nrfA	1.7.2.2	COG3303	Cytochrome c-552
+NIELGFIF_01431	gene	1311				
+NIELGFIF_01431	CDS	1311				hypothetical protein
+NIELGFIF_01432	gene	798	ccsA_2			
+NIELGFIF_01432	CDS	798	ccsA_2			Cytochrome c biogenesis protein CcsA
+NIELGFIF_01433	gene	398	ssrA			
+NIELGFIF_01433	tmRNA	398	ssrA			transfer-messenger RNA, SsrA
+NIELGFIF_01434	gene	636	wecA			
+NIELGFIF_01434	CDS	636	wecA	2.7.8.40		UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+NIELGFIF_01435	gene	2610				
+NIELGFIF_01435	CDS	2610				hypothetical protein
+NIELGFIF_01436	gene	1077				
+NIELGFIF_01436	CDS	1077				hypothetical protein
+NIELGFIF_01437	gene	1194				
+NIELGFIF_01437	CDS	1194				hypothetical protein
+NIELGFIF_01438	gene	1530				
+NIELGFIF_01438	CDS	1530				hypothetical protein
+NIELGFIF_01439	gene	555	dapH_4			
+NIELGFIF_01439	CDS	555	dapH_4	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NIELGFIF_01440	gene	1221				
+NIELGFIF_01440	CDS	1221				hypothetical protein
+NIELGFIF_01441	gene	1542				
+NIELGFIF_01441	CDS	1542				hypothetical protein
+NIELGFIF_01442	gene	1152	mshA_3			
+NIELGFIF_01442	CDS	1152	mshA_3	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NIELGFIF_01443	gene	3417	mfd			
+NIELGFIF_01443	CDS	3417	mfd	3.6.4.-		Transcription-repair-coupling factor
+NIELGFIF_01444	gene	258				
+NIELGFIF_01444	CDS	258				hypothetical protein
+NIELGFIF_01445	gene	3024				
+NIELGFIF_01445	CDS	3024				hypothetical protein
+NIELGFIF_01446	gene	876				
+NIELGFIF_01446	CDS	876				hypothetical protein
+NIELGFIF_01447	gene	447				
+NIELGFIF_01447	CDS	447				hypothetical protein
+NIELGFIF_01448	gene	474				
+NIELGFIF_01448	CDS	474				hypothetical protein
+NIELGFIF_01449	gene	1446				
+NIELGFIF_01449	CDS	1446				hypothetical protein
+NIELGFIF_01450	gene	405				
+NIELGFIF_01450	CDS	405				hypothetical protein
+NIELGFIF_01451	gene	861				
+NIELGFIF_01451	CDS	861				hypothetical protein
+NIELGFIF_01452	gene	1746				
+NIELGFIF_01452	CDS	1746				hypothetical protein
+NIELGFIF_01453	gene	510	pspA_2			
+NIELGFIF_01453	CDS	510	pspA_2	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+NIELGFIF_01454	gene	1047				
+NIELGFIF_01454	CDS	1047				hypothetical protein
+NIELGFIF_01455	gene	1107				
+NIELGFIF_01455	CDS	1107				hypothetical protein
+NIELGFIF_01456	gene	1914	pglF			
+NIELGFIF_01456	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+NIELGFIF_01457	gene	588				
+NIELGFIF_01457	CDS	588				hypothetical protein
+NIELGFIF_01458	gene	1197	arnB			
+NIELGFIF_01458	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+NIELGFIF_01459	gene	798	tuaG			
+NIELGFIF_01459	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+NIELGFIF_01460	gene	1221				
+NIELGFIF_01460	CDS	1221				hypothetical protein
+NIELGFIF_01461	gene	1155				
+NIELGFIF_01461	CDS	1155				hypothetical protein
+NIELGFIF_01462	gene	909	trxB			
+NIELGFIF_01462	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+NIELGFIF_01463	gene	549	bsaA			
+NIELGFIF_01463	CDS	549	bsaA			Glutathione peroxidase BsaA
+NIELGFIF_01464	gene	600				
+NIELGFIF_01464	CDS	600				hypothetical protein
+NIELGFIF_01465	gene	1242	ugd			
+NIELGFIF_01465	CDS	1242	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+NIELGFIF_01466	gene	456				
+NIELGFIF_01466	CDS	456				hypothetical protein
+NIELGFIF_01467	gene	1563				
+NIELGFIF_01467	CDS	1563				hypothetical protein
+NIELGFIF_01468	gene	534				
+NIELGFIF_01468	CDS	534				hypothetical protein
+NIELGFIF_01469	gene	258				
+NIELGFIF_01469	CDS	258				hypothetical protein
+NIELGFIF_01470	gene	2709	rcsC_2			
+NIELGFIF_01470	CDS	2709	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+NIELGFIF_01471	gene	432				
+NIELGFIF_01471	CDS	432				hypothetical protein
+NIELGFIF_01472	gene	381				
+NIELGFIF_01472	CDS	381				hypothetical protein
+NIELGFIF_01473	gene	339				
+NIELGFIF_01473	CDS	339				hypothetical protein
+NIELGFIF_01474	gene	267				
+NIELGFIF_01474	CDS	267				hypothetical protein
+NIELGFIF_01475	gene	1668	udk_2			
+NIELGFIF_01475	CDS	1668	udk_2	2.7.1.48		Uridine kinase
+NIELGFIF_01476	gene	1722				
+NIELGFIF_01476	CDS	1722				hypothetical protein
+NIELGFIF_01477	gene	1050	btuB_8			
+NIELGFIF_01477	CDS	1050	btuB_8			Vitamin B12 transporter BtuB
+NIELGFIF_01478	gene	285				
+NIELGFIF_01478	CDS	285				hypothetical protein
+NIELGFIF_01479	gene	6564				
+NIELGFIF_01479	CDS	6564				hypothetical protein
+NIELGFIF_01480	gene	1173				
+NIELGFIF_01480	CDS	1173				hypothetical protein
+NIELGFIF_01481	gene	1005	hmuU_2			
+NIELGFIF_01481	CDS	1005	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+NIELGFIF_01482	gene	894	prmB			
+NIELGFIF_01482	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+NIELGFIF_01483	gene	507	recX			
+NIELGFIF_01483	CDS	507	recX			Regulatory protein RecX
+NIELGFIF_01484	gene	1287				
+NIELGFIF_01484	CDS	1287				hypothetical protein
+NIELGFIF_01485	gene	492				
+NIELGFIF_01485	CDS	492				hypothetical protein
+NIELGFIF_01486	gene	1794				
+NIELGFIF_01486	CDS	1794				hypothetical protein
+NIELGFIF_01487	gene	852				
+NIELGFIF_01487	CDS	852				hypothetical protein
+NIELGFIF_01488	gene	633	pyrE			
+NIELGFIF_01488	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+NIELGFIF_01489	gene	423				
+NIELGFIF_01489	CDS	423				hypothetical protein
+NIELGFIF_01490	gene	576				
+NIELGFIF_01490	CDS	576				hypothetical protein
+NIELGFIF_01491	gene	564				
+NIELGFIF_01491	CDS	564				hypothetical protein
+NIELGFIF_01492	gene	564				
+NIELGFIF_01492	CDS	564				hypothetical protein
+NIELGFIF_01493	gene	87				
+NIELGFIF_01493	tRNA	87				tRNA-Leu(taa)
+NIELGFIF_01494	gene	1005				
+NIELGFIF_01494	CDS	1005				hypothetical protein
+NIELGFIF_01495	gene	696				
+NIELGFIF_01495	CDS	696				hypothetical protein
+NIELGFIF_01496	gene	459	rnhA			
+NIELGFIF_01496	CDS	459	rnhA	3.1.26.4	COG3341	Ribonuclease H
+NIELGFIF_01497	gene	477				
+NIELGFIF_01497	CDS	477				hypothetical protein
+NIELGFIF_01498	gene	666				
+NIELGFIF_01498	CDS	666				hypothetical protein
+NIELGFIF_01499	gene	831				
+NIELGFIF_01499	CDS	831				hypothetical protein
+NIELGFIF_01500	gene	558	trmH			
+NIELGFIF_01500	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+NIELGFIF_01501	gene	429	csdE			
+NIELGFIF_01501	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+NIELGFIF_01502	gene	1290				
+NIELGFIF_01502	CDS	1290				hypothetical protein
+NIELGFIF_01503	gene	942	xerD_1			
+NIELGFIF_01503	CDS	942	xerD_1			Tyrosine recombinase XerD
+NIELGFIF_01504	gene	1359	miaB			
+NIELGFIF_01504	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NIELGFIF_01505	gene	2886				
+NIELGFIF_01505	CDS	2886				hypothetical protein
+NIELGFIF_01506	gene	1419				
+NIELGFIF_01506	CDS	1419				hypothetical protein
+NIELGFIF_01507	gene	117				
+NIELGFIF_01507	CDS	117				hypothetical protein
+NIELGFIF_01508	gene	834				
+NIELGFIF_01508	CDS	834				hypothetical protein
+NIELGFIF_01509	gene	750				
+NIELGFIF_01509	CDS	750				hypothetical protein
+NIELGFIF_01510	gene	3201				
+NIELGFIF_01510	CDS	3201				hypothetical protein
+NIELGFIF_01511	gene	2580				
+NIELGFIF_01511	CDS	2580				hypothetical protein
+NIELGFIF_01512	gene	3117				
+NIELGFIF_01512	CDS	3117				hypothetical protein
+NIELGFIF_01513	gene	390				
+NIELGFIF_01513	CDS	390				hypothetical protein
+NIELGFIF_01514	gene	771				
+NIELGFIF_01514	CDS	771				hypothetical protein
+NIELGFIF_01515	gene	543				
+NIELGFIF_01515	CDS	543				hypothetical protein
+NIELGFIF_01516	gene	1215	norR			
+NIELGFIF_01516	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+NIELGFIF_01517	gene	114				
+NIELGFIF_01517	CDS	114				hypothetical protein
+NIELGFIF_01518	gene	1698	eptC			
+NIELGFIF_01518	CDS	1698	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+NIELGFIF_01519	gene	462	ndk			
+NIELGFIF_01519	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+NIELGFIF_01520	gene	3693				
+NIELGFIF_01520	CDS	3693				hypothetical protein
+NIELGFIF_01521	gene	1389	ampG			
+NIELGFIF_01521	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+NIELGFIF_01522	gene	909				
+NIELGFIF_01522	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+NIELGFIF_01523	gene	1044	aguA			
+NIELGFIF_01523	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+NIELGFIF_01524	gene	135				
+NIELGFIF_01524	CDS	135				hypothetical protein
+NIELGFIF_01525	gene	96				
+NIELGFIF_01525	CDS	96				hypothetical protein
+NIELGFIF_01526	gene	879				
+NIELGFIF_01526	CDS	879				hypothetical protein
+NIELGFIF_01527	gene	840				
+NIELGFIF_01527	CDS	840				hypothetical protein
+NIELGFIF_01528	gene	951				
+NIELGFIF_01528	CDS	951				hypothetical protein
+NIELGFIF_01529	gene	189				
+NIELGFIF_01529	CDS	189				hypothetical protein
+NIELGFIF_01530	gene	471				
+NIELGFIF_01530	CDS	471				hypothetical protein
+NIELGFIF_01531	gene	1029				
+NIELGFIF_01531	CDS	1029				hypothetical protein
+NIELGFIF_01532	gene	477				
+NIELGFIF_01532	CDS	477				hypothetical protein
+NIELGFIF_01533	gene	777	pyrK_2			
+NIELGFIF_01533	CDS	777	pyrK_2		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+NIELGFIF_01534	gene	912	pyrD			
+NIELGFIF_01534	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+NIELGFIF_01535	gene	1092	aroC			
+NIELGFIF_01535	CDS	1092	aroC	4.2.3.5		Chorismate synthase
+NIELGFIF_01536	gene	600	slyD			
+NIELGFIF_01536	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+NIELGFIF_01537	gene	216				
+NIELGFIF_01537	CDS	216				hypothetical protein
+NIELGFIF_01538	gene	2214				
+NIELGFIF_01538	CDS	2214				hypothetical protein
+NIELGFIF_01539	gene	498				
+NIELGFIF_01539	CDS	498			COG0716	Flavodoxin 1
+NIELGFIF_01540	gene	363				
+NIELGFIF_01540	CDS	363				hypothetical protein
+NIELGFIF_01541	gene	1506				
+NIELGFIF_01541	CDS	1506		6.2.1.3	COG0318	Long-chain-fatty-acid--CoA ligase FadD13
+NIELGFIF_01542	gene	891	acr1			
+NIELGFIF_01542	CDS	891	acr1	1.2.1.-	COG3320	Fatty acyl-CoA reductase
+NIELGFIF_01543	gene	150				
+NIELGFIF_01543	CDS	150				hypothetical protein
+NIELGFIF_01544	gene	285				
+NIELGFIF_01544	CDS	285				hypothetical protein
+NIELGFIF_01545	gene	408				
+NIELGFIF_01545	CDS	408				hypothetical protein
+NIELGFIF_01546	gene	462				
+NIELGFIF_01546	CDS	462				hypothetical protein
+NIELGFIF_01547	gene	456				
+NIELGFIF_01547	CDS	456				hypothetical protein
+NIELGFIF_01548	gene	954	qmcA			
+NIELGFIF_01548	CDS	954	qmcA		COG0330	Protein QmcA
+NIELGFIF_01549	gene	1086	wbpI			
+NIELGFIF_01549	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+NIELGFIF_01550	gene	927	oxyR			
+NIELGFIF_01550	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+NIELGFIF_01551	gene	585	sodB			
+NIELGFIF_01551	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+NIELGFIF_01552	gene	567	ahpC			
+NIELGFIF_01552	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+NIELGFIF_01553	gene	1560	ahpF			
+NIELGFIF_01553	CDS	1560	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+NIELGFIF_01554	gene	123				
+NIELGFIF_01554	CDS	123				hypothetical protein
+NIELGFIF_01555	gene	1221				
+NIELGFIF_01555	CDS	1221				hypothetical protein
+NIELGFIF_01556	gene	837				
+NIELGFIF_01556	CDS	837				hypothetical protein
+NIELGFIF_01557	gene	138				
+NIELGFIF_01557	CDS	138				hypothetical protein
+NIELGFIF_01558	gene	882				
+NIELGFIF_01558	CDS	882				hypothetical protein
+NIELGFIF_01559	gene	627				
+NIELGFIF_01559	CDS	627				hypothetical protein
+NIELGFIF_01560	gene	222				
+NIELGFIF_01560	CDS	222				hypothetical protein
+NIELGFIF_01561	gene	204				
+NIELGFIF_01561	CDS	204				hypothetical protein
+NIELGFIF_01562	gene	303				
+NIELGFIF_01562	CDS	303				hypothetical protein
+NIELGFIF_01563	gene	519				
+NIELGFIF_01563	CDS	519				hypothetical protein
+NIELGFIF_01564	gene	132				
+NIELGFIF_01564	CDS	132				hypothetical protein
+NIELGFIF_01565	gene	558				
+NIELGFIF_01565	CDS	558				hypothetical protein
+NIELGFIF_01566	gene	123				
+NIELGFIF_01566	CDS	123				hypothetical protein
+NIELGFIF_01567	gene	381	rpsL			
+NIELGFIF_01567	CDS	381	rpsL			30S ribosomal protein S12
+NIELGFIF_01568	gene	477	rpsG			
+NIELGFIF_01568	CDS	477	rpsG		COG0049	30S ribosomal protein S7
+NIELGFIF_01569	gene	2127	fusA_1			
+NIELGFIF_01569	CDS	2127	fusA_1		COG0480	Elongation factor G
+NIELGFIF_01570	gene	306	rpsJ			
+NIELGFIF_01570	CDS	306	rpsJ		COG0051	30S ribosomal protein S10
+NIELGFIF_01571	gene	615	rplC			
+NIELGFIF_01571	CDS	615	rplC		COG0087	50S ribosomal protein L3
+NIELGFIF_01572	gene	630	rplD			
+NIELGFIF_01572	CDS	630	rplD			50S ribosomal protein L4
+NIELGFIF_01573	gene	294	rplW			
+NIELGFIF_01573	CDS	294	rplW		COG0089	50S ribosomal protein L23
+NIELGFIF_01574	gene	825	rplB			
+NIELGFIF_01574	CDS	825	rplB		COG0090	50S ribosomal protein L2
+NIELGFIF_01575	gene	267	rpsS			
+NIELGFIF_01575	CDS	267	rpsS			30S ribosomal protein S19
+NIELGFIF_01576	gene	405				
+NIELGFIF_01576	CDS	405				hypothetical protein
+NIELGFIF_01577	gene	735	rpsC			
+NIELGFIF_01577	CDS	735	rpsC		COG0092	30S ribosomal protein S3
+NIELGFIF_01578	gene	429	rplP			
+NIELGFIF_01578	CDS	429	rplP		COG0197	50S ribosomal protein L16
+NIELGFIF_01579	gene	195	rpmC			
+NIELGFIF_01579	CDS	195	rpmC			50S ribosomal protein L29
+NIELGFIF_01580	gene	258	rpsQ			
+NIELGFIF_01580	CDS	258	rpsQ			30S ribosomal protein S17
+NIELGFIF_01581	gene	366	rplN			
+NIELGFIF_01581	CDS	366	rplN		COG0093	50S ribosomal protein L14
+NIELGFIF_01582	gene	321	rplX			
+NIELGFIF_01582	CDS	321	rplX		COG0198	50S ribosomal protein L24
+NIELGFIF_01583	gene	555	rplE			
+NIELGFIF_01583	CDS	555	rplE		COG0094	50S ribosomal protein L5
+NIELGFIF_01584	gene	303	rpsN			
+NIELGFIF_01584	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+NIELGFIF_01585	gene	396	rpsH			
+NIELGFIF_01585	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+NIELGFIF_01586	gene	567	rplF			
+NIELGFIF_01586	CDS	567	rplF		COG0097	50S ribosomal protein L6
+NIELGFIF_01587	gene	345	rplR			
+NIELGFIF_01587	CDS	345	rplR		COG0256	50S ribosomal protein L18
+NIELGFIF_01588	gene	516	rpsE			
+NIELGFIF_01588	CDS	516	rpsE		COG0098	30S ribosomal protein S5
+NIELGFIF_01589	gene	177	rpmD			
+NIELGFIF_01589	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+NIELGFIF_01590	gene	447	rplO			
+NIELGFIF_01590	CDS	447	rplO		COG0200	50S ribosomal protein L15
+NIELGFIF_01591	gene	1338	secY			
+NIELGFIF_01591	CDS	1338	secY		COG0201	Protein translocase subunit SecY
+NIELGFIF_01592	gene	750	map_2			
+NIELGFIF_01592	CDS	750	map_2	3.4.11.18	COG0024	Methionine aminopeptidase 1
+NIELGFIF_01593	gene	219	infA			
+NIELGFIF_01593	CDS	219	infA			Translation initiation factor IF-1
+NIELGFIF_01594	gene	117	ykgO			
+NIELGFIF_01594	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+NIELGFIF_01595	gene	381	rpsM			
+NIELGFIF_01595	CDS	381	rpsM			30S ribosomal protein S13
+NIELGFIF_01596	gene	387	rpsK			
+NIELGFIF_01596	CDS	387	rpsK			30S ribosomal protein S11
+NIELGFIF_01597	gene	609	rpsD			
+NIELGFIF_01597	CDS	609	rpsD			30S ribosomal protein S4
+NIELGFIF_01598	gene	993	rpoA			
+NIELGFIF_01598	CDS	993	rpoA	2.7.7.6	COG0202	DNA-directed RNA polymerase subunit alpha
+NIELGFIF_01599	gene	471				
+NIELGFIF_01599	CDS	471				hypothetical protein
+NIELGFIF_01600	gene	834				
+NIELGFIF_01600	CDS	834				hypothetical protein
+NIELGFIF_01601	gene	126				
+NIELGFIF_01601	CDS	126				hypothetical protein
+NIELGFIF_01602	gene	1371				
+NIELGFIF_01602	CDS	1371				hypothetical protein
+NIELGFIF_01603	gene	1920	srmB			
+NIELGFIF_01603	CDS	1920	srmB	3.6.4.13		ATP-dependent RNA helicase SrmB
+NIELGFIF_01604	gene	2793	rep_2			
+NIELGFIF_01604	CDS	2793	rep_2	3.6.4.12		ATP-dependent DNA helicase Rep
+NIELGFIF_01605	gene	387	nudG			
+NIELGFIF_01605	CDS	387	nudG	3.6.1.65	COG0494	CTP pyrophosphohydrolase
+NIELGFIF_01606	gene	1344	gdhB			
+NIELGFIF_01606	CDS	1344	gdhB	1.4.1.2		NAD-specific glutamate dehydrogenase
+NIELGFIF_01607	gene	372	rlpA			
+NIELGFIF_01607	CDS	372	rlpA	4.2.2.-		Endolytic peptidoglycan transglycosylase RlpA
+NIELGFIF_01608	gene	924				
+NIELGFIF_01608	CDS	924				IS982 family transposase IS195
+NIELGFIF_01609	gene	468				
+NIELGFIF_01609	CDS	468				hypothetical protein
+NIELGFIF_01610	gene	168				
+NIELGFIF_01610	CDS	168				hypothetical protein
+NIELGFIF_01611	gene	423				
+NIELGFIF_01611	CDS	423			COG3385	IS4 family transposase ISPg4
+NIELGFIF_01612	gene	1512				
+NIELGFIF_01612	CDS	1512				hypothetical protein
+NIELGFIF_01613	gene	2016				
+NIELGFIF_01613	CDS	2016				hypothetical protein
+NIELGFIF_01614	gene	741				
+NIELGFIF_01614	CDS	741				hypothetical protein
+NIELGFIF_01615	gene	1686				
+NIELGFIF_01615	CDS	1686				hypothetical protein
+NIELGFIF_01616	gene	678	walR			
+NIELGFIF_01616	CDS	678	walR		COG0745	Transcriptional regulatory protein WalR
+NIELGFIF_01617	gene	768				
+NIELGFIF_01617	CDS	768				hypothetical protein
+NIELGFIF_01618	gene	1098	apbC			
+NIELGFIF_01618	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+NIELGFIF_01619	gene	2124	dxs			
+NIELGFIF_01619	CDS	2124	dxs	2.2.1.7	COG1154	1-deoxy-D-xylulose-5-phosphate synthase
+NIELGFIF_01620	gene	1353	trkA			
+NIELGFIF_01620	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+NIELGFIF_01621	gene	1458	trkH			
+NIELGFIF_01621	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+NIELGFIF_01622	gene	963	manA			
+NIELGFIF_01622	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+NIELGFIF_01623	gene	1143	cydB			
+NIELGFIF_01623	CDS	1143	cydB	7.1.1.7	COG1294	Cytochrome bd-I ubiquinol oxidase subunit 2
+NIELGFIF_01624	gene	1566	cydA			
+NIELGFIF_01624	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+NIELGFIF_01625	gene	216				
+NIELGFIF_01625	CDS	216				hypothetical protein
+NIELGFIF_01626	gene	873				
+NIELGFIF_01626	CDS	873				hypothetical protein
+NIELGFIF_01627	gene	1482				
+NIELGFIF_01627	CDS	1482				hypothetical protein
+NIELGFIF_01628	gene	987	emrA			
+NIELGFIF_01628	CDS	987	emrA			Colistin resistance protein EmrA
+NIELGFIF_01629	gene	1182				
+NIELGFIF_01629	CDS	1182				hypothetical protein
+NIELGFIF_01630	gene	1245	ybhR_2			
+NIELGFIF_01630	CDS	1245	ybhR_2		COG0842	putative multidrug ABC transporter permease YbhR
+NIELGFIF_01631	gene	1086				
+NIELGFIF_01631	CDS	1086				hypothetical protein
+NIELGFIF_01632	gene	2214				
+NIELGFIF_01632	CDS	2214				hypothetical protein
+NIELGFIF_01633	gene	774	trmB			
+NIELGFIF_01633	CDS	774	trmB	2.1.1.33		tRNA (guanine-N(7)-)-methyltransferase
+NIELGFIF_01634	gene	996				
+NIELGFIF_01634	CDS	996				hypothetical protein
+NIELGFIF_01635	gene	957				
+NIELGFIF_01635	CDS	957				hypothetical protein
+NIELGFIF_01636	gene	1911	dnaK			
+NIELGFIF_01636	CDS	1911	dnaK			Chaperone protein DnaK
+NIELGFIF_01637	gene	89				
+NIELGFIF_01637	tRNA	89				tRNA-Ser(gga)
+NIELGFIF_01638	gene	882	dtd3			
+NIELGFIF_01638	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+NIELGFIF_01639	gene	699				
+NIELGFIF_01639	CDS	699				hypothetical protein
+NIELGFIF_01640	gene	975				
+NIELGFIF_01640	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+NIELGFIF_01641	gene	720				
+NIELGFIF_01641	CDS	720				hypothetical protein
+NIELGFIF_01642	gene	951				
+NIELGFIF_01642	CDS	951				hypothetical protein
+NIELGFIF_01643	gene	2682	parC			
+NIELGFIF_01643	CDS	2682	parC	5.6.2.2		DNA topoisomerase 4 subunit A
+NIELGFIF_01644	gene	861				
+NIELGFIF_01644	CDS	861				hypothetical protein
+NIELGFIF_01645	gene	1005				
+NIELGFIF_01645	CDS	1005				hypothetical protein
+NIELGFIF_01646	gene	828	btuD_2			
+NIELGFIF_01646	CDS	828	btuD_2	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NIELGFIF_01647	gene	83				
+NIELGFIF_01647	tRNA	83				tRNA-Leu(tag)
+NIELGFIF_01648	gene	861	ispH			
+NIELGFIF_01648	CDS	861	ispH	1.17.7.4	COG0761	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+NIELGFIF_01649	gene	1107				
+NIELGFIF_01649	CDS	1107		3.6.-.-	COG1703	putative GTPase
+NIELGFIF_01650	gene	1065				
+NIELGFIF_01650	CDS	1065				hypothetical protein
+NIELGFIF_01651	gene	5553				
+NIELGFIF_01651	CDS	5553				hypothetical protein
+NIELGFIF_01652	gene	291				
+NIELGFIF_01652	CDS	291				IS1595 family transposase ISBaba5
+NIELGFIF_01653	gene	354				
+NIELGFIF_01653	CDS	354				IS1595 family transposase ISBaba5
+NIELGFIF_01654	gene	291				
+NIELGFIF_01654	CDS	291				hypothetical protein
+NIELGFIF_01655	gene	879				
+NIELGFIF_01655	CDS	879				hypothetical protein
+NIELGFIF_01656	gene	222				
+NIELGFIF_01656	CDS	222				hypothetical protein
+NIELGFIF_01657	gene	516				
+NIELGFIF_01657	CDS	516				hypothetical protein
+NIELGFIF_01658	gene	453	bcp			
+NIELGFIF_01658	CDS	453	bcp	1.11.1.15	COG1225	Peroxiredoxin Bcp
+NIELGFIF_01659	gene	2028				
+NIELGFIF_01659	CDS	2028				hypothetical protein
+NIELGFIF_01660	gene	2106	f1pep1			
+NIELGFIF_01660	CDS	2106	f1pep1	3.4.21.26		Prolyl endopeptidase
+NIELGFIF_01661	gene	768				
+NIELGFIF_01661	CDS	768				hypothetical protein
+NIELGFIF_01662	gene	744				
+NIELGFIF_01662	CDS	744				hypothetical protein
+NIELGFIF_01663	gene	2601	clpB1			
+NIELGFIF_01663	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+NIELGFIF_01664	gene	180				
+NIELGFIF_01664	CDS	180				hypothetical protein
+NIELGFIF_01665	gene	75				
+NIELGFIF_01665	tRNA	75				tRNA-Phe(gaa)
+NIELGFIF_01666	gene	606	tsaC			
+NIELGFIF_01666	CDS	606	tsaC	2.7.7.87		Threonylcarbamoyl-AMP synthase
+NIELGFIF_01667	gene	1785	clcB			
+NIELGFIF_01667	CDS	1785	clcB			Voltage-gated ClC-type chloride channel ClcB
+NIELGFIF_01668	gene	963	fmt			
+NIELGFIF_01668	CDS	963	fmt	2.1.2.9		Methionyl-tRNA formyltransferase
+NIELGFIF_01669	gene	999	menE			
+NIELGFIF_01669	CDS	999	menE	6.2.1.26	COG0318	2-succinylbenzoate--CoA ligase
+NIELGFIF_01670	gene	360				
+NIELGFIF_01670	CDS	360				hypothetical protein
+NIELGFIF_01671	gene	996	gpsA			
+NIELGFIF_01671	CDS	996	gpsA	1.1.1.94		Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+NIELGFIF_01672	gene	93				
+NIELGFIF_01672	CDS	93				hypothetical protein
+NIELGFIF_01673	gene	1731	lysS			
+NIELGFIF_01673	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+NIELGFIF_01674	gene	717				
+NIELGFIF_01674	CDS	717		2.1.1.-		Putative TrmH family tRNA/rRNA methyltransferase
+NIELGFIF_01675	gene	1680				
+NIELGFIF_01675	CDS	1680				hypothetical protein
+NIELGFIF_01676	gene	1479	cstA			
+NIELGFIF_01676	CDS	1479	cstA		COG1966	Peptide transporter CstA
+NIELGFIF_01677	gene	495				
+NIELGFIF_01677	CDS	495				hypothetical protein
+NIELGFIF_01678	gene	849	nadC			
+NIELGFIF_01678	CDS	849	nadC	2.4.2.19	COG0157	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+NIELGFIF_01679	gene	1623				
+NIELGFIF_01679	CDS	1623				hypothetical protein
+NIELGFIF_01680	gene	1632	pepDA			
+NIELGFIF_01680	CDS	1632	pepDA	3.4.-.-	COG4690	Dipeptidase A
+NIELGFIF_01681	gene	168				
+NIELGFIF_01681	CDS	168				hypothetical protein
+NIELGFIF_01682	gene	1254	mltF			
+NIELGFIF_01682	CDS	1254	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+NIELGFIF_01683	gene	459	pyrI			
+NIELGFIF_01683	CDS	459	pyrI		COG1781	Aspartate carbamoyltransferase regulatory chain
+NIELGFIF_01684	gene	948	pyrB			
+NIELGFIF_01684	CDS	948	pyrB	2.1.3.2	COG0540	Aspartate carbamoyltransferase catalytic subunit
+NIELGFIF_01685	gene	2304	mrcA_2			
+NIELGFIF_01685	CDS	2304	mrcA_2		COG5009	Penicillin-binding protein 1A
+NIELGFIF_01686	gene	987				
+NIELGFIF_01686	CDS	987				hypothetical protein
+NIELGFIF_01687	gene	1059	rfbM			
+NIELGFIF_01687	CDS	1059	rfbM	2.7.7.13	COG0662	Mannose-1-phosphate guanylyltransferase RfbM
+NIELGFIF_01688	gene	1086	gmd			
+NIELGFIF_01688	CDS	1086	gmd	4.2.1.47	COG1089	GDP-mannose 4,6-dehydratase
+NIELGFIF_01689	gene	1098	fcl_2			
+NIELGFIF_01689	CDS	1098	fcl_2	1.1.1.271	COG0451	GDP-L-fucose synthase
+NIELGFIF_01690	gene	237				
+NIELGFIF_01690	CDS	237				hypothetical protein
+NIELGFIF_01691	gene	126				
+NIELGFIF_01691	CDS	126				hypothetical protein
+NIELGFIF_01692	gene	183				
+NIELGFIF_01692	CDS	183				hypothetical protein
+NIELGFIF_01693	gene	1572				
+NIELGFIF_01693	CDS	1572				hypothetical protein
+NIELGFIF_01694	gene	750				
+NIELGFIF_01694	CDS	750				hypothetical protein
+NIELGFIF_01695	gene	321				
+NIELGFIF_01695	CDS	321				hypothetical protein
+NIELGFIF_01696	gene	177				
+NIELGFIF_01696	CDS	177				hypothetical protein
+NIELGFIF_01697	gene	669				
+NIELGFIF_01697	CDS	669				hypothetical protein
+NIELGFIF_01698	gene	600				
+NIELGFIF_01698	CDS	600				hypothetical protein
+NIELGFIF_01699	gene	96				
+NIELGFIF_01699	CDS	96				hypothetical protein
+NIELGFIF_01700	gene	1644	hcp			
+NIELGFIF_01700	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+NIELGFIF_01701	gene	1050	rnc			
+NIELGFIF_01701	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+NIELGFIF_01702	gene	1263	fabF			
+NIELGFIF_01702	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+NIELGFIF_01703	gene	237	acpP			
+NIELGFIF_01703	CDS	237	acpP		COG0236	Acyl carrier protein
+NIELGFIF_01704	gene	606				
+NIELGFIF_01704	CDS	606				hypothetical protein
+NIELGFIF_01705	gene	1047				
+NIELGFIF_01705	CDS	1047				hypothetical protein
+NIELGFIF_01706	gene	141				
+NIELGFIF_01706	CDS	141				hypothetical protein
+NIELGFIF_01707	gene	936				
+NIELGFIF_01707	CDS	936				hypothetical protein
+NIELGFIF_01708	gene	1491	cysS			
+NIELGFIF_01708	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+NIELGFIF_01709	gene	618				
+NIELGFIF_01709	CDS	618				hypothetical protein
+NIELGFIF_01710	gene	210				
+NIELGFIF_01710	CDS	210				hypothetical protein
+NIELGFIF_01711	gene	318				
+NIELGFIF_01711	CDS	318				hypothetical protein
+NIELGFIF_01712	gene	894				
+NIELGFIF_01712	CDS	894				hypothetical protein
+NIELGFIF_01713	gene	165				
+NIELGFIF_01713	CDS	165				hypothetical protein
+NIELGFIF_01714	gene	2826				
+NIELGFIF_01714	CDS	2826				hypothetical protein
+NIELGFIF_01715	gene	1305	metK			
+NIELGFIF_01715	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+NIELGFIF_01716	gene	1038				
+NIELGFIF_01716	CDS	1038				hypothetical protein
+NIELGFIF_01717	gene	747				
+NIELGFIF_01717	CDS	747				hypothetical protein
+NIELGFIF_01718	gene	432	rnpA			
+NIELGFIF_01718	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+NIELGFIF_01719	gene	240				
+NIELGFIF_01719	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+NIELGFIF_01720	gene	1305	tyrS			
+NIELGFIF_01720	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+NIELGFIF_01721	gene	654				
+NIELGFIF_01721	CDS	654				hypothetical protein
+NIELGFIF_01722	gene	981	ribD			
+NIELGFIF_01722	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+NIELGFIF_01723	gene	1311	eno			
+NIELGFIF_01723	CDS	1311	eno	4.2.1.11	COG0148	Enolase
+NIELGFIF_01724	gene	399				
+NIELGFIF_01724	CDS	399		2.8.1.-	COG0607	Sulfurtransferase
+NIELGFIF_01725	gene	1257				
+NIELGFIF_01725	CDS	1257				hypothetical protein
+NIELGFIF_01726	gene	2181	recQ			
+NIELGFIF_01726	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+NIELGFIF_01727	gene	1230	clpX			
+NIELGFIF_01727	CDS	1230	clpX		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+NIELGFIF_01728	gene	666	clpP			
+NIELGFIF_01728	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+NIELGFIF_01729	gene	1356	tig			
+NIELGFIF_01729	CDS	1356	tig	5.2.1.8		Trigger factor
+NIELGFIF_01730	gene	3099				
+NIELGFIF_01730	CDS	3099				hypothetical protein
+NIELGFIF_01731	gene	582	resA_5			
+NIELGFIF_01731	CDS	582	resA_5			Thiol-disulfide oxidoreductase ResA
+NIELGFIF_01732	gene	939	prs			
+NIELGFIF_01732	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+NIELGFIF_01733	gene	609				
+NIELGFIF_01733	CDS	609				hypothetical protein
+NIELGFIF_01734	gene	825	lptB			
+NIELGFIF_01734	CDS	825	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+NIELGFIF_01735	gene	564				
+NIELGFIF_01735	CDS	564				hypothetical protein
+NIELGFIF_01736	gene	747	mlaE			
+NIELGFIF_01736	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+NIELGFIF_01737	gene	777	mkl			
+NIELGFIF_01737	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+NIELGFIF_01738	gene	399				
+NIELGFIF_01738	CDS	399				hypothetical protein
+NIELGFIF_01739	gene	1317	der			
+NIELGFIF_01739	CDS	1317	der		COG1160	GTPase Der
+NIELGFIF_01740	gene	1056	era			
+NIELGFIF_01740	CDS	1056	era		COG1159	GTPase Era
+NIELGFIF_01741	gene	1011	fabH			
+NIELGFIF_01741	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NIELGFIF_01742	gene	189	rpmF			
+NIELGFIF_01742	CDS	189	rpmF			50S ribosomal protein L32
+NIELGFIF_01743	gene	522				
+NIELGFIF_01743	CDS	522				hypothetical protein
+NIELGFIF_01744	gene	522				
+NIELGFIF_01744	CDS	522				hypothetical protein
+NIELGFIF_01745	gene	627				
+NIELGFIF_01745	CDS	627				hypothetical protein
+NIELGFIF_01746	gene	1440				
+NIELGFIF_01746	CDS	1440				hypothetical protein
+NIELGFIF_01747	gene	360				
+NIELGFIF_01747	CDS	360				hypothetical protein
+NIELGFIF_01748	gene	1164	sasA_3			
+NIELGFIF_01748	CDS	1164	sasA_3	2.7.-.-		Adaptive-response sensory-kinase SasA
+NIELGFIF_01749	gene	1542				
+NIELGFIF_01749	CDS	1542				hypothetical protein
+NIELGFIF_01750	gene	315				
+NIELGFIF_01750	CDS	315				hypothetical protein
+NIELGFIF_01751	gene	1014	asd			
+NIELGFIF_01751	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+NIELGFIF_01752	gene	2202	kefB_2			
+NIELGFIF_01752	CDS	2202	kefB_2			Glutathione-regulated potassium-efflux system protein KefB
+NIELGFIF_01753	gene	663	lolD			
+NIELGFIF_01753	CDS	663	lolD	3.6.3.-	COG1136	Lipoprotein-releasing system ATP-binding protein LolD
+NIELGFIF_01754	gene	603				
+NIELGFIF_01754	CDS	603				hypothetical protein
+NIELGFIF_01755	gene	1395	asnS			
+NIELGFIF_01755	CDS	1395	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+NIELGFIF_01756	gene	1473				
+NIELGFIF_01756	CDS	1473				hypothetical protein
+NIELGFIF_01757	gene	1347	purB			
+NIELGFIF_01757	CDS	1347	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+NIELGFIF_01758	gene	76				
+NIELGFIF_01758	tRNA	76				tRNA-Val(tac)
+NIELGFIF_01759	gene	76				
+NIELGFIF_01759	tRNA	76				tRNA-Val(tac)
+NIELGFIF_01760	gene	1209				
+NIELGFIF_01760	CDS	1209				Outer membrane protein 40
+NIELGFIF_01761	gene	1815	mutL			
+NIELGFIF_01761	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+NIELGFIF_01762	gene	273				
+NIELGFIF_01762	CDS	273				hypothetical protein
+NIELGFIF_01763	gene	1695	lptD_2			
+NIELGFIF_01763	CDS	1695	lptD_2			LPS-assembly protein LptD
+NIELGFIF_01764	gene	1464	surA_1			
+NIELGFIF_01764	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+NIELGFIF_01765	gene	1479	surA_2			
+NIELGFIF_01765	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+NIELGFIF_01766	gene	1479	guaB			
+NIELGFIF_01766	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+NIELGFIF_01767	gene	168				
+NIELGFIF_01767	CDS	168				hypothetical protein
+NIELGFIF_01768	gene	321				
+NIELGFIF_01768	CDS	321				hypothetical protein
+NIELGFIF_01769	gene	912	xerC			
+NIELGFIF_01769	CDS	912	xerC			Tyrosine recombinase XerC
+NIELGFIF_01770	gene	468				
+NIELGFIF_01770	CDS	468				hypothetical protein
+NIELGFIF_01771	gene	960				
+NIELGFIF_01771	CDS	960				hypothetical protein
+NIELGFIF_01772	gene	192				
+NIELGFIF_01772	CDS	192				hypothetical protein
+NIELGFIF_01773	gene	207				
+NIELGFIF_01773	CDS	207				hypothetical protein
+NIELGFIF_01774	gene	1830				
+NIELGFIF_01774	CDS	1830				hypothetical protein
+NIELGFIF_01775	gene	1788				
+NIELGFIF_01775	CDS	1788				hypothetical protein
+NIELGFIF_01776	gene	1917				
+NIELGFIF_01776	CDS	1917				hypothetical protein
+NIELGFIF_01777	gene	1686	dauA			
+NIELGFIF_01777	CDS	1686	dauA		COG0659	C4-dicarboxylic acid transporter DauA
+NIELGFIF_01778	gene	1287				
+NIELGFIF_01778	CDS	1287				hypothetical protein
+NIELGFIF_01779	gene	993	mdh			
+NIELGFIF_01779	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+NIELGFIF_01780	gene	510				
+NIELGFIF_01780	CDS	510				hypothetical protein
+NIELGFIF_01781	gene	411				
+NIELGFIF_01781	CDS	411				hypothetical protein
+NIELGFIF_01782	gene	2538				
+NIELGFIF_01782	CDS	2538				hypothetical protein
+NIELGFIF_01783	gene	1002				
+NIELGFIF_01783	CDS	1002				hypothetical protein
+NIELGFIF_01784	gene	837				
+NIELGFIF_01784	CDS	837				hypothetical protein
+NIELGFIF_01785	gene	1413				
+NIELGFIF_01785	CDS	1413				hypothetical protein
+NIELGFIF_01786	gene	399				
+NIELGFIF_01786	CDS	399			COG0537	putative HIT-like protein
+NIELGFIF_01787	gene	465	greA			
+NIELGFIF_01787	CDS	465	greA		COG0782	Transcription elongation factor GreA
+NIELGFIF_01788	gene	75				
+NIELGFIF_01788	tRNA	75				tRNA-Ala(ggc)
+NIELGFIF_01789	gene	882	xerD_2			
+NIELGFIF_01789	CDS	882	xerD_2			Tyrosine recombinase XerD
+NIELGFIF_01790	gene	300	hpf			
+NIELGFIF_01790	CDS	300	hpf			Ribosome hibernation promoting factor
+NIELGFIF_01791	gene	75				
+NIELGFIF_01791	tRNA	75				tRNA-Thr(tgt)
+NIELGFIF_01792	gene	84				
+NIELGFIF_01792	tRNA	84				tRNA-Tyr(gta)
+NIELGFIF_01793	gene	74				
+NIELGFIF_01793	tRNA	74				tRNA-Gly(tcc)
+NIELGFIF_01794	gene	73				
+NIELGFIF_01794	tRNA	73				tRNA-Thr(ggt)
+NIELGFIF_01795	gene	1185	tufB			
+NIELGFIF_01795	CDS	1185	tufB		COG0050	Elongation factor Tu 2
+NIELGFIF_01796	gene	74				
+NIELGFIF_01796	tRNA	74				tRNA-Trp(cca)
+NIELGFIF_01797	gene	543	nusG			
+NIELGFIF_01797	CDS	543	nusG		COG0250	Transcription termination/antitermination protein NusG
+NIELGFIF_01798	gene	438	rplK			
+NIELGFIF_01798	CDS	438	rplK			50S ribosomal protein L11
+NIELGFIF_01799	gene	693	rplA			
+NIELGFIF_01799	CDS	693	rplA			50S ribosomal protein L1
+NIELGFIF_01800	gene	516	rplJ			
+NIELGFIF_01800	CDS	516	rplJ		COG0244	50S ribosomal protein L10
+NIELGFIF_01801	gene	378	rplL			
+NIELGFIF_01801	CDS	378	rplL		COG0222	50S ribosomal protein L7/L12
+NIELGFIF_01802	gene	3813	rpoB			
+NIELGFIF_01802	CDS	3813	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+NIELGFIF_01803	gene	4329	rpoC			
+NIELGFIF_01803	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+NIELGFIF_01804	gene	1089	trpS2			
+NIELGFIF_01804	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+NIELGFIF_01805	gene	321				
+NIELGFIF_01805	CDS	321				hypothetical protein
+NIELGFIF_01806	gene	222				
+NIELGFIF_01806	CDS	222				hypothetical protein
+NIELGFIF_01807	gene	630				
+NIELGFIF_01807	CDS	630				hypothetical protein
+NIELGFIF_01808	gene	636				
+NIELGFIF_01808	CDS	636				hypothetical protein
+NIELGFIF_01809	gene	1491				
+NIELGFIF_01809	CDS	1491				hypothetical protein
+NIELGFIF_01810	gene	729				
+NIELGFIF_01810	CDS	729				hypothetical protein
+NIELGFIF_01811	gene	1068				
+NIELGFIF_01811	CDS	1068				hypothetical protein
+NIELGFIF_01812	gene	1812				
+NIELGFIF_01812	CDS	1812				hypothetical protein
+NIELGFIF_01813	gene	9090				
+NIELGFIF_01813	CDS	9090				hypothetical protein
+NIELGFIF_01814	gene	426				
+NIELGFIF_01814	CDS	426				hypothetical protein
+NIELGFIF_01815	gene	1026				
+NIELGFIF_01815	CDS	1026				hypothetical protein
+NIELGFIF_01816	gene	234				
+NIELGFIF_01816	CDS	234				hypothetical protein
+NIELGFIF_01817	gene	129				
+NIELGFIF_01817	CDS	129				hypothetical protein
+NIELGFIF_01818	gene	264				
+NIELGFIF_01818	CDS	264				hypothetical protein
+NIELGFIF_01819	gene	1233				
+NIELGFIF_01819	CDS	1233				hypothetical protein
+NIELGFIF_01820	gene	732				
+NIELGFIF_01820	CDS	732				hypothetical protein
+NIELGFIF_01821	gene	1266				
+NIELGFIF_01821	CDS	1266				hypothetical protein
+NIELGFIF_01822	gene	345				
+NIELGFIF_01822	CDS	345				hypothetical protein
+NIELGFIF_01823	gene	561				
+NIELGFIF_01823	CDS	561				hypothetical protein
+NIELGFIF_01824	gene	270				
+NIELGFIF_01824	CDS	270				hypothetical protein
+NIELGFIF_01825	gene	345				
+NIELGFIF_01825	CDS	345				hypothetical protein
+NIELGFIF_01826	gene	699	copR			
+NIELGFIF_01826	CDS	699	copR			Transcriptional activator protein CopR
+NIELGFIF_01827	gene	1548	sasA_4			
+NIELGFIF_01827	CDS	1548	sasA_4	2.7.-.-		Adaptive-response sensory-kinase SasA
+NIELGFIF_01828	gene	687				
+NIELGFIF_01828	CDS	687				hypothetical protein
+NIELGFIF_01829	gene	2160	fusA_2			
+NIELGFIF_01829	CDS	2160	fusA_2		COG0480	Elongation factor G
+NIELGFIF_01830	gene	1134	hemW			
+NIELGFIF_01830	CDS	1134	hemW		COG0635	Heme chaperone HemW
+NIELGFIF_01831	gene	174				
+NIELGFIF_01831	CDS	174				hypothetical protein
+NIELGFIF_01832	gene	1578	glcA			
+NIELGFIF_01832	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+NIELGFIF_01833	gene	138				
+NIELGFIF_01833	CDS	138				hypothetical protein
+NIELGFIF_01834	gene	2205				
+NIELGFIF_01834	CDS	2205				hypothetical protein
+NIELGFIF_01835	gene	2409	btuB_9			
+NIELGFIF_01835	CDS	2409	btuB_9			Vitamin B12 transporter BtuB
+NIELGFIF_01836	gene	1017				
+NIELGFIF_01836	CDS	1017				hypothetical protein
+NIELGFIF_01837	gene	1944	rlhA			
+NIELGFIF_01837	CDS	1944	rlhA		COG0826	23S rRNA 5-hydroxycytidine synthase
+NIELGFIF_01838	gene	1185				
+NIELGFIF_01838	CDS	1185				hypothetical protein
+NIELGFIF_01839	gene	744				
+NIELGFIF_01839	CDS	744				hypothetical protein
+NIELGFIF_01840	gene	3306	carB			
+NIELGFIF_01840	CDS	3306	carB	6.3.5.5		Carbamoyl-phosphate synthase large chain
+NIELGFIF_01841	gene	2484				
+NIELGFIF_01841	CDS	2484				hypothetical protein
+NIELGFIF_01842	gene	876	rfbA			
+NIELGFIF_01842	CDS	876	rfbA	2.7.7.24	COG1209	Glucose-1-phosphate thymidylyltransferase 1
+NIELGFIF_01843	gene	624				
+NIELGFIF_01843	CDS	624				hypothetical protein
+NIELGFIF_01844	gene	300				
+NIELGFIF_01844	CDS	300				hypothetical protein
+NIELGFIF_01845	gene	345				
+NIELGFIF_01845	CDS	345				hypothetical protein
+NIELGFIF_01846	gene	1533	rny_2			
+NIELGFIF_01846	CDS	1533	rny_2	3.1.-.-	COG1418	Ribonuclease Y
+NIELGFIF_01847	gene	957				
+NIELGFIF_01847	CDS	957				hypothetical protein
+NIELGFIF_01848	gene	585	malT			
+NIELGFIF_01848	CDS	585	malT			HTH-type transcriptional regulator MalT
+NIELGFIF_01849	gene	1158	gcdB			
+NIELGFIF_01849	CDS	1158	gcdB	7.2.4.5	COG1883	Glutaconyl-CoA decarboxylase subunit beta
+NIELGFIF_01850	gene	450	gcdC			
+NIELGFIF_01850	CDS	450	gcdC	7.2.4.5	COG0511	Glutaconyl-CoA decarboxylase subunit gamma
+NIELGFIF_01851	gene	957				
+NIELGFIF_01851	CDS	957				hypothetical protein
+NIELGFIF_01852	gene	1716	aspT_2			
+NIELGFIF_01852	CDS	1716	aspT_2			Aspartate/alanine antiporter
+NIELGFIF_01853	gene	732				
+NIELGFIF_01853	CDS	732				hypothetical protein
+NIELGFIF_01854	gene	138				
+NIELGFIF_01854	CDS	138				hypothetical protein
+NIELGFIF_01855	gene	1032	cobD_1			
+NIELGFIF_01855	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+NIELGFIF_01856	gene	942	cobD_2			
+NIELGFIF_01856	CDS	942	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+NIELGFIF_01857	gene	573				
+NIELGFIF_01857	CDS	573				hypothetical protein
+NIELGFIF_01858	gene	2136				
+NIELGFIF_01858	CDS	2136				hypothetical protein
+NIELGFIF_01859	gene	825				
+NIELGFIF_01859	CDS	825				hypothetical protein
+NIELGFIF_01860	gene	696	mprA			
+NIELGFIF_01860	CDS	696	mprA		COG0745	Response regulator MprA
+NIELGFIF_01861	gene	1569	sasA_5			
+NIELGFIF_01861	CDS	1569	sasA_5	2.7.-.-		Adaptive-response sensory-kinase SasA
+NIELGFIF_01862	gene	1446				
+NIELGFIF_01862	CDS	1446				hypothetical protein
+NIELGFIF_01863	gene	768				
+NIELGFIF_01863	CDS	768				IS982 family transposase IS195
+NIELGFIF_01864	gene	366				
+NIELGFIF_01864	CDS	366				hypothetical protein
+NIELGFIF_01865	gene	462				
+NIELGFIF_01865	CDS	462				hypothetical protein
+NIELGFIF_01866	gene	969				
+NIELGFIF_01866	CDS	969				hypothetical protein
+NIELGFIF_01867	gene	732				
+NIELGFIF_01867	CDS	732			COG3385	IS4 family transposase ISDar2
+NIELGFIF_01868	gene	1191				
+NIELGFIF_01868	CDS	1191				hypothetical protein
+NIELGFIF_01869	gene	1836				
+NIELGFIF_01869	CDS	1836				hypothetical protein
+NIELGFIF_01870	gene	2721	ppdK			
+NIELGFIF_01870	CDS	2721	ppdK	2.7.9.1	COG0574	Pyruvate, phosphate dikinase
+NIELGFIF_01871	gene	213				
+NIELGFIF_01871	CDS	213				hypothetical protein
+NIELGFIF_01872	gene	591	flr			
+NIELGFIF_01872	CDS	591	flr			Flavoredoxin
+NIELGFIF_01873	gene	96				
+NIELGFIF_01873	CDS	96				hypothetical protein
+NIELGFIF_01874	gene	1050				
+NIELGFIF_01874	CDS	1050				hypothetical protein
+NIELGFIF_01875	gene	711				
+NIELGFIF_01875	CDS	711				hypothetical protein
+NIELGFIF_01876	gene	495				
+NIELGFIF_01876	CDS	495				hypothetical protein
+NIELGFIF_01877	gene	456	csh			
+NIELGFIF_01877	CDS	456	csh	3.13.1.5		Carbon disulfide hydrolase
+NIELGFIF_01878	gene	687				
+NIELGFIF_01878	CDS	687				hypothetical protein
+NIELGFIF_01879	gene	75				
+NIELGFIF_01879	tRNA	75				tRNA-Met(cat)
+NIELGFIF_01880	gene	693				
+NIELGFIF_01880	CDS	693				hypothetical protein
+NIELGFIF_01881	gene	486	resA_6			
+NIELGFIF_01881	CDS	486	resA_6			Thiol-disulfide oxidoreductase ResA
+NIELGFIF_01882	gene	1659				
+NIELGFIF_01882	CDS	1659				hypothetical protein
+NIELGFIF_01883	gene	786				
+NIELGFIF_01883	CDS	786				hypothetical protein
+NIELGFIF_01884	gene	639				
+NIELGFIF_01884	CDS	639				hypothetical protein
+NIELGFIF_01885	gene	1419	aspA			
+NIELGFIF_01885	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+NIELGFIF_01886	gene	726	mhqN			
+NIELGFIF_01886	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+NIELGFIF_01887	gene	732				
+NIELGFIF_01887	CDS	732				hypothetical protein
+NIELGFIF_01888	gene	1446	pal_5			
+NIELGFIF_01888	CDS	1446	pal_5			Peptidoglycan-associated lipoprotein
+NIELGFIF_01889	gene	1230	yciC			
+NIELGFIF_01889	CDS	1230	yciC		COG0523	Putative metal chaperone YciC
+NIELGFIF_01890	gene	1329				
+NIELGFIF_01890	CDS	1329				hypothetical protein
+NIELGFIF_01891	gene	1446	patA_1			
+NIELGFIF_01891	CDS	1446	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+NIELGFIF_01892	gene	807				
+NIELGFIF_01892	CDS	807				hypothetical protein
+NIELGFIF_01893	gene	90				
+NIELGFIF_01893	CDS	90				hypothetical protein
+NIELGFIF_01894	gene	135				
+NIELGFIF_01894	CDS	135				hypothetical protein
+NIELGFIF_01895	gene	333				
+NIELGFIF_01895	CDS	333				hypothetical protein
+NIELGFIF_01896	gene	72				
+NIELGFIF_01896	tRNA	72				tRNA-Gln(ttg)
+NIELGFIF_01897	gene	921				
+NIELGFIF_01897	CDS	921				hypothetical protein
+NIELGFIF_01898	gene	294				
+NIELGFIF_01898	CDS	294				hypothetical protein
+NIELGFIF_01899	gene	1821	argS			
+NIELGFIF_01899	CDS	1821	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+NIELGFIF_01900	gene	417				
+NIELGFIF_01900	CDS	417				hypothetical protein
+NIELGFIF_01901	gene	1494	patA_2			
+NIELGFIF_01901	CDS	1494	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+NIELGFIF_01902	gene	1314				
+NIELGFIF_01902	CDS	1314				hypothetical protein
+NIELGFIF_01903	gene	177				
+NIELGFIF_01903	CDS	177				hypothetical protein
+NIELGFIF_01904	gene	3591				
+NIELGFIF_01904	CDS	3591				hypothetical protein
+NIELGFIF_01905	gene	180				
+NIELGFIF_01905	CDS	180				hypothetical protein
+NIELGFIF_01906	gene	1002				
+NIELGFIF_01906	CDS	1002				hypothetical protein
+NIELGFIF_01907	gene	204				
+NIELGFIF_01907	CDS	204				hypothetical protein
+NIELGFIF_01908	gene	765				
+NIELGFIF_01908	CDS	765				hypothetical protein
+NIELGFIF_01909	gene	537				
+NIELGFIF_01909	CDS	537				hypothetical protein
+NIELGFIF_01910	gene	906				
+NIELGFIF_01910	CDS	906				hypothetical protein
+NIELGFIF_01911	gene	303				
+NIELGFIF_01911	CDS	303				hypothetical protein
+NIELGFIF_01912	gene	291				
+NIELGFIF_01912	CDS	291				hypothetical protein
+NIELGFIF_01913	gene	1209				
+NIELGFIF_01913	CDS	1209				hypothetical protein

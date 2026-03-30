@@ -1,0 +1,2874 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+NBFAOAKO_00001	gene	633	pyrE			
+NBFAOAKO_00001	CDS	633	pyrE	2.4.2.10	COG0461	Orotate phosphoribosyltransferase
+NBFAOAKO_00002	gene	423				
+NBFAOAKO_00002	CDS	423				hypothetical protein
+NBFAOAKO_00003	gene	576				
+NBFAOAKO_00003	CDS	576				hypothetical protein
+NBFAOAKO_00004	gene	87				
+NBFAOAKO_00004	tRNA	87				tRNA-Leu(taa)
+NBFAOAKO_00005	gene	1005				
+NBFAOAKO_00005	CDS	1005				hypothetical protein
+NBFAOAKO_00006	gene	702				
+NBFAOAKO_00006	CDS	702				hypothetical protein
+NBFAOAKO_00007	gene	411	rnhA			
+NBFAOAKO_00007	CDS	411	rnhA	3.1.26.4	COG3341	Ribonuclease H
+NBFAOAKO_00008	gene	477				
+NBFAOAKO_00008	CDS	477				hypothetical protein
+NBFAOAKO_00009	gene	666				
+NBFAOAKO_00009	CDS	666				hypothetical protein
+NBFAOAKO_00010	gene	831				
+NBFAOAKO_00010	CDS	831				hypothetical protein
+NBFAOAKO_00011	gene	708				
+NBFAOAKO_00011	CDS	708				hypothetical protein
+NBFAOAKO_00012	gene	1455				
+NBFAOAKO_00012	CDS	1455				hypothetical protein
+NBFAOAKO_00013	gene	417				
+NBFAOAKO_00013	CDS	417				hypothetical protein
+NBFAOAKO_00014	gene	657	csm3			
+NBFAOAKO_00014	CDS	657	csm3	3.1.-.-	COG1337	CRISPR system Cms endoribonuclease Csm3
+NBFAOAKO_00015	gene	1017	csm4			
+NBFAOAKO_00015	CDS	1017	csm4		COG1567	CRISPR system Cms protein Csm4
+NBFAOAKO_00016	gene	1641				
+NBFAOAKO_00016	CDS	1641				hypothetical protein
+NBFAOAKO_00017	gene	1323				
+NBFAOAKO_00017	CDS	1323				hypothetical protein
+	repeat_region	1752				
+NBFAOAKO_00018	gene	270				
+NBFAOAKO_00018	CDS	270				hypothetical protein
+NBFAOAKO_00019	gene	558	trmH			
+NBFAOAKO_00019	CDS	558	trmH	2.1.1.34	COG0566	tRNA (guanosine(18)-2'-O)-methyltransferase
+NBFAOAKO_00020	gene	429	csdE			
+NBFAOAKO_00020	CDS	429	csdE		COG2166	Sulfur acceptor protein CsdE
+NBFAOAKO_00021	gene	1299				
+NBFAOAKO_00021	CDS	1299				hypothetical protein
+NBFAOAKO_00022	gene	912	xerD			
+NBFAOAKO_00022	CDS	912	xerD			Tyrosine recombinase XerD
+NBFAOAKO_00023	gene	1359	miaB			
+NBFAOAKO_00023	CDS	1359	miaB	2.8.4.3	COG0621	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NBFAOAKO_00024	gene	2886				
+NBFAOAKO_00024	CDS	2886				hypothetical protein
+NBFAOAKO_00025	gene	165				
+NBFAOAKO_00025	CDS	165				hypothetical protein
+NBFAOAKO_00026	gene	1419				
+NBFAOAKO_00026	CDS	1419				hypothetical protein
+NBFAOAKO_00027	gene	117				
+NBFAOAKO_00027	CDS	117				hypothetical protein
+NBFAOAKO_00028	gene	1389				
+NBFAOAKO_00028	CDS	1389				hypothetical protein
+NBFAOAKO_00029	gene	96				
+NBFAOAKO_00029	CDS	96				hypothetical protein
+NBFAOAKO_00030	gene	753	yhcG_1			
+NBFAOAKO_00030	CDS	753	yhcG_1	3.1.-.-	COG4804	Putative nuclease YhcG
+NBFAOAKO_00031	gene	348	yhcG_2			
+NBFAOAKO_00031	CDS	348	yhcG_2	3.1.-.-	COG4804	Putative nuclease YhcG
+NBFAOAKO_00032	gene	3633				
+NBFAOAKO_00032	CDS	3633				hypothetical protein
+NBFAOAKO_00033	gene	1140				
+NBFAOAKO_00033	CDS	1140				hypothetical protein
+NBFAOAKO_00034	gene	1314	clpX_1			
+NBFAOAKO_00034	CDS	1314	clpX_1			ATP-dependent Clp protease ATP-binding subunit ClpX
+NBFAOAKO_00035	gene	618				
+NBFAOAKO_00035	CDS	618				hypothetical protein
+NBFAOAKO_00036	gene	717				
+NBFAOAKO_00036	CDS	717				hypothetical protein
+NBFAOAKO_00037	gene	207				
+NBFAOAKO_00037	CDS	207				hypothetical protein
+NBFAOAKO_00038	gene	705	cobB			
+NBFAOAKO_00038	CDS	705	cobB	2.3.1.286	COG0846	NAD-dependent protein deacylase
+NBFAOAKO_00039	gene	2004				
+NBFAOAKO_00039	CDS	2004				hypothetical protein
+NBFAOAKO_00040	gene	534				
+NBFAOAKO_00040	CDS	534				hypothetical protein
+NBFAOAKO_00041	gene	159				
+NBFAOAKO_00041	CDS	159				hypothetical protein
+NBFAOAKO_00042	gene	540				
+NBFAOAKO_00042	CDS	540				hypothetical protein
+NBFAOAKO_00043	gene	465	rimP			
+NBFAOAKO_00043	CDS	465	rimP			Ribosome maturation factor RimP
+NBFAOAKO_00044	gene	1257	nusA			
+NBFAOAKO_00044	CDS	1257	nusA		COG0195	Transcription termination/antitermination protein NusA
+NBFAOAKO_00045	gene	2868	infB			
+NBFAOAKO_00045	CDS	2868	infB			Translation initiation factor IF-2
+NBFAOAKO_00046	gene	147				
+NBFAOAKO_00046	CDS	147				hypothetical protein
+NBFAOAKO_00047	gene	1458	sufB			
+NBFAOAKO_00047	CDS	1458	sufB		COG0719	FeS cluster assembly protein SufB
+NBFAOAKO_00048	gene	366				
+NBFAOAKO_00048	CDS	366				hypothetical protein
+NBFAOAKO_00049	gene	756	sufC			
+NBFAOAKO_00049	CDS	756	sufC		COG0396	putative ATP-dependent transporter SufC
+NBFAOAKO_00050	gene	1365	sufD			
+NBFAOAKO_00050	CDS	1365	sufD		COG0719	FeS cluster assembly protein SufD
+NBFAOAKO_00051	gene	1584				
+NBFAOAKO_00051	CDS	1584				hypothetical protein
+NBFAOAKO_00052	gene	219				
+NBFAOAKO_00052	CDS	219				hypothetical protein
+NBFAOAKO_00053	gene	120				
+NBFAOAKO_00053	CDS	120				hypothetical protein
+NBFAOAKO_00054	gene	1305	metK			
+NBFAOAKO_00054	CDS	1305	metK	2.5.1.6		S-adenosylmethionine synthase
+NBFAOAKO_00055	gene	2826				
+NBFAOAKO_00055	CDS	2826				hypothetical protein
+NBFAOAKO_00056	gene	165				
+NBFAOAKO_00056	CDS	165				hypothetical protein
+NBFAOAKO_00057	gene	894				
+NBFAOAKO_00057	CDS	894				hypothetical protein
+NBFAOAKO_00058	gene	318				
+NBFAOAKO_00058	CDS	318				hypothetical protein
+NBFAOAKO_00059	gene	210				
+NBFAOAKO_00059	CDS	210				hypothetical protein
+NBFAOAKO_00060	gene	618				
+NBFAOAKO_00060	CDS	618				hypothetical protein
+NBFAOAKO_00061	gene	228				
+NBFAOAKO_00061	CDS	228				hypothetical protein
+NBFAOAKO_00062	gene	1491	cysS			
+NBFAOAKO_00062	CDS	1491	cysS	6.1.1.16	COG0215	Cysteine--tRNA ligase
+NBFAOAKO_00063	gene	936				
+NBFAOAKO_00063	CDS	936				hypothetical protein
+NBFAOAKO_00064	gene	1008				
+NBFAOAKO_00064	CDS	1008				hypothetical protein
+NBFAOAKO_00065	gene	1047				
+NBFAOAKO_00065	CDS	1047				hypothetical protein
+NBFAOAKO_00066	gene	606				
+NBFAOAKO_00066	CDS	606				hypothetical protein
+NBFAOAKO_00067	gene	237	acpP			
+NBFAOAKO_00067	CDS	237	acpP		COG0236	Acyl carrier protein
+NBFAOAKO_00068	gene	1263	fabF			
+NBFAOAKO_00068	CDS	1263	fabF	2.3.1.179	COG0304	3-oxoacyl-[acyl-carrier-protein] synthase 2
+NBFAOAKO_00069	gene	1050	rnc			
+NBFAOAKO_00069	CDS	1050	rnc	3.1.26.3		Ribonuclease 3
+NBFAOAKO_00070	gene	102				
+NBFAOAKO_00070	CDS	102				hypothetical protein
+NBFAOAKO_00071	gene	1644	hcp			
+NBFAOAKO_00071	CDS	1644	hcp	1.7.99.1	COG1151	Hydroxylamine reductase
+NBFAOAKO_00072	gene	96				
+NBFAOAKO_00072	CDS	96				hypothetical protein
+NBFAOAKO_00073	gene	600				
+NBFAOAKO_00073	CDS	600				hypothetical protein
+NBFAOAKO_00074	gene	669				
+NBFAOAKO_00074	CDS	669				hypothetical protein
+NBFAOAKO_00075	gene	177				
+NBFAOAKO_00075	CDS	177				hypothetical protein
+NBFAOAKO_00076	gene	321				
+NBFAOAKO_00076	CDS	321				hypothetical protein
+NBFAOAKO_00077	gene	1527				
+NBFAOAKO_00077	CDS	1527				hypothetical protein
+NBFAOAKO_00078	gene	1314				
+NBFAOAKO_00078	CDS	1314				hypothetical protein
+NBFAOAKO_00079	gene	1494	patA_1			
+NBFAOAKO_00079	CDS	1494	patA_1	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+NBFAOAKO_00080	gene	105				
+NBFAOAKO_00080	CDS	105				hypothetical protein
+NBFAOAKO_00081	gene	417				
+NBFAOAKO_00081	CDS	417				hypothetical protein
+NBFAOAKO_00082	gene	1851				
+NBFAOAKO_00082	CDS	1851				hypothetical protein
+NBFAOAKO_00083	gene	135				
+NBFAOAKO_00083	CDS	135				hypothetical protein
+NBFAOAKO_00084	gene	552				
+NBFAOAKO_00084	CDS	552				hypothetical protein
+NBFAOAKO_00085	gene	2742				
+NBFAOAKO_00085	CDS	2742				hypothetical protein
+NBFAOAKO_00086	gene	1455				
+NBFAOAKO_00086	CDS	1455				hypothetical protein
+NBFAOAKO_00087	gene	396				
+NBFAOAKO_00087	CDS	396				hypothetical protein
+NBFAOAKO_00088	gene	1641				
+NBFAOAKO_00088	CDS	1641				hypothetical protein
+NBFAOAKO_00089	gene	2802				
+NBFAOAKO_00089	CDS	2802				hypothetical protein
+NBFAOAKO_00090	gene	546				
+NBFAOAKO_00090	CDS	546				hypothetical protein
+NBFAOAKO_00091	gene	138				
+NBFAOAKO_00091	CDS	138				hypothetical protein
+NBFAOAKO_00092	gene	759				
+NBFAOAKO_00092	CDS	759				hypothetical protein
+NBFAOAKO_00093	gene	774				
+NBFAOAKO_00093	CDS	774				hypothetical protein
+NBFAOAKO_00094	gene	1053				
+NBFAOAKO_00094	CDS	1053				hypothetical protein
+NBFAOAKO_00095	gene	717				
+NBFAOAKO_00095	CDS	717				hypothetical protein
+NBFAOAKO_00096	gene	2313	cirA			
+NBFAOAKO_00096	CDS	2313	cirA		COG4771	Colicin I receptor
+NBFAOAKO_00097	gene	1329				
+NBFAOAKO_00097	CDS	1329				hypothetical protein
+NBFAOAKO_00098	gene	135				
+NBFAOAKO_00098	CDS	135				hypothetical protein
+NBFAOAKO_00099	gene	1851				
+NBFAOAKO_00099	CDS	1851				hypothetical protein
+NBFAOAKO_00100	gene	2139				
+NBFAOAKO_00100	CDS	2139				hypothetical protein
+NBFAOAKO_00101	gene	897				
+NBFAOAKO_00101	CDS	897				hypothetical protein
+NBFAOAKO_00102	gene	609				
+NBFAOAKO_00102	CDS	609		3.6.1.66		dITP/XTP pyrophosphatase
+NBFAOAKO_00103	gene	969				
+NBFAOAKO_00103	CDS	969				hypothetical protein
+NBFAOAKO_00104	gene	2874	leuS			
+NBFAOAKO_00104	CDS	2874	leuS	6.1.1.4	COG0495	Leucine--tRNA ligase
+NBFAOAKO_00105	gene	642				
+NBFAOAKO_00105	CDS	642				hypothetical protein
+NBFAOAKO_00106	gene	633	pflA			
+NBFAOAKO_00106	CDS	633	pflA	1.97.1.4	COG1180	Pyruvate formate-lyase 1-activating enzyme
+NBFAOAKO_00107	gene	1104	ychF			
+NBFAOAKO_00107	CDS	1104	ychF		COG0012	Ribosome-binding ATPase YchF
+NBFAOAKO_00108	gene	849	lgt			
+NBFAOAKO_00108	CDS	849	lgt	2.5.1.145	COG0682	Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+NBFAOAKO_00109	gene	2628	mutS_1			
+NBFAOAKO_00109	CDS	2628	mutS_1		COG0249	DNA mismatch repair protein MutS
+NBFAOAKO_00110	gene	1575				
+NBFAOAKO_00110	CDS	1575				hypothetical protein
+NBFAOAKO_00111	gene	1131	capA			
+NBFAOAKO_00111	CDS	1131	capA			Capsule biosynthesis protein CapA
+NBFAOAKO_00112	gene	2598	polA			
+NBFAOAKO_00112	CDS	2598	polA	2.7.7.7	COG0258	DNA polymerase I
+NBFAOAKO_00113	gene	1587				
+NBFAOAKO_00113	CDS	1587				hypothetical protein
+NBFAOAKO_00114	gene	726				
+NBFAOAKO_00114	CDS	726				hypothetical protein
+NBFAOAKO_00115	gene	624				
+NBFAOAKO_00115	CDS	624				hypothetical protein
+NBFAOAKO_00116	gene	1311	dapL			
+NBFAOAKO_00116	CDS	1311	dapL	2.6.1.83		LL-diaminopimelate aminotransferase
+NBFAOAKO_00117	gene	573				
+NBFAOAKO_00117	CDS	573				hypothetical protein
+NBFAOAKO_00118	gene	1623				
+NBFAOAKO_00118	CDS	1623				hypothetical protein
+NBFAOAKO_00119	gene	738	yafV			
+NBFAOAKO_00119	CDS	738	yafV	3.5.1.3		Omega-amidase YafV
+NBFAOAKO_00120	gene	696	infC			
+NBFAOAKO_00120	CDS	696	infC			Translation initiation factor IF-3
+NBFAOAKO_00121	gene	198	rpmI			
+NBFAOAKO_00121	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+NBFAOAKO_00122	gene	345	rplT			
+NBFAOAKO_00122	CDS	345	rplT			50S ribosomal protein L20
+NBFAOAKO_00123	gene	1206				
+NBFAOAKO_00123	CDS	1206				hypothetical protein
+NBFAOAKO_00124	gene	2217	yhgF			
+NBFAOAKO_00124	CDS	2217	yhgF		COG2183	Protein YhgF
+NBFAOAKO_00125	gene	1953	yheS			
+NBFAOAKO_00125	CDS	1953	yheS		COG0488	putative ABC transporter ATP-binding protein YheS
+NBFAOAKO_00126	gene	2037	pepO			
+NBFAOAKO_00126	CDS	2037	pepO	3.4.24.-	COG3590	Neutral endopeptidase
+NBFAOAKO_00127	gene	1491	algC_1			
+NBFAOAKO_00127	CDS	1491	algC_1	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+NBFAOAKO_00128	gene	252				
+NBFAOAKO_00128	CDS	252				hypothetical protein
+NBFAOAKO_00129	gene	606				
+NBFAOAKO_00129	CDS	606				hypothetical protein
+NBFAOAKO_00130	gene	678				
+NBFAOAKO_00130	CDS	678				hypothetical protein
+NBFAOAKO_00131	gene	585				
+NBFAOAKO_00131	CDS	585				hypothetical protein
+NBFAOAKO_00132	gene	483				
+NBFAOAKO_00132	CDS	483				hypothetical protein
+NBFAOAKO_00133	gene	747				
+NBFAOAKO_00133	CDS	747				hypothetical protein
+NBFAOAKO_00134	gene	432	rnpA			
+NBFAOAKO_00134	CDS	432	rnpA	3.1.26.5		Ribonuclease P protein component
+NBFAOAKO_00135	gene	240				
+NBFAOAKO_00135	CDS	240			COG0759	Putative membrane protein insertion efficiency factor
+NBFAOAKO_00136	gene	1305	tyrS			
+NBFAOAKO_00136	CDS	1305	tyrS	6.1.1.1		Tyrosine--tRNA ligase
+NBFAOAKO_00137	gene	621				
+NBFAOAKO_00137	CDS	621				hypothetical protein
+NBFAOAKO_00138	gene	981	ribD			
+NBFAOAKO_00138	CDS	981	ribD		COG0117	Riboflavin biosynthesis protein RibD
+NBFAOAKO_00139	gene	1311	eno			
+NBFAOAKO_00139	CDS	1311	eno	4.2.1.11		Enolase
+NBFAOAKO_00140	gene	399	glpE			
+NBFAOAKO_00140	CDS	399	glpE	2.8.1.1		Thiosulfate sulfurtransferase GlpE
+NBFAOAKO_00141	gene	417				
+NBFAOAKO_00141	CDS	417				hypothetical protein
+NBFAOAKO_00142	gene	1125	dnaN			
+NBFAOAKO_00142	CDS	1125	dnaN			Beta sliding clamp
+NBFAOAKO_00143	gene	855	dinG_1			
+NBFAOAKO_00143	CDS	855	dinG_1	3.1.-.-		3'-5' exonuclease DinG
+NBFAOAKO_00144	gene	1212	undec1A			
+NBFAOAKO_00144	CDS	1212	undec1A	4.1.1.-		Cysteine/Cysteine sulfinic acid decarboxylase
+NBFAOAKO_00145	gene	903				
+NBFAOAKO_00145	CDS	903				hypothetical protein
+NBFAOAKO_00146	gene	1668	recN			
+NBFAOAKO_00146	CDS	1668	recN		COG0497	DNA repair protein RecN
+NBFAOAKO_00147	gene	1647				
+NBFAOAKO_00147	CDS	1647				hypothetical protein
+NBFAOAKO_00148	gene	999				
+NBFAOAKO_00148	CDS	999				hypothetical protein
+NBFAOAKO_00149	gene	336				
+NBFAOAKO_00149	CDS	336				hypothetical protein
+NBFAOAKO_00150	gene	240				
+NBFAOAKO_00150	CDS	240				hypothetical protein
+NBFAOAKO_00151	gene	2760				
+NBFAOAKO_00151	CDS	2760				hypothetical protein
+NBFAOAKO_00152	gene	204				
+NBFAOAKO_00152	CDS	204				hypothetical protein
+NBFAOAKO_00153	gene	4116				
+NBFAOAKO_00153	CDS	4116				hypothetical protein
+NBFAOAKO_00154	gene	681				
+NBFAOAKO_00154	CDS	681				hypothetical protein
+NBFAOAKO_00155	gene	507				
+NBFAOAKO_00155	CDS	507				hypothetical protein
+NBFAOAKO_00156	gene	243				
+NBFAOAKO_00156	CDS	243				hypothetical protein
+NBFAOAKO_00157	gene	90				
+NBFAOAKO_00157	CDS	90				hypothetical protein
+NBFAOAKO_00158	gene	1380				
+NBFAOAKO_00158	CDS	1380				hypothetical protein
+NBFAOAKO_00159	gene	453				
+NBFAOAKO_00159	CDS	453				hypothetical protein
+NBFAOAKO_00160	gene	1128				
+NBFAOAKO_00160	CDS	1128				hypothetical protein
+NBFAOAKO_00161	gene	1050	dusB			
+NBFAOAKO_00161	CDS	1050	dusB	1.3.1.-		tRNA-dihydrouridine synthase B
+NBFAOAKO_00162	gene	2196				
+NBFAOAKO_00162	CDS	2196				hypothetical protein
+NBFAOAKO_00163	gene	1518	gpmI			
+NBFAOAKO_00163	CDS	1518	gpmI	5.4.2.12	COG0696	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+NBFAOAKO_00164	gene	747	ung			
+NBFAOAKO_00164	CDS	747	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+NBFAOAKO_00165	gene	621				
+NBFAOAKO_00165	CDS	621				hypothetical protein
+NBFAOAKO_00166	gene	879				
+NBFAOAKO_00166	CDS	879				hypothetical protein
+NBFAOAKO_00167	gene	1389	gyrB_1			
+NBFAOAKO_00167	CDS	1389	gyrB_1	5.6.2.2	COG0187	DNA gyrase subunit B
+NBFAOAKO_00168	gene	780				
+NBFAOAKO_00168	CDS	780				hypothetical protein
+NBFAOAKO_00169	gene	603				
+NBFAOAKO_00169	CDS	603				hypothetical protein
+NBFAOAKO_00170	gene	318	rpsO			
+NBFAOAKO_00170	CDS	318	rpsO		COG0184	30S ribosomal protein S15
+NBFAOAKO_00171	gene	2508				
+NBFAOAKO_00171	CDS	2508				hypothetical protein
+NBFAOAKO_00172	gene	741	mtnN			
+NBFAOAKO_00172	CDS	741	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+NBFAOAKO_00173	gene	480	luxS			
+NBFAOAKO_00173	CDS	480	luxS	4.4.1.21	COG1854	S-ribosylhomocysteine lyase
+NBFAOAKO_00174	gene	1467	dinF			
+NBFAOAKO_00174	CDS	1467	dinF		COG0534	DNA damage-inducible protein F
+NBFAOAKO_00175	gene	1851	typA			
+NBFAOAKO_00175	CDS	1851	typA		COG1217	GTP-binding protein TypA/BipA
+NBFAOAKO_00176	gene	435	nudC_1			
+NBFAOAKO_00176	CDS	435	nudC_1	3.6.1.22		NADH pyrophosphatase
+NBFAOAKO_00177	gene	852				
+NBFAOAKO_00177	CDS	852				hypothetical protein
+NBFAOAKO_00178	gene	2409				
+NBFAOAKO_00178	CDS	2409		5.1.1.1		Alanine racemase
+NBFAOAKO_00179	gene	282				
+NBFAOAKO_00179	CDS	282				hypothetical protein
+NBFAOAKO_00180	gene	726				
+NBFAOAKO_00180	CDS	726				hypothetical protein
+NBFAOAKO_00181	gene	810	psd			
+NBFAOAKO_00181	CDS	810	psd	4.1.1.65		Phosphatidylserine decarboxylase proenzyme
+NBFAOAKO_00182	gene	438				
+NBFAOAKO_00182	CDS	438				hypothetical protein
+NBFAOAKO_00183	gene	735				
+NBFAOAKO_00183	CDS	735				hypothetical protein
+NBFAOAKO_00184	gene	411	tsaE			
+NBFAOAKO_00184	CDS	411	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NBFAOAKO_00185	gene	1569	cheB			
+NBFAOAKO_00185	CDS	1569	cheB	3.5.1.44		Protein-glutamate methylesterase/protein-glutamine glutaminase
+NBFAOAKO_00186	gene	3387	bamD			
+NBFAOAKO_00186	CDS	3387	bamD			Outer membrane protein assembly factor BamD
+NBFAOAKO_00187	gene	393				
+NBFAOAKO_00187	CDS	393				hypothetical protein
+NBFAOAKO_00188	gene	1251	aroA			
+NBFAOAKO_00188	CDS	1251	aroA	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase
+NBFAOAKO_00189	gene	1167				
+NBFAOAKO_00189	CDS	1167				hypothetical protein
+NBFAOAKO_00190	gene	471				
+NBFAOAKO_00190	CDS	471				hypothetical protein
+NBFAOAKO_00191	gene	99				
+NBFAOAKO_00191	CDS	99				hypothetical protein
+NBFAOAKO_00192	gene	840				
+NBFAOAKO_00192	CDS	840				hypothetical protein
+NBFAOAKO_00193	gene	852				
+NBFAOAKO_00193	CDS	852				hypothetical protein
+NBFAOAKO_00194	gene	74				
+NBFAOAKO_00194	tRNA	74				tRNA-Pro(ggg)
+NBFAOAKO_00195	gene	74				
+NBFAOAKO_00195	tRNA	74				tRNA-Lys(ttt)
+NBFAOAKO_00196	gene	1134				
+NBFAOAKO_00196	CDS	1134				hypothetical protein
+NBFAOAKO_00197	gene	585	tdk			
+NBFAOAKO_00197	CDS	585	tdk	2.7.1.21	COG1435	Thymidine kinase
+NBFAOAKO_00198	gene	1866				
+NBFAOAKO_00198	CDS	1866				hypothetical protein
+NBFAOAKO_00199	gene	1209	ribBA			
+NBFAOAKO_00199	CDS	1209	ribBA		COG0108	Riboflavin biosynthesis protein RibBA
+NBFAOAKO_00200	gene	1995	glgB			
+NBFAOAKO_00200	CDS	1995	glgB	2.4.1.18		1,4-alpha-glucan branching enzyme GlgB
+NBFAOAKO_00201	gene	1959	pulA			
+NBFAOAKO_00201	CDS	1959	pulA	3.2.1.41	COG1523	Pullulanase
+NBFAOAKO_00202	gene	2220	susB			
+NBFAOAKO_00202	CDS	2220	susB	3.2.1.3		Glucan 1,4-alpha-glucosidase SusB
+NBFAOAKO_00203	gene	2730				
+NBFAOAKO_00203	CDS	2730				hypothetical protein
+NBFAOAKO_00204	gene	240				
+NBFAOAKO_00204	CDS	240				hypothetical protein
+NBFAOAKO_00205	gene	1416				
+NBFAOAKO_00205	CDS	1416				hypothetical protein
+NBFAOAKO_00206	gene	1218				
+NBFAOAKO_00206	CDS	1218				hypothetical protein
+NBFAOAKO_00207	gene	2058				
+NBFAOAKO_00207	CDS	2058				hypothetical protein
+NBFAOAKO_00208	gene	93				
+NBFAOAKO_00208	CDS	93				hypothetical protein
+NBFAOAKO_00209	gene	237				
+NBFAOAKO_00209	CDS	237				hypothetical protein
+NBFAOAKO_00210	gene	327				
+NBFAOAKO_00210	CDS	327				hypothetical protein
+NBFAOAKO_00211	gene	108				
+NBFAOAKO_00211	CDS	108				hypothetical protein
+NBFAOAKO_00212	gene	3291	rapA			
+NBFAOAKO_00212	CDS	3291	rapA	3.6.4.-		RNA polymerase-associated protein RapA
+NBFAOAKO_00213	gene	510	pspA			
+NBFAOAKO_00213	CDS	510	pspA	3.1.3.3	COG0406	Phosphoserine phosphatase 1
+NBFAOAKO_00214	gene	1746				
+NBFAOAKO_00214	CDS	1746				hypothetical protein
+NBFAOAKO_00215	gene	861				
+NBFAOAKO_00215	CDS	861				hypothetical protein
+NBFAOAKO_00216	gene	405				
+NBFAOAKO_00216	CDS	405				hypothetical protein
+NBFAOAKO_00217	gene	1446				
+NBFAOAKO_00217	CDS	1446				hypothetical protein
+NBFAOAKO_00218	gene	474				
+NBFAOAKO_00218	CDS	474				hypothetical protein
+NBFAOAKO_00219	gene	447				
+NBFAOAKO_00219	CDS	447				hypothetical protein
+NBFAOAKO_00220	gene	876				
+NBFAOAKO_00220	CDS	876				hypothetical protein
+NBFAOAKO_00221	gene	3024				
+NBFAOAKO_00221	CDS	3024				hypothetical protein
+NBFAOAKO_00222	gene	1059	mfd			
+NBFAOAKO_00222	CDS	1059	mfd	3.6.4.-	COG1197	Transcription-repair-coupling factor
+NBFAOAKO_00223	gene	150				
+NBFAOAKO_00223	CDS	150				hypothetical protein
+NBFAOAKO_00224	gene	1023				
+NBFAOAKO_00224	CDS	1023				hypothetical protein
+NBFAOAKO_00225	gene	477				
+NBFAOAKO_00225	CDS	477				hypothetical protein
+NBFAOAKO_00226	gene	420				
+NBFAOAKO_00226	CDS	420				hypothetical protein
+NBFAOAKO_00227	gene	261				
+NBFAOAKO_00227	CDS	261				hypothetical protein
+NBFAOAKO_00228	gene	174				
+NBFAOAKO_00228	CDS	174				hypothetical protein
+NBFAOAKO_00229	gene	1527	dgt			
+NBFAOAKO_00229	CDS	1527	dgt	3.1.5.1		Deoxyguanosinetriphosphate triphosphohydrolase
+NBFAOAKO_00230	gene	438	dut			
+NBFAOAKO_00230	CDS	438	dut	3.6.1.23		Deoxyuridine 5'-triphosphate nucleotidohydrolase
+NBFAOAKO_00231	gene	1779	bepA_1			
+NBFAOAKO_00231	CDS	1779	bepA_1	3.4.-.-		Beta-barrel assembly-enhancing protease
+NBFAOAKO_00232	gene	888				
+NBFAOAKO_00232	CDS	888				hypothetical protein
+NBFAOAKO_00233	gene	1650				
+NBFAOAKO_00233	CDS	1650				hypothetical protein
+NBFAOAKO_00234	gene	2517				
+NBFAOAKO_00234	CDS	2517				hypothetical protein
+NBFAOAKO_00235	gene	102				
+NBFAOAKO_00235	CDS	102				hypothetical protein
+NBFAOAKO_00236	gene	840				
+NBFAOAKO_00236	CDS	840				hypothetical protein
+NBFAOAKO_00237	gene	408				
+NBFAOAKO_00237	CDS	408				hypothetical protein
+NBFAOAKO_00238	gene	2052				
+NBFAOAKO_00238	CDS	2052				hypothetical protein
+NBFAOAKO_00239	gene	879				
+NBFAOAKO_00239	CDS	879				hypothetical protein
+NBFAOAKO_00240	gene	75				
+NBFAOAKO_00240	tRNA	75				tRNA-Asn(gtt)
+NBFAOAKO_00241	gene	1734				
+NBFAOAKO_00241	CDS	1734				hypothetical protein
+NBFAOAKO_00242	gene	246				
+NBFAOAKO_00242	CDS	246				hypothetical protein
+NBFAOAKO_00243	gene	1179				
+NBFAOAKO_00243	CDS	1179				hypothetical protein
+NBFAOAKO_00244	gene	1356				
+NBFAOAKO_00244	CDS	1356				hypothetical protein
+NBFAOAKO_00245	gene	936				
+NBFAOAKO_00245	CDS	936				hypothetical protein
+NBFAOAKO_00246	gene	1566				
+NBFAOAKO_00246	CDS	1566				hypothetical protein
+NBFAOAKO_00247	gene	3327				
+NBFAOAKO_00247	CDS	3327				TonB-dependent receptor P26
+NBFAOAKO_00248	gene	291				
+NBFAOAKO_00248	CDS	291				hypothetical protein
+NBFAOAKO_00249	gene	606	rnhB			
+NBFAOAKO_00249	CDS	606	rnhB	3.1.26.4	COG0164	Ribonuclease HII
+NBFAOAKO_00250	gene	1023				
+NBFAOAKO_00250	CDS	1023				hypothetical protein
+NBFAOAKO_00251	gene	2916				
+NBFAOAKO_00251	CDS	2916				hypothetical protein
+NBFAOAKO_00252	gene	480				
+NBFAOAKO_00252	CDS	480				hypothetical protein
+NBFAOAKO_00253	gene	291				
+NBFAOAKO_00253	CDS	291				hypothetical protein
+NBFAOAKO_00254	gene	4803				
+NBFAOAKO_00254	CDS	4803				hypothetical protein
+NBFAOAKO_00255	gene	1230				
+NBFAOAKO_00255	CDS	1230				hypothetical protein
+NBFAOAKO_00256	gene	558				
+NBFAOAKO_00256	CDS	558				hypothetical protein
+NBFAOAKO_00257	gene	786	tcdA			
+NBFAOAKO_00257	CDS	786	tcdA	6.1.-.-	COG1179	tRNA threonylcarbamoyladenosine dehydratase
+NBFAOAKO_00258	gene	450				
+NBFAOAKO_00258	CDS	450				hypothetical protein
+NBFAOAKO_00259	gene	102				
+NBFAOAKO_00259	CDS	102				hypothetical protein
+NBFAOAKO_00260	gene	2115				
+NBFAOAKO_00260	CDS	2115				hypothetical protein
+NBFAOAKO_00261	gene	468				
+NBFAOAKO_00261	CDS	468				hypothetical protein
+NBFAOAKO_00262	gene	1887				
+NBFAOAKO_00262	CDS	1887				hypothetical protein
+NBFAOAKO_00263	gene	1260	adeP			
+NBFAOAKO_00263	CDS	1260	adeP		COG2252	Adenine permease AdeP
+NBFAOAKO_00264	gene	849				
+NBFAOAKO_00264	CDS	849				hypothetical protein
+NBFAOAKO_00265	gene	429				
+NBFAOAKO_00265	CDS	429				hypothetical protein
+NBFAOAKO_00266	gene	339				
+NBFAOAKO_00266	CDS	339				hypothetical protein
+NBFAOAKO_00267	gene	465	queF			
+NBFAOAKO_00267	CDS	465	queF	1.7.1.13	COG0780	NADPH-dependent 7-cyano-7-deazaguanine reductase
+NBFAOAKO_00268	gene	1017				
+NBFAOAKO_00268	CDS	1017				hypothetical protein
+NBFAOAKO_00269	gene	555	polC_1			
+NBFAOAKO_00269	CDS	555	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+NBFAOAKO_00270	gene	1197				
+NBFAOAKO_00270	CDS	1197				hypothetical protein
+NBFAOAKO_00271	gene	99				
+NBFAOAKO_00271	CDS	99				hypothetical protein
+NBFAOAKO_00272	gene	261				
+NBFAOAKO_00272	CDS	261				hypothetical protein
+NBFAOAKO_00273	gene	2943				
+NBFAOAKO_00273	CDS	2943				hypothetical protein
+NBFAOAKO_00274	gene	570	purN			
+NBFAOAKO_00274	CDS	570	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+NBFAOAKO_00275	gene	489				
+NBFAOAKO_00275	CDS	489				hypothetical protein
+NBFAOAKO_00276	gene	618	pth			
+NBFAOAKO_00276	CDS	618	pth	3.1.1.29		Peptidyl-tRNA hydrolase
+NBFAOAKO_00277	gene	612	ctc			
+NBFAOAKO_00277	CDS	612	ctc		COG1825	General stress protein CTC
+NBFAOAKO_00278	gene	1002	nusB			
+NBFAOAKO_00278	CDS	1002	nusB			Transcription antitermination protein NusB
+NBFAOAKO_00279	gene	330				
+NBFAOAKO_00279	CDS	330				hypothetical protein
+NBFAOAKO_00280	gene	273				
+NBFAOAKO_00280	CDS	273				hypothetical protein
+NBFAOAKO_00281	gene	1671	mutS_2			
+NBFAOAKO_00281	CDS	1671	mutS_2			DNA mismatch repair protein MutS
+NBFAOAKO_00282	gene	1182	purH_1			
+NBFAOAKO_00282	CDS	1182	purH_1		COG0138	Bifunctional purine biosynthesis protein PurH
+NBFAOAKO_00283	gene	192				
+NBFAOAKO_00283	CDS	192				hypothetical protein
+NBFAOAKO_00284	gene	339				
+NBFAOAKO_00284	CDS	339				hypothetical protein
+NBFAOAKO_00285	gene	1200	mgl			
+NBFAOAKO_00285	CDS	1200	mgl	4.4.1.11	COG0626	L-methionine gamma-lyase
+NBFAOAKO_00286	gene	1002	fda			
+NBFAOAKO_00286	CDS	1002	fda	4.1.2.13	COG0191	Fructose-bisphosphate aldolase
+NBFAOAKO_00287	gene	243				
+NBFAOAKO_00287	CDS	243				hypothetical protein
+NBFAOAKO_00288	gene	1077				
+NBFAOAKO_00288	CDS	1077				hypothetical protein
+NBFAOAKO_00289	gene	735				
+NBFAOAKO_00289	CDS	735				hypothetical protein
+NBFAOAKO_00290	gene	1557	nnr			
+NBFAOAKO_00290	CDS	1557	nnr		COG0062	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+NBFAOAKO_00291	gene	537	hpt			
+NBFAOAKO_00291	CDS	537	hpt	2.4.2.8	COG0634	Hypoxanthine phosphoribosyltransferase
+NBFAOAKO_00292	gene	567	adk			
+NBFAOAKO_00292	CDS	567	adk	2.7.4.3	COG0563	Adenylate kinase
+NBFAOAKO_00293	gene	1152	obg			
+NBFAOAKO_00293	CDS	1152	obg	3.6.5.-		GTPase Obg
+NBFAOAKO_00294	gene	813				
+NBFAOAKO_00294	CDS	813		1.10.3.-	COG1496	Polyphenol oxidase
+NBFAOAKO_00295	gene	549				
+NBFAOAKO_00295	CDS	549				hypothetical protein
+NBFAOAKO_00296	gene	150				
+NBFAOAKO_00296	CDS	150				hypothetical protein
+NBFAOAKO_00297	gene	1449	f1pep1			
+NBFAOAKO_00297	CDS	1449	f1pep1	3.4.21.26		Prolyl endopeptidase
+NBFAOAKO_00298	gene	768				
+NBFAOAKO_00298	CDS	768				hypothetical protein
+NBFAOAKO_00299	gene	744				
+NBFAOAKO_00299	CDS	744				hypothetical protein
+NBFAOAKO_00300	gene	2601	clpB1			
+NBFAOAKO_00300	CDS	2601	clpB1		COG0542	Chaperone protein ClpB 1
+NBFAOAKO_00301	gene	1257				
+NBFAOAKO_00301	CDS	1257				hypothetical protein
+NBFAOAKO_00302	gene	2181	recQ			
+NBFAOAKO_00302	CDS	2181	recQ	3.6.4.12	COG0514	ATP-dependent DNA helicase RecQ
+NBFAOAKO_00303	gene	1230	clpX_2			
+NBFAOAKO_00303	CDS	1230	clpX_2		COG1219	ATP-dependent Clp protease ATP-binding subunit ClpX
+NBFAOAKO_00304	gene	666	clpP			
+NBFAOAKO_00304	CDS	666	clpP	3.4.21.92	COG0740	ATP-dependent Clp protease proteolytic subunit
+NBFAOAKO_00305	gene	1356	tig			
+NBFAOAKO_00305	CDS	1356	tig	5.2.1.8		Trigger factor
+NBFAOAKO_00306	gene	198				
+NBFAOAKO_00306	CDS	198				hypothetical protein
+NBFAOAKO_00307	gene	1428	cysG_1			
+NBFAOAKO_00307	CDS	1428	cysG_1	4.99.1.4		Siroheme synthase
+NBFAOAKO_00308	gene	1233	cbiET			
+NBFAOAKO_00308	CDS	1233	cbiET		COG2241	Cobalamin biosynthesis bifunctional protein CbiET
+NBFAOAKO_00309	gene	1767	cysG_2			
+NBFAOAKO_00309	CDS	1767	cysG_2	4.99.1.4		Siroheme synthase
+NBFAOAKO_00310	gene	2229	cbiD			
+NBFAOAKO_00310	CDS	2229	cbiD	2.1.1.195		Cobalt-precorrin-5B C(1)-methyltransferase
+NBFAOAKO_00311	gene	1137				
+NBFAOAKO_00311	CDS	1137				hypothetical protein
+NBFAOAKO_00312	gene	1023	hmuU_1			
+NBFAOAKO_00312	CDS	1023	hmuU_1		COG0609	Hemin transport system permease protein HmuU
+NBFAOAKO_00313	gene	696				
+NBFAOAKO_00313	CDS	696				hypothetical protein
+NBFAOAKO_00314	gene	2106	recD2_1			
+NBFAOAKO_00314	CDS	2106	recD2_1	3.6.4.12		ATP-dependent RecD-like DNA helicase
+NBFAOAKO_00315	gene	450	korB			
+NBFAOAKO_00315	CDS	450	korB	1.2.7.3	COG1013	2-oxoglutarate oxidoreductase subunit KorB
+NBFAOAKO_00316	gene	513				
+NBFAOAKO_00316	CDS	513				hypothetical protein
+NBFAOAKO_00317	gene	594				
+NBFAOAKO_00317	CDS	594				hypothetical protein
+NBFAOAKO_00318	gene	558				
+NBFAOAKO_00318	CDS	558		3.2.2.-	COG1611	Putative cytokinin riboside 5'-monophosphate phosphoribohydrolase
+NBFAOAKO_00319	gene	1866	deaD_1			
+NBFAOAKO_00319	CDS	1866	deaD_1	3.6.4.13		ATP-dependent RNA helicase DeaD
+NBFAOAKO_00320	gene	1377				
+NBFAOAKO_00320	CDS	1377				hypothetical protein
+NBFAOAKO_00321	gene	1227				
+NBFAOAKO_00321	CDS	1227		3.1.3.3	COG0560	Phosphoserine phosphatase
+NBFAOAKO_00322	gene	426				
+NBFAOAKO_00322	CDS	426				hypothetical protein
+NBFAOAKO_00323	gene	777	dapB			
+NBFAOAKO_00323	CDS	777	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+NBFAOAKO_00324	gene	141				
+NBFAOAKO_00324	CDS	141				hypothetical protein
+NBFAOAKO_00325	gene	1440				
+NBFAOAKO_00325	CDS	1440				hypothetical protein
+NBFAOAKO_00326	gene	411				
+NBFAOAKO_00326	CDS	411				hypothetical protein
+NBFAOAKO_00327	gene	606				
+NBFAOAKO_00327	CDS	606				hypothetical protein
+NBFAOAKO_00328	gene	1218	pyrP			
+NBFAOAKO_00328	CDS	1218	pyrP			Uracil permease
+NBFAOAKO_00329	gene	744				
+NBFAOAKO_00329	CDS	744				hypothetical protein
+NBFAOAKO_00330	gene	387				
+NBFAOAKO_00330	CDS	387				hypothetical protein
+NBFAOAKO_00331	gene	1794				
+NBFAOAKO_00331	CDS	1794				hypothetical protein
+NBFAOAKO_00332	gene	492				
+NBFAOAKO_00332	CDS	492				hypothetical protein
+NBFAOAKO_00333	gene	1287				
+NBFAOAKO_00333	CDS	1287				hypothetical protein
+NBFAOAKO_00334	gene	507	recX			
+NBFAOAKO_00334	CDS	507	recX			Regulatory protein RecX
+NBFAOAKO_00335	gene	894	prmB			
+NBFAOAKO_00335	CDS	894	prmB	2.1.1.298	COG2890	50S ribosomal protein L3 glutamine methyltransferase
+NBFAOAKO_00336	gene	1005	hmuU_2			
+NBFAOAKO_00336	CDS	1005	hmuU_2		COG0609	Hemin transport system permease protein HmuU
+NBFAOAKO_00337	gene	1173				
+NBFAOAKO_00337	CDS	1173				hypothetical protein
+NBFAOAKO_00338	gene	4590				
+NBFAOAKO_00338	CDS	4590				hypothetical protein
+NBFAOAKO_00339	gene	3531	rpoB			
+NBFAOAKO_00339	CDS	3531	rpoB	2.7.7.6	COG0085	DNA-directed RNA polymerase subunit beta
+NBFAOAKO_00340	gene	4329	rpoC			
+NBFAOAKO_00340	CDS	4329	rpoC	2.7.7.6	COG0086	DNA-directed RNA polymerase subunit beta'
+NBFAOAKO_00341	gene	1089	trpS2			
+NBFAOAKO_00341	CDS	1089	trpS2	6.1.1.2	COG0180	Tryptophan--tRNA ligase 2
+NBFAOAKO_00342	gene	321				
+NBFAOAKO_00342	CDS	321				hypothetical protein
+NBFAOAKO_00343	gene	630				
+NBFAOAKO_00343	CDS	630				hypothetical protein
+NBFAOAKO_00344	gene	636				
+NBFAOAKO_00344	CDS	636				hypothetical protein
+NBFAOAKO_00345	gene	1221				
+NBFAOAKO_00345	CDS	1221				hypothetical protein
+NBFAOAKO_00346	gene	642				
+NBFAOAKO_00346	CDS	642				hypothetical protein
+NBFAOAKO_00347	gene	1401	algC_2			
+NBFAOAKO_00347	CDS	1401	algC_2	5.4.2.2	COG1109	Phosphomannomutase/phosphoglucomutase
+NBFAOAKO_00348	gene	162				
+NBFAOAKO_00348	CDS	162				hypothetical protein
+NBFAOAKO_00349	gene	1533	pafA			
+NBFAOAKO_00349	CDS	1533	pafA	3.1.3.1		Alkaline phosphatase PafA
+NBFAOAKO_00350	gene	7554				
+NBFAOAKO_00350	CDS	7554				hypothetical protein
+NBFAOAKO_00351	gene	606	ruvA			
+NBFAOAKO_00351	CDS	606	ruvA	3.6.4.12	COG0632	Holliday junction ATP-dependent DNA helicase RuvA
+NBFAOAKO_00352	gene	354				
+NBFAOAKO_00352	CDS	354				hypothetical protein
+NBFAOAKO_00353	gene	558	rsmD			
+NBFAOAKO_00353	CDS	558	rsmD	2.1.1.171	COG0742	Ribosomal RNA small subunit methyltransferase D
+NBFAOAKO_00354	gene	861				
+NBFAOAKO_00354	CDS	861				hypothetical protein
+NBFAOAKO_00355	gene	492				
+NBFAOAKO_00355	CDS	492				hypothetical protein
+NBFAOAKO_00356	gene	1440	recD2_2			
+NBFAOAKO_00356	CDS	1440	recD2_2	3.6.4.12		ATP-dependent RecD-like DNA helicase
+NBFAOAKO_00357	gene	579				
+NBFAOAKO_00357	CDS	579				hypothetical protein
+NBFAOAKO_00358	gene	1038	nrnA			
+NBFAOAKO_00358	CDS	1038	nrnA	3.1.-.-	COG0618	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+NBFAOAKO_00359	gene	339	dnaG_1			
+NBFAOAKO_00359	CDS	339	dnaG_1	2.7.7.-	COG0358	DNA primase
+NBFAOAKO_00360	gene	1938	dnaG_2			
+NBFAOAKO_00360	CDS	1938	dnaG_2	2.7.7.-		DNA primase
+NBFAOAKO_00361	gene	330				
+NBFAOAKO_00361	CDS	330				hypothetical protein
+NBFAOAKO_00362	gene	660	queE			
+NBFAOAKO_00362	CDS	660	queE	4.3.99.3		7-carboxy-7-deazaguanine synthase
+NBFAOAKO_00363	gene	1410	clsA			
+NBFAOAKO_00363	CDS	1410	clsA	2.7.8.-	COG1502	Major cardiolipin synthase ClsA
+NBFAOAKO_00364	gene	1446	bamA_1			
+NBFAOAKO_00364	CDS	1446	bamA_1			Outer membrane protein assembly factor BamA
+NBFAOAKO_00365	gene	345				
+NBFAOAKO_00365	CDS	345				hypothetical protein
+NBFAOAKO_00366	gene	75				
+NBFAOAKO_00366	tRNA	75				tRNA-Met(cat)
+NBFAOAKO_00367	gene	693				
+NBFAOAKO_00367	CDS	693				hypothetical protein
+NBFAOAKO_00368	gene	486	resA_1			
+NBFAOAKO_00368	CDS	486	resA_1			Thiol-disulfide oxidoreductase ResA
+NBFAOAKO_00369	gene	1659				
+NBFAOAKO_00369	CDS	1659				hypothetical protein
+NBFAOAKO_00370	gene	786				
+NBFAOAKO_00370	CDS	786				hypothetical protein
+NBFAOAKO_00371	gene	639				
+NBFAOAKO_00371	CDS	639				hypothetical protein
+NBFAOAKO_00372	gene	1419	aspA			
+NBFAOAKO_00372	CDS	1419	aspA	4.3.1.1	COG1027	Aspartate ammonia-lyase
+NBFAOAKO_00373	gene	726	mhqN			
+NBFAOAKO_00373	CDS	726	mhqN	1.-.-.-	COG0778	Putative NAD(P)H nitroreductase MhqN
+NBFAOAKO_00374	gene	378				
+NBFAOAKO_00374	CDS	378				hypothetical protein
+NBFAOAKO_00375	gene	753				
+NBFAOAKO_00375	CDS	753				hypothetical protein
+NBFAOAKO_00376	gene	747				
+NBFAOAKO_00376	CDS	747				hypothetical protein
+NBFAOAKO_00377	gene	105				
+NBFAOAKO_00377	CDS	105				hypothetical protein
+NBFAOAKO_00378	gene	870	nhaA			
+NBFAOAKO_00378	CDS	870	nhaA		COG3004	Na(+)/H(+) antiporter NhaA
+NBFAOAKO_00379	gene	1452				
+NBFAOAKO_00379	CDS	1452				hypothetical protein
+NBFAOAKO_00380	gene	726				
+NBFAOAKO_00380	CDS	726				hypothetical protein
+NBFAOAKO_00381	gene	846	yvgN			
+NBFAOAKO_00381	CDS	846	yvgN	1.1.1.-	COG0656	Glyoxal reductase
+NBFAOAKO_00382	gene	825	rhaR			
+NBFAOAKO_00382	CDS	825	rhaR			HTH-type transcriptional activator RhaR
+NBFAOAKO_00383	gene	1311	murF			
+NBFAOAKO_00383	CDS	1311	murF	6.3.2.10	COG0770	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NBFAOAKO_00384	gene	885	folP			
+NBFAOAKO_00384	CDS	885	folP	2.5.1.15	COG0294	Dihydropteroate synthase
+NBFAOAKO_00385	gene	765	cdaA			
+NBFAOAKO_00385	CDS	765	cdaA	2.7.7.85	COG1624	Cyclic di-AMP synthase CdaA
+NBFAOAKO_00386	gene	1008	pta_1			
+NBFAOAKO_00386	CDS	1008	pta_1	2.3.1.8		Phosphate acetyltransferase
+NBFAOAKO_00387	gene	1194	ackA			
+NBFAOAKO_00387	CDS	1194	ackA	2.7.2.1	COG0282	Acetate kinase
+NBFAOAKO_00388	gene	468				
+NBFAOAKO_00388	CDS	468				hypothetical protein
+NBFAOAKO_00389	gene	1239				
+NBFAOAKO_00389	CDS	1239		4.3.1.2		Methylaspartate ammonia-lyase
+NBFAOAKO_00390	gene	1380				
+NBFAOAKO_00390	CDS	1380				hypothetical protein
+NBFAOAKO_00391	gene	321				
+NBFAOAKO_00391	CDS	321				hypothetical protein
+NBFAOAKO_00392	gene	945				
+NBFAOAKO_00392	CDS	945				hypothetical protein
+NBFAOAKO_00393	gene	843	ttdA			
+NBFAOAKO_00393	CDS	843	ttdA	4.2.1.32	COG1951	L(+)-tartrate dehydratase subunit alpha
+NBFAOAKO_00394	gene	558	fumB			
+NBFAOAKO_00394	CDS	558	fumB	4.2.1.2	COG1838	Fumarate hydratase class I, anaerobic
+NBFAOAKO_00395	gene	1509	scpC			
+NBFAOAKO_00395	CDS	1509	scpC	2.8.3.-	COG0427	Propionyl-CoA:succinate CoA transferase
+NBFAOAKO_00396	gene	423				
+NBFAOAKO_00396	CDS	423				hypothetical protein
+NBFAOAKO_00397	gene	2940	rcsC_1			
+NBFAOAKO_00397	CDS	2940	rcsC_1	2.7.13.3		Sensor histidine kinase RcsC
+NBFAOAKO_00398	gene	879				
+NBFAOAKO_00398	CDS	879			COG2826	IS30 family transposase IS4351
+NBFAOAKO_00399	gene	1215	norR			
+NBFAOAKO_00399	CDS	1215	norR			Anaerobic nitric oxide reductase transcription regulator NorR
+NBFAOAKO_00400	gene	1698	eptC			
+NBFAOAKO_00400	CDS	1698	eptC	2.7.-.-	COG2194	Phosphoethanolamine transferase EptC
+NBFAOAKO_00401	gene	462	ndk			
+NBFAOAKO_00401	CDS	462	ndk	2.7.4.6		Nucleoside diphosphate kinase
+NBFAOAKO_00402	gene	3693				
+NBFAOAKO_00402	CDS	3693				hypothetical protein
+NBFAOAKO_00403	gene	1389	ampG			
+NBFAOAKO_00403	CDS	1389	ampG		COG0477	Anhydromuropeptide permease
+NBFAOAKO_00404	gene	909				
+NBFAOAKO_00404	CDS	909		3.5.1.77		N-carbamoyl-D-amino acid hydrolase
+NBFAOAKO_00405	gene	1044	aguA			
+NBFAOAKO_00405	CDS	1044	aguA	3.5.3.12	COG2957	Putative agmatine deiminase
+NBFAOAKO_00406	gene	135				
+NBFAOAKO_00406	CDS	135				hypothetical protein
+NBFAOAKO_00407	gene	528				
+NBFAOAKO_00407	CDS	528				hypothetical protein
+NBFAOAKO_00408	gene	741				
+NBFAOAKO_00408	CDS	741				hypothetical protein
+NBFAOAKO_00409	gene	264				
+NBFAOAKO_00409	CDS	264				hypothetical protein
+NBFAOAKO_00410	gene	1443	tuaB			
+NBFAOAKO_00410	CDS	1443	tuaB		COG2244	Teichuronic acid biosynthesis protein TuaB
+NBFAOAKO_00411	gene	1440				
+NBFAOAKO_00411	CDS	1440				hypothetical protein
+NBFAOAKO_00412	gene	594				
+NBFAOAKO_00412	CDS	594				hypothetical protein
+NBFAOAKO_00413	gene	879				
+NBFAOAKO_00413	CDS	879		2.4.2.45	COG0382	Decaprenyl-phosphate phosphoribosyltransferase
+NBFAOAKO_00414	gene	609				
+NBFAOAKO_00414	CDS	609				hypothetical protein
+NBFAOAKO_00415	gene	567	yajL			
+NBFAOAKO_00415	CDS	567	yajL	3.1.2.-	COG0693	Protein/nucleic acid deglycase 3
+NBFAOAKO_00416	gene	900	nadK			
+NBFAOAKO_00416	CDS	900	nadK	2.7.1.23		NAD kinase
+NBFAOAKO_00417	gene	1683				
+NBFAOAKO_00417	CDS	1683		3.6.3.-	COG1132	Putative multidrug export ATP-binding/permease protein
+NBFAOAKO_00418	gene	375				
+NBFAOAKO_00418	CDS	375				hypothetical protein
+NBFAOAKO_00419	gene	519				
+NBFAOAKO_00419	CDS	519				hypothetical protein
+NBFAOAKO_00420	gene	1287	ftsW			
+NBFAOAKO_00420	CDS	1287	ftsW	2.4.1.129	COG0772	putative peptidoglycan glycosyltransferase FtsW
+NBFAOAKO_00421	gene	1344	murD			
+NBFAOAKO_00421	CDS	1344	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NBFAOAKO_00422	gene	1272	mraY			
+NBFAOAKO_00422	CDS	1272	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+NBFAOAKO_00423	gene	1452	murE			
+NBFAOAKO_00423	CDS	1452	murE	6.3.2.13	COG0769	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+NBFAOAKO_00424	gene	2148	pbpB			
+NBFAOAKO_00424	CDS	2148	pbpB		COG0768	Penicillin-binding protein 2B
+NBFAOAKO_00425	gene	624				
+NBFAOAKO_00425	CDS	624				hypothetical protein
+NBFAOAKO_00426	gene	1032	rsmH			
+NBFAOAKO_00426	CDS	1032	rsmH	2.1.1.199	COG0275	Ribosomal RNA small subunit methyltransferase H
+NBFAOAKO_00427	gene	465	mraZ			
+NBFAOAKO_00427	CDS	465	mraZ			Transcriptional regulator MraZ
+NBFAOAKO_00428	gene	195	era			
+NBFAOAKO_00428	CDS	195	era		COG1159	GTPase Era
+NBFAOAKO_00429	gene	1317	der			
+NBFAOAKO_00429	CDS	1317	der		COG1160	GTPase Der
+NBFAOAKO_00430	gene	399				
+NBFAOAKO_00430	CDS	399				hypothetical protein
+NBFAOAKO_00431	gene	777	mkl			
+NBFAOAKO_00431	CDS	777	mkl		COG1127	putative ribonucleotide transport ATP-binding protein mkl
+NBFAOAKO_00432	gene	747	mlaE			
+NBFAOAKO_00432	CDS	747	mlaE		COG0767	Intermembrane phospholipid transport system permease protein MlaE
+NBFAOAKO_00433	gene	564				
+NBFAOAKO_00433	CDS	564				hypothetical protein
+NBFAOAKO_00434	gene	825	lptB			
+NBFAOAKO_00434	CDS	825	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+NBFAOAKO_00435	gene	609				
+NBFAOAKO_00435	CDS	609				hypothetical protein
+NBFAOAKO_00436	gene	939	prs			
+NBFAOAKO_00436	CDS	939	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+NBFAOAKO_00437	gene	582	resA_2			
+NBFAOAKO_00437	CDS	582	resA_2			Thiol-disulfide oxidoreductase ResA
+NBFAOAKO_00438	gene	3099				
+NBFAOAKO_00438	CDS	3099				hypothetical protein
+NBFAOAKO_00439	gene	399				
+NBFAOAKO_00439	CDS	399		3.6.1.25	COG2954	Inorganic triphosphatase
+NBFAOAKO_00440	gene	438				
+NBFAOAKO_00440	CDS	438				hypothetical protein
+NBFAOAKO_00441	gene	888				
+NBFAOAKO_00441	CDS	888				hypothetical protein
+NBFAOAKO_00442	gene	102				
+NBFAOAKO_00442	CDS	102				hypothetical protein
+NBFAOAKO_00443	gene	681				
+NBFAOAKO_00443	CDS	681				hypothetical protein
+NBFAOAKO_00444	gene	1176				
+NBFAOAKO_00444	CDS	1176				hypothetical protein
+NBFAOAKO_00445	gene	993	ddlA			
+NBFAOAKO_00445	CDS	993	ddlA	6.3.2.4	COG1181	D-alanine--D-alanine ligase A
+NBFAOAKO_00446	gene	1113	rluD_1			
+NBFAOAKO_00446	CDS	1113	rluD_1	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+NBFAOAKO_00447	gene	825				
+NBFAOAKO_00447	CDS	825				hypothetical protein
+NBFAOAKO_00448	gene	222				
+NBFAOAKO_00448	CDS	222				hypothetical protein
+NBFAOAKO_00449	gene	525	efp			
+NBFAOAKO_00449	CDS	525	efp		COG0231	Elongation factor P
+NBFAOAKO_00450	gene	1104				
+NBFAOAKO_00450	CDS	1104				hypothetical protein
+NBFAOAKO_00451	gene	702				
+NBFAOAKO_00451	CDS	702				hypothetical protein
+NBFAOAKO_00452	gene	321	sufT			
+NBFAOAKO_00452	CDS	321	sufT			Fe-S protein maturation auxiliary factor SufT
+NBFAOAKO_00453	gene	411	pepQ			
+NBFAOAKO_00453	CDS	411	pepQ	3.4.13.9		Xaa-Pro dipeptidase
+NBFAOAKO_00454	gene	1197				
+NBFAOAKO_00454	CDS	1197				hypothetical protein
+NBFAOAKO_00455	gene	480				
+NBFAOAKO_00455	CDS	480				hypothetical protein
+NBFAOAKO_00456	gene	1731	recJ			
+NBFAOAKO_00456	CDS	1731	recJ	3.1.-.-	COG0608	Single-stranded-DNA-specific exonuclease RecJ
+NBFAOAKO_00457	gene	1911	deaD_2			
+NBFAOAKO_00457	CDS	1911	deaD_2	3.6.4.13		ATP-dependent RNA helicase DeaD
+NBFAOAKO_00458	gene	813				
+NBFAOAKO_00458	CDS	813				hypothetical protein
+NBFAOAKO_00459	gene	1182				
+NBFAOAKO_00459	CDS	1182				Outer membrane protein 41
+NBFAOAKO_00460	gene	531	cobP			
+NBFAOAKO_00460	CDS	531	cobP	2.7.1.156		Bifunctional adenosylcobalamin biosynthesis protein CobP
+NBFAOAKO_00461	gene	1032	cobT			
+NBFAOAKO_00461	CDS	1032	cobT	2.4.2.21		Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+NBFAOAKO_00462	gene	792	cobS			
+NBFAOAKO_00462	CDS	792	cobS	2.7.8.26		Adenosylcobinamide-GDP ribazoletransferase
+NBFAOAKO_00463	gene	138				
+NBFAOAKO_00463	CDS	138				hypothetical protein
+NBFAOAKO_00464	gene	726				
+NBFAOAKO_00464	CDS	726				hypothetical protein
+NBFAOAKO_00465	gene	75				
+NBFAOAKO_00465	tRNA	75				tRNA-Ala(ggc)
+NBFAOAKO_00466	gene	465	greA			
+NBFAOAKO_00466	CDS	465	greA		COG0782	Transcription elongation factor GreA
+NBFAOAKO_00467	gene	399				
+NBFAOAKO_00467	CDS	399			COG0537	putative HIT-like protein
+NBFAOAKO_00468	gene	1413				
+NBFAOAKO_00468	CDS	1413				hypothetical protein
+NBFAOAKO_00469	gene	837				
+NBFAOAKO_00469	CDS	837				hypothetical protein
+NBFAOAKO_00470	gene	1002				
+NBFAOAKO_00470	CDS	1002				hypothetical protein
+NBFAOAKO_00471	gene	2538				
+NBFAOAKO_00471	CDS	2538				hypothetical protein
+NBFAOAKO_00472	gene	411				
+NBFAOAKO_00472	CDS	411				hypothetical protein
+NBFAOAKO_00473	gene	510				
+NBFAOAKO_00473	CDS	510				hypothetical protein
+NBFAOAKO_00474	gene	993	mdh			
+NBFAOAKO_00474	CDS	993	mdh	1.1.1.37		Malate dehydrogenase
+NBFAOAKO_00475	gene	2049	bepA_2			
+NBFAOAKO_00475	CDS	2049	bepA_2	3.4.-.-		Beta-barrel assembly-enhancing protease
+NBFAOAKO_00476	gene	786				
+NBFAOAKO_00476	CDS	786				hypothetical protein
+NBFAOAKO_00477	gene	420	aroQ			
+NBFAOAKO_00477	CDS	420	aroQ	4.2.1.10	COG0757	3-dehydroquinate dehydratase
+NBFAOAKO_00478	gene	627	trmR			
+NBFAOAKO_00478	CDS	627	trmR	2.1.1.-		tRNA 5-hydroxyuridine methyltransferase
+NBFAOAKO_00479	gene	1008				
+NBFAOAKO_00479	CDS	1008				hypothetical protein
+NBFAOAKO_00480	gene	885				
+NBFAOAKO_00480	CDS	885				hypothetical protein
+NBFAOAKO_00481	gene	519				
+NBFAOAKO_00481	CDS	519				hypothetical protein
+NBFAOAKO_00482	gene	672				
+NBFAOAKO_00482	CDS	672				hypothetical protein
+NBFAOAKO_00483	gene	3318				
+NBFAOAKO_00483	CDS	3318				hypothetical protein
+NBFAOAKO_00484	gene	720				
+NBFAOAKO_00484	CDS	720				hypothetical protein
+NBFAOAKO_00485	gene	1632				
+NBFAOAKO_00485	CDS	1632				hypothetical protein
+NBFAOAKO_00486	gene	666				
+NBFAOAKO_00486	CDS	666				hypothetical protein
+NBFAOAKO_00487	gene	2784	cobQ			
+NBFAOAKO_00487	CDS	2784	cobQ			Cobyric acid synthase
+NBFAOAKO_00488	gene	2178	btuB_1			
+NBFAOAKO_00488	CDS	2178	btuB_1			Vitamin B12 transporter BtuB
+NBFAOAKO_00489	gene	2133	btuB_2			
+NBFAOAKO_00489	CDS	2133	btuB_2			Vitamin B12 transporter BtuB
+NBFAOAKO_00490	gene	606	ribE			
+NBFAOAKO_00490	CDS	606	ribE	2.5.1.9	COG0307	Riboflavin synthase
+NBFAOAKO_00491	gene	1326				
+NBFAOAKO_00491	CDS	1326				hypothetical protein
+NBFAOAKO_00492	gene	642	gph			
+NBFAOAKO_00492	CDS	642	gph	3.1.3.18	COG0546	Phosphoglycolate phosphatase
+NBFAOAKO_00493	gene	1314				
+NBFAOAKO_00493	CDS	1314				hypothetical protein
+NBFAOAKO_00494	gene	972	ravA			
+NBFAOAKO_00494	CDS	972	ravA	3.6.3.-		ATPase RavA
+NBFAOAKO_00495	gene	1356				
+NBFAOAKO_00495	CDS	1356				hypothetical protein
+NBFAOAKO_00496	gene	618				
+NBFAOAKO_00496	CDS	618				hypothetical protein
+NBFAOAKO_00497	gene	924				
+NBFAOAKO_00497	CDS	924				hypothetical protein
+NBFAOAKO_00498	gene	1035				
+NBFAOAKO_00498	CDS	1035				hypothetical protein
+NBFAOAKO_00499	gene	732				
+NBFAOAKO_00499	CDS	732				hypothetical protein
+NBFAOAKO_00500	gene	537				
+NBFAOAKO_00500	CDS	537				hypothetical protein
+NBFAOAKO_00501	gene	423				
+NBFAOAKO_00501	CDS	423				hypothetical protein
+NBFAOAKO_00502	gene	441	umuD			
+NBFAOAKO_00502	CDS	441	umuD	3.4.21.-	COG1974	Protein UmuD
+NBFAOAKO_00503	gene	1320	umuC			
+NBFAOAKO_00503	CDS	1320	umuC		COG0389	Protein UmuC
+NBFAOAKO_00504	gene	741				
+NBFAOAKO_00504	CDS	741				hypothetical protein
+NBFAOAKO_00505	gene	213				
+NBFAOAKO_00505	CDS	213				hypothetical protein
+NBFAOAKO_00506	gene	2559				
+NBFAOAKO_00506	CDS	2559				hypothetical protein
+NBFAOAKO_00507	gene	381	folB			
+NBFAOAKO_00507	CDS	381	folB	4.1.2.25	COG1539	Dihydroneopterin aldolase
+NBFAOAKO_00508	gene	1185				
+NBFAOAKO_00508	CDS	1185				hypothetical protein
+NBFAOAKO_00509	gene	903				
+NBFAOAKO_00509	CDS	903				hypothetical protein
+NBFAOAKO_00510	gene	1197				
+NBFAOAKO_00510	CDS	1197				hypothetical protein
+NBFAOAKO_00511	gene	981	glkA			
+NBFAOAKO_00511	CDS	981	glkA	2.7.1.2		Glucokinase
+NBFAOAKO_00512	gene	519				
+NBFAOAKO_00512	CDS	519				hypothetical protein
+NBFAOAKO_00513	gene	2067	pal_1			
+NBFAOAKO_00513	CDS	2067	pal_1			Peptidoglycan-associated lipoprotein
+NBFAOAKO_00514	gene	360				
+NBFAOAKO_00514	CDS	360				hypothetical protein
+NBFAOAKO_00515	gene	543	algU_1			
+NBFAOAKO_00515	CDS	543	algU_1		COG1595	RNA polymerase sigma-H factor
+NBFAOAKO_00516	gene	186				
+NBFAOAKO_00516	CDS	186				hypothetical protein
+NBFAOAKO_00517	gene	777				
+NBFAOAKO_00517	CDS	777				hypothetical protein
+NBFAOAKO_00518	gene	1410	rsmF			
+NBFAOAKO_00518	CDS	1410	rsmF	2.1.1.178	COG0144	Ribosomal RNA small subunit methyltransferase F
+NBFAOAKO_00519	gene	795	thyA			
+NBFAOAKO_00519	CDS	795	thyA	2.1.1.45	COG0207	Thymidylate synthase
+NBFAOAKO_00520	gene	486	dfrA			
+NBFAOAKO_00520	CDS	486	dfrA	1.5.1.3	COG0262	Dihydrofolate reductase
+NBFAOAKO_00521	gene	135				
+NBFAOAKO_00521	CDS	135				hypothetical protein
+NBFAOAKO_00522	gene	486	asnC			
+NBFAOAKO_00522	CDS	486	asnC		COG1522	Regulatory protein AsnC
+NBFAOAKO_00523	gene	246				
+NBFAOAKO_00523	CDS	246				hypothetical protein
+NBFAOAKO_00524	gene	681				
+NBFAOAKO_00524	CDS	681				hypothetical protein
+NBFAOAKO_00525	gene	492				
+NBFAOAKO_00525	CDS	492				hypothetical protein
+NBFAOAKO_00526	gene	189				
+NBFAOAKO_00526	CDS	189				hypothetical protein
+NBFAOAKO_00527	gene	204				
+NBFAOAKO_00527	CDS	204				hypothetical protein
+NBFAOAKO_00528	gene	558				
+NBFAOAKO_00528	CDS	558				hypothetical protein
+NBFAOAKO_00529	gene	636				
+NBFAOAKO_00529	CDS	636				hypothetical protein
+NBFAOAKO_00530	gene	165				
+NBFAOAKO_00530	CDS	165				hypothetical protein
+NBFAOAKO_00531	gene	150				
+NBFAOAKO_00531	CDS	150				hypothetical protein
+NBFAOAKO_00532	gene	96				
+NBFAOAKO_00532	CDS	96				hypothetical protein
+NBFAOAKO_00533	gene	552				
+NBFAOAKO_00533	CDS	552				hypothetical protein
+NBFAOAKO_00534	gene	74				
+NBFAOAKO_00534	tRNA	74				tRNA-Phe(gaa)
+NBFAOAKO_00535	gene	75				
+NBFAOAKO_00535	tRNA	75				tRNA-Pro(cgg)
+NBFAOAKO_00536	gene	960				
+NBFAOAKO_00536	CDS	960				putative epimerase/dehydratase
+NBFAOAKO_00537	gene	120				
+NBFAOAKO_00537	CDS	120				hypothetical protein
+NBFAOAKO_00538	gene	1188	kbl			
+NBFAOAKO_00538	CDS	1188	kbl	2.3.1.29	COG0156	2-amino-3-ketobutyrate coenzyme A ligase
+NBFAOAKO_00539	gene	477	argR			
+NBFAOAKO_00539	CDS	477	argR		COG1438	Arginine repressor
+NBFAOAKO_00540	gene	717	ybhL			
+NBFAOAKO_00540	CDS	717	ybhL		COG0670	Inner membrane protein YbhL
+NBFAOAKO_00541	gene	255				
+NBFAOAKO_00541	CDS	255				hypothetical protein
+NBFAOAKO_00542	gene	267				
+NBFAOAKO_00542	CDS	267				hypothetical protein
+NBFAOAKO_00543	gene	1107				
+NBFAOAKO_00543	CDS	1107				hypothetical protein
+NBFAOAKO_00544	gene	201				
+NBFAOAKO_00544	CDS	201				hypothetical protein
+NBFAOAKO_00545	gene	702	COQ5			
+NBFAOAKO_00545	CDS	702	COQ5	2.1.1.163		2-methoxy-6-polyprenyl-1,4-benzoquinol methylase, mitochondrial
+NBFAOAKO_00546	gene	144				
+NBFAOAKO_00546	CDS	144				hypothetical protein
+NBFAOAKO_00547	gene	510				
+NBFAOAKO_00547	CDS	510				hypothetical protein
+NBFAOAKO_00548	gene	471				
+NBFAOAKO_00548	CDS	471				hypothetical protein
+NBFAOAKO_00549	gene	573				
+NBFAOAKO_00549	CDS	573				hypothetical protein
+NBFAOAKO_00550	gene	951				
+NBFAOAKO_00550	CDS	951				hypothetical protein
+NBFAOAKO_00551	gene	1266				
+NBFAOAKO_00551	CDS	1266				hypothetical protein
+NBFAOAKO_00552	gene	258				
+NBFAOAKO_00552	CDS	258				hypothetical protein
+NBFAOAKO_00553	gene	624				
+NBFAOAKO_00553	CDS	624				hypothetical protein
+NBFAOAKO_00554	gene	1038				
+NBFAOAKO_00554	CDS	1038				hypothetical protein
+NBFAOAKO_00555	gene	357				
+NBFAOAKO_00555	CDS	357				hypothetical protein
+NBFAOAKO_00556	gene	1164				
+NBFAOAKO_00556	CDS	1164				hypothetical protein
+NBFAOAKO_00557	gene	1095	algA			
+NBFAOAKO_00557	CDS	1095	algA		COG0662	Alginate biosynthesis protein AlgA
+NBFAOAKO_00558	gene	83				
+NBFAOAKO_00558	tRNA	83				tRNA-Leu(caa)
+NBFAOAKO_00559	gene	624				
+NBFAOAKO_00559	CDS	624				hypothetical protein
+NBFAOAKO_00560	gene	4155	cas9			
+NBFAOAKO_00560	CDS	4155	cas9	3.1.-.-		CRISPR-associated endonuclease Cas9
+NBFAOAKO_00561	gene	933	cas1			
+NBFAOAKO_00561	CDS	933	cas1	3.1.-.-		CRISPR-associated endonuclease Cas1
+NBFAOAKO_00562	gene	708	btuD			
+NBFAOAKO_00562	CDS	708	btuD	7.6.2.8		Vitamin B12 import ATP-binding protein BtuD
+NBFAOAKO_00563	gene	1296	deaD_3			
+NBFAOAKO_00563	CDS	1296	deaD_3	3.6.4.13	COG0513	ATP-dependent RNA helicase DeaD
+NBFAOAKO_00564	gene	1164				
+NBFAOAKO_00564	CDS	1164				hypothetical protein
+NBFAOAKO_00565	gene	1128	tgt			
+NBFAOAKO_00565	CDS	1128	tgt	2.4.2.29		Queuine tRNA-ribosyltransferase
+NBFAOAKO_00566	gene	2424	lon1			
+NBFAOAKO_00566	CDS	2424	lon1	3.4.21.53	COG0466	Lon protease 1
+NBFAOAKO_00567	gene	645	yfiC			
+NBFAOAKO_00567	CDS	645	yfiC	2.1.1.223	COG4123	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NBFAOAKO_00568	gene	1464				
+NBFAOAKO_00568	CDS	1464				hypothetical protein
+NBFAOAKO_00569	gene	76				
+NBFAOAKO_00569	tRNA	76				tRNA-Asp(gtc)
+NBFAOAKO_00570	gene	516	speG			
+NBFAOAKO_00570	CDS	516	speG	2.3.1.57	COG1670	Spermidine N(1)-acetyltransferase
+NBFAOAKO_00571	gene	1194				
+NBFAOAKO_00571	CDS	1194				hypothetical protein
+NBFAOAKO_00572	gene	423				
+NBFAOAKO_00572	CDS	423				hypothetical protein
+NBFAOAKO_00573	gene	615	recR			
+NBFAOAKO_00573	CDS	615	recR		COG0353	Recombination protein RecR
+NBFAOAKO_00574	gene	615	engB			
+NBFAOAKO_00574	CDS	615	engB		COG0218	putative GTP-binding protein EngB
+NBFAOAKO_00575	gene	1812	ettA			
+NBFAOAKO_00575	CDS	1812	ettA		COG0488	Energy-dependent translational throttle protein EttA
+NBFAOAKO_00576	gene	2061	pat			
+NBFAOAKO_00576	CDS	2061	pat	2.3.1.-	COG0454	Peptidyl-lysine N-acetyltransferase Pat
+NBFAOAKO_00577	gene	1965	thrS			
+NBFAOAKO_00577	CDS	1965	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+NBFAOAKO_00578	gene	381				
+NBFAOAKO_00578	CDS	381				hypothetical protein
+NBFAOAKO_00579	gene	237				
+NBFAOAKO_00579	CDS	237				hypothetical protein
+NBFAOAKO_00580	gene	2520				
+NBFAOAKO_00580	CDS	2520				hypothetical protein
+NBFAOAKO_00581	gene	1050	nrdB			
+NBFAOAKO_00581	CDS	1050	nrdB	1.17.4.1	COG0208	Ribonucleoside-diphosphate reductase subunit beta
+NBFAOAKO_00582	gene	612	nreC			
+NBFAOAKO_00582	CDS	612	nreC		COG2197	Oxygen regulatory protein NreC
+NBFAOAKO_00583	gene	1911				
+NBFAOAKO_00583	CDS	1911				hypothetical protein
+NBFAOAKO_00584	gene	954				
+NBFAOAKO_00584	CDS	954				hypothetical protein
+NBFAOAKO_00585	gene	1104				
+NBFAOAKO_00585	CDS	1104				hypothetical protein
+NBFAOAKO_00586	gene	738				
+NBFAOAKO_00586	CDS	738				hypothetical protein
+NBFAOAKO_00587	gene	1554				
+NBFAOAKO_00587	CDS	1554				hypothetical protein
+NBFAOAKO_00588	gene	459				
+NBFAOAKO_00588	CDS	459				hypothetical protein
+NBFAOAKO_00589	gene	2379				
+NBFAOAKO_00589	CDS	2379				hypothetical protein
+NBFAOAKO_00590	gene	462				
+NBFAOAKO_00590	CDS	462				hypothetical protein
+NBFAOAKO_00591	gene	2052	ligA			
+NBFAOAKO_00591	CDS	2052	ligA	6.5.1.2		DNA ligase
+NBFAOAKO_00592	gene	855	pta_2			
+NBFAOAKO_00592	CDS	855	pta_2	2.3.1.8	COG0280	Phosphate acetyltransferase
+NBFAOAKO_00593	gene	1062	buk2			
+NBFAOAKO_00593	CDS	1062	buk2	2.7.2.7	COG3426	Butyrate kinase 2
+NBFAOAKO_00594	gene	2136				
+NBFAOAKO_00594	CDS	2136				hypothetical protein
+NBFAOAKO_00595	gene	807	yycJ			
+NBFAOAKO_00595	CDS	807	yycJ	3.-.-.-	COG1235	Putative metallo-hydrolase YycJ
+NBFAOAKO_00596	gene	465				
+NBFAOAKO_00596	CDS	465				hypothetical protein
+NBFAOAKO_00597	gene	2187	bamA_2			
+NBFAOAKO_00597	CDS	2187	bamA_2			Outer membrane protein assembly factor BamA
+NBFAOAKO_00598	gene	603				
+NBFAOAKO_00598	CDS	603				hypothetical protein
+NBFAOAKO_00599	gene	1782	lepA			
+NBFAOAKO_00599	CDS	1782	lepA	3.6.5.-	COG0481	Elongation factor 4
+NBFAOAKO_00600	gene	387				
+NBFAOAKO_00600	CDS	387				hypothetical protein
+NBFAOAKO_00601	gene	819	pdxK			
+NBFAOAKO_00601	CDS	819	pdxK	2.7.1.35		Pyridoxine/pyridoxal/pyridoxamine kinase
+NBFAOAKO_00602	gene	144				
+NBFAOAKO_00602	CDS	144				hypothetical protein
+NBFAOAKO_00603	gene	1416				
+NBFAOAKO_00603	CDS	1416				hypothetical protein
+NBFAOAKO_00604	gene	2685				
+NBFAOAKO_00604	CDS	2685				hypothetical protein
+NBFAOAKO_00605	gene	1116				
+NBFAOAKO_00605	CDS	1116				hypothetical protein
+NBFAOAKO_00606	gene	1563				
+NBFAOAKO_00606	CDS	1563				hypothetical protein
+NBFAOAKO_00607	gene	453	tadA_1			
+NBFAOAKO_00607	CDS	453	tadA_1	3.5.4.33	COG0590	tRNA-specific adenosine deaminase
+NBFAOAKO_00608	gene	783	birA			
+NBFAOAKO_00608	CDS	783	birA	6.3.4.15	COG0340	Bifunctional ligase/repressor BirA
+NBFAOAKO_00609	gene	558				
+NBFAOAKO_00609	CDS	558				hypothetical protein
+NBFAOAKO_00610	gene	711	pyrH			
+NBFAOAKO_00610	CDS	711	pyrH	2.7.4.22	COG0528	Uridylate kinase
+NBFAOAKO_00611	gene	567				
+NBFAOAKO_00611	CDS	567				hypothetical protein
+NBFAOAKO_00612	gene	168	fdxA			
+NBFAOAKO_00612	CDS	168	fdxA			4Fe-4S ferredoxin FdxA
+NBFAOAKO_00613	gene	744				
+NBFAOAKO_00613	CDS	744				hypothetical protein
+NBFAOAKO_00614	gene	846	yfkN			
+NBFAOAKO_00614	CDS	846	yfkN		COG0737	Trifunctional nucleotide phosphoesterase protein YfkN
+NBFAOAKO_00615	gene	765				
+NBFAOAKO_00615	CDS	765				hypothetical protein
+NBFAOAKO_00616	gene	495				
+NBFAOAKO_00616	CDS	495				hypothetical protein
+NBFAOAKO_00617	gene	576				
+NBFAOAKO_00617	CDS	576				hypothetical protein
+NBFAOAKO_00618	gene	144				
+NBFAOAKO_00618	CDS	144				hypothetical protein
+NBFAOAKO_00619	gene	1851	korA_1			
+NBFAOAKO_00619	CDS	1851	korA_1	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+NBFAOAKO_00620	gene	1614	pckA			
+NBFAOAKO_00620	CDS	1614	pckA	4.1.1.49		Phosphoenolpyruvate carboxykinase (ATP)
+NBFAOAKO_00621	gene	660	upp			
+NBFAOAKO_00621	CDS	660	upp	2.4.2.9	COG0035	Uracil phosphoribosyltransferase
+NBFAOAKO_00622	gene	516	dps			
+NBFAOAKO_00622	CDS	516	dps	1.16.-.-	COG0783	DNA protection during starvation protein
+NBFAOAKO_00623	gene	1764	arnT			
+NBFAOAKO_00623	CDS	1764	arnT	2.4.2.43		Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+NBFAOAKO_00624	gene	1155	mdoB			
+NBFAOAKO_00624	CDS	1155	mdoB	2.7.8.20		Phosphoglycerol transferase I
+NBFAOAKO_00625	gene	888				
+NBFAOAKO_00625	CDS	888				hypothetical protein
+NBFAOAKO_00626	gene	1257				
+NBFAOAKO_00626	CDS	1257				hypothetical protein
+NBFAOAKO_00627	gene	1932				
+NBFAOAKO_00627	CDS	1932				hypothetical protein
+NBFAOAKO_00628	gene	1038				
+NBFAOAKO_00628	CDS	1038				hypothetical protein
+NBFAOAKO_00629	gene	1593	prfC			
+NBFAOAKO_00629	CDS	1593	prfC		COG4108	Peptide chain release factor 3
+NBFAOAKO_00630	gene	858	rmlD			
+NBFAOAKO_00630	CDS	858	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+NBFAOAKO_00631	gene	579				
+NBFAOAKO_00631	CDS	579				hypothetical protein
+NBFAOAKO_00632	gene	348				
+NBFAOAKO_00632	CDS	348				hypothetical protein
+NBFAOAKO_00633	gene	2286	relA			
+NBFAOAKO_00633	CDS	2286	relA	2.7.6.5	COG0317	GTP pyrophosphokinase
+NBFAOAKO_00634	gene	90				
+NBFAOAKO_00634	CDS	90				hypothetical protein
+NBFAOAKO_00635	gene	1536				
+NBFAOAKO_00635	CDS	1536				hypothetical protein
+NBFAOAKO_00636	gene	738				
+NBFAOAKO_00636	CDS	738				hypothetical protein
+NBFAOAKO_00637	gene	900	parB			
+NBFAOAKO_00637	CDS	900	parB		COG1475	putative chromosome-partitioning protein ParB
+NBFAOAKO_00638	gene	762	soj			
+NBFAOAKO_00638	CDS	762	soj	3.6.-.-	COG1192	Sporulation initiation inhibitor protein Soj
+NBFAOAKO_00639	gene	774	surE			
+NBFAOAKO_00639	CDS	774	surE	3.1.3.5	COG0496	5'-nucleotidase SurE
+NBFAOAKO_00640	gene	2898				
+NBFAOAKO_00640	CDS	2898				hypothetical protein
+NBFAOAKO_00641	gene	1866				
+NBFAOAKO_00641	CDS	1866				hypothetical protein
+NBFAOAKO_00642	gene	1257	hflX			
+NBFAOAKO_00642	CDS	1257	hflX			GTPase HflX
+NBFAOAKO_00643	gene	792	nagB			
+NBFAOAKO_00643	CDS	792	nagB	3.5.99.6	COG0363	Glucosamine-6-phosphate deaminase
+NBFAOAKO_00644	gene	765				
+NBFAOAKO_00644	CDS	765				hypothetical protein
+NBFAOAKO_00645	gene	477	ispF			
+NBFAOAKO_00645	CDS	477	ispF	4.6.1.12	COG0245	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+NBFAOAKO_00646	gene	1152				
+NBFAOAKO_00646	CDS	1152				hypothetical protein
+NBFAOAKO_00647	gene	96				
+NBFAOAKO_00647	CDS	96				hypothetical protein
+NBFAOAKO_00648	gene	3567				
+NBFAOAKO_00648	CDS	3567				hypothetical protein
+NBFAOAKO_00649	gene	375	ycgM			
+NBFAOAKO_00649	CDS	375	ycgM		COG0179	putative protein YcgM
+NBFAOAKO_00650	gene	408				
+NBFAOAKO_00650	CDS	408				hypothetical protein
+NBFAOAKO_00651	gene	771				
+NBFAOAKO_00651	CDS	771				hypothetical protein
+NBFAOAKO_00652	gene	390				
+NBFAOAKO_00652	CDS	390				hypothetical protein
+NBFAOAKO_00653	gene	3117				
+NBFAOAKO_00653	CDS	3117				hypothetical protein
+NBFAOAKO_00654	gene	2580				
+NBFAOAKO_00654	CDS	2580				hypothetical protein
+NBFAOAKO_00655	gene	639				
+NBFAOAKO_00655	CDS	639				hypothetical protein
+NBFAOAKO_00656	gene	2127	dpp7			
+NBFAOAKO_00656	CDS	2127	dpp7	3.4.14.-		Dipeptidyl-peptidase 7
+NBFAOAKO_00657	gene	717				
+NBFAOAKO_00657	CDS	717				hypothetical protein
+NBFAOAKO_00658	gene	609				
+NBFAOAKO_00658	CDS	609				hypothetical protein
+NBFAOAKO_00659	gene	1038	wbbI			
+NBFAOAKO_00659	CDS	1038	wbbI	2.4.1.-		Beta-1,6-galactofuranosyltransferase WbbI
+NBFAOAKO_00660	gene	852				
+NBFAOAKO_00660	CDS	852				hypothetical protein
+NBFAOAKO_00661	gene	843				
+NBFAOAKO_00661	CDS	843				hypothetical protein
+NBFAOAKO_00662	gene	2214				
+NBFAOAKO_00662	CDS	2214				hypothetical protein
+NBFAOAKO_00663	gene	1086				
+NBFAOAKO_00663	CDS	1086				hypothetical protein
+NBFAOAKO_00664	gene	1245				
+NBFAOAKO_00664	CDS	1245				hypothetical protein
+NBFAOAKO_00665	gene	1182				
+NBFAOAKO_00665	CDS	1182				hypothetical protein
+NBFAOAKO_00666	gene	987	emrA			
+NBFAOAKO_00666	CDS	987	emrA			Colistin resistance protein EmrA
+NBFAOAKO_00667	gene	1188				
+NBFAOAKO_00667	CDS	1188				hypothetical protein
+NBFAOAKO_00668	gene	537				
+NBFAOAKO_00668	CDS	537				hypothetical protein
+NBFAOAKO_00669	gene	3591				
+NBFAOAKO_00669	CDS	3591		1.2.7.1	COG0674	Pyruvate:ferredoxin oxidoreductase
+NBFAOAKO_00670	gene	2310	maeB			
+NBFAOAKO_00670	CDS	2310	maeB	1.1.1.40	COG0280	NADP-dependent malic enzyme
+NBFAOAKO_00671	gene	819				
+NBFAOAKO_00671	CDS	819				hypothetical protein
+NBFAOAKO_00672	gene	105				
+NBFAOAKO_00672	CDS	105				hypothetical protein
+NBFAOAKO_00673	gene	360	resA_3			
+NBFAOAKO_00673	CDS	360	resA_3			Thiol-disulfide oxidoreductase ResA
+NBFAOAKO_00674	gene	1008				
+NBFAOAKO_00674	CDS	1008				hypothetical protein
+NBFAOAKO_00675	gene	465				
+NBFAOAKO_00675	CDS	465				hypothetical protein
+NBFAOAKO_00676	gene	99				
+NBFAOAKO_00676	CDS	99				hypothetical protein
+NBFAOAKO_00677	gene	1089				
+NBFAOAKO_00677	CDS	1089				hypothetical protein
+NBFAOAKO_00678	gene	1914	pglF			
+NBFAOAKO_00678	CDS	1914	pglF	4.2.1.135	COG1086	UDP-N-acetyl-alpha-D-glucosamine C6 dehydratase
+NBFAOAKO_00679	gene	594				
+NBFAOAKO_00679	CDS	594				hypothetical protein
+NBFAOAKO_00680	gene	1197	arnB			
+NBFAOAKO_00680	CDS	1197	arnB	2.6.1.87		UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+NBFAOAKO_00681	gene	798	tuaG			
+NBFAOAKO_00681	CDS	798	tuaG	2.4.-.-	COG0463	Putative teichuronic acid biosynthesis glycosyltransferase TuaG
+NBFAOAKO_00682	gene	144				
+NBFAOAKO_00682	CDS	144				hypothetical protein
+NBFAOAKO_00683	gene	510				
+NBFAOAKO_00683	CDS	510				hypothetical protein
+NBFAOAKO_00684	gene	2604	yoaB			
+NBFAOAKO_00684	CDS	2604	yoaB	7.2.2.10	COG0474	Calcium-transporting ATPase 1
+NBFAOAKO_00685	gene	621				
+NBFAOAKO_00685	CDS	621		3.1.3.-	COG1011	D-ribitol-5-phosphate phosphatase
+NBFAOAKO_00686	gene	945	ribF			
+NBFAOAKO_00686	CDS	945	ribF		COG0196	Bifunctional riboflavin kinase/FMN adenylyltransferase
+NBFAOAKO_00687	gene	1173				
+NBFAOAKO_00687	CDS	1173				hypothetical protein
+NBFAOAKO_00688	gene	1776				
+NBFAOAKO_00688	CDS	1776				hypothetical protein
+NBFAOAKO_00689	gene	585				
+NBFAOAKO_00689	CDS	585				hypothetical protein
+NBFAOAKO_00690	gene	2772	lptD			
+NBFAOAKO_00690	CDS	2772	lptD			LPS-assembly protein LptD
+NBFAOAKO_00691	gene	759	ppm1			
+NBFAOAKO_00691	CDS	759	ppm1	2.4.1.-		Polyprenol monophosphomannose synthase
+NBFAOAKO_00692	gene	1536	gltX			
+NBFAOAKO_00692	CDS	1536	gltX	6.1.1.17	COG0008	Glutamate--tRNA ligase
+NBFAOAKO_00693	gene	1260	waaA			
+NBFAOAKO_00693	CDS	1260	waaA	2.4.99.12	COG1519	3-deoxy-D-manno-octulosonic acid transferase
+NBFAOAKO_00694	gene	936	eamA			
+NBFAOAKO_00694	CDS	936	eamA		COG0697	putative amino-acid metabolite efflux pump
+NBFAOAKO_00695	gene	1737	ftsH_1			
+NBFAOAKO_00695	CDS	1737	ftsH_1	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+NBFAOAKO_00696	gene	387				
+NBFAOAKO_00696	CDS	387				hypothetical protein
+NBFAOAKO_00697	gene	1464	surA_1			
+NBFAOAKO_00697	CDS	1464	surA_1	5.2.1.8		Chaperone SurA
+NBFAOAKO_00698	gene	1479	surA_2			
+NBFAOAKO_00698	CDS	1479	surA_2	5.2.1.8		Chaperone SurA
+NBFAOAKO_00699	gene	1479	guaB			
+NBFAOAKO_00699	CDS	1479	guaB	1.1.1.205	COG0516	Inosine-5'-monophosphate dehydrogenase
+NBFAOAKO_00700	gene	168				
+NBFAOAKO_00700	CDS	168				hypothetical protein
+NBFAOAKO_00701	gene	126				
+NBFAOAKO_00701	CDS	126				hypothetical protein
+NBFAOAKO_00702	gene	1242				
+NBFAOAKO_00702	CDS	1242				hypothetical protein
+NBFAOAKO_00703	gene	786				
+NBFAOAKO_00703	CDS	786				hypothetical protein
+NBFAOAKO_00704	gene	339				
+NBFAOAKO_00704	CDS	339				hypothetical protein
+NBFAOAKO_00705	gene	381				
+NBFAOAKO_00705	CDS	381				hypothetical protein
+NBFAOAKO_00706	gene	432				
+NBFAOAKO_00706	CDS	432				hypothetical protein
+NBFAOAKO_00707	gene	2703	rcsC_2			
+NBFAOAKO_00707	CDS	2703	rcsC_2	2.7.13.3		Sensor histidine kinase RcsC
+NBFAOAKO_00708	gene	243				
+NBFAOAKO_00708	CDS	243				hypothetical protein
+NBFAOAKO_00709	gene	72				
+NBFAOAKO_00709	tRNA	72				tRNA-Gln(ttg)
+NBFAOAKO_00710	gene	921				
+NBFAOAKO_00710	CDS	921				hypothetical protein
+NBFAOAKO_00711	gene	279				
+NBFAOAKO_00711	CDS	279				hypothetical protein
+NBFAOAKO_00712	gene	102				
+NBFAOAKO_00712	CDS	102				hypothetical protein
+NBFAOAKO_00713	gene	990	argS			
+NBFAOAKO_00713	CDS	990	argS	6.1.1.19	COG0018	Arginine--tRNA ligase
+NBFAOAKO_00714	gene	1731				
+NBFAOAKO_00714	CDS	1731				hypothetical protein
+NBFAOAKO_00715	gene	1932				
+NBFAOAKO_00715	CDS	1932				hypothetical protein
+NBFAOAKO_00716	gene	1785				
+NBFAOAKO_00716	CDS	1785				hypothetical protein
+NBFAOAKO_00717	gene	156				
+NBFAOAKO_00717	CDS	156				hypothetical protein
+NBFAOAKO_00718	gene	900	rluD_2			
+NBFAOAKO_00718	CDS	900	rluD_2	5.4.99.23	COG0564	Ribosomal large subunit pseudouridine synthase D
+NBFAOAKO_00719	gene	132				
+NBFAOAKO_00719	CDS	132				hypothetical protein
+NBFAOAKO_00720	gene	1668	udk_1			
+NBFAOAKO_00720	CDS	1668	udk_1	2.7.1.48		Uridine kinase
+NBFAOAKO_00721	gene	1722				
+NBFAOAKO_00721	CDS	1722				hypothetical protein
+NBFAOAKO_00722	gene	1050	btuB_3			
+NBFAOAKO_00722	CDS	1050	btuB_3			Vitamin B12 transporter BtuB
+NBFAOAKO_00723	gene	285				
+NBFAOAKO_00723	CDS	285				hypothetical protein
+NBFAOAKO_00724	gene	720				
+NBFAOAKO_00724	CDS	720				hypothetical protein
+NBFAOAKO_00725	gene	1851				
+NBFAOAKO_00725	CDS	1851				hypothetical protein
+NBFAOAKO_00726	gene	3339				
+NBFAOAKO_00726	CDS	3339				hypothetical protein
+NBFAOAKO_00727	gene	909	pfkB			
+NBFAOAKO_00727	CDS	909	pfkB	2.7.1.11	COG0524	ATP-dependent 6-phosphofructokinase
+NBFAOAKO_00728	gene	1119				
+NBFAOAKO_00728	CDS	1119				hypothetical protein
+NBFAOAKO_00729	gene	1140				
+NBFAOAKO_00729	CDS	1140				hypothetical protein
+NBFAOAKO_00730	gene	1941				
+NBFAOAKO_00730	CDS	1941				hypothetical protein
+NBFAOAKO_00731	gene	1143				
+NBFAOAKO_00731	CDS	1143				hypothetical protein
+NBFAOAKO_00732	gene	390				
+NBFAOAKO_00732	CDS	390				hypothetical protein
+NBFAOAKO_00733	gene	1149				
+NBFAOAKO_00733	CDS	1149				hypothetical protein
+NBFAOAKO_00734	gene	747				
+NBFAOAKO_00734	CDS	747				hypothetical protein
+NBFAOAKO_00735	gene	1221				
+NBFAOAKO_00735	CDS	1221				hypothetical protein
+NBFAOAKO_00736	gene	705	yknY_1			
+NBFAOAKO_00736	CDS	705	yknY_1	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+NBFAOAKO_00737	gene	1152				
+NBFAOAKO_00737	CDS	1152				hypothetical protein
+NBFAOAKO_00738	gene	1278				
+NBFAOAKO_00738	CDS	1278				hypothetical protein
+NBFAOAKO_00739	gene	1179				
+NBFAOAKO_00739	CDS	1179				hypothetical protein
+NBFAOAKO_00740	gene	1194	allB			
+NBFAOAKO_00740	CDS	1194	allB	3.5.2.5	COG0044	Allantoinase
+NBFAOAKO_00741	gene	1632	groL			
+NBFAOAKO_00741	CDS	1632	groL		COG0459	60 kDa chaperonin
+NBFAOAKO_00742	gene	273	groS			
+NBFAOAKO_00742	CDS	273	groS		COG0234	10 kDa chaperonin
+NBFAOAKO_00743	gene	2409	pcrA			
+NBFAOAKO_00743	CDS	2409	pcrA	3.6.4.12		ATP-dependent DNA helicase PcrA
+NBFAOAKO_00744	gene	708	mtgA_1			
+NBFAOAKO_00744	CDS	708	mtgA_1	2.4.1.129	COG0744	Biosynthetic peptidoglycan transglycosylase
+NBFAOAKO_00745	gene	696	pal_2			
+NBFAOAKO_00745	CDS	696	pal_2			Peptidoglycan-associated lipoprotein
+NBFAOAKO_00746	gene	768	ruvB			
+NBFAOAKO_00746	CDS	768	ruvB	3.6.4.12	COG2255	Holliday junction ATP-dependent DNA helicase RuvB
+NBFAOAKO_00747	gene	1578				
+NBFAOAKO_00747	CDS	1578				hypothetical protein
+NBFAOAKO_00748	gene	411	ybeY			
+NBFAOAKO_00748	CDS	411	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+NBFAOAKO_00749	gene	441	coaD			
+NBFAOAKO_00749	CDS	441	coaD	2.7.7.3	COG0669	Phosphopantetheine adenylyltransferase
+NBFAOAKO_00750	gene	1944	gyrB_2			
+NBFAOAKO_00750	CDS	1944	gyrB_2	5.6.2.2	COG0187	DNA gyrase subunit B
+NBFAOAKO_00751	gene	1149	yghO			
+NBFAOAKO_00751	CDS	1149	yghO			Protein YghO
+NBFAOAKO_00752	gene	261				
+NBFAOAKO_00752	CDS	261				hypothetical protein
+NBFAOAKO_00753	gene	648				
+NBFAOAKO_00753	CDS	648				hypothetical protein
+NBFAOAKO_00754	gene	852				
+NBFAOAKO_00754	CDS	852				hypothetical protein
+NBFAOAKO_00755	gene	1026	murB			
+NBFAOAKO_00755	CDS	1026	murB	1.3.1.98	COG0812	UDP-N-acetylenolpyruvoylglucosamine reductase
+NBFAOAKO_00756	gene	774	rbn			
+NBFAOAKO_00756	CDS	774	rbn	3.1.26.11		Ribonuclease BN
+NBFAOAKO_00757	gene	294				
+NBFAOAKO_00757	CDS	294				hypothetical protein
+NBFAOAKO_00758	gene	369				
+NBFAOAKO_00758	CDS	369				hypothetical protein
+NBFAOAKO_00759	gene	216				
+NBFAOAKO_00759	CDS	216				hypothetical protein
+NBFAOAKO_00760	gene	516				
+NBFAOAKO_00760	CDS	516				hypothetical protein
+NBFAOAKO_00761	gene	423	yrrK			
+NBFAOAKO_00761	CDS	423	yrrK	3.1.-.-	COG0816	Putative pre-16S rRNA nuclease
+NBFAOAKO_00762	gene	561	def			
+NBFAOAKO_00762	CDS	561	def	3.5.1.88	COG0242	Peptide deformylase
+NBFAOAKO_00763	gene	1401	mrdA			
+NBFAOAKO_00763	CDS	1401	mrdA	3.4.16.4	COG0768	Peptidoglycan D,D-transpeptidase MrdA
+NBFAOAKO_00764	gene	1470	mrdB			
+NBFAOAKO_00764	CDS	1470	mrdB	2.4.1.129		Peptidoglycan glycosyltransferase MrdB
+NBFAOAKO_00765	gene	465				
+NBFAOAKO_00765	CDS	465				hypothetical protein
+NBFAOAKO_00766	gene	1248				
+NBFAOAKO_00766	CDS	1248				hypothetical protein
+NBFAOAKO_00767	gene	1140				
+NBFAOAKO_00767	CDS	1140				hypothetical protein
+NBFAOAKO_00768	gene	687	rsmI			
+NBFAOAKO_00768	CDS	687	rsmI	2.1.1.198	COG0313	Ribosomal RNA small subunit methyltransferase I
+NBFAOAKO_00769	gene	126				
+NBFAOAKO_00769	CDS	126				hypothetical protein
+NBFAOAKO_00770	gene	1485				
+NBFAOAKO_00770	CDS	1485				hypothetical protein
+NBFAOAKO_00771	gene	3084				
+NBFAOAKO_00771	CDS	3084				TonB-dependent receptor P3
+NBFAOAKO_00772	gene	1470				
+NBFAOAKO_00772	CDS	1470				hypothetical protein
+NBFAOAKO_00773	gene	372				
+NBFAOAKO_00773	CDS	372				hypothetical protein
+NBFAOAKO_00774	gene	714				
+NBFAOAKO_00774	CDS	714				hypothetical protein
+NBFAOAKO_00775	gene	519				
+NBFAOAKO_00775	CDS	519				hypothetical protein
+NBFAOAKO_00776	gene	1233				
+NBFAOAKO_00776	CDS	1233				hypothetical protein
+NBFAOAKO_00777	gene	744				
+NBFAOAKO_00777	CDS	744				hypothetical protein
+NBFAOAKO_00778	gene	2394				
+NBFAOAKO_00778	CDS	2394				hypothetical protein
+NBFAOAKO_00779	gene	612				
+NBFAOAKO_00779	CDS	612				hypothetical protein
+NBFAOAKO_00780	gene	501				
+NBFAOAKO_00780	CDS	501				hypothetical protein
+NBFAOAKO_00781	gene	513				
+NBFAOAKO_00781	CDS	513				hypothetical protein
+NBFAOAKO_00782	gene	2622	bamA_3			
+NBFAOAKO_00782	CDS	2622	bamA_3			Outer membrane protein assembly factor BamA
+NBFAOAKO_00783	gene	750	ispU			
+NBFAOAKO_00783	CDS	750	ispU	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+NBFAOAKO_00784	gene	705				
+NBFAOAKO_00784	CDS	705				hypothetical protein
+NBFAOAKO_00785	gene	450				
+NBFAOAKO_00785	CDS	450				hypothetical protein
+	repeat_region	233				
+NBFAOAKO_00786	gene	168				
+NBFAOAKO_00786	CDS	168				hypothetical protein
+NBFAOAKO_00787	gene	1125				
+NBFAOAKO_00787	CDS	1125				hypothetical protein
+NBFAOAKO_00788	gene	162				
+NBFAOAKO_00788	CDS	162				hypothetical protein
+NBFAOAKO_00789	gene	546	pdxT			
+NBFAOAKO_00789	CDS	546	pdxT	4.3.3.6		Pyridoxal 5'-phosphate synthase subunit PdxT
+NBFAOAKO_00790	gene	876	pdxS			
+NBFAOAKO_00790	CDS	876	pdxS	4.3.3.6	COG0214	Pyridoxal 5'-phosphate synthase subunit PdxS
+NBFAOAKO_00791	gene	918	rhaS_1			
+NBFAOAKO_00791	CDS	918	rhaS_1			HTH-type transcriptional activator RhaS
+NBFAOAKO_00792	gene	474				
+NBFAOAKO_00792	CDS	474				hypothetical protein
+NBFAOAKO_00793	gene	114				
+NBFAOAKO_00793	CDS	114				hypothetical protein
+NBFAOAKO_00794	gene	1110				
+NBFAOAKO_00794	CDS	1110				hypothetical protein
+NBFAOAKO_00795	gene	105				
+NBFAOAKO_00795	CDS	105				hypothetical protein
+NBFAOAKO_00796	gene	615				
+NBFAOAKO_00796	CDS	615				hypothetical protein
+NBFAOAKO_00797	gene	594	folE			
+NBFAOAKO_00797	CDS	594	folE	3.5.4.16	COG0302	GTP cyclohydrolase 1
+NBFAOAKO_00798	gene	639				
+NBFAOAKO_00798	CDS	639				hypothetical protein
+NBFAOAKO_00799	gene	2130	tpiA			
+NBFAOAKO_00799	CDS	2130	tpiA			Triosephosphate isomerase
+NBFAOAKO_00800	gene	555				
+NBFAOAKO_00800	CDS	555				hypothetical protein
+NBFAOAKO_00801	gene	459				
+NBFAOAKO_00801	CDS	459				hypothetical protein
+NBFAOAKO_00802	gene	654				
+NBFAOAKO_00802	CDS	654				hypothetical protein
+NBFAOAKO_00803	gene	864				
+NBFAOAKO_00803	CDS	864				hypothetical protein
+NBFAOAKO_00804	gene	2184	rnr			
+NBFAOAKO_00804	CDS	2184	rnr	3.1.13.1	COG0557	Ribonuclease R
+NBFAOAKO_00805	gene	993	strE			
+NBFAOAKO_00805	CDS	993	strE	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+NBFAOAKO_00806	gene	960				
+NBFAOAKO_00806	CDS	960				hypothetical protein
+NBFAOAKO_00807	gene	639	rpsC			
+NBFAOAKO_00807	CDS	639	rpsC		COG0092	30S ribosomal protein S3
+NBFAOAKO_00808	gene	429	rplP			
+NBFAOAKO_00808	CDS	429	rplP		COG0197	50S ribosomal protein L16
+NBFAOAKO_00809	gene	195	rpmC			
+NBFAOAKO_00809	CDS	195	rpmC			50S ribosomal protein L29
+NBFAOAKO_00810	gene	258	rpsQ			
+NBFAOAKO_00810	CDS	258	rpsQ			30S ribosomal protein S17
+NBFAOAKO_00811	gene	366	rplN			
+NBFAOAKO_00811	CDS	366	rplN		COG0093	50S ribosomal protein L14
+NBFAOAKO_00812	gene	321	rplX			
+NBFAOAKO_00812	CDS	321	rplX		COG0198	50S ribosomal protein L24
+NBFAOAKO_00813	gene	555	rplE			
+NBFAOAKO_00813	CDS	555	rplE		COG0094	50S ribosomal protein L5
+NBFAOAKO_00814	gene	303	rpsN			
+NBFAOAKO_00814	CDS	303	rpsN		COG0199	30S ribosomal protein S14
+NBFAOAKO_00815	gene	396	rpsH			
+NBFAOAKO_00815	CDS	396	rpsH		COG0096	30S ribosomal protein S8
+NBFAOAKO_00816	gene	567	rplF			
+NBFAOAKO_00816	CDS	567	rplF		COG0097	50S ribosomal protein L6
+NBFAOAKO_00817	gene	345	rplR			
+NBFAOAKO_00817	CDS	345	rplR		COG0256	50S ribosomal protein L18
+NBFAOAKO_00818	gene	516	rpsE			
+NBFAOAKO_00818	CDS	516	rpsE		COG0098	30S ribosomal protein S5
+NBFAOAKO_00819	gene	177	rpmD			
+NBFAOAKO_00819	CDS	177	rpmD		COG1841	50S ribosomal protein L30
+NBFAOAKO_00820	gene	447	rplO			
+NBFAOAKO_00820	CDS	447	rplO		COG0200	50S ribosomal protein L15
+NBFAOAKO_00821	gene	1176				
+NBFAOAKO_00821	CDS	1176				hypothetical protein
+NBFAOAKO_00822	gene	1695				
+NBFAOAKO_00822	CDS	1695				hypothetical protein
+NBFAOAKO_00823	gene	819	pal_3			
+NBFAOAKO_00823	CDS	819	pal_3			Peptidoglycan-associated lipoprotein
+NBFAOAKO_00824	gene	546				
+NBFAOAKO_00824	CDS	546				hypothetical protein
+NBFAOAKO_00825	gene	525				
+NBFAOAKO_00825	CDS	525				hypothetical protein
+NBFAOAKO_00826	gene	1260				
+NBFAOAKO_00826	CDS	1260				hypothetical protein
+NBFAOAKO_00827	gene	195				
+NBFAOAKO_00827	CDS	195				hypothetical protein
+NBFAOAKO_00828	gene	432				
+NBFAOAKO_00828	CDS	432				hypothetical protein
+NBFAOAKO_00829	gene	906				
+NBFAOAKO_00829	CDS	906				hypothetical protein
+NBFAOAKO_00830	gene	453				
+NBFAOAKO_00830	CDS	453				hypothetical protein
+NBFAOAKO_00831	gene	765				
+NBFAOAKO_00831	CDS	765				hypothetical protein
+NBFAOAKO_00832	gene	903				
+NBFAOAKO_00832	CDS	903				hypothetical protein
+NBFAOAKO_00833	gene	405				
+NBFAOAKO_00833	CDS	405				hypothetical protein
+NBFAOAKO_00834	gene	2133				
+NBFAOAKO_00834	CDS	2133				hypothetical protein
+NBFAOAKO_00835	gene	468				
+NBFAOAKO_00835	CDS	468		4.2.1.17	COG2030	putative enoyl-CoA hydratase 1
+NBFAOAKO_00836	gene	165				
+NBFAOAKO_00836	CDS	165				hypothetical protein
+NBFAOAKO_00837	gene	1767				
+NBFAOAKO_00837	CDS	1767				hypothetical protein
+NBFAOAKO_00838	gene	1491				
+NBFAOAKO_00838	CDS	1491				hypothetical protein
+NBFAOAKO_00839	gene	888				
+NBFAOAKO_00839	CDS	888				hypothetical protein
+NBFAOAKO_00840	gene	1530				
+NBFAOAKO_00840	CDS	1530				hypothetical protein
+NBFAOAKO_00841	gene	555	dapH			
+NBFAOAKO_00841	CDS	555	dapH	2.3.1.89		2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+NBFAOAKO_00842	gene	1221				
+NBFAOAKO_00842	CDS	1221				hypothetical protein
+NBFAOAKO_00843	gene	1542				
+NBFAOAKO_00843	CDS	1542				hypothetical protein
+NBFAOAKO_00844	gene	426				
+NBFAOAKO_00844	CDS	426				hypothetical protein
+NBFAOAKO_00845	gene	2547				
+NBFAOAKO_00845	CDS	2547				hypothetical protein
+NBFAOAKO_00846	gene	2295				
+NBFAOAKO_00846	CDS	2295				hypothetical protein
+NBFAOAKO_00847	gene	1377	glnA			
+NBFAOAKO_00847	CDS	1377	glnA	6.3.1.2	COG0174	Glutamine synthetase
+NBFAOAKO_00848	gene	1983	frdA			
+NBFAOAKO_00848	CDS	1983	frdA	1.3.5.4		Fumarate reductase flavoprotein subunit
+NBFAOAKO_00849	gene	690				
+NBFAOAKO_00849	CDS	690				hypothetical protein
+NBFAOAKO_00850	gene	1953	mnmG			
+NBFAOAKO_00850	CDS	1953	mnmG		COG0445	tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+NBFAOAKO_00851	gene	531	apt			
+NBFAOAKO_00851	CDS	531	apt	2.4.2.7		Adenine phosphoribosyltransferase
+NBFAOAKO_00852	gene	912				
+NBFAOAKO_00852	CDS	912				hypothetical protein
+NBFAOAKO_00853	gene	555				
+NBFAOAKO_00853	CDS	555				hypothetical protein
+NBFAOAKO_00854	gene	1755				
+NBFAOAKO_00854	CDS	1755				hypothetical protein
+NBFAOAKO_00855	gene	1029				
+NBFAOAKO_00855	CDS	1029				hypothetical protein
+NBFAOAKO_00856	gene	1356				
+NBFAOAKO_00856	CDS	1356				hypothetical protein
+NBFAOAKO_00857	gene	558				
+NBFAOAKO_00857	CDS	558				hypothetical protein
+NBFAOAKO_00858	gene	738	lutA			
+NBFAOAKO_00858	CDS	738	lutA		COG0247	Lactate utilization protein A
+NBFAOAKO_00859	gene	1371	lutB			
+NBFAOAKO_00859	CDS	1371	lutB		COG1139	Lactate utilization protein B
+NBFAOAKO_00860	gene	585				
+NBFAOAKO_00860	CDS	585				hypothetical protein
+NBFAOAKO_00861	gene	549				
+NBFAOAKO_00861	CDS	549				hypothetical protein
+NBFAOAKO_00862	gene	537	algU_2			
+NBFAOAKO_00862	CDS	537	algU_2		COG1595	RNA polymerase sigma-H factor
+NBFAOAKO_00863	gene	699				
+NBFAOAKO_00863	CDS	699				hypothetical protein
+NBFAOAKO_00864	gene	2415	topA			
+NBFAOAKO_00864	CDS	2415	topA	5.6.2.1		DNA topoisomerase 1
+NBFAOAKO_00865	gene	528	aroK			
+NBFAOAKO_00865	CDS	528	aroK	2.7.1.71	COG0703	Shikimate kinase
+NBFAOAKO_00866	gene	192				
+NBFAOAKO_00866	CDS	192				hypothetical protein
+NBFAOAKO_00867	gene	300				
+NBFAOAKO_00867	CDS	300				hypothetical protein
+NBFAOAKO_00868	gene	1029				
+NBFAOAKO_00868	CDS	1029				hypothetical protein
+NBFAOAKO_00869	gene	1044	lpxD			
+NBFAOAKO_00869	CDS	1044	lpxD	2.3.1.-	COG1044	UDP-3-O-acylglucosamine N-acyltransferase
+NBFAOAKO_00870	gene	1386	lpxC			
+NBFAOAKO_00870	CDS	1386	lpxC	3.5.1.108		UDP-3-O-acyl-N-acetylglucosamine deacetylase
+NBFAOAKO_00871	gene	774	lpxA_1			
+NBFAOAKO_00871	CDS	774	lpxA_1	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+NBFAOAKO_00872	gene	909	miaA_1			
+NBFAOAKO_00872	CDS	909	miaA_1	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+NBFAOAKO_00873	gene	873	mtgA_2			
+NBFAOAKO_00873	CDS	873	mtgA_2	2.4.1.129		Biosynthetic peptidoglycan transglycosylase
+NBFAOAKO_00874	gene	738	carD			
+NBFAOAKO_00874	CDS	738	carD	1.3.1.108	COG2086	Caffeyl-CoA reductase-Etf complex subunit CarD
+NBFAOAKO_00875	gene	1026	carE			
+NBFAOAKO_00875	CDS	1026	carE	1.3.1.108	COG2025	Caffeyl-CoA reductase-Etf complex subunit CarE
+NBFAOAKO_00876	gene	1725	caiA			
+NBFAOAKO_00876	CDS	1725	caiA	1.3.8.13		Crotonobetainyl-CoA reductase
+NBFAOAKO_00877	gene	114				
+NBFAOAKO_00877	CDS	114				hypothetical protein
+NBFAOAKO_00878	gene	666				
+NBFAOAKO_00878	CDS	666				hypothetical protein
+NBFAOAKO_00879	gene	825				
+NBFAOAKO_00879	CDS	825				hypothetical protein
+NBFAOAKO_00880	gene	90				
+NBFAOAKO_00880	CDS	90				hypothetical protein
+NBFAOAKO_00881	gene	165				
+NBFAOAKO_00881	CDS	165				hypothetical protein
+NBFAOAKO_00882	gene	213	lipA			
+NBFAOAKO_00882	CDS	213	lipA	2.8.1.8	COG0320	Lipoyl synthase
+NBFAOAKO_00883	gene	1767	sppA			
+NBFAOAKO_00883	CDS	1767	sppA	3.4.21.-	COG0616	Protease 4
+NBFAOAKO_00884	gene	1173	lpxK			
+NBFAOAKO_00884	CDS	1173	lpxK	2.7.1.130	COG1663	Tetraacyldisaccharide 4'-kinase
+NBFAOAKO_00885	gene	660	punA			
+NBFAOAKO_00885	CDS	660	punA	2.4.2.1	COG0005	Purine nucleoside phosphorylase 1
+NBFAOAKO_00886	gene	1116	thiL			
+NBFAOAKO_00886	CDS	1116	thiL	2.7.4.16	COG0611	Thiamine-monophosphate kinase
+NBFAOAKO_00887	gene	408				
+NBFAOAKO_00887	CDS	408				hypothetical protein
+NBFAOAKO_00888	gene	1623				
+NBFAOAKO_00888	CDS	1623				hypothetical protein
+NBFAOAKO_00889	gene	75				
+NBFAOAKO_00889	tRNA	75				tRNA-Glu(ttc)
+NBFAOAKO_00890	gene	726	recO			
+NBFAOAKO_00890	CDS	726	recO		COG1381	DNA repair protein RecO
+NBFAOAKO_00891	gene	165				
+NBFAOAKO_00891	CDS	165				hypothetical protein
+NBFAOAKO_00892	gene	1122				
+NBFAOAKO_00892	CDS	1122				hypothetical protein
+NBFAOAKO_00893	gene	447	yqeY			
+NBFAOAKO_00893	CDS	447	yqeY		COG1610	putative protein YqeY
+NBFAOAKO_00894	gene	1320	ftsZ			
+NBFAOAKO_00894	CDS	1320	ftsZ			Cell division protein FtsZ
+NBFAOAKO_00895	gene	1146	ftsA			
+NBFAOAKO_00895	CDS	1146	ftsA			Cell division protein FtsA
+NBFAOAKO_00896	gene	273				
+NBFAOAKO_00896	CDS	273				hypothetical protein
+NBFAOAKO_00897	gene	1095				
+NBFAOAKO_00897	CDS	1095				hypothetical protein
+NBFAOAKO_00898	gene	636	nfrA2			
+NBFAOAKO_00898	CDS	636	nfrA2	1.5.1.39	COG0778	FMN reductase [NAD(P)H]
+NBFAOAKO_00899	gene	1320				
+NBFAOAKO_00899	CDS	1320				hypothetical protein
+NBFAOAKO_00900	gene	780				
+NBFAOAKO_00900	CDS	780				hypothetical protein
+NBFAOAKO_00901	gene	285				
+NBFAOAKO_00901	CDS	285				hypothetical protein
+NBFAOAKO_00902	gene	1461	sasA			
+NBFAOAKO_00902	CDS	1461	sasA	2.7.-.-		Adaptive-response sensory-kinase SasA
+NBFAOAKO_00903	gene	3873				
+NBFAOAKO_00903	CDS	3873				hypothetical protein
+NBFAOAKO_00904	gene	333				
+NBFAOAKO_00904	CDS	333				hypothetical protein
+NBFAOAKO_00905	gene	414				
+NBFAOAKO_00905	CDS	414				hypothetical protein
+NBFAOAKO_00906	gene	555	nudC_2			
+NBFAOAKO_00906	CDS	555	nudC_2	3.6.1.22		NADH pyrophosphatase
+NBFAOAKO_00907	gene	507				
+NBFAOAKO_00907	CDS	507				hypothetical protein
+NBFAOAKO_00908	gene	1152	resA_4			
+NBFAOAKO_00908	CDS	1152	resA_4			Thiol-disulfide oxidoreductase ResA
+NBFAOAKO_00909	gene	990				
+NBFAOAKO_00909	CDS	990				hypothetical protein
+NBFAOAKO_00910	gene	1026				
+NBFAOAKO_00910	CDS	1026				hypothetical protein
+NBFAOAKO_00911	gene	132				
+NBFAOAKO_00911	CDS	132				hypothetical protein
+NBFAOAKO_00912	gene	531				
+NBFAOAKO_00912	CDS	531				hypothetical protein
+NBFAOAKO_00913	gene	618				
+NBFAOAKO_00913	CDS	618				hypothetical protein
+NBFAOAKO_00914	gene	1374	tpl			
+NBFAOAKO_00914	CDS	1374	tpl	4.1.99.2	COG3033	Tyrosine phenol-lyase
+NBFAOAKO_00915	gene	264				
+NBFAOAKO_00915	CDS	264				hypothetical protein
+NBFAOAKO_00916	gene	498				
+NBFAOAKO_00916	CDS	498				hypothetical protein
+NBFAOAKO_00917	gene	867				
+NBFAOAKO_00917	CDS	867				hypothetical protein
+NBFAOAKO_00918	gene	1026	mbl			
+NBFAOAKO_00918	CDS	1026	mbl		COG1077	Cell shape-determining protein Mbl
+NBFAOAKO_00919	gene	600	purH_2			
+NBFAOAKO_00919	CDS	600	purH_2		COG0138	Bifunctional purine biosynthesis protein PurH
+NBFAOAKO_00920	gene	435	folK			
+NBFAOAKO_00920	CDS	435	folK	2.7.6.3	COG0801	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+NBFAOAKO_00921	gene	1119	queA_1			
+NBFAOAKO_00921	CDS	1119	queA_1	2.4.99.17		S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NBFAOAKO_00922	gene	390				
+NBFAOAKO_00922	CDS	390				hypothetical protein
+NBFAOAKO_00923	gene	1347	murA			
+NBFAOAKO_00923	CDS	1347	murA	2.5.1.7	COG0766	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+NBFAOAKO_00924	gene	522	rimM			
+NBFAOAKO_00924	CDS	522	rimM			Ribosome maturation factor RimM
+NBFAOAKO_00925	gene	1155	dxr			
+NBFAOAKO_00925	CDS	1155	dxr	1.1.1.267	COG0743	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+NBFAOAKO_00926	gene	1410				
+NBFAOAKO_00926	CDS	1410		3.4.24.-	COG0750	Putative zinc metalloprotease
+NBFAOAKO_00927	gene	375				
+NBFAOAKO_00927	CDS	375				hypothetical protein
+NBFAOAKO_00928	gene	1476	hutH			
+NBFAOAKO_00928	CDS	1476	hutH	4.3.1.3	COG2986	Histidine ammonia-lyase
+NBFAOAKO_00929	gene	2007	hutU			
+NBFAOAKO_00929	CDS	2007	hutU	4.2.1.49	COG2987	Urocanate hydratase
+NBFAOAKO_00930	gene	1713				
+NBFAOAKO_00930	CDS	1713				hypothetical protein
+NBFAOAKO_00931	gene	1098				
+NBFAOAKO_00931	CDS	1098				hypothetical protein
+NBFAOAKO_00932	gene	1026				
+NBFAOAKO_00932	CDS	1026				hypothetical protein
+NBFAOAKO_00933	gene	600				
+NBFAOAKO_00933	CDS	600				hypothetical protein
+NBFAOAKO_00934	gene	597				
+NBFAOAKO_00934	CDS	597				hypothetical protein
+NBFAOAKO_00935	gene	1176	menF			
+NBFAOAKO_00935	CDS	1176	menF	5.4.4.2		Isochorismate synthase MenF
+NBFAOAKO_00936	gene	975				
+NBFAOAKO_00936	CDS	975				hypothetical protein
+NBFAOAKO_00937	gene	195				
+NBFAOAKO_00937	CDS	195				hypothetical protein
+NBFAOAKO_00938	gene	1059				
+NBFAOAKO_00938	CDS	1059				hypothetical protein
+NBFAOAKO_00939	gene	1065	kdsA			
+NBFAOAKO_00939	CDS	1065	kdsA	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+NBFAOAKO_00940	gene	2220				
+NBFAOAKO_00940	CDS	2220				hypothetical protein
+NBFAOAKO_00941	gene	1857	cptA			
+NBFAOAKO_00941	CDS	1857	cptA	2.7.-.-	COG2194	Phosphoethanolamine transferase CptA
+NBFAOAKO_00942	gene	804				
+NBFAOAKO_00942	CDS	804		2.4.1.-		PGL/p-HBAD biosynthesis glycosyltransferase
+NBFAOAKO_00943	gene	1329	mshA_1			
+NBFAOAKO_00943	CDS	1329	mshA_1	2.4.1.250		D-inositol-3-phosphate glycosyltransferase
+NBFAOAKO_00944	gene	204				
+NBFAOAKO_00944	CDS	204				hypothetical protein
+NBFAOAKO_00945	gene	1014	macA			
+NBFAOAKO_00945	CDS	1014	macA		COG0845	Macrolide export protein MacA
+NBFAOAKO_00946	gene	2064	dsbD			
+NBFAOAKO_00946	CDS	2064	dsbD	1.8.1.8		Thiol:disulfide interchange protein DsbD
+NBFAOAKO_00947	gene	606				
+NBFAOAKO_00947	CDS	606				hypothetical protein
+NBFAOAKO_00948	gene	987	miaA_2			
+NBFAOAKO_00948	CDS	987	miaA_2	2.5.1.75	COG0324	tRNA dimethylallyltransferase
+NBFAOAKO_00949	gene	1977	fbp			
+NBFAOAKO_00949	CDS	1977	fbp	3.1.3.11	COG3855	Fructose-1,6-bisphosphatase class 3
+NBFAOAKO_00950	gene	1125				
+NBFAOAKO_00950	CDS	1125				hypothetical protein
+NBFAOAKO_00951	gene	651	lysC			
+NBFAOAKO_00951	CDS	651	lysC	2.7.2.4	COG0527	Lysine-sensitive aspartokinase 3
+NBFAOAKO_00952	gene	1065				
+NBFAOAKO_00952	CDS	1065				hypothetical protein
+NBFAOAKO_00953	gene	138				
+NBFAOAKO_00953	CDS	138				hypothetical protein
+NBFAOAKO_00954	gene	165				
+NBFAOAKO_00954	CDS	165				hypothetical protein
+NBFAOAKO_00955	gene	156				
+NBFAOAKO_00955	CDS	156				hypothetical protein
+NBFAOAKO_00956	gene	1446				
+NBFAOAKO_00956	CDS	1446				hypothetical protein
+NBFAOAKO_00957	gene	369				
+NBFAOAKO_00957	CDS	369				hypothetical protein
+NBFAOAKO_00958	gene	1326	fucP			
+NBFAOAKO_00958	CDS	1326	fucP		COG0738	L-fucose-proton symporter
+NBFAOAKO_00959	gene	2493				
+NBFAOAKO_00959	CDS	2493				hypothetical protein
+NBFAOAKO_00960	gene	117				
+NBFAOAKO_00960	CDS	117				hypothetical protein
+NBFAOAKO_00961	gene	105				
+NBFAOAKO_00961	CDS	105				hypothetical protein
+NBFAOAKO_00962	gene	180				
+NBFAOAKO_00962	CDS	180				hypothetical protein
+NBFAOAKO_00963	gene	318				
+NBFAOAKO_00963	CDS	318				hypothetical protein
+NBFAOAKO_00964	gene	1917				
+NBFAOAKO_00964	CDS	1917				hypothetical protein
+NBFAOAKO_00965	gene	1347				
+NBFAOAKO_00965	CDS	1347				hypothetical protein
+NBFAOAKO_00966	gene	2109				
+NBFAOAKO_00966	CDS	2109				hypothetical protein
+NBFAOAKO_00967	gene	138				
+NBFAOAKO_00967	CDS	138				hypothetical protein
+NBFAOAKO_00968	gene	1578	glcA			
+NBFAOAKO_00968	CDS	1578	glcA		COG1620	Glycolate permease GlcA
+NBFAOAKO_00969	gene	174				
+NBFAOAKO_00969	CDS	174				hypothetical protein
+NBFAOAKO_00970	gene	1134	hemW			
+NBFAOAKO_00970	CDS	1134	hemW		COG0635	Heme chaperone HemW
+NBFAOAKO_00971	gene	1293				
+NBFAOAKO_00971	CDS	1293				hypothetical protein
+NBFAOAKO_00972	gene	1827				
+NBFAOAKO_00972	CDS	1827				hypothetical protein
+NBFAOAKO_00973	gene	306				
+NBFAOAKO_00973	CDS	306				hypothetical protein
+NBFAOAKO_00974	gene	1818				
+NBFAOAKO_00974	CDS	1818				hypothetical protein
+NBFAOAKO_00975	gene	330				
+NBFAOAKO_00975	CDS	330				hypothetical protein
+NBFAOAKO_00976	gene	89				
+NBFAOAKO_00976	tRNA	89				tRNA-Ser(gga)
+NBFAOAKO_00977	gene	882	dtd3			
+NBFAOAKO_00977	CDS	882	dtd3	3.1.1.96		D-aminoacyl-tRNA deacylase
+NBFAOAKO_00978	gene	699				
+NBFAOAKO_00978	CDS	699				hypothetical protein
+NBFAOAKO_00979	gene	975				
+NBFAOAKO_00979	CDS	975		2.5.1.10	COG0142	(2E,6E)-farnesyl diphosphate synthase
+NBFAOAKO_00980	gene	720				
+NBFAOAKO_00980	CDS	720				hypothetical protein
+NBFAOAKO_00981	gene	1620				
+NBFAOAKO_00981	CDS	1620				hypothetical protein
+NBFAOAKO_00982	gene	1764	dpp5			
+NBFAOAKO_00982	CDS	1764	dpp5	3.4.14.-	COG1506	Dipeptidyl-peptidase 5
+NBFAOAKO_00983	gene	333				
+NBFAOAKO_00983	CDS	333				hypothetical protein
+NBFAOAKO_00984	gene	633	nadD			
+NBFAOAKO_00984	CDS	633	nadD	2.7.7.18	COG1057	Nicotinate-nucleotide adenylyltransferase
+NBFAOAKO_00985	gene	696	gmk			
+NBFAOAKO_00985	CDS	696	gmk	2.7.4.8	COG0194	Guanylate kinase
+NBFAOAKO_00986	gene	1149				
+NBFAOAKO_00986	CDS	1149				hypothetical protein
+NBFAOAKO_00987	gene	879				
+NBFAOAKO_00987	CDS	879				hypothetical protein
+NBFAOAKO_00988	gene	690	tsaB			
+NBFAOAKO_00988	CDS	690	tsaB		COG1214	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+NBFAOAKO_00989	gene	2787	susC			
+NBFAOAKO_00989	CDS	2787	susC			TonB-dependent receptor SusC
+NBFAOAKO_00990	gene	1617	susD			
+NBFAOAKO_00990	CDS	1617	susD			Starch-binding protein SusD
+NBFAOAKO_00991	gene	2460				
+NBFAOAKO_00991	CDS	2460				hypothetical protein
+NBFAOAKO_00992	gene	483				
+NBFAOAKO_00992	CDS	483				hypothetical protein
+NBFAOAKO_00993	gene	507				
+NBFAOAKO_00993	CDS	507				hypothetical protein
+NBFAOAKO_00994	gene	234				
+NBFAOAKO_00994	CDS	234				hypothetical protein
+NBFAOAKO_00995	gene	795				
+NBFAOAKO_00995	CDS	795				hypothetical protein
+NBFAOAKO_00996	gene	1821				
+NBFAOAKO_00996	CDS	1821				hypothetical protein
+NBFAOAKO_00997	gene	3441				
+NBFAOAKO_00997	CDS	3441				hypothetical protein
+NBFAOAKO_00998	gene	1419				
+NBFAOAKO_00998	CDS	1419				hypothetical protein
+NBFAOAKO_00999	gene	1260				
+NBFAOAKO_00999	CDS	1260				hypothetical protein
+NBFAOAKO_01000	gene	114				
+NBFAOAKO_01000	CDS	114				hypothetical protein
+NBFAOAKO_01001	gene	156				
+NBFAOAKO_01001	CDS	156				hypothetical protein
+NBFAOAKO_01002	gene	711				
+NBFAOAKO_01002	CDS	711				hypothetical protein
+NBFAOAKO_01003	gene	1488	xylB			
+NBFAOAKO_01003	CDS	1488	xylB	2.7.1.17	COG1070	Xylulose kinase
+NBFAOAKO_01004	gene	1368	ndhB			
+NBFAOAKO_01004	CDS	1368	ndhB	7.1.1.-	COG1007	NAD(P)H-quinone oxidoreductase subunit 2
+NBFAOAKO_01005	gene	1005				
+NBFAOAKO_01005	CDS	1005				hypothetical protein
+NBFAOAKO_01006	gene	150				
+NBFAOAKO_01006	CDS	150				hypothetical protein
+NBFAOAKO_01007	gene	198				
+NBFAOAKO_01007	CDS	198				hypothetical protein
+NBFAOAKO_01008	gene	1743				
+NBFAOAKO_01008	CDS	1743				hypothetical protein
+NBFAOAKO_01009	gene	2463	pheT			
+NBFAOAKO_01009	CDS	2463	pheT	6.1.1.20	COG0072	Phenylalanine--tRNA ligase beta subunit
+NBFAOAKO_01010	gene	648				
+NBFAOAKO_01010	CDS	648				hypothetical protein
+NBFAOAKO_01011	gene	711				
+NBFAOAKO_01011	CDS	711				hypothetical protein
+NBFAOAKO_01012	gene	450	nth			
+NBFAOAKO_01012	CDS	450	nth	4.2.99.18	COG0177	Endonuclease III
+NBFAOAKO_01013	gene	4299				
+NBFAOAKO_01013	CDS	4299				hypothetical protein
+NBFAOAKO_01014	gene	123				
+NBFAOAKO_01014	CDS	123				hypothetical protein
+NBFAOAKO_01015	gene	1098	apbC			
+NBFAOAKO_01015	CDS	1098	apbC		COG0489	Iron-sulfur cluster carrier protein
+NBFAOAKO_01016	gene	768				
+NBFAOAKO_01016	CDS	768				hypothetical protein
+NBFAOAKO_01017	gene	567	phoB			
+NBFAOAKO_01017	CDS	567	phoB		COG0745	Phosphate regulon transcriptional regulatory protein PhoB
+NBFAOAKO_01018	gene	411	mshA_2			
+NBFAOAKO_01018	CDS	411	mshA_2	2.4.1.250	COG0438	D-inositol 3-phosphate glycosyltransferase
+NBFAOAKO_01019	gene	1416				
+NBFAOAKO_01019	CDS	1416				hypothetical protein
+NBFAOAKO_01020	gene	108				
+NBFAOAKO_01020	CDS	108				hypothetical protein
+NBFAOAKO_01021	gene	135				
+NBFAOAKO_01021	CDS	135				hypothetical protein
+NBFAOAKO_01022	gene	825	pyrF			
+NBFAOAKO_01022	CDS	825	pyrF	4.1.1.23	COG0284	Orotidine 5'-phosphate decarboxylase
+NBFAOAKO_01023	gene	1113	prfA			
+NBFAOAKO_01023	CDS	1113	prfA		COG0216	Peptide chain release factor 1
+NBFAOAKO_01024	gene	339	purM			
+NBFAOAKO_01024	CDS	339	purM	6.3.3.1		Phosphoribosylformylglycinamidine cyclo-ligase
+NBFAOAKO_01025	gene	1110				
+NBFAOAKO_01025	CDS	1110				hypothetical protein
+NBFAOAKO_01026	gene	246				
+NBFAOAKO_01026	CDS	246				hypothetical protein
+NBFAOAKO_01027	gene	768				
+NBFAOAKO_01027	CDS	768				hypothetical protein
+NBFAOAKO_01028	gene	1185				
+NBFAOAKO_01028	CDS	1185				hypothetical protein
+NBFAOAKO_01029	gene	207				
+NBFAOAKO_01029	CDS	207				hypothetical protein
+NBFAOAKO_01030	gene	1047	htpG			
+NBFAOAKO_01030	CDS	1047	htpG			Chaperone protein HtpG
+NBFAOAKO_01031	gene	1248	lolE_1			
+NBFAOAKO_01031	CDS	1248	lolE_1		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+NBFAOAKO_01032	gene	444				
+NBFAOAKO_01032	CDS	444				hypothetical protein
+NBFAOAKO_01033	gene	927				
+NBFAOAKO_01033	CDS	927				hypothetical protein
+NBFAOAKO_01034	gene	141				
+NBFAOAKO_01034	CDS	141				hypothetical protein
+NBFAOAKO_01035	gene	1461	pepD_1			
+NBFAOAKO_01035	CDS	1461	pepD_1	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+NBFAOAKO_01036	gene	246				
+NBFAOAKO_01036	CDS	246				hypothetical protein
+NBFAOAKO_01037	gene	2016				
+NBFAOAKO_01037	CDS	2016				hypothetical protein
+NBFAOAKO_01038	gene	741				
+NBFAOAKO_01038	CDS	741				hypothetical protein
+NBFAOAKO_01039	gene	195				
+NBFAOAKO_01039	CDS	195				hypothetical protein
+NBFAOAKO_01040	gene	459				
+NBFAOAKO_01040	CDS	459				hypothetical protein
+NBFAOAKO_01041	gene	987				
+NBFAOAKO_01041	CDS	987				hypothetical protein
+NBFAOAKO_01042	gene	483				
+NBFAOAKO_01042	CDS	483				hypothetical protein
+NBFAOAKO_01043	gene	789				
+NBFAOAKO_01043	CDS	789				hypothetical protein
+NBFAOAKO_01044	gene	303				
+NBFAOAKO_01044	CDS	303				hypothetical protein
+NBFAOAKO_01045	gene	642	pheS			
+NBFAOAKO_01045	CDS	642	pheS	6.1.1.20	COG0016	Phenylalanine--tRNA ligase alpha subunit
+NBFAOAKO_01046	gene	390				
+NBFAOAKO_01046	CDS	390				hypothetical protein
+NBFAOAKO_01047	gene	1212				
+NBFAOAKO_01047	CDS	1212				hypothetical protein
+NBFAOAKO_01048	gene	936	arnC			
+NBFAOAKO_01048	CDS	936	arnC	2.4.2.53		Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+NBFAOAKO_01049	gene	486	ftnA			
+NBFAOAKO_01049	CDS	486	ftnA	1.16.3.2		Bacterial non-heme ferritin
+NBFAOAKO_01050	gene	318				
+NBFAOAKO_01050	CDS	318				hypothetical protein
+NBFAOAKO_01051	gene	513				
+NBFAOAKO_01051	CDS	513				hypothetical protein
+NBFAOAKO_01052	gene	534	nuoI			
+NBFAOAKO_01052	CDS	534	nuoI	7.1.1.-	COG1143	NADH-quinone oxidoreductase subunit I
+NBFAOAKO_01053	gene	1089	nuoH			
+NBFAOAKO_01053	CDS	1089	nuoH	7.1.1.-	COG1005	NADH-quinone oxidoreductase subunit H
+NBFAOAKO_01054	gene	1563	nuoC			
+NBFAOAKO_01054	CDS	1563	nuoC	7.1.1.-		NADH-quinone oxidoreductase subunit C/D
+NBFAOAKO_01055	gene	438	ndhK			
+NBFAOAKO_01055	CDS	438	ndhK	7.1.1.-		NAD(P)H-quinone oxidoreductase subunit K, chloroplastic
+NBFAOAKO_01056	gene	1086	wbpI			
+NBFAOAKO_01056	CDS	1086	wbpI	5.1.3.23	COG0381	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+NBFAOAKO_01057	gene	927	oxyR			
+NBFAOAKO_01057	CDS	927	oxyR			Hydrogen peroxide-inducible genes activator
+NBFAOAKO_01058	gene	585	sodB			
+NBFAOAKO_01058	CDS	585	sodB	1.15.1.1	COG0605	Superoxide dismutase [Mn/Fe]
+NBFAOAKO_01059	gene	567	ahpC			
+NBFAOAKO_01059	CDS	567	ahpC	1.11.1.15	COG0450	Alkyl hydroperoxide reductase C
+NBFAOAKO_01060	gene	1698	btuB_4			
+NBFAOAKO_01060	CDS	1698	btuB_4			Vitamin B12 transporter BtuB
+NBFAOAKO_01061	gene	1242				
+NBFAOAKO_01061	CDS	1242				hypothetical protein
+NBFAOAKO_01062	gene	186				
+NBFAOAKO_01062	CDS	186				hypothetical protein
+NBFAOAKO_01063	gene	1353	trkA			
+NBFAOAKO_01063	CDS	1353	trkA		COG0569	Trk system potassium uptake protein TrkA
+NBFAOAKO_01064	gene	1458	trkH			
+NBFAOAKO_01064	CDS	1458	trkH		COG0168	Trk system potassium uptake protein TrkH
+NBFAOAKO_01065	gene	963	manA			
+NBFAOAKO_01065	CDS	963	manA	5.3.1.8	COG1482	Mannose-6-phosphate isomerase ManA
+NBFAOAKO_01066	gene	165				
+NBFAOAKO_01066	CDS	165				hypothetical protein
+NBFAOAKO_01067	gene	363				
+NBFAOAKO_01067	CDS	363				hypothetical protein
+NBFAOAKO_01068	gene	816				
+NBFAOAKO_01068	CDS	816				hypothetical protein
+NBFAOAKO_01069	gene	1458	egtB			
+NBFAOAKO_01069	CDS	1458	egtB	1.14.99.50		Hercynine oxygenase
+NBFAOAKO_01070	gene	975				
+NBFAOAKO_01070	CDS	975				hypothetical protein
+	repeat_region	431				
+NBFAOAKO_01071	gene	108				
+NBFAOAKO_01071	CDS	108				hypothetical protein
+NBFAOAKO_01072	gene	927				
+NBFAOAKO_01072	CDS	927				hypothetical protein
+NBFAOAKO_01073	gene	987	fcl			
+NBFAOAKO_01073	CDS	987	fcl	1.1.1.271		GDP-L-fucose synthase
+NBFAOAKO_01074	gene	678	tarI			
+NBFAOAKO_01074	CDS	678	tarI	2.7.7.40		Ribitol-5-phosphate cytidylyltransferase
+NBFAOAKO_01075	gene	930	ahpF			
+NBFAOAKO_01075	CDS	930	ahpF	1.8.1.-		Alkyl hydroperoxide reductase subunit F
+NBFAOAKO_01076	gene	1050	rlmN			
+NBFAOAKO_01076	CDS	1050	rlmN	2.1.1.192	COG0820	Dual-specificity RNA methyltransferase RlmN
+NBFAOAKO_01077	gene	978				
+NBFAOAKO_01077	CDS	978				hypothetical protein
+NBFAOAKO_01078	gene	1107	pdxA2			
+NBFAOAKO_01078	CDS	1107	pdxA2	1.1.1.408	COG1995	D-threonate 4-phosphate dehydrogenase
+NBFAOAKO_01079	gene	2877				
+NBFAOAKO_01079	CDS	2877				TonB-dependent receptor P26
+NBFAOAKO_01080	gene	138				
+NBFAOAKO_01080	CDS	138				hypothetical protein
+NBFAOAKO_01081	gene	1122	prfB			
+NBFAOAKO_01081	CDS	1122	prfB		COG1186	Peptide chain release factor RF2
+NBFAOAKO_01082	gene	1809				
+NBFAOAKO_01082	CDS	1809		6.2.1.3	COG1022	Long-chain-fatty-acid--CoA ligase FadD15
+NBFAOAKO_01083	gene	465				
+NBFAOAKO_01083	CDS	465				hypothetical protein
+NBFAOAKO_01084	gene	774	lpxA_2			
+NBFAOAKO_01084	CDS	774	lpxA_2	2.3.1.129	COG1043	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+NBFAOAKO_01085	gene	1362	oprM			
+NBFAOAKO_01085	CDS	1362	oprM		COG1538	Outer membrane protein OprM
+NBFAOAKO_01086	gene	1668	bepE			
+NBFAOAKO_01086	CDS	1668	bepE			Efflux pump membrane transporter BepE
+NBFAOAKO_01087	gene	294	hup			
+NBFAOAKO_01087	CDS	294	hup			DNA-binding protein HU
+NBFAOAKO_01088	gene	1317	rimO			
+NBFAOAKO_01088	CDS	1317	rimO	2.8.4.4	COG0621	Ribosomal protein S12 methylthiotransferase RimO
+NBFAOAKO_01089	gene	957	ftsY			
+NBFAOAKO_01089	CDS	957	ftsY		COG0552	Signal recognition particle receptor FtsY
+NBFAOAKO_01090	gene	159				
+NBFAOAKO_01090	CDS	159				hypothetical protein
+NBFAOAKO_01091	gene	189	rpmG2			
+NBFAOAKO_01091	CDS	189	rpmG2			50S ribosomal protein L33 2
+NBFAOAKO_01092	gene	873				
+NBFAOAKO_01092	CDS	873				hypothetical protein
+NBFAOAKO_01093	gene	216				
+NBFAOAKO_01093	CDS	216				hypothetical protein
+NBFAOAKO_01094	gene	1566	cydA			
+NBFAOAKO_01094	CDS	1566	cydA	1.10.3.-	COG1271	Cytochrome bd ubiquinol oxidase subunit 1
+NBFAOAKO_01095	gene	636				
+NBFAOAKO_01095	CDS	636				hypothetical protein
+NBFAOAKO_01096	gene	1314				
+NBFAOAKO_01096	CDS	1314				hypothetical protein
+NBFAOAKO_01097	gene	1329				
+NBFAOAKO_01097	CDS	1329				hypothetical protein
+NBFAOAKO_01098	gene	849				
+NBFAOAKO_01098	CDS	849				hypothetical protein
+NBFAOAKO_01099	gene	597				
+NBFAOAKO_01099	CDS	597				hypothetical protein
+NBFAOAKO_01100	gene	1218	norV			
+NBFAOAKO_01100	CDS	1218	norV		COG0426	Anaerobic nitric oxide reductase flavorubredoxin
+NBFAOAKO_01101	gene	1317				
+NBFAOAKO_01101	CDS	1317		3.4.24.-	COG0612	putative zinc protease
+NBFAOAKO_01102	gene	270				
+NBFAOAKO_01102	CDS	270				hypothetical protein
+NBFAOAKO_01103	gene	2613				
+NBFAOAKO_01103	CDS	2613				hypothetical protein
+NBFAOAKO_01104	gene	594				
+NBFAOAKO_01104	CDS	594				hypothetical protein
+NBFAOAKO_01105	gene	1581	mrcA			
+NBFAOAKO_01105	CDS	1581	mrcA		COG5009	Penicillin-binding protein 1A
+NBFAOAKO_01106	gene	1020	lpxL			
+NBFAOAKO_01106	CDS	1020	lpxL	2.3.1.241		Lipid A biosynthesis lauroyltransferase
+NBFAOAKO_01107	gene	807				
+NBFAOAKO_01107	CDS	807				hypothetical protein
+NBFAOAKO_01108	gene	1158				
+NBFAOAKO_01108	CDS	1158				hypothetical protein
+NBFAOAKO_01109	gene	417				
+NBFAOAKO_01109	CDS	417				hypothetical protein
+NBFAOAKO_01110	gene	609	grpE			
+NBFAOAKO_01110	CDS	609	grpE			Protein GrpE
+NBFAOAKO_01111	gene	1611	ybiT			
+NBFAOAKO_01111	CDS	1611	ybiT		COG0488	putative ABC transporter ATP-binding protein YbiT
+NBFAOAKO_01112	gene	894	nqrF			
+NBFAOAKO_01112	CDS	894	nqrF	7.2.1.1	COG2871	Na(+)-translocating NADH-quinone reductase subunit F
+NBFAOAKO_01113	gene	1563				
+NBFAOAKO_01113	CDS	1563				hypothetical protein
+NBFAOAKO_01114	gene	1224	clpC			
+NBFAOAKO_01114	CDS	1224	clpC			ATP-dependent Clp protease ATP-binding subunit ClpC
+NBFAOAKO_01115	gene	627				
+NBFAOAKO_01115	CDS	627				hypothetical protein
+NBFAOAKO_01116	gene	1389				
+NBFAOAKO_01116	CDS	1389				hypothetical protein
+NBFAOAKO_01117	gene	1491	prcA			
+NBFAOAKO_01117	CDS	1491	prcA	3.4.21.-	COG1404	Calcium-dependent protease
+NBFAOAKO_01118	gene	3063	secD			
+NBFAOAKO_01118	CDS	3063	secD			Protein translocase subunit SecD
+NBFAOAKO_01119	gene	414				
+NBFAOAKO_01119	CDS	414				hypothetical protein
+NBFAOAKO_01120	gene	2760				
+NBFAOAKO_01120	CDS	2760				hypothetical protein
+NBFAOAKO_01121	gene	1971	ftsH_2			
+NBFAOAKO_01121	CDS	1971	ftsH_2	3.4.24.-		ATP-dependent zinc metalloprotease FtsH
+NBFAOAKO_01122	gene	852				
+NBFAOAKO_01122	CDS	852				hypothetical protein
+NBFAOAKO_01123	gene	522				
+NBFAOAKO_01123	CDS	522				hypothetical protein
+NBFAOAKO_01124	gene	273				
+NBFAOAKO_01124	CDS	273				hypothetical protein
+NBFAOAKO_01125	gene	1995				
+NBFAOAKO_01125	CDS	1995				hypothetical protein
+NBFAOAKO_01126	gene	186				
+NBFAOAKO_01126	CDS	186				hypothetical protein
+NBFAOAKO_01127	gene	315				
+NBFAOAKO_01127	CDS	315				hypothetical protein
+NBFAOAKO_01128	gene	270				
+NBFAOAKO_01128	CDS	270				hypothetical protein
+NBFAOAKO_01129	gene	486				
+NBFAOAKO_01129	CDS	486				hypothetical protein
+NBFAOAKO_01130	gene	1269	xerC_1			
+NBFAOAKO_01130	CDS	1269	xerC_1			Tyrosine recombinase XerC
+NBFAOAKO_01131	gene	516	xerC_2			
+NBFAOAKO_01131	CDS	516	xerC_2			Tyrosine recombinase XerC
+NBFAOAKO_01132	gene	600	slyD			
+NBFAOAKO_01132	CDS	600	slyD	5.2.1.8	COG1047	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+NBFAOAKO_01133	gene	1092	aroC			
+NBFAOAKO_01133	CDS	1092	aroC	4.2.3.5	COG0082	Chorismate synthase
+NBFAOAKO_01134	gene	912	pyrD			
+NBFAOAKO_01134	CDS	912	pyrD	1.3.1.14	COG0167	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+NBFAOAKO_01135	gene	678	pyrK			
+NBFAOAKO_01135	CDS	678	pyrK		COG0543	Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+NBFAOAKO_01136	gene	2097				
+NBFAOAKO_01136	CDS	2097				hypothetical protein
+NBFAOAKO_01137	gene	177				
+NBFAOAKO_01137	CDS	177				hypothetical protein
+NBFAOAKO_01138	gene	435				
+NBFAOAKO_01138	CDS	435				hypothetical protein
+NBFAOAKO_01139	gene	1692				
+NBFAOAKO_01139	CDS	1692				hypothetical protein
+NBFAOAKO_01140	gene	219				
+NBFAOAKO_01140	CDS	219				hypothetical protein
+NBFAOAKO_01141	gene	1071	aroB			
+NBFAOAKO_01141	CDS	1071	aroB	4.2.3.4		3-dehydroquinate synthase
+NBFAOAKO_01142	gene	534	resA_5			
+NBFAOAKO_01142	CDS	534	resA_5			Thiol-disulfide oxidoreductase ResA
+NBFAOAKO_01143	gene	1023	recA			
+NBFAOAKO_01143	CDS	1023	recA			Protein RecA
+NBFAOAKO_01144	gene	2442	alaS			
+NBFAOAKO_01144	CDS	2442	alaS	6.1.1.7	COG0013	Alanine--tRNA ligase
+NBFAOAKO_01145	gene	1473				
+NBFAOAKO_01145	CDS	1473				SusD-like protein P25
+NBFAOAKO_01146	gene	1818				
+NBFAOAKO_01146	CDS	1818				hypothetical protein
+NBFAOAKO_01147	gene	687				
+NBFAOAKO_01147	CDS	687				hypothetical protein
+NBFAOAKO_01148	gene	2562				
+NBFAOAKO_01148	CDS	2562				hypothetical protein
+NBFAOAKO_01149	gene	276				
+NBFAOAKO_01149	CDS	276				hypothetical protein
+NBFAOAKO_01150	gene	318				
+NBFAOAKO_01150	CDS	318				hypothetical protein
+NBFAOAKO_01151	gene	378	ridA			
+NBFAOAKO_01151	CDS	378	ridA	3.5.99.10	COG0251	2-iminobutanoate/2-iminopropanoate deaminase
+NBFAOAKO_01152	gene	1827	msbA			
+NBFAOAKO_01152	CDS	1827	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+NBFAOAKO_01153	gene	144				
+NBFAOAKO_01153	CDS	144				hypothetical protein
+NBFAOAKO_01154	gene	507				
+NBFAOAKO_01154	CDS	507				hypothetical protein
+NBFAOAKO_01155	gene	705	ttcA			
+NBFAOAKO_01155	CDS	705	ttcA	2.8.1.-		tRNA-cytidine(32) 2-sulfurtransferase
+NBFAOAKO_01156	gene	657	ppaX			
+NBFAOAKO_01156	CDS	657	ppaX	3.6.1.1	COG0546	Pyrophosphatase PpaX
+NBFAOAKO_01157	gene	162				
+NBFAOAKO_01157	CDS	162			COG1773	Rubredoxin
+NBFAOAKO_01158	gene	300	cmk			
+NBFAOAKO_01158	CDS	300	cmk	2.7.4.25		Cytidylate kinase
+NBFAOAKO_01159	gene	1374	yeeO			
+NBFAOAKO_01159	CDS	1374	yeeO		COG0534	putative FMN/FAD exporter YeeO
+NBFAOAKO_01160	gene	123				
+NBFAOAKO_01160	CDS	123				hypothetical protein
+NBFAOAKO_01161	gene	138				
+NBFAOAKO_01161	CDS	138				hypothetical protein
+NBFAOAKO_01162	gene	582				
+NBFAOAKO_01162	CDS	582				hypothetical protein
+NBFAOAKO_01163	gene	549	glyQS			
+NBFAOAKO_01163	CDS	549	glyQS	6.1.1.14		Glycine--tRNA ligase
+NBFAOAKO_01164	gene	1269				
+NBFAOAKO_01164	CDS	1269				hypothetical protein
+NBFAOAKO_01165	gene	600	nrfH			
+NBFAOAKO_01165	CDS	600	nrfH		COG3005	Cytochrome c-type protein NrfH
+NBFAOAKO_01166	gene	672	yknY_2			
+NBFAOAKO_01166	CDS	672	yknY_2	3.6.3.-	COG1136	putative ABC transporter ATP-binding protein YknY
+NBFAOAKO_01167	gene	1260	macB_1			
+NBFAOAKO_01167	CDS	1260	macB_1	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+NBFAOAKO_01168	gene	1248	macB_2			
+NBFAOAKO_01168	CDS	1248	macB_2	3.6.3.-		Macrolide export ATP-binding/permease protein MacB
+NBFAOAKO_01169	gene	2094				
+NBFAOAKO_01169	CDS	2094				hypothetical protein
+NBFAOAKO_01170	gene	1116	rcsC_3			
+NBFAOAKO_01170	CDS	1116	rcsC_3	2.7.13.3		Sensor histidine kinase RcsC
+NBFAOAKO_01171	gene	336	rbfA			
+NBFAOAKO_01171	CDS	336	rbfA		COG0858	30S ribosome-binding factor
+NBFAOAKO_01172	gene	1230	lolE_2			
+NBFAOAKO_01172	CDS	1230	lolE_2		COG4591	Lipoprotein-releasing system transmembrane protein LolE
+NBFAOAKO_01173	gene	354				
+NBFAOAKO_01173	CDS	354				hypothetical protein
+NBFAOAKO_01174	gene	201				
+NBFAOAKO_01174	CDS	201				hypothetical protein
+NBFAOAKO_01175	gene	1563				
+NBFAOAKO_01175	CDS	1563				hypothetical protein
+NBFAOAKO_01176	gene	456				
+NBFAOAKO_01176	CDS	456				hypothetical protein
+NBFAOAKO_01177	gene	1443	rlmCD			
+NBFAOAKO_01177	CDS	1443	rlmCD	2.1.1.189	COG2265	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+NBFAOAKO_01178	gene	1101				
+NBFAOAKO_01178	CDS	1101				hypothetical protein
+NBFAOAKO_01179	gene	1404	mepA			
+NBFAOAKO_01179	CDS	1404	mepA			Multidrug export protein MepA
+NBFAOAKO_01180	gene	1323	xseA			
+NBFAOAKO_01180	CDS	1323	xseA	3.1.11.6	COG1570	Exodeoxyribonuclease 7 large subunit
+NBFAOAKO_01181	gene	561	coaE			
+NBFAOAKO_01181	CDS	561	coaE	2.7.1.24	COG0237	Dephospho-CoA kinase
+NBFAOAKO_01182	gene	444				
+NBFAOAKO_01182	CDS	444				hypothetical protein
+NBFAOAKO_01183	gene	249				
+NBFAOAKO_01183	CDS	249				hypothetical protein
+NBFAOAKO_01184	gene	852				
+NBFAOAKO_01184	CDS	852				hypothetical protein
+NBFAOAKO_01185	gene	933	yrbG			
+NBFAOAKO_01185	CDS	933	yrbG		COG0530	Inner membrane protein YrbG
+NBFAOAKO_01186	gene	1032	cytR			
+NBFAOAKO_01186	CDS	1032	cytR		COG1609	HTH-type transcriptional repressor CytR
+NBFAOAKO_01187	gene	1299				
+NBFAOAKO_01187	CDS	1299				hypothetical protein
+NBFAOAKO_01188	gene	414	glmS			
+NBFAOAKO_01188	CDS	414	glmS	5.4.99.1		Glutamate mutase sigma subunit
+NBFAOAKO_01189	gene	1383				
+NBFAOAKO_01189	CDS	1383				hypothetical protein
+NBFAOAKO_01190	gene	720				
+NBFAOAKO_01190	CDS	720				hypothetical protein
+NBFAOAKO_01191	gene	156				
+NBFAOAKO_01191	CDS	156				hypothetical protein
+NBFAOAKO_01192	gene	909	trxB			
+NBFAOAKO_01192	CDS	909	trxB	1.8.1.9	COG0492	Thioredoxin reductase
+NBFAOAKO_01193	gene	1155				
+NBFAOAKO_01193	CDS	1155				hypothetical protein
+NBFAOAKO_01194	gene	399				
+NBFAOAKO_01194	CDS	399				hypothetical protein
+NBFAOAKO_01195	gene	996				
+NBFAOAKO_01195	CDS	996				hypothetical protein
+NBFAOAKO_01196	gene	870				
+NBFAOAKO_01196	CDS	870				hypothetical protein
+NBFAOAKO_01197	gene	810				
+NBFAOAKO_01197	CDS	810				hypothetical protein
+NBFAOAKO_01198	gene	696				
+NBFAOAKO_01198	CDS	696				hypothetical protein
+NBFAOAKO_01199	gene	1035	lpd3			
+NBFAOAKO_01199	CDS	1035	lpd3	1.8.1.4	COG1249	Dihydrolipoyl dehydrogenase 3
+NBFAOAKO_01200	gene	855				
+NBFAOAKO_01200	CDS	855				hypothetical protein
+NBFAOAKO_01201	gene	339				
+NBFAOAKO_01201	CDS	339				hypothetical protein
+NBFAOAKO_01202	gene	459	ogt			
+NBFAOAKO_01202	CDS	459	ogt	2.1.1.63		Methylated-DNA--protein-cysteine methyltransferase
+NBFAOAKO_01203	gene	201	guaA			
+NBFAOAKO_01203	CDS	201	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+NBFAOAKO_01204	gene	351				
+NBFAOAKO_01204	CDS	351				hypothetical protein
+NBFAOAKO_01205	gene	1917				
+NBFAOAKO_01205	CDS	1917				hypothetical protein
+NBFAOAKO_01206	gene	390				
+NBFAOAKO_01206	CDS	390				hypothetical protein
+NBFAOAKO_01207	gene	741	pgpH			
+NBFAOAKO_01207	CDS	741	pgpH	3.1.4.59		Cyclic-di-AMP phosphodiesterase PgpH
+NBFAOAKO_01208	gene	1485				
+NBFAOAKO_01208	CDS	1485				hypothetical protein
+NBFAOAKO_01209	gene	660				
+NBFAOAKO_01209	CDS	660				hypothetical protein
+NBFAOAKO_01210	gene	291				
+NBFAOAKO_01210	CDS	291				hypothetical protein
+NBFAOAKO_01211	gene	636				
+NBFAOAKO_01211	CDS	636				hypothetical protein
+NBFAOAKO_01212	gene	1401	bepA_3			
+NBFAOAKO_01212	CDS	1401	bepA_3	3.4.-.-		Beta-barrel assembly-enhancing protease
+NBFAOAKO_01213	gene	294	glnS			
+NBFAOAKO_01213	CDS	294	glnS	6.1.1.18	COG0008	Glutamine--tRNA ligase
+NBFAOAKO_01214	gene	1077				
+NBFAOAKO_01214	CDS	1077				hypothetical protein
+NBFAOAKO_01215	gene	1836				
+NBFAOAKO_01215	CDS	1836				hypothetical protein
+NBFAOAKO_01216	gene	1014	asd			
+NBFAOAKO_01216	CDS	1014	asd	1.2.1.11	COG0136	Aspartate-semialdehyde dehydrogenase
+NBFAOAKO_01217	gene	477				
+NBFAOAKO_01217	CDS	477				hypothetical protein
+NBFAOAKO_01218	gene	1323				
+NBFAOAKO_01218	CDS	1323				hypothetical protein
+NBFAOAKO_01219	gene	258				
+NBFAOAKO_01219	CDS	258				hypothetical protein
+NBFAOAKO_01220	gene	408				
+NBFAOAKO_01220	CDS	408				hypothetical protein
+NBFAOAKO_01221	gene	273				
+NBFAOAKO_01221	CDS	273				hypothetical protein
+NBFAOAKO_01222	gene	1815	mutL			
+NBFAOAKO_01222	CDS	1815	mutL		COG0323	DNA mismatch repair protein MutL
+NBFAOAKO_01223	gene	1194	ttgA			
+NBFAOAKO_01223	CDS	1194	ttgA			putative efflux pump periplasmic linker TtgA
+NBFAOAKO_01224	gene	567				
+NBFAOAKO_01224	CDS	567		2.7.7.-	COG0617	CC-adding tRNA nucleotidyltransferase
+NBFAOAKO_01225	gene	2217	lagD			
+NBFAOAKO_01225	CDS	2217	lagD	3.4.22.-		Lactococcin-G-processing and transport ATP-binding protein LagD
+NBFAOAKO_01226	gene	486				
+NBFAOAKO_01226	CDS	486				hypothetical protein
+NBFAOAKO_01227	gene	96				
+NBFAOAKO_01227	CDS	96				hypothetical protein
+NBFAOAKO_01228	gene	255				
+NBFAOAKO_01228	CDS	255				hypothetical protein
+NBFAOAKO_01229	gene	2283				
+NBFAOAKO_01229	CDS	2283				hypothetical protein
+NBFAOAKO_01230	gene	255				
+NBFAOAKO_01230	CDS	255				hypothetical protein
+NBFAOAKO_01231	gene	471	pfp			
+NBFAOAKO_01231	CDS	471	pfp	2.7.1.90	COG0205	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+NBFAOAKO_01232	gene	804				
+NBFAOAKO_01232	CDS	804				hypothetical protein
+NBFAOAKO_01233	gene	882	prmC			
+NBFAOAKO_01233	CDS	882	prmC	2.1.1.297		Release factor glutamine methyltransferase
+NBFAOAKO_01234	gene	1608				
+NBFAOAKO_01234	CDS	1608				TonB-dependent receptor P3
+NBFAOAKO_01235	gene	459	queA_2			
+NBFAOAKO_01235	CDS	459	queA_2	2.4.99.17	COG0809	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NBFAOAKO_01236	gene	1941	nadE			
+NBFAOAKO_01236	CDS	1941	nadE	6.3.5.1	COG0171	Glutamine-dependent NAD(+) synthetase
+NBFAOAKO_01237	gene	315				
+NBFAOAKO_01237	CDS	315				hypothetical protein
+NBFAOAKO_01238	gene	546	fabD			
+NBFAOAKO_01238	CDS	546	fabD	2.3.1.39		Malonyl CoA-acyl carrier protein transacylase
+NBFAOAKO_01239	gene	1698	glgE			
+NBFAOAKO_01239	CDS	1698	glgE	2.4.99.16		Alpha-1,4-glucan:maltose-1-phosphate maltosyltransferase
+NBFAOAKO_01240	gene	120				
+NBFAOAKO_01240	CDS	120				hypothetical protein
+NBFAOAKO_01241	gene	1446	patA_2			
+NBFAOAKO_01241	CDS	1446	patA_2	2.3.1.-	COG1696	Peptidoglycan O-acetyltransferase
+NBFAOAKO_01242	gene	1329				
+NBFAOAKO_01242	CDS	1329				hypothetical protein
+NBFAOAKO_01243	gene	171				
+NBFAOAKO_01243	CDS	171				hypothetical protein
+NBFAOAKO_01244	gene	1401	murC			
+NBFAOAKO_01244	CDS	1401	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+NBFAOAKO_01245	gene	1002				
+NBFAOAKO_01245	CDS	1002				hypothetical protein
+NBFAOAKO_01246	gene	1386	yidE			
+NBFAOAKO_01246	CDS	1386	yidE			Putative transport protein YidE
+NBFAOAKO_01247	gene	957				
+NBFAOAKO_01247	CDS	957				hypothetical protein
+NBFAOAKO_01248	gene	450	gcdC			
+NBFAOAKO_01248	CDS	450	gcdC	7.2.4.5	COG0511	Glutaconyl-CoA decarboxylase subunit gamma
+NBFAOAKO_01249	gene	924	folD			
+NBFAOAKO_01249	CDS	924	folD		COG0190	Bifunctional protein FolD protein
+NBFAOAKO_01250	gene	180				
+NBFAOAKO_01250	CDS	180				hypothetical protein
+NBFAOAKO_01251	gene	234	rsxB			
+NBFAOAKO_01251	CDS	234	rsxB	7.-.-.-		Ion-translocating oxidoreductase complex subunit B
+NBFAOAKO_01252	gene	1083	korA_2			
+NBFAOAKO_01252	CDS	1083	korA_2	1.2.7.3	COG0674	2-oxoglutarate oxidoreductase subunit KorA
+NBFAOAKO_01253	gene	612				
+NBFAOAKO_01253	CDS	612				hypothetical protein
+NBFAOAKO_01254	gene	552				
+NBFAOAKO_01254	CDS	552		3.5.1.104	COG0726	Peptidoglycan-N-acetylglucosamine deacetylase
+NBFAOAKO_01255	gene	1926				
+NBFAOAKO_01255	CDS	1926				hypothetical protein
+NBFAOAKO_01256	gene	771	tsaD			
+NBFAOAKO_01256	CDS	771	tsaD	2.3.1.234	COG0533	tRNA N6-adenosine threonylcarbamoyltransferase
+NBFAOAKO_01257	gene	492	pncC			
+NBFAOAKO_01257	CDS	492	pncC	3.5.1.42	COG1546	Nicotinamide-nucleotide amidohydrolase PncC
+NBFAOAKO_01258	gene	897				
+NBFAOAKO_01258	CDS	897				hypothetical protein
+NBFAOAKO_01259	gene	297				
+NBFAOAKO_01259	CDS	297				hypothetical protein
+NBFAOAKO_01260	gene	975	radA			
+NBFAOAKO_01260	CDS	975	radA			DNA repair protein RadA
+NBFAOAKO_01261	gene	675	trmD			
+NBFAOAKO_01261	CDS	675	trmD	2.1.1.228		tRNA (guanine-N(1)-)-methyltransferase
+NBFAOAKO_01262	gene	939				
+NBFAOAKO_01262	CDS	939				hypothetical protein
+NBFAOAKO_01263	gene	966	pepP			
+NBFAOAKO_01263	CDS	966	pepP	3.4.11.9	COG0006	Xaa-Pro aminopeptidase
+NBFAOAKO_01264	gene	1086	rfbB			
+NBFAOAKO_01264	CDS	1086	rfbB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+NBFAOAKO_01265	gene	411	fdtA			
+NBFAOAKO_01265	CDS	411	fdtA	5.3.2.3		TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+NBFAOAKO_01266	gene	939				
+NBFAOAKO_01266	CDS	939				hypothetical protein
+NBFAOAKO_01267	gene	861				
+NBFAOAKO_01267	CDS	861				hypothetical protein
+NBFAOAKO_01268	gene	1593				
+NBFAOAKO_01268	CDS	1593				hypothetical protein
+NBFAOAKO_01269	gene	438				
+NBFAOAKO_01269	CDS	438				hypothetical protein
+NBFAOAKO_01270	gene	273				
+NBFAOAKO_01270	CDS	273				hypothetical protein
+NBFAOAKO_01271	gene	555				
+NBFAOAKO_01271	CDS	555				hypothetical protein
+NBFAOAKO_01272	gene	1029				
+NBFAOAKO_01272	CDS	1029				hypothetical protein
+NBFAOAKO_01273	gene	972				
+NBFAOAKO_01273	CDS	972				hypothetical protein
+NBFAOAKO_01274	gene	465				
+NBFAOAKO_01274	CDS	465				hypothetical protein
+NBFAOAKO_01275	gene	1410				
+NBFAOAKO_01275	CDS	1410				hypothetical protein
+NBFAOAKO_01276	gene	972	cbiKp			
+NBFAOAKO_01276	CDS	972	cbiKp	4.99.1.3	COG4822	Sirohydrochlorin cobaltochelatase CbiKP
+NBFAOAKO_01277	gene	591				
+NBFAOAKO_01277	CDS	591				hypothetical protein
+NBFAOAKO_01278	gene	1824				
+NBFAOAKO_01278	CDS	1824				hypothetical protein
+NBFAOAKO_01279	gene	807				
+NBFAOAKO_01279	CDS	807				hypothetical protein
+NBFAOAKO_01280	gene	963				
+NBFAOAKO_01280	CDS	963				hypothetical protein
+NBFAOAKO_01281	gene	213				
+NBFAOAKO_01281	CDS	213				hypothetical protein
+NBFAOAKO_01282	gene	270				
+NBFAOAKO_01282	CDS	270				hypothetical protein
+NBFAOAKO_01283	gene	561				
+NBFAOAKO_01283	CDS	561				hypothetical protein
+NBFAOAKO_01284	gene	267				
+NBFAOAKO_01284	CDS	267				hypothetical protein
+NBFAOAKO_01285	gene	1554	pccB			
+NBFAOAKO_01285	CDS	1554	pccB	6.4.1.3	COG4799	Propionyl-CoA carboxylase beta chain
+NBFAOAKO_01286	gene	405	epi			
+NBFAOAKO_01286	CDS	405	epi	5.1.99.-	COG0346	Ethylmalonyl-CoA/methylmalonyl-CoA epimerase
+NBFAOAKO_01287	gene	414				
+NBFAOAKO_01287	CDS	414				hypothetical protein
+NBFAOAKO_01288	gene	546	ccsA			
+NBFAOAKO_01288	CDS	546	ccsA			Cytochrome c biogenesis protein CcsA
+NBFAOAKO_01289	gene	378				
+NBFAOAKO_01289	CDS	378				hypothetical protein
+NBFAOAKO_01290	gene	543				
+NBFAOAKO_01290	CDS	543				hypothetical protein
+NBFAOAKO_01291	gene	489				
+NBFAOAKO_01291	CDS	489				hypothetical protein
+NBFAOAKO_01292	gene	1056				
+NBFAOAKO_01292	CDS	1056				hypothetical protein
+NBFAOAKO_01293	gene	153				
+NBFAOAKO_01293	CDS	153				hypothetical protein
+NBFAOAKO_01294	gene	378				
+NBFAOAKO_01294	CDS	378				hypothetical protein
+NBFAOAKO_01295	gene	573				
+NBFAOAKO_01295	CDS	573				hypothetical protein
+NBFAOAKO_01296	gene	2037				
+NBFAOAKO_01296	CDS	2037				hypothetical protein
+NBFAOAKO_01297	gene	1317	pepD_2			
+NBFAOAKO_01297	CDS	1317	pepD_2	3.4.13.18	COG2195	Cytosol non-specific dipeptidase
+NBFAOAKO_01298	gene	630	rplD			
+NBFAOAKO_01298	CDS	630	rplD			50S ribosomal protein L4
+NBFAOAKO_01299	gene	294	rplW			
+NBFAOAKO_01299	CDS	294	rplW		COG0089	50S ribosomal protein L23
+NBFAOAKO_01300	gene	825	rplB			
+NBFAOAKO_01300	CDS	825	rplB		COG0090	50S ribosomal protein L2
+NBFAOAKO_01301	gene	267	rpsS			
+NBFAOAKO_01301	CDS	267	rpsS			30S ribosomal protein S19
+NBFAOAKO_01302	gene	405				
+NBFAOAKO_01302	CDS	405				hypothetical protein
+NBFAOAKO_01303	gene	573	oadB			
+NBFAOAKO_01303	CDS	573	oadB	7.2.4.2	COG1883	Oxaloacetate decarboxylase beta chain
+NBFAOAKO_01304	gene	585	malT			
+NBFAOAKO_01304	CDS	585	malT			HTH-type transcriptional regulator MalT
+NBFAOAKO_01305	gene	957				
+NBFAOAKO_01305	CDS	957				hypothetical protein
+NBFAOAKO_01306	gene	93				
+NBFAOAKO_01306	CDS	93				hypothetical protein
+NBFAOAKO_01307	gene	1731	lysS			
+NBFAOAKO_01307	CDS	1731	lysS	6.1.1.6		Lysine--tRNA ligase
+NBFAOAKO_01308	gene	1224	fpgS			
+NBFAOAKO_01308	CDS	1224	fpgS	6.3.2.17		Folylpolyglutamate synthase
+NBFAOAKO_01309	gene	462				
+NBFAOAKO_01309	CDS	462				hypothetical protein
+NBFAOAKO_01310	gene	456				
+NBFAOAKO_01310	CDS	456				hypothetical protein
+NBFAOAKO_01311	gene	954	qmcA			
+NBFAOAKO_01311	CDS	954	qmcA		COG0330	Protein QmcA
+NBFAOAKO_01312	gene	264				
+NBFAOAKO_01312	CDS	264				hypothetical protein
+NBFAOAKO_01313	gene	306				
+NBFAOAKO_01313	CDS	306				hypothetical protein
+NBFAOAKO_01314	gene	465				
+NBFAOAKO_01314	CDS	465				hypothetical protein
+NBFAOAKO_01315	gene	1251	pgk			
+NBFAOAKO_01315	CDS	1251	pgk	2.7.2.3	COG0126	Phosphoglycerate kinase
+NBFAOAKO_01316	gene	663	queC			
+NBFAOAKO_01316	CDS	663	queC	6.3.4.20	COG0603	7-cyano-7-deazaguanine synthase
+NBFAOAKO_01317	gene	270				
+NBFAOAKO_01317	CDS	270				hypothetical protein
+NBFAOAKO_01318	gene	699	truB			
+NBFAOAKO_01318	CDS	699	truB	5.4.99.25	COG0130	tRNA pseudouridine synthase B
+NBFAOAKO_01319	gene	879	uppP			
+NBFAOAKO_01319	CDS	879	uppP	3.6.1.27		Undecaprenyl-diphosphatase
+NBFAOAKO_01320	gene	249				
+NBFAOAKO_01320	CDS	249				hypothetical protein
+NBFAOAKO_01321	gene	534	ftsX			
+NBFAOAKO_01321	CDS	534	ftsX		COG2177	Cell division protein FtsX
+NBFAOAKO_01322	gene	336				
+NBFAOAKO_01322	CDS	336				hypothetical protein
+NBFAOAKO_01323	gene	381	dksA			
+NBFAOAKO_01323	CDS	381	dksA			RNA polymerase-binding transcription factor DksA
+NBFAOAKO_01324	gene	633	lspA			
+NBFAOAKO_01324	CDS	633	lspA	3.4.23.36		Lipoprotein signal peptidase
+NBFAOAKO_01325	gene	903				
+NBFAOAKO_01325	CDS	903				hypothetical protein
+NBFAOAKO_01326	gene	222				
+NBFAOAKO_01326	CDS	222				hypothetical protein
+NBFAOAKO_01327	gene	1560				
+NBFAOAKO_01327	CDS	1560				hypothetical protein
+NBFAOAKO_01328	gene	444	tadA_2			
+NBFAOAKO_01328	CDS	444	tadA_2	3.5.4.33		tRNA-specific adenosine deaminase
+NBFAOAKO_01329	gene	1896	prlC			
+NBFAOAKO_01329	CDS	1896	prlC	3.4.24.70	COG0339	Oligopeptidase A
+NBFAOAKO_01330	gene	333				
+NBFAOAKO_01330	CDS	333				hypothetical protein
+NBFAOAKO_01331	gene	390				
+NBFAOAKO_01331	CDS	390				hypothetical protein
+NBFAOAKO_01332	gene	1965	fusA			
+NBFAOAKO_01332	CDS	1965	fusA		COG0480	Elongation factor G
+NBFAOAKO_01333	gene	486				
+NBFAOAKO_01333	CDS	486				hypothetical protein
+NBFAOAKO_01334	gene	609				
+NBFAOAKO_01334	CDS	609				hypothetical protein
+NBFAOAKO_01335	gene	228				
+NBFAOAKO_01335	CDS	228				hypothetical protein
+NBFAOAKO_01336	gene	384				
+NBFAOAKO_01336	CDS	384				hypothetical protein
+NBFAOAKO_01337	gene	309				
+NBFAOAKO_01337	CDS	309				hypothetical protein
+NBFAOAKO_01338	gene	558				
+NBFAOAKO_01338	CDS	558				hypothetical protein
+NBFAOAKO_01339	gene	228				
+NBFAOAKO_01339	CDS	228				hypothetical protein
+NBFAOAKO_01340	gene	1233				
+NBFAOAKO_01340	CDS	1233				hypothetical protein
+NBFAOAKO_01341	gene	987	btuB_5			
+NBFAOAKO_01341	CDS	987	btuB_5			Vitamin B12 transporter BtuB
+NBFAOAKO_01342	gene	396	secY			
+NBFAOAKO_01342	CDS	396	secY		COG0201	Protein translocase subunit SecY
+NBFAOAKO_01343	gene	750	map			
+NBFAOAKO_01343	CDS	750	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+NBFAOAKO_01344	gene	219	infA			
+NBFAOAKO_01344	CDS	219	infA			Translation initiation factor IF-1
+NBFAOAKO_01345	gene	117	ykgO			
+NBFAOAKO_01345	CDS	117	ykgO		COG0257	50S ribosomal protein L36 2
+NBFAOAKO_01346	gene	381	rpsM			
+NBFAOAKO_01346	CDS	381	rpsM			30S ribosomal protein S13
+NBFAOAKO_01347	gene	2100	recG			
+NBFAOAKO_01347	CDS	2100	recG	3.6.4.12	COG1200	ATP-dependent DNA helicase RecG
+NBFAOAKO_01348	gene	117				
+NBFAOAKO_01348	CDS	117				hypothetical protein
+NBFAOAKO_01349	gene	1065	pepT			
+NBFAOAKO_01349	CDS	1065	pepT	3.4.11.4	COG2195	Peptidase T
+NBFAOAKO_01350	gene	186				
+NBFAOAKO_01350	CDS	186				hypothetical protein
+NBFAOAKO_01351	gene	1026	ansA			
+NBFAOAKO_01351	CDS	1026	ansA	3.5.1.1	COG0252	L-asparaginase 1
+NBFAOAKO_01352	gene	648	btuB_6			
+NBFAOAKO_01352	CDS	648	btuB_6			Vitamin B12 transporter BtuB
+NBFAOAKO_01353	gene	516				
+NBFAOAKO_01353	CDS	516				hypothetical protein
+NBFAOAKO_01354	gene	942	apbE			
+NBFAOAKO_01354	CDS	942	apbE	2.7.1.180	COG1477	FAD:protein FMN transferase
+NBFAOAKO_01355	gene	603				
+NBFAOAKO_01355	CDS	603				hypothetical protein
+NBFAOAKO_01356	gene	1380	tkt			
+NBFAOAKO_01356	CDS	1380	tkt	2.2.1.1		Transketolase
+NBFAOAKO_01357	gene	444	rpiB			
+NBFAOAKO_01357	CDS	444	rpiB	5.3.1.6	COG0698	Ribose-5-phosphate isomerase B
+NBFAOAKO_01358	gene	477				
+NBFAOAKO_01358	CDS	477				hypothetical protein
+NBFAOAKO_01359	gene	498				
+NBFAOAKO_01359	CDS	498				hypothetical protein
+NBFAOAKO_01360	gene	483				
+NBFAOAKO_01360	CDS	483				hypothetical protein
+NBFAOAKO_01361	gene	789				
+NBFAOAKO_01361	CDS	789				hypothetical protein
+NBFAOAKO_01362	gene	750	fabG			
+NBFAOAKO_01362	CDS	750	fabG	1.1.1.100		3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NBFAOAKO_01363	gene	231				
+NBFAOAKO_01363	CDS	231				hypothetical protein
+NBFAOAKO_01364	gene	675	epsN			
+NBFAOAKO_01364	CDS	675	epsN	2.6.1.-	COG0399	Putative pyridoxal phosphate-dependent aminotransferase EpsN
+NBFAOAKO_01365	gene	1509	gcvPB			
+NBFAOAKO_01365	CDS	1509	gcvPB	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 2
+NBFAOAKO_01366	gene	522	gcvPA			
+NBFAOAKO_01366	CDS	522	gcvPA	1.4.4.2		putative glycine dehydrogenase (decarboxylating) subunit 1
+NBFAOAKO_01367	gene	726				
+NBFAOAKO_01367	CDS	726				hypothetical protein
+NBFAOAKO_01368	gene	969				
+NBFAOAKO_01368	CDS	969				hypothetical protein
+NBFAOAKO_01369	gene	1032	cobD_1			
+NBFAOAKO_01369	CDS	1032	cobD_1	4.1.1.81	COG0079	Threonine-phosphate decarboxylase
+NBFAOAKO_01370	gene	942	cobD_2			
+NBFAOAKO_01370	CDS	942	cobD_2		COG1270	Cobalamin biosynthesis protein CobD
+NBFAOAKO_01371	gene	504				
+NBFAOAKO_01371	CDS	504				hypothetical protein
+NBFAOAKO_01372	gene	180				
+NBFAOAKO_01372	CDS	180				hypothetical protein
+NBFAOAKO_01373	gene	489	dinG_2			
+NBFAOAKO_01373	CDS	489	dinG_2	3.1.-.-		3'-5' exonuclease DinG
+NBFAOAKO_01374	gene	768	mazG			
+NBFAOAKO_01374	CDS	768	mazG	3.6.1.8	COG1694	Nucleoside triphosphate pyrophosphohydrolase
+NBFAOAKO_01375	gene	564				
+NBFAOAKO_01375	CDS	564				hypothetical protein
+NBFAOAKO_01376	gene	174				
+NBFAOAKO_01376	CDS	174				hypothetical protein
+NBFAOAKO_01377	gene	432				
+NBFAOAKO_01377	CDS	432				hypothetical protein
+NBFAOAKO_01378	gene	963	wcaJ			
+NBFAOAKO_01378	CDS	963	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+NBFAOAKO_01379	gene	1200				
+NBFAOAKO_01379	CDS	1200				hypothetical protein
+NBFAOAKO_01380	gene	414				
+NBFAOAKO_01380	CDS	414				hypothetical protein
+NBFAOAKO_01381	gene	600				
+NBFAOAKO_01381	CDS	600				hypothetical protein
+NBFAOAKO_01382	gene	141				
+NBFAOAKO_01382	CDS	141				hypothetical protein
+NBFAOAKO_01383	gene	816				
+NBFAOAKO_01383	CDS	816				hypothetical protein
+NBFAOAKO_01384	gene	1011	fabH			
+NBFAOAKO_01384	CDS	1011	fabH	2.3.1.180	COG0332	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NBFAOAKO_01385	gene	453	dtd			
+NBFAOAKO_01385	CDS	453	dtd	3.1.1.96	COG1490	D-aminoacyl-tRNA deacylase
+NBFAOAKO_01386	gene	999	uvrC			
+NBFAOAKO_01386	CDS	999	uvrC		COG0322	UvrABC system protein C
+NBFAOAKO_01387	gene	741	aroE			
+NBFAOAKO_01387	CDS	741	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+NBFAOAKO_01388	gene	735	menG			
+NBFAOAKO_01388	CDS	735	menG	2.1.1.163		Demethylmenaquinone methyltransferase
+NBFAOAKO_01389	gene	1020	bamB			
+NBFAOAKO_01389	CDS	1020	bamB			Outer membrane protein assembly factor BamB
+NBFAOAKO_01390	gene	90				
+NBFAOAKO_01390	CDS	90				hypothetical protein
+NBFAOAKO_01391	gene	273				
+NBFAOAKO_01391	CDS	273				hypothetical protein
+NBFAOAKO_01392	gene	177				
+NBFAOAKO_01392	CDS	177				hypothetical protein
+NBFAOAKO_01393	gene	1293	polC_2			
+NBFAOAKO_01393	CDS	1293	polC_2	2.7.7.7		DNA polymerase III PolC-type
+NBFAOAKO_01394	gene	330				
+NBFAOAKO_01394	CDS	330				hypothetical protein
+NBFAOAKO_01395	gene	1188	patB			
+NBFAOAKO_01395	CDS	1188	patB	4.4.1.13	COG1168	Cystathionine beta-lyase PatB
+NBFAOAKO_01396	gene	321				
+NBFAOAKO_01396	CDS	321				hypothetical protein
+NBFAOAKO_01397	gene	573				
+NBFAOAKO_01397	CDS	573				hypothetical protein
+NBFAOAKO_01398	gene	636	udk_2			
+NBFAOAKO_01398	CDS	636	udk_2	2.7.1.48		Uridine kinase
+NBFAOAKO_01399	gene	942				
+NBFAOAKO_01399	CDS	942				hypothetical protein
+NBFAOAKO_01400	gene	1245	btuB_7			
+NBFAOAKO_01400	CDS	1245	btuB_7			Vitamin B12 transporter BtuB
+NBFAOAKO_01401	gene	639	bioF			
+NBFAOAKO_01401	CDS	639	bioF	2.3.1.47		8-amino-7-oxononanoate synthase
+NBFAOAKO_01402	gene	297	rhaS_2			
+NBFAOAKO_01402	CDS	297	rhaS_2			HTH-type transcriptional activator RhaS
+NBFAOAKO_01403	gene	561				
+NBFAOAKO_01403	CDS	561				hypothetical protein
+NBFAOAKO_01404	gene	279				
+NBFAOAKO_01404	CDS	279				hypothetical protein
+NBFAOAKO_01405	gene	894				
+NBFAOAKO_01405	CDS	894				hypothetical protein
+NBFAOAKO_01406	gene	240				
+NBFAOAKO_01406	CDS	240				hypothetical protein
+NBFAOAKO_01407	gene	1050	rbbA			
+NBFAOAKO_01407	CDS	1050	rbbA		COG0842	Ribosome-associated ATPase
+NBFAOAKO_01408	gene	1194	carB			
+NBFAOAKO_01408	CDS	1194	carB	6.3.5.5	COG0458	Carbamoyl-phosphate synthase large chain
+NBFAOAKO_01409	gene	255	ugd			
+NBFAOAKO_01409	CDS	255	ugd	1.1.1.22	COG1004	UDP-glucose 6-dehydrogenase
+NBFAOAKO_01410	gene	600				
+NBFAOAKO_01410	CDS	600				hypothetical protein
+NBFAOAKO_01411	gene	948				
+NBFAOAKO_01411	CDS	948				hypothetical protein
+NBFAOAKO_01412	gene	192				
+NBFAOAKO_01412	CDS	192				hypothetical protein
+NBFAOAKO_01413	gene	471				
+NBFAOAKO_01413	CDS	471				hypothetical protein
+NBFAOAKO_01414	gene	189				
+NBFAOAKO_01414	CDS	189				hypothetical protein
+NBFAOAKO_01415	gene	735	ycbB			
+NBFAOAKO_01415	CDS	735	ycbB	2.-.-.-	COG2989	putative L,D-transpeptidase YcbB
+NBFAOAKO_01416	gene	561	sigW			
+NBFAOAKO_01416	CDS	561	sigW		COG1595	ECF RNA polymerase sigma factor SigW
+NBFAOAKO_01417	gene	234	tolQ			
+NBFAOAKO_01417	CDS	234	tolQ			Tol-Pal system protein TolQ
+NBFAOAKO_01418	gene	675				
+NBFAOAKO_01418	CDS	675				hypothetical protein
+NBFAOAKO_01419	gene	648				
+NBFAOAKO_01419	CDS	648				hypothetical protein
+NBFAOAKO_01420	gene	585				
+NBFAOAKO_01420	CDS	585				hypothetical protein
+NBFAOAKO_01421	gene	288				
+NBFAOAKO_01421	CDS	288				hypothetical protein
+NBFAOAKO_01422	gene	474	rnfE			
+NBFAOAKO_01422	CDS	474	rnfE	7.2.1.2	COG4660	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit E
+NBFAOAKO_01423	gene	603	rnfA			
+NBFAOAKO_01423	CDS	603	rnfA	7.2.1.2	COG4657	Na(+)-translocating ferredoxin:NAD(+) oxidoreductase complex subunit A
+NBFAOAKO_01424	gene	879				
+NBFAOAKO_01424	CDS	879			COG0327	GTP cyclohydrolase 1 type 2 
+NBFAOAKO_01425	gene	594				
+NBFAOAKO_01425	CDS	594				hypothetical protein
+NBFAOAKO_01426	gene	483				
+NBFAOAKO_01426	CDS	483				hypothetical protein
+NBFAOAKO_01427	gene	1164	priA			
+NBFAOAKO_01427	CDS	1164	priA	3.6.4.-		primosomal protein N'
+NBFAOAKO_01428	gene	438				
+NBFAOAKO_01428	CDS	438				hypothetical protein
+NBFAOAKO_01429	gene	477				
+NBFAOAKO_01429	CDS	477				hypothetical protein
+NBFAOAKO_01430	gene	528	sigH			
+NBFAOAKO_01430	CDS	528	sigH		COG1595	ECF RNA polymerase sigma factor SigH
+NBFAOAKO_01431	gene	153				
+NBFAOAKO_01431	CDS	153				hypothetical protein
+NBFAOAKO_01432	gene	1443	pal_4			
+NBFAOAKO_01432	CDS	1443	pal_4			Peptidoglycan-associated lipoprotein
+NBFAOAKO_01433	gene	1338	dnaE			
+NBFAOAKO_01433	CDS	1338	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+NBFAOAKO_01434	gene	927				
+NBFAOAKO_01434	CDS	927				hypothetical protein
+NBFAOAKO_01435	gene	405				
+NBFAOAKO_01435	CDS	405				hypothetical protein
