@@ -1,0 +1,7 @@
+
+# Ignore folders
+/ppa_output/
+/ppa_db/
+/roary_output/
+/roary_output_w_aln/
+/checkm_output/
